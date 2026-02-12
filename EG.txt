@@ -1,0 +1,265 @@
+SAFREAENRT   03SML HE           N25363510E030380700                                                                                 
+SAFREAENRT   17AST HE           N26195010E029000600                                                                                 
+SAFREAENRT   2530E HE           N25000000E030000000                                                                                 
+SAFREAENRT   57SML HE           N26285510E0301941100                                                                                
+SAFREAENRT   ALEBA HE           N22000000E035270000                                                                                 
+SAFREAENRT   ALPHA HE           N30062228E030550616                                                                                 
+SAFREAENRT   ALPID HE           N29235410E031181100                                                                                 
+SAFREAENRT   ALTOX HE           N30335210E031162200                                                                                 
+SAFREAENRT   ARH08 HE           N30573034E033544222                                                                                 
+SAFREAENRT   ARH14 HE           N30554720E033555399                                                                                 
+SAFREAENRT   ARH15 HE           N30550132E033540466                                                                                 
+SAFREAENRT   ARH16 HE           N30543247E033520778                                                                                 
+SAFREAENRT   ASRAB HE           N25472600E033061900                                                                                 
+SAFREAENRT   AST52 HE           N26431800E030072200                                                                                 
+SAFREAENRT   AST72 HE           N26360200E029461800                                                                                 
+SAFREAENRT   ATMUL HE           N22000000E0290526100                                                                                
+SAFREAENRT   AVIVA HE           N25481710E030202900                                                                                 
+SAFREAENRT   AXD00 HE           N31101297E029565642                                                                                 
+SAFREAENRT   AXD01 HE           N31102899E029561357                                                                                 
+SAFREAENRT   AXD07 HE           N31060482E029512745                                                                                 
+SAFREAENRT   AXD09 HE           N31043672E029495217                                                                                 
+SAFREAENRT   AXD10 HE           N31022193E029513343                                                                                 
+SAFREAENRT   AXD18 HE           N31021274E029561743                                                                                 
+SAFREAENRT   AXD70 HE           N31041280E029562716                                                                                 
+SAFREAENRT   AXD80 HE           N31023741E029510158                                                                                 
+SAFREAENRT   AXD93 HE           N31020419E029535258                                                                                 
+SAFREAENRT   AXD97 HE           N31014786E029530246                                                                                 
+SAFREAENRT   AXDNB HE           N31114170E029570910                                                                                 
+SAFREAENRT   BLT17 HE           N31142900E031103500                                                                                 
+SAFREAENRT   BOMOR HE           N24503000E025000000                                                                                 
+SAFREAENRT   BOVAR HE           N24413910E032241900                                                                                 
+SAFREAENRT   BRAVO HE           N30013093E030563181                                                                                 
+SAFREAENRT   CAI01 HE           N30121750E031295396                                                                                 
+SAFREAENRT   CAI03 HE           N30071112E031224690                                                                                 
+SAFREAENRT   CAI07 HE           N30133785E031313764                                                                                 
+SAFREAENRT   CAI10 HE           N30024005E031163607                                                                                 
+SAFREAENRT   CAI12 HE           N30012254E031145022                                                                                 
+SAFREAENRT   CAI27 HE           N30013500E031150019                                                                                 
+SAFREAENRT   CAI51 HE           N30024370E031163641                                                                                 
+SAFREAENRT   CAI52 HE           N30044682E031192642                                                                                 
+SAFREAENRT   CAI53 HE           N30060377E031211279                                                                                 
+SAFREAENRT   CAI54 HE           N30070142E031223261                                                                                 
+SAFREAENRT   CAI55 HE           N30114322E031290637                                                                                 
+SAFREAENRT   CAI70 HE           N30043625E031191493                                                                                 
+SAFREAENRT   CHRLY HE           N29563957E030575732                                                                                 
+SAFREAENRT   CVO02 HE           N30041492E031213228                                                                                 
+SAFREAENRT   CVO20 HE           N29561821E031184829                                                                                 
+SAFREAENRT   CVO21 HE           N29573784E031161276                                                                                 
+SAFREAENRT   CVO25 HE           N29405910E031200600                                                                                 
+SAFREAENRT   CVO27 HE           N29590514E031142869                                                                                 
+SAFREAENRT   CVO29 HE           N30040843E031213084                                                                                 
+SAFREAENRT   CVO45 HE           N30023815E031191983                                                                                 
+SAFREAENRT   CVO53 HE           N30023620E031192320                                                                                 
+SAFREAENRT   CVO58 HE           N30014782E031181099                                                                                 
+SAFREAENRT   CVO67 HE           N30014238E031180877                                                                                 
+SAFREAENRT   DAMPO HE           N25470700E0292707100                                                                                
+SAFREAENRT   DANAD HE           N28510600E0280608100                                                                                
+SAFREAENRT   DATOK HE           N29362400E0341359100                                                                                
+SAFREAENRT   DELTA HE           N29544001E030490225                                                                                 
+SAFREAENRT   DITAR HE           N26590300E025000000                                                                                 
+SAFREAENRT   ECHOO HE           N30124517E030531330                                                                                 
+SAFREAENRT   EGORA HE           N31040010E0340805100                                                                                
+SAFREAENRT   EMENA HE           N25374900E031514700                                                                                 
+SAFREAENRT   FAROE HE           N29594783E030392929                                                                                 
+SAFREAENRT   FXTRT HE           N30153892E030424985                                                                                 
+SAFREAENRT   GETOS HE           N25080010E0324705100                                                                                
+SAFREAENRT   GIDID HE           N28130000E0333805100                                                                                
+SAFREAENRT   ISMAH HE           N30360000E0321605100                                                                                
+SAFREAENRT   KATAB HE           N29250010E029050600                                                                                 
+SAFREAENRT   KHG07 HE           N25292310E0302706100                                                                                
+SAFREAENRT   KHG08 HE           N25193200E0303033100                                                                                
+SAFREAENRT   KHG56 HE           N26144800E030014800                                                                                 
+SAFREAENRT   KHG61 HE           N26243800E0301412100                                                                                
+SAFREAENRT   KHG88 HE           N25545500E028595600                                                                                 
+SAFREAENRT   KUNAK HE           N25274410E030411200                                                                                 
+SAFREAENRT   KUNKI HE           N29072600E029194900                                                                                 
+SAFREAENRT   LOPID HE           N23190000E031553000                                                                                 
+SAFREAENRT   LUBOS HE           N28420100E0311305100                                                                                
+SAFREAENRT   LUGAV HE           N22420500E031372200                                                                                 
+SAFREAENRT   LXR02 HE           N25495756E032463588                                                                                 
+SAFREAENRT   LXR11 HE           N25354244E032392929                                                                                 
+SAFREAENRT   LXR15 HE           N25322042E032370495                                                                                 
+SAFREAENRT   LXR22 HE           N25344121E032335844                                                                                 
+SAFREAENRT   LXR23 HE           N25361903E032323080                                                                                 
+SAFREAENRT   LXR37 HE           N25134100E033090500                                                                                 
+SAFREAENRT   LXR38 HE           N25473675E032483955                                                                                 
+SAFREAENRT   LXR43 HE           N25414246E032425952                                                                                 
+SAFREAENRT   LXR47 HE           N25185400E033293400                                                                                 
+SAFREAENRT   LXR65 HE           N25251800E0335456100                                                                                
+SAFREAENRT   LXR73 HE           N25384928E032414292                                                                                 
+SAFREAENRT   MENKU HE           N31053010E030180600                                                                                 
+SAFREAENRT   MENLI HE           N29470010E0315205100                                                                                
+SAFREAENRT   MISUK HE           N29050700E0290620100                                                                                
+SAFREAENRT   NABED HE           N27180100E0321705100                                                                                
+SAFREAENRT   NAKDO HE           N26055310E028210100                                                                                 
+SAFREAENRT   NALSO HE           N29321000E0345241100                                                                                
+SAFREAENRT   NANVO HE           N30525910E028150600                                                                                 
+SAFREAENRT   NUBAR HE           N22000000E031380600                                                                                 
+SAFREAENRT   ORLEX HE           N22573200E031185900                                                                                 
+SAFREAENRT   R1837 HE           N30071103E031224888                                                                                 
+SAFREAENRT   R1838 HE           N30055888E031235364                                                                                 
+SAFREAENRT   R1839 HE           N30072377E031254669                                                                                 
+SAFREAENRT   R1841 HE           N23565709E032492145                                                                                 
+SAFREAENRT   R1842 HE           N25410092E032424370                                                                                 
+SAFREAENRT   R2526 HE           N30082073E031242255                                                                                 
+SAFREAENRT   RASMI HE           N28590010E031450600                                                                                 
+SAFREAENRT   SEMRU HE           N28020010E032030600                                                                                 
+SAFREAENRT   SISIK HE           N29360000E032410600                                                                                 
+SAFREAENRT   SML06 HE           N22215110E0313051100                                                                                
+SAFREAENRT   SOBAM HE           N26452900E030133600                                                                                 
+SAFREAENRT   SOLAM HE           N29420100E0313105100                                                                                
+SAFREAENRT   TUDSI HE           N26411310E0300127100                                                                                
+SAFREAENRT   TULOP HE           N25220900E026222600                                                                                 
+SAFREAENRT   UMINI HE           N23490010E0341005100                                                                                
+SAFREAENRT   VUTAB HE           N25264800E0302801100                                                                                
+SAFREAENRT   XIL02 HE           N25424197E032433094                                                                                 
+SAFREAENRT   XIL05 HE           N25452860E032444804                                                                                 
+SAFREAENRT   XIL07 HE           N25412976E032425755                                                                                 
+SAFREAENRT   XIL64 HE           N25464635E032452404                                                                                 
+SAFREAENRT   XIL84 HE           N25470857E032453432                                                                                 
+SAFRDB       AXD   HE000403     N31114170E029570910                                                                                 
+SAFRDB       A     HE000490     N30042644E031213401                                                                                 
+SAFRDB       DJ    HE000563     N30523600E029435400                                                                                 
+SAFRDB       ALI   HE000310     N30100010E031230600                                                                                 
+SAFRDB       MKT   HE000317     N30023170E031163160                                                                                 
+SAFRDB       MB    HE000387     N25251470E029000510                                                                                 
+SAFRDB       D     HE000273     N30535310E0294244100                                                                                
+SAFRDB       LO    HE000364     N25441640E032441550                                                                                 
+SAFRDB       OCT   HE000340     N29484029E030494920                                                                                 
+SAFRDB       OWT   HE000301     N22345010E0284355100                                                                                
+SAFRDB       CAT   HE000262     N28410370E034033580                                                                                 
+SAFRDB       TBA   HE000315     N29362410E0344453100                                                                                
+SAFRD        SML   HE011350V    N22211760E031371920                                                                                 
+SAFRD        AXD   HE011590V    N31111210E029570130                                                                                 
+SAFRD        ASN   HE011230V    N23581842E032490105                                                                                 
+SAFRD        AST   HE011770V    N27015240E0310156100                                                                                
+SAFRD        BLT   HE011690V    N31314400E0310720100                                                                                
+SAFRD        CVO   HE011520V    N30053230E031231830                                                                                 
+SAFRD        CAI   HE011250V    N30090720E031252600                                                                                 
+SAFRD        DBA   HE011570V    N31004100E0282800100                                                                                
+SAFRD        KHG   HE011380V    N25265419E030352685                                                                                 
+SAFRD        FYM   HE011730V    N29235100E030233500                                                                                 
+SAFRD        LXR   HE011440V    N25445780E032460690                                                                                 
+SAFRD        BRN   HE011620V    N31343200E026002000                                                                                 
+SAFRD        TBA   HE011450V    N29362419E034475080                                                                                 
+SAFRD        IASU  HE011130 D   N27021943E031011356                                                                                 
+SAFRD        BIL   HE011130 D   N30542648E029421339                                                                                 
+SAFRD        IABS  HE010970 D   N22215810E031365930                                                                                 
+SAFRD        CRL   HE011090 D   N30072330E031225660                                                                                 
+SAFRD        IROT  HE010990 D   N30060270E031240510                                                                                 
+SAFRD        ILOT  HE010950 D   N30071430E031254140                                                                                 
+SAFRD        CRR   HE011030 D   N30081670E0312408100                                                                                
+SAFRD        XIL   HE011110 D   N25405040E032424414                                                                                 
+SAFRD        AIL   HE010950 D   N23570620E032492264                                                                                 
+SAFRD        ITBA  HE010950 D   N29343754E034455646                                                                                 
+SAFRD        SML   HE011350 D   N22211760E031371920                                                                                 
+SAFRD        AXD   HE011590 D   N31111210E029570130                                                                                 
+SAFRD        ASN   HE011230 D   N23581842E032490105                                                                                 
+SAFRD        AST   HE011770 D   N27015240E0310156100                                                                                
+SAFRD        BLT   HE011690 D   N31314400E0310720100                                                                                
+SAFRD        CVO   HE011520 D   N30053230E031231830                                                                                 
+SAFRD        CAI   HE011250 D   N30090720E031252600                                                                                 
+SAFRD        DBA   HE011570 D   N31004100E0282800100                                                                                
+SAFRD        KHG   HE011380 D   N25265419E030352685                                                                                 
+SAFRD        FYM   HE011730 D   N29235100E030233500                                                                                 
+SAFRD        LXR   HE011440 D   N25445780E032460690                                                                                 
+SAFRD        BRN   HE011620 D   N31343200E026002000                                                                                 
+SAFRD        TBA   HE011450 D   N29362419E034475080                                                                                 
+SAFRD        MXR   HE011630 D   N30053189E031212618                                                                                 
+SAFRD        BLA   HE011670 D   N30065580E030544200                                                                                 
+SAFRER       L321        001003SMLHEEA      O                                      19500     60000                                  
+SAFRER       L321        002057SMLHEEA      O                             0549     19500     60000                                  
+SAFRER       L321        0030SOBAMHEEA      O                             0174     19500     60000                                  
+SAFRER       L321        0040KUNKIHEEA      O                             1498     19500     60000                                  
+SAFRER       W615        001017ASTHEEA      O                                      19500     60000                                  
+SAFRER       W615        0020AST72HEEA      O                             0444     19500     60000                                  
+SAFRER       V608        001057SMLHEEA      OL                                     05500     60000                                  
+SAFRER       V608        0020AST  HED       OL                            0501     05500     60000                                  
+SAFRER       A791        0030SISIKHEEA      O                             1094     07000     60000                                  
+SAFRER       A791        0040MENLIHEEA      O                             0440     07000     60000                                  
+SAFRER       J10         0090NALSOHEEA      OH                                               19000                                  
+SAFRER       J10         0100LOT  OJD       OH                            0067               19000                                  
+SAFRER       G400        0040BLT  HED       O                             0649     06500     60000                                  
+SAFRER       V604        0010BLT17HEEA      OL                                     09500     60000                                  
+SAFRER       V604        0020PSD    D       OL                            0545     09500     60000                                  
+SAFRER       V738        0010BOVARHEEA      OL                                     05500     60000                                  
+SAFRER       V738        0020EMENAHEEA      OL                            0634     05500     60000                                  
+SAFRER       A727        0080NUBARHEEA      O                             2134     05500     24500                                  
+SAFRER       A727        0090SML  HED       O                             0213     05500     60000                                  
+SAFRER       A727        0100LOPIDHEEA      O                             0601     05500     60000                                  
+SAFRER       A727        0110BOVARHEEA      O                             0868     05500     60000                                  
+SAFRER       A727        0120LXR  HED       O                             0663     05500     60000                                  
+SAFRER       A727        0130NABEDHEEA      O                             0967     06500     60000                                  
+SAFRER       A727        0140SEMRUHEEA      O                             0457     06500     60000                                  
+SAFRER       A727        0150RASMIHEEA      O                             0592     06500     60000                                  
+SAFRER       A727        0160SOLAMHEEA      O                             0447     09500     60000                                  
+SAFRER       A727        0170CVO  HED       O                             0245     09500     60000                                  
+SAFRER       A145        0010LXR  HED       O                                      04500     28500                                  
+SAFRER       A145        0020EMENAHEEA      O                             0495     04500     28500                                  
+SAFRER       A145        0030KUNAKHEEA      O                             0645     04500     28500                                  
+SAFRER       A145        0040KHG  HED       O                             0053     04500     28500                                  
+SAFRER       W725        0010BRN  HED       O                                      08500     60000                                  
+SAFRER       W725        0020NANVOHEEA      O                             1226     08500     60000                                  
+SAFRER       W725        0030DBA  HED       O                             0135     05500     60000                                  
+SAFRER       W725        0040IMRUT  EA      O                             0649     05500     60000                                  
+SAFRER       W611        0010CAT  HED       O                                      11500     60000                                  
+SAFRER       W611        0020DELMA  EA      O                             0272     11500     60000                                  
+SAFRER       V603        0010CAT  HED       OL                                     11500     60000                                  
+SAFRER       V603        0020GIDIDHEEA      OL                            0359     11500     60000                                  
+SAFRER       V603        0030HGD    D       OL                            0630     11500     60000                                  
+SAFRER       V602        0010CVO  HED       OL                                     06500     60000                                  
+SAFRER       V602        0020ISMAHHEEA      OL                            0548     06500     60000                                  
+SAFRER       A1-A7       0010CVO  HED       O                                      09500     60000                                  
+SAFRER       A1-A7       0020MENKUHEEA      O                             0822     09500     60000                                  
+SAFRER       UR778       0010BOMORHEEA      O                                      25000     60000                                  
+SAFRER       UR778       0020KFR  HLD       O                             1012     25000     60000                                  
+SAFRER       R775        0040LXR  HED       O                             1907     08500     28500                                  
+SAFRER       W727        0030DBA  HED       O                             1184     04500     60000                                  
+SAFRER       W727        0040FYM  HED       O                             1392     04500     60000                                  
+SAFRER       W727        0050LUBOSHEEA      O                             0602     28000     60000                                  
+SAFRER       W727        0060SEMRUHEEA      O                             0595     28000     60000                                  
+SAFRER       W727        0070SHM    D       O                             1252     11500     60000                                  
+SAFRER       B12         0010KATABHEEA      O                                      04500     19500                                  
+SAFRER       B12         0020DBA  HED       O                             1010     04500     19500                                  
+SAFRER       B12         0030SOKAL  EA      O                             1048     04500     28500                                  
+SAFRER       B12         0050KHG61HEEA      O                                      04500     19500                                  
+SAFRER       B12         0060KHG  HED       O                             0608     04500     19500                                  
+SAFRER       B12         0070SML  HED       O                             1942     05500     19500                                  
+SAFRER       UM999       0060DITARHEEA      O                             1392     25000     46000                                  
+SAFRER       UM999       0070NAKDOHEEA      O                             1876     24500     60000                                  
+SAFRER       UM999       0080KHG88HEEA      O                             0367     24500     60000                                  
+SAFRER       UM999       0090DAMPOHEEA      O                             0257     24500     60000                                  
+SAFRER       UM999       0100KHG07HEEA      O                             0569     24500     60000                                  
+SAFRER       UM999       0110KHG  HED       O                             0079     24500     60000                                  
+SAFRER       R650        0030NALSOHEEA      O                             0321     11500     60000                                  
+SAFRER       V730        0010GETOSHEEA      OL                                     08500     60000                                  
+SAFRER       V730        0020LXR37HEEA      OL                            0207     08500     60000                                  
+SAFRER       V730        0030LXR47HEEA      OL                            0193     08500     60000                                  
+SAFRER       V730        0040LXR65HEEA      OL                            0238     08500     60000                                  
+SAFRER       V730        0050MAK    D       OL                            0365     11500     60000                                  
+SAFRER       L300-       0020LXR  HED       O                             2178     08500     60000                                  
+SAFRER       A451-       0010KATABHEEA      O                                      19500     60000                                  
+SAFRER       A451-       0020KUNKIHEEA      O                             0218     19500     60000                                  
+SAFRER       P557        0010KATABHEEA      O                                      19500     60000                                  
+SAFRER       P557        0020MISUKHEEA      O                             0199     19500     60000                                  
+SAFRER       P557        0030TUDSIHEEA      O                             1520     19500     60000                                  
+SAFRER       P557        0040MB83 HEEA      O                             0218     19500     60000                                  
+SAFRER       W605        0010OWT  HED       O                                      05500     60000                                  
+SAFRER       W605        0020SML06HEEA      O                             1549     05500     60000                                  
+SAFRER       W605        0030SML  HED       O                             0060     05500     60000                                  
+SAFRER       W976        0010SISIKHEEA      O                                      09500     60000                                  
+SAFRER       W976        0020TBA  HED       O                             1077     09500     60000                                  
+SAFRER       UL550       0200TBA  HED       O                             0347     28500     60000                                  
+SAFRER       R775-       0060LXR  HED       O                             1907     24500     60000                                  
+SAFRER       J981        0010DATOKHEEA      OH                                     26000     60000                                  
+SAFRER       J981        0020NWB    D       OH                            0414     26000     60000                                  
+SAFRER       UL612       0010DBA  HED       O                                      28500     60000                                  
+SAFRER       UL612       0020KANAR  EA      O                             1184     28500     60000                                  
+SAFRER       B12-U       0010DBA  HED       O                                      28500     60000                                  
+SAFRER       B12-U       0020SOKAL  EA      O                             1048     28500     60000                                  
+SAFRER       A145-       0010LXR  HED       O                                      24500     60000                                  
+SAFRER       A145-       0020EMENAHEEA      O                             0495     24500     60000                                  
+SAFRER       A145-       0030KUNAKHEEA      O                             0645     24500     60000                                  
+SAFRER       A145-       0040KHG  HED       O                             0053     24500     60000                                  
+SAFRER       UA727       0110NUBARHEEA      O                             2134     24500     60000                                  

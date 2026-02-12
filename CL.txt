@@ -1,0 +1,532 @@
+SSAMEAENRT   ALFER SC           S52555690W071131461                                                                                 
+SSAMEAENRT   ALMIR SC           S54000130W069483292                                                                                 
+SSAMEAENRT   AM70A SC           S32151159W070470964                                                                                 
+SSAMEAENRT   AM70B SC           S32154600W070511040                                                                                 
+SSAMEAENRT   AM90A SC           S31541045W070420010                                                                                 
+SSAMEAENRT   AMB00 SC           S33215209W070481426                                                                                 
+SSAMEAENRT   AMB05 SC           S33301156W070465751                                                                                 
+SSAMEAENRT   AMB10 SC           S33215652W070471644                                                                                 
+SSAMEAENRT   AMB12 SC           S33112777W070490123                                                                                 
+SSAMEAENRT   AMB15 SC           S33395568W070503264                                                                                 
+SSAMEAENRT   AMB19 SC           S33132784W070485276                                                                                 
+SSAMEAENRT   AMB22 SC           S33030845W070475861                                                                                 
+SSAMEAENRT   AMB23 SC           S33030873W070473118                                                                                 
+SSAMEAENRT   AMB28 SC           S33523822W070540380                                                                                 
+SSAMEAENRT   AMB36 SC           S34001028W070573230                                                                                 
+SSAMEAENRT   AMB38 SC           S32471203W070492870                                                                                 
+SSAMEAENRT   AMB40 SC           S34051557W070452286                                                                                 
+SSAMEAENRT   AMB45 SC           S33175783W070483369                                                                                 
+SSAMEAENRT   AMB46 SC           S32391481W070501311                                                                                 
+SSAMEAENRT   AMB53 SC           S33110564W070451764                                                                                 
+SSAMEAENRT   AMB54 SC           S33110959W070472124                                                                                 
+SSAMEAENRT   AMB54 SC           S32311614W070505895                                                                                 
+SSAMEAENRT   AMB70 SC           S32152309W070552265                                                                                 
+SSAMEAENRT   AMB72 SC           S33181032W070471252                                                                                 
+SSAMEAENRT   AMB77 SC           S33144581W070484725                                                                                 
+SSAMEAENRT   AMB89 SC           S33522388W070551189                                                                                 
+SSAMEAENRT   AMB99 SC           S33221074W070470752                                                                                 
+SSAMEAENRT   ANDAK SC           S30143708W071070884                                                                                 
+SSAMEAENRT   ANGOD SC           S34005344W070553009                                                                                 
+SSAMEAENRT   ANGOL SC           S37403139W072423221                                                                                 
+SSAMEAENRT   ANKON SC           S35120000W070300000                                                                                 
+SSAMEAENRT   ARGOS SC           S45154037W071543837                                                                                 
+SSAMEAENRT   ASALO SC           S30161346W0701807100                                                                                
+SSAMEAENRT   ATTES SC           S33181086W070472626                                                                                 
+SSAMEAENRT   BA304 SC           S46080302W071440771                                                                                 
+SSAMEAENRT   BA330 SC           S45312045W072000448                                                                                 
+SSAMEAENRT   BA331 SC           S45570797W072132274                                                                                 
+SSAMEAENRT   BALNB SC           S45550910W0714153100                                                                                
+SSAMEAENRT   BAMAN SC           S40284035W073302931                                                                                 
+SSAMEAENRT   BETRI SC           S47000000W072404000                                                                                 
+SSAMEAENRT   BLANK SC           S45535697W071493129                                                                                 
+SSAMEAENRT   BRAUN SC           S41213453W073052812                                                                                 
+SSAMEAENRT   BRONK SC           S53000898W071090434                                                                                 
+SSAMEAENRT   CALBU SC           S41210500W0723245100                                                                                
+SSAMEAENRT   CAR07 SC           S36515389W072462253                                                                                 
+SSAMEAENRT   CAR40 SC           S36172637W072273790                                                                                 
+SSAMEAENRT   CAR62 SC           S36343917W072535544                                                                                 
+SSAMEAENRT   CAR70 SC           S36510148W072483719                                                                                 
+SSAMEAENRT   CAR98 SC           S36333708W072560655                                                                                 
+SSAMEAENRT   CAR99 SC           S36305486W072542884                                                                                 
+SSAMEAENRT   CEPAM SC           S23193210W0690111100                                                                                
+SSAMEAENRT   CHINB SC           S36352000W072014500                                                                                 
+SSAMEAENRT   CISEY SC           S45383125W072020816                                                                                 
+SSAMEAENRT   CLDNB SC           S27043610W0704906100                                                                                
+SSAMEAENRT   COLAV SC           S45492676W071571130                                                                                 
+SSAMEAENRT   CRITA SC           S30105515W071064999                                                                                 
+SSAMEAENRT   D345H SC           S32471619W070520841                                                                                 
+SSAMEAENRT   D345P SC           S32374045W070540028                                                                                 
+SSAMEAENRT   D345X SC           S32313947W070555339                                                                                 
+SSAMEAENRT   D355H SC           S32470840W070502042                                                                                 
+SSAMEAENRT   D355P SC           S32391032W070502690                                                                                 
+SSAMEAENRT   D355X SC           S32305460W070503338                                                                                 
+SSAMEAENRT   DANKI SC           S18182400W070163000                                                                                 
+SSAMEAENRT   DARWN SC           S54574832W068441496                                                                                 
+SSAMEAENRT   DESIT SC           S33321186W070464622                                                                                 
+SSAMEAENRT   DILOK SC           S31560145W070380203                                                                                 
+SSAMEAENRT   ELBOS SC           S33283000W071072200                                                                                 
+SSAMEAENRT   ELSOM SC           S45501745W072111630                                                                                 
+SSAMEAENRT   EMBAL SC           S31200145W070513203                                                                                 
+SSAMEAENRT   ERCIL SC           S37382610W0721910100                                                                                
+SSAMEAENRT   ERONB SC           S32442000W071294800                                                                                 
+SSAMEAENRT   ESCOT SC           S35181542W072022413                                                                                 
+SSAMEAENRT   HUILO SC           S38533110W073043900                                                                                 
+SSAMEAENRT   ICONB SC           S34585110W071152000                                                                                 
+SSAMEAENRT   IQQ17 SC           S20052840W070084649                                                                                 
+SSAMEAENRT   JOFLO SC           S52565064W070562839                                                                                 
+SSAMEAENRT   KADAT SC           S23232910W0670759100                                                                                
+SSAMEAENRT   KALER SC           S33315300W070474200                                                                                 
+SSAMEAENRT   KAMUR SC           S37085910W0710849100                                                                                
+SSAMEAENRT   KARAK SC           S40254436W073053330                                                                                 
+SSAMEAENRT   KASOP SC           S33153352W070473470                                                                                 
+SSAMEAENRT   KENNY SC           S52482134W071075883                                                                                 
+SSAMEAENRT   KESAD SC           S26195510W0702434100                                                                                
+SSAMEAENRT   KILAK SC           S50220025W073460475                                                                                 
+SSAMEAENRT   KOLEG SC           S41152457W073131253                                                                                 
+SSAMEAENRT   KONRI SC           S24070000W0673159100                                                                                
+SSAMEAENRT   LAFRO SC           S45390652W072024739                                                                                 
+SSAMEAENRT   LAMIT SC           S33351221W070463869                                                                                 
+SSAMEAENRT   LANKE SC           S41154380W072571819                                                                                 
+SSAMEAENRT   LAPOL SC           S45400719W071471446                                                                                 
+SSAMEAENRT   LENOS SC           S39450310W072312700                                                                                 
+SSAMEAENRT   LESKO SC           S33261500W0710239100                                                                                
+SSAMEAENRT   LINER SC           S33553200W0704507100                                                                                
+SSAMEAENRT   LOICA SC           S30050463W071050154                                                                                 
+SSAMEAENRT   LOPAS SC           S30323592W070534077                                                                                 
+SSAMEAENRT   LORAC SC           S45543067W071445883                                                                                 
+SSAMEAENRT   MACAR SC           S30410645W071224302                                                                                 
+SSAMEAENRT   MACKE SC           S24271710W070152800                                                                                 
+SSAMEAENRT   MAULE SC           S35250943W071263013                                                                                 
+SSAMEAENRT   MESAL SC           S33113331W070474755                                                                                 
+SSAMEAENRT   MIBAS SC           S30465910W070173000                                                                                 
+SSAMEAENRT   MON01 SC           S41244494W073053239                                                                                 
+SSAMEAENRT   MON02 SC           S41274469W073054492                                                                                 
+SSAMEAENRT   MON05 SC           S41204469W073053796                                                                                 
+SSAMEAENRT   MON06 SC           S41314405W073061280                                                                                 
+SSAMEAENRT   MON07 SC           S41253375W072521299                                                                                 
+SSAMEAENRT   MON08 SC           S41261865W072505409                                                                                 
+SSAMEAENRT   MON10 SC           S41154437W073054489                                                                                 
+SSAMEAENRT   MON11 SC           S41364326W073064774                                                                                 
+SSAMEAENRT   MON13 SC           S41124417W073054905                                                                                 
+SSAMEAENRT   MON14 SC           S41394278W073070874                                                                                 
+SSAMEAENRT   MON16 SC           S41364326W073041426                                                                                 
+SSAMEAENRT   MON17 SC           S41354236W073061008                                                                                 
+SSAMEAENRT   MON18 SC           S41362320W073091886                                                                                 
+SSAMEAENRT   MON20 SC           S41055517W073014995                                                                                 
+SSAMEAENRT   MON25 SC           S41255471W073184909                                                                                 
+SSAMEAENRT   MON26 SC           S41250949W073200766                                                                                 
+SSAMEAENRT   MON33 SC           S41155737W073081653                                                                                 
+SSAMEAENRT   MON35 SC           S41155338W073031275                                                                                 
+SSAMEAENRT   MON49 SC           S41054353W0730530100                                                                                
+SSAMEAENRT   MON57 SC           S41452001W072595743                                                                                 
+SSAMEAENRT   MON74 SC           S41454180W073075084                                                                                 
+SSAMEAENRT   MON81 SC           S41273326W073054157                                                                                 
+SSAMEAENRT   MUTIK SC           S40261710W072542800                                                                                 
+SSAMEAENRT   NEBEG SC           S33475910W069540000                                                                                 
+SSAMEAENRT   NEGTA SC           S33133341W070474113                                                                                 
+SSAMEAENRT   OLMUE SC           S32520944W071011306                                                                                 
+SSAMEAENRT   PABAL SC           S42362910W072061800                                                                                 
+SSAMEAENRT   PABOS SC           S27312248W069463494                                                                                 
+SSAMEAENRT   PARET SC           S46181900W072195800                                                                                 
+SSAMEAENRT   PATRI SC           S52472021W071023973                                                                                 
+SSAMEAENRT   PDH01 SC           S33235294W0704807100                                                                                
+SSAMEAENRT   PDH03 SC           S33215282W070481399                                                                                 
+SSAMEAENRT   PDH05 SC           S33295106W070471881                                                                                 
+SSAMEAENRT   PDH07 SC           S33175258W070482597                                                                                 
+SSAMEAENRT   PDH09 SC           S33155245W070483195                                                                                 
+SSAMEAENRT   PDH11 SC           S33135233W070483793                                                                                 
+SSAMEAENRT   PDH13 SC           S33115221W070484389                                                                                 
+SSAMEAENRT   PDH14 SC           S33110085W070453531                                                                                 
+SSAMEAENRT   PDH31 SC           S33115669W070461813                                                                                 
+SSAMEAENRT   PDH35 SC           S33275184W070473729                                                                                 
+SSAMEAENRT   PEFOR SC           S33351180W070463870                                                                                 
+SSAMEAENRT   PELIC SC           S30000361W071025467                                                                                 
+SSAMEAENRT   PINOS SC           S39424810W0724722100                                                                                
+SSAMEAENRT   PINTO SC           S36385410W0714642100                                                                                
+SSAMEAENRT   PIREL SC           S41370945W072580121                                                                                 
+SSAMEAENRT   PORMA SC           S33322239W070444098                                                                                 
+SSAMEAENRT   PUREN SC           S37453138W073033222                                                                                 
+SSAMEAENRT   R1164 SC           S33223389W070471215                                                                                 
+SSAMEAENRT   R1335 SC           S32571601W071290965                                                                                 
+SSAMEAENRT   R1510 SC           S41270292W073053976                                                                                 
+SSAMEAENRT   R2042 SC           S33221902W070481338                                                                                 
+SSAMEAENRT   RALES SC           S30023669W071031848                                                                                 
+SSAMEAENRT   RECIN SC           S36404110W0713316100                                                                                
+SSAMEAENRT   RELMI SC           S45542331W071455896                                                                                 
+SSAMEAENRT   RIBLA SC           S32542400W0703222100                                                                                
+SSAMEAENRT   RINEG SC           S40571635W073180832                                                                                 
+SSAMEAENRT   ROSEN SC           S53000898W070590855                                                                                 
+SSAMEAENRT   RUMAY SC           S30313709W071283282                                                                                 
+SSAMEAENRT   RW17L SC           S33223389W070471215                                                                                 
+SSAMEAENRT   SABLA SC           S33185000W0712358100                                                                                
+SSAMEAENRT   SANOK SC           S33150988W070472876                                                                                 
+SSAMEAENRT   SATIN SC           S47000129W073362758                                                                                 
+SSAMEAENRT   SELMO SC           S30161110W0704229100                                                                                
+SSAMEAENRT   SEMAP SC           S33243700W070470554                                                                                 
+SSAMEAENRT   SEREN SC           S29580258W071045044                                                                                 
+SSAMEAENRT   SERNB SC           S29543209W071130131                                                                                 
+SSAMEAENRT   SILAS SC           S41370011W073060102                                                                                 
+SSAMEAENRT   SILEN SC           S25260147W070040191                                                                                 
+SSAMEAENRT   SNONB SC           S33390310W071364600                                                                                 
+SSAMEAENRT   SUPRA SC           S33591200W0703007100                                                                                
+SSAMEAENRT   TABOR SC           S41365022W073140079                                                                                 
+SSAMEAENRT   TAIGE SC           S52551604W071091282                                                                                 
+SSAMEAENRT   TALCA SC           S30071320W071063121                                                                                 
+SSAMEAENRT   TANES SC           S33155293W070484317                                                                                 
+SSAMEAENRT   TARKA SC           S21474200W0692133100                                                                                
+SSAMEAENRT   TATIO SC           S22481710W069403200                                                                                 
+SSAMEAENRT   TB40A SC           S32153892W070421584                                                                                 
+SSAMEAENRT   TBN34 SC           S32201628W070504093                                                                                 
+SSAMEAENRT   TBN40 SC           S32141376W070504741                                                                                 
+SSAMEAENRT   TBN60 SC           S31541734W070510340                                                                                 
+SSAMEAENRT   TCONB SC           S38460000W0723652100                                                                                
+SSAMEAENRT   TEPNB SC           S41261600W0730513100                                                                                
+SSAMEAENRT   THOMS SC           S52521955W071025887                                                                                 
+SSAMEAENRT   TRAPS SC           S41310006W073054819                                                                                 
+SSAMEAENRT   TUNAS SC           S38493000W071160000                                                                                 
+SSAMEAENRT   UE020 SC           S33025698W070485818                                                                                 
+SSAMEAENRT   UE079 SC           S33144456W070475370                                                                                 
+SSAMEAENRT   UEL04 SC           S33143693W070452977                                                                                 
+SSAMEAENRT   UEL85 SC           S33141568W070475003                                                                                 
+SSAMEAENRT   UKARA SC           S33344911W070463252                                                                                 
+SSAMEAENRT   USU08 SC           S54523169W068032376                                                                                 
+SSAMEAENRT   USU12 SC           S54565393W067591765                                                                                 
+SSAMEAENRT   USU14 SC           S54540603W067534339                                                                                 
+SSAMEAENRT   USU23 SC           S54574074W068433444                                                                                 
+SSAMEAENRT   USU93 SC           S54533684W067564358                                                                                 
+SSAMEAENRT   VARAS SC           S41153446W073051538                                                                                 
+SSAMEAENRT   VASIM SC           S45445602W072045007                                                                                 
+SSAMEAENRT   VELAT SC           S49000127W073420268                                                                                 
+SSAMEAENRT   VICNA SC           S30161110W0704807100                                                                                
+SSAMEAENRT   VISEK SC           S33434110W070455400                                                                                 
+SSAMEAENRT   VLDNB SC           S39431910W0730500100                                                                                
+SSAMEAENRT   VTN41 SC           S32490510W070420000                                                                                 
+SSAMEAENRT   YESOS SC           S33454200W0701547100                                                                                
+SSAMDB       R     SC000305     S18221800W0702049100                                                                                
+SSAMDB       BAL   SC000390     S45550910W0714153100                                                                                
+SSAMDB       CFL   SC000215     S22293610W068541100                                                                                 
+SSAMDB       CLD   SC000227     S27043610W0704906100                                                                                
+SSAMDB       CFM   SC000340     S53144800W0702107100                                                                                
+SSAMDB       SOM   SC000225     S52441700W069220900                                                                                 
+SSAMDB       TEN   SC000234     S42552810W072425500                                                                                 
+SSAMDB       CHE   SC000323     S33350720W070462520                                                                                 
+SSAMDB       CHI   SC000411     S36352000W072014500                                                                                 
+SSAMDB       CTN   SC000340     S35182000W0722245100                                                                                
+SSAMDB       NES   SC000327     S20463200W068404400                                                                                 
+SSAMDB       COP   SC000278     S20443800W0684121100                                                                                
+SSAMDB       ICO   SC000270     S34585110W071152000                                                                                 
+SSAMDB       ON    SC000305     S41273800W0730540100                                                                                
+SSAMDB       BIO   SC000205     S51363510W072131700                                                                                 
+SSAMDB       SER   SC000305     S29543209W071130131                                                                                 
+SSAMDB       UE    SC000220     S33181755W070472412                                                                                 
+SSAMDB       PIL   SC000317     S33403900W071132300                                                                                 
+SSAMDB       OSO   SC000225     S40375110W0730254100                                                                                
+SSAMDB       TEP   SC000400     S41261600W0730513100                                                                                
+SSAMDB       ERO   SC000384     S32442000W071294800                                                                                 
+SSAMDB       SAL   SC000390     S32590835W071320208                                                                                 
+SSAMDB       SNO   SC000355     S33390310W071364600                                                                                 
+SSAMDB       TAL   SC000240     S33405900W070555800                                                                                 
+SSAMDB       TCO   SC000360     S38460000W0723652100                                                                                
+SSAMDB       MO    SC000325     S41312910W0730548100                                                                                
+SSAMDB       VLD   SC000208     S39431910W0730500100                                                                                
+SSAMD        ARI   SC011650V    S18220910W070204700                                                                                 
+SSAMD        DAT   SC011710V    S27164510W0704633100                                                                                
+SSAMD        BAL   SC011550V    S45544700W071424600                                                                                 
+SSAMD        LOA   SC011630V    S22300100W0685236100                                                                                
+SSAMD        CHI   SC011590V    S36345900W0720208100                                                                                
+SSAMD        ICO   SC011470V    S34580400W0711256100                                                                                
+SSAMD        SER   SC011650V    S29545592W071114936                                                                                 
+SSAMD        MAD   SC011290V    S37242400W0722528100                                                                                
+SSAMD        STI   SC011230V    S33300790W070421047                                                                                 
+SSAMD        OSO   SC011650V    S40365610W0730321100                                                                                
+SSAMD        PDH   SC011720V    S33245210W070480500                                                                                 
+SSAMD        PAR   SC011490V    S45093300W0733120100                                                                                
+SSAMD        MON   SC011570V    S41254500W0730530100                                                                                
+SSAMD        PNT   SC011590V    S51440510W072265300                                                                                 
+SSAMD        PWL   SC011490V    S54554500W067371200                                                                                 
+SSAMD        AMB   SC011610V    S33251105W070470377                                                                                 
+SSAMD        SNO   SC011370V    S33395610W0713709100                                                                                
+SSAMD        TBN   SC011390V    S32550510W0705013100                                                                                
+SSAMD        TCO   SC011410V    S38455900W0723750100                                                                                
+SSAMD        TOC   SC011450V    S22082400W070031800                                                                                 
+SSAMD        VLD   SC011450V    S39401510W073050800                                                                                 
+SSAMD        VTN   SC011330V    S32441810W0712945100                                                                                
+SSAMD        IUEL  SC011030 D   S33224400W0704705100                                                                                
+SSAMD        IMER  SC011110 D   S33222710W0704816100                                                                                
+SSAMD        IMON  SC011570 D   S41253210W0730536100                                                                                
+SSAMD        IVDM  SC011070 D   S32563900W071281300                                                                                 
+SSAMD        ARI   SC011650 D   S18220910W070204700                                                                                 
+SSAMD        DAT   SC011710 D   S27164510W0704633100                                                                                
+SSAMD        BAL   SC011550 D   S45544700W071424600                                                                                 
+SSAMD        LOA   SC011630 D   S22300100W0685236100                                                                                
+SSAMD        CHI   SC011590 D   S36345900W0720208100                                                                                
+SSAMD        ICO   SC011470 D   S34580400W0711256100                                                                                
+SSAMD        SER   SC011650 D   S29545592W071114936                                                                                 
+SSAMD        STI   SC011230 D   S33300790W070421047                                                                                 
+SSAMD        OSO   SC011650 D   S40365610W0730321100                                                                                
+SSAMD        PDH   SC011720 D   S33245210W070480500                                                                                 
+SSAMD        PAR   SC011490 D   S45093300W0733120100                                                                                
+SSAMD        MON   SC011570 D   S41254500W0730530100                                                                                
+SSAMD        PNT   SC011590 D   S51440510W072265300                                                                                 
+SSAMD        PWL   SC011490 D   S54554500W067371200                                                                                 
+SSAMD        AMB   SC011610 D   S33251105W070470377                                                                                 
+SSAMD        SNO   SC011370 D   S33395610W0713709100                                                                                
+SSAMD        TBN   SC011390 D   S32550510W0705013100                                                                                
+SSAMD        TCO   SC011410 D   S38455900W0723750100                                                                                
+SSAMD        VLD   SC011450 D   S39401510W073050800                                                                                 
+SSAMD        VTN   SC011330 D   S32441810W0712945100                                                                                
+SSAMER       VW101       0010BAL  SCD       OL                                     12000     24500                                  
+SSAMER       VW101       0020PAR  SCD       OL                            0885     12000     24500                                  
+SSAMER       VW101       0030KORKO  EA      OL                            1212     05000     24500                                  
+SSAMER       VW101       0050MON  SCD       OL                            0600     03000     24500                                  
+SSAMER       T102        0010BAL  SCD       RL                                     17000     24500                                  
+SSAMER       T102        0020PARETSCEA      RL                            0349     17000     24500                                  
+SSAMER       T102        0030BETRISCEA      RL                            0441     17000     24500                                  
+SSAMER       T102        0040VELATSCEA      RL                            1269     17000     24500                                  
+SSAMER       G550        0020BALNBSCEA      O                             0189     12500     24500                                  
+SSAMER       G550        0030TEN  SCD       O                             1850     11000     24500                                  
+SSAMER       G550        0040TEPNBSCEA      O                             0908     11000     24500                                  
+SSAMER       G550        0090PWL  SCD       O                             0236     08500     24500                                  
+SSAMER       VW103       0020CHI  SCD       OL                            0501     06000     24500                                  
+SSAMER       VW103       0030MON  SCD       OL                                     04000     24500                                  
+SSAMER       VW103       0040RINEGSCEA      OL                            0300     06000     24500                                  
+SSAMER       VW103       0050BAMANSCEA      OL                            0301     06000     24500                                  
+SSAMER       VW103       0060VLD  SCD       OL                            0522     06000     24500                                  
+SSAMER       VW103       0070TCO  SCD       OL                            0583     06000     24500                                  
+SSAMER       W103        0010TEPNBSCEA      O                                      06000     24500                                  
+SSAMER       W103        0020BAMANSCEA      O                             0607     06000     24500                                  
+SSAMER       W103        0030VLDNBSCEA      O                             0494     06000     24500                                  
+SSAMER       W103        0040TCONBSCEA      O                             0614     06000     24500                                  
+SSAMER       W103        0110CHINBSCEA      O                             0546     06000     24500                                  
+SSAMER       W103        0120CTN  SCD       O                             0789     06000     24500                                  
+SSAMER       W103        0130TAL  SCD       O                             1209     09000     24500                                  
+SSAMER       W103        0140SABLASCEA      O                             0322     08000     24500                                  
+SSAMER       W103        0150VTN  SCD       O                             0349     08000     24500                                  
+SSAMER       W44         0010BIO  SCD       O                                      10500     24500                                  
+SSAMER       W44         0020OBDOTSAEA      O                             0502     10500     24500                                  
+SSAMER       B682        0030CALBUSCEA      O                             0321     09000     24500                                  
+SSAMER       B682        0040TEPNBSCEA      O                             0249     09000     24500                                  
+SSAMER       G551        0010ICONBSCEA      O                                      06000     24500                                  
+SSAMER       G551        0020CHINBSCEA      O                             1036     06000     24500                                  
+SSAMER       G551        0030ERCILSCEA      O                             0647     06000     24500                                  
+SSAMER       G551        0040TCONBSCEA      O                             0690     06000     24500                                  
+SSAMER       G551        0050PINOSSCEA      O                             0574     06000     24500                                  
+SSAMER       G551        0060MUTIKSCEA      O                                      04000     24500                                  
+SSAMER       G551        0070TEPNBSCEA      O                             0606     04000     24500                                  
+SSAMER       G551        0080TBN  SCD       O                                      12000     24500                                  
+SSAMER       G551        0090TOYNB  EA      O                             1628     12000     24500                                  
+SSAMER       T106        0010EMBALSCEA      RL                                     21000     24500                                  
+SSAMER       T106        0020SELMOSCEA      RL                            0643     21000     24500                                  
+SSAMER       T106        0030SILENSCEA      RL                            2924     21000     24500                                  
+SSAMER       T106        0070MON  SCD       RL                                     06000     24500                                  
+SSAMER       T106        0080LENOSSCEA      RL                            1040     06000     24500                                  
+SSAMER       T106        0090RECINSCEA      RL                            1901     15000     24500                                  
+SSAMER       T106        0100LINERSCEA      RL                            1699     15000     24500                                  
+SSAMER       A307        0140NEBEGSCEA      O                             0518     22500     24500                                  
+SSAMER       A307        0150YESOSSCEA      O                             0183     22500     24500                                  
+SSAMER       A307        0160VISEKSCEA      O                             0251     12500     24500                                  
+SSAMER       T112        0030LINERSCEA      RL                                     10500     24500                                  
+SSAMER       T112        0040PINTOSCEA      RL                            1711     10500     24500                                  
+SSAMER       T112        0050TCO  SCD       RL                            1334     07500     24500                                  
+SSAMER       T101        0070VTN  SCD       RL                            1846     12000     24500                                  
+SSAMER       VW200       0040SNO  SCD       OL                            1984     08000     24500                                  
+SSAMER       VW200       0050VTN  SCD       OL                            0560     06000     24500                                  
+SSAMER       VW200       0060TOY    D       OL                            1478     09500     24500                                  
+SSAMER       VW200       0070DAT  SCD       OL                            1836     13500     24500                                  
+SSAMER       VW200       0080KENNA  EA      OL                            1694     13500     24500                                  
+SSAMER       VW200       0110PURENSCEA      OL                                     08000     24500                                  
+SSAMER       VW200       0120HUILOSCEA      OL                            0681     08000     24500                                  
+SSAMER       VW200       0130VLD  SCD       OL                            0468     06000     24500                                  
+SSAMER       VW200       0140KARAKSCEA      OL                            0455     04000     24500                                  
+SSAMER       VW200       0150MON  SCD       OL                            0601     04000     24500                                  
+SSAMER       VW117       0020CAR40SCEA      OL                            0400     06000     24500                                  
+SSAMER       VW117       0030MAULESCEA      OL                            0721     10000     24500                                  
+SSAMER       VW109       0020ESCOTSCEA      OL                            1001     22000     24500                                  
+SSAMER       VW109       0030PURENSCEA      OL                                     07000     24500                                  
+SSAMER       VW109       0040TCO  SCD       OL                            0638     07000     24500                                  
+SSAMER       VW109       0020PURENSCEA      OL                            0602     08000     24500                                  
+SSAMER       L348        0080SNO  SCD       O                             1689     06000     24500                                  
+SSAMER       W107        0070CTN  SCD       O                                      07000     24500                                  
+SSAMER       W107        0080ICONBSCEA      O                             0585     07000     24500                                  
+SSAMER       W200        0010TEPNBSCEA      O                                      04000     24500                                  
+SSAMER       W200        0020KARAKSCEA      O                             0606     04000     24500                                  
+SSAMER       W200        0030VLDNBSCEA      O                             0424     06000     24500                                  
+SSAMER       W200        0040HUILOSCEA      O                             0498     08000     24500                                  
+SSAMER       W200        0050CE     D       O                             1222     05000     24500                                  
+SSAMER       W200        0060CTN  SCD       O                             0998     05000     24500                                  
+SSAMER       W200        0070SNONBSCEA      O                             1063     05000     24500                                  
+SSAMER       W200        0080ERONBSCEA      O                             0551     06000     24500                                  
+SSAMER       W200        0090TOYNB  EA      O                             1487     08000     24500                                  
+SSAMER       W200        0100CLDNBSCEA      O                             1944     11000     24500                                  
+SSAMER       W200        0110MJL    D       O                             2391     11000     24500                                  
+SSAMER       2E6         0010CEPAMSCEA      O                                      11500     45000                                  
+SSAMER       2E6         0020LOA  SCD       O                             0502     11500     45000                                  
+SSAMER       W202        0020TATIOSCEA      O                             0462     13000     24500                                  
+SSAMER       W202        0030CFL  SCD       O                             0467     15000     24500                                  
+SSAMER       W202        0040TARKASCEA      O                             0490     15000     24500                                  
+SSAMER       W202        0050UCU    D       O                             0868     09000     24500                                  
+SSAMER       VG551       0010ICO  SCD       OL                                     06000     24500                                  
+SSAMER       VG551       0020CHI  SCD       OL                            1049     08000     24500                                  
+SSAMER       VG551       0030ERCILSCEA      OL                            0649     08000     24500                                  
+SSAMER       VG551       0040TCO  SCD       OL                            0692     08000     24500                                  
+SSAMER       VG551       0050PINOSSCEA      OL                            0573     09000     24500                                  
+SSAMER       VG551       0060TBN  SCD       OL                                     12000     24500                                  
+SSAMER       VG551       0070MACARSCEA      OL                            1369     12000     24500                                  
+SSAMER       VG551       0080TOY    D       OL                            0250     06000     24500                                  
+SSAMER       VG551       0090MON  SCD       OL                                     04000     24500                                  
+SSAMER       VG551       0100MUTIKSCEA      OL                            0601     04000     24500                                  
+SSAMER       R683        0010CHI  SCD       O                                      13000     24500                                  
+SSAMER       R683        0020KAMURSCEA      O                             0546     13000     24500                                  
+SSAMER       R683        0030EPGOLSAEA      O                             0865     12500     24500                                  
+SSAMER       W204        0010CLDNBSCEA      O                                      21000     24500                                  
+SSAMER       W204        0020VICNASCEA      O                             1917     21000     24500                                  
+SSAMER       W204        0030EMBALSCEA      O                             0639     21000     24500                                  
+SSAMER       VW107       0010CTN  SCD       OL                                     07000     24500                                  
+SSAMER       VW107       0020ICO  SCD       OL                            0606     07000     24500                                  
+SSAMER       A568        0010DANKISCEA      O                                      22000     24000                                  
+SSAMER       A568        0020LOLESTUEA      O                             0372     22000     24000                                  
+SSAMER       VW115       0010DARWNSCEA      OL                                     07000     24500                                  
+SSAMER       VW115       0020PWL  SCD       OL                            0386     07000     24500                                  
+SSAMER       T114        0010DAT  SCD       RL                                     11000     24500                                  
+SSAMER       T114        0020KESADSCEA      RL                            0602     11000     24500                                  
+SSAMER       T114        0030SILENSCEA      RL                            0570     17000     24500                                  
+SSAMER       M424        0060LINERSCEA      O                                      11000     24500                                  
+SSAMER       M424        0070SUPRASCEA      O                             0130     11000     24500                                  
+SSAMER       B560        0040MIBASSCEA      O                             0519     19500     24500                                  
+SSAMER       B560        0050TOY    D       O                             0683     20000     24500                                  
+SSAMER       T106-       0010EMBALSCEA      RL                                     21000     24500                                  
+SSAMER       T106-       0020TBN  SCD       RL                            0951     21000     24500                                  
+SSAMER       VW208       0010EMBALSCEA      OL                                     17000     24500                                  
+SSAMER       VW208       0020TOY    D       OL                            0710     17000     24500                                  
+SSAMER       W206        0010ERONBSCEA      O                                      09000     24500                                  
+SSAMER       W206        0020TBN  SCD       O                             0350     09000     24500                                  
+SSAMER       L775        0030PABALSCEA      O                             0171     12000     24500                                  
+SSAMER       L775        0040GUTIN  EA      O                             0336     05000     24500                                  
+SSAMER       L775        0050MON  SCD       O                             0600     05000     24500                                  
+SSAMER       T106-       0020MACKESCEA      RL                            0602     20000     24500                                  
+SSAMER       T106-       0030SILENSCEA      RL                            0597     20000     24500                                  
+SSAMER       T100        0110PNT  SCD       RL                            0960     07000     24500                                  
+SSAMER       T100        0140PAR  SCD       RL                                     17000     24500                                  
+SSAMER       T100        0150SATINSCEA      RL                            1106     17000     24500                                  
+SSAMER       T100        0160VELATSCEA      RL                            1201     15000     24500                                  
+SSAMER       T100-       0010PNT  SCD       RL                                     15000     24500                                  
+SSAMER       T100-       0020KILAKSCEA      RL                            0961     15000     24500                                  
+SSAMER       T100-       0030VELATSCEA      RL                            0821     15000     24500                                  
+SSAMER       2E12        0010LINERSCEA      O                                      09000     24500                                  
+SSAMER       2E12        0020SNO  SCD       O                             0460     09000     24500                                  
+SSAMER       G551-       0010MUTIKSCEA      O                                      06000     24500                                  
+SSAMER       G551-       0020PINOSSCEA      O                             0438     06000     24500                                  
+SSAMER       W114        0020SOM  SCD       O                             0561     04000     24500                                  
+SSAMER       B556        0030TUNASSCEA      O                             1156     11500     24500                                  
+SSAMER       B556        0040TCO  SCD       O                             0639     12500     24500                                  
+SSAMER       VW206       0010TBN  SCD       OL                                     09000     24500                                  
+SSAMER       VW206       0020OLMUESCEA      OL                            0097     09000     24500                                  
+SSAMER       VW206       0030VTN  SCD       OL                            0253     09000     24500                                  
+SSAMER       UL348       0070SNO  SCD       O                             1689     24500     45000                                  
+SSAMER       2E11        0010SER  SCD       O                                      05000     24500                                  
+SSAMER       2E11        0020TOYNB  EA      O                             0255     05000     24500                                  
+SSAMER       2E14        0010SNO  SCD       O                                      07000     24500                                  
+SSAMER       2E14        0020TAL  SCD       O                             0343     07000     24500                                  
+SSAMER       2E13        0010SNO  SCD       O                                      09000     24500                                  
+SSAMER       2E13        0020VISEKSCEA      O                             0428     09000     24500                                  
+SSAMER       UW58        0010BAL  SCD       O                                      24500     45000                                  
+SSAMER       UW58        0020CRV    D       O                             1817     24500     45000                                  
+SSAMER       UG550       0010BAL  SCD       O                                      24500     45000                                  
+SSAMER       UG550       0020GUTIN  EA      O                             2158     24500     45000                                  
+SSAMER       UG550       0080PWL  SCD       O                             0236     24500     45000                                  
+SSAMER       UW101       0010BAL  SCD       O                                      24500     45000                                  
+SSAMER       UW101       0020PAR  SCD       O                             0885     24500     45000                                  
+SSAMER       UT102       0010BAL  SCD       O                                      24500     45000                                  
+SSAMER       UT102       0020PARETSCEA      O                             0349     24500     45000                                  
+SSAMER       UT102       0030BETRISCEA      O                             0441     24500     45000                                  
+SSAMER       UT102       0040VELATSCEA      O                             1269     24500     45000                                  
+SSAMER       UW44        0010BIO  SCD       O                                      24500     45000                                  
+SSAMER       UW44        0020ECA  SAD       O                             0802     24500     45000                                  
+SSAMER       UB682       0030CALBUSCEA      O                             0321     25000     45000                                  
+SSAMER       UB682       0040MON  SCD       O                             0250     25000     45000                                  
+SSAMER       UA307       0150NEBEGSCEA      O                             0518     24500     45000                                  
+SSAMER       UA307       0160YESOSSCEA      O                             0183     24500     45000                                  
+SSAMER       UA307       0170VISEKSCEA      O                             0251     24500     45000                                  
+SSAMER       UL550       0170LOA  SCD       O                             1057     24500     45000                                  
+SSAMER       UL550       0180KONRISCEA      O                             1221     24500     45000                                  
+SSAMER       UW204       0040SILENSCEA      O                                      24500     45000                                  
+SSAMER       UW204       0050DAT  SCD       O                             1172     24500     45000                                  
+SSAMER       UW204       0060VICNASCEA      O                             1796     24500     45000                                  
+SSAMER       UW204       0070EMBALSCEA      O                             0639     24500     45000                                  
+SSAMER       UL650       0040PABOSSCEA      O                             0396     24500     45000                                  
+SSAMER       UL650       0050DAT  SCD       O                             0553     24500     45000                                  
+SSAMER       UL780       0030VTN  SCD       O                             3127     24500     45000                                  
+SSAMER       UT101       0100VTN  SCD       O                             1846     24500     45000                                  
+SSAMER       UW200       0030MON  SCD       O                                      24500     45000                                  
+SSAMER       UW200       0040VLD  SCD       O                             1056     24500     45000                                  
+SSAMER       UW200       0050CAR    D       O                             1751     24500     45000                                  
+SSAMER       UW200       0060CTN  SCD       O                             0930     24500     45000                                  
+SSAMER       UW200       0070SNO  SCD       O                             1054     24500     45000                                  
+SSAMER       UW200       0080VTN  SCD       O                             0560     24500     45000                                  
+SSAMER       UW200       0090TOY    D       O                             1478     24500     45000                                  
+SSAMER       UW200       0100DAT  SCD       O                             1836     24500     45000                                  
+SSAMER       UW200       0110FAG    D       O                             2296     24500     45000                                  
+SSAMER       UW109       0020ESCOTSCEA      O                             1001     24500     45000                                  
+SSAMER       UW117       0020MAULESCEA      O                             1120     24500     45000                                  
+SSAMER       2E6-U       0010CEPAMSCEA      O                                      24500     45000                                  
+SSAMER       2E6-U       0020LOA  SCD       O                             0502     24500     45000                                  
+SSAMER       UL309       0010CEPAMSCEA      O                                      24500     45000                                  
+SSAMER       UL309       0020PABOSSCEA      O                             2553     24500     45000                                  
+SSAMER       UL309       0110LOA  SCD       O                             1200     24500     45000                                  
+SSAMER       UG551       0010ICO  SCD       O                                      24500     45000                                  
+SSAMER       UG551       0020CHI  SCD       O                             1049     24500     45000                                  
+SSAMER       UG551       0030TCO  SCD       O                             1341     24500     45000                                  
+SSAMER       UG551       0040MON  SCD       O                             1613     24500     45000                                  
+SSAMER       UG551       0050TBN  SCD       O                                      24500     45000                                  
+SSAMER       UG551       0060TOY    D       O                             1619     24500     45000                                  
+SSAMER       UR683       0010CHI  SCD       O                                      24500     45000                                  
+SSAMER       UR683       0020KAMURSCEA      O                             0546     24500     45000                                  
+SSAMER       UR683       0030EPGOLSAEA      O                             0865     24500     45000                                  
+SSAMER       UB652       0100LOA  SCD       O                                      24500     45000                                  
+SSAMER       UB652       0110MJL    D       O                             0941     24500     45000                                  
+SSAMER       UA306       0120RIBLASCEA      O                             0272     24500     45000                                  
+SSAMER       UA306       0130TBN  SCD       O                             0150     24500     45000                                  
+SSAMER       UM664       0010DANKISCEA      O                                      24500     60000                                  
+SSAMER       UM664       0020LOLESTUEA      O                             0372     24500     60000                                  
+SSAMER       UW115       0010DARWNSCEA      O                                      24500     45000                                  
+SSAMER       UW115       0020PWL  SCD       O                             0386     24500     45000                                  
+SSAMER       UL322       0010DILOKSCEA      O                                      24500     45000                                  
+SSAMER       UL322       0020TBN  SCD       O                             0600     24500     45000                                  
+SSAMER       UT100       0140PNT  SCD       O                             0960     24500     45000                                  
+SSAMER       UT100       0170PAR  SCD       O                                      24500     45000                                  
+SSAMER       UT100       0180SATINSCEA      O                             1106     24500     45000                                  
+SSAMER       UT100       0190VELATSCEA      O                             1201     24500     45000                                  
+SSAMER       UM424       0010LINERSCEA      O                                      25000     45000                                  
+SSAMER       UM424       0020SUPRASCEA      O                             0130     25000     45000                                  
+SSAMER       UT106       0010EMBALSCEA      O                                      24500     45000                                  
+SSAMER       UT106       0020SELMOSCEA      O                             0643     24500     45000                                  
+SSAMER       UT106       0030SILENSCEA      O                             2924     24500     45000                                  
+SSAMER       UT106       0120MON  SCD       O                                      24500     45000                                  
+SSAMER       UT106       0130LENOSSCEA      O                             1040     24500     45000                                  
+SSAMER       UT106       0140RECINSCEA      O                             1901     24500     45000                                  
+SSAMER       UT106       0150LINERSCEA      O                             1699     24500     45000                                  
+SSAMER       UT106       0010EMBALSCEA      O                                      24500     45000                                  
+SSAMER       UT106       0020TBN  SCD       O                             0951     24500     45000                                  
+SSAMER       UW208       0010EMBALSCEA      O                                      24500     45000                                  
+SSAMER       UW208       0020TOY    D       O                             0710     24500     45000                                  
+SSAMER       UT108       0010ESCOTSCEA      O                                      24500     45000                                  
+SSAMER       UT108       0020VLD  SCD       O                             2669     24500     45000                                  
+SSAMER       UL775       0020PABALSCEA      O                             0474     24500     45000                                  
+SSAMER       UL775       0030GUTIN  EA      O                             0336     24500     45000                                  
+SSAMER       UT106       0020MACKESCEA      O                             0602     24500     45000                                  
+SSAMER       UT106       0030SILENSCEA      O                             0597     24500     45000                                  
+SSAMER       UG550       0020MON  SCD       O                             0600     24500     45000                                  
+SSAMER       UM789       0020KADATSCEA      O                             1271     24500     45000                                  
+SSAMER       UM789       0030LOA  SCD       O                             1103     24500     45000                                  
+SSAMER       UM789       0040TARKASCEA      O                             0501     24500     45000                                  
+SSAMER       UM789       0050UCU    D       O                             0868     24500     45000                                  
+SSAMER       UT100       0010PNT  SCD       O                                      24500     45000                                  
+SSAMER       UT100       0020KILAKSCEA      O                             0961     24500     45000                                  
+SSAMER       UT100       0030VELATSCEA      O                             0821     24500     45000                                  
+SSAMER       UT112       0010LINERSCEA      O                                      24500     45000                                  
+SSAMER       UT112       0020PINTOSCEA      O                             1711     24500     45000                                  
+SSAMER       UT112       0030TCO  SCD       O                             1334     24500     45000                                  
+SSAMER       UB560       0010MIBASSCEA      O                                      25000     45000                                  
+SSAMER       UB560       0020TOY    D       O                             0683     25000     45000                                  
+SSAMER       UB556       0020TUNASSCEA      O                             1456     24500     45000                                  
+SSAMER       UB556       0030TCO  SCD       O                             0639     24500     45000                                  

@@ -1,0 +1,939 @@
+SASIEAENRT   AKOMA ZB           N34413510E114444200                                                                                 
+SASIEAENRT   AKOTO ZB           N29373000E119390000                                                                                 
+SASIEAENRT   ANDIN ZB           N41044110E118425400                                                                                 
+SASIEAENRT   ANSAR ZB           N30391110E106211800                                                                                 
+SASIEAENRT   ANSUK ZB           N41143000E1241059100                                                                                
+SASIEAENRT   APOGO ZB           N37555910E110390600                                                                                 
+SASIEAENRT   APUKI ZB           N22474200E113272400                                                                                 
+SASIEAENRT   ARC01 ZB           N29334255E094261456                                                                                 
+SASIEAENRT   ARC02 ZB           N29260695E094270863                                                                                 
+SASIEAENRT   ARC03 ZB           N29243331E094265550                                                                                 
+SASIEAENRT   ARC11 ZB           N29115227E094101556                                                                                 
+SASIEAENRT   ARC51 ZB           N29193752E093570544                                                                                 
+SASIEAENRT   ARC52 ZB           N29181557E093593066                                                                                 
+SASIEAENRT   ARC53 ZB           N29123163E094050328                                                                                 
+SASIEAENRT   ARC54 ZB           N29114109E094075846                                                                                 
+SASIEAENRT   ARC71 ZB           N29410135E094230260                                                                                 
+SASIEAENRT   ARC72 ZB           N29375305E094234332                                                                                 
+SASIEAENRT   ARC81 ZB           N29082535E093485411                                                                                 
+SASIEAENRT   ARC82 ZB           N29084145E093502647                                                                                 
+SASIEAENRT   ARC83 ZB           N29091679E093521904                                                                                 
+SASIEAENRT   ARGUK ZB           N47525910E1343929100                                                                                
+SASIEAENRT   ATAGA ZB           N24092910E1134059100                                                                                
+SASIEAENRT   ATASI ZB           N41095310E1184005100                                                                                
+SASIEAENRT   ATODO ZB           N43482910E129011200                                                                                 
+SASIEAENRT   ATVIM ZB           N43005400E124371800                                                                                 
+SASIEAENRT   BAMAN ZB           N45165910E082370000                                                                                 
+SASIEAENRT   BEDOG ZB           N41273600E118302400                                                                                 
+SASIEAENRT   BEKOL ZB           N22323510E1140759100                                                                                
+SASIEAENRT   BEMAG ZB           N26010510E114000600                                                                                 
+SASIEAENRT   BIDRU ZB           N22430510E100575400                                                                                 
+SASIEAENRT   BIGRO ZB           N21341200E111493600                                                                                 
+SASIEAENRT   BILAT ZB           N23520510E114084800                                                                                 
+SASIEAENRT   BIPOP ZB           N23204800E1110841100                                                                                
+SASIEAENRT   BUBDA ZB           N25521200E1132805100                                                                                
+SASIEAENRT   BUNVA ZB           N31572910E121261200                                                                                 
+SASIEAENRT   BUTET ZB           N43405400E124174800                                                                                 
+SASIEAENRT   BUTID ZB           N43372310E1271659100                                                                                
+SASIEAENRT   CU207 ZB           N40242358E116375793                                                                                 
+SASIEAENRT   DADAT ZB           N30265910E121144800                                                                                 
+SASIEAENRT   DADOL ZB           N26160000E1030541100                                                                                
+SASIEAENRT   DAGMO ZB           N27261200E119332400                                                                                 
+SASIEAENRT   DALIM ZB           N36243510E117124200                                                                                 
+SASIEAENRT   DALUE ZB           N39514968E116352148                                                                                 
+SASIEAENRT   DAPRO ZB           N29152400E113384800                                                                                 
+SASIEAENRT   DONLA ZB           N27415910E1042353100                                                                                
+SASIEAENRT   DOREX ZB           N31084800E1042247100                                                                                
+SASIEAENRT   DOVOP ZB           N34443001E108440600                                                                                 
+SASIEAENRT   DOXAS ZB           N39084800E116540600                                                                                 
+SASIEAENRT   EGANA ZB           N23573600E1134905100                                                                                
+SASIEAENRT   EGEDA ZB           N25205310E115064200                                                                                 
+SASIEAENRT   ELASU ZB           N24035400E102000600                                                                                 
+SASIEAENRT   ELKAL ZB           N26054110E1082341100                                                                                
+SASIEAENRT   ELNEX ZB           N29375310E1192923100                                                                                
+SASIEAENRT   ELPUN ZB           N46182910E121041800                                                                                 
+SASIEAENRT   ENKUS ZB           N24392910E109504800                                                                                 
+SASIEAENRT   ENLOK ZB           N28484710E1133653100                                                                                
+SASIEAENRT   EPGAM ZB           N37144710E116540000                                                                                 
+SASIEAENRT   ESBAG ZB           N31371200E119403600                                                                                 
+SASIEAENRT   ESNIB ZB           N26135400E107525400                                                                                 
+SASIEAENRT   GIVIL ZB           N19150000E1094959100                                                                                
+SASIEAENRT   GOLAL ZB           N36452910E117033600                                                                                 
+SASIEAENRT   GOLOT ZB           N40122910E1243029100                                                                                
+SASIEAENRT   GOPTO ZB           N49053000E087280000                                                                                 
+SASIEAENRT   GORMO ZB           N27113000E106452400                                                                                 
+SASIEAENRT   GOSMA ZB           N29211110E113143000                                                                                 
+SASIEAENRT   GULEK ZB           N36274710E115242400                                                                                 
+SASIEAENRT   GULOT ZB           N24285910E1013235100                                                                                
+SASIEAENRT   GUPAD ZB           N36184200E1102823100                                                                                
+SASIEAENRT   GUVLA ZB           N26554110E1163629100                                                                                
+SASIEAENRT   HUR39 ZB           N40155750E115532669                                                                                 
+SASIEAENRT   HUR59 ZB           N40142138E116480783                                                                                 
+SASIEAENRT   IDSEG ZB           N27405400E105411200                                                                                 
+SASIEAENRT   IDSID ZB           N27374710E1050635100                                                                                
+SASIEAENRT   IDUMA ZB           N22534110E1135711100                                                                                
+SASIEAENRT   IFL07 ZB           N22204120E114025600                                                                                 
+SASIEAENRT   IFL12 ZB           N22221940E114080200                                                                                 
+SASIEAENRT   IFL14 ZB           N22225913E114101109                                                                                 
+SASIEAENRT   IGONO ZB           N23580000E1140353100                                                                                
+SASIEAENRT   IKATA ZB           N23455400E117081200                                                                                 
+SASIEAENRT   IKITI ZB           N45545310E1211405100                                                                                
+SASIEAENRT   INTIK ZB           N43404710E111540600                                                                                 
+SASIEAENRT   ISBOP ZB           N44283000E1260011100                                                                                
+SASIEAENRT   ISGOD ZB           N38171710E1140553100                                                                                
+SASIEAENRT   KAGAK ZB           N49155910E1180559100                                                                                
+SASIEAENRT   KAKAT ZB           N42110000E1181517100                                                                                
+SASIEAENRT   KAMAX ZB           N30470600E1015411100                                                                                
+SASIEAENRT   KAMUD ZB           N41340000E0784959100                                                                                
+SASIEAENRT   KIBES ZB           N25420600E103433600                                                                                 
+SASIEAENRT   KIBOK ZB           N23521200E113580000                                                                                 
+SASIEAENRT   LEDIM ZB           N30190000E094070000                                                                                 
+SASIEAENRT   LEPNI ZB           N43552310E1285059100                                                                                
+SASIEAENRT   LG351 ZB           N40114989E116332125                                                                                 
+SASIEAENRT   LINSO ZB           N23223000E098550000                                                                                 
+SASIEAENRT   LOTUS ZB           N22231826E114110560                                                                                 
+SASIEAENRT   LOVRA ZB           N35504800E1090823100                                                                                
+SASIEAENRT   LUVES ZB           N38084800E108182400                                                                                 
+SASIEAENRT   MABAG ZB           N24184710E114302400                                                                                 
+SASIEAENRT   MADUK ZB           N31430510E118361800                                                                                 
+SASIEAENRT   MAKIB ZB           N27390600E1190611100                                                                                
+SASIEAENRT   MAKUL ZB           N24030600E100343600                                                                                 
+SASIEAENRT   MAMSI ZB           N25114200E1101311100                                                                                
+SASIEAENRT   MANLI ZB           N49345910E117270000                                                                                 
+SASIEAENRT   MANSA ZB           N41472310E1153347100                                                                                
+SASIEAENRT   MEBNA ZB           N25510600E103341800                                                                                 
+SASIEAENRT   MEPAN ZB           N24061110E1054211100                                                                                
+SASIEAENRT   MIDOX ZB           N31192310E115525400                                                                                 
+SASIEAENRT   MIKOS ZB           N30415310E1025729100                                                                                
+SASIEAENRT   MIRRS ZB           N22241710E114140930                                                                                 
+SASIEAENRT   MITUN ZB           N34491200E109001200                                                                                 
+SASIEAENRT   MORIT ZB           N42015910E102490000                                                                                 
+SASIEAENRT   MOTOM ZB           N24405910E1094829100                                                                                
+SASIEAENRT   MUBEL ZB           N24121710E111163600                                                                                 
+SASIEAENRT   MUPAM ZB           N40131800E122230600                                                                                 
+SASIEAENRT   NIKUN ZB           N27591710E1064247100                                                                                
+SASIEAENRT   NODOG ZB           N24342400E111174200                                                                                 
+SASIEAENRT   NOLON ZB           N24062910E113564800                                                                                 
+SASIEAENRT   NOMAR ZB           N23302910E113512400                                                                                 
+SASIEAENRT   NONIT ZB           N38404710E1135559100                                                                                
+SASIEAENRT   NUGLA ZB           N35471200E109223599                                                                                 
+SASIEAENRT   NUKTI ZB           N41523600E0951341100                                                                                
+SASIEAENRT   NZ170 ZB           N29173070E094185575                                                                                 
+SASIEAENRT   NZ175 ZB           N29171060E094182285                                                                                 
+SASIEAENRT   NZ180 ZB           N29164835E094180995                                                                                 
+SASIEAENRT   NZ185 ZB           N29163130E094173625                                                                                 
+SASIEAENRT   NZ190 ZB           N29154260E094164830                                                                                 
+SASIEAENRT   NZ195 ZB           N29152175E094160160                                                                                 
+SASIEAENRT   NZ200 ZB           N29150980E094153480                                                                                 
+SASIEAENRT   NZ204 ZB           N29144220E094143290                                                                                 
+SASIEAENRT   NZ208 ZB           N29130780E094121990                                                                                 
+SASIEAENRT   NZ212 ZB           N29113945E094090965                                                                                 
+SASIEAENRT   NZ214 ZB           N29114860E094054920                                                                                 
+SASIEAENRT   NZ216 ZB           N29142360E094024910                                                                                 
+SASIEAENRT   NZ220 ZB           N29162015E094012335                                                                                 
+SASIEAENRT   NZ224 ZB           N29200470E093583790                                                                                 
+SASIEAENRT   NZ232 ZB           N29264895E093533950                                                                                 
+SASIEAENRT   NZ236 ZB           N29313720E093500620                                                                                 
+SASIEAENRT   NZ240 ZB           N29370610E093482795                                                                                 
+SASIEAENRT   NZ242 ZB           N29425535E093512925                                                                                 
+SASIEAENRT   NZ243 ZB           N29421920E093513060                                                                                 
+SASIEAENRT   NZ244 ZB           N29462745E093553370                                                                                 
+SASIEAENRT   NZ250 ZB           N29200430E093554440                                                                                 
+SASIEAENRT   NZ254 ZB           N29233430E093485325                                                                                 
+SASIEAENRT   NZ258 ZB           N29262010E0934533100                                                                                
+SASIEAENRT   NZ262 ZB           N29282445E093430445                                                                                 
+SASIEAENRT   NZ266 ZB           N29355990E093335530                                                                                 
+SASIEAENRT   NZ290 ZB           N29201445E094232425                                                                                 
+SASIEAENRT   NZ300 ZB           N29222310E094254175                                                                                 
+SASIEAENRT   NZ304 ZB           N29231565E094261785                                                                                 
+SASIEAENRT   NZ308 ZB           N29274735E094264025                                                                                 
+SASIEAENRT   NZ312 ZB           N29304060E094261955                                                                                 
+SASIEAENRT   NZ316 ZB           N29361905E094244620                                                                                 
+SASIEAENRT   NZ320 ZB           N29414675E094195315                                                                                 
+SASIEAENRT   NZ328 ZB           N29452130E094114635                                                                                 
+SASIEAENRT   NZ332 ZB           N29455435E094083935                                                                                 
+SASIEAENRT   NZ336 ZB           N29475910E093592905                                                                                 
+SASIEAENRT   NZ350 ZB           N29422890E094231815                                                                                 
+SASIEAENRT   NZ354 ZB           N29474630E094245215                                                                                 
+SASIEAENRT   NZ356 ZB           N29553220E094271045                                                                                 
+SASIEAENRT   NZ358 ZB           N30064345E094303040                                                                                 
+SASIEAENRT   NZ362 ZB           N30141410E094310430                                                                                 
+SASIEAENRT   NZ414 ZB           N29115255E094071455                                                                                 
+SASIEAENRT   NZ418 ZB           N29121220E094042195                                                                                 
+SASIEAENRT   NZ422 ZB           N29114995E093592340                                                                                 
+SASIEAENRT   NZ426 ZB           N29100800E093535630                                                                                 
+SASIEAENRT   NZ430 ZB           N29083010E093454890                                                                                 
+SASIEAENRT   NZ434 ZB           N29095670E093344305                                                                                 
+SASIEAENRT   NZ438 ZB           N29055775E093235145                                                                                 
+SASIEAENRT   NZ442 ZB           N29041540E093222600                                                                                 
+SASIEAENRT   NZ446 ZB           N29003010E0931010100                                                                                
+SASIEAENRT   NZ450 ZB           N29053910E092484760                                                                                 
+SASIEAENRT   NZ454 ZB           N29053175E092395235                                                                                 
+SASIEAENRT   NZ458 ZB           N29033180E092323310                                                                                 
+SASIEAENRT   NZ462 ZB           N29121020E093391140                                                                                 
+SASIEAENRT   NZ466 ZB           N29280480E093280720                                                                                 
+SASIEAENRT   NZ470 ZB           N29351740E093254500                                                                                 
+SASIEAENRT   NZ474 ZB           N29432580E093213240                                                                                 
+SASIEAENRT   NZ478 ZB           N29214740E093394920                                                                                 
+SASIEAENRT   NZ482 ZB           N29260240E093440360                                                                                 
+SASIEAENRT   NZ484 ZB           N29111695E093241895                                                                                 
+SASIEAENRT   NZ485 ZB           N29485820E093531680                                                                                 
+SASIEAENRT   NZ486 ZB           N29113250E093212715                                                                                 
+SASIEAENRT   NZ488 ZB           N30203360E094231680                                                                                 
+SASIEAENRT   NZ490 ZB           N30135640E094191920                                                                                 
+SASIEAENRT   NZ492 ZB           N30031490E094150075                                                                                 
+SASIEAENRT   NZ494 ZB           N29572910E094112100                                                                                 
+SASIEAENRT   NZ504 ZB           N29240125E094264920                                                                                 
+SASIEAENRT   NZ508 ZB           N29271735E094264660                                                                                 
+SASIEAENRT   NZ510 ZB           N29310535E094262820                                                                                 
+SASIEAENRT   NZ512 ZB           N29353630E094244520                                                                                 
+SASIEAENRT   NZ514 ZB           N29390460E094213060                                                                                 
+SASIEAENRT   NZ515 ZB           N29443385E094152680                                                                                 
+SASIEAENRT   NZ516 ZB           N29441935E094081545                                                                                 
+SASIEAENRT   NZ520 ZB           N29453230E094003760                                                                                 
+SASIEAENRT   NZ524 ZB           N29471580E093560130                                                                                 
+SASIEAENRT   NZ528 ZB           N29472310E093514740                                                                                 
+SASIEAENRT   NZ532 ZB           N29481210E093473380                                                                                 
+SASIEAENRT   NZ540 ZB           N29525175E093351890                                                                                 
+SASIEAENRT   NZ544 ZB           N29534140E093304755                                                                                 
+SASIEAENRT   NZ548 ZB           N29534395E093164430                                                                                 
+SASIEAENRT   NZ552 ZB           N29563725E093084055                                                                                 
+SASIEAENRT   NZ556 ZB           N29581345E092521265                                                                                 
+SASIEAENRT   NZ560 ZB           N29531190E092425520                                                                                 
+SASIEAENRT   NZ564 ZB           N29515050E092394750                                                                                 
+SASIEAENRT   NZ568 ZB           N29495355E092335870                                                                                 
+SASIEAENRT   NZ572 ZB           N29403605E092251990                                                                                 
+SASIEAENRT   NZ574 ZB           N29295965E092232175                                                                                 
+SASIEAENRT   NZ576 ZB           N29323120E093375290                                                                                 
+SASIEAENRT   NZ578 ZB           N29304440E093340090                                                                                 
+SASIEAENRT   NZ586 ZB           N30100375E094203905                                                                                 
+SASIEAENRT   NZ700 ZB           N30253595E094292660                                                                                 
+SASIEAENRT   NZ800 ZB           N29123800E093002170                                                                                 
+SASIEAENRT   NZ869 ZB           N29260485E092214880                                                                                 
+SASIEAENRT   NZ873 ZB           N29161510E092034725                                                                                 
+SASIEAENRT   NZ900 ZB           N29152910E091455400                                                                                 
+SASIEAENRT   NZ904 ZB           N29145620E091530850                                                                                 
+SASIEAENRT   NZ924 ZB           N29023370E092244260                                                                                 
+SASIEAENRT   NZ928 ZB           N29023825E092205625                                                                                 
+SASIEAENRT   NZ932 ZB           N29111480E092010090                                                                                 
+SASIEAENRT   OBLIK ZB           N32194710E1143123100                                                                                
+SASIEAENRT   OGOMO ZB           N30510600E1050011100                                                                                
+SASIEAENRT   OKTON ZB           N39111200E116533001                                                                                 
+SASIEAENRT   OMBAR ZB           N21573000E109091800                                                                                 
+SASIEAENRT   OMBON ZB           N33212400E104161800                                                                                 
+SASIEAENRT   OMLIP ZB           N27423600E104171200                                                                                 
+SASIEAENRT   ONEMI ZB           N25450600E1103629100                                                                                
+SASIEAENRT   OSIKA ZB           N22511110E110322400                                                                                 
+SASIEAENRT   OSNOT ZB           N42130510E084004200                                                                                 
+SASIEAENRT   OSONO ZB           N27450000E115392400                                                                                 
+SASIEAENRT   OTABO ZB           N44271710E123545400                                                                                 
+SASIEAENRT   OVTAN ZB           N28133600E1142129100                                                                                
+SASIEAENRT   P132  ZB           N27204110E119442399                                                                                 
+SASIEAENRT   PEK29 ZB           N39335291E116393283                                                                                 
+SASIEAENRT   PEXUN ZB           N30555400E100000000                                                                                 
+SASIEAENRT   PIGAN ZB           N23474200E1140517100                                                                                
+SASIEAENRT   PIKAS ZB           N32100000E1204359100                                                                                
+SASIEAENRT   PIMIN ZB           N29203000E0891329100                                                                                
+SASIEAENRT   PIMOL ZB           N32144800E1194641100                                                                                
+SASIEAENRT   PK124 ZB           N31195910E1211341100                                                                                
+SASIEAENRT   PK162 ZB           N31215310E121171200                                                                                 
+SASIEAENRT   PLOVE ZB           N22250630E114135790                                                                                 
+SASIEAENRT   POLHO ZB           N44465910E113150000                                                                                 
+SASIEAENRT   POMOK ZB           N31265910E121070000                                                                                 
+SASIEAENRT   POXAN ZB           N22441200E1133105100                                                                                
+SASIEAENRT   PUDNG ZB           N31083879E121473164                                                                                 
+SASIEAENRT   REMAX ZB           N28223600E1153111100                                                                                
+SASIEAENRT   RENOB ZB           N39450000E115264800                                                                                 
+SASIEAENRT   RIVER ZB           N22240755E114105423                                                                                 
+SASIEAENRT   ROACH ZB           N22203117E114020902                                                                                 
+SASIEAENRT   RULAD ZB           N43510000E080340000                                                                                 
+SASIEAENRT   RUPOX ZB           N27070000E1201141100                                                                                
+SASIEAENRT   SABED ZB           N28203000E105521200                                                                                 
+SASIEAENRT   SAGAG ZB           N21113000E1013723100                                                                                
+SASIEAENRT   SAKOD ZB           N22524710E1135735100                                                                                
+SASIEAENRT   SALIS ZB           N41572910E115570600                                                                                 
+SASIEAENRT   SAMAS ZB           N20301710E110294200                                                                                 
+SASIEAENRT   SAMPU ZB           N22253919E114154019                                                                                 
+SASIEAENRT   SANIP ZB           N24013600E114005400                                                                                 
+SASIEAENRT   SAREX ZB           N22525400E1132859100                                                                                
+SASIEAENRT   SIMLI ZB           N50172400E1272205100                                                                                
+SASIEAENRT   SMT06 ZB           N22250024E114025483                                                                                 
+SASIEAENRT   SOSMA ZB           N22490510E113390000                                                                                 
+SASIEAENRT   SUBUL ZB           N32194110E1064235100                                                                                
+SASIEAENRT   SUPAR ZB           N30020600E120523600                                                                                 
+SASIEAENRT   TAPUN ZB           N30001110E093043000                                                                                 
+SASIEAENRT   TD008 ZB           N22222813E114144658                                                                                 
+SASIEAENRT   TD018 ZB           N22232065E114002563                                                                                 
+SASIEAENRT   TEBAK ZB           N22102910E1064029100                                                                                
+SASIEAENRT   TEBIB ZB           N35205999E107541201                                                                                 
+SASIEAENRT   TEBUN ZB           N30393600E1045653100                                                                                
+SASIEAENRT   TEBUS ZB           N47250510E090274200                                                                                 
+SASIEAENRT   TELOK ZB           N49373600E1172241100                                                                                
+SASIEAENRT   TEPID ZB           N23320600E113230600                                                                                 
+SASIEAENRT   TEPOD ZB           N47475910E122461800                                                                                 
+SASIEAENRT   TESAN ZB           N47014110E089474800                                                                                 
+SASIEAENRT   TFR07 ZB           N22213059E114024505                                                                                 
+SASIEAENRT   TFR11 ZB           N22224910E114064940                                                                                 
+SASIEAENRT   TFR14 ZB           N22230967E114080034                                                                                 
+SASIEAENRT   TFR75 ZB           N22214030E114031520                                                                                 
+SASIEAENRT   TOLOE ZB           N22213010E1141507100                                                                                
+SASIEAENRT   TONAD ZB           N26274200E105013600                                                                                 
+SASIEAENRT   TONIL ZB           N39535910E1172317100                                                                                
+SASIEAENRT   TOREG ZB           N31212910E1060347100                                                                                
+SASIEAENRT   TUTNO ZB           N33411200E109061801                                                                                 
+SASIEAENRT   UBLIM ZB           N22531710E113401200                                                                                 
+SASIEAENRT   UDINO ZB           N34491800E117474200                                                                                 
+SASIEAENRT   UNTAN ZB           N32122910E120173000                                                                                 
+SASIEAENRT   VIBOS ZB           N22373000E1131941100                                                                                
+SASIEAENRT   VISIN ZB           N35251800E1062335100                                                                                
+SASIEAENRT   WF542 ZB           N40020655E116501118                                                                                 
+SASIEAENRT   XEBUL ZB           N24165910E1145059100                                                                                
+SASIDB       VZ    ZB000415     N47431110E088094200                                                                                 
+SASIDB       LMM   ZB000422     N32424680E108541201                                                                                 
+SASIDB       LOM   ZB000290     N32434710E108491799                                                                                 
+SASIDB       FO    ZB000410     N23081710E113143000                                                                                 
+SASIDB       OF    ZB000340     N32393510E118345400                                                                                 
+SASIDB       WL    ZB000426     N18291710E109241800                                                                                 
+SASIDB       ZQ    ZB000489     N40340000E1100029100                                                                                
+SASIDB       L     ZB000287     N40064251E116340530                                                                                 
+SASIDB       OX    ZB000358     N23535310E106390000                                                                                 
+SASIDB       O     ZB000430     N40054905E116353701                                                                                 
+SASIDB       RG    ZB000247     N31090600E097103600                                                                                 
+SASIDB       WX    ZB000306     N29305400E1063935100                                                                                
+SASIDB       HO    ZB000375     N35120600E1074623100                                                                                
+SASIDB       ZJ    ZB000217     N31563000E119424200                                                                                 
+SASIDB       FJ    ZB000226     N41345910E1202559100                                                                                
+SASIDB       KM    ZB000276     N41381710E1220653100                                                                                
+SASIDB       VQ    ZB000398     N25332910E1102841100                                                                                
+SASIDB       ZK    ZB000520     N28010000E112575400                                                                                 
+SASIDB       YK    ZB000489     N39113000E116341800                                                                                 
+SASIDB       JA    ZB000332     N42521110E1292017100                                                                                
+SASIDB       HL    ZB000347     N49124200E119474200                                                                                 
+SASIDB       PU    ZB000296     N41302400E1231735100                                                                                
+SASIDB       JB    ZB000345     N37352400E1184705100                                                                                
+SASIDB       GF    ZB000460     N34190300E108350061                                                                                 
+SASIDB       PK    ZB000411     N43375910E112000000                                                                                 
+SASIDB       QP    ZB000213     N24392400E1104735100                                                                                
+SASIDB       GM    ZB000374     N41141200E116373600                                                                                 
+SASIDB       VW    ZB000352     N29554110E104180600                                                                                 
+SASIDB       FK    ZB000369     N44100000E0875859100                                                                                
+SASIDB       JH    ZB000295     N29420600E107223600                                                                                 
+SASIDB       BH    ZB000317     N23041200E112291200                                                                                 
+SASIDB       QK    ZB000322     N23315910E099240000                                                                                 
+SASIDB       CO    ZB000413     N36240312E094522929                                                                                 
+SASIDB       C     ZB000200     N36240143E094493037                                                                                 
+SASIDB       LR    ZB000215     N40375910E1170459100                                                                                
+SASIDB       O     ZB000251     N44321200E129343600                                                                                 
+SASIDB       IJ    ZB000394     N47520510E134384800                                                                                 
+SASIDB       RL    ZB000315     N42510000E0933759100                                                                                
+SASIDB       DA    ZB000274     N30415310E1135823100                                                                                
+SASIDB       QD    ZB000578     N50060000E1272005100                                                                                
+SASIDB       ZF    ZB000369     N31195910E1142559100                                                                                
+SASIDB       DS    ZB000250     N30115910E1065041100                                                                                
+SASIDB       HG    ZB000350     N37432310E1154235100                                                                                
+SASIDB       SB    ZB000319     N27441200E1020947100                                                                                
+SASIDB       KJ    ZB000434     N40521110E1115317100                                                                                
+SASIDB       RW    ZB000377     N22193483E114112745                                                                                 
+SASIDB       C     ZB000313     N31132310E1211959100                                                                                
+SASIDB       B     ZB000257     N31102303E121201723                                                                                 
+SASIDB       KM    ZB000360     N40233510E115293000                                                                                 
+SASIDB       OB    ZB000380     N40165910E1163159100                                                                                
+SASIDB       HY    ZB000241     N28345910E109270000                                                                                 
+SASIDB       LH    ZB000356     N21075400E110201200                                                                                 
+SASIDB       UL    ZB000230     N39150000E121370000                                                                                 
+SASIDB       QB    ZB000443     N25062910E1025559100                                                                                
+SASIDB       CJ    ZB000324     N30180600E1200947100                                                                                
+SASIDB       QI    ZB000162     N35312310E1054235100                                                                                
+SASIDB       PT    ZB000475     N37113510E1040405100                                                                                
+SASIDB       FB    ZB000512     N42340000E124010000                                                                                 
+SASIDB       BS    ZB000345     N24253530E118205660                                                                                 
+SASIDB       LR    ZB000225     N24521481E102393545                                                                                 
+SASIDB       RQ    ZB000215     N25025340E102461080                                                                                 
+SASIDB       KC    ZB000393     N23443510E109125400                                                                                 
+SASIDB       GJ    ZB000245     N28045910E112130000                                                                                 
+SASIDB       SZ    ZB000282     N40312910E112293000                                                                                 
+SASIDB       JR    ZB000475     N39432310E1160553100                                                                                
+SASIDB       RP    ZB000210     N28371800E1154229100                                                                                
+SASIDB       LZ    ZB000361     N27375910E1133159100                                                                                
+SASIDB       FM    ZB000365     N29210000E1113759100                                                                                
+SASIDB       GS    ZB000297     N31381200E1190235100                                                                                
+SASIDB       BS    ZB000285     N34250000E1141305100                                                                                
+SASIDB       BS    ZB000285     N35250000E114130599                                                                                 
+SASIDB       KG    ZB000395     N29565910E113460000                                                                                 
+SASIDB       JK    ZB000311     N26272910E106584800                                                                                 
+SASIDB       UF    ZB000275     N23384800E1141947100                                                                                
+SASIDB       NL    ZB000238     N22220000E106520000                                                                                 
+SASIDB       SB    ZB000232     N31502310E1171359100                                                                                
+SASIDB       ZN    ZB000387     N24310000E103450000                                                                                 
+SASIDB       SL    ZB000307     N25265310E103173000                                                                                 
+SASIDB       KR    ZB000314     N39084200E1143559100                                                                                
+SASIDB       NF    ZB000292     N27130000E116340000                                                                                 
+SASIDB       GZ    ZB000256     N22403000E108144980                                                                                 
+SASIDB       G     ZB000528     N22375910E108121020                                                                                 
+SASIDB       PK    ZB000369     N31171200E1211947100                                                                                
+SASIDB       NS    ZB000333     N25054800E114163000                                                                                 
+SASIDB       SX    ZB000391     N30525910E120250000                                                                                 
+SASIDB       BK    ZB000227     N29534110E121195400                                                                                 
+SASIDB       RQ    ZB000402     N33191200E108183600                                                                                 
+SASIDB       XK    ZB000353     N23011110E1131123100                                                                                
+SASIDB       PM    ZB000370     N38045910E1163259100                                                                                
+SASIDB       SY    ZB000533     N38072604E085313522                                                                                 
+SASIDB       Y     ZB000417     N25100510E110191800                                                                                 
+SASIDB       HQ    ZB000642     N29024800E1063935100                                                                                
+SASIDB       CD    ZB000422     N40002910E1154759100                                                                                
+SASIDB       DO    ZB000331     N26324200E117591200                                                                                 
+SASIDB       LJ    ZB000177     N47114200E123564800                                                                                 
+SASIDB       GT    ZB000276     N31465910E119030600                                                                                 
+SASIDB       RO    ZB000249     N25460510E109362400                                                                                 
+SASIDB       OD    ZB000202     N34355310E108550000                                                                                 
+SASIDB       SC    ZB000569     N38255910E077160000                                                                                 
+SASIDB       CU    ZB000555     N40073000E116221200                                                                                 
+SASIDB       QJ    ZB000253     N22474200E113434800                                                                                 
+SASIDB       VM    ZB000280     N39175910E116540000                                                                                 
+SASIDB       LQ    ZB000328     N23052310E1135111100                                                                                
+SASIDB       SC    ZB000236     N22190910E1140756100                                                                                
+SASIDB       O     ZB000301     N46392910E083221800                                                                                 
+SASIDB       YV    ZB000514     N40435910E1163759100                                                                                
+SASIDB       HG    ZB000254     N30553000E1142111100                                                                                
+SASIDB       J     ZB000517     N39084643E117195721                                                                                 
+SASIDB       JS    ZB000452     N39101359E117190170                                                                                 
+SASIDB       CG    ZB000339     N39042310E1172241100                                                                                
+SASIDB       HZ    ZB000314     N30390600E113090600                                                                                 
+SASIDB       ZN    ZB000264     N40262310E114051200                                                                                 
+SASIDB       OS    ZB000241     N29505310E1065041100                                                                                
+SASIDB       CZ    ZB000364     N29480000E119400000                                                                                 
+SASIDB       HD    ZB000365     N41520000E113090000                                                                                 
+SASIDB       FZ    ZB000247     N37270600E1211041100                                                                                
+SASIDB       CR    ZB000350     N40121610E1243315100                                                                                
+SASIDB       BM    ZB000552     N39382400E121431800                                                                                 
+SASIDB       KY    ZB000365     N41421710E123444800                                                                                 
+SASIDB       HX    ZB000285     N26513510E104165400                                                                                 
+SASIDB       JX    ZB000345     N36210000E114550000                                                                                 
+SASIDB       WY    ZB000572     N30071200E120120000                                                                                 
+SASIDB       LO    ZB000210     N37523600E112244200                                                                                 
+SASIDB       WA    ZB000342     N24205310E1140647100                                                                                
+SASIDB       FR    ZB000312     N30362400E104283600                                                                                 
+SASIDB       FL    ZB000272     N38144800E114533000                                                                                 
+SASIDB       PA    ZB000286     N25241800E110033600                                                                                 
+SASIDB       ID    ZB000440     N31400000E118425400                                                                                 
+SASIDB       WF    ZB000395     N39570000E116520000                                                                                 
+SASIDB       WF    ZB000296     N24340000E118010000                                                                                 
+SASIDB       OC    ZB000235     N38270600E114332400                                                                                 
+SASIDB       LK    ZB000229     N21501200E100480600                                                                                 
+SASIDB       SY    ZB000384     N30263000E115155400                                                                                 
+SASIDB       DY    ZB000363     N39241110E1024847100                                                                                
+SASIDB       QM    ZB000423     N23061110E113084800                                                                                 
+SASIDB       ZS    ZB000359     N34131800E1085111100                                                                                
+SASIDB       SG    ZB000387     N35224800E109064200                                                                                 
+SASIDB       VB    ZB000310     N24121110E1132429100                                                                                
+SASIDB       JW    ZB000281     N25002400E1100105100                                                                                
+SASIDB       BZ    ZB000244     N28045910E119340000                                                                                 
+SASIDB       NV    ZB000684     N49385910E1171959100                                                                                
+SASIDB       JB    ZB000403     N39023510E1161153100                                                                                
+SASIDB       DM    ZB000435     N29152910E091455400                                                                                 
+SASIDB       F     ZB000228     N34314404E113484681                                                                                 
+SASIDB       A     ZB000211     N34303360E113521500                                                                                 
+SASIDB       O     ZB000528     N38175910E114405400                                                                                 
+SASIDB       WD    ZB000439     N37392910E112465400                                                                                 
+SASIDB       YM    ZB000198     N36140510E1034759100                                                                                
+SASIDB       DO    ZB000409     N33370000E114390000                                                                                 
+SASIDB       PH    ZB000228     N23214710E113221800                                                                                 
+SASIDB       W     ZB000407     N39505280E098210961                                                                                 
+SASIDB       Y     ZB000216     N36291158E103372077                                                                                 
+SASIDB       K     ZB000489     N36322507E103370918                                                                                 
+SASIDB       KQ    ZB000237     N36365999E103365339                                                                                 
+SASIDB       G     ZB000327     N34254560E108434021                                                                                 
+SASIDB       M     ZB000429     N34273959E108461800                                                                                 
+SASIDB       ZPND  ZB000315     N26294320E100103737                                                                                 
+SASIDB       ZPN2  ZB000325     N26133348E100112796                                                                                 
+SASIDB       ZPN3  ZB000330     N26505058E100181638                                                                                 
+SASID        AND   ZB011480V    N30151110E1211305100                                                                                
+SASID        BHS   ZB011790V    N30302910E1041211100                                                                                
+SASID        BAV   ZB011730V    N40333600E109594200                                                                                 
+SASID        PEK   ZB011470V    N40025910E1163559100                                                                                
+SASID        BSE   ZB011590V    N23534110E1063853100                                                                                
+SASID        CEN   ZB011460V    N23085910E113250000                                                                                 
+SASID        NCH   ZB011510V    N28530600E1155447100                                                                                
+SASID        CSX   ZB011330V    N28121110E113130000                                                                                 
+SASID        CHG   ZB011450V    N41321200E1202559100                                                                                
+SASID        CKG   ZB011610V    N29431800E1063835100                                                                                
+SASID        CZH   ZB011450V    N30385310E103411200                                                                                 
+SASID        CON   ZB011300V    N23351710E1133505100                                                                                
+SASID        DHN   ZB011650V    N41383000E122070000                                                                                 
+SASID        DDG   ZB011390V    N40153510E1241717100                                                                                
+SASID        DSH   ZB011730V    N30085310E1202953100                                                                                
+SASID        VYK   ZB011270V    N39113000E116341800                                                                                 
+SASID        DKO   ZB011350V    N40185310E107000000                                                                                 
+SASID        DST   ZB010920V    N27445310E120374200                                                                                 
+SASID        ENH   ZB011470V    N30173000E1093553100                                                                                
+SASID        ERE   ZB011490V    N43381710E1115711100                                                                                
+SASID        FNH   ZB011320V    N34331110E108374200                                                                                 
+SASID        FJC   ZB011390V    N29554110E104181800                                                                                 
+SASID        FKG   ZB011630V    N44100000E0875859100                                                                                
+SASID        FLG   ZB011400V    N29414800E107223000                                                                                 
+SASID        FQG   ZB011740V    N25442310E1192259100                                                                                
+SASID        FYU   ZB011370V    N44544200E124481800                                                                                 
+SASID        FOC   ZB011680V    N25562400E119394200                                                                                 
+SASID        JHG   ZB011250V    N21514710E100555400                                                                                 
+SASID        KOW   ZB011210V    N25491800E114545400                                                                                 
+SASID        GYA   ZB011650V    N23041200E112291200                                                                                 
+SASID        GMA   ZB011470V    N23315400E099244200                                                                                 
+SASID        GRM   ZB011230V    N36235892E094444206                                                                                 
+SASID        GLN   ZB011200V    N22423600E1140205100                                                                                
+SASID        KWL   ZB011490V    N25123600E1100217100                                                                                
+SASID        KWE   ZB011430V    N26311110E106474200                                                                                 
+SASID        HLD   ZB011510V    N49120600E1194923100                                                                                
+SASID        HMI   ZB011510V    N42495910E093390000                                                                                 
+SASID        HGH   ZB011300V    N30142310E1202729100                                                                                
+SASID        HRB   ZB011250V    N45372310E126153600                                                                                 
+SASID        HFE   ZB011670V    N31464800E117180600                                                                                 
+SASID        HSH   ZB011440V    N31220510E1215035100                                                                                
+SASID        SHA   ZB011720V    N31115910E121195400                                                                                 
+SASID        HTN   ZB011310V    N37021200E079521800                                                                                 
+SASID        HUR   ZB011360V    N40194710E1164453100                                                                                
+SASID        HCH   ZB011610V    N37391800E120324200                                                                                 
+SASID        HUY   ZB011200V    N28343600E1092653100                                                                                
+SASID        JMU   ZB011350V    N46501710E130274200                                                                                 
+SASID        CHW   ZB011450V    N39512232E098205178                                                                                 
+SASID        YQG   ZB011370V    N36494710E117130000                                                                                 
+SASID        JIG   ZB011370V    N35314110E1054311100                                                                                
+SASID        JTA   ZB011490V    N37114200E1040447100                                                                                
+SASID        JTG   ZB011540V    N30521800E1042335100                                                                                
+SASID        JTN   ZB010960V    N31073000E121202400                                                                                 
+SASID        KYU   ZB011490V    N42375910E1240029100                                                                                
+SASID        KHG   ZB011570V    N39324800E0760123100                                                                                
+SASID        KMG   ZB011290V    N25010000E1024359100                                                                                
+SASID        KCA   ZB011450V    N41430000E083000000                                                                                 
+SASID        LBN   ZB011370V    N23443510E109124200                                                                                 
+SASID        ZGC   ZB011430V    N36304890E103372423                                                                                 
+SASID        LLC   ZB011620V    N28040510E112124200                                                                                 
+SASID        LXA   ZB011310V    N29180600E091000600                                                                                 
+SASID        LJG   ZB011760V    N26131110E119324800                                                                                 
+SASID        LIG   ZB011240V    N27373600E113313600                                                                                 
+SASID        PDL   ZB010940V    N31074710E1214611100                                                                                
+SASID        LCH   ZB011760V    N40514200E1230759100                                                                                
+SASID        LKO   ZB011580V    N29550000E113414800                                                                                 
+SASID        LMN   ZB011630V    N23385910E114193600                                                                                 
+SASID        LUX   ZB011710V    N39441710E1184341100                                                                                
+SASID        LXI   ZB011230V    N24321710E1034435100                                                                                
+SASID        GAO   ZB011740V    N30482400E106111200                                                                                 
+SASID        NHW   ZB011460V    N31045400E1213423100                                                                                
+SASID        NSE   ZB011200V    N31444200E1185147100                                                                                
+SASID        NLG   ZB011770V    N22315400E1133347100                                                                                
+SASID        NNG   ZB011450V    N22373000E108114800                                                                                 
+SASID        NTG   ZB011560V    N32034710E1205841100                                                                                
+SASID        NNX   ZB011560V    N25060000E114161800                                                                                 
+SASID        NYB   ZB011330V    N20004710E110081200                                                                                 
+SASID        NGB   ZB011630V    N29493600E1212735100                                                                                
+SASID        NSH   ZB011630V    N33190510E108184200                                                                                 
+SASID        POU   ZB011410V    N23011110E1131123100                                                                                
+SASID        PIX   ZB011780V    N34185310E117584800                                                                                 
+SASID        BTO   ZB011590V    N38062910E1163441100                                                                                
+SASID        PUD   ZB011690V    N31100510E121464800                                                                                 
+SASID        DCH   ZB011330V    N30332292E097063493                                                                                 
+SASID        QNX   ZB011310V    N27023000E106014800                                                                                 
+SASID        QIM   ZB011430V    N38085856E085320546                                                                                 
+SASID        QJG   ZB011270V    N29024800E1063911100                                                                                
+SASID        TAO   ZB011750V    N36170510E120221200                                                                                 
+SASID        NDG   ZB011290V    N47143000E123551800                                                                                 
+SASID        YIH   ZB011690V    N30334710E1112841100                                                                                
+SASID        SCH   ZB011330V    N38254110E0771423100                                                                                
+SASID        SHR   ZB011400V    N28250000E117580000                                                                                 
+SASID        SWA   ZB011260V    N23262400E1164611100                                                                                
+SASID        SZY   ZB011720V    N40060600E116274200                                                                                 
+SASID        SHK   ZB011590V    N22295310E113540600                                                                                 
+SASID        SHZ   ZB011340V    N29354800E1204847100                                                                                
+SASID        SEY   ZB011410V    N41381710E123284800                                                                                 
+SASID        SZX   ZB011530V    N22384110E1134811100                                                                                
+SASID        SHL   ZB011570V    N23052310E1135111100                                                                                
+SASID        CTU   ZB011570V    N30342910E1035635100                                                                                
+SASID        SHY   ZB011360V    N30565910E121514200                                                                                 
+SASID        TYN   ZB011310V    N37450600E112371200                                                                                 
+SASID        WHA   ZB011220V    N30470600E1141217100                                                                                
+SASID        TAJ   ZB011210V    N39062400E1172129100                                                                                
+SASID        TZH   ZB011560V    N40244200E1140259100                                                                                
+SASID        TGO   ZB011630V    N43333600E1221153100                                                                                
+SASID        TOL   ZB011590V    N29454710E1193929100                                                                                
+SASID        TMR   ZB011330V    N41504110E113090000                                                                                 
+SASID        URC   ZB011570V    N43542400E0872829100                                                                                
+SASID        LJB   ZB011590V    N43462310E125510600                                                                                 
+SASID        WQG   ZB011210V    N43174200E1294659100                                                                                
+SASID        WEH   ZB011580V    N37111200E122133600                                                                                 
+SASID        WXI   ZB011570V    N36214710E114550000                                                                                 
+SASID        WNZ   ZB011640V    N27544284E120511290                                                                                 
+SASID        WYN   ZB011390V    N24204800E114064200                                                                                 
+SASID        WFX   ZB011710V    N30361110E104293000                                                                                 
+SASID        VMB   ZB011390V    N31345910E1201959100                                                                                
+SASID        XMN   ZB011450V    N24323000E118071800                                                                                 
+SASID        KHN   ZB011270V    N28254710E1155523100                                                                                
+SASID        SIA   ZB011530V    N34264800E108450000                                                                                 
+SASID        XIC   ZB011420V    N27595310E102104800                                                                                 
+SASID        CGO   ZB011450V    N34310096E113503077                                                                                 
+SASID        BNN   ZB011630V    N21590452E100450880                                                                                 
+SASID        XSH   ZB011540V    N30261710E1151611100                                                                                
+SASID        XJT   ZB011700V    N35574200E1201423100                                                                                
+SASID        XYO   ZB011670V    N28101200E1052523100                                                                                
+SASID        YBL   ZB011570V    N39254110E102461800                                                                                 
+SASID        YNJ   ZB011310V    N42525910E1292608100                                                                                
+SASID        YNT   ZB011250V    N37231200E121212400                                                                                 
+SASID        YBN   ZB011650V    N28475310E104332400                                                                                 
+SASID        YIJ   ZB011300V    N35224800E109062400                                                                                 
+SASID        YNC   ZB011290V    N38192310E106234800                                                                                 
+SASID        YIN   ZB011350V    N24122400E1132435100                                                                                
+SASID        TAN   ZB010860V    N23400510E1131423100                                                                                
+SASID        ZBK   ZB011230V    N49384800E1171959100                                                                                
+SASID        SJW   ZB011770V    N38164800E114420600                                                                                 
+SASID        ZHO   ZB011550V    N33394200E114383000                                                                                 
+SASID        ZYG   ZB011210V    N30065310E104403600                                                                                 
+SASID        ZPLJ  ZB011315V    N26403048E100143311                                                                                 
+SASID        ICKM  ZB010890 D   N24252720E118211240                                                                                 
+SASID        KL    ZB011190 D   N22195565E114110422                                                                                 
+SASID        ILG   ZB011030 D   N40055792E116341802                                                                                 
+SASID        IFX   ZB010890 D   N40505060E111484774                                                                                 
+SASID        IFF   ZB011030 D   N38161501E114422368                                                                                 
+SASID        IJS   ZB011090 D   N39080197E117201888                                                                                 
+SASID        ICG   ZB011050 D   N39064792E117210410                                                                                 
+SASID        IOO   ZB010930 D   N23224775E113165967                                                                                 
+SASID        IBB   ZB011090 D   N23224047E113182694                                                                                 
+SASID        IAA   ZB011030 D   N23241429E113185068                                                                                 
+SASID        IPP   ZB011150 D   N23242183E113172341                                                                                 
+SASID        IJJ   ZB011010 D   N25123190E110021410                                                                                 
+SASID        IPA   ZB010850 D   N25133980E110021930                                                                                 
+SASID        IUY   ZB011090 D   N22360255E108095653                                                                                 
+SASID        IQJ   ZB011130 D   N22390007E113481347                                                                                 
+SASID        IMH   ZB011070 D   N22373835E113485607                                                                                 
+SASID        IFF   ZB011030 D   N34312391E113493452                                                                                 
+SASID        IAA   ZB010930 D   N34305747E113512051                                                                                 
+SASID        IHG   ZB010990 D   N30473721E114130095                                                                                 
+SASID        IHH   ZB011150 D   N19560090E110264138                                                                                 
+SASID        IPP   ZB010850 D   N19560150E110282309                                                                                 
+SASID        IKK   ZB010950 D   N18180852E109235635                                                                                 
+SASID        IYY   ZB010930 D   N36304890E103372423                                                                                 
+SASID        IWF   ZB011030 D   N24321717E118070139                                                                                 
+SASID        IKK   ZB010970 D   N24325887E118081711                                                                                 
+SASID        IEE   ZB011170 D   N28512330E115534115                                                                                 
+SASID        ICL   ZB011070 D   N25552244E119392334                                                                                 
+SASID        IBK   ZB010890 D   N29500377E121270597                                                                                 
+SASID        IZZ   ZB010870 D   N31092409E121485039                                                                                 
+SASID        IPD   ZB011070 D   N31092511E121470708                                                                                 
+SASID        IDD   ZB010830 D   N31074611E121492725                                                                                 
+SASID        INX   ZB011070 D   N36164079E120220959                                                                                 
+SASID        IXM   ZB011010 D   N37104575E122131935                                                                                 
+SASID        IQC   ZB011070 D   N37114476E122135184                                                                                 
+SASID        IWX   ZB010970 D   N29422739E106382172                                                                                 
+SASID        ISS   ZB011030 D   N29175699E090554702                                                                                 
+SASID        ILL   ZB011110 D   N39323933E076020669                                                                                 
+SASID        IDD   ZB010930 D   N43592280E125400352                                                                                 
+SASID        IPP   ZB011010 D   N44001844E125413287                                                                                 
+SASID        AND   ZB011480 D   N30151110E1211305100                                                                                
+SASID        BHS   ZB011790 D   N30302910E1041211100                                                                                
+SASID        BAV   ZB011730 D   N40333600E109594200                                                                                 
+SASID        PEK   ZB011470 D   N40025910E1163559100                                                                                
+SASID        BSE   ZB011590 D   N23534110E1063853100                                                                                
+SASID        CEN   ZB011460 D   N23085910E113250000                                                                                 
+SASID        NCH   ZB011510 D   N28530600E1155447100                                                                                
+SASID        CSX   ZB011330 D   N28121110E113130000                                                                                 
+SASID        CHG   ZB011450 D   N41321200E1202559100                                                                                
+SASID        CKG   ZB011610 D   N29431800E1063835100                                                                                
+SASID        CZH   ZB011450 D   N30385310E103411200                                                                                 
+SASID        CON   ZB011300 D   N23351710E1133505100                                                                                
+SASID        DHN   ZB011650 D   N41383000E122070000                                                                                 
+SASID        DDG   ZB011390 D   N40153510E1241717100                                                                                
+SASID        DSH   ZB011730 D   N30085310E1202953100                                                                                
+SASID        VYK   ZB011270 D   N39113000E116341800                                                                                 
+SASID        DKO   ZB011350 D   N40185310E107000000                                                                                 
+SASID        ENH   ZB011470 D   N30173000E1093553100                                                                                
+SASID        ERE   ZB011490 D   N43381710E1115711100                                                                                
+SASID        FJC   ZB011390 D   N29554110E104181800                                                                                 
+SASID        FKG   ZB011630 D   N44100000E0875859100                                                                                
+SASID        FLG   ZB011400 D   N29414800E107223000                                                                                 
+SASID        FQG   ZB011740 D   N25442310E1192259100                                                                                
+SASID        FYU   ZB011370 D   N44544200E124481800                                                                                 
+SASID        FOC   ZB011680 D   N25562400E119394200                                                                                 
+SASID        JHG   ZB011250 D   N21514710E100555400                                                                                 
+SASID        KOW   ZB011210 D   N25491800E114545400                                                                                 
+SASID        GYA   ZB011650 D   N23041200E112291200                                                                                 
+SASID        GMA   ZB011470 D   N23315400E099244200                                                                                 
+SASID        GLN   ZB011200 D   N22423600E1140205100                                                                                
+SASID        KWL   ZB011490 D   N25123600E1100217100                                                                                
+SASID        KWE   ZB011430 D   N26311110E106474200                                                                                 
+SASID        HLD   ZB011510 D   N49120600E1194923100                                                                                
+SASID        HMI   ZB011510 D   N42495910E093390000                                                                                 
+SASID        HGH   ZB011300 D   N30142310E1202729100                                                                                
+SASID        HRB   ZB011250 D   N45372310E126153600                                                                                 
+SASID        HFE   ZB011670 D   N31464800E117180600                                                                                 
+SASID        HSH   ZB011440 D   N31220510E1215035100                                                                                
+SASID        SHA   ZB011720 D   N31115910E121195400                                                                                 
+SASID        HTN   ZB011310 D   N37021200E079521800                                                                                 
+SASID        HUR   ZB011360 D   N40194710E1164453100                                                                                
+SASID        HCH   ZB011610 D   N37391800E120324200                                                                                 
+SASID        HUY   ZB011200 D   N28343600E1092653100                                                                                
+SASID        JMU   ZB011350 D   N46501710E130274200                                                                                 
+SASID        CHW   ZB011450 D   N39512232E098205178                                                                                 
+SASID        YQG   ZB011370 D   N36494710E117130000                                                                                 
+SASID        JIG   ZB011370 D   N35314110E1054311100                                                                                
+SASID        JTA   ZB011490 D   N37114200E1040447100                                                                                
+SASID        JTG   ZB011540 D   N30521800E1042335100                                                                                
+SASID        JTN   ZB010960 D   N31073000E121202400                                                                                 
+SASID        KYU   ZB011490 D   N42375910E1240029100                                                                                
+SASID        KHG   ZB011570 D   N39324800E0760123100                                                                                
+SASID        KMG   ZB011290 D   N25010000E1024359100                                                                                
+SASID        KCA   ZB011450 D   N41430000E083000000                                                                                 
+SASID        LBN   ZB011370 D   N23443510E109124200                                                                                 
+SASID        ZGC   ZB011430 D   N36304890E103372423                                                                                 
+SASID        LLC   ZB011620 D   N28040510E112124200                                                                                 
+SASID        LXA   ZB011310 D   N29180600E091000600                                                                                 
+SASID        LJG   ZB011760 D   N26131110E119324800                                                                                 
+SASID        LIG   ZB011240 D   N27373600E113313600                                                                                 
+SASID        PDL   ZB010940 D   N31074710E1214611100                                                                                
+SASID        LCH   ZB011760 D   N40514200E1230759100                                                                                
+SASID        LKO   ZB011580 D   N29550000E113414800                                                                                 
+SASID        LMN   ZB011630 D   N23385910E114193600                                                                                 
+SASID        LUX   ZB011710 D   N39441710E1184341100                                                                                
+SASID        LXI   ZB011230 D   N24321710E1034435100                                                                                
+SASID        GAO   ZB011740 D   N30482400E106111200                                                                                 
+SASID        NHW   ZB011460 D   N31045400E1213423100                                                                                
+SASID        NSE   ZB011200 D   N31444200E1185147100                                                                                
+SASID        NLG   ZB011770 D   N22315400E1133347100                                                                                
+SASID        NNG   ZB011450 D   N22373000E108114800                                                                                 
+SASID        NTG   ZB011560 D   N32034710E1205841100                                                                                
+SASID        NNX   ZB011560 D   N25060000E114161800                                                                                 
+SASID        NYB   ZB011330 D   N20004710E110081200                                                                                 
+SASID        NGB   ZB011630 D   N29493600E1212735100                                                                                
+SASID        NSH   ZB011630 D   N33190510E108184200                                                                                 
+SASID        POU   ZB011410 D   N23011110E1131123100                                                                                
+SASID        PIX   ZB011780 D   N34185310E117584800                                                                                 
+SASID        BTO   ZB011590 D   N38062910E1163441100                                                                                
+SASID        PUD   ZB011690 D   N31100510E121464800                                                                                 
+SASID        QNX   ZB011310 D   N27023000E106014800                                                                                 
+SASID        QJG   ZB011270 D   N29024800E1063911100                                                                                
+SASID        TAO   ZB011750 D   N36170510E120221200                                                                                 
+SASID        NDG   ZB011290 D   N47143000E123551800                                                                                 
+SASID        YIH   ZB011690 D   N30334710E1112841100                                                                                
+SASID        SCH   ZB011330 D   N38254110E0771423100                                                                                
+SASID        SHR   ZB011400 D   N28250000E117580000                                                                                 
+SASID        SWA   ZB011260 D   N23262400E1164611100                                                                                
+SASID        SZY   ZB011720 D   N40060600E116274200                                                                                 
+SASID        SHK   ZB011590 D   N22295310E113540600                                                                                 
+SASID        SHZ   ZB011340 D   N29354800E1204847100                                                                                
+SASID        SEY   ZB011410 D   N41381710E123284800                                                                                 
+SASID        SZX   ZB011530 D   N22384110E1134811100                                                                                
+SASID        SHL   ZB011570 D   N23052310E1135111100                                                                                
+SASID        CTU   ZB011570 D   N30342910E1035635100                                                                                
+SASID        SHY   ZB011360 D   N30565910E121514200                                                                                 
+SASID        TYN   ZB011310 D   N37450600E112371200                                                                                 
+SASID        WHA   ZB011220 D   N30470600E1141217100                                                                                
+SASID        TAJ   ZB011210 D   N39062400E1172129100                                                                                
+SASID        TZH   ZB011560 D   N40244200E1140259100                                                                                
+SASID        TGO   ZB011630 D   N43333600E1221153100                                                                                
+SASID        TOL   ZB011590 D   N29454710E1193929100                                                                                
+SASID        TMR   ZB011330 D   N41504110E113090000                                                                                 
+SASID        URC   ZB011570 D   N43542400E0872829100                                                                                
+SASID        LJB   ZB011590 D   N43462310E125510600                                                                                 
+SASID        WQG   ZB011210 D   N43174200E1294659100                                                                                
+SASID        WEH   ZB011580 D   N37111200E122133600                                                                                 
+SASID        WXI   ZB011570 D   N36214710E114550000                                                                                 
+SASID        WYN   ZB011390 D   N24204800E114064200                                                                                 
+SASID        WFX   ZB011710 D   N30361110E104293000                                                                                 
+SASID        VMB   ZB011390 D   N31345910E1201959100                                                                                
+SASID        XMN   ZB011450 D   N24323000E118071800                                                                                 
+SASID        KHN   ZB011270 D   N28254710E1155523100                                                                                
+SASID        SIA   ZB011530 D   N34264800E108450000                                                                                 
+SASID        XIC   ZB011420 D   N27595310E102104800                                                                                 
+SASID        BNN   ZB011630 D   N21590452E100450880                                                                                 
+SASID        XSH   ZB011540 D   N30261710E1151611100                                                                                
+SASID        XJT   ZB011700 D   N35574200E1201423100                                                                                
+SASID        XYO   ZB011670 D   N28101200E1052523100                                                                                
+SASID        YBL   ZB011570 D   N39254110E102461800                                                                                 
+SASID        YNJ   ZB011310 D   N42525910E1292608100                                                                                
+SASID        YNT   ZB011250 D   N37231200E121212400                                                                                 
+SASID        YBN   ZB011650 D   N28475310E104332400                                                                                 
+SASID        YIJ   ZB011300 D   N35224800E109062400                                                                                 
+SASID        YNC   ZB011290 D   N38192310E106234800                                                                                 
+SASID        YIN   ZB011350 D   N24122400E1132435100                                                                                
+SASID        TAN   ZB010860 D   N23400510E1131423100                                                                                
+SASID        SJW   ZB011770 D   N38164800E114420600                                                                                 
+SASID        ZHO   ZB011550 D   N33394200E114383000                                                                                 
+SASID        ZYG   ZB011210 D   N30065310E104403600                                                                                 
+SASID        DST   ZB010920 D   N27445310E120445401                                                                                 
+SASID        FNH   ZB011320 D   N34331110E108374200                                                                                 
+SASID        GRM   ZB011230 D   N36235892E094444206                                                                                 
+SASID        CHW   ZB011450 D   N39512232E098205178                                                                                 
+SASID        BS    ZB010850 D   N24253590E118205640                                                                                 
+SASID        ZGC   ZB011430 D   N36304890E103372423                                                                                 
+SASID        JK    ZB011450 D   N26272910E106584800                                                                                 
+SASID        DCH   ZB011330 D   N30332292E097063493                                                                                 
+SASID        WNZ   ZB011640 D   N27544284E120511290                                                                                 
+SASID        SIA   ZB011530 D   N34264800E108450000                                                                                 
+SASID        CGO   ZB011450 D   N34310096E113503077                                                                                 
+SASIER       G267        0010BAMANZBEA      O                                      16700     39000                                  
+SASIER       G267        0020OGADOUAEA      O                             0705     16700     39000                                  
+SASIER       B149-       0030SIMLIZBEA      O                             0066     04900     52800                                  
+SASIER       G270        0030RULADZBEA      O                             0349     09800     39000                                  
+SASIER       A596        0010BAV  ZBD       O                                      09700     60000                                  
+SASIER       A596        0020DKO  ZBD       O                             1376     09700     60000                                  
+SASIER       A596        0030YBL  ZBD       O                             2020     08300     60000                                  
+SASIER       A461        0010BEKOLZBEA      O                                      04500     08000                                  
+SASIER       A461        0020CH     D       O                             0203     04500     08000                                  
+SASIER       R473        0010BEMAGZBEA      O                                      09000     60000                                  
+SASIER       R473        0020LIG  ZBD       O                             0999     09000     60000                                  
+SASIER       R200        0010BIGROZBEA      O                                      04900     60000                                  
+SASIER       R200        0020LH   ZBD       O                             0874     04900     60000                                  
+SASIER       A599        0010BIPOPZBEA      O                                      05600     60000                                  
+SASIER       A599        0020GYA  ZBD       O                             0759     05600     60000                                  
+SASIER       B351        0010KAMUDZBEA      O                                      19700     60000                                  
+SASIER       B351        0020KA   UCD       O                             0609     18700     39700                                  
+SASIER       A588        0010BM   ZBD       O                                      04200     60000                                  
+SASIER       A588        0020DLC    D       O                             0420     04200     60000                                  
+SASIER       G327        0050JTN  ZBD       O                             0474     03600     60000                                  
+SASIER       R339        0010BSE  ZBD       O                                      05900     60000                                  
+SASIER       R339        0020NNG  ZBD       O                             1145     05900     60000                                  
+SASIER       R339        0030OMBARZBEA      O                             0666     03700     60000                                  
+SASIER       R339        0040LH   ZBD       O                             0826     03700     60000                                  
+SASIER       R339        0050SIKOU  EA      O                             0675     02800     60000                                  
+SASIER       A593        0010BTO  ZBD       O                                      02100     60000                                  
+SASIER       A593        0020EPGAMZBEA      O                             0539     02100     60000                                  
+SASIER       A593        0030GOLALZBEA      O                             0303     07200     60000                                  
+SASIER       A593        0040DALIMZBEA      O                             0222     07200     60000                                  
+SASIER       A593        0050UDINOZBEA      O                             0995     07200     60000                                  
+SASIER       A593        0060PIX  ZBD       O                             0318     03100     60000                                  
+SASIER       A593        0070PIMOLZBEA      O                             1535     03100     60000                                  
+SASIER       A593        0080VMB  ZBD       O                             0488     03500     60000                                  
+SASIER       A593        0090JTN  ZBD       O                             0585     03500     60000                                  
+SASIER       A593        0100PUD  ZBD       O                             0228     03500     60000                                  
+SASIER       A593        0110DUMET  EA      O                             0524     03500     60000                                  
+SASIER       6AW8        0010BTO  ZBD       O                                      02400     60000                                  
+SASIER       6AW8        0020OKTONZBEA      O                             0664     02400     60000                                  
+SASIER       6AW4        0010BTO  ZBD       O                                      02400     60000                                  
+SASIER       6AW4        0020VM   ZBD       O                             0731     02400     60000                                  
+SASIER       G341        0010BUTETZBEA      O                                      04200     60000                                  
+SASIER       G341        0020LJB  ZBD       O                             0677     04200     60000                                  
+SASIER       G341        0030BUTIDZBEA      O                             0628     06200     60000                                  
+SASIER       G341        0040WQG  ZBD       O                             1107     06300     60000                                  
+SASIER       A470        0010BZ   ZBD       O                                      07600     60000                                  
+SASIER       A470        0020DAGMOZBEA      O                             0388     07600     60000                                  
+SASIER       A470        0030LJG  ZBD       O                             0731     07300     60000                                  
+SASIER       A470        0040FQG  ZBD       O                             0301     05500     60000                                  
+SASIER       A470        0050WF   ZBD       O                             1024     05900     60000                                  
+SASIER       A326        0010CG   ZBD       O                                      02900     60000                                  
+SASIER       A326        0020DOXASZBEA      O                             0226     02900     60000                                  
+SASIER       A326        0030VYK  ZBD       O                             0156     02900     60000                                  
+SASIER       6AW5        0010CG   ZBD       O                                      02900     60000                                  
+SASIER       6AW5        0020OKTONZBEA      O                             0237     02900     60000                                  
+SASIER       B330        0030POU  ZBD       O                             0546     05100     60000                                  
+SASIER       B215        0010CHW  ZBD       O                                      11500     60000                                  
+SASIER       B215        0020NUKTIZBEA      O                             1868     11500     60000                                  
+SASIER       B215        0030HMI  ZBD       O                             0906     16300     60000                                  
+SASIER       B215        0040FKG  ZBD       O                             2594     16300     60000                                  
+SASIER       A599-       0010CON  ZBD       O                                      06100     60000                                  
+SASIER       A599-       0020NOLONZBEA      O                             0370     06100     60000                                  
+SASIER       A599-       0030WYN  ZBD       O                             0169     06700     60000                                  
+SASIER       A599-       0040NNX  ZBD       O                             0461     06700     60000                                  
+SASIER       A345-       0010CR   ZBD       O                                      07000     39000                                  
+SASIER       A345-       0020GASAN  EA      O                             0498     07000     39000                                  
+SASIER       B213        0010CTU  ZBD       O                                      04500     60000                                  
+SASIER       B213        0020CZH  ZBD       O                             0140     04500     60000                                  
+SASIER       B213        0030MIKOSZBEA      O                             0377     20800     60000                                  
+SASIER       B213        0040KAMAXZBEA      O                             0547     20800     60000                                  
+SASIER       B213        0050PEXUNZBEA      O                             0985     20800     60000                                  
+SASIER       B213        0060RG   ZBD       O                             1458     20800     60000                                  
+SASIER       B213        0070TAPUNZBEA      O                             2229     22600     60000                                  
+SASIER       B213        0080LXA  ZBD       O                             1161     22600     60000                                  
+SASIER       A345-       0010DDG  ZBD       O                                      04800     60000                                  
+SASIER       A345-       0020GOLOTZBEA      O                             0106     04800     60000                                  
+SASIER       B339        0020POLHOZBEA      O                             1078     25600     39700                                  
+SASIER       B339        0030SALISZBEA      O                             2065     09500     60000                                  
+SASIER       B339        0040GM   ZBD       O                             0529     09500     60000                                  
+SASIER       G492        0020TELOKZBEA      O                             1193     31500     43000                                  
+SASIER       G495        0090TELOKZBEA      O                             0343     31500     42900                                  
+SASIER       G218        0030POLHOZBEA      O                             1080     13800     39700                                  
+SASIER       G218        0040TMR  ZBD       O                             1765     07800     60000                                  
+SASIER       G471        0010EGEDAZBEA      O                                      05900     60000                                  
+SASIER       G471        0020KOW  ZBD       O                             0303     05900     60000                                  
+SASIER       A345        0010ELPUNZBEA      O                                      07700     60000                                  
+SASIER       A345        0020HLD  ZBD       O                             1809     07700     60000                                  
+SASIER       A345        0030KAGAKZBEA      O                             0677     04800     60000                                  
+SASIER       A345        0040MANLIZBEA      O                             0317     05300     60000                                  
+SASIER       A345        0050TELOKZBEA      O                             0038     05300     60000                                  
+SASIER       R343        0010ENKUSZBEA      O                                      05000     60000                                  
+SASIER       R343        0020LBN  ZBD       O                             0650     05000     60000                                  
+SASIER       R343        0030NNG  ZBD       O                             0874     05500     60000                                  
+SASIER       6AW3        0010EPGAMZBEA      O                                      04700     60000                                  
+SASIER       6AW3        0020OKTONZBEA      O                             1165     04700     60000                                  
+SASIER       6AW3        0030VM   ZBD       O                             0068     05300     60000                                  
+SASIER       6AW3        0040HUR  ZBD       O                             0622     05300     60000                                  
+SASIER       B458        0010ERE  ZBD       O                                      07800     60000                                  
+SASIER       B458        0020TMR  ZBD       O                             1199     07800     60000                                  
+SASIER       B458        0030TZH  ZBD       O                             0952     09600     60000                                  
+SASIER       B458        0040KR   ZBD       O                             0802     08600     60000                                  
+SASIER       B458        0050SJW  ZBD       O                             0522     08600     60000                                  
+SASIER       B458        0060WXI  ZBD       O                             1155     02500     60000                                  
+SASIER       G588        0010FKG  ZBD       O                                      11000     60000                                  
+SASIER       G588        0020TESANZBEA      O                             1879     11000     60000                                  
+SASIER       G588        0030TEBUSZBEA      O                             0358     25600     39700                                  
+SASIER       G588        0040JA     D       O                             0565     25600     39700                                  
+SASIER       B206-       0010FKG  ZBD       O                                      07900     60000                                  
+SASIER       B206-       0020URC  ZBD       O                             0269     07900     60000                                  
+SASIER       B206        0010FKG  ZBD       O                                      09900     60000                                  
+SASIER       B206        0020VZ   ZBD       O                             2135     09900     60000                                  
+SASIER       B206        0030GOPTOZBEA      O                             0869     17800     39700                                  
+SASIER       B206        0040LANBIUUEA      O                             0097     17800     39700                                  
+SASIER       G221        0010GIVILZBEA      O                                      06800     60000                                  
+SASIER       G221        0020NYB  ZBD       O                             0489     06800     60000                                  
+SASIER       G221        0030SAMASZBEA      O                             0358     02700     60000                                  
+SASIER       6AW1-       0010GM   ZBD       O                                      06800     60000                                  
+SASIER       6AW1-       0020HUR  ZBD       O                             0547     06800     60000                                  
+SASIER       B334        0010GM   ZBD       O                                      08700     60000                                  
+SASIER       B334        0020KAKATZBEA      O                             0925     08700     60000                                  
+SASIER       B334        0030TGO  ZBD       O                             1922     07800     60000                                  
+SASIER       G345        0010GS   ZBD       O                                      03500     60000                                  
+SASIER       G345        0020ZJNB ZBEA      O                             0387     03500     60000                                  
+SASIER       G345        0030UNTANZBEA      O                             0336     02500     60000                                  
+SASIER       A599-       0010GYA  ZBD       O                                      05300     60000                                  
+SASIER       A599-       0020POU  ZBD       O                             0390     05300     60000                                  
+SASIER       G470        0010HO   ZBD       O                                      11700     60000                                  
+SASIER       G470        0020VISINZBEA      O                             0689     11700     60000                                  
+SASIER       G470        0030JIG  ZBD       O                             0335     11900     60000                                  
+SASIER       G470        0040JTA  ZBD       O                             1277     11900     60000                                  
+SASIER       6AW9        0010HUR  ZBD       O                                      08500     60000                                  
+SASIER       6AW9        0020KMNB ZBEA      O                             0576     08500     60000                                  
+SASIER       6AW1        0010HUR  ZBD       O                                      05300     60000                                  
+SASIER       6AW1        0020VYK  ZBD       O                             0688     05300     60000                                  
+SASIER       A468        0010KAMUDZBEA      O                                      21700     60000                                  
+SASIER       A468        0020KCA  ZBD       O                             1872     21700     60000                                  
+SASIER       A460        0010KCA  ZBD       O                                      23800     60000                                  
+SASIER       A460        0020REVKIUAEA      O                             1333     23800     60000                                  
+SASIER       A364        0010KHG  ZBD       O                                      06500     60000                                  
+SASIER       A364        0020SCH  ZBD       O                             0879     06500     60000                                  
+SASIER       A335        0010KJ   ZBD       O                                      09300     60000                                  
+SASIER       A335        0020TMR  ZBD       O                             0816     09300     60000                                  
+SASIER       6AW10       0010KMG  ZBD       O                                      16300     60000                                  
+SASIER       6AW10       0020SBNB ZBEA      O                             1662     16300     60000                                  
+SASIER       A581-       0010KMG  ZBD       O                                      11400     60000                                  
+SASIER       A581-       0020SL   ZBD       O                             0399     11400     60000                                  
+SASIER       B218        0020SAGAGZBEA      O                             0833     20000     46000                                  
+SASIER       6AW7        0010LR   ZBD       O                                      06900     60000                                  
+SASIER       6AW7        0020WFNB ZBEA      O                             0422     06900     60000                                  
+SASIER       6AW6        0010LR   ZBD       O                                      06600     60000                                  
+SASIER       6AW6        0020YV   ZBD       O                             0214     06600     60000                                  
+SASIER       G586        0010NODOGZBEA      O                                      08100     60000                                  
+SASIER       G586        0020QP   ZBD       O                             0278     08100     60000                                  
+SASIER       G330        0010PIKASZBEA      O                                      03100     60000                                  
+SASIER       G330        0020POMOKZBEA      O                             0473     03100     60000                                  
+SASIER       G330        0030PKNB ZBEA      O                             0147     03500     60000                                  
+SASIER       3E102       0010PKNB ZBEA      O                                      03100     60000                                  
+SASIER       3E102       0020VMB  ZBD       O                             0541     03100     60000                                  
+SASIER       R200-       0010POU  ZBD       O                                      03100     60000                                  
+SASIER       R200-       0020VIBOSZBEA      O                             0249     03100     60000                                  
+SASIER       R200-       0030ZUH    D       O                             0254     03900     60000                                  
+SASIER       A202-       0010SAMASZBEA      O                                      02700     60000                                  
+SASIER       A202-       0020SIKOU  EA      O                             0600     02700     60000                                  
+SASIER       6AW2        0010VYK  ZBD       O                                      03000     60000                                  
+SASIER       6AW2        0020WFNB ZBEA      O                             0475     03000     60000                                  
+SASIER       6AW2        0030YV   ZBD       O                             0482     07100     60000                                  
+SASIER       B351-       0010KAMUDZBEA      O                                      19700     60000                                  
+SASIER       B351-       0020KA   UCD       O                             0609     18700     39700                                  
+SASIER       UB357       0010KAMUDZBEA      O                                      24600     39700                                  
+SASIER       UB357       0020BL   UCD       O                             1312     24600     39700                                  
+SASIER       UB358       0010KAMUDZBEA      O                                      24600     39700                                  
+SASIER       UB358       0020TADOTUCEA      O                             1397     24600     39700                                  

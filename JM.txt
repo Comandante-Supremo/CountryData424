@@ -1,0 +1,112 @@
+SSCAEAENRT   ALMUS MK           N18284110W0773411100                                                                                
+SSCAEAENRT   CIBUG MK           N18003445W076572968                                                                                 
+SSCAEAENRT   ELSER MK           N18012707W077011577                                                                                 
+SSCAEAENRT   FABAL MK           N18043504W077063943                                                                                 
+SSCAEAENRT   GUDIL MK           N17582685W076532831                                                                                 
+SSCAEAENRT   KEMBO MK           N18130800W0772116100                                                                                
+SSCAEAENRT   KENTA MK           N18162910W0772829100                                                                                
+SSCAEAENRT   KESPA MK           N18025410W0772116100                                                                                
+SSCAEAENRT   KEYNO MK           N18025734W077024930                                                                                 
+SSCAEAENRT   LENAR MK           N18250251W078054571                                                                                 
+SSCAEAENRT   LIBEX MK           N18232100W0772116100                                                                                
+SSCAEAENRT   MLY04 MK           N17571917W076503304                                                                                 
+SSCAEAENRT   MLY21 MK           N18034201W077070649                                                                                 
+SSCAEAENRT   MLY26 MK           N17532547W077041933                                                                                 
+SSCAEAENRT   MLY31 MK           N18053611W077011719                                                                                 
+SSCAEAENRT   MLY34 MK           N18111747W076541254                                                                                 
+SSCAEAENRT   MLY71 MK           N17562727W076481872                                                                                 
+SSCAEAENRT   MLY98 MK           N18040507W077021649                                                                                 
+SSCAEAENRT   MLY99 MK           N18001335W077035394                                                                                 
+SSCAEAENRT   MOBAR MK           N18251809W078044367                                                                                 
+SSCAEAENRT   ODOBE MK           N17573485W076503363                                                                                 
+SSCAEAENRT   SALOC MK           N17585656W076533979                                                                                 
+SSCAEAENRT   SENLA MK           N18274710W0772153100                                                                                
+SSCAEAENRT   SIA04 MK           N18281428W077591189                                                                                 
+SSCAEAENRT   SIA06 MK           N18271950W078010442                                                                                 
+SSCAEAENRT   SIA15 MK           N18292272W077565119                                                                                 
+SSCADB       KIN   MK000360     N17575900W076523000                                                                                 
+SSCADB       MBJ   MK000248     N18301210W077550606                                                                                 
+SSCAD        MLY   MK011550V    N17554890W076463950                                                                                 
+SSCAD        MBJ   MK011570V    N18300130W077552610                                                                                 
+SSCAD        SIA   MK011570V    N18300380W077552680                                                                                 
+SSCAD        MLY   MK011550 D   N17554890W076463950                                                                                 
+SSCAD        MBJ   MK011570 D   N18300130W077552610                                                                                 
+SSCAD        SIA   MK011570 D   N18300380W077552680                                                                                 
+SSCAER       W6          0050SENLAMKEA      O                             0191     04500     24500                                  
+SSCAER       A301        0220MLY  MKD       O                                      04500     24500                                  
+SSCAER       A301        0230SAVEM  EA      O                             0342     04500     24500                                  
+SSCAER       W1          0530MLY  MKD       O                                      04500     24500                                  
+SSCAER       W1          0540LIBEXMKEA      O                             0429     04500     24500                                  
+SSCAER       W1          0550SIA  MKD       O                             0331     04500     24500                                  
+SSCAER       B503        0010MLY  MKD       O                                      04500     24500                                  
+SSCAER       B503        0020RADOK  EA      O                             0313     04500     24500                                  
+SSCAER       G633        0270MLY  MKD       O                             0394     04500     24500                                  
+SSCAER       G434        0010MLY  MKD       O                                      04500     24500                                  
+SSCAER       G434        0020DATOM  EA      O                             0400     04500     24500                                  
+SSCAER       G430        0130SIA  MKD       O                             0551     04500     24500                                  
+SSCAER       G430        0140SEKAM  EA      O                             0402     04500     24500                                  
+SSCAER       A511        0160SIA  MKD       O                             0396     04500     24500                                  
+SSCAER       A511        0170MLY  MKD       O                                      04500     24500                                  
+SSCAER       A511        0180TIBEL  EA      O                             0393     04500     24500                                  
+SSCAER       L417        0010MLY  MKD       O                                      09500     24500                                  
+SSCAER       L417        0020PULKA  EA      O                             0813     09500     24500                                  
+SSCAER       W2          0310KESPAMKEA      O                                      04500     24500                                  
+SSCAER       W2          0320SIA  MKD       O                             0423     04500     24500                                  
+SSCAER       B510        0010SIA  MKD       O                                      04500     24500                                  
+SSCAER       B510        0020BOSOM  EA      O                             0392     04500     24500                                  
+SSCAER       B520        0100MLY  MKD       O                             0721     04500     24500                                  
+SSCAER       B520        0110VIRNA  EA      O                             0394     04500     24500                                  
+SSCAER       R640        0160MLY  MKD       O                             0395     04500     24500                                  
+SSCAER       L599        0030MLY  MKD       O                             0393     09500     24500                                  
+SSCAER       G442        0030MLY  MKD       O                                      04500     24500                                  
+SSCAER       G442        0040URMAN  EA      O                             0394     04500     24500                                  
+SSCAER       G633-       0060SIA  MKD       O                             0394     04500     24500                                  
+SSCAER       L341-       0030SIA  MKD       O                             0399     04500     24500                                  
+SSCAER       R625        0010SIA  MKD       O                                      04500     24500                                  
+SSCAER       R625        0020KAPAR  EA      O                             0405     04500     24500                                  
+SSCAER       A511-       0010MLY  MKD       O                                      04500     24500                                  
+SSCAER       A511-       0020KEMBOMKEA      O                             0372     04500     24500                                  
+SSCAER       A511-       0030SIA  MKD       O                             0366     04500     24500                                  
+SSCAER       W2-W8       0010KESPAMKEA      O                                      04500     24500                                  
+SSCAER       W2-W8       0020MLY  MKD       O                             0337     04500     24500                                  
+SSCAER       L347        0010MLY  MKD       O                                      09500     24500                                  
+SSCAER       L347        0020VIKRO  EA      O                             0712     09500     24500                                  
+SSCAER       UW10        0390SIA  MKD       O                             1067     24500     60000                                  
+SSCAER       UA301       0160MLY  MKD       O                             1818     24500     60000                                  
+SSCAER       UA301       0170SAVEM  EA      O                             0342     24500     60000                                  
+SSCAER       UB503       0010MLY  MKD       O                                      24500     60000                                  
+SSCAER       UB503       0020BEMOL  EA      O                             0866     24500     60000                                  
+SSCAER       UW6         0050SENLAMKEA      O                             0191     24500     60000                                  
+SSCAER       UW6         0060SIA  MKD       O                             0319     24500     60000                                  
+SSCAER       UG633       0020MLY  MKD       O                             1223     24500     60000                                  
+SSCAER       UG434       0010MLY  MKD       O                                      24500     60000                                  
+SSCAER       UG434       0020BEREX  EA      O                             0993     24500     60000                                  
+SSCAER       UG430       0090SIA  MKD       O                             1345     24500     60000                                  
+SSCAER       UG430       0100PUTUL  EA      O                             0910     24500     60000                                  
+SSCAER       UW9         0170SIA  MKD       O                                      24500     60000                                  
+SSCAER       UW9         0180TALOS  EA      O                             0646     24500     60000                                  
+SSCAER       UA511       0130SIA  MKD       O                             0728     24500     60000                                  
+SSCAER       UA511       0140MLY  MKD       O                             0738     24500     60000                                  
+SSCAER       UA511       0150TARBA  EA      O                             2071     19500     60000                                  
+SSCAER       UW8         0160KESPAMKEA      O                             0970     24500     60000                                  
+SSCAER       UW8         0170MLY  MKD       O                             0337     24500     60000                                  
+SSCAER       UR640       0130MLY  MKD       O                                      24500     60000                                  
+SSCAER       UR640       0140EDROD  EA      O                             2117     24500     60000                                  
+SSCAER       UB510       0010SIA  MKD       O                                      24500     60000                                  
+SSCAER       UB510       0020BOSOM  EA      O                             0392     24500     60000                                  
+SSCAER       UB520       0080MLY  MKD       O                             0721     24500     60000                                  
+SSCAER       UB520       0090SASON  EA      O                             1444     24500     60000                                  
+SSCAER       UL417       0100MLY  MKD       O                             1850     24500     60000                                  
+SSCAER       UL417       0110PULKA  EA      O                             0813     24500     60000                                  
+SSCAER       UL599       0040MLY  MKD       O                             0393     24500     60000                                  
+SSCAER       UG633       0010SIA  MKD       O                                      24500     60000                                  
+SSCAER       UG633       0020FROST  EA      O                             0643     24500     60000                                  
+SSCAER       UL341       0010SIA  MKD       O                                      24500     60000                                  
+SSCAER       UL341       0020KIRAN  EA      O                             0399     24500     60000                                  
+SSCAER       UG442       0010MLY  MKD       O                                      24500     60000                                  
+SSCAER       UG442       0020KEMBOMKEA      O                             0372     24500     60000                                  
+SSCAER       UG442       0030SIA  MKD       O                             0366     24500     60000                                  
+SSCAER       UR625       0010SIA  MKD       O                                      24500     60000                                  
+SSCAER       UR625       0020MATOS  EA      O                             0646     24500     60000                                  
+SSCAER       UL347       0010MLY  MKD       O                                      24500     60000                                  
+SSCAER       UL347       0020VIKRO  EA      O                             0712     24500     60000                                  

@@ -1,0 +1,52 @@
+SSCAEAENRT   AVAKO MZ           N17073600W0882247100                                                                                
+SSCAEAENRT   BZE06 MZ           N17324323W088251213                                                                                 
+SSCAEAENRT   BZE25 MZ           N17300882W088244511                                                                                 
+SSCAEAENRT   BZE46 MZ           N18151591W088354838                                                                                 
+SSCAEAENRT   LORGO MZ           N17351310W088445700                                                                                 
+SSCAEAENRT   OLOVA MZ           N17120600W0883419100                                                                                
+SSCAEAENRT   PIKRO MZ           N17554710W088280000                                                                                 
+SSCAEAENRT   ULBIN MZ           N17223600W088430000                                                                                 
+SSCAEAENRT   ULEVA MZ           N17571710W0881853100                                                                                
+SSCADB       BZE   MZ000392     N17320200W088183800                                                                                 
+SSCAD        BZE   MZ011430V    N17322440W088185560                                                                                 
+SSCAD        BZE   MZ011430 D   N17322440W088185560                                                                                 
+SSCAER       B764        0060BZE  MZD       O                                      03000     19500                                  
+SSCAER       B764        0070TAMDA  EA      O                             0249     03000     19500                                  
+SSCAER       R630        0080BZE  MZD       O                             0250     03000     19500                                  
+SSCAER       R630        0090OLOVAMZEA      O                             0251     08000     19500                                  
+SSCAER       R630        0100BENESMGEA      O                             0736     12000     19500                                  
+SSCAER       G633        0010BZE  MZD       O                                      03000     19500                                  
+SSCAER       G633        0020LORGOMZEA      O                             0250     03000     19500                                  
+SSCAER       G633        0030KINALMGEA      O                             0239     03000     19500                                  
+SSCAER       A754        0010BZE  MZD       O                                      03000     19500                                  
+SSCAER       A754        0020ROSGA  EA      O                             0251     03000     19500                                  
+SSCAER       B753        0040BZE  MZD       O                             0252     03000     19500                                  
+SSCAER       B753        0050PIKROMZEA      O                             0250     03000     19500                                  
+SSCAER       B753        0060BZE46MZEA      O                             0208     03000     19500                                  
+SSCAER       B753        0070PENSOMMEA      O                             0092     03000     19500                                  
+SSCAER       B518        0010BZE  MZD       O                                      03000     19500                                  
+SSCAER       B518        0020ULBINMZEA      O                             0250     03000     19500                                  
+SSCAER       B518        0030DEDALMGEA      O                             0270     03000     19500                                  
+SSCAER       R899        0010BZE  MZD       O                                      03000     19500                                  
+SSCAER       R899        0020ULEVAMZEA      O                             0249     03000     19500                                  
+SSCAER       R899        0030CTM  MMD       O                             0333     03000     19500                                  
+SSCAER       UB764       0060BZE  MZD       O                                      19500     60000                                  
+SSCAER       UB764       0070TAMDA  EA      O                             0249     19500     60000                                  
+SSCAER       UR630       0080BZE  MZD       O                             0250     19500     60000                                  
+SSCAER       UR630       0090OLOVAMZEA      O                             0251     19500     60000                                  
+SSCAER       UR630       0100BENESMGEA      O                             0736     19500     60000                                  
+SSCAER       UG633       0030BZE  MZD       O                                      19500     60000                                  
+SSCAER       UG633       0040LORGOMZEA      O                             0250     19500     60000                                  
+SSCAER       UG633       0050KINALMGEA      O                             0239     19500     60000                                  
+SSCAER       UA754       0010BZE  MZD       O                                      19500     60000                                  
+SSCAER       UA754       0020ROSGA  EA      O                             0251     19500     60000                                  
+SSCAER       UB753       0040BZE  MZD       O                             0252     19500     60000                                  
+SSCAER       UB753       0050PIKROMZEA      O                             0250     19500     60000                                  
+SSCAER       UB753       0060BZE46MZEA      O                             0208     19500     60000                                  
+SSCAER       UB753       0070PENSOMMEA      O                             0092     19500     60000                                  
+SSCAER       UB518       0010BZE  MZD       O                                      19500     60000                                  
+SSCAER       UB518       0020ULBINMZEA      O                             0250     19500     60000                                  
+SSCAER       UB518       0030DEDALMGEA      O                             0270     19500     60000                                  
+SSCAER       UR899       0010BZE  MZD       O                                      19500     60000                                  
+SSCAER       UR899       0020ULEVAMZEA      O                             0249     19500     60000                                  
+SSCAER       UR899       0030CTM  MMD       O                             0333     19500     60000                                  

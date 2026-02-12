@@ -1,0 +1,11 @@
+SAFREAENRT   ARASI              N01480200E0101638100                                                                                
+SAFREAENRT   GUPAM              N02035000E0110038100                                                                                
+SAFREAENRT   KINDA              N01345910E009424200                                                                                 
+SAFRDB       BT      000325     N01542060E009480740                                                                                 
+SAFRER       G857G       0030BT     D       O                             0420     07500     24500                                  
+SAFRER       G857G       0040KINDA  EA      O                             0201     07500     24500                                  
+SAFRER       G857G       0050LV     D       O                             0688     07500     24500                                  
+SAFRER       A604F       0070GUPAM  EA      O                             0959     07500     24500                                  
+SAFRER       A604F       0080ETNOM  EA      O                             0304     07500     24500                                  
+SAFRER       UG857       0020BT     D       O                             0889     24500     46000                                  
+SAFRER       UG857       0030DLA    D       O                             1254     24500     46000                                  

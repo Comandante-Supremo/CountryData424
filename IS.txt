@@ -1,0 +1,133 @@
+SEUREAENRT   AKI01 BI           N65544100W018141100                                                                                 
+SEUREAENRT   ARNAR BI           N64405010W018330100                                                                                 
+SEUREAENRT   ASKJA BI           N64521410W0171543100                                                                                
+SEUREAENRT   ASKUR BI           N65114400W018413000                                                                                 
+SEUREAENRT   BAKKI BI           N63520210W021173900                                                                                 
+SEUREAENRT   BAULA BI           N64562110W014413500                                                                                 
+SEUREAENRT   BDFC1 BI           N65324402W023305778                                                                                 
+SEUREAENRT   BDMC1 BI           N65374240W023321299                                                                                 
+SEUREAENRT   BDTC1 BI           N65424078W023332847                                                                                 
+SEUREAENRT   BLAMI BI           N64284800W0194910100                                                                                
+SEUREAENRT   BRAGI BI           N65290300W015144400                                                                                 
+SEUREAENRT   BRUSI BI           N65044400W0154351100                                                                                
+SEUREAENRT   BUNGA BI           N64380600W0155408100                                                                                
+SEUREAENRT   EGILL BI           N65020300W0144045100                                                                                
+SEUREAENRT   ELVUR BI           N65061210W014501500                                                                                 
+SEUREAENRT   FELLI BI           N65211500W015102600                                                                                 
+SEUREAENRT   FJALL BI           N63584610W022003300                                                                                 
+SEUREAENRT   FJARA BI           N63393200W0180316100                                                                                
+SEUREAENRT   GAKTU BI           N63573600W0204328100                                                                                
+SEUREAENRT   GRJOT BI           N65290510W015005500                                                                                 
+SEUREAENRT   GUNNI BI           N65355700W0180339100                                                                                
+SEUREAENRT   HNF18 BI           N64243486W015262670                                                                                 
+SEUREAENRT   HNI18 BI           N64342106W015462460                                                                                 
+SEUREAENRT   HNM18 BI           N64191955W015155094                                                                                 
+SEUREAENRT   HOLAR BI           N65432310W0170137100                                                                                
+SEUREAENRT   IES22 BI           N65101300W0143141100                                                                                
+SEUREAENRT   IES27 BI           N65123800W0144103100                                                                                
+SEUREAENRT   IES30 BI           N65163310W014410300                                                                                 
+SEUREAENRT   IES36 BI           N65242610W014250900                                                                                 
+SEUREAENRT   ISFC1 BI           N66042081W022483009                                                                                 
+SEUREAENRT   ISIC1 BI           N66015554W022374345                                                                                 
+SEUREAENRT   ISMC1 BI           N66064535W022591878                                                                                 
+SEUREAENRT   JOKUL BI           N64342100W0154624100                                                                                
+SEUREAENRT   KALFA BI           N65342410W0151936100                                                                                
+SEUREAENRT   KEILA BI           N63590310W022093200                                                                                 
+SEUREAENRT   KELDU BI           N64525110W015113900                                                                                 
+SEUREAENRT   KLAKI BI           N64392000W0154611100                                                                                
+SEUREAENRT   KLAKK BI           N65593000W0222658100                                                                                
+SEUREAENRT   KOBBI BI           N64325600W0160920100                                                                                
+SEUREAENRT   KOGUN BI           N64000500W021211500                                                                                 
+SEUREAENRT   KRUBB BI           N66023010W015370500                                                                                 
+SEUREAENRT   LAUGA BI           N65573300W022434000                                                                                 
+SEUREAENRT   LITLI BI           N63564810W021350300                                                                                 
+SEUREAENRT   METIL BI           N63581810W0213133100                                                                                
+SEUREAENRT   MHN18 BI           N64191910W015155100                                                                                 
+SEUREAENRT   MIKLA BI           N63505310W017342700                                                                                 
+SEUREAENRT   MOXAL BI           N64045910W018000000                                                                                 
+SEUREAENRT   MULAR BI           N66100610W0155036100                                                                                
+SEUREAENRT   MURTA BI           N64080810W0214839100                                                                                
+SEUREAENRT   MYRAR BI           N64420710W022085300                                                                                 
+SEUREAENRT   NANEX BI           N64065310W0212330100                                                                                
+SEUREAENRT   NONNI BI           N65184810W019240100                                                                                 
+SEUREAENRT   OSKUM BI           N63424310W020263400                                                                                 
+SEUREAENRT   PENUX BI           N65445710W0174533100                                                                                
+SEUREAENRT   PEVEX BI           N65400000W017340500                                                                                 
+SEUREAENRT   PEXIL BI           N65241400W0180303100                                                                                
+SEUREAENRT   REKTU BI           N64104510W022102600                                                                                 
+SEUREAENRT   REKVA BI           N64263000W0204915100                                                                                
+SEUREAENRT   RETUR BI           N65321810W0173728100                                                                                
+SEUREAENRT   RITIR BI           N65424310W0171848100                                                                                
+SEUREAENRT   RKF31 BI           N64050059W021434341                                                                                 
+SEUREAENRT   RKI31 BI           N64024665W021332962                                                                                 
+SEUREAENRT   RKM31 BI           N64071383W021535881                                                                                 
+SEUREAENRT   SELVO BI           N63541100W021484500                                                                                 
+SEUREAENRT   SKALM BI           N65374210W0222135100                                                                                
+SEUREAENRT   SKARD BI           N63563400W0201217100                                                                                
+SEUREAENRT   SKOTT BI           N64470810W0225214100                                                                                
+SEUREAENRT   SOGID BI           N64090900W0210402100                                                                                
+SEUREAENRT   SORAK BI           N66042700W0155023100                                                                                
+SEUREAENRT   SORPU BI           N64425210W0222823100                                                                                
+SEUREAENRT   STAPA BI           N66061800W022314400                                                                                 
+SEUREAENRT   TERTU BI           N64260300W0214342100                                                                                
+SEUREAENRT   THORI BI           N64202400W019000000                                                                                 
+SEUREAENRT   TIBRA BI           N64173400W0205541100                                                                                
+SEUREAENRT   TJORN BI           N65392410W017143800                                                                                 
+SEUREAENRT   TNFC1 BI           N66101380W015301360                                                                                 
+SEUREAENRT   TNIC1 BI           N66072094W015401991                                                                                 
+SEUREAENRT   TNMC1 BI           N66130510W0152004100                                                                                
+SEUREAENRT   VM321 BI           N63511500W021393700                                                                                 
+SEUREAENRT   VM340 BI           N63525910W021070400                                                                                 
+SEURDB       AR    BI000334     N65452140W018052260                                                                                 
+SEURDB       BL    BI000351     N65410910W020173300                                                                                 
+SEURDB       NB    BI000387     N65193310W018173690                                                                                 
+SEURDB       ES    BI000365     N65141850W014270730                                                                                 
+SEURDB       EL    BI000335     N64045110W021461460                                                                                 
+SEURDB       GA    BI000377     N65524000W0172747100                                                                                
+SEURDB       GJ    BI000340     N65594010W0211947100                                                                                
+SEURDB       GF    BI000319     N64085840W021562960                                                                                 
+SEURDB       HE    BI000362     N65450210W019310900                                                                                 
+SEURDB       HJ    BI000319     N65510600W018112980                                                                                 
+SEURDB       HA    BI000348     N65374510W015022900                                                                                 
+SEURDB       HK    BI000366     N65383610W0212824100                                                                                
+SEURDB       HS    BI000329     N65553610W017262000                                                                                 
+SEURDB       IS    BI000385     N66055430W023022030                                                                                 
+SEURDB       KN    BI000364     N65351300W018033180                                                                                 
+SEURDB       LA    BI000344     N65343600W0192917100                                                                                
+SEURDB       MN    BI000382     N65180820W014224830                                                                                 
+SEURDB       NS    BI000370     N64080200W021574220                                                                                 
+SEURDB       NF    BI000325     N65080310W013441100                                                                                 
+SEURDB       OE    BI000415     N65411130W018043950                                                                                 
+SEURDB       OG    BI000400     N66023830W022405320                                                                                 
+SEURDB       RH    BI000325     N64395100W021171100                                                                                 
+SEURDB       RL    BI000405     N65372810W016551400                                                                                 
+SEURDB       RE    BI000316     N65553540W022255350                                                                                 
+SEURDB       RK    BI000355     N64090530W022014380                                                                                 
+SEURDB       SB    BI000310     N65471860W023592710                                                                                 
+SEURDB       SE    BI000397     N63554400W021020300                                                                                 
+SEURDB       SA    BI000379     N64181960W021581660                                                                                 
+SEURDB       SD    BI000370     N66040010W0191959100                                                                                
+SEURDB       TN    BI000373     N66131490W015195240                                                                                 
+SEURDB       TO    BI000324     N65300151W018090340                                                                                 
+SEURDB       VA    BI000335     N65063430W014354610                                                                                 
+SEURDB       VP    BI000393     N65425900W014511400                                                                                 
+SEURD        AKI   BI011360V    N65453530W018001480                                                                                 
+SEURD        KEF   BI011200V    N63591250W022365220                                                                                 
+SEURD        IKN   BI011130 D   N63580150W022361240                                                                                 
+SEURD        IKO   BI011030 D   N63592090W022360840                                                                                 
+SEURD        IKW   BI010850 D   N63591010W022355660                                                                                 
+SEURD        IKR   BI010970 D   N65443110W019343900                                                                                 
+SEURD        AKI   BI011360 D   N65453530W018001480                                                                                 
+SEURD        IEY   BI011190 D   N65385460W018040410                                                                                 
+SEURD        IES   BI010930 D   N65162910W014242300                                                                                 
+SEURD        IHU   BI011090 D   N65574700W017251700                                                                                 
+SEURD        KEF   BI011200 D   N63591250W022365220                                                                                 
+SEURD        IAL   BI010890 D   N65385460W018040410                                                                                 
+SEURD        IOG   BI011010 D   N66023720W022405840                                                                                 
+SEURD        IRE   BI010910 D   N64074850W021555770                                                                                 
+SEURER       G1S         0010NONNIBIEA      O                                      05800     60000                                  
+SEURER       G1S         0020RH   BID       O                             0617     05800     60000                                  
+SEURER       5E20        0010KEF  BID       O                                      28000     60000                                  
+SEURER       5E20        0020EMBLA  EA      O                             1201     28000     60000                                  
+SEURER       5E72        0010KEF  BID       O                                      28000     60000                                  
+SEURER       5E72        0020GIMLI  EA      O                             1201     28000     60000                                  

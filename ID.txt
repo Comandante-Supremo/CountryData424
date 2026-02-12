@@ -1,0 +1,395 @@
+SASIEAENRT   AGIGU WI           S06555777E138524462                                                                                 
+SASIEAENRT   AMRUD WI           N00214710E128353000                                                                                 
+SASIEAENRT   ATOMY WI           S03075014E129465304                                                                                 
+SASIEAENRT   BIBUL WI           S02403663E102052364                                                                                 
+SASIEAENRT   BIRAS WI           N01075900E0994820100                                                                                
+SASIEAENRT   BISOM WI           S02192334E115503742                                                                                 
+SASIEAENRT   BORAS WI           S03363834E105311622                                                                                 
+SASIEAENRT   BUNBO WI           S04175468E137355112                                                                                 
+SASIEAENRT   CGK29 WI           S06111484E106343809                                                                                 
+SASIEAENRT   CGL00 WI           S06074612E106402958                                                                                 
+SASIEAENRT   CGL07 WI           S06072896E106410547                                                                                 
+SASIEAENRT   CGR00 WI           S06062944E106400894                                                                                 
+SASIEAENRT   CGR05 WI           S06061732E106403886                                                                                 
+SASIEAENRT   CHL00 WI           S06071696E106381518                                                                                 
+SASIEAENRT   CHL07 WI           S06073346E106373486                                                                                 
+SASIEAENRT   CHR00 WI           S06083328E106383424                                                                                 
+SASIEAENRT   CHR05 WI           S06084474E106380579                                                                                 
+SASIEAENRT   CKG16 WI           S06095243E106314635                                                                                 
+SASIEAENRT   CKG19 WI           S06115878E106295874                                                                                 
+SASIEAENRT   CKG24 WI           S06104894E106292526                                                                                 
+SASIEAENRT   CKG35 WI           S06112571E106275209                                                                                 
+SASIEAENRT   CKG44 WI           S06125278E106274122                                                                                 
+SASIEAENRT   CKG64 WI           S06122326E106252658                                                                                 
+SASIEAENRT   CKG68 WI           S06134750E106252369                                                                                 
+SASIEAENRT   CKG85 WI           S06132177E106230090                                                                                 
+SASIEAENRT   CL067 WI           S06032052E106501330                                                                                 
+SASIEAENRT   CL120 WI           S06061800E106561800                                                                                 
+SASIEAENRT   CL180 WI           S06061800E107021800                                                                                 
+SASIEAENRT   CR053 WI           S06103064E106432945                                                                                 
+SASIEAENRT   CR070 WI           S06023310E106500256                                                                                 
+SASIEAENRT   CR120 WI           S06051200E106550600                                                                                 
+SASIEAENRT   CR190 WI           S06051200E107021800                                                                                 
+SASIEAENRT   DILAM WI           S00533656E120223782                                                                                 
+SASIEAENRT   DIOLA WI           S02245422E121404702                                                                                 
+SASIEAENRT   DK269 WI           S05584887E106594344                                                                                 
+SASIEAENRT   DKI15 WI           S06035644E106484365                                                                                 
+SASIEAENRT   DKI18 WI           S06041492E106454590                                                                                 
+SASIEAENRT   DKI26 WI           S06242400E107021800                                                                                 
+SASIEAENRT   DKI28 WI           S06045434E106344927                                                                                 
+SASIEAENRT   DKI30 WI           S06280600E107021800                                                                                 
+SASIEAENRT   DKI31 WI           S06000956E106311649                                                                                 
+SASIEAENRT   DKI42 WI           S06081594E106214877                                                                                 
+SASIEAENRT   DKI46 WI           S06431110E107021800                                                                                 
+SASIEAENRT   DOMIL WI           S03550810E105141779                                                                                 
+SASIEAENRT   DOSIK WI           N01455110E1020236100                                                                                
+SASIEAENRT   DUNAM WI           S06521930E105550120                                                                                 
+SASIEAENRT   EBONY WI           S00542910E1104211100                                                                                
+SASIEAENRT   ELANG WI           S00553564E114500310                                                                                 
+SASIEAENRT   FORMY WI           N00401800E1282335100                                                                                
+SASIEAENRT   GEPAK WI           S07460394E110010604                                                                                 
+SASIEAENRT   GL469 WI           S06080157E106295124                                                                                 
+SASIEAENRT   GONTA WI           N00484874E123221148                                                                                 
+SASIEAENRT   GR052 WI           S06132056E106382562                                                                                 
+SASIEAENRT   GR296 WI           S06095420E106305847                                                                                 
+SASIEAENRT   HAMOL WI           S01461365E115202332                                                                                 
+SASIEAENRT   HELIT WI           S02071788E133044616                                                                                 
+SASIEAENRT   HLM16 WI           S06175023E107090429                                                                                 
+SASIEAENRT   HLM17 WI           S06061303E106391198                                                                                 
+SASIEAENRT   HLM19 WI           S06051121E106373997                                                                                 
+SASIEAENRT   HLM20 WI           S06210600E107124200                                                                                 
+SASIEAENRT   HLM26 WI           S06414569E106460012                                                                                 
+SASIEAENRT   IBALA WI           S04384459E103561431                                                                                 
+SASIEAENRT   IMABA WI           S07045116E107303931                                                                                 
+SASIEAENRT   JAMIS WI           N01271183E099253642                                                                                 
+SASIEAENRT   JATAM WI           S01042035E102533990                                                                                 
+SASIEAENRT   JILAT WI           N04243167E097112262                                                                                 
+SASIEAENRT   JODRA WI           S01463944E137573159                                                                                 
+SASIEAENRT   KADAB WI           S04575310E141000000                                                                                 
+SASIEAENRT   KALAM WI           S02184842E102130887                                                                                 
+SASIEAENRT   KANIP WI           S03055941E121070522                                                                                 
+SASIEAENRT   KASAL WI           S06323837E107562610                                                                                 
+SASIEAENRT   KOBAS WI           S03000000E1121435100                                                                                
+SASIEAENRT   KUALA WI           S01083788E103083580                                                                                 
+SASIEAENRT   KUBIA WI           S02051549E138560391                                                                                 
+SASIEAENRT   KUTAI WI           S01202348E116423131                                                                                 
+SASIEAENRT   LOLOT WI           N00244962E117095572                                                                                 
+SASIEAENRT   MADON WI           N02162062E117250366                                                                                 
+SASIEAENRT   MAHER WI           N00454189E128173682                                                                                 
+SASIEAENRT   MALIO WI           S03444654E139193317                                                                                 
+SASIEAENRT   MEDIA WI           N01564177E100024440                                                                                 
+SASIEAENRT   MELAM WI           S04154370E140335763                                                                                 
+SASIEAENRT   MILAT WI           S04153746E121542515                                                                                 
+SASIEAENRT   NABAT WI           S04384370E121595944                                                                                 
+SASIEAENRT   NOMAD WI           S01280455E111352517                                                                                 
+SASIEAENRT   NUPIA WI           S02484639E136280151                                                                                 
+SASIEAENRT   OBASA WI           S02222946E137151810                                                                                 
+SASIEAENRT   ODIUM WI           S03572443E137591336                                                                                 
+SASIEAENRT   OKABU WI           N03263000E097362400                                                                                 
+SASIEAENRT   OLENG WI           S03000000E1333559100                                                                                
+SASIEAENRT   OMEGA WI           S00225910E111071200                                                                                 
+SASIEAENRT   OSERO WI           S08355910E141000000                                                                                 
+SASIEAENRT   OSMON WI           S03243140E138582210                                                                                 
+SASIEAENRT   OSUKA WI           S01173000E110244200                                                                                 
+SASIEAENRT   PABIO WI           S02374074E102100210                                                                                 
+SASIEAENRT   PASOL WI           S01493000E102230600                                                                                 
+SASIEAENRT   PDG25 WI           S00360705E100401858                                                                                 
+SASIEAENRT   PEKDO WI           N02550510E0991659100                                                                                
+SASIEAENRT   PIDON WI           N00340336E102210936                                                                                 
+SASIEAENRT   PKU30 WI           S00031042E101262938                                                                                 
+SASIEAENRT   PURWO WI           S07114843E110450763                                                                                 
+SASIEAENRT   R1690 WI           S07223954E112462441                                                                                 
+SASIEAENRT   RABOL WI           S08011712E113534449                                                                                 
+SASIEAENRT   RENDA WI           S07151528E107132429                                                                                 
+SASIEAENRT   ROTAN WI           S00315137E112170783                                                                                 
+SASIEAENRT   SADEP WI           S03203350E129041030                                                                                 
+SASIEAENRT   SBY00 WI           S07220632E112433445                                                                                 
+SASIEAENRT   SBY03 WI           S07225448E112491545                                                                                 
+SASIEAENRT   SBY04 WI           S07215675E112421648                                                                                 
+SASIEAENRT   SBY05 WI           S07231334E112511482                                                                                 
+SASIEAENRT   SBY09 WI           S07212799E112391429                                                                                 
+SASIEAENRT   SBY11 WI           S07210296E112345866                                                                                 
+SASIEAENRT   SBY12 WI           S07223972E112363276                                                                                 
+SASIEAENRT   SBY15 WI           S07224033E112474592                                                                                 
+SASIEAENRT   SBY25 WI           S07243611E112350603                                                                                 
+SASIEAENRT   SBY26 WI           S07220706E112434045                                                                                 
+SASIEAENRT   SBY27 WI           S07214939E112411650                                                                                 
+SASIEAENRT   SBY30 WI           S07220411E112431646                                                                                 
+SASIEAENRT   SBY63 WI           S07241090E112401041                                                                                 
+SASIEAENRT   SBY77 WI           S07213982E112395853                                                                                 
+SASIEAENRT   SBY99 WI           S07210823E112371515                                                                                 
+SASIEAENRT   SOTRA WI           S10003510E120000000                                                                                 
+SASIEAENRT   TALAM WI           S02301045E102082612                                                                                 
+SASIEAENRT   TAPIR WI           S00531200E123000000                                                                                 
+SASIEAENRT   TAROS WI           N00420000E1021611100                                                                                
+SASIEAENRT   TERKA WI           S04140241E104573711                                                                                 
+SASIEAENRT   TISTO WI           S03244090E139043430                                                                                 
+SASIEAENRT   TODAK WI           S02311869E105231781                                                                                 
+SASIEAENRT   TOLIT WI           S04545195E104283149                                                                                 
+SASIEAENRT   TULIP WI           S05252472E105374741                                                                                 
+SASIEAENRT   TUNDA WI           S04421110E104343000                                                                                 
+SASIEAENRT   UBLAT WI           S08100010E139294990                                                                                 
+SASIEAENRT   VANKA WI           S02431800E141000000                                                                                 
+SASIEAENRT   WR044 WI           S07223719E112463223                                                                                 
+SASIDB       AG    WI000233     N01235402E099254428                                                                                 
+SASIDB       AM    WI000278     S03204810E128555900                                                                                 
+SASIDB       AK    WI000221     S04345910E105160000                                                                                 
+SASIDB       AA    WI000300     S09042710E1245416100                                                                                
+SASIDB       AS    WI000399     S06321710E106451900                                                                                 
+SASIDB       TF    WI000290     S05144166E105104134                                                                                 
+SASIDB       OY    WI000300     S06552430E107385250                                                                                 
+SASIDB       OU    WI000390     S03261049E114451342                                                                                 
+SASIDB       BR    WI000357     S04235200E104241100                                                                                 
+SASIDB       BR    WI000274     S05310000E1223259100                                                                                
+SASIDB       PB    WI000210     S03513574E102202649                                                                                 
+SASIDB       PO    WI000223     S08322662E118412994                                                                                 
+SASIDB       BA    WI000240     S06593351E111250826                                                                                 
+SASIDB       BG    WI000300     N00070000E117280000                                                                                 
+SASIDB       BK    WI000217     S01400847E114534920                                                                                 
+SASIDB       CU    WI000210     S07114024E111325386                                                                                 
+SASIDB       CP    WI000235     S07383271E109020706                                                                                 
+SASIDB       CA    WI000365     S06415273E108333513                                                                                 
+SASIDB       DM    WI000343     N01384200E1012717100                                                                                
+SASIDB       ED    WI000350     S08505310E121395400                                                                                 
+SASIDB       FA    WI000380     S02555910E132180000                                                                                 
+SASIDB       GL    WI000201     N01501700E127471100                                                                                 
+SASIDB       NN    WI000285     N00382681E122510222                                                                                 
+SASIDB       GN    WI000319     N02520000E1172259100                                                                                
+SASIDB       AL    WI000215     S06113826E107022409                                                                                 
+SASIDB       OJ    WI000375     S05045684E119310765                                                                                 
+SASIDB       KMI   WI000276     S00412310E1142641100                                                                                
+SASIDB       AR    WI000315     S07395400E111260600                                                                                 
+SASIDB       NX    WI000365     S01375152E103382593                                                                                 
+SASIDB       ZN    WI000395     S02340568E140302686                                                                                 
+SASIDB       KM    WI000232     N02093821E117260142                                                                                 
+SASIDB       DF    WI000310     S01251213E1203933100                                                                                
+SASIDB       NI    WI000215     S04051137E122244093                                                                                 
+SASIDB       KC    WI000201     S02060000E101220000                                                                                 
+SASIDB       KU    WI000382     N01111370E127533686                                                                                 
+SASIDB       OK    WI000385     S10100120E123402805                                                                                 
+SASIDB       LW    WI000290     S07491800E1124123100                                                                                
+SASIDB       LS    WI000222     N05040510E097151100                                                                                 
+SASIDB       LO    WI000227     N01421800E114581260                                                                                 
+SASIDB       LU    WI000240     S03165900E102550120                                                                                 
+SASIDB       ML    WI000342     S07560249E112424267                                                                                 
+SASIDB       LW    WI000335     N05133600E096570100                                                                                 
+SASIDB       MU    WI000235     S02345910E1190159100                                                                                
+SASIDB       PN    WI000290     N01293703E124543414                                                                                 
+SASIDB       BE    WI000325     N02003200E117445760                                                                                 
+SASIDB       NO    WI000250     S08380766E122140947                                                                                 
+SASIDB       ON    WI000375     N03340638E098402282                                                                                 
+SASIDB       ZP    WI000253     S08303849E140243613                                                                                 
+SASIDB       BD    WI000394     S00182110E117245900                                                                                 
+SASIDB       MW    WI000242     S00562468E114533820                                                                                 
+SASIDB       MN    WI000348     S04475910E1223559100                                                                                
+SASIDB       ZR    WI000242     S03214200E135294200                                                                                 
+SASIDB       NA    WI000290     S03150000E1270459100                                                                                
+SASIDB       NH    WI000233     S00210000E1114659100                                                                                
+SASIDB       ZX    WI000342     S04504110E1403441100                                                                                
+SASIDB       OQ    WI000295     S00553197E100212646                                                                                 
+SASIDB       FK    WI000250     S02133054E113564684                                                                                 
+SASIDB       OW    WI000395     S02543838E104403523                                                                                 
+SASIDB       WW    WI000380     S02541902E104425640                                                                                 
+SASIDB       OP    WI000270     S00550288E119541713                                                                                 
+SASIDB       PN    WI000238     S02422244E111400233                                                                                 
+SASIDB       PB    WI000360     N00500620E112561440                                                                                 
+SASIDB       PP    WI000238     N00495910E100220000                                                                                 
+SASIDB       NW    WI000350     N00275936E101271140                                                                                 
+SASIDB       PD    WI000305     S03172400E1035053100                                                                                
+SASIDB       PG    WI000276     S06451918E108321942                                                                                 
+SASIDB       SK    WI000215     N01331710E098532500                                                                                 
+SASIDB       CB    WI000225     S06205910E1064605100                                                                                
+SASIDB       MK    WI000401     S03023974E119490749                                                                                 
+SASIDB       AT    WI000245     S00083326E109241832                                                                                 
+SASIDB       PW    WI000250     S06340000E107270000                                                                                 
+SASIDB       SP    WI000253     S02413510E104064200                                                                                 
+SASIDB       AD    WI000280     S00205698E102200796                                                                                 
+SASIDB       RG    WI000210     S08361719E120281038                                                                                 
+SASIDB       SP    WI000305     S02301549E112584196                                                                                 
+SASIDB       TT    WI000210     S00045910E117270000                                                                                 
+SASIDB       SP    WI000305     N01224710E1020853100                                                                                
+SASIDB       OC    WI000350     S06585580E110223512                                                                                 
+SASIDB       LL    WI000351     S00580000E1170759100                                                                                
+SASIDB       NF    WI000210     N01053176E109413618                                                                                 
+SASIDB       SO    WI000255     S07305369E110444761                                                                                 
+SASIDB       SA    WI000205     S02310000E121220000                                                                                 
+SASIDB       ZO    WI000389     S00551510E131074143                                                                                 
+SASIDB       NQ    WI000305     S08282759E117241705                                                                                 
+SASIDB       WR    WI000400     S07215837E112420920                                                                                 
+SASIDB       SB    WI000325     S07231044E112464655                                                                                 
+SASIDB       SG    WI000405     N00040000E1112859100                                                                                
+SASIDB       ZH    WI000295     S06064200E140160000                                                                                 
+SASIDB       TN    WI000400     S06172484E106340653                                                                                 
+SASIDB       TP    WI000230     N03075910E0971759100                                                                                
+SASIDB       TG    WI000404     S00285464E117092509                                                                                 
+SASIDB       ZF    WI000300     S04320724E136532479                                                                                 
+SASIDB       TG    WI000290     N00484200E114314800                                                                                 
+SASIDB       TO    WI000370     N01075910E1204759100                                                                                
+SASIDB       ZG    WI000375     S04023690E136163140                                                                                 
+SASIDB       NR    WI000295     S09401376E120175801                                                                                 
+SASIDB       ZW    WI000222     S04060172E138572329                                                                                 
+SASIDB       NY    WI000255     S02133447E115275455                                                                                 
+SASIDB       OF    WI000270     S07470354E110260283                                                                                 
+SASID        ANY   WI011520V    S06582810E110224830                                                                                 
+SASID        TKG   WI011500V    S05153661E105113885                                                                                 
+SASID        BND   WI011700V    S06525548E107304442                                                                                 
+SASID        BDM   WI011210V    S03261248E114435335                                                                                 
+SASID        BKL   WI011430V    S03513783E102195830                                                                                 
+SASID        NMA   WI011510V    S08311194E118412220                                                                                 
+SASID        BTO   WI011580V    S06173291E106345725                                                                                 
+SASID        CKG   WI011360V    S06111640E106314782                                                                                 
+SASID        CLP   WI011490V    S07385110E109020815                                                                                 
+SASID        MIL   WI011710V    S00534640E131172322                                                                                 
+SASID        GTL   WI011350V    N00384067E122505296                                                                                 
+SASID        HLM   WI011330V    S06161898E106531311                                                                                 
+SASID        DKI   WI011460V    S05574030E107020788                                                                                 
+SASID        JMB   WI011750V    S01380973E103384231                                                                                 
+SASID        JPA   WI011620V    S02351570E1403150100                                                                                
+SASID        KDI   WI011500V    S04043229E122271075                                                                                 
+SASID        KPG   WI011220V    S10102640E123403930                                                                                 
+SASID        MKS   WI011470V    S05021610E119313430                                                                                 
+SASID        MWB   WI011480V    N01192370E124571761                                                                                 
+SASID        MOF   WI011450V    S08384449E122143138                                                                                 
+SASID        MDN   WI011300V    N03301638E098362790                                                                                 
+SASID        MKE   WI011580V    S08312139E140250160                                                                                 
+SASID        MKB   WI011470V    S00471320E100164160                                                                                 
+SASID        NBR   WI011730V    S03225505E135300404                                                                                 
+SASID        PDG   WI011640V    S00521598E100211184                                                                                 
+SASID        PLB   WI011550V    S02524292E104391139                                                                                 
+SASID        PAL   WI011620V    S00530604E1195340100                                                                                
+SASID        PKN   WI011740V    S02433533E111414551                                                                                 
+SASID        PKU   WI011210V    N00253212E101262938                                                                                 
+SASID        SIX   WI011430V    N01330816E098532922                                                                                 
+SASID        PNK   WI011320V    S00044495E109223037                                                                                 
+SASID        SLO   WI011630V    S07302778E110473986                                                                                 
+SASID        SOG   WI011440V    S00552325E131071296                                                                                 
+SASID        SBR   WI011340V    S07222618E112461639                                                                                 
+SASID        TMK   WI011270V    S04310121E136520110                                                                                 
+SASID        PKY   WI011430V    S02143661E113565881                                                                                 
+SASID        JOG   WI011280V    S07480119E110183363                                                                                 
+SASID        IUPG  WI011130 D   S05034437E119331237                                                                                 
+SASID        IMKS  WI011130 D   S05034437E119331237                                                                                 
+SASID        IJPA  WI011030 D   S02341287E140302674                                                                                 
+SASID        ISBY  WI011010 D   S07225683E112481092                                                                                 
+SASID        IPKU  WI011110 D   N00282011E101264123                                                                                 
+SASID        IHAL  WI011170 D   S06161911E106531305                                                                                 
+SASID        IMKB  WI011150 D   S00462355E100162820                                                                                 
+SASID        ANY   WI011520 D   S06582810E110224830                                                                                 
+SASID        TKG   WI011500 D   S05153661E105113885                                                                                 
+SASID        BND   WI011700 D   S06525548E107304442                                                                                 
+SASID        BDM   WI011210 D   S03261248E114435335                                                                                 
+SASID        BKL   WI011430 D   S03513783E102195830                                                                                 
+SASID        NMA   WI011510 D   S08311194E118412220                                                                                 
+SASID        BTO   WI011580 D   S06173291E106345725                                                                                 
+SASID        CKG   WI011360 D   S06111640E106314782                                                                                 
+SASID        CLP   WI011490 D   S07385110E109020815                                                                                 
+SASID        MIL   WI011710 D   S00534640E131172322                                                                                 
+SASID        GTL   WI011350 D   N00384067E122505296                                                                                 
+SASID        HLM   WI011330 D   S06161898E106531311                                                                                 
+SASID        DKI   WI011460 D   S05574030E107020788                                                                                 
+SASID        JMB   WI011750 D   S01380973E103384231                                                                                 
+SASID        JPA   WI011620 D   S02351570E1403150100                                                                                
+SASID        KDI   WI011500 D   S04043229E122271075                                                                                 
+SASID        KPG   WI011220 D   S10102640E123403930                                                                                 
+SASID        MKS   WI011470 D   S05021610E119313430                                                                                 
+SASID        MWB   WI011480 D   N01192370E124571761                                                                                 
+SASID        MOF   WI011450 D   S08384449E122143138                                                                                 
+SASID        MDN   WI011300 D   N03301638E098362790                                                                                 
+SASID        MKE   WI011580 D   S08312139E140250160                                                                                 
+SASID        MKB   WI011470 D   S00471320E100164160                                                                                 
+SASID        NBR   WI011730 D   S03225505E135300404                                                                                 
+SASID        PDG   WI011640 D   S00521598E100211184                                                                                 
+SASID        PLB   WI011550 D   S02524292E104391139                                                                                 
+SASID        PAL   WI011620 D   S00530604E1195340100                                                                                
+SASID        PKN   WI011740 D   S02433533E111414551                                                                                 
+SASID        PKU   WI011210 D   N00253212E101262938                                                                                 
+SASID        SIX   WI011430 D   N01330816E098532922                                                                                 
+SASID        PNK   WI011320 D   S00044495E109223037                                                                                 
+SASID        SLO   WI011630 D   S07302778E110473986                                                                                 
+SASID        SOG   WI011440 D   S00552325E131071296                                                                                 
+SASID        SBR   WI011340 D   S07222618E112461639                                                                                 
+SASID        TMK   WI011270 D   S04310121E136520110                                                                                 
+SASID        PKY   WI011430 D   S02143661E113565881                                                                                 
+SASID        JOG   WI011280 D   S07480119E110183363                                                                                 
+SASID        IWY   WI011480 D   S07363863E111261315                                                                                 
+SASIER       G461-       0010BA   WID       O                                      04000     46000                                  
+SASIER       G461-       0020SBR  WID       O                             0837     04000     46000                                  
+SASIER       A215        0030OSEROWIEA      O                             1344     24500     46000                                  
+SASIER       A215        0040MKE  WID       O                             0349     24500     46000                                  
+SASIER       A215        0050LEBON  EA      O                             4899     24500     46000                                  
+SASIER       A215        0070MKS  WID       O                             2808     24500     46000                                  
+SASIER       A215        0080KEVOK  EA      O                             2775     24500     46000                                  
+SASIER       G459        0020UBLATWIEA      O                             1138     24500     46000                                  
+SASIER       G337        0010BIBULWIEA      O                                      10000     46000                                  
+SASIER       G337        0020BKL  WID       O                             0725     10000     46000                                  
+SASIER       G337        0030XMX    D       O                             4422     10000     46000                                  
+SASIER       G461-       0020BORASWIEA      O                             0401     04000     46000                                  
+SASIER       G461-       0030PLB  WID       O                             0681     04000     46000                                  
+SASIER       B462        0040OSMONWIEA      O                             2188     24500     46000                                  
+SASIER       B462        0050KADABWIEA      O                             1532     24500     46000                                  
+SASIER       B462        0060KAPPU  EA      O                             0910     24500     46000                                  
+SASIER       W12E        0020DKI  WID       O                             0733     06000     46000                                  
+SASIER       B469-       0020HLM  WID       O                             0873     04000     46000                                  
+SASIER       G462-       0010BKL  WID       O                                      04000     46000                                  
+SASIER       G462-       0020TOLITWIEA      O                             1430     04000     46000                                  
+SASIER       G462-       0030TKG  WID       O                             0477     04000     46000                                  
+SASIER       B584        0040ELANGWIEA      O                             2051     24500     46000                                  
+SASIER       B584        0050MAMOKWMEA      O                             3063     24500     46000                                  
+SASIER       G464        0030PKN  WID       O                             2582     24500     46000                                  
+SASIER       G464        0040OSUKAWIEA      O                             1156     24500     46000                                  
+SASIER       G464        0050PNK  WID       O                             0958     24500     46000                                  
+SASIER       W16S        0010BND  WID       O                                      08500     46000                                  
+SASIER       W16S        0020CA   WID       O                             0634     08500     46000                                  
+SASIER       W16S        0030KIDET  EA      O                             0516     04000     46000                                  
+SASIER       N752        0020DUNAMWIEA      O                             0817     24500     46000                                  
+SASIER       N752        0030PLB  WID       O                             2514     24500     46000                                  
+SASIER       A339        0040SADEPWIEA      O                             1336     24500     46000                                  
+SASIER       A339        0050OSUVI  EA      O                             1137     24500     46000                                  
+SASIER       R342        0020MWB  WID       O                             0436     08000     46000                                  
+SASIER       B470-       0030DKI  WID       O                             0705     06000     46000                                  
+SASIER       L511        0030SBR  WID       O                             3706     24500     46000                                  
+SASIER       L511        0040RUPKA  EA      O                             1832     24500     46000                                  
+SASIER       W17S        0010CA   WID       O                                      06000     46000                                  
+SASIER       W17S        0020CLP  WID       O                             0637     06000     46000                                  
+SASIER       A585-       0010CKG  WID       O                                      06000     46000                                  
+SASIER       A585-       0020DOLTA  EA      O                             0733     06000     46000                                  
+SASIER       A585-       0030DOMILWIEA      O                             0833     06000     46000                                  
+SASIER       A585-       0040PLB  WID       O                             0716     10000     46000                                  
+SASIER       G462-       0030SBR  WID       O                             0825     04000     46000                                  
+SASIER       A587        0070NQ   WID       O                             0688     25000     46000                                  
+SASIER       R579        0010DOSIKWIEA      O                                      07000     46000                                  
+SASIER       R579        0020VMK  WMD       O                             0320     07000     46000                                  
+SASIER       3E294       0030JPA  WID       O                             0466     09100     46000                                  
+SASIER       W34-W       0020SBR  WID       O                             0973     04000     46000                                  
+SASIER       W69         0020TMK  WID       O                             2744     24500     46000                                  
+SASIER       N646        0020IBALAWIEA      O                             1768     24500     46000                                  
+SASIER       R206        0010HLM  WID       O                                      10000     46000                                  
+SASIER       R206        0020LADIR  EA      O                             1447     10000     46000                                  
+SASIER       G579        0070PLB  WID       O                             1413     24500     46000                                  
+SASIER       W17N        0010JOG  WID       O                                      04000     46000                                  
+SASIER       W17N        0020SO   WID       O                             0312     04000     46000                                  
+SASIER       W17N        0030PURWOWIEA      O                             0191     04000     46000                                  
+SASIER       B456        0010JPA  WID       O                                      24500     46000                                  
+SASIER       B456        0020VANKAWIEA      O                             0293     24500     46000                                  
+SASIER       B456        0030WK     D       O                             1685     24500     46000                                  
+SASIER       W32N        0040SBR  WID       O                             0683     04000     46000                                  
+SASIER       W19-W       0020MKB  WID       O                             0683     06000     46000                                  
+SASIER       W41-W       0010KDI  WID       O                                      04000     46000                                  
+SASIER       W41-W       0020MILATWIEA      O                             0345     04000     46000                                  
+SASIER       W41-W       0030MKS  WID       O                             1499     04000     46000                                  
+SASIER       W31W        0030SBR  WID       O                             0753     06000     46000                                  
+SASIER       W33-W       0010KPG  WID       O                                      04000     46000                                  
+SASIER       W33-W       0020NR   WID       O                             2021     04000     46000                                  
+SASIER       J199        0010KPG  WID       OH                                     10000     46000                                  
+SASIER       J199        0020SPRIG  EA      OH                            1115     10000     46000                                  
+SASIER       A450-       0020MKS  WID       O                             1502     24500     46000                                  
+SASIER       G461        0010PABIOWIEA      O                                      04000     46000                                  
+SASIER       G461        0020PAGAI  EA      O                             1569     04000     46000                                  
+SASIER       R455        0020PNK  WID       O                             0895     06500     46000                                  
+SASIER       B335-       0010PKU  WID       O                                      04000     46000                                  
+SASIER       B335-       0020SALAX  EA      O                             1072     04000     46000                                  
+SASIER       G209        0010PLB  WID       O                                      24500     46000                                  
+SASIER       G209        0020TKG  WID       O                             1466     24500     46000                                  
+SASIER       G209        0030XMX    D       O                             3118     24500     46000                                  
+SASIER       G462-       0010TKG  WID       O                                      04000     46000                                  
+SASIER       G462-       0020TULIPWIEA      O                             0278     04000     46000                                  

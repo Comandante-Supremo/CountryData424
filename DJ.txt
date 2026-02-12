@@ -1,0 +1,8 @@
+SAFREAENRT   DTI27 HD           N11343374E042553379                                                                                 
+SAFREAENRT   DTI39 HD           N11275754E042564501                                                                                 
+SAFREAENRT   DTI62 HD           N11314603E042552950                                                                                 
+SAFREAENRT   DTI70 HD           N11330546E042582901                                                                                 
+SAFREAENRT   LAKBE HD           N11022210E042093930                                                                                 
+SAFREAENRT   RAGAS HD           N12180659E042180227                                                                                 
+SAFRER       UR993       0030RAGASHDEA      O                             0542     10500     66000                                  
+SAFRER       UR993       0040DTI    D       O                             0649     10500     66000                                  

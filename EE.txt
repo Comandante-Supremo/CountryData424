@@ -1,0 +1,223 @@
+SEUREAENRT   ANAMA EE           N58245900E0242841100                                                                                
+SEUREAENRT   ARSAM EE           N59265010E0252124100                                                                                
+SEUREAENRT   BIRSI EE           N59065500E026021500                                                                                 
+SEUREAENRT   DOPIK EE           N59261600E0260249100                                                                                
+SEUREAENRT   EKLON EE           N58302410E025425500                                                                                 
+SEUREAENRT   EKSOT EE           N59245710E0242453100                                                                                
+SEUREAENRT   GONOS EE           N58563300E0253436100                                                                                
+SEUREAENRT   ILK58 EE           N59244457E024592598                                                                                 
+SEUREAENRT   INDIA EE           N59244810E024480190                                                                                 
+SEUREAENRT   KANEP EE           N58031110E026454600                                                                                 
+SEUREAENRT   KEMET EE           N58432010E0243512100                                                                                
+SEUREAENRT   KOLEV EE           N58433271E026441299                                                                                 
+SEUREAENRT   KUNUX EE           N58555110E0243942100                                                                                
+SEUREAENRT   KUUST EE           N58103600E0265547100                                                                                
+SEUREAENRT   KUVOR EE           N59245210E0251542100                                                                                
+SEUREAENRT   LAEVA EE           N58263000E026270600                                                                                 
+SEUREAENRT   LALSI EE           N58331110E0255603100                                                                                
+SEUREAENRT   LARKU EE           N59245110E024344000                                                                                 
+SEUREAENRT   LATKA EE           N58104900E025464500                                                                                 
+SEUREAENRT   LIMAK EE           N58503600E0272811100                                                                                
+SEUREAENRT   LK050 EE           N59213433E024285088                                                                                 
+SEUREAENRT   LK057 EE           N59231516E024281614                                                                                 
+SEUREAENRT   LK059 EE           N59273739E025080237                                                                                 
+SEUREAENRT   LK072 EE           N59260682E025085811                                                                                 
+SEUREAENRT   LK082 EE           N59245335E024321471                                                                                 
+SEUREAENRT   LONSA EE           N59045510E0235003100                                                                                
+SEUREAENRT   NAVOT EE           N59203510E024245100                                                                                 
+SEUREAENRT   NITSO EE           N58483200E0245811100                                                                                
+SEUREAENRT   NOTAR EE           N57494710E0273334100                                                                                
+SEUREAENRT   OLMON EE           N59244810E025055700                                                                                 
+SEUREAENRT   ORTAX EE           N58510000E024192200                                                                                 
+SEUREAENRT   OTEPA EE           N58032910E0262045100                                                                                
+SEUREAENRT   PILET EE           N58333800E0261642100                                                                                
+SEUREAENRT   PIRUS EE           N58194667E027305113                                                                                 
+SEUREAENRT   PIVUN EE           N58202610E0245415100                                                                                
+SEUREAENRT   R1252 EE           N59244789E024483677                                                                                 
+SEUREAENRT   R1267 EE           N59244750E024513525                                                                                 
+SEUREAENRT   SULUN EE           N58581800E0240406100                                                                                
+SEUREAENRT   TLL02 EE           N59245000E024362440                                                                                 
+SEUREAENRT   TLL03 EE           N59245320E024561003                                                                                 
+SEUREAENRT   TLL04 EE           N59245728E024580725                                                                                 
+SEUREAENRT   TLL05 EE           N59250132E025000449                                                                                 
+SEUREAENRT   TLL06 EE           N59250534E025020173                                                                                 
+SEUREAENRT   TLL07 EE           N59273357E025150866                                                                                 
+SEUREAENRT   TLL08 EE           N59233048E025153901                                                                                 
+SEUREAENRT   TLL11 EE           N59252499E025114804                                                                                 
+SEUREAENRT   TLL13 EE           N59215656E024252648                                                                                 
+SEUREAENRT   TLL15 EE           N59290042E025182726                                                                                 
+SEUREAENRT   TLL16 EE           N59241115E025154440                                                                                 
+SEUREAENRT   TLL18 EE           N59095884E024444456                                                                                 
+SEUREAENRT   TLL20 EE           N59244549E024483306                                                                                 
+SEUREAENRT   TLL22 EE           N59183267E024233332                                                                                 
+SEUREAENRT   TLL26 EE           N59254134E024265326                                                                                 
+SEUREAENRT   TLL27 EE           N59234402E024245553                                                                                 
+SEUREAENRT   TLL30 EE           N59244067E024561085                                                                                 
+SEUREAENRT   TLL40 EE           N59192207E024270678                                                                                 
+SEUREAENRT   TLL42 EE           N59115645E024452879                                                                                 
+SEUREAENRT   TLL43 EE           N59245633E024442725                                                                                 
+SEUREAENRT   TLL44 EE           N59250144E024423018                                                                                 
+SEUREAENRT   TLL45 EE           N59250654E024403309                                                                                 
+SEUREAENRT   TLL46 EE           N59251159E024383600                                                                                 
+SEUREAENRT   TLL47 EE           N59123363E024411431                                                                                 
+SEUREAENRT   TLL52 EE           N59213087E024213732                                                                                 
+SEUREAENRT   TLL60 EE           N59242813E024442684                                                                                 
+SEUREAENRT   TLL61 EE           N59294289E025134777                                                                                 
+SEUREAENRT   TLL64 EE           N59244824E024264416                                                                                 
+SEUREAENRT   TLL69 EE           N59250893E025034725                                                                                 
+SEUREAENRT   TLL70 EE           N59295161E025240589                                                                                 
+SEUREAENRT   TLL71 EE           N59251763E024361548                                                                                 
+SEUREAENRT   TLL76 EE           N59242473E024245154                                                                                 
+SEUREAENRT   TLL77 EE           N59143477E025061481                                                                                 
+SEUREAENRT   TLL79 EE           N59254619E025154070                                                                                 
+SEUREAENRT   TLL80 EE           N59094259E024494787                                                                                 
+SEUREAENRT   TLL81 EE           N59285710E025243463                                                                                 
+SEUREAENRT   TLL83 EE           N59281501E025185133                                                                                 
+SEUREAENRT   TLL86 EE           N59243632E025115413                                                                                 
+SEUREAENRT   TLL87 EE           N59252452E025193888                                                                                 
+SEUREAENRT   TLL88 EE           N59254017E025193723                                                                                 
+SEUREAENRT   TLL89 EE           N59242501E024560946                                                                                 
+SEUREAENRT   TLL90 EE           N59244005E025035130                                                                                 
+SEUREAENRT   TLL91 EE           N59244824E024322652                                                                                 
+SEUREAENRT   TLL92 EE           N59130136E025084111                                                                                 
+SEUREAENRT   TLL94 EE           N59244932E024442472                                                                                 
+SEUREAENRT   TLL99 EE           N59244372E024514044                                                                                 
+SEUREAENRT   TOMPA EE           N58471810E0271018100                                                                                
+SEUREAENRT   ULILA EE           N58200600E026070400                                                                                 
+SEUREAENRT   VADAN EE           N59084910E023414200                                                                                 
+SEUREAENRT   VAIDA EE           N59171710E0245833100                                                                                
+SEUREAENRT   VALGA EE           N57511400E0255457100                                                                                
+SEUREAENRT   VONNU EE           N58165910E027015400                                                                                 
+SEURDB       R     EE000376     N58260810E024294510                                                                                 
+SEURDB       RC    EE000425     N58292690E024341760                                                                                 
+SEURDB       PE    EE000906     N57490000E027360000                                                                                 
+SEURDB       L     EE000418     N59244730E024523550                                                                                 
+SEURDB       LK    EE000386     N59244690E024553050                                                                                 
+SEURDB       IB    EE000329     N59245000E024362440                                                                                 
+SEURDB       I     EE000357     N59244810E024480190                                                                                 
+SEURDB       UM    EE000397     N58183090E026460630                                                                                 
+SEURD        PRN   EE011590V    N58245970E024275750                                                                                 
+SEURD        TLL   EE011220V    N59244080E024501840                                                                                 
+SEURD        VI    EE011490V    N58392120E025342920                                                                                 
+SEURD        PRN   EE011590 D   N58245970E024275750                                                                                 
+SEURD        TLL   EE011220 D   N59244080E024501840                                                                                 
+SEURD        VI    EE011490 D   N58392120E025342920                                                                                 
+SEURER       P607        0140NOTAREEEA      O                                      09500     19500                                  
+SEURER       P607        0150LATKAEEEA      O                             0604     09500     19500                                  
+SEURER       P607        0160PIVUNEEEA      O                             0293     09500     19500                                  
+SEURER       M854        0090VALGAEEEA      O                             0504     09500     19500                                  
+SEURER       M854        0100EKLONEEEA      O                             0397     09500     19500                                  
+SEURER       M854        0110GONOSEEEA      O                             0265     09500     19500                                  
+SEURER       M854        0120MOHNI  EA      O                             0573     09500     19500                                  
+SEURER       M990        0060VALGAEEEA      O                             0423     09500     28500                                  
+SEURER       M857        0040TLL  EED       O                             0076     09500     19500                                  
+SEURER       M857        0050KEMETEEEA      O                             0421     09500     19500                                  
+SEURER       G59         0020LIMAKEEEA      O                             0278     10900     39700                                  
+SEURER       L858        0010TLL  EED       O                                      09500     19500                                  
+SEURER       L858        0020BIRSIEEEA      O                             0409     09500     19500                                  
+SEURER       L858        0030TOMPAEEEA      O                             0402     09500     19500                                  
+SEURER       M985        0270TOMPAEEEA      O                                      09500     19500                                  
+SEURER       M985        0280VALGAEEEA      O                             0687     09500     19500                                  
+SEURER       M155        0060VALGAEEEA      O                             0420     09500     28500                                  
+SEURER       P733        0120NAVOTEEEA      O                             0524     09500     19500                                  
+SEURER       P733        0130SORPA  EA      O                             0211     09500     19500                                  
+SEURER       P863        0070KEMETEEEA      O                             0715     09500     19500                                  
+SEURER       P863        0080GONOSEEEA      O                             0335     09500     19500                                  
+SEURER       P863        0090RANVAUUEA      O                             0835     09500     19500                                  
+SEURER       P870        0020NAVOTEEEA      O                             0274     09500     19500                                  
+SEURER       P870        0030SOKVA  EA      O                             0867     09500     19500                                  
+SEURER       L855        0030TLL  EED       O                             0261     09500     19500                                  
+SEURER       L855        0040GONOSEEEA      O                             0362     09500     19500                                  
+SEURER       L855        0050PILETEEEA      O                             0317     09500     19500                                  
+SEURER       L855        0060NOTAREEEA      O                             0597     09500     19500                                  
+SEURER       M610        0020DOPIKEEEA      O                             0309     09500     19500                                  
+SEURER       M610        0030KOLEVEEEA      O                             0478     09500     19500                                  
+SEURER       M610        0040NOTAREEEA      O                             0597     09500     19500                                  
+SEURER       L870        0020DOPIKEEEA      O                             0626     09500     19500                                  
+SEURER       L870        0030TLL  EED       O                             0370     09500     19500                                  
+SEURER       L870        0040OSMUR  EA      O                             0429     09500     19500                                  
+SEURER       M994        0110VALGAEEEA      O                             0444     09500     28500                                  
+SEURER       M994        0120PIRUSEEEA      O                             0582     09500     19500                                  
+SEURER       N619        0050GONOSEEEA      O                             0744     09500     19500                                  
+SEURER       P862        0050PIVUNEEEA      O                             0727     09500     19500                                  
+SEURER       P862        0060EKLONEEEA      O                             0274     09500     19500                                  
+SEURER       P862        0070TOMPAEEEA      O                             0485     09500     19500                                  
+SEURER       P862        0080LIMAKEEEA      O                             0098     09500     19500                                  
+SEURER       M612        0010GONOSEEEA      O                                      09500     19500                                  
+SEURER       M612        0020NAVOTEEEA      O                             0431     09500     19500                                  
+SEURER       B170        0010PIRUSEEEA      O                                      29900     39700                                  
+SEURER       B170        0020SERBIUUEA      O                             0387     14800     39700                                  
+SEURER       Q22         0020SULUNEEEA      RH                            0948     09500     19500                                  
+SEURER       Q22         0030TLL  EED       RH                            0355     09500     19500                                  
+SEURER       L732        0010VALGAEEEA      O                                      09500     28500                                  
+SEURER       L732        0020LISGOEVEA      O                             1036     09500     28500                                  
+SEURER       M608        0020LONSAEEEA      O                             1010     09500     19500                                  
+SEURER       M608        0030SORPA  EA      O                             0446     09500     19500                                  
+SEURER       Q33         0030SULUNEEEA      RH                            0289     09500     19500                                  
+SEURER       Q44         0010LONSAEEEA      RH                                     09500     19500                                  
+SEURER       Q44         0020NEREN  EA      RH                            0989     09500     19500                                  
+SEURER       Q11         0010TLL  EED       RH                                     09500     19500                                  
+SEURER       Q11         0020LONSAEEEA      RH                            0366     09500     19500                                  
+SEURER       Q11         0030ODVIN  EA      RH                            0291     09500     19500                                  
+SEURER       P725        0010NAVOTEEEA      O                                      09500     19500                                  
+SEURER       P725        0020VALGAEEEA      O                             1010     09500     19500                                  
+SEURER       L738        0020TOMPAEEEA      O                             1051     09500     19500                                  
+SEURER       UP607       0150NOTAREEEA      O                                      19500     66000                                  
+SEURER       UP607       0160LATKAEEEA      O                             0604     19500     66000                                  
+SEURER       UP607       0170PIVUNEEEA      O                             0293     19500     66000                                  
+SEURER       UM854       0090VALGAEEEA      O                             0504     19500     66000                                  
+SEURER       UM854       0100EKLONEEEA      O                             0397     19500     66000                                  
+SEURER       UM854       0110GONOSEEEA      O                             0265     19500     66000                                  
+SEURER       UM854       0120MOHNI  EA      O                             0573     19500     66000                                  
+SEURER       UM990       0050VALGAEEEA      O                             1420     28500     46000                                  
+SEURER       UM985       0180VALGAEEEA      O                             0831     28500     46000                                  
+SEURER       UM985       0190TOMPAEEEA      O                             0687     19500     66000                                  
+SEURER       UM857       0040TLL  EED       O                             0076     19500     66000                                  
+SEURER       UM857       0050KEMETEEEA      O                             0421     19500     66000                                  
+SEURER       UL858       0060TLL  EED       O                                      19500     66000                                  
+SEURER       UL858       0070BIRSIEEEA      O                             0409     19500     66000                                  
+SEURER       UL858       0080TOMPAEEEA      O                             0402     19500     66000                                  
+SEURER       UM608       0070LONSAEEEA      O                             1010     19500     66000                                  
+SEURER       UM608       0080SORPA  EA      O                             0446     19500     66000                                  
+SEURER       UP733       0120NAVOTEEEA      O                             0524     19500     66000                                  
+SEURER       UP733       0130SORPA  EA      O                             0211     19500     66000                                  
+SEURER       UQ11        0110TLL  EED       O                                      19500     66000                                  
+SEURER       UQ11        0120LONSAEEEA      O                             0366     19500     66000                                  
+SEURER       UQ11        0130ODVIN  EA      O                             0291     19500     66000                                  
+SEURER       UP863       0070KEMETEEEA      O                             0715     19500     66000                                  
+SEURER       UP863       0080GONOSEEEA      O                             0335     19500     66000                                  
+SEURER       UP863       0090RANVAUUEA      O                             0835     19500     66000                                  
+SEURER       UP870       0020NAVOTEEEA      O                             0274     19500     66000                                  
+SEURER       UP870       0030SOKVA  EA      O                             0867     19500     66000                                  
+SEURER       UL855       0030TLL  EED       O                             0261     19500     66000                                  
+SEURER       UL855       0040GONOSEEEA      O                             0362     19500     66000                                  
+SEURER       UL855       0050PILETEEEA      O                             0317     19500     66000                                  
+SEURER       UL855       0060NOTAREEEA      O                             0597     19500     66000                                  
+SEURER       UM610       0020DOPIKEEEA      O                             0309     19500     66000                                  
+SEURER       UM610       0030KOLEVEEEA      O                             0478     19500     66000                                  
+SEURER       UM610       0040NOTAREEEA      O                             0597     19500     66000                                  
+SEURER       UL870       0020DOPIKEEEA      O                             0626     19500     66000                                  
+SEURER       UL870       0030TLL  EED       O                             0370     19500     66000                                  
+SEURER       UL870       0040OSMUR  EA      O                             0429     19500     66000                                  
+SEURER       UM994       0100VALGAEEEA      O                             1135     28500     46000                                  
+SEURER       UM994       0110PIRUSEEEA      O                             0582     19500     66000                                  
+SEURER       UQ22        0050SULUNEEEA      O                             0948     19500     66000                                  
+SEURER       UQ22        0060TLL  EED       O                             0355     19500     66000                                  
+SEURER       UQ33        0050SULUNEEEA      O                             0289     19500     66000                                  
+SEURER       UP862       0050PIVUNEEEA      O                             0727     19500     66000                                  
+SEURER       UP862       0060EKLONEEEA      O                             0274     19500     66000                                  
+SEURER       UP862       0070TOMPAEEEA      O                             0485     19500     66000                                  
+SEURER       UP862       0080LIMAKEEEA      O                             0098     19500     66000                                  
+SEURER       UM612       0010GONOSEEEA      O                                      19500     66000                                  
+SEURER       UM612       0020NAVOTEEEA      O                             0431     19500     66000                                  
+SEURER       UN619       0010GONOSEEEA      O                                      19500     66000                                  
+SEURER       UN619       0020SOKVA  EA      O                             0744     19500     66000                                  
+SEURER       UL732       0010VALGAEEEA      O                                      28500     46000                                  
+SEURER       UL732       0020LISGOEVEA      O                             1036     28500     46000                                  
+SEURER       UQ44        0010LONSAEEEA      O                                      19500     66000                                  
+SEURER       UQ44        0020NEREN  EA      O                             0989     19500     66000                                  
+SEURER       UM155       0010VALGAEEEA      O                                      28500     46000                                  
+SEURER       UM155       0020MIRMAEVEA      O                             1494     19500     66000                                  
+SEURER       UP725       0010NAVOTEEEA      O                                      19500     66000                                  
+SEURER       UP725       0020VALGAEEEA      O                             1010     19500     66000                                  
+SEURER       UL738       0020TOMPAEEEA      O                             1051     19500     66000                                  

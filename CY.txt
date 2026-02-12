@@ -1,0 +1,94 @@
+SEUREAENRT   AKR14 LC           N34360472E032564634                                                                                 
+SEUREAENRT   AKR15 LC           N34360350E0325650100                                                                                
+SEUREAENRT   DAROS LC           N35004200E0330853100                                                                                
+SEUREAENRT   DIPOS LC           N34452400E0324811100                                                                                
+SEUREAENRT   ILC04 LC           N34553819E033412098                                                                                 
+SEUREAENRT   ILC05 LC           N34562035E033421299                                                                                 
+SEUREAENRT   ILC07 LC           N34574465E033435705                                                                                 
+SEUREAENRT   ILC08 LC           N34582626E033444973                                                                                 
+SEUREAENRT   ILC50 LC           N34531060E033381906                                                                                 
+SEUREAENRT   IPA00 LC           N34425031E032295766                                                                                 
+SEUREAENRT   IPA03 LC           N34414216E032331904                                                                                 
+SEUREAENRT   IPA05 LC           N34405852E032353065                                                                                 
+SEUREAENRT   IPA30 LC           N34424365E032301781                                                                                 
+SEUREAENRT   LCA03 LC           N34543155E033401086                                                                                 
+SEUREAENRT   LCA05 LC           N34484401E033332735                                                                                 
+SEUREAENRT   LCA07 LC           N34473674E033312279                                                                                 
+SEUREAENRT   LCA11 LC           N34531238E033383075                                                                                 
+SEUREAENRT   LCA12 LC           N34513888E033363730                                                                                 
+SEUREAENRT   LCA22 LC           N34471247E033304089                                                                                 
+SEUREAENRT   LCA24 LC           N34584647E033452099                                                                                 
+SEUREAENRT   LCA26 LC           N34524831E033230080                                                                                 
+SEUREAENRT   LCA33 LC           N34501640E033350127                                                                                 
+SEUREAENRT   LCA40 LC           N34543592E033400537                                                                                 
+SEUREAENRT   LCA41 LC           N34520947E033365293                                                                                 
+SEUREAENRT   LCA42 LC           N34541486E033393034                                                                                 
+SEUREAENRT   LCA52 LC           N34562526E033443476                                                                                 
+SEUREAENRT   LCA53 LC           N34561920E033443981                                                                                 
+SEUREAENRT   LCA54 LC           N34571844E033464734                                                                                 
+SEUREAENRT   LCA56 LC           N34563021E033421492                                                                                 
+SEUREAENRT   LCA61 LC           N34481369E033321073                                                                                 
+SEUREAENRT   LCA62 LC           N34552167E033451922                                                                                 
+SEUREAENRT   LCA63 LC           N34551497E033452291                                                                                 
+SEUREAENRT   LCA66 LC           N34573153E033432449                                                                                 
+SEUREAENRT   LCANB LC           N34491800E0333317100                                                                                
+SEUREAENRT   LUBES LC           N34551200E0324435100                                                                                
+SEUREAENRT   NORDI LC           N34474800E0330517100                                                                                
+SEUREAENRT   PH10A LC           N34442595E032422611                                                                                 
+SEUREAENRT   PHA02 LC           N34420009E032324146                                                                                 
+SEUREAENRT   PHA04 LC           N34411832E032345645                                                                                 
+SEUREAENRT   PHA06 LC           N34403600E0323711100                                                                                
+SEUREAENRT   PHA10 LC           N34424174E032423977                                                                                 
+SEUREAENRT   PHA15 LC           N34424098E032484780                                                                                 
+SEUREAENRT   R1831 LC           N34530040E033380614                                                                                 
+SEUREAENRT   R1832 LC           N34351200E033000720                                                                                 
+SEUREAENRT   RUBIK LC           N34541110E033045400                                                                                 
+SEUREAENRT   SOLAB LC           N34574200E033191800                                                                                 
+SEURDB       DKA   LC000343     N34585603E033435823                                                                                 
+SEURDB       LCA   LC000432     N34491800E0333317100                                                                                
+SEURD        LCA   LC011280V    N34522310E033373600                                                                                 
+SEURD        PHA   LC011790V    N34424200E032302400                                                                                 
+SEURD        ILC   LC011030 D   N34524740E033375700                                                                                 
+SEURD        IPA   LC010890 D   N34430180E032294620                                                                                 
+SEURD        LCA   LC011280 D   N34522310E033373600                                                                                 
+SEURD        PHA   LC011790 D   N34424200E032302400                                                                                 
+SEURD        AKR   LC011600 D   N34344560E032574620                                                                                 
+SEURD        PHA   LC011320 D   N34440653E032290329                                                                                 
+SEURER       M601-       0020LCA  LCD       O                             0741     06000     24500                                  
+SEURER       B17         0010LCA  LCD       O                                      04000     24500                                  
+SEURER       B17         0020BOSIS  EA      O                             0160     04000     24500                                  
+SEURER       A28         0100LCA  LCD       O                             0160     08000     24500                                  
+SEURER       A28         0110DOREN  EA      O                             0658     08000     24500                                  
+SEURER       R19         0090LCA  LCD       O                             0160     08000     24500                                  
+SEURER       M601-       0010LCA  LCD       O                                      06000     24500                                  
+SEURER       M601-       0020DAROSLCEA      O                             0250     08000     24500                                  
+SEURER       M601-       0030DASNI  EA      O                             1183     08000     24500                                  
+SEURER       W195        0030PHA  LCD       O                             0228     05000     24500                                  
+SEURER       W195        0040NORDILCEA      O                             0291     05000     24500                                  
+SEURER       W195        0050LCA  LCD       O                             0269     05000     24500                                  
+SEURER       M978-       0110LCA  LCD       O                             0160     08000     24500                                  
+SEURER       M978-       0120RUBIKLCEA      O                             0269     08000     24500                                  
+SEURER       M978-       0130LUBESLCEA      O                             0167     08000     24500                                  
+SEURER       M978-       0140TOBAL  EA      O                             0305     08000     24500                                  
+SEURER       M31         0020PHA  LCD       O                             0804     05000     24500                                  
+SEURER       UM601       0400DAROSLCEA      O                             1183     25000     41000                                  
+SEURER       UM601       0410LCA  LCD       O                             0250     25000     41000                                  
+SEURER       UM601       0020LCA  LCD       O                             0741     25000     46000                                  
+SEURER       UM978       0190RUBIKLCEA      O                                      25000     41000                                  
+SEURER       UM978       0200LUBESLCEA      O                             0167     25000     41000                                  
+SEURER       UM978       0210TOBAL  EA      O                             0305     25000     41000                                  
+SEURER       UR19        0020LCA  LCD       O                             1433     24500     46000                                  
+SEURER       UR19        0030REXAL  EA      O                             0160     24500     46000                                  
+SEURER       UW195       0030PHA  LCD       O                             0228     24500     46000                                  
+SEURER       UW195       0040NORDILCEA      O                             0291     24500     46000                                  
+SEURER       UW195       0050LCA  LCD       O                             0269     24500     46000                                  
+SEURER       UA28        0010LCA  LCD       O                                      24500     46000                                  
+SEURER       UA28        0020DOREN  EA      O                             0658     24500     46000                                  
+SEURER       UM978       0010RUBIKLCEA      O                                      25000     46000                                  
+SEURER       UM978       0020LCA  LCD       O                             0269     25000     46000                                  
+SEURER       UM978       0030SOBOS  EA      O                             0160     25000     46000                                  
+SEURER       UB17        0010LCA  LCD       O                                      24500     46000                                  
+SEURER       UB17        0020VELOX  EA      O                             0674     24500     46000                                  
+SEURER       UM31        0020PHA  LCD       O                             0804     24500     46000                                  
+SEURER       UR78        0010RUBIKLCEA      O                                      24500     46000                                  
+SEURER       UR78        0020TOBAL  EA      O                             0472     24500     46000                                  

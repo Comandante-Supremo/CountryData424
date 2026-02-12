@@ -1,0 +1,254 @@
+SEUREAENRT   ABAGU EI           N52301200W007384800                                                                                 
+SEUREAENRT   ALPHA EI           N52382185W009033029                                                                                 
+SEUREAENRT   BAL04 EI           N53173921W006201320                                                                                 
+SEUREAENRT   BAL06 EI           N53233025W006304866                                                                                 
+SEUREAENRT   BAL09 EI           N53171317W006115486                                                                                 
+SEUREAENRT   BAL12 EI           N53294531W006304551                                                                                 
+SEUREAENRT   BAL13 EI           N53165197W006051718                                                                                 
+SEUREAENRT   BAL15 EI           N53175201W006242244                                                                                 
+SEUREAENRT   BAL35 EI           N53132865W006354639                                                                                 
+SEUREAENRT   BAL45 EI           N53284694W006092794                                                                                 
+SEUREAENRT   BAL46 EI           N53242832W006162662                                                                                 
+SEUREAENRT   BAL47 EI           N53213568W006210496                                                                                 
+SEUREAENRT   BAL48 EI           N53190447W006250799                                                                                 
+SEUREAENRT   BEL50 EI           N54481100W007385600                                                                                 
+SEUREAENRT   BEL64 EI           N54300100W0080320100                                                                                
+SEUREAENRT   BUNED EI           N52372200W0063747100                                                                                
+SEUREAENRT   BUNON EI           N52223000W0093236100                                                                                
+SEUREAENRT   CRK09 EI           N51581797W008364297                                                                                 
+SEUREAENRT   CRK26 EI           N51591500W008420483                                                                                 
+SEUREAENRT   CRK47 EI           N51585901W008341238                                                                                 
+SEUREAENRT   CRK56 EI           N52021245W008332199                                                                                 
+SEUREAENRT   DESUB EI           N52543510W006165000                                                                                 
+SEUREAENRT   DIGAN EI           N52561210W0081150100                                                                                
+SEUREAENRT   DINIL EI           N53402600W0062724100                                                                                
+SEUREAENRT   DIRUM EI           N53001000W0063939100                                                                                
+SEUREAENRT   DONOX EI           N53544752W008490636                                                                                 
+SEUREAENRT   DUB01 EI           N53270716W006162323                                                                                 
+SEUREAENRT   DUB04 EI           N53214666W006114812                                                                                 
+SEUREAENRT   DUB09 EI           N53333639W006321339                                                                                 
+SEUREAENRT   DUB12 EI           N53370448W006233425                                                                                 
+SEUREAENRT   DUB31 EI           N53371389W006271896                                                                                 
+SEUREAENRT   DUB56 EI           N53384903W006210326                                                                                 
+SEUREAENRT   DUB87 EI           N53340302W006212247                                                                                 
+SEUREAENRT   DUB88 EI           N54372794W007532920                                                                                 
+SEUREAENRT   ELBOB EI           N54435800W007443800                                                                                 
+SEUREAENRT   ENIRI EI           N53052210W0082417100                                                                                
+SEUREAENRT   ENOKU EI           N53060310W0073938100                                                                                
+SEUREAENRT   ERUDA EI           N53402910W006165400                                                                                 
+SEUREAENRT   ESATA EI           N52514606W006591918                                                                                 
+SEUREAENRT   GERVO EI           N53052900W006302400                                                                                 
+SEUREAENRT   GMN50 EI           N53343935W006090803                                                                                 
+SEUREAENRT   GURGA EI           N53065500W0064959100                                                                                
+SEUREAENRT   IAC06 EI           N53204769W006105359                                                                                 
+SEUREAENRT   ICS15 EI           N51590960W008155950                                                                                 
+SEUREAENRT   ICS19 EI           N51514086W008100702                                                                                 
+SEUREAENRT   ICS47 EI           N52011303W008360106                                                                                 
+SEUREAENRT   ICS51 EI           N52011852W008123636                                                                                 
+SEUREAENRT   ICS52 EI           N52052354W008360979                                                                                 
+SEUREAENRT   ICS91 EI           N51515873W008051810                                                                                 
+SEUREAENRT   IDE05 EI           N53244680W006075304                                                                                 
+SEUREAENRT   IDE06 EI           N53244046W006061444                                                                                 
+SEUREAENRT   ISE01 EI           N52410139W008575796                                                                                 
+SEUREAENRT   ISE11 EI           N52345452W009111356                                                                                 
+SEUREAENRT   ISE37 EI           N52392304W009013043                                                                                 
+SEUREAENRT   ISE91 EI           N52360727W009083487                                                                                 
+SEUREAENRT   KORAK EI           N53234200W007473500                                                                                 
+SEUREAENRT   KURUM EI           N52134210W0083952100                                                                                
+SEUREAENRT   LEGBO EI           N52492710W006554900                                                                                 
+SEUREAENRT   MAC88 EI           N54394100W007502500                                                                                 
+SEUREAENRT   NASRI EI           N53190610W006351700                                                                                 
+SEUREAENRT   NAVAN EI           N53444910W006384700                                                                                 
+SEUREAENRT   NEGEL EI           N51564864W008331340                                                                                 
+SEUREAENRT   NIPIT EI           N54270900W008241000                                                                                 
+SEUREAENRT   OLAPO EI           N53464710W0071741100                                                                                
+SEUREAENRT   OLONO EI           N52432413W006464727                                                                                 
+SEUREAENRT   OSGAR EI           N53025896W007161606                                                                                 
+SEUREAENRT   PELIG EI           N53115989W007200304                                                                                 
+SEUREAENRT   R1296 EI           N53252075W006172427                                                                                 
+SEUREAENRT   R1298 EI           N53261316W006154312                                                                                 
+SEUREAENRT   R1299 EI           N53251294W006150208                                                                                 
+SEUREAENRT   R1300 EI           N51510097W008294718                                                                                 
+SEUREAENRT   R1843 EI           N52413542W008563667                                                                                 
+SEUREAENRT   R1844 EI           N52423603W008542787                                                                                 
+SEUREAENRT   RANAR EI           N53402710W0071928100                                                                                
+SEUREAENRT   RIKUL EI           N53032800W0082044100                                                                                
+SEUREAENRT   RINUS EI           N53383900W0073943100                                                                                
+SEUREAENRT   SHA06 EI           N52391389W009011712                                                                                 
+SEUREAENRT   SHA10 EI           N52365765W009055228                                                                                 
+SEUREAENRT   SHA28 EI           N52450123W008493177                                                                                 
+SEUREAENRT   SHA37 EI           N52405595W008575044                                                                                 
+SEUREAENRT   SHA59 EI           N52493225W008401758                                                                                 
+SEUREAENRT   TIMAR EI           N53353696W006495268                                                                                 
+SEUREAENRT   TIMRA EI           N53352710W0064959100                                                                                
+SEUREAENRT   TIPUR EI           N52352100W008073100                                                                                 
+SEUREAENRT   TOMTO EI           N52522410W008090500                                                                                 
+SEUREAENRT   TORLU EI           N52591600W007345900                                                                                 
+SEUREAENRT   TULLA EI           N52482435W008423673                                                                                 
+SEUREAENRT   ULTAG EI           N53420000W0064417100                                                                                
+SEURDB       CML   EI000387     N52271350W007284827                                                                                 
+SEURDB       OK    EI000398     N53552615W008415925                                                                                 
+SEURDB       KNK   EI000364     N53534741W008561320                                                                                 
+SEURDB       OE    EI000316     N53254863W006254368                                                                                 
+SEURDB       ENS   EI000352     N52541855W008553998                                                                                 
+SEURDB       EKN   EI000357     N54233927W007383612                                                                                 
+SEURDB       FOY   EI000395     N52335852W009114348                                                                                 
+SEURDB       CRN   EI000321     N53175787W008562717                                                                                 
+SEURDB       GAR   EI000407     N53314330W006265087                                                                                 
+SEURDB       GMN   EI000334     N53385320W006133601                                                                                 
+SEURDB       KER   EI000334     N52105576W009312816                                                                                 
+SEURDB       KLY   EI000378     N53161042W006062320                                                                                 
+SEURDB       OP    EI000397     N53244965W006081809                                                                                 
+SEURDB       SLG   EI000384     N54164337W0083527100                                                                                
+SEURDB       WTD   EI000368     N52112040W007050004                                                                                 
+SEURD        BAL   EI011580V    N53175962W006265200                                                                                 
+SEURD        CON   EI011740V    N53542889W008491237                                                                                 
+SEURD        CRK   EI011460V    N51502619W008293937                                                                                 
+SEURD        DUB   EI011490V    N53295775W006182559                                                                                 
+SEURD        DAP   EI011120V    N53252410W006181000                                                                                 
+SEURD        SHA   EI011330V    N52431564W008530677                                                                                 
+SEURD        WST   EI011470V    N53210997W006293809                                                                                 
+SEURD        ICS   EI010990 D   N51502995W008292196                                                                                 
+SEURD        ICN   EI010915 D   N51502995W008292196                                                                                 
+SEURD        GWY   EI011000 D   N53175757W008562857                                                                                 
+SEURD        IDE   EI010890 D   N53251224W006161389                                                                                 
+SEURD        IAC   EI011150 D   N53260268W006154321                                                                                 
+SEURD        IDW   EI010890 D   N53251224W006161389                                                                                 
+SEURD        IKR   EI010870 D   N52105560W009312807                                                                                 
+SEURD        IB    EI010935 D   N53181107W006275394                                                                                 
+SEURD        ISE   EI010950 D   N52414723W008562311                                                                                 
+SEURD        IWD   EI011090 D   N52111956W007050196                                                                                 
+SEURD        BAL   EI011580 D   N53175962W006265200                                                                                 
+SEURD        CON   EI011740 D   N53542889W008491237                                                                                 
+SEURD        CRK   EI011460 D   N51502619W008293937                                                                                 
+SEURD        DUB   EI011490 D   N53295775W006182559                                                                                 
+SEURD        DAP   EI011120 D   N53252410W006181000                                                                                 
+SEURD        SHA   EI011330 D   N52431564W008530677                                                                                 
+SEURD        WST   EI011470 D   N53210997W006293809                                                                                 
+SEURD        ID    EI010890 D   N53251224W006161389                                                                                 
+SEURD        EKN   EI011675 D   N54235513W007391299                                                                                 
+SEURD        GMN   EI011290 D   N53384854W006140569                                                                                 
+SEURD        SLG   EI010900 D   N54164337W0083527100                                                                                
+SEURER       W12         0330KLY  EID       O                                      07500     24500                                  
+SEURER       W12         0340OSGAREIEA      O                             0440     07500     24500                                  
+SEURER       W12         0350TORLUEIEA      O                             0119     07500     24500                                  
+SEURER       W12         0360TOMTOEIEA      O                             0217     07500     24500                                  
+SEURER       W12         0370SHA  EID       O                             0282     07500     24500                                  
+SEURER       L9          0170SHA  EID       O                                      07500     24500                                  
+SEURER       L9          0180TIPUREIEA      O                             0288     07500     24500                                  
+SEURER       L18         0060DUB  EID       O                             0390     07500     24500                                  
+SEURER       W10         0210CRK  EID       O                                      07500     24500                                  
+SEURER       W10         0220CML  EID       O                             0525     07500     24500                                  
+SEURER       W10         0230LEGBOEIEA      O                             0299     07500     24500                                  
+SEURER       W10         0240DIRUMEIEA      O                             0145     07500     24500                                  
+SEURER       W10         0250GERVOEIEA      O                             0077     07500     24500                                  
+SEURER       W10         0260KLY  EID       O                             0179     07500     24500                                  
+SEURER       W10         0270LIFFY  EA      O                             0251     07500     24500                                  
+SEURER       V14         0020DUB  EID       OL                            0307     07500     24500                                  
+SEURER       V14         0030PELIGEIEA      OL                            0410     07500     24500                                  
+SEURER       V14         0040ENOKUEIEA      OL                            0132     07500     24500                                  
+SEURER       V14         0050DIGANEIEA      OL                            0217     07500     24500                                  
+SEURER       V14         0060SHA  EID       OL                            0281     07500     24500                                  
+SEURER       L149        0030DUB  EID       O                             0690     07500     24500                                  
+SEURER       P620        0040DUB  EID       O                             0584     07500     24500                                  
+SEURER       L175        0010CRK  EID       O                                      07500     24500                                  
+SEURER       L175        0020NEXAT  EA      O                             0713     07500     24500                                  
+SEURER       L975        0010DONOXEIEA      O                                      07500     24500                                  
+SEURER       L975        0020RANAREIEA      O                             0549     07500     24500                                  
+SEURER       L975        0030TIMRAEIEA      O                             0182     07500     24500                                  
+SEURER       L975        0040DUB  EID       O                             0196     07500     24500                                  
+SEURER       L975        0050LIFFY  EA      O                             0289     07500     24500                                  
+SEURER       W13         0180RANAREIEA      O                                      07500     24500                                  
+SEURER       W13         0190KORAKEIEA      O                             0237     07500     24500                                  
+SEURER       W13         0200RIKULEIEA      O                             0284     07500     24500                                  
+SEURER       W13         0210SHA  EID       O                             0281     07500     24500                                  
+SEURER       W15         0140CRN  EID       O                                      07500     24500                                  
+SEURER       W15         0150KORAKEIEA      O                             0415     07500     24500                                  
+SEURER       P600        0060DUB  EID       O                                      07500     24500                                  
+SEURER       P600        0070GELKI  EA      O                             0331     07500     24500                                  
+SEURER       N34         0010DUB  EID       O                                      07500     24500                                  
+SEURER       N34         0020BUNEDEIEA      O                             0539     07500     24500                                  
+SEURER       N34         0030NEXAT  EA      O                             0411     07500     24500                                  
+SEURER       Q51         0010CML  EID       RH                                     07500     24500                                  
+SEURER       Q51         0020ESATAEIEA      RH                            0304     07500     24500                                  
+SEURER       Q52         0010CML  EID       RH                                     07500     24500                                  
+SEURER       Q52         0020OLONOEIEA      RH                            0302     07500     24500                                  
+SEURER       N160        0030CRK  EID       O                             0233     07500     24500                                  
+SEURER       N160        0040KURUMEIEA      O                             0241     07500     24500                                  
+SEURER       N160        0050SHA  EID       O                             0306     07500     24500                                  
+SEURER       N12         0010CRK  EID       O                                      07500     24500                                  
+SEURER       N12         0020LULOX  EA      O                             0904     07500     24500                                  
+SEURER       M17         0010DUB  EID       O                                      07500     24500                                  
+SEURER       M17         0020KLY  EID       O                             0156     07500     24500                                  
+SEURER       M17         0030VATRY  EA      O                             0482     07500     24500                                  
+SEURER       UL18        0040DUB88EIEA      O                             0183     24500     66000                                  
+SEURER       UL18        0050ERNANEGEA      O                             0271     24500     66000                                  
+SEURER       UL18        0060NAVANEIEA      O                             0414     24500     66000                                  
+SEURER       UL18        0070DUB  EID       O                             0192     24500     66000                                  
+SEURER       UL18        0080LIPGO  EA      O                             0390     24500     46000                                  
+SEURER       UN542       0040SHA  EID       O                             0304     24500     66000                                  
+SEURER       UN542       0050NORLA  EA      O                             0994     24500     66000                                  
+SEURER       UL70        0090NAVANEIEA      O                             0409     24500     46000                                  
+SEURER       UL70        0100DEVOL  EA      O                             1345     24500     66000                                  
+SEURER       UV14        0020DUB  EID       O                             0307     24500     66000                                  
+SEURER       UV14        0030PELIGEIEA      O                             0410     24500     66000                                  
+SEURER       UV14        0040SHA  EID       O                             0630     24500     66000                                  
+SEURER       UW10        0210CRK  EID       O                                      24500     66000                                  
+SEURER       UW10        0220CML  EID       O                             0525     24500     66000                                  
+SEURER       UW10        0230LEGBOEIEA      O                             0299     24500     66000                                  
+SEURER       UW10        0240DIRUMEIEA      O                             0145     24500     66000                                  
+SEURER       UW10        0250GERVOEIEA      O                             0077     24500     66000                                  
+SEURER       UW10        0260KLY  EID       O                             0179     24500     66000                                  
+SEURER       UW10        0270LIFFY  EA      O                             0251     24500     66000                                  
+SEURER       UL149       0080DUB  EID       O                             0690     24500     66000                                  
+SEURER       UP620       0010DUB  EID       O                                      24500     66000                                  
+SEURER       UP620       0020BEPAN  EA      O                             0584     24500     66000                                  
+SEURER       UL175       0040CRK  EID       O                             0713     24500     66000                                  
+SEURER       UL175       0050GIPER  EA      O                             1406     24500     66000                                  
+SEURER       UN486       0010CRK  EID       O                                      24500     66000                                  
+SEURER       UN486       0020BANDU  EA      O                             1024     24500     66000                                  
+SEURER       UP600       0160CRK  EID       O                                      24500     66000                                  
+SEURER       UP600       0170GARTI  EA      O                             0981     24500     66000                                  
+SEURER       UP600       0210GURGAEIEA      O                                      24500     66000                                  
+SEURER       UP600       0220DUB  EID       O                             0298     24500     66000                                  
+SEURER       UP600       0230GELKI  EA      O                             0331     24500     46000                                  
+SEURER       UL975       0020RINUSEIEA      O                             0995     24500     66000                                  
+SEURER       UL975       0030DUB  EID       O                             0491     24500     66000                                  
+SEURER       UL975       0040LIFFY  EA      O                             0289     24500     66000                                  
+SEURER       UL9         0120SHA  EID       O                             0311     24500     66000                                  
+SEURER       UW13        0230RANAREIEA      O                                      24500     66000                                  
+SEURER       UW13        0240SHA  EID       O                             0802     24500     66000                                  
+SEURER       UN551       0030BEL50EIEA      O                             0499     24500     46000                                  
+SEURER       UN551       0040TADEX  EA      O                             0205     24500     46000                                  
+SEURER       UN517       0040RINUSEIEA      O                             0422     24500     66000                                  
+SEURER       UN517       0050ENIRIEIEA      O                             0426     24500     66000                                  
+SEURER       UN517       0060SHA  EID       O                             0282     24500     66000                                  
+SEURER       UN517       0070BUNONEIEA      O                             0318     24500     66000                                  
+SEURER       UN517       0080GIPER  EA      O                             1232     24500     66000                                  
+SEURER       UN550       0020BEL64EIEA      O                             0267     24500     46000                                  
+SEURER       UN550       0030BEL96  EA      O                             0356     24500     46000                                  
+SEURER       UW12        0170KLY  EID       O                                      24500     66000                                  
+SEURER       UW12        0180OSGAREIEA      O                             0440     24500     66000                                  
+SEURER       UW12        0190SHA  EID       O                             0617     24500     66000                                  
+SEURER       UN160       0050CRK  EID       O                             0233     24500     66000                                  
+SEURER       UN160       0060SHA  EID       O                             0548     24500     66000                                  
+SEURER       UN160       0070DEVOL  EA      O                             0895     24500     66000                                  
+SEURER       UN34        0010DUB  EID       O                                      24500     66000                                  
+SEURER       UN34        0020BUNEDEIEA      O                             0539     24500     66000                                  
+SEURER       UN34        0030ROPED  EA      O                             0189     24500     66000                                  
+SEURER       UL607       0050CRK  EID       O                                      24500     66000                                  
+SEURER       UL607       0060EVRIN  EA      O                             0718     24500     66000                                  
+SEURER       UM140       0030CRK  EID       O                             1460     24500     66000                                  
+SEURER       UM140       0040NORLA  EA      O                             0619     24500     66000                                  
+SEURER       UN536       0020DUB  EID       O                             2066     45000     66000                                  
+SEURER       UN537       0030NIPITEIEA      O                             1547     24500     66000                                  
+SEURER       UN537       0040MAC88EIEA      O                             0233     24500     46000                                  
+SEURER       UN537       0050MAC    D       O                             0883     24500     46000                                  
+SEURER       UN523       0010CRK  EID       O                                      24500     66000                                  
+SEURER       UN523       0020DOLIP  EA      O                             1302     24500     66000                                  
+SEURER       UN12        0010CRK  EID       O                                      24500     66000                                  
+SEURER       UN12        0020LULOX  EA      O                             0904     24500     66000                                  
+SEURER       UN525       0030SHA  EID       O                             1221     24500     66000                                  
+SEURER       UM17        0010DUB  EID       O                                      24500     66000                                  
+SEURER       UM17        0020VATRY  EA      O                             0638     24500     66000                                  
+SEURER       UN559       0040SHA  EID       O                             1158     24500     66000                                  

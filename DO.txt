@@ -1,0 +1,263 @@
+SSCAEAENRT   AVASO MD           N19514600W0713540100                                                                                
+SSCAEAENRT   BENIS MD           N18381710W0705720100                                                                                
+SSCAEAENRT   BEPAL MD           N19012300W0712103100                                                                                
+SSCAEAENRT   BEREL MD           N18494110W068522300                                                                                 
+SSCAEAENRT   BETUM MD           N18593630W069005230                                                                                 
+SSCAEAENRT   BIBAS MD           N19134900W0702609100                                                                                
+SSCAEAENRT   BIBOK MD           N18445600W069180100                                                                                 
+SSCAEAENRT   BISDO MD           N19120025W070021439                                                                                 
+SSCAEAENRT   BORAS MD           N19243810W0701001100                                                                                
+SSCAEAENRT   CDO01 MD           N18271171W069404265                                                                                 
+SSCAEAENRT   CDO10 MD           N18360096W069394032                                                                                 
+SSCAEAENRT   CDO35 MD           N18353180W069431771                                                                                 
+SSCAEAENRT   CDO51 MD           N18321607W069424293                                                                                 
+SSCAEAENRT   CDO57 MD           N18323385W069320546                                                                                 
+SSCAEAENRT   CDO58 MD           N18355024W0694202100                                                                                
+SSCAEAENRT   CDO62 MD           N18275034W069404970                                                                                 
+SSCAEAENRT   CDO82 MD           N18340878W069432751                                                                                 
+SSCAEAENRT   DULPI MD           N18274583W069072087                                                                                 
+SSCAEAENRT   DUTAV MD           N19101410W071200390                                                                                 
+SSCAEAENRT   EPTES MD           N18283710W070233900                                                                                 
+SSCAEAENRT   GABIM MD           N18334470W069290833                                                                                 
+SSCAEAENRT   GABOK MD           N18472500W069150640                                                                                 
+SSCAEAENRT   GOSUL MD           N18312235W068474328                                                                                 
+SSCAEAENRT   KATKO MD           N18274100W0684727100                                                                                
+SSCAEAENRT   KEBAL MD           N18323210W070285330                                                                                 
+SSCAEAENRT   KENDO MD           N19172223W069144631                                                                                 
+SSCAEAENRT   KERSO MD           N19030210W069415100                                                                                 
+SSCAEAENRT   KODIX MD           N19081200W0700832100                                                                                
+SSCAEAENRT   LRN88 MD           N18300766W069065809                                                                                 
+SSCAEAENRT   OKOSO MD           N18192300W0703250100                                                                                
+SSCAEAENRT   OTSES MD           N18524131W070535447                                                                                 
+SSCAEAENRT   PETRI MD           N19160610W0694229100                                                                                
+SSCAEAENRT   PIPUT MD           N18340462W069050365                                                                                 
+SSCAEAENRT   PIRAL MD           N19280500W0700102100                                                                                
+SSCAEAENRT   PIRER MD           N18261110W069292961                                                                                 
+SSCAEAENRT   PISAB MD           N19162810W070232600                                                                                 
+SSCAEAENRT   PISOR MD           N19204400W0701718100                                                                                
+SSCAEAENRT   PITEX MD           N18241210W071062700                                                                                 
+SSCAEAENRT   PITOX MD           N18351970W069435785                                                                                 
+SSCAEAENRT   PIVAR MD           N18265200W069154500                                                                                 
+SSCAEAENRT   PIXES MD           N19312810W0695411100                                                                                
+SSCAEAENRT   PIXIM MD           N19410230W070222604                                                                                 
+SSCAEAENRT   PIXOK MD           N19121100W070415200                                                                                 
+SSCAEAENRT   POBIN MD           N19234110W0705725100                                                                                
+SSCAEAENRT   POBIR MD           N18400110W069105300                                                                                 
+SSCAEAENRT   POBON MD           N18532610W0685926100                                                                                
+SSCAEAENRT   PODAK MD           N19163100W070474300                                                                                 
+SSCAEAENRT   PODOS MD           N18264971W069072162                                                                                 
+SSCAEAENRT   PODUL MD           N18390692W068532547                                                                                 
+SSCAEAENRT   PTA12 MD           N19354304W070095005                                                                                 
+SSCAEAENRT   PTA13 MD           N19280576W070151077                                                                                 
+SSCAEAENRT   PTA15 MD           N19234808W070205956                                                                                 
+SSCAEAENRT   PTA80 MD           N19454508W070332408                                                                                 
+SSCAEAENRT   R1515 MD           N18263826W069402704                                                                                 
+SSCAEAENRT   RESOR MD           N19324810W070474300                                                                                 
+SSCAEAENRT   REVOT MD           N18404180W069362766                                                                                 
+SSCAEAENRT   REXUL MD           N18392900W0711444100                                                                                
+SSCAEAENRT   RIBES MD           N19134800W0695604100                                                                                
+SSCAEAENRT   RIGAR MD           N19383800W0705532100                                                                                
+SSCAEAENRT   ROLSU MD           N19405528W070401720                                                                                 
+SSCAEAENRT   TADKI MD           N18272609W069004375                                                                                 
+SSCAEAENRT   TUBAL MD           N18153920W070075560                                                                                 
+SSCAEAENRT   TUMEL MD           N18153200W0703102100                                                                                
+SSCADB       BHN   MD000300     N18143000W071070000                                                                                 
+SSCADB       LAS   MD000200     N18344100W0694327100                                                                                
+SSCADB       HER   MD000410     N18280330W069581260                                                                                 
+SSCADB       HGR   MD000300     N18345300W069584900                                                                                 
+SSCADB       LRN   MD000325     N18270330W068551630                                                                                 
+SSCADB       PPA   MD000450     N19450860W070341290                                                                                 
+SSCADB       PCA   MD000425     N18335140W068221720                                                                                 
+SSCADB       HIV   MD000400     N18264890W069400710                                                                                 
+SSCADB       HIJ   MD000220     N18305100W0694556100                                                                                
+SSCAD        BHO   MD011200V    N18151620W071074870                                                                                 
+SSCAD        DCR   MD011430V    N17555400W0713853100                                                                                
+SSCAD        DCY   MD011580V    N19160780W069441560                                                                                 
+SSCAD        DCY   MD011580V    N19161400W069442670                                                                                 
+SSCAD        HGR   MD011580V    N18341800W069590280                                                                                 
+SSCAD        LRN   MD011620V    N18271440W068544270                                                                                 
+SSCAD        PTA   MD011510V    N19453300W070341400                                                                                 
+SSCAD        PNA   MD011270V    N18340210W068225990                                                                                 
+SSCAD        CDO   MD011470V    N18255860W069400240                                                                                 
+SSCAD        SIS   MD011450V    N18301510W069454500                                                                                 
+SSCAD        SGO   MD011490V    N19242630W070361370                                                                                 
+SSCAD        ICDO  MD010890 D   N18263030W069402010                                                                                 
+SSCAD        EXP   MD010930 D   N19241136W070352881                                                                                 
+SSCAD        BHO   MD011200 D   N18151620W071074870                                                                                 
+SSCAD        DCR   MD011430 D   N17555400W0713853100                                                                                
+SSCAD        DCY   MD011580 D   N19161400W069442670                                                                                 
+SSCAD        HGR   MD011580 D   N18341800W069590280                                                                                 
+SSCAD        LRN   MD011620 D   N18271440W068544270                                                                                 
+SSCAD        PTA   MD011510 D   N19453300W070341400                                                                                 
+SSCAD        PNA   MD011270 D   N18340210W068225990                                                                                 
+SSCAD        CDO   MD011470 D   N18255860W069400240                                                                                 
+SSCAD        SGO   MD011490 D   N19242630W070361370                                                                                 
+SSCAER       W8          0050PTA  MDD       O                             0370     05000     19500                                  
+SSCAER       W11         0010LRN  MDD       O                                      04000     19500                                  
+SSCAER       W11         0020BERELMDEA      O                             0226     04000     19500                                  
+SSCAER       W11         0030PIXAR  EA      O                             0189     04000     19500                                  
+SSCAER       W12         0320PNA  MDD       O                             0270     04000     19500                                  
+SSCAER       W19         0010BHO  MDD       O                                      08000     19500                                  
+SSCAER       W19         0020BENISMDEA      O                             0251     08000     19500                                  
+SSCAER       W19         0030PIXOKMDEA      O                             0369     12000     19500                                  
+SSCAER       W19         0040SGO  MDD       O                             0134     12000     19500                                  
+SSCAER       W19         0050PTA  MDD       O                             0212     07000     19500                                  
+SSCAER       W7          0100PTA  MDD       O                             1154     14000     19500                                  
+SSCAER       W14         0010BHO  MDD       O                                      10000     19500                                  
+SSCAER       W14         0020KESVI  EA      O                             0675     10000     19500                                  
+SSCAER       W10         0550PNA  MDD       O                             0432     04000     19500                                  
+SSCAER       W17         0050PNA  MDD       O                             0283     04000     19500                                  
+SSCAER       W6          0060CDO  MDD       O                                      04000     19500                                  
+SSCAER       W6          0070PIVARMDEA      O                             0231     04000     19500                                  
+SSCAER       W6          0080LRN  MDD       O                             0200     04000     19500                                  
+SSCAER       W6          0090PNA  MDD       O                             0309     04000     19500                                  
+SSCAER       W9          0150PTA  MDD       O                                      06000     19500                                  
+SSCAER       W9          0160BORASMDEA      O                             0309     06000     19500                                  
+SSCAER       W9          0170RIBESMDEA      O                             0171     06000     19500                                  
+SSCAER       W9          0180KERSOMDEA      O                             0172     06000     19500                                  
+SSCAER       W9          0190BIBOKMDEA      O                             0289     06000     19500                                  
+SSCAER       W9          0200POBIRMDEA      O                             0084     04000     19500                                  
+SSCAER       W9          0210LRN  MDD       O                             0200     04000     19500                                  
+SSCAER       W9          0220MELLA  EA      O                             0542     04000     19500                                  
+SSCAER       W5          0350CDO  MDD       O                                      04000     19500                                  
+SSCAER       W5          0360GOSULMDEA      O                             0499     04000     19500                                  
+SSCAER       W5          0370PNA  MDD       O                             0236     04000     19500                                  
+SSCAER       W26         0320PODAKMDEA      O                             0768     14000     19500                                  
+SSCAER       W26         0330SGO  MDD       O                             0134     07000     19500                                  
+SSCAER       W25         0290OTSESMDEA      O                                      12000     19500                                  
+SSCAER       W25         0300SGO  MDD       O                             0359     12000     19500                                  
+SSCAER       W3          0090CDO  MDD       O                                      04000     19500                                  
+SSCAER       W3          0100TUBALMDEA      O                             0284     04000     19500                                  
+SSCAER       W3          0110KANAM  EA      O                             0215     04000     19500                                  
+SSCAER       W27         0490SGO  MDD       O                                      07000     19500                                  
+SSCAER       W27         0500RESORMDEA      O                             0137     07000     19500                                  
+SSCAER       W27         0510RIGARMDEA      O                             0094     07000     19500                                  
+SSCAER       W27         0520RETAK  EA      O                             0544     07000     19500                                  
+SSCAER       W4          0130CDO  MDD       O                                      06000     19500                                  
+SSCAER       W4          0140RIBESMDEA      O                             0502     06000     19500                                  
+SSCAER       W28         0010PNA  MDD       O                                      04000     19500                                  
+SSCAER       W28         0020BERELMDEA      O                             0320     04000     19500                                  
+SSCAER       W28         0030POBONMDEA      O                             0077     04000     19500                                  
+SSCAER       W28         0040PETRIMDEA      O                             0466     04000     19500                                  
+SSCAER       W28         0050PIRALMDEA      O                             0212     04000     19500                                  
+SSCAER       W28         0060PTA  MDD       O                             0358     06000     19500                                  
+SSCAER       W22         0240SGO  MDD       O                             0616     06000     19500                                  
+SSCAER       W18         0370PNA  MDD       O                             0310     04000     19500                                  
+SSCAER       W13         0020BHO  MDD       O                             0457     08000     19500                                  
+SSCAER       W13         0030TUMELMDEA      O                             0349     11000     19500                                  
+SSCAER       W13         0040TUBALMDEA      O                             0220     11000     19500                                  
+SSCAER       A554        0090CDO  MDD       O                                      04000     19500                                  
+SSCAER       A554        0100KARIB  EA      O                             0502     04000     19500                                  
+SSCAER       A554        0120KODIXMDEA      O                                      07000     19500                                  
+SSCAER       A554        0130PISORMDEA      O                             0150     07000     19500                                  
+SSCAER       A554        0140PTA  MDD       O                             0295     07000     19500                                  
+SSCAER       A554        0150SEKAR  EA      O                             0415     06000     19500                                  
+SSCAER       G633        0040CDO  MDD       O                                      04000     19500                                  
+SSCAER       G633        0050POBEX  EA      O                             0250     04000     19500                                  
+SSCAER       G633        0200TUBALMDEA      O                             0137     11000     19500                                  
+SSCAER       G633        0210OKOSOMDEA      O                             0240     11000     19500                                  
+SSCAER       G633        0220ETBODMTEA      O                             0770     11000     19500                                  
+SSCAER       A636        0040PTA  MDD       O                             0199     06000     19500                                  
+SSCAER       A636        0050PIXESMDEA      O                             0403     06000     19500                                  
+SSCAER       A636        0060KOBET  EA      O                             0112     09000     19500                                  
+SSCAER       W20         0270SGO  MDD       O                             0556     06000     19500                                  
+SSCAER       B891        0020BEPALMDEA      O                             0429     14000     19500                                  
+SSCAER       B891        0030POBINMDEA      O                             0316     14000     19500                                  
+SSCAER       B891        0040RESORMDEA      O                             0129     14000     19500                                  
+SSCAER       B891        0050PTA  MDD       O                             0180     05000     19500                                  
+SSCAER       B891        0060PISOS  EA      O                             0302     05000     19500                                  
+SSCAER       W15         0010BEPALMDEA      O                                      08000     19500                                  
+SSCAER       W15         0020REXULMDEA      O                             0227     08000     19500                                  
+SSCAER       W15         0030BHO  MDD       O                             0251     08000     19500                                  
+SSCAER       A567        0090CDO  MDD       O                                      04000     19500                                  
+SSCAER       A567        0100DELPO  EA      O                             0502     04000     19500                                  
+SSCAER       W29         0180PETRIMDEA      O                             0498     09000     19500                                  
+SSCAER       W29         0190SGO  MDD       O                             0514     09000     19500                                  
+SSCAER       G446        0020CDO  MDD       O                             0202     04000     19500                                  
+SSCAER       G446        0030KERSOMDEA      O                             0371     04000     19500                                  
+SSCAER       G446        0040PETRIMDEA      O                             0131     06000     19500                                  
+SSCAER       G446        0050KOBET  EA      O                             0114     06000     19500                                  
+SSCAER       A319        0010CDO  MDD       O                                      04000     19500                                  
+SSCAER       A319        0020BIBOKMDEA      O                             0282     07000     19500                                  
+SSCAER       A319        0030BETUMMDEA      O                             0219     07000     19500                                  
+SSCAER       A319        0040PIXAR  EA      O                             0133     07000     19500                                  
+SSCAER       W16         0010BHO  MDD       O                                      10000     19500                                  
+SSCAER       W16         0020RAGUS  EA      O                             0614     10000     19500                                  
+SSCAER       L212        0010KODIXMDEA      O                                      07000     19500                                  
+SSCAER       L212        0020BIBASMDEA      O                             0176     07000     19500                                  
+SSCAER       L212        0030POBINMDEA      O                             0311     07000     19500                                  
+SSCAER       L212        0040ONPADMTEA      O                             0461     06000     19500                                  
+SSCAER       W23         0010SGO  MDD       O                                      06000     19500                                  
+SSCAER       W23         0020BISDOMDEA      O                             0344     06000     19500                                  
+SSCAER       W23         0030KERSOMDEA      O                             0213     06000     19500                                  
+SSCAER       W23         0040PNA  MDD       O                             0801     04000     19500                                  
+SSCAER       W21         0030KENDOMDEA      O                                      06000     19500                                  
+SSCAER       W21         0040SGO  MDD       O                             0772     06000     19500                                  
+SSCAER       W30         0080DCR  MDD       O                                      10000     19500                                  
+SSCAER       W30         0090PITAL  EA      O                             0339     10000     19500                                  
+SSCAER       G880        0050DCR  MDD       O                             0689     10000     19500                                  
+SSCAER       B520        0010CDO  MDD       O                                      04000     19500                                  
+SSCAER       B520        0020KATKOMDEA      O                             0499     04000     19500                                  
+SSCAER       B520        0150DCR  MDD       O                             0177     10000     19500                                  
+SSCAER       B520        0160KANAM  EA      O                             0675     10000     19500                                  
+SSCAER       W24         0280LRN  MDD       O                                      04000     19500                                  
+SSCAER       W24         0290KODIXMDEA      O                             0811     04000     19500                                  
+SSCAER       W24         0300PISABMDEA      O                             0163     06000     19500                                  
+SSCAER       W24         0310SGO  MDD       O                             0145     06000     19500                                  
+SSCAER       A554-       0010CDO  MDD       O                                      07000     19500                                  
+SSCAER       A554-       0020KODIXMDEA      O                             0501     07000     19500                                  
+SSCAER       A319-       0010CDO  MDD       O                                      04000     19500                                  
+SSCAER       A319-       0020LECKY  EA      O                             0180     04000     19500                                  
+SSCAER       A772        0010DCR  MDD       O                                      10500     24500                                  
+SSCAER       A772        0020KENOKMTEA      O                             0189     10500     24500                                  
+SSCAER       UT08        0040PNA  MDD       O                             0228     04000     19500                                  
+SSCAER       UW14        0030POBINMDEA      O                             0296     19500     60000                                  
+SSCAER       UW14        0040PITEXMDEA      O                             0601     19500     60000                                  
+SSCAER       UW14        0050BHO  MDD       O                             0090     19500     60000                                  
+SSCAER       UW14        0060KESVI  EA      O                             0675     19500     60000                                  
+SSCAER       UW16        0060BHO  MDD       O                                      19500     60000                                  
+SSCAER       UW16        0070RAGUS  EA      O                             0614     19500     60000                                  
+SSCAER       UW7         0060EPTESMDEA      O                             0378     19500     60000                                  
+SSCAER       UW7         0070PTA  MDD       O                             0776     19500     60000                                  
+SSCAER       UA554       0080CDO  MDD       O                                      19500     60000                                  
+SSCAER       UA554       0090KARIB  EA      O                             0502     19500     60000                                  
+SSCAER       UA554       0110KODIXMDEA      O                                      19500     60000                                  
+SSCAER       UA554       0120PISORMDEA      O                             0150     19500     60000                                  
+SSCAER       UA554       0130PTA  MDD       O                             0295     19500     60000                                  
+SSCAER       UA554       0140SEKAR  EA      O                             0415     19500     60000                                  
+SSCAER       UA636       0040PTA  MDD       O                             0515     19500     60000                                  
+SSCAER       UA636       0050BEMEL  EA      O                             0190     19500     60000                                  
+SSCAER       UG633       0060CDO  MDD       O                                      19500     60000                                  
+SSCAER       UG633       0070DARSI  EA      O                             0650     19500     60000                                  
+SSCAER       UG633       0110PITEXMDEA      O                             0447     19500     60000                                  
+SSCAER       UG633       0120LECKY  EA      O                             0699     19500     60000                                  
+SSCAER       UW15        0010BEPALMDEA      O                                      19500     60000                                  
+SSCAER       UW15        0020BHO  MDD       O                             0478     19500     60000                                  
+SSCAER       UB891       0020BEPALMDEA      O                             0429     19500     60000                                  
+SSCAER       UB891       0030POBINMDEA      O                             0316     19500     60000                                  
+SSCAER       UB891       0040PTA  MDD       O                             0309     19500     60000                                  
+SSCAER       UB891       0050PISOS  EA      O                             0302     19500     60000                                  
+SSCAER       UA567       0040CDO  MDD       O                                      19500     60000                                  
+SSCAER       UA567       0050EBLIP  EA      O                             0271     19500     60000                                  
+SSCAER       UG446       0040CDO  MDD       O                             0616     19500     60000                                  
+SSCAER       UG446       0050PIRON  EA      O                             0202     19500     60000                                  
+SSCAER       UL212       0010KODIXMDEA      O                                      19500     60000                                  
+SSCAER       UL212       0020BIBASMDEA      O                             0176     19500     60000                                  
+SSCAER       UL212       0030POBINMDEA      O                             0311     19500     60000                                  
+SSCAER       UL212       0040ONPADMTEA      O                             0461     19500     60000                                  
+SSCAER       UL793       0070CDO  MDD       O                                      19500     41000                                  
+SSCAER       UL793       0080MEDIB  EA      O                             0373     19500     41000                                  
+SSCAER       UL337       0030EPTESMDEA      O                             0924     19500     41000                                  
+SSCAER       UL337       0040EBLIP  EA      O                             0474     19500     41000                                  
+SSCAER       UA319       0010CDO  MDD       O                                      19500     60000                                  
+SSCAER       UA319       0020PIXAR  EA      O                             0634     19500     60000                                  
+SSCAER       UB520       0120DCR  MDD       O                             0177     19500     60000                                  
+SSCAER       UB520       0130LECKY  EA      O                             1016     19500     60000                                  
+SSCAER       UA554       0010CDO  MDD       O                                      19500     60000                                  
+SSCAER       UA554       0020KODIXMDEA      O                             0501     19500     60000                                  
+SSCAER       UA319       0010CDO  MDD       O                                      19500     60000                                  
+SSCAER       UA319       0020LECKY  EA      O                             0180     19500     60000                                  
+SSCAER       UW30        0050DCR  MDD       O                                      19500     60000                                  
+SSCAER       UW30        0060PITAL  EA      O                             0339     19500     60000                                  
+SSCAER       UG880       0010DCR  MDD       O                                      19500     60000                                  
+SSCAER       UG880       0020POLUX  EA      O                             0904     19500     60000                                  

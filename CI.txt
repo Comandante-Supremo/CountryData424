@@ -1,0 +1,72 @@
+SAFREAENRT   AMPAS DI           N06400000W007490000                                                                                 
+SAFREAENRT   APONU DI           N05264910W003505600                                                                                 
+SAFREAENRT   BONTO DI           N09113300W0055528100                                                                                
+SAFREAENRT   BUSOT DI           N05392000W0062350100                                                                                
+SAFREAENRT   DEGAS DI           N06292710W004290800                                                                                 
+SAFREAENRT   DIPRI DI           N05271100W003504830                                                                                 
+SAFREAENRT   GUPEX DI           N07453010W003314000                                                                                 
+SAFREAENRT   GUREL DI           N10045410W006270600                                                                                 
+SAFREAENRT   MEGOT DI           N05484200W007263000                                                                                 
+SAFREAENRT   MOLAB DI           N07392910W003070900                                                                                 
+SAFREAENRT   ONPAL DI           N06184210W006121800                                                                                 
+SAFREAENRT   POKSO DI           N06452300W0055650100                                                                                
+SAFREAENRT   POMET DI           N05284900W005142600                                                                                 
+SAFREAENRT   UBUTU DI           N07114200W0081047100                                                                                
+SAFREAENRT   ZANOU DI           N06324910W0032935100                                                                                
+SAFRDB       PB    DI000294     N05150150W003572890                                                                                 
+SAFRDB       AN    DI000306     N05205670W003532550                                                                                 
+SAFRDB       AFO   DI000393     N05244010W002545930                                                                                 
+SAFRDB       BDK   DI000350     N08001830W002460240                                                                                 
+SAFRDB       BOK   DI000283     N07430640W005045840                                                                                 
+SAFRDB       BKE   DI000258     N07482670W005023520                                                                                 
+SAFRDB       BNA   DI000370     N09163810W003013100                                                                                 
+SAFRDB       BDI   DI000358     N09312860W006274500                                                                                 
+SAFRDB       DA    DI000316     N06530051W006275904                                                                                 
+SAFRDB       GGA   DI000370     N06300064W005582901                                                                                 
+SAFRDB       KH    DI000400     N09234860W005374750                                                                                 
+SAFRDB       MN    DI000366     N07160038W007345910                                                                                 
+SAFRDB       OD    DI000265     N09325680W0073254100                                                                                
+SAFRDB       SAP   DI000330     N04461110W0063857100                                                                                
+SAFRDB       SS    DI000290     N04561710W006074000                                                                                 
+SAFRDB       SGA   DI000397     N07572915W006384804                                                                                 
+SAFRDB       TBU   DI000311     N04271400W0072223100                                                                                
+SAFRDB       TBA   DI000373     N08240500W007401010                                                                                 
+SAFRDB       YKO   DI000363     N06504910W005245830                                                                                 
+SAFRDB       YMO   DI000269     N06554080W005203820                                                                                 
+SAFRD        AD    DI011430V    N05163790W003550950                                                                                 
+SAFRD        BDU   DI011610V    N08021140W002451660                                                                                 
+SAFRD        BKY   DI011510V    N07445020W005042980                                                                                 
+SAFRD        KRG   DI011520V    N09222090W005383950                                                                                 
+SAFRD        ODN   DI011720V    N09314830W007342550                                                                                 
+SAFRD        SPO   DI011490V    N04452400W006391570                                                                                 
+SAFRD        YAM   DI011580V    N06532000W005224390                                                                                 
+SAFRD        AN    DI011030 D   N05160478W003551853                                                                                 
+SAFRD        AD    DI011430 D   N05163790W003550950                                                                                 
+SAFRD        BKY   DI011510 D   N07445020W005042980                                                                                 
+SAFRD        ODN   DI011720 D   N09314830W007342550                                                                                 
+SAFRD        SPO   DI011490 D   N04452400W006391570                                                                                 
+SAFRD        YAM   DI011580 D   N06532000W005224390                                                                                 
+SAFRER       G851F       0010DEGASDIEA      O                                      04500     24500                                  
+SAFRER       G851F       0020BKY  DID       O                             0832     05500     24500                                  
+SAFRER       G851F       0030BONTODIEA      O                             1004     05500     24500                                  
+SAFRER       G851F       0040GURELDIEA      O                             0618     05500     24500                                  
+SAFRER       G851F       0050EDAMOGAEA      O                             0496     05500     24500                                  
+SAFRER       B600F       0100MEGOTDIEA      O                                      05500     24500                                  
+SAFRER       B600F       0110BUSOTDIEA      O                             0631     05500     24500                                  
+SAFRER       B600F       0120POMETDIEA      O                             0699     04500     24500                                  
+SAFRER       B600        0050MEGOTDIEA      O                                      05000     24500                                  
+SAFRER       B600        0060RITAMGLEA      O                             0761     05000     24500                                  
+SAFRER       B729        0050UBUTUDIEA      O                             1009     07000     24500                                  
+SAFRER       G859F       0070MOLABDIEA      O                                      05500     24500                                  
+SAFRER       G859F       0080ZANOUDIEA      O                             0703     05500     24500                                  
+SAFRER       UR979       0140POKSODIEA      O                             1693     24500     46000                                  
+SAFRER       UG851       0010BKY  DID       O                                      24500     46000                                  
+SAFRER       UG851       0020GURELDIEA      O                             1622     24500     46000                                  
+SAFRER       UG851       0030EDAMOGAEA      O                             0496     24500     46000                                  
+SAFRER       UA614       0010GUPEXDIEA      O                                      24500     46000                                  
+SAFRER       UA614       0020BIGOMDFEA      O                             1685     24500     46000                                  
+SAFRER       UB729       0050UBUTUDIEA      O                             1009     24500     46000                                  
+SAFRER       UB729       0060ONPALDIEA      O                             1291     24500     46000                                  
+SAFRER       UB600       0010BUSOTDIEA      O                                      24500     46000                                  
+SAFRER       UB600       0020MEGOTDIEA      O                             0631     24500     46000                                  
+SAFRER       UB600       0030RITAMGLEA      O                             0761     25000     60000                                  

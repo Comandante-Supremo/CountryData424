@@ -1,0 +1,82 @@
+SAFREAENRT   AMSIK FC           S01130010E016505600                                                                                 
+SAFREAENRT   BUMAK FC           S00270100E0164158100                                                                                
+SAFREAENRT   ENINA FC           S03574310E011132600                                                                                 
+SAFREAENRT   EPULO FC           S03255300E0141454100                                                                                
+SAFREAENRT   GARAL FC           S01575110E016074000                                                                                 
+SAFREAENRT   INONI FC           S03033700E0154247100                                                                                
+SAFREAENRT   IPAMU FC           S02415410E013201500                                                                                 
+SAFREAENRT   LISIT FC           S02585110E0152129100                                                                                
+SAFREAENRT   MIKMA FC           S00093200E0143933100                                                                                
+SAFREAENRT   MONAL FC           S03372710E012284500                                                                                 
+SAFREAENRT   OPGAM FC           N02220610E017401400                                                                                 
+SAFREAENRT   POTAN FC           S03113500E0143124100                                                                                
+SAFREAENRT   SABSA FC           N03072700E018030200                                                                                 
+SAFREAENRT   SERAL FC           N02205700E0174525100                                                                                
+SAFREAENRT   TIVAL FC           S01494110E0145420100                                                                                
+SAFREAENRT   USKAV FC           N02131910E017423300                                                                                 
+SAFREAENRT   USMAK FC           S00330210E0163942100                                                                                
+SAFREAENRT   VONTI FC           S01484310E015264400                                                                                 
+SAFREAENRT   VOSAL FC           S02275210E0130249100                                                                                
+SAFRDB       LO    FC000267     S04124626E012400317                                                                                 
+SAFRDB       MK    FC000276     S03280850E012375817                                                                                 
+SAFRDB       OU    FC000392     N01362994E016032848                                                                                 
+SAFRD        BZ    FC011310V    S04144420E015154970                                                                                 
+SAFRD        CF    FC011250V    S00011740E015344500                                                                                 
+SAFRD        IT    FC011410V    S04492360E011531480                                                                                 
+SAFRD        BZ    FC011310 D   S04144420E015154970                                                                                 
+SAFRER       A403G       0010BZ   FCD       O                                      05500     24500                                  
+SAFRER       A403G       0020LISITFCEA      O                             0761     05500     24500                                  
+SAFRER       A403G       0030VONTIFCEA      O                             0704     05500     24500                                  
+SAFRER       A403G       0040CF   FCD       O                             1078     05500     24500                                  
+SAFRER       A403G       0050MOROS  EA      O                             1700     05500     24500                                  
+SAFRER       A410F       0010BZ   FCD       O                                      05500     24500                                  
+SAFRER       A410F       0020INONIFCEA      O                             0761     05500     24500                                  
+SAFRER       A410F       0030GARALFCEA      O                             0703     05500     24500                                  
+SAFRER       A410F       0040BUMAKFCEA      O                             0972     05500     24500                                  
+SAFRER       A410F       0050SERALFCEA      O                             1797     05500     24500                                  
+SAFRER       A410F       0060SABSAFCEA      O                             0497     05500     24500                                  
+SAFRER       A410F       0070MPK  HFD       O                             0804     05500     24500                                  
+SAFRER       R526G       0020ENINAFCEA      O                             0754     06500     24500                                  
+SAFRER       R526G       0030ONASA  EA      O                             0153     06500     24500                                  
+SAFRER       G856F       0010BZ   FCD       O                                      06500     24500                                  
+SAFRER       G856F       0020EPULOFCEA      O                             0780     06500     24500                                  
+SAFRER       G856F       0030IPAMUFCEA      O                             0701     06500     24500                                  
+SAFRER       G856F       0070VOSALFCEA      O                             1311     09500     24500                                  
+SAFRER       A604F       0010BZ   FCD       O                                      06500     24500                                  
+SAFRER       A604F       0020POTANFCEA      O                             0772     06500     24500                                  
+SAFRER       A604F       0030DIMLA  EA      O                             0703     06500     24500                                  
+SAFRER       B732        0010BZ   FCD       O                                      06500     24500                                  
+SAFRER       B732        0020VORAXFZEA      O                             1025     06500     24500                                  
+SAFRER       B732G       0010IT   FCD       O                                      06500     24500                                  
+SAFRER       B732G       0020ENINAFCEA      O                             0652     06500     24500                                  
+SAFRER       B732G       0030UBOLI  EA      O                             0149     06500     24500                                  
+SAFRER       R988G       0030MONALFCEA      O                                      06500     24500                                  
+SAFRER       R988G       0040VOSALFCEA      O                             0775     06500     24500                                  
+SAFRER       UM731       0240USKAVFCEA      O                             0542     24500     60000                                  
+SAFRER       UM731       0250OPGAMFCEA      O                             0091     24500     60000                                  
+SAFRER       UM731       0260EBSAPHFEA      O                             0829     24500     60000                                  
+SAFRER       UM998       0170USMAKFCEA      O                             2094     31000     60000                                  
+SAFRER       UG727       0010BZ   FCD       O                                      24500     46000                                  
+SAFRER       UG727       0020TIVALFCEA      O                             1467     24500     46000                                  
+SAFRER       UG727       0030MIKMAFCEA      O                             1013     24500     46000                                  
+SAFRER       UA403       0060BZ   FCD       O                                      24500     46000                                  
+SAFRER       UA403       0070VONTIFCEA      O                             1465     24500     46000                                  
+SAFRER       UA403       0080CF   FCD       O                             1078     24500     46000                                  
+SAFRER       UA403       0090MOROS  EA      O                             1700     24500     46000                                  
+SAFRER       UR526       0020ENINAFCEA      O                             1375     24500     46000                                  
+SAFRER       UR526       0030LIKAD  EA      O                             0754     24500     46000                                  
+SAFRER       UA604       0010BZ   FCD       O                                      24500     46000                                  
+SAFRER       UA604       0020DIMLA  EA      O                             1475     24500     46000                                  
+SAFRER       UA410       0010BZ   FCD       O                                      24500     46000                                  
+SAFRER       UA410       0020GARALFCEA      O                             1464     24500     46000                                  
+SAFRER       UA410       0030USMAKFCEA      O                             0907     24500     46000                                  
+SAFRER       UA410       0040USKAVFCEA      O                             1780     24500     46000                                  
+SAFRER       UA410       0050SERALFCEA      O                             0081     24500     46000                                  
+SAFRER       UA410       0060MPK  HFD       O                             1301     24500     46000                                  
+SAFRER       UG856       0010BZ   FCD       O                                      24500     46000                                  
+SAFRER       UG856       0020VOSALFCEA      O                             1705     24500     46000                                  
+SAFRER       UG856       0030KOPOV  EA      O                             1664     24500     46000                                  
+SAFRER       UA610       0170OPGAMFCEA      O                             1202     24500     46000                                  
+SAFRER       UA610       0180SERALFCEA      O                             0053     24500     46000                                  
+SAFRER       UA610       0190PIPLOFZEA      O                             0221     24500     46000                                  
+SAFRER       UR988       0020VOSALFCEA      O                             0542     24500     46000                                  

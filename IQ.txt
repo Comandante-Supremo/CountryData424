@@ -1,0 +1,273 @@
+SMESEAENRT   ALPET OR           N31121900E0461843100                                                                                
+SMESEAENRT   ALVIS OR           N34300404E043551764                                                                                 
+SMESEAENRT   ASNOT OR           N33295955E042571662                                                                                 
+SMESEAENRT   AYASA OR           N34083098E044193035                                                                                 
+SMESEAENRT   AYUVA OR           N36214711E043070543                                                                                 
+SMESEAENRT   BALAD OR           N33562897E044215050                                                                                 
+SMESEAENRT   BAP01 OR           N33164878E044123914                                                                                 
+SMESEAENRT   BAP07 OR           N33213998E044082564                                                                                 
+SMESEAENRT   BAP17 OR           N33294498E044012210                                                                                 
+SMESEAENRT   BAP21 OR           N33140689E044142751                                                                                 
+SMESEAENRT   BAP25 OR           N33361269E043554233                                                                                 
+SMESEAENRT   BAP52 OR           N32533030E044262602                                                                                 
+SMESEAENRT   BAP70 OR           N33094240E044170172                                                                                 
+SMESEAENRT   BAP71 OR           N33004244E044221564                                                                                 
+SMESEAENRT   BAR03 OR           N30310365E047413126                                                                                 
+SMESEAENRT   BAR08 OR           N30271927E047452275                                                                                 
+SMESEAENRT   BAR10 OR           N30402410E047315123                                                                                 
+SMESEAENRT   BAR11 OR           N30252703E047471839                                                                                 
+SMESEAENRT   BAR25 OR           N30344792E047373947                                                                                 
+SMESEAENRT   BAR75 OR           N30383207E047334738                                                                                 
+SMESEAENRT   BLD01 OR           N33552529E044225422                                                                                 
+SMESEAENRT   BLD02 OR           N33574923E044205852                                                                                 
+SMESEAENRT   BLD06 OR           N34012487E044183488                                                                                 
+SMESEAENRT   BLD07 OR           N33513700E044264862                                                                                 
+SMESEAENRT   BLD08 OR           N34031004E044172475                                                                                 
+SMESEAENRT   BLD10 OR           N33552712E044225520                                                                                 
+SMESEAENRT   BLD11 OR           N33552391E044225231                                                                                 
+SMESEAENRT   BLD12 OR           N34010195E044085371                                                                                 
+SMESEAENRT   BLD13 OR           N33450882E044342165                                                                                 
+SMESEAENRT   BLD15 OR           N34091805E044131889                                                                                 
+SMESEAENRT   BLD16 OR           N33514524E044270004                                                                                 
+SMESEAENRT   BLD19 OR           N33574999E044210035                                                                                 
+SMESEAENRT   BLD20 OR           N33565816E044195323                                                                                 
+SMESEAENRT   BLD21 OR           N33470455E044313174                                                                                 
+SMESEAENRT   BLD29 OR           N33583579E044152955                                                                                 
+SMESEAENRT   BLD31 OR           N33453677E044311492                                                                                 
+SMESEAENRT   BLD35 OR           N33444825E044335311                                                                                 
+SMESEAENRT   BLD40 OR           N33435890E044323975                                                                                 
+SMESEAENRT   BLD51 OR           N34084554E044121402                                                                                 
+SMESEAENRT   BLD60 OR           N33511681E044261799                                                                                 
+SMESEAENRT   BLD63 OR           N34012933E044180209                                                                                 
+SMESEAENRT   BLD80 OR           N33501719E044283828                                                                                 
+SMESEAENRT   BLD81 OR           N34025395E044165324                                                                                 
+SMESEAENRT   BLD88 OR           N33493710E044273861                                                                                 
+SMESEAENRT   BLD92 OR           N34021489E044053565                                                                                 
+SMESEAENRT   BRODY OR           N33212215E044105342                                                                                 
+SMESEAENRT   BUCKK OR           N33365402E043592678                                                                                 
+SMESEAENRT   BUZZZ OR           N32530288E044281410                                                                                 
+SMESEAENRT   CETBU OR           N33473526E044292221                                                                                 
+SMESEAENRT   CIDAC OR           N36243372E043054036                                                                                 
+SMESEAENRT   CIRAG OR           N35492862E043050498                                                                                 
+SMESEAENRT   CITYA OR           N34313588E043414239                                                                                 
+SMESEAENRT   COLRU OR           N33470203E042325781                                                                                 
+SMESEAENRT   CONBI OR           N34493710E043245553                                                                                 
+SMESEAENRT   CUPUK OR           N34441740E043281566                                                                                 
+SMESEAENRT   DASUR OR           N34300562E044241735                                                                                 
+SMESEAENRT   DELMI OR           N33191831E043132759                                                                                 
+SMESEAENRT   DENKI OR           N32222846E045512158                                                                                 
+SMESEAENRT   DEYAD OR           N33164440E044293888                                                                                 
+SMESEAENRT   DIDAC OR           N35544824E043014008                                                                                 
+SMESEAENRT   DISAR OR           N31311800E0461323100                                                                                
+SMESEAENRT   ECIVA OR           N33214220E044215374                                                                                 
+SMESEAENRT   EGAYI OR           N33463436E044133309                                                                                 
+SMESEAENRT   ELEXI OR           N34413000E0410859100                                                                                
+SMESEAENRT   ETBOM OR           N33213771E044475255                                                                                 
+SMESEAENRT   ETECA OR           N35522904E042561284                                                                                 
+SMESEAENRT   FEPGA OR           N33441358E044053296                                                                                 
+SMESEAENRT   FEVBI OR           N34004367E044183682                                                                                 
+SMESEAENRT   FEVIN OR           N33463324E042112469                                                                                 
+SMESEAENRT   FIKNU OR           N34263796E043405486                                                                                 
+SMESEAENRT   FINBI OR           N33262650E044172912                                                                                 
+SMESEAENRT   FINID OR           N35412412E043101452                                                                                 
+SMESEAENRT   FOSMI OR           N34354116E043361590                                                                                 
+SMESEAENRT   FROZN OR           N33473624E042365793                                                                                 
+SMESEAENRT   GAPEC OR           N36300689E043024994                                                                                 
+SMESEAENRT   GATDE OR           N35360426E043133828                                                                                 
+SMESEAENRT   GETID OR           N35155061E042555891                                                                                 
+SMESEAENRT   GIVCE OR           N35570720E043070762                                                                                 
+SMESEAENRT   HATMI OR           N36295112E042552386                                                                                 
+SMESEAENRT   HAWKS OR           N34445231E043292223                                                                                 
+SMESEAENRT   HEBKA OR           N34305635E043474231                                                                                 
+SMESEAENRT   HUGAP OR           N35590082E042572946                                                                                 
+SMESEAENRT   IDITE OR           N35323319E043144569                                                                                 
+SMESEAENRT   IGUDE OR           N35382262E043190492                                                                                 
+SMESEAENRT   ILMAP OR           N31213300E046570200                                                                                 
+SMESEAENRT   IPACI OR           N35504688E043034984                                                                                 
+SMESEAENRT   IPOPE OR           N33473324E042343429                                                                                 
+SMESEAENRT   ITERE OR           N36500479E042521689                                                                                 
+SMESEAENRT   JEPTI OR           N35411490E043100189                                                                                 
+SMESEAENRT   JERIB OR           N35472819E043062240                                                                                 
+SMESEAENRT   JINBO OR           N33471101E042400960                                                                                 
+SMESEAENRT   JOMUN OR           N33474212E042414613                                                                                 
+SMESEAENRT   KABAN OR           N37145600E0423858100                                                                                
+SMESEAENRT   KADVE OR           N35443255E043081408                                                                                 
+SMESEAENRT   KATOT OR           N36000000E043270000                                                                                 
+SMESEAENRT   KENEC OR           N36341017E043081959                                                                                 
+SMESEAENRT   KILGE OR           N34362199E043371705                                                                                 
+SMESEAENRT   KONVE OR           N35390396E044064528                                                                                 
+SMESEAENRT   KOPEC OR           N34054129E044143212                                                                                 
+SMESEAENRT   KRK01 OR           N35285364E044195471                                                                                 
+SMESEAENRT   KRK06 OR           N35315963E044150581                                                                                 
+SMESEAENRT   KRK10 OR           N35290862E044201596                                                                                 
+SMESEAENRT   KRK12 OR           N35354226E044091910                                                                                 
+SMESEAENRT   KRK13 OR           N35271720E044215482                                                                                 
+SMESEAENRT   KRK14 OR           N35132704E044332390                                                                                 
+SMESEAENRT   KRK18 OR           N35140043E044341964                                                                                 
+SMESEAENRT   KRK20 OR           N35392476E044033162                                                                                 
+SMESEAENRT   KRK31 OR           N35143616E044351320                                                                                 
+SMESEAENRT   KRK32 OR           N35425352E044075752                                                                                 
+SMESEAENRT   KRK36 OR           N35233107E044252222                                                                                 
+SMESEAENRT   KRK41 OR           N35270985E044215544                                                                                 
+SMESEAENRT   KRK44 OR           N35125608E044322611                                                                                 
+SMESEAENRT   KRK46 OR           N35435497E044095413                                                                                 
+SMESEAENRT   KRK60 OR           N35234301E044254010                                                                                 
+SMESEAENRT   KRK66 OR           N35332960E044171334                                                                                 
+SMESEAENRT   KRK81 OR           N35114982E044115128                                                                                 
+SMESEAENRT   KRK96 OR           N35184593E044295110                                                                                 
+SMESEAENRT   KRK97 OR           N35190978E044302682                                                                                 
+SMESEAENRT   KRK98 OR           N35375211E044021192                                                                                 
+SMESEAENRT   KRK99 OR           N35384223E044133405                                                                                 
+SMESEAENRT   LOGAN OR           N33022553E043493783                                                                                 
+SMESEAENRT   LOPAS OR           N34300345E043383438                                                                                 
+SMESEAENRT   LOTAN OR           N29594200E043384800                                                                                 
+SMESEAENRT   LOVEK OR           N32220840E044400120                                                                                 
+SMESEAENRT   LUUKE OR           N33320289E044372997                                                                                 
+SMESEAENRT   MAA05 OR           N33464936E042325517                                                                                 
+SMESEAENRT   MAA09 OR           N33465919E042272425                                                                                 
+SMESEAENRT   MAA11 OR           N33472216E042245689                                                                                 
+SMESEAENRT   MAA22 OR           N33472643E042293148                                                                                 
+SMESEAENRT   MAA24 OR           N33464953E042234174                                                                                 
+SMESEAENRT   MAA55 OR           N33483758E042200076                                                                                 
+SMESEAENRT   MAA67 OR           N33462572E042181909                                                                                 
+SMESEAENRT   MAA76 OR           N33480383E042341596                                                                                 
+SMESEAENRT   MAT05 OR           N33171683E043305595                                                                                 
+SMESEAENRT   MAT08 OR           N33195246E043345299                                                                                 
+SMESEAENRT   MAT10 OR           N33141139E043261408                                                                                 
+SMESEAENRT   MAT11 OR           N33242628E043244294                                                                                 
+SMESEAENRT   MAT12 OR           N33115663E043502795                                                                                 
+SMESEAENRT   MAT17 OR           N33192490E043371915                                                                                 
+SMESEAENRT   MAT27 OR           N33185124E043381853                                                                                 
+SMESEAENRT   MAT28 OR           N33110577E043213254                                                                                 
+SMESEAENRT   MAT40 OR           N33215563E043235011                                                                                 
+SMESEAENRT   MAT41 OR           N33210810E043294419                                                                                 
+SMESEAENRT   MAT42 OR           N33203619E043335198                                                                                 
+SMESEAENRT   MAT55 OR           N33173380E043403507                                                                                 
+SMESEAENRT   MIGMI OR           N33455400E045272400                                                                                 
+SMESEAENRT   MODIK OR           N33280510E039010000                                                                                 
+SMESEAENRT   MUTLO OR           N32101898E044570283                                                                                 
+SMESEAENRT   NACIS OR           N36120933E043115954                                                                                 
+SMESEAENRT   NAYIT OR           N35353732E044111241                                                                                 
+SMESEAENRT   NILIC OR           N36064874E043221243                                                                                 
+SMESEAENRT   NISER OR           N29302910E044182400                                                                                 
+SMESEAENRT   NOLDO OR           N32493240E045212940                                                                                 
+SMESEAENRT   OMLOE OR           N33444593E044242490                                                                                 
+SMESEAENRT   OSPRE OR           N34543599E043254238                                                                                 
+SMESEAENRT   PARUN OR           N33241110E045020120                                                                                 
+SMESEAENRT   PASIP OR           N33000000E038551200                                                                                 
+SMESEAENRT   PINTL OR           N33083479E039564348                                                                                 
+SMESEAENRT   PIVOT OR           N33043466E039562860                                                                                 
+SMESEAENRT   PRAAF OR           N33012920E039561729                                                                                 
+SMESEAENRT   PUSTO OR           N33210000E042450000                                                                                 
+SMESEAENRT   R2555 OR           N35284412E044200407                                                                                 
+SMESEAENRT   R2600 OR           N33170176E044135223                                                                                 
+SMESEAENRT   R2615 OR           N33555132E044223660                                                                                 
+SMESEAENRT   R2616 OR           N33572518E044211968                                                                                 
+SMESEAENRT   R2617 OR           N30320780E047403480                                                                                 
+SMESEAENRT   R2809 OR           N36190048E043083039                                                                                 
+SMESEAENRT   R2810 OR           N36174010E043091089                                                                                 
+SMESEAENRT   R2869 OR           N35450799E043075162                                                                                 
+SMESEAENRT   R2870 OR           N35464874E043064724                                                                                 
+SMESEAENRT   R2873 OR           N34411790E043324195                                                                                 
+SMESEAENRT   R2874 OR           N34402033E043333552                                                                                 
+SMESEAENRT   R2912 OR           N33315275E044151297                                                                                 
+SMESEAENRT   R2913 OR           N33305887E044153548                                                                                 
+SMESEAENRT   R3050 OR           N33472216E042255871                                                                                 
+SMESEAENRT   R3051 OR           N33465082E042242249                                                                                 
+SMESEAENRT   R3052 OR           N33465423E042265791                                                                                 
+SMESEAENRT   R3053 OR           N33472553E042283415                                                                                 
+SMESEAENRT   R3054 OR           N34404541E043313309                                                                                 
+SMESEAENRT   R3055 OR           N34392522E043324768                                                                                 
+SMESEAENRT   RALTI OR           N31420840E043000060                                                                                 
+SMESEAENRT   RAMPI OR           N35163960E043561500                                                                                 
+SMESEAENRT   RAPLU OR           N33225910E0414529100                                                                                
+SMESEAENRT   RAYOD OR           N35334560E043081194                                                                                 
+SMESEAENRT   RUSHH OR           N32525995E044280299                                                                                 
+SMESEAENRT   RUYTO OR           N36171357E043092484                                                                                 
+SMESEAENRT   SADCO OR           N36063425E043144949                                                                                 
+SMESEAENRT   SECOP OR           N33420350E044105719                                                                                 
+SMESEAENRT   SHIPE OR           N33300272E044045491                                                                                 
+SMESEAENRT   SIGNI OR           N34000780E044420120                                                                                 
+SMESEAENRT   SOGUM OR           N34121110E0435453100                                                                                
+SMESEAENRT   TAKOY OR           N33502439E044341985                                                                                 
+SMESEAENRT   TAL05 OR           N30585510E046003663                                                                                 
+SMESEAENRT   TAL10 OR           N31021641E045544927                                                                                 
+SMESEAENRT   TAL11 OR           N30514793E046171202                                                                                 
+SMESEAENRT   TAL12 OR           N30553401E046065611                                                                                 
+SMESEAENRT   TAL14 OR           N30565404E046040511                                                                                 
+SMESEAENRT   TAL15 OR           N30474137E046195302                                                                                 
+SMESEAENRT   TAL21 OR           N30495660E046160167                                                                                 
+SMESEAENRT   TAL30 OR           N30552319E046064138                                                                                 
+SMESEAENRT   TAL50 OR           N30540926E046104734                                                                                 
+SMESEAENRT   TAL91 OR           N30531860E046101539                                                                                 
+SMESEAENRT   TAL98 OR           N30501325E046212908                                                                                 
+SMESEAENRT   TAL99 OR           N31043088E045505675                                                                                 
+SMESEAENRT   TAMIM OR           N29593900E048000120                                                                                 
+SMESEAENRT   TANYU OR           N34501645E043185410                                                                                 
+SMESEAENRT   TASMI OR           N30011910E047550500                                                                                 
+SMESEAENRT   TICOD OR           N33362315E044131986                                                                                 
+SMESEAENRT   TUNRA OR           N33473019E042321005                                                                                 
+SMESEAENRT   UBOYA OR           N33464317E042183641                                                                                 
+SMESEAENRT   WARIB OR           N33185392E043383072                                                                                 
+SMESEAENRT   WEKUT OR           N33470464E042125558                                                                                 
+SMESEAENRT   WINKL OR           N33254247E044075432                                                                                 
+SMESEAENRT   WOGER OR           N36023113E043092137                                                                                 
+SMESEAENRT   WOVEG OR           N33174318E043405991                                                                                 
+SMESEAENRT   WUBLI OR           N36115738E043112709                                                                                 
+SMESEAENRT   ZAPIR OR           N34025140E044093422                                                                                 
+SMESEAENRT   ZIBOT OR           N33523324E044251876                                                                                 
+SMESEAENRT   ZIGUL OR           N33194118E043365094                                                                                 
+SMESEAENRT   ZUDAD OR           N33471447E042200735                                                                                 
+SMESEAENRT   ZUMAK OR           N33144582E043471378                                                                                 
+SMESEAENRT   ZUMAX OR           N35321052E044153917                                                                                 
+SMESDB       TKT   OR001669     N34395610E043322419                                                                                 
+SMESDB       TAJI  OR001650     N33313610E0441524100                                                                                
+SMESD        BGD   OR011060V    N33153860E044145729                                                                                 
+SMESD        BLD   OR011460V    N33560928E044220501                                                                                 
+SMESD        BSR   OR011230V    N30313240E047411200                                                                                 
+SMESD        SUL   OR011700V    N35344649E045172424                                                                                 
+SMESD        RNJ   OR011170 D   N35330292E045193046                                                                                 
+SMESD        BLD   OR011460 D   N33560928E044220501                                                                                 
+SMESD        BSR   OR011230 D   N30313240E047411200                                                                                 
+SMESD        MAA   OR011200 D   N33470108E042261950                                                                                 
+SMESD        MAT   OR011230 D   N33202209E043353816                                                                                 
+SMESD        BAR   OR010830 D   N30325580E047393540                                                                                 
+SMESD        KRK   OR011390 D   N35281642E044205245                                                                                 
+SMESD        QYW   OR011250 D   N35460180E043073060                                                                                 
+SMESD        TAL   OR011370 D   N30560694E046052615                                                                                 
+SMESER       UP975       0100ILMAPOREA      O                                      29000     46000                                  
+SMESER       UP975       0110DENKIOREA      O                             0827     29000     46000                                  
+SMESER       UP975       0120NOLDOOREA      O                             0370     29000     46000                                  
+SMESER       UP975       0130ETBOMOREA      O                             0427     29000     46900                                  
+SMESER       UP975       0140SOGUMOREA      O                             0671     29000     46000                                  
+SMESER       UP975       0150LOPASOREA      O                             0224     29000     46000                                  
+SMESER       UP975       0160GETIDOREA      O                             0576     29000     46000                                  
+SMESER       UP975       0170KANOKOSEA      O                             0990     29000     46000                                  
+SMESER       L602        0290LOVEKOREA      O                                      15000     28000                                  
+SMESER       L602        0300MUTLOOREA      O                             0186     15000     28000                                  
+SMESER       G795        0010BSR  ORD       O                                      08000     13000                                  
+SMESER       G795        0020TASMIOREA      O                             0325     08000     13000                                  
+SMESER       G795        0030FALKA  EA      O                             0406     05000     46000                                  
+SMESER       UL602       0280DELMIOREA      O                                      29000     46000                                  
+SMESER       UL602       0290LOVEKOREA      O                             0926     29000     46000                                  
+SMESER       UL602       0300MUTLOOREA      O                             0186     26000     49000                                  
+SMESER       R784        0010DASUROREA      O                                      15000     46000                                  
+SMESER       R784        0020RAMPIOREA      O                             0520     15000     46000                                  
+SMESER       R784        0030KATOTOREA      O                             0495     15000     46000                                  
+SMESER       R784        0040KABANOREA      O                             0843     15000     46000                                  
+SMESER       P975        0010ILMAPOREA      O                                      15000     28000                                  
+SMESER       P975        0020DENKIOREA      O                             0827     15000     28000                                  
+SMESER       P975        0030NOLDOOREA      O                             0370     15000     28000                                  
+SMESER       R21-T       0010KABANOREA      O                                      14500     28500                                  
+SMESER       R21-T       0020SRT  LTD       O                             0539     14500     28500                                  
+SMESER       M203        0010LOVEKOREA      O                                      15000     46000                                  
+SMESER       M203        0020PUSTOOREA      O                             1132     15000     46000                                  
+SMESER       L126        0010MIGMIOREA      O                                      15000     46000                                  
+SMESER       L126        0020SIGNIOREA      O                             0403     15000     46000                                  
+SMESER       L126        0030SOGUMOREA      O                             0409     15000     46000                                  
+SMESER       L126        0040PUSTOOREA      O                             0775     15000     46000                                  
+SMESER       L200        0010PASIPOREA      O                                      15000     46000                                  
+SMESER       L200        0020RAPLUOREA      O                             1445     15000     46000                                  
+SMESER       G795-       0020TASMIOREA      O                             0406     15000     46000                                  
+SMESER       UR21-       0010KABANOREA      O                                      28500     66000                                  
+SMESER       UR21-       0020SRT  LTD       O                             0539     28500     66000                                  

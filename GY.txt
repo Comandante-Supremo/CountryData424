@@ -1,0 +1,42 @@
+SSAMEAENRT   ADVET SO           N05265799W058572510                                                                                 
+SSAMEAENRT   AKROK SO           N07523841W060191547                                                                                 
+SSAMEAENRT   ALBEP SO           N08190380W059411320                                                                                 
+SSAMEAENRT   EDMEK SO           N06531860W058335990                                                                                 
+SSAMEAENRT   GAXOR SO           N01195520W058595280                                                                                 
+SSAMEAENRT   GEMOL SO           N04211835W059411533                                                                                 
+SSAMEAENRT   KOXAM SO           N04584800W0573859100                                                                                
+SSAMEAENRT   LIKEV SO           N06462409W058402695                                                                                 
+SSAMEAENRT   ORANI SO           N07285680W059015180                                                                                 
+SSAMEAENRT   PANAX SO           N07113953W059175902                                                                                 
+SSAMEAENRT   SISEX SO           N06195630W057465384                                                                                 
+SSAMEAENRT   UITNB SO           N06265302W058181537                                                                                 
+SSAMEAENRT   VUDOK SO           N06043089W058321584                                                                                 
+SSAMDB       KAI   SO000342     N05125876W058160156                                                                                 
+SSAMDB       KAM   SO000406     N05525910W060370000                                                                                 
+SSAMDB       TIM   SO000356     N06304658W058145142                                                                                 
+SSAMDB       UIT   SO000305     N06265302W058181537                                                                                 
+SSAMD        TIM   SO011350V    N06293220W058152780                                                                                 
+SSAMER       A632        0010TIM  SOD       O                                      03500     24500                                  
+SSAMER       A632        0020KALUP  EA      O                             0302     03500     24500                                  
+SSAMER       G443        0150SISEXSOEA      O                             0493     03500     24500                                  
+SSAMER       G443        0160TIM  SOD       O                             0300     03500     24500                                  
+SSAMER       G443        0170LIKEVSOEA      O                             0300     03500     24500                                  
+SSAMER       G443        0180PANAXSOEA      O                             0450     03500     24500                                  
+SSAMER       A324        0010ORANISOEA      O                                      03500     24500                                  
+SSAMER       A324        0020EDMEKSOEA      O                             0451     03500     24500                                  
+SSAMER       A324        0030TIM  SOD       O                             0301     03500     24500                                  
+SSAMER       B681        0030GEMOLSOEA      O                             0682     05500     24500                                  
+SSAMER       B681        0040TIM  SOD       O                                      03500     24500                                  
+SSAMER       B681        0050VUDOKSOEA      O                             0301     03500     24500                                  
+SSAMER       A312        0110TIM  SOD       O                             0301     03500     24500                                  
+SSAMER       UG443       0100TIM  SOD       O                             0793     25000     60000                                  
+SSAMER       UG443       0110PANAXSOEA      O                             0751     25000     60000                                  
+SSAMER       UA632       0050TIM  SOD       O                             0754     25000     60000                                  
+SSAMER       UA324       0050ORANISOEA      O                                      25000     60000                                  
+SSAMER       UA324       0060TIM  SOD       O                             0752     25000     60000                                  
+SSAMER       UB681       0010GEMOLSOEA      O                                      24500     60000                                  
+SSAMER       UB681       0020BVI  SBD       O                             1083     24500     60000                                  
+SSAMER       UB681       0040GAXORSOEA      O                             0601     24500     60000                                  
+SSAMER       UB681       0050ROGINSBEA      O                             1362     24500     60000                                  
+SSAMER       UA312       0060TIM  SOD       O                             0754     25000     60000                                  
+SSAMER       UA312       0070KOXAMSOEA      O                             0978     25000     60000                                  

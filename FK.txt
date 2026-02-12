@@ -1,0 +1,10 @@
+SSAMDB       MP      000380     S51492700W058281680                                                                                 
+SSAMD        MTP     011470V    S51493600W0582514100                                                                                
+SSAMD        MTP     011190 D   S51492700W058272520                                                                                 
+SSAMER       W50         0150MTP    D       O                             1098     05500     24500                                  
+SSAMER       W54         0020MTP    D       O                             1501     05500     24500                                  
+SSAMER       UW50        0280MTP    D       O                             1098     24500     45000                                  
+SSAMER       UW54        0040MTP    D       O                                      24500     45000                                  
+SSAMER       UW54        0050DIGIS  EA      O                             1501     24500     45000                                  
+SSAMER       UT103       0080MTP    D       O                             0751     24500     45000                                  
+SSAMER       UT103       0090OTAGI  EA      O                             0752     24500     45000                                  

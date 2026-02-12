@@ -1,0 +1,1156 @@
+SSAMEAENRT   ABIDE SK           N00404230W069411650                                                                                 
+SSAMEAENRT   ACEDO SK           N01485710W0755255100                                                                                
+SSAMEAENRT   AIRES SK           S03242900W070133200                                                                                 
+SSAMEAENRT   AKNIL SK           N10231410W072571500                                                                                 
+SSAMEAENRT   AKPUT SK           N06011010W0725837100                                                                                
+SSAMEAENRT   ALBAK SK           S01111100W0700615100                                                                                
+SSAMEAENRT   ALBEL SK           N05292900W076133100                                                                                 
+SSAMEAENRT   ALDUR SK           N11132810W073354300                                                                                 
+SSAMEAENRT   ALEJA SK           N06232900W075082000                                                                                 
+SSAMEAENRT   ALEJO SK           N06020600W071423700                                                                                 
+SSAMEAENRT   ALOTE SK           N07400910W0725331100                                                                                
+SSAMEAENRT   AMAYA SK           N06094710W0680929100                                                                                
+SSAMEAENRT   ANAME SK           N04065210W073565300                                                                                 
+SSAMEAENRT   ANBIT SK           N05561310W076413000                                                                                 
+SSAMEAENRT   ANDIL SK           N10304100W0731243100                                                                                
+SSAMEAENRT   ANDOV SK           N05315900W076233400                                                                                 
+SSAMEAENRT   ANKAS SK           N02264110W076505200                                                                                 
+SSAMEAENRT   ANKET SK           N05074037W071565008                                                                                 
+SSAMEAENRT   ANKIN SK           N04302900W0761448100                                                                                
+SSAMEAENRT   ANLIB SK           N09171973W075352532                                                                                 
+SSAMEAENRT   ANLOP SK           N05015984W071383931                                                                                 
+SSAMEAENRT   ANPET SK           N04273410W075565700                                                                                 
+SSAMEAENRT   ANPIX SK           N04361210W0741812100                                                                                
+SSAMEAENRT   ANRON SK           N08134800W076280500                                                                                 
+SSAMEAENRT   ARENA SK           N07330210W072500300                                                                                 
+SSAMEAENRT   ARITU SK           N05181000W0721754100                                                                                
+SSAMEAENRT   ARMIR SK           N06275000W073493200                                                                                 
+SSAMEAENRT   ARMOL SK           N09360710W0743123100                                                                                
+SSAMEAENRT   AROTI SK           S03394600W0703503100                                                                                
+SSAMEAENRT   ARPUG SK           N04562572W074174565                                                                                 
+SSAMEAENRT   ARUXA SK           S03280000W0694735100                                                                                
+SSAMEAENRT   ARVEB SK           N00433157W076330690                                                                                 
+SSAMEAENRT   ASANO SK           N06104710W073500800                                                                                 
+SSAMEAENRT   ASAPA SK           S03011530W069425130                                                                                 
+SSAMEAENRT   ASEXU SK           N06562936W070322262                                                                                 
+SSAMEAENRT   ASGUD SK           N05442000W076430000                                                                                 
+SSAMEAENRT   ASIKO SK           N04142900W0765321100                                                                                
+SSAMEAENRT   ASKAT SK           S01230200W070572400                                                                                 
+SSAMEAENRT   ASODI SK           N05424700W077042100                                                                                 
+SSAMEAENRT   ASTOR SK           N06504810W076410600                                                                                 
+SSAMEAENRT   ATABI SK           N04364600W074282299                                                                                 
+SSAMEAENRT   ATACA SK           N10470300W074180500                                                                                 
+SSAMEAENRT   ATAKI SK           N11021310W0745135100                                                                                
+SSAMEAENRT   ATANA SK           N06000200W074495000                                                                                 
+SSAMEAENRT   ATORU SK           N06104710W0733509100                                                                                
+SSAMEAENRT   AURES SK           N04124210W0755447100                                                                                
+SSAMEAENRT   BABOR SK           N07551010W0722824100                                                                                
+SSAMEAENRT   BAGRE SK           N07405700W0744457100                                                                                
+SSAMEAENRT   BAQ15 SK           N10485227W074503297                                                                                 
+SSAMEAENRT   BAQ59 SK           N10521225W074473626                                                                                 
+SSAMEAENRT   BARRA SK           N10262210W0742537100                                                                                
+SSAMEAENRT   BARZA SK           N05414010W075073000                                                                                 
+SSAMEAENRT   BELEN SK           N01080910W076123800                                                                                 
+SSAMEAENRT   BELIN SK           N07052100W0725201100                                                                                
+SSAMEAENRT   BIBIL SK           N10400500W0740643100                                                                                
+SSAMEAENRT   BIVOS SK           N09171810W075163000                                                                                 
+SSAMEAENRT   BOBIC SK           N08024510W0735312100                                                                                
+SSAMEAENRT   BODAT SK           S03525400W070031500                                                                                 
+SSAMEAENRT   BOG35 SK           N04475705W074171911                                                                                 
+SSAMEAENRT   BOG45 SK           N04501472W074234440                                                                                 
+SSAMEAENRT   BOG75 SK           N04453501W074140846                                                                                 
+SSAMEAENRT   BOGNB SK           N04504510W074192200                                                                                 
+SSAMEAENRT   BOGUS SK           N04175810W074275701                                                                                 
+SSAMEAENRT   BOKUS SK           N08115010W0762242100                                                                                
+SSAMEAENRT   BOMAD SK           N06104710W0732554100                                                                                
+SSAMEAENRT   BRACO SK           N01443110W069511100                                                                                 
+SSAMEAENRT   BRITA SK           S03223000W069464800                                                                                 
+SSAMEAENRT   BUENO SK           S03213200W0695809100                                                                                
+SSAMEAENRT   BURPA SK           N03143000W077245500                                                                                 
+SSAMEAENRT   BUTAL SK           N07511210W0752725100                                                                                
+SSAMEAENRT   BUTAN SK           N02333310W0714203100                                                                                
+SSAMEAENRT   BUTNA SK           N09440910W0751001100                                                                                
+SSAMEAENRT   BUTRO SK           N07011410W074261100                                                                                 
+SSAMEAENRT   CARLO SK           N03440310W0733723100                                                                                
+SSAMEAENRT   CAUCA SK           N10091510W074315300                                                                                 
+SSAMEAENRT   CEILA SK           N04065210W0755339100                                                                                
+SSAMEAENRT   CTG05 SK           N10173459W075302400                                                                                 
+SSAMEAENRT   CTG10 SK           N10230633W075302400                                                                                 
+SSAMEAENRT   CZ512 SK           N09032264W075231627                                                                                 
+SSAMEAENRT   CZ514 SK           N09073228W075141093                                                                                 
+SSAMEAENRT   CZ516 SK           N09122458W075272763                                                                                 
+SSAMEAENRT   CZ518 SK           N09095849W075204924                                                                                 
+SSAMEAENRT   CZ520 SK           N09144124W075190419                                                                                 
+SSAMEAENRT   CZ522 SK           N09184666W075173451                                                                                 
+SSAMEAENRT   CZ590 SK           N09175205W075112514                                                                                 
+SSAMEAENRT   DABAX SK           N01024800W0740754100                                                                                
+SSAMEAENRT   DADIT SK           N10204909W075310091                                                                                 
+SSAMEAENRT   DAGAN SK           N07590810W0740410100                                                                                
+SSAMEAENRT   DAGUR SK           N04271000W0752747100                                                                                
+SSAMEAENRT   DAKMO SK           N07274100W077483510                                                                                 
+SSAMEAENRT   DAKOP SK           N02484600W077163500                                                                                 
+SSAMEAENRT   DALOK SK           S03514200W069573200                                                                                 
+SSAMEAENRT   DELIS SK           N01044500W0752102100                                                                                
+SSAMEAENRT   DELTA SK           N04593010W074335500                                                                                 
+SSAMEAENRT   DIBAM SK           N08114510W073370800                                                                                 
+SSAMEAENRT   DIKUN SK           N01075000W0752022100                                                                                
+SSAMEAENRT   DILAR SK           N05082710W0755125100                                                                                
+SSAMEAENRT   DIMIL SK           N08244600W0730818100                                                                                
+SSAMEAENRT   DIMOL SK           N07501100W074244100                                                                                 
+SSAMEAENRT   DIPRA SK           N06364873W074324778                                                                                 
+SSAMEAENRT   DOBLI SK           N01593610W0741024100                                                                                
+SSAMEAENRT   DOLKU SK           N05474300W0764821100                                                                                
+SSAMEAENRT   DORSA SK           N05054800W074315799                                                                                 
+SSAMEAENRT   DOSGO SK           N05114700W076172000                                                                                 
+SSAMEAENRT   DOTLA SK           N04401306W074065792                                                                                 
+SSAMEAENRT   DOTRO SK           N11131400W074030600                                                                                 
+SSAMEAENRT   DUBRA SK           N01212000W0715639100                                                                                
+SSAMEAENRT   EDOPO SK           N04014000W0730052100                                                                                
+SSAMEAENRT   EDPES SK           N03193310W0760817100                                                                                
+SSAMEAENRT   EDPOK SK           N06494100W0705730100                                                                                
+SSAMEAENRT   EDRAN SK           N04542610W074405000                                                                                 
+SSAMEAENRT   EDVIL SK           N02502610W0741310100                                                                                
+SSAMEAENRT   EGALA SK           N07301710W0722958100                                                                                
+SSAMEAENRT   EGEPI SK           N04142110W0734005100                                                                                
+SSAMEAENRT   EGOBI SK           N01113010W0780250100                                                                                
+SSAMEAENRT   EGOKU SK           N10390710W0742057100                                                                                
+SSAMEAENRT   EGOXO SK           N06125500W072072600                                                                                 
+SSAMEAENRT   EKARA SK           N04084010W075294800                                                                                 
+SSAMEAENRT   EKINO SK           N05430610W076133100                                                                                 
+SSAMEAENRT   ELABU SK           N04195400W073312600                                                                                 
+SSAMEAENRT   ELENA SK           N04405800W0740311100                                                                                
+SSAMEAENRT   ENERI SK           N05131810W0724534100                                                                                
+SSAMEAENRT   ENRUT SK           S02000000W0730759100                                                                                
+SSAMEAENRT   ENSOL SK           N01195010W078411200                                                                                 
+SSAMEAENRT   ENVEM SK           N05432810W0765102100                                                                                
+SSAMEAENRT   ERICK SK           N04505710W073522099                                                                                 
+SSAMEAENRT   EROLA SK           N10442780W074542907                                                                                 
+SSAMEAENRT   ESARO SK           N02515400W076074100                                                                                 
+SSAMEAENRT   ESGON SK           N00190008W076313829                                                                                 
+SSAMEAENRT   ESIPI SK           N04302900W076145300                                                                                 
+SSAMEAENRT   ETALO SK           N04104210W076364700                                                                                 
+SSAMEAENRT   FELIX SK           N05201810W075251300                                                                                 
+SSAMEAENRT   FUNDA SK           N10333910W074014400                                                                                 
+SSAMEAENRT   GALAN SK           N06395710W0732251100                                                                                
+SSAMEAENRT   GALOR SK           S01585010W0704924100                                                                                
+SSAMEAENRT   GATUN SK           N05440200W070001500                                                                                 
+SSAMEAENRT   GAVEK SK           N01160400W077225800                                                                                 
+SSAMEAENRT   GAVOL SK           N04541500W074221700                                                                                 
+SSAMEAENRT   GAXAP SK           N01541510W0753007100                                                                                
+SSAMEAENRT   GEBUT SK           N01373200W0755201100                                                                                
+SSAMEAENRT   GEDIM SK           N00440600W0740639100                                                                                
+SSAMEAENRT   GEKAR SK           N08241000W0730947100                                                                                
+SSAMEAENRT   GIDRI SK           N05112210W074363801                                                                                 
+SSAMEAENRT   GIKTI SK           N10482131W074590812                                                                                 
+SSAMEAENRT   GONZO SK           N04033612W073230786                                                                                 
+SSAMEAENRT   GUASA SK           N03060000W0673359100                                                                                
+SSAMEAENRT   GUATI SK           N04080762W073210024                                                                                 
+SSAMEAENRT   GUAVI SK           N02452410W0715514100                                                                                
+SSAMEAENRT   GUVES SK           N06125310W071531600                                                                                 
+SSAMEAENRT   GUXUN SK           N04505310W074023900                                                                                 
+SSAMEAENRT   HACHA SK           N11410810W0722712100                                                                                
+SSAMEAENRT   ILPAK SK           N00364882W076290447                                                                                 
+SSAMEAENRT   ILTEN SK           S00022900W0715958100                                                                                
+SSAMEAENRT   ILTOB SK           N05285300W076310000                                                                                 
+SSAMEAENRT   ILVIR SK           N03503110W071173500                                                                                 
+SSAMEAENRT   IRETO SK           N07563110W075413900                                                                                 
+SSAMEAENRT   IRIDA SK           N01523000W0705621100                                                                                
+SSAMEAENRT   IRONU SK           N11134210W0730015100                                                                                
+SSAMEAENRT   IROTI SK           N08140300W0733042100                                                                                
+SSAMEAENRT   ISABA SK           N04393310W075575600                                                                                 
+SSAMEAENRT   ISABE SK           N03520610W0744422100                                                                                
+SSAMEAENRT   ISADI SK           N03120900W0754403100                                                                                
+SSAMEAENRT   ISEKU SK           N08591810W075585400                                                                                 
+SSAMEAENRT   ISMUT SK           N04503996W074193112                                                                                 
+SSAMEAENRT   ISORI SK           S00015300W071263800                                                                                 
+SSAMEAENRT   ISOTO SK           N09553500W0743651100                                                                                
+SSAMEAENRT   ISPOL SK           N06583210W0704019100                                                                                
+SSAMEAENRT   IVROS SK           N07340500W077435910                                                                                 
+SSAMEAENRT   JULIE SK           N05510600W075023000                                                                                 
+SSAMEAENRT   KABIS SK           N05144400W073380700                                                                                 
+SSAMEAENRT   KABOS SK           N03572300W0763648100                                                                                
+SSAMEAENRT   KAGIL SK           N00203813W076373361                                                                                 
+SSAMEAENRT   KAKOL SK           N08315910W077270000                                                                                 
+SSAMEAENRT   KALAS SK           N03184700W0730015100                                                                                
+SSAMEAENRT   KALIR SK           N08002910W075521400                                                                                 
+SSAMEAENRT   KAMEL SK           N09171810W075424500                                                                                 
+SSAMEAENRT   KAMIS SK           N04215400W074365900                                                                                 
+SSAMEAENRT   KIBED SK           N07081200W074255800                                                                                 
+SSAMEAENRT   KIMOS SK           N03184700W073155000                                                                                 
+SSAMEAENRT   KOLTO SK           N07033200W0703939100                                                                                
+SSAMEAENRT   KOLVI SK           N04454973W074130736                                                                                 
+SSAMEAENRT   KOMPI SK           N09431410W075092300                                                                                 
+SSAMEAENRT   KORBA SK           N07011410W0752623100                                                                                
+SSAMEAENRT   KOTER SK           N03425100W0725837100                                                                                
+SSAMEAENRT   KOTIN SK           N06315910W076133100                                                                                 
+SSAMEAENRT   KOVEX SK           N06355810W0694900100                                                                                
+SSAMEAENRT   KUBEK SK           N08013200W0771305100                                                                                
+SSAMEAENRT   KUDGA SK           N01493100W075512800                                                                                 
+SSAMEAENRT   KUGAR SK           N10244200W075170300                                                                                 
+SSAMEAENRT   LATIS SK           N07011410W0752326100                                                                                
+SSAMEAENRT   LAURA SK           N07294400W075541400                                                                                 
+SSAMEAENRT   LEITO SK           N04505200W074082301                                                                                 
+SSAMEAENRT   LET10 SK           S04014326W069573718                                                                                 
+SSAMEAENRT   LIVEK SK           N03535300W0714811100                                                                                
+SSAMEAENRT   LOBUL SK           N04412000W074120000                                                                                 
+SSAMEAENRT   LOKOS SK           S00083900W071140800                                                                                 
+SSAMEAENRT   LOLUD SK           N09575238W074563645                                                                                 
+SSAMEAENRT   LOMOS SK           N07202100W073565300                                                                                 
+SSAMEAENRT   LONAK SK           N07213600W0735350100                                                                                
+SSAMEAENRT   LONAX SK           N03560010W0720822100                                                                                
+SSAMEAENRT   LUCHY SK           N07442000W075090500                                                                                 
+SSAMEAENRT   LUCIA SK           N08245110W075503800                                                                                 
+SSAMEAENRT   LUMOP SK           N05051310W073342300                                                                                 
+SSAMEAENRT   MANGA SK           N03333910W0760545100                                                                                
+SSAMEAENRT   MARCO SK           N04362400W074282401                                                                                 
+SSAMEAENRT   MARTU SK           N00175700W071434500                                                                                 
+SSAMEAENRT   MATRO SK           N05082710W075423800                                                                                 
+SSAMEAENRT   MECHI SK           N04433600W074363800                                                                                 
+SSAMEAENRT   MENTO SK           N07011410W075163000                                                                                 
+SSAMEAENRT   MIBEN SK           N10422510W0742018100                                                                                
+SSAMEAENRT   MIGAL SK           N06374900W0745833100                                                                                
+SSAMEAENRT   MIGAN SK           N04432300W0731842100                                                                                
+SSAMEAENRT   MOGOS SK           N06282300W0730302100                                                                                
+SSAMEAENRT   MONLA SK           N07345000W0732201100                                                                                
+SSAMEAENRT   MOREL SK           N01325710W0755304100                                                                                
+SSAMEAENRT   MORRO SK           N04195110W074154700                                                                                 
+SSAMEAENRT   MOSMI SK           N04593800W074264802                                                                                 
+SSAMEAENRT   MOSNO SK           N05515710W0764539100                                                                                
+SSAMEAENRT   MUDIN SK           N09464710W074202600                                                                                 
+SSAMEAENRT   MUDUM SK           N08194110W076435900                                                                                 
+SSAMEAENRT   MUKPI SK           N06560386W070455523                                                                                 
+SSAMEAENRT   MUNAB SK           N04331710W074141801                                                                                 
+SSAMEAENRT   NAIPU SK           N00551810W0764144100                                                                                
+SSAMEAENRT   NEBOX SK           N07021410W072290300                                                                                 
+SSAMEAENRT   NEDOR SK           N07231100W073500300                                                                                 
+SSAMEAENRT   NEIRA SK           N05082710W0752944100                                                                                
+SSAMEAENRT   NEMAL SK           N01525010W075254000                                                                                 
+SSAMEAENRT   NENER SK           N06194900W0755523100                                                                                
+SSAMEAENRT   NENES SK           N06150210W075484600                                                                                 
+SSAMEAENRT   NEPAV SK           N06583707W070561044                                                                                 
+SSAMEAENRT   NEPIR SK           N05382600W0763343100                                                                                
+SSAMEAENRT   NEPOP SK           N04502984W074203258                                                                                 
+SSAMEAENRT   NERVA SK           N11115810W073411600                                                                                 
+SSAMEAENRT   NILKO SK           N07031539W070373415                                                                                 
+SSAMEAENRT   NISTO SK           N09171567W074582584                                                                                 
+SSAMEAENRT   NUVUP SK           N10481778W074511212                                                                                 
+SSAMEAENRT   OMEGA SK           N04280400W0744911100                                                                                
+SSAMEAENRT   OPRUS SK           N06282300W069420100                                                                                 
+SSAMEAENRT   ORASI SK           N04451869W074035319                                                                                 
+SSAMEAENRT   OREDI SK           N00420149W076231465                                                                                 
+SSAMEAENRT   OREGA SK           N03520610W075294800                                                                                 
+SSAMEAENRT   ORTIZ SK           N10443400W0724145100                                                                                
+SSAMEAENRT   OSAKA SK           N11080410W0722233100                                                                                
+SSAMEAENRT   OSORI SK           N05502500W076523600                                                                                 
+SSAMEAENRT   OSPIC SK           N04383510W074225901                                                                                 
+SSAMEAENRT   OSUNA SK           N11565300W0714001100                                                                                
+SSAMEAENRT   PABON SK           S02424210W070011700                                                                                 
+SSAMEAENRT   PALAX SK           N00435700W077112500                                                                                 
+SSAMEAENRT   PAMBA SK           N00425110W077114300                                                                                 
+SSAMEAENRT   PANER SK           N02513310W075192300                                                                                 
+SSAMEAENRT   PANUV SK           N04403399W074060900                                                                                 
+SSAMEAENRT   PAPEM SK           S03104100W0701816100                                                                                
+SSAMEAENRT   PEQUE SK           N06441200W075571100                                                                                 
+SSAMEAENRT   PETER SK           N10461410W0734436100                                                                                
+SSAMEAENRT   PINTO SK           N04262000W074303600                                                                                 
+SSAMEAENRT   PLAYA SK           N11200300W0725824100                                                                                
+SSAMEAENRT   POLEN SK           N03531810W071430400                                                                                 
+SSAMEAENRT   POTSI SK           N10054910W0740047100                                                                                
+SSAMEAENRT   POXIN SK           N00293290W076250704                                                                                 
+SSAMEAENRT   PRADE SK           N07011410W075043200                                                                                 
+SSAMEAENRT   PUKEN SK           N06172900W072534400                                                                                 
+SSAMEAENRT   PULDI SK           N05344400W076424600                                                                                 
+SSAMEAENRT   PULTU SK           N00040000W0753447100                                                                                
+SSAMEAENRT   PUMUS SK           N02174110W075374900                                                                                 
+SSAMEAENRT   PUNPU SK           N05111200W074135499                                                                                 
+SSAMEAENRT   PUPAS SK           S02200510W0704055100                                                                                
+SSAMEAENRT   PUPAX SK           N07035649W070424525                                                                                 
+SSAMEAENRT   PUPIR SK           N05442110W075533500                                                                                 
+SSAMEAENRT   QUEZA SK           N04242800W073565300                                                                                 
+SSAMEAENRT   QUILI SK           N03015410W076343600                                                                                 
+SSAMEAENRT   R03CZ SK           N09193524W075171502                                                                                 
+SSAMEAENRT   R11UC SK           N06041255W070444688                                                                                 
+SSAMEAENRT   R1511 SK           N06085537W075252285                                                                                 
+SSAMEAENRT   R1513 SK           N10524530W074472286                                                                                 
+SSAMEAENRT   R2341 SK           N04423781W074100903                                                                                 
+SSAMEAENRT   R2699 SK           N04043020W073330546                                                                                 
+SSAMEAENRT   R29UC SK           N07040360W070433909                                                                                 
+SSAMEAENRT   RAFAL SK           N04040312W073280660                                                                                 
+SSAMEAENRT   RAFAS SK           N05554710W0685444100                                                                                
+SSAMEAENRT   RAFRO SK           N07011410W0751141100                                                                                
+SSAMEAENRT   REBIM SK           N11532400W071260600                                                                                 
+SSAMEAENRT   REMOL SK           N07375300W0745139100                                                                                
+SSAMEAENRT   REMUK SK           N07131810W0761750100                                                                                
+SSAMEAENRT   RENIP SK           N04545400W074351300                                                                                 
+SSAMEAENRT   RENOS SK           N05354510W0751020100                                                                                
+SSAMEAENRT   RIKAZ SK           N04503010W0725837100                                                                                
+SSAMEAENRT   RIOKA SK           N00130500W074582300                                                                                 
+SSAMEAENRT   ROBLE SK           N11091000W074105300                                                                                 
+SSAMEAENRT   RODRA SK           N07314610W0732922100                                                                                
+SSAMEAENRT   ROLUS SK           S01075300W073373600                                                                                 
+SSAMEAENRT   ROPET SK           N06341800W074454600                                                                                 
+SSAMEAENRT   ROPIN SK           N07410700W075003200                                                                                 
+SSAMEAENRT   SA512 SK           N06394997W071411972                                                                                 
+SSAMEAENRT   SA514 SK           N06485188W071405610                                                                                 
+SSAMEAENRT   SA516 SK           N06432095W071494032                                                                                 
+SSAMEAENRT   SA518 SK           N06462777W071451823                                                                                 
+SSAMEAENRT   SA520 SK           N06524500W071484697                                                                                 
+SSAMEAENRT   SAKSO SK           N04563510W074435999                                                                                 
+SSAMEAENRT   SALGU SK           N04091900W0734655100                                                                                
+SSAMEAENRT   SANTA SK           N02130210W075225400                                                                                 
+SSAMEAENRT   SARDI SK           N07453010W072561600                                                                                 
+SSAMEAENRT   SEBAS SK           N07043610W073305500                                                                                 
+SSAMEAENRT   SEBLA SK           N00424653W076281078                                                                                 
+SSAMEAENRT   SEDIA SK           N05082710W075493000                                                                                 
+SSAMEAENRT   SELIG SK           N04305900W074371701                                                                                 
+SSAMEAENRT   SERRA SK           N10464400W074021100                                                                                 
+SSAMEAENRT   SIBOS SK           N04155610W076001100                                                                                 
+SSAMEAENRT   SIDIP SK           N07014846W070263609                                                                                 
+SSAMEAENRT   SIGIR SK           N03444400W076361400                                                                                 
+SSAMEAENRT   SILUM SK           N04530810W074282601                                                                                 
+SSAMEAENRT   SIMAB SK           N10154808W075311360                                                                                 
+SSAMEAENRT   SIMAT SK           S00040010W072551200                                                                                 
+SSAMEAENRT   SINCE SK           N09171810W0752913100                                                                                
+SSAMEAENRT   SOKOR SK           N06275500W073174300                                                                                 
+SSAMEAENRT   SUCRE SK           N08473800W0744900100                                                                                
+SSAMEAENRT   SULKA SK           N02135900W0780751100                                                                                
+SSAMEAENRT   SUSNA SK           N05354410W076293000                                                                                 
+SSAMEAENRT   SUSTI SK           N10153294W075250886                                                                                 
+SSAMEAENRT   TARIB SK           S03455610W069510330                                                                                 
+SSAMEAENRT   TEDOG SK           S01301100W0703536100                                                                                
+SSAMEAENRT   TEDON SK           N07011410W0753351100                                                                                
+SSAMEAENRT   TEGAG SK           N04561557W074184698                                                                                 
+SSAMEAENRT   TEPES SK           N05342310W0733630100                                                                                
+SSAMEAENRT   TESIR SK           N07552910W0741301100                                                                                
+SSAMEAENRT   TIAGO SK           N04440810W0721936100                                                                                
+SSAMEAENRT   TIBUS SK           N08364500W0724145100                                                                                
+SSAMEAENRT   TIGSI SK           N07022797W070313520                                                                                 
+SSAMEAENRT   TILLA SK           N07301710W072450500                                                                                 
+SSAMEAENRT   TOGSA SK           N04472306W074243340                                                                                 
+SSAMEAENRT   TOLIM SK           N04223210W075294800                                                                                 
+SSAMEAENRT   TOLON SK           N05400300W076235700                                                                                 
+SSAMEAENRT   TOPED SK           N04362886W074112417                                                                                 
+SSAMEAENRT   TOROL SK           N04155610W076073000                                                                                 
+SSAMEAENRT   TOVAL SK           S03060000W069440150                                                                                 
+SSAMEAENRT   TRINI SK           N05255910W0713902100                                                                                
+SSAMEAENRT   TUNGI SK           N01481210W0780447100                                                                                
+SSAMEAENRT   UASCA SK           N04510210W073361100                                                                                 
+SSAMEAENRT   UGOSA SK           N09441600W073352600                                                                                 
+SSAMEAENRT   UGOTA SK           N09252410W0735416100                                                                                
+SSAMEAENRT   URIBI SK           N11152300W0720929100                                                                                
+SSAMEAENRT   URRAO SK           N06011400W076133100                                                                                 
+SSAMEAENRT   URULO SK           N04453939W074140883                                                                                 
+SSAMEAENRT   USANA SK           N03520610W074583500                                                                                 
+SSAMEAENRT   UTICA SK           N05100500W074242800                                                                                 
+SSAMEAENRT   VADUN SK           N03453310W076364200                                                                                 
+SSAMEAENRT   VALOP SK           N10403422W074495013                                                                                 
+SSAMEAENRT   VASEB SK           N04471306W074253493                                                                                 
+SSAMEAENRT   VASIL SK           N05082710W075111500                                                                                 
+SSAMEAENRT   VENTO SK           N04042196W073313468                                                                                 
+SSAMEAENRT   VIDAL SK           N04190000W073212000                                                                                 
+SSAMEAENRT   VIEJO SK           N03584608W073215106                                                                                 
+SSAMEAENRT   VUDER SK           N00373810W069432600                                                                                 
+SSAMEAENRT   VULAM SK           N05173110W074230900                                                                                 
+SSAMEAENRT   VVC05 SK           N04041268W073283226                                                                                 
+SSAMEAENRT   VVC08 SK           N04041934W073314442                                                                                 
+SSAMEAENRT   VVC27 SK           N04035357W073262616                                                                                 
+SSAMEAENRT   VVC56 SK           N04034910W073283226                                                                                 
+SSAMEAENRT   VVC96 SK           N04042604W073323120                                                                                 
+SSAMEAENRT   XOGEN SK           N07473800W074300100                                                                                 
+SSAMEAENRT   YENNY SK           N00595810W072305900                                                                                 
+SSAMEAENRT   YP502 SK           N05044933W072304161                                                                                 
+SSAMEAENRT   YP504 SK           N05080645W072242461                                                                                 
+SSAMEAENRT   YP506 SK           N05110732W072335826                                                                                 
+SSAMEAENRT   YP508 SK           N05093690W072291142                                                                                 
+SSAMEAENRT   YP510 SK           N05142448W072274122                                                                                 
+SSAMEAENRT   YP512 SK           N05265505W072074280                                                                                 
+SSAMEAENRT   YP514 SK           N05312281W072140935                                                                                 
+SSAMEAENRT   YP516 SK           N05204386W072111202                                                                                 
+SSAMEAENRT   YP518 SK           N05253430W072123261                                                                                 
+SSAMEAENRT   YP520 SK           N05235739W072182038                                                                                 
+SSAMEAENRT   YP570 SK           N05175966W072241061                                                                                 
+SSAMEAENRT   YP580 SK           N05202653W072214683                                                                                 
+SSAMEAENRT   YP590 SK           N05115903W072163817                                                                                 
+SSAMEAENRT   ZARES SK           N05163610W075111500                                                                                 
+SSAMEAENRT   ZARZA SK           N04271000W0760111100                                                                                
+SSAMEAENRT   ZORRO SK           N01514710W067120660                                                                                 
+SSAMDB       ALE   SK000412     N06233970W075082980                                                                                 
+SSAMDB       ABL   SK000300     N04470200W0744602100                                                                                
+SSAMDB       PY    SK000250     N04042872W073323104                                                                                 
+SSAMDB       AP    SK000270     N04043000W0732829100                                                                                
+SSAMDB       ARA   SK000365     S00362173W072234510                                                                                 
+SSAMDB       UPI   SK000315     N04343500W0725837100                                                                                
+SSAMDB       AQ    SK000264     N10521846W074474621                                                                                 
+SSAMDB       BA    SK000244     N10480000W074520000                                                                                 
+SSAMDB       BOG   SK000340     N04504510W074192200                                                                                 
+SSAMDB       CLO   SK000210     N03240610W076242000                                                                                 
+SSAMDB       AS    SK000240     N03311164W076230863                                                                                 
+SSAMDB       CRG   SK000260     N04341510W0712009100                                                                                
+SSAMDB       CJN   SK000415     N11135715W072302449                                                                                 
+SSAMDB       CDT   SK000391     N05042600W0764033100                                                                                
+SSAMDB       CU    SK000395     N08021210W0723446100                                                                                
+SSAMDB       UC    SK000264     N07571100W072314500                                                                                 
+SSAMDB       DR    SK000264     N04430888W074093477                                                                                 
+SSAMDB       ED    SK000244     N04455428W074131373                                                                                 
+SSAMDB       EPO   SK000225     N04282200W075332400                                                                                 
+SSAMDB       GPI   SK000309     N02343000W0775341100                                                                                
+SSAMDB       IBG   SK000312     N04235010W0750620100                                                                                
+SSAMDB       JDN   SK000360     N05361500W0754839100                                                                                
+SSAMDB       LPD   SK000315     S01191956W069344884                                                                                 
+SSAMDB       LET   SK000407     S04120602W069563259                                                                                 
+SSAMDB       LNA   SK000337     N05031900W0753142100                                                                                
+SSAMDB       MAT   SK000244     N04480160W075463623                                                                                 
+SSAMDB       LI    SK000274     N06122617W075251868                                                                                 
+SSAMDB       MTU   SK000412     N01152163W070134836                                                                                 
+SSAMDB       MLB   SK000385     N08004310W075235200                                                                                 
+SSAMDB       NQI   SK000461     N05424810W077153600                                                                                 
+SSAMDB       ORI   SK000163     N00400000W076490000                                                                                 
+SSAMDB       PL    SK000274     N03355960W076221690                                                                                 
+SSAMDB       PIE   SK000400     N06523920W073052310                                                                                 
+SSAMDB       PPN   SK000255     N02265810W076365100                                                                                 
+SSAMDB       SIS   SK000330     N00300200W0763008100                                                                                
+SSAMDB       PAY   SK000375     N05371910W067363130                                                                                 
+SSAMDB       LGM   SK000348     S00113030W074440980                                                                                 
+SSAMDB       UIB   SK000250     N05415170W076384380                                                                                 
+SSAMDB       RHC   SK000295     N11315580W072552680                                                                                 
+SSAMDB       MD    SK000244     N06031990W075252103                                                                                 
+SSAMDB       DE    SK000264     N06082357W075252218                                                                                 
+SSAMDB       R     SK000274     N04403310W074060900                                                                                 
+SSAMDB       SLI   SK000244     N00512156W077402994                                                                                 
+SSAMDB       SVC   SK000250     N02085200W074455100                                                                                 
+SSAMDB       SMR   SK000287     N11002800W074154100                                                                                 
+SSAMDB       SVA   SK000388     N06571870W071513660                                                                                 
+SSAMDB       SOG   SK000355     N05403610W072580400                                                                                 
+SSAMDB       TBT   SK000230     S04145760W069561020                                                                                 
+SSAMDB       TME   SK000270     N06270540W071450810                                                                                 
+SSAMDB       TEH   SK000284     N04374400W074085300                                                                                 
+SSAMDB       TUR   SK000352     N08042370W076441170                                                                                 
+SSAMDB       UTI   SK000331     N05095400W0742435100                                                                                
+SSAMDB       UTI   SK000331     N05095370W074243780                                                                                 
+SSAMDB       VUP   SK000325     N10255562W073144855                                                                                 
+SSAMDB       VVC   SK000370     N04040510W073225900                                                                                 
+SSAMDB       ZIP   SK000294     N05010000W0730853100                                                                                
+SSAMDB       ZIP   SK000294     N05005870W073590580                                                                                 
+SSAMD        ABL   SK011270V    N04470200W0744602100                                                                                
+SSAMD        AUC   SK011400V    N07040070W070440540                                                                                 
+SSAMD        AXM   SK011160V    N04270487W075462240                                                                                 
+SSAMD        EJA   SK011590V    N07014270W073481980                                                                                 
+SSAMD        BAQ   SK011370V    N10474800W074513700                                                                                 
+SSAMD        BOG   SK011390V    N04504790W074192480                                                                                 
+SSAMD        BGA   SK011350V    N07075360W073110380                                                                                 
+SSAMD        BUN   SK011290V    N03493190W076594350                                                                                 
+SSAMD        BUV   SK011620V    N05315510W0735130100                                                                                
+SSAMD        CLO   SK011550V    N03240540W076242280                                                                                 
+SSAMD        CTG   SK011230V    N10123010W075302190                                                                                 
+SSAMD        CJN   SK011340V    N11134980W072292580                                                                                 
+SSAMD        CUC   SK011330V    N07560010W072305000                                                                                 
+SSAMD        ELB   SK011430V    N09024300W0735801100                                                                                
+SSAMD        EYP   SK011560V    N05163610W0722532100                                                                                
+SSAMD        FLA   SK011240V    N01290800W0752922100                                                                                
+SSAMD        GIR   SK011730V    N04113000W0745156100                                                                                
+SSAMD        IBG   SK011200V    N04234729W075062645                                                                                 
+SSAMD        IPI   SK011360V    N00513310W077402370                                                                                 
+SSAMD        LET   SK011750V    S04114199W069562304                                                                                 
+SSAMD        LCE   SK011260V    N07490500W0764318100                                                                                
+SSAMD        MGN   SK011410V    N09171310W0745048100                                                                                
+SSAMD        MRN   SK011300V    N06103500W075192600                                                                                 
+SSAMD        MQU   SK011610V    N05122510W074552700                                                                                 
+SSAMD        MER   SK011630V    N01471710W0770902100                                                                                
+SSAMD        MTU   SK011220V    N01143242W070141156                                                                                 
+SSAMD        MTR   SK011440V    N08485600W075490400                                                                                 
+SSAMD        NVA   SK011580V    N03034210W075152300                                                                                 
+SSAMD        OTU   SK011540V    N07011150W074423540                                                                                 
+SSAMD        PSO   SK011340V    N01235277W077172353                                                                                 
+SSAMD        PEI   SK011690V    N04465870W075500880                                                                                 
+SSAMD        PPN   SK011450V    N02265626W076365069                                                                                 
+SSAMD        PAY   SK011280V    N05370800W067363230                                                                                 
+SSAMD        PDA   SK011490V    N03510933W067541359                                                                                 
+SSAMD        PLG   SK011280V    S00104415W074463130                                                                                 
+SSAMD        UIB   SK011320V    N05413215W076382861                                                                                 
+SSAMD        RHC   SK011710V    N11313810W072550300                                                                                 
+SSAMD        RNG   SK011510V    N05585000W0752505100                                                                                
+SSAMD        SJE   SK011330V    N02315410W072382500                                                                                 
+SSAMD        SVC   SK011650V    N02085310W074454700                                                                                 
+SSAMD        STA   SK011660V    N10575234W074141812                                                                                 
+SSAMD        SOA   SK010860V    N04361100W074162300                                                                                 
+SSAMD        TQS   SK011420V    N00443140W075140020                                                                                 
+SSAMD        ULQ   SK011770V    N04052970W076132380                                                                                 
+SSAMD        VVP   SK011460V    N10201600W073154500                                                                                 
+SSAMD        VVC   SK011670V    N04040010W0732255100                                                                                
+SSAMD        ZIP   SK011470V    N05010500W073591200                                                                                 
+SSAMD        IBGA  SK011070 D   N07070920W073105840                                                                                 
+SSAMD        IEDR  SK011130 D   N04424498W074085705                                                                                 
+SSAMD        IADO  SK011070 D   N04422918W074100338                                                                                 
+SSAMD        ILET  SK011090 D   S04111712W069562356                                                                                 
+SSAMD        SKPS  SK011070 D   N01242682W077171786                                                                                 
+SSAMD        ABL   SK011270 D   N04470200W0744602100                                                                                
+SSAMD        AXM   SK011160 D   N04270487W075462240                                                                                 
+SSAMD        EJA   SK011590 D   N07014270W073481980                                                                                 
+SSAMD        BAQ   SK011370 D   N10474800W074513700                                                                                 
+SSAMD        BOG   SK011390 D   N04504790W074192480                                                                                 
+SSAMD        BGA   SK011350 D   N07075360W073110380                                                                                 
+SSAMD        BUN   SK011290 D   N03493190W076594350                                                                                 
+SSAMD        BUV   SK011620 D   N05315510W0735130100                                                                                
+SSAMD        CLO   SK011550 D   N03240540W076242280                                                                                 
+SSAMD        CTG   SK011230 D   N10123010W075302190                                                                                 
+SSAMD        CJN   SK011340 D   N11134980W072292580                                                                                 
+SSAMD        CUC   SK011330 D   N07560010W072305000                                                                                 
+SSAMD        ELB   SK011430 D   N09024300W0735801100                                                                                
+SSAMD        EYP   SK011560 D   N05163610W0722532100                                                                                
+SSAMD        FLA   SK011240 D   N01290800W0752922100                                                                                
+SSAMD        GIR   SK011730 D   N04113000W0745156100                                                                                
+SSAMD        IBG   SK011200 D   N04234729W075062645                                                                                 
+SSAMD        IPI   SK011360 D   N00513310W077402370                                                                                 
+SSAMD        LET   SK011750 D   S04114199W069562304                                                                                 
+SSAMD        LCE   SK011260 D   N07490500W0764318100                                                                                
+SSAMD        MGN   SK011410 D   N09171310W0745048100                                                                                
+SSAMD        MRN   SK011300 D   N06103500W075192600                                                                                 
+SSAMD        MQU   SK011610 D   N05122510W074552700                                                                                 
+SSAMD        MER   SK011630 D   N01471710W0770902100                                                                                
+SSAMD        MTU   SK011220 D   N01143242W070141156                                                                                 
+SSAMD        MTR   SK011440 D   N08485600W075490400                                                                                 
+SSAMD        NVA   SK011580 D   N03034210W075152300                                                                                 
+SSAMD        OTU   SK011540 D   N07011150W074423540                                                                                 
+SSAMD        PSO   SK011340 D   N01235277W077172353                                                                                 
+SSAMD        PEI   SK011690 D   N04465870W075500880                                                                                 
+SSAMD        PPN   SK011450 D   N02265626W076365069                                                                                 
+SSAMD        PDA   SK011490 D   N03510933W067541359                                                                                 
+SSAMD        PLG   SK011280 D   S00104415W074463130                                                                                 
+SSAMD        UIB   SK011320 D   N05413215W076382861                                                                                 
+SSAMD        RHC   SK011710 D   N11313810W072550300                                                                                 
+SSAMD        RNG   SK011510 D   N05585000W0752505100                                                                                
+SSAMD        SJE   SK011330 D   N02315410W072382500                                                                                 
+SSAMD        SVC   SK011650 D   N02085310W074454700                                                                                 
+SSAMD        STA   SK011660 D   N10575234W074141812                                                                                 
+SSAMD        SOA   SK010860 D   N04361100W074162300                                                                                 
+SSAMD        TQS   SK011420 D   N00443140W075140020                                                                                 
+SSAMD        ULQ   SK011770 D   N04052970W076132380                                                                                 
+SSAMD        VVP   SK011460 D   N10201600W073154500                                                                                 
+SSAMD        VVC   SK011670 D   N04040010W0732255100                                                                                
+SSAMD        ZIP   SK011470 D   N05010500W073591200                                                                                 
+SSAMER       W8          0180CTG  SKD       O                                      04500     24500                                  
+SSAMER       W8          0190KAMELSKEA      O                             0566     04500     24500                                  
+SSAMER       W8          0200MTR  SKD       O                             0291     04500     24500                                  
+SSAMER       W8          0400RNG  SKD       O                                      12500     24500                                  
+SSAMER       W8          0410TEDONSKEA      O                             0631     12500     24500                                  
+SSAMER       A552        0010BAQ  SKD       O                                      03500     24500                                  
+SSAMER       A552        0020VARON  EA      O                             0541     03500     24500                                  
+SSAMER       A552        0450ORTIZSKEA      O                                      20500     24500                                  
+SSAMER       A552        0460PETERSKEA      O                             0618     20500     24500                                  
+SSAMER       A552        0470SERRASKEA      O                             0173     20500     24500                                  
+SSAMER       G300        0020BABORSKEA      O                             0658     13000     24500                                  
+SSAMER       G300        0030CUC  SKD       O                             0025     09500     24500                                  
+SSAMER       W11         0040EJA  SKD       O                                      08500     24500                                  
+SSAMER       W11         0050BUTROSKEA      O                             0376     08500     24500                                  
+SSAMER       W11         0060OTU  SKD       O                             0163     08500     24500                                  
+SSAMER       W11         0070MIGALSKEA      O                             0283     07500     24500                                  
+SSAMER       W11         0300JULIESKEA      O                                      10500     24500                                  
+SSAMER       W11         0310MRN  SKD       O                             0258     10500     24500                                  
+SSAMER       W12         0010BAQ  SKD       O                                      03500     24500                                  
+SSAMER       W12         0020CAUCASKEA      O                             0432     03500     24500                                  
+SSAMER       W12         0030MUDINSKEA      O                             0252     04500     24500                                  
+SSAMER       W12         0040ELB  SKD       O                             0493     06500     24500                                  
+SSAMER       W12         0050BOBICSKEA      O                             0602     06500     24500                                  
+SSAMER       W12         0060NEDORSKEA      O                             0397     06500     24500                                  
+SSAMER       W12         0070EJA  SKD       O                             0216     04500     24500                                  
+SSAMER       W19         0160CJN  SKD       O                             0611     04500     24500                                  
+SSAMER       W19         0170VVP  SKD       O                             0703     07500     24500                                  
+SSAMER       W19         0180UGOSASKEA      O                             0409     05500     24500                                  
+SSAMER       W19         0190ELB  SKD       O                             0472     12500     24500                                  
+SSAMER       W19         0200DIMILSKEA      O                             0621     12500     24500                                  
+SSAMER       W19         0210CUC  SKD       O                             0470     12500     24500                                  
+SSAMER       W33         0050ELB  SKD       O                                      09500     24500                                  
+SSAMER       W33         0060DIMOLSKEA      O                             0772     09500     24500                                  
+SSAMER       W33         0070OTU  SKD       O                             0521     09500     24500                                  
+SSAMER       W42         0120OMEGASKEA      O                                      11500     24500                                  
+SSAMER       W42         0130SOA  SKD       O                             0337     11500     24500                                  
+SSAMER       W43         0030ORTIZSKEA      O                             0289     09000     24500                                  
+SSAMER       W7          0320CUC  SKD       O                                      07500     24500                                  
+SSAMER       W7          0330TIBUSSKEA      O                             0422     07500     24500                                  
+SSAMER       W7          0340ELB  SKD       O                             0798     05500     24500                                  
+SSAMER       W7          0350MGN  SKD       O                             0541     05500     24500                                  
+SSAMER       W14         0190EPO  SKD       O                                      14500     24500                                  
+SSAMER       W14         0200PEI  SKD       O                             0249     14500     24500                                  
+SSAMER       W14         0210LNA  SKD       O                             0247     13500     24500                                  
+SSAMER       W14         0220NEIRASKEA      O                             0055     13500     24500                                  
+SSAMER       W14         0230FELIXSKEA      O                             0127     13500     24500                                  
+SSAMER       W10         0280CTG  SKD       O                                      04500     24500                                  
+SSAMER       W10         0290KOMPISKEA      O                             0359     04500     24500                                  
+SSAMER       W10         0300MGN  SKD       O                             0318     05500     24500                                  
+SSAMER       W10         0310TESIRSKEA      O                             0899     06500     24500                                  
+SSAMER       W10         0320LOMOSSKEA      O                             0386     04500     24500                                  
+SSAMER       W10         0330EJA  SKD       O                             0205     04500     24500                                  
+SSAMER       W46         0010OTU  SKD       O                                      09500     24500                                  
+SSAMER       W46         0020BAGRESKEA      O                             0399     09500     24500                                  
+SSAMER       W46         0030SUCRESKEA      O                             0668     09500     24500                                  
+SSAMER       W46         0040MGN  SKD       O                             0297     03500     24500                                  
+SSAMER       W46         0050BAQ  SKD       O                             0906     03500     24500                                  
+SSAMER       W46         0090OSAKASKEA      O                                      06000     24500                                  
+SSAMER       W46         0100GUEROSVEA      O                             0233     04000     24500                                  
+SSAMER       W17         0160PAY  SKD       O                             0345     05000     24500                                  
+SSAMER       W17         0170ETALOSKEA      O                                      11500     24500                                  
+SSAMER       W17         0180ULQ  SKD       O                             0239     12500     24500                                  
+SSAMER       W17         0190CEILASKEA      O                             0198     14500     24500                                  
+SSAMER       W17         0200EKARASKEA      O                             0239     14500     24500                                  
+SSAMER       W17         0210GIR  SKD       O                             0379     12500     24500                                  
+SSAMER       W17         0220OMEGASKEA      O                             0168     10500     24500                                  
+SSAMER       W17         0270IRIDASKEA      O                                      04500     24500                                  
+SSAMER       W17         0280GUAVISKEA      O                             0792     04500     24500                                  
+SSAMER       W17         0290KOTERSKEA      O                             0855     04500     24500                                  
+SSAMER       W17         0300VVC  SKD       O                             0322     04500     24500                                  
+SSAMER       W6          0120CTG  SKD       O                                      04500     24500                                  
+SSAMER       W6          0130SINCESKEA      O                             0553     04500     24500                                  
+SSAMER       W6          0140BUTALSKEA      O                             0862     11500     24500                                  
+SSAMER       W6          0150KORBASKEA      O                             0500     11500     24500                                  
+SSAMER       W6          0160RNG  SKD       O                             0625     11500     24500                                  
+SSAMER       W9          0050ZIP  SKD       O                                      14500     24500                                  
+SSAMER       W9          0060BOMADSKEA      O                             0772     14500     24500                                  
+SSAMER       W9          0070SOKORSKEA      O                             0190     14500     24500                                  
+SSAMER       W9          0080PIE  SKD       O                             0276     07500     24500                                  
+SSAMER       W9          0090BGA  SKD       O                             0163     07500     24500                                  
+SSAMER       W9          0100MONLASKEA      O                             0291     07500     24500                                  
+SSAMER       W9          0110DIBAMSKEA      O                             0399     07500     24500                                  
+SSAMER       W9          0120ELB  SKD       O                             0550     07500     24500                                  
+SSAMER       W9          0130POTSISKEA      O                             0632     04500     24500                                  
+SSAMER       W9          0140STA  SKD       O                             0537     07500     24500                                  
+SSAMER       W31         0030BAQ  SKD       O                             0490     03500     24500                                  
+SSAMER       W31         0040BARRASKEA      O                             0334     03500     24500                                  
+SSAMER       W31         0050POTSISKEA      O                             0319     07500     24500                                  
+SSAMER       W31         0060UGOSASKEA      O                             0330     07500     24500                                  
+SSAMER       W40         0010BAQ  SKD       O                                      03500     24500                                  
+SSAMER       W40         0020BITAV  EA      O                             0462     03500     24500                                  
+SSAMER       W40         0090CJN  SKD       O                                      04500     24500                                  
+SSAMER       W40         0100PLAYASKEA      O                             0290     04500     24500                                  
+SSAMER       W40         0110GEMAN  EA      O                             0360     04500     24500                                  
+SSAMER       W52         0010BAQ  SKD       O                                      04500     24500                                  
+SSAMER       W52         0020DOTROSKEA      O                             0540     04500     24500                                  
+SSAMER       W52         0100CJN  SKD       O                                      04500     24500                                  
+SSAMER       W52         0110IRONUSKEA      O                             0301     04500     24500                                  
+SSAMER       W5          0110LCE  SKD       O                                      07500     24500                                  
+SSAMER       W5          0120BOKUSSKEA      O                             0306     07500     24500                                  
+SSAMER       W5          0130MTR  SKD       O                             0499     04500     24500                                  
+SSAMER       W5          0140BIVOSSKEA      O                             0429     04500     24500                                  
+SSAMER       W5          0150KOMPISKEA      O                             0269     04500     24500                                  
+SSAMER       W5          0160BAQ  SKD       O                             0669     03500     24500                                  
+SSAMER       W5          0170EDRES  EA      O                             0505     03500     24500                                  
+SSAMER       W5          0240BUN  SKD       O                                      04500     24500                                  
+SSAMER       W5          0250BURPASKEA      O                             0432     04500     24500                                  
+SSAMER       W5          0260GPI  SKD       O                             0494     04500     24500                                  
+SSAMER       W5          0270TCO    D       O                             0685     04500     24500                                  
+SSAMER       W5          0380CDT  SKD       O                                      04500     24500                                  
+SSAMER       W5          0390UIB  SKD       O                             0372     04500     24500                                  
+SSAMER       W41         0010BAQ  SKD       O                                      06500     24500                                  
+SSAMER       W41         0020EGOKUSKEA      O                             0314     06500     24500                                  
+SSAMER       W41         0030FUNDASKEA      O                             0197     06500     24500                                  
+SSAMER       W41         0040VVP  SKD       O                             0472     11500     24500                                  
+SSAMER       A301        0010ISOTOSKEA      O                                      03500     24500                                  
+SSAMER       A301        0020BAQ  SKD       O                             0542     03500     24500                                  
+SSAMER       A301        0030MORGI  EA      O                             0533     03500     24500                                  
+SSAMER       A301        0060BODATSKEA      O                                      02500     24500                                  
+SSAMER       A301        0070LET  SKD       O                             0200     02500     24500                                  
+SSAMER       A301        0080SPRINSBEA      O                             0258     07500     24500                                  
+SSAMER       A301        0160PAPEMSKEA      O                             0486     04500     24000                                  
+SSAMER       A301        0170DAGANSKEA      O                                      06500     24500                                  
+SSAMER       A301        0180LONAKSKEA      O                             0389     06500     24500                                  
+SSAMER       A301        0190EJA  SKD       O                             0206     04500     24500                                  
+SSAMER       A301        0200DUBRASKEA      O                                      04500     24500                                  
+SSAMER       A301        0210ISORISKEA      O                             0885     04500     24500                                  
+SSAMER       A574-       0010BAQ  SKD       O                                      04500     24500                                  
+SSAMER       A574-       0020KUGARSKEA      O                             0341     04500     24500                                  
+SSAMER       A574-       0030CTG  SKD       O                             0179     04500     24500                                  
+SSAMER       A574        0010BAQ  SKD       O                                      04500     24500                                  
+SSAMER       A574        0020STA  SKD       O                             0380     04500     24500                                  
+SSAMER       A574        0030TIGRO  EA      O                             0374     06500     24500                                  
+SSAMER       A574        0040CTG  SKD       O                                      04500     24500                                  
+SSAMER       A574        0050DETOK  EA      O                             0338     05500     24500                                  
+SSAMER       A574        0120OSUNASKEA      O                             0351     04500     24500                                  
+SSAMER       A574        0130HACHASKEA      O                             0488     04500     24500                                  
+SSAMER       A574        0140RHC  SKD       O                             0289     04500     24500                                  
+SSAMER       G445-       0010BAQ  SKD       O                                      03500     24500                                  
+SSAMER       G445-       0020TIGRO  EA      O                             0658     03500     24500                                  
+SSAMER       W44         0100BUV  SKD       O                                      14500     24500                                  
+SSAMER       W44         0110ZIP  SKD       O                             0318     14500     24500                                  
+SSAMER       W44         0120SOA  SKD       O                             0302     12500     24500                                  
+SSAMER       W26         0030BHS  SKEA      O                                      07500     24500                                  
+SSAMER       W26         0040UIB  SKD       O                             0540     07500     24500                                  
+SSAMER       W26         0050EKINOSKEA      O                             0249     14500     24500                                  
+SSAMER       W26         0060PUPIRSKEA      O                             0199     14500     24500                                  
+SSAMER       W26         0070RNG  SKD       O                             0318     11500     24500                                  
+SSAMER       W26         0200MRN  SKD       O                                      10500     24500                                  
+SSAMER       W26         0210DIPRASKEA      O                             0533     03500     24500                                  
+SSAMER       W26         0220EJA  SKD       O                             0507     03500     24500                                  
+SSAMER       W26         0230SEBASSKEA      O                             0175     06500     24500                                  
+SSAMER       W26         0240BGA  SKD       O                             0200     16500     24500                                  
+SSAMER       W26         0250BELINSKEA      O                             0191     16500     24500                                  
+SSAMER       W26         0260SVA  SKD       O                             0605     16500     24500                                  
+SSAMER       W26         0270RITASSKEA      O                             0363     04500     24500                                  
+SSAMER       W26         0390PAY  SKD       O                             0345     04500     19500                                  
+SSAMER       W34         0060EYP  SKD       O                                      04500     24500                                  
+SSAMER       W34         0070TIAGOSKEA      O                             0330     04500     24500                                  
+SSAMER       W34         0100CUC  SKD       O                             0154     07500     24500                                  
+SSAMER       W34         0110TILLASKEA      O                             0294     12500     24500                                  
+SSAMER       W34         0120PIE  SKD       O                             0427     11500     24500                                  
+SSAMER       W34         0130MOGOSSKEA      O                             0244     11500     24500                                  
+SSAMER       W34         0140SOG  SKD       O                             0481     14500     24500                                  
+SSAMER       W25         0170RNG  SKD       O                                      13500     24500                                  
+SSAMER       W25         0180FELIXSKEA      O                             0385     13500     24500                                  
+SSAMER       W25         0190ZARESSKEA      O                             0144     14500     24500                                  
+SSAMER       W25         0200MQU  SKD       O                             0163     11500     24500                                  
+SSAMER       W25         0210UTICASKEA      O                             0310     11500     24500                                  
+SSAMER       W25         0220ZIP  SKD       O                             0267     13500     24500                                  
+SSAMER       W25         0230UASCASKEA      O                             0250     12500     24500                                  
+SSAMER       W25         0240MIGANSKEA      O                             0190     12500     24500                                  
+SSAMER       W25         0250UPI  SKD       O                             0219     05500     24500                                  
+SSAMER       W25         0260EYP  SKD       O                             0535     08500     24500                                  
+SSAMER       W25         0270TME  SKD       O                             0812     08500     24500                                  
+SSAMER       W25         0280SVA  SKD       O                             0309     10500     24500                                  
+SSAMER       A317        0200DAKMOSKEA      O                                      02500     19500                                  
+SSAMER       A317        0210ITAGO  EA      O                             0610     02500     19500                                  
+SSAMER       W3          0190CLO  SKD       O                                      04500     24500                                  
+SSAMER       W3          0200PL   SKD       O                             0121     04500     24500                                  
+SSAMER       W3          0210ULQ  SKD       O                             0307     07500     24500                                  
+SSAMER       W3          0220TOROLSKEA      O                             0121     09500     24500                                  
+SSAMER       W3          0230ZARZASKEA      O                             0129     09500     24500                                  
+SSAMER       W3          0240PEI  SKD       O                             0226     10500     24500                                  
+SSAMER       W3          0250MATROSKEA      O                             0229     10500     24500                                  
+SSAMER       W3          0260RNG  SKD       O                             0533     11500     24500                                  
+SSAMER       W3          0490MGN  SKD       O                                      04500     24500                                  
+SSAMER       W3          0500ROPINSKEA      O                             0967     04500     24500                                  
+SSAMER       W3          0510PRADESKEA      O                             0401     09500     24500                                  
+SSAMER       W27         0170CUC  SKD       O                                      12500     24500                                  
+SSAMER       W27         0180SARDISKEA      O                             0273     12500     24500                                  
+SSAMER       W27         0190MONLASKEA      O                             0277     14500     24500                                  
+SSAMER       W27         0200RODRASKEA      O                             0079     14500     24500                                  
+SSAMER       W27         0210NEDORSKEA      O                             0222     14500     24500                                  
+SSAMER       W27         0220LONAKSKEA      O                             0041     14500     24500                                  
+SSAMER       W27         0230LOMOSSKEA      O                             0033     14500     24500                                  
+SSAMER       W27         0240KIBEDSKEA      O                             0313     14500     24500                                  
+SSAMER       W27         0250OTU  SKD       O                             0179     14500     24500                                  
+SSAMER       W4          0010EGOKUSKEA      O                                      04500     24500                                  
+SSAMER       W4          0020BARRASKEA      O                             0136     05500     24500                                  
+SSAMER       W4          0030CAUCASKEA      O                             0182     05500     24500                                  
+SSAMER       W4          0040ISOTOSKEA      O                             0145     05500     24500                                  
+SSAMER       W65         0010MQU  SKD       O                                      10500     24500                                  
+SSAMER       W65         0020BARZASKEA      O                             0316     10500     24500                                  
+SSAMER       W65         0030MRN  SKD       O                             0313     11500     24500                                  
+SSAMER       W45         0280MIGANSKEA      O                                      09500     24500                                  
+SSAMER       W45         0290VIDALSKEA      O                             0245     09500     24500                                  
+SSAMER       W45         0300VVC  SKD       O                             0151     03500     24500                                  
+SSAMER       W70         0080IPI  SKD       O                                      17500     24500                                  
+SSAMER       W70         0090EGOBISKEA      O                             0301     17500     24500                                  
+SSAMER       W70         0100TCO    D       O                             0563     17500     24500                                  
+SSAMER       W22         0010BELENSKEA      O                                      05500     24500                                  
+SSAMER       W22         0020SIS  SKEA      O                             0392     05500     24500                                  
+SSAMER       W22         0030PSO  SKD       O                             0694     15500     24500                                  
+SSAMER       W50         0190PALAXSKEA      O                                      08500     24500                                  
+SSAMER       W50         0200SIS  SKEA      O                             0428     08500     24500                                  
+SSAMER       W50         0210PLG  SKD       O                             1125     06500     24500                                  
+SSAMER       W32         0210RHC  SKD       O                             0604     04500     24500                                  
+SSAMER       W32         0220PLAYASKEA      O                             0121     08500     24500                                  
+SSAMER       W32         0230POTSISKEA      O                                      08500     24500                                  
+SSAMER       W32         0240VVP  SKD       O                             0467     08500     24500                                  
+SSAMER       W18         0120CARLOSKEA      O                                      07500     24500                                  
+SSAMER       W18         0130KIMOSSKEA      O                             0332     07500     24500                                  
+SSAMER       W18         0140SJE  SKEA      O                             0583     04500     24500                                  
+SSAMER       W18         0150YENNYSKEA      O                             0947     04500     24500                                  
+SSAMER       W18         0300GIR  SKD       O                                      13500     24500                                  
+SSAMER       W18         0310TOLIMSKEA      O                             0394     13500     24500                                  
+SSAMER       W35         0040BGA  SKD       O                                      07500     24500                                  
+SSAMER       W35         0050RODRASKEA      O                             0300     07500     24500                                  
+SSAMER       W35         0060BOBICSKEA      O                             0390     06500     24500                                  
+SSAMER       W35         0070MGN  SKD       O                             0938     06500     24500                                  
+SSAMER       G431        0120BOG  SKD       O                                      14500     24500                                  
+SSAMER       G431        0130BUV  SKD       O                             0498     14500     24500                                  
+SSAMER       W13         0240MTU  SKD       O                                      04500     24500                                  
+SSAMER       W13         0250SJE  SKEA      O                             1645     04500     24500                                  
+SSAMER       A566        0150LET  SKD       O                             0261     03500     24500                                  
+SSAMER       A566        0160KALORTUEA      O                             0499     03500     24000                                  
+SSAMER       W20         0050BOG  SKD       O                                      13500     24500                                  
+SSAMER       W20         0060ZIP  SKD       O                             0227     13500     24500                                  
+SSAMER       W20         0070KABISSKEA      O                             0251     14500     24500                                  
+SSAMER       W20         0080SOG  SKD       O                             0476     14500     24500                                  
+SSAMER       W20         0090TME  SKD       O                             0862     15500     24500                                  
+SSAMER       W15         0040BUN  SKD       O                                      08500     24500                                  
+SSAMER       W15         0050CLO  SKD       O                             0435     08500     24500                                  
+SSAMER       W15         0060EDPESSKEA      O                             0167     12500     24500                                  
+SSAMER       W15         0070ISADISKEA      O                             0253     15500     24500                                  
+SSAMER       W15         0270NVA  SKD       O                                      12500     24500                                  
+SSAMER       W15         0280SVC  SKD       O                             0621     06500     24500                                  
+SSAMER       W15         0290FLA  SKD       O                             0590     03500     24500                                  
+SSAMER       W15         0300SIS  SKEA      O                             0827     03500     24500                                  
+SSAMER       W15         0310NAIPUSKEA      O                             0251     14500     24500                                  
+SSAMER       W15         0320MER  SKD       O                             0588     14500     24500                                  
+SSAMER       W15         0330TUNGISKEA      O                             0558     11500     24500                                  
+SSAMER       W15         0340TCO    D       O                             0401     04500     24500                                  
+SSAMER       G430        0010GIR  SKD       O                                      09500     24500                                  
+SSAMER       G430        0020MQU  SKD       O                             0611     09500     24500                                  
+SSAMER       G430        0030OTU  SKD       O                                      09500     24500                                  
+SSAMER       G430        0040REMOLSKEA      O                             0378     04500     24500                                  
+SSAMER       G430        0050BIVOSSKEA      O                             1025     04500     24500                                  
+SSAMER       G430        0060CTG  SKD       O                             0569     04500     24500                                  
+SSAMER       G430        0070BITAV  EA      O                             0261     04500     24500                                  
+SSAMER       A567        0010BGA  SKD       O                                      12500     24500                                  
+SSAMER       A567        0020GALANSKEA      O                             0303     12500     24500                                  
+SSAMER       A567        0030BOG  SKD       O                                      11500     24500                                  
+SSAMER       A567        0040UTICASKEA      O                             0200     11500     24500                                  
+SSAMER       A567        0050BUV  SKD       O                             0394     13500     24500                                  
+SSAMER       W2          0130BUN  SKD       O                                      10500     24500                                  
+SSAMER       W2          0140KABOSSKEA      O                             0242     10500     24500                                  
+SSAMER       W2          0150ULQ  SKD       O                             0247     13500     24500                                  
+SSAMER       W2          0160SIBOSSKEA      O                             0169     09500     24500                                  
+SSAMER       W2          0210EPO  SKD       O                                      14500     24500                                  
+SSAMER       W2          0220IBG  SKD       O                             0273     14500     24500                                  
+SSAMER       W2          0230GIR  SKD       O                             0190     04500     24500                                  
+SSAMER       W16         0100SOA  SKD       O                                      11500     24500                                  
+SSAMER       W16         0110KAMISSKEA      O                             0250     04500     24500                                  
+SSAMER       W16         0120GIR  SKD       O                             0182     04500     24500                                  
+SSAMER       W16         0130USANASKEA      O                             0205     08500     24500                                  
+SSAMER       W16         0140NVA  SKD       O                             0513     12500     24500                                  
+SSAMER       W16         0150NEMALSKEA      O                             0715     06500     24500                                  
+SSAMER       W16         0160FLA  SKD       O                             0240     08500     24500                                  
+SSAMER       W16         0170MORELSKEA      O                             0241     08500     24500                                  
+SSAMER       W16         0180MER  SKD       O                             0773     15500     24500                                  
+SSAMER       W66         0010MTR  SKD       O                                      04500     24500                                  
+SSAMER       W66         0020LUCHYSKEA      O                             0758     04500     24500                                  
+SSAMER       W66         0030OTU  SKD       O                             0505     09500     24500                                  
+SSAMER       W23         0120MENTOSKEA      O                                      10500     24500                                  
+SSAMER       W23         0130BUTALSKEA      O                             0512     10500     24500                                  
+SSAMER       W23         0140MTR  SKD       O                             0616     04500     24500                                  
+SSAMER       W23         0310JULIESKEA      O                                      10500     24500                                  
+SSAMER       W23         0320MQU  SKD       O                             0393     10500     24500                                  
+SSAMER       W23         0330MECHISKEA      O                                      11500     24500                                  
+SSAMER       W23         0340SOA  SKD       O                             0215     11500     24500                                  
+SSAMER       W47         0140TIAGOSKEA      O                                      03500     24500                                  
+SSAMER       W47         0150UPI  SKD       O                             0401     03500     24500                                  
+SSAMER       W47         0160VVC  SKD       O                             0390     04500     24500                                  
+SSAMER       W21         0100TBT  SKD       O                                      03500     24500                                  
+SSAMER       W21         0110TARIBSKEA      O                             0295     03500     24500                                  
+SSAMER       W21         0120TOVALSKEA      O                             0406     03500     24500                                  
+SSAMER       W29G        0060PAY  SKD       O                             0537     10000     24500                                  
+SSAMER       W29G        0070SJM  SVD       O                             0949     10000     24500                                  
+SSAMER       W38         0010GUASASKEA      O                                      07500     24500                                  
+SSAMER       W38         0020PDA  SKD       O                             0495     07500     24500                                  
+SSAMER       W38         0030RAFASSKEA      O                             1386     07500     24500                                  
+SSAMER       W38         0040VENTASVEA      O                             0189     07500     24500                                  
+SSAMER       A323-       0010BOG  SKD       O                                      11500     24500                                  
+SSAMER       A323-       0020DELTASKEA      O                             0169     11500     24500                                  
+SSAMER       A323-       0030MQU  SKD       O                             0251     11500     24500                                  
+SSAMER       B689-       0010BOG  SKD       O                                      12500     24500                                  
+SSAMER       B689-       0020SOA  SKD       O                             0149     12500     24500                                  
+SSAMER       B689-       0030QUEZASKEA      O                             0227     14500     24500                                  
+SSAMER       B689-       0040EGEPISKEA      O                             0196     14500     24500                                  
+SSAMER       B689-       0050VVC  SKD       O                             0200     12500     24500                                  
+SSAMER       B689-       0060PABONSKEA      O                                      04500     24500                                  
+SSAMER       B689-       0070BUENOSKEA      O                             0390     04500     24500                                  
+SSAMER       B689-       0080DALOKSKEA      O                             0302     04500     24500                                  
+SSAMER       B689-       0090LET  SKD       O                             0200     02500     24500                                  
+SSAMER       W30         0060DAKOPSKEA      O                                      06500     24500                                  
+SSAMER       W30         0070GPI  SKD       O                             0398     06500     24500                                  
+SSAMER       A321        0030CLO  SKD       O                                      08500     24500                                  
+SSAMER       A321        0040VADUNSKEA      O                             0248     08500     24500                                  
+SSAMER       B510        0090KUBEKSKEA      O                             0593     10500     24500                                  
+SSAMER       B510        0100LCE  SKD       O                             0320     10500     24500                                  
+SSAMER       B510        0110LAURASKEA      O                             0524     10500     24500                                  
+SSAMER       B510        0120OTU  SKD       O                             0766     10500     24500                                  
+SSAMER       W36         0050DAKMOSKEA      O                                      19500     24500                                  
+SSAMER       W36         0060URRAOSKEA      O                             1281     19500     24500                                  
+SSAMER       W36         0070PUPIRSKEA      O                             0260     15500     24500                                  
+SSAMER       W36         0080FELIXSKEA      O                             0371     15500     24500                                  
+SSAMER       W36         0090VASILSKEA      O                             0183     15500     24500                                  
+SSAMER       W37         0010PEI  SKD       O                                      12500     24500                                  
+SSAMER       W37         0020DILARSKEA      O                             0217     12500     24500                                  
+SSAMER       W37         0030PUPIRSKEA      O                             0360     14500     24500                                  
+SSAMER       W37         0040NENERSKEA      O                             0355     15500     24500                                  
+SSAMER       W37         0050PEQUESKEA      O                             0245     15500     24500                                  
+SSAMER       W37         0060LAURASKEA      O                             0457     11500     24500                                  
+SSAMER       W37         0070KALIRSKEA      O                             0309     11500     24500                                  
+SSAMER       W37         0080LUCIASKEA      O                             0244     05500     24500                                  
+SSAMER       W37         0090MTR  SKD       O                             0241     05500     24500                                  
+SSAMER       W24         0340ZIP  SKD       O                                      13500     24500                                  
+SSAMER       W24         0350LUMOPSKEA      O                             0251     14500     24500                                  
+SSAMER       W24         0360ENERISKEA      O                             0493     13500     24500                                  
+SSAMER       W24         0370EYP  SKD       O                             0202     13500     24500                                  
+SSAMER       W24         0380TRINISKEA      O                             0473     05500     24500                                  
+SSAMER       W24         0390GATUNSKEA      O                             1000     06500     24500                                  
+SSAMER       W24         0400RAFASSKEA      O                             0663     06500     24500                                  
+SSAMER       W24         0410PTC  SVD       O                             0859     05500     24500                                  
+SSAMER       W51         0050BUV  SKD       O                                      14500     24500                                  
+SSAMER       W51         0060TEPESSKEA      O                             0151     14500     24500                                  
+SSAMER       W51         0070SOG  SKD       O                             0388     14500     24500                                  
+SSAMER       W39         0040TIAGOSKEA      O                                      08500     24500                                  
+SSAMER       W39         0050RIKAZSKEA      O                             0394     08500     24500                                  
+SSAMER       W39         0060UASCASKEA      O                             0374     12500     24500                                  
+SSAMER       W25G        0050PAY  SKD       O                             0601     08000     24500                                  
+SSAMER       W13G-       0030PAY  SKD       O                             0746     08000     24500                                  
+SSAMER       G445        0010OSAKASKEA      O                                      06500     24500                                  
+SSAMER       G445        0020CJN  SKD       O                             0090     06500     24500                                  
+SSAMER       G445        0030RHC  SKD       O                             0307     04500     24500                                  
+SSAMER       G445        0040CTG  SKD       O                                      04500     24500                                  
+SSAMER       G445        0050RONEL  EA      O                             0344     04500     24500                                  
+SSAMER       R564        0020DAKOPSKEA      O                             1067     13500     24500                                  
+SSAMER       R564        0030CLO  SKD       O                             0631     13500     24500                                  
+SSAMER       R564        0040MANGASKEA      O                             0209     11500     24500                                  
+SSAMER       R564        0050OREGASKEA      O                             0404     16500     24500                                  
+SSAMER       R564        0060GIR  SKD       O                             0425     16500     24500                                  
+SSAMER       R567        0010CLO  SKD       O                                      10500     24500                                  
+SSAMER       R567        0020PPN  SKD       O                             0585     10500     24500                                  
+SSAMER       R567        0030FLA  SKD       O                                      03500     24500                                  
+SSAMER       R567        0040DELISSKEA      O                             0258     03500     24500                                  
+SSAMER       R567        0050TQS  SKD       O                             0214     09500     24500                                  
+SSAMER       R567        0060RIOKASKEA      O                             0351     04500     24500                                  
+SSAMER       R567        0070PLG  SKD       O                             0266     04500     24500                                  
+SSAMER       R567        0080ROLUSSKEA      O                             0896     09500     24500                                  
+SSAMER       G675        0010CLO  SKD       O                                      08500     24500                                  
+SSAMER       G675        0020QUILISKEA      O                             0245     08500     24500                                  
+SSAMER       G675        0050MER  SKD       O                                      11500     24500                                  
+SSAMER       G675        0060PSO  SKD       O                             0249     15500     24500                                  
+SSAMER       G675        0070GAVEKSKEA      O                             0096     15500     24500                                  
+SSAMER       G675        0080IPI  SKD       O                             0301     17500     24500                                  
+SSAMER       G675        0090DUBKUSEEA      O                             0201     17500     24500                                  
+SSAMER       W17G        0060PAY  SKD       O                             0511     10000     24500                                  
+SSAMER       W48         0090MER  SKD       O                                      11500     24500                                  
+SSAMER       W48         0100PPN  SKD       O                             0511     11500     24500                                  
+SSAMER       A567-       0010CUC  SKD       O                                      06500     24500                                  
+SSAMER       A567-       0020ENPUTSVEA      O                             0184     06500     24500                                  
+SSAMER       R640        0100URIBISKEA      O                             0174     08000     24500                                  
+SSAMER       R640        0110HACHASKEA      O                             0311     07500     24500                                  
+SSAMER       R640        0120OPLIS  EA      O                             0415     07500     24500                                  
+SSAMER       B553        0030RHC  SKD       O                                      04500     24500                                  
+SSAMER       B553        0040URIBISKEA      O                             0476     04500     24500                                  
+SSAMER       B689        0010DUBRASKEA      O                                      04500     24500                                  
+SSAMER       B689        0020LOKOSSKEA      O                             0996     04500     24500                                  
+SSAMER       B689        0030TEDOGSKEA      O                             0902     04500     24500                                  
+SSAMER       B689        0040PABONSKEA      O                             0803     04500     24500                                  
+SSAMER       B689        0050RNG  SKD       O                                      12500     24500                                  
+SSAMER       B689        0060PEQUESKEA      O                             0555     13500     24500                                  
+SSAMER       B689        0070REMUKSKEA      O                             0356     08500     24500                                  
+SSAMER       B689        0080LCE  SKD       O                             0438     08500     24500                                  
+SSAMER       B689        0090KAKOLSKEA      O                             0601     08500     24500                                  
+SSAMER       B689        0100PONPOMPEA      O                             0636     02500     19500                                  
+SSAMER       A301-       0010DUBRASKEA      O                                      04500     24500                                  
+SSAMER       A301-       0020SJE  SKEA      O                             0840     04500     24500                                  
+SSAMER       W49         0080PLG  SKD       O                                      09500     24500                                  
+SSAMER       W49         0090SVC  SKD       O                             1397     09500     24500                                  
+SSAMER       G426        0020ENSOLSKEA      O                             0548     15500     24500                                  
+SSAMER       G426        0030TCO    D       O                             0293     04500     24500                                  
+SSAMER       W34-W       0010EYP  SKD       O                                      14500     24500                                  
+SSAMER       W34-W       0020SOG  SKD       O                             0403     14500     24500                                  
+SSAMER       W38G        0040GUASASKEA      O                                      06000     24500                                  
+SSAMER       W38G        0050SRN  SVD       O                             0770     06000     24500                                  
+SSAMER       B689-       0010SJE  SKEA      O                                      04500     24500                                  
+SSAMER       B689-       0020KALASSKEA      O                             0497     04500     24500                                  
+SSAMER       B689-       0030VVC  SKD       O                             0506     04500     24500                                  
+SSAMER       A323        0010KOTINSKEA      O                                      15500     24500                                  
+SSAMER       A323        0020NENERSKEA      O                             0218     15500     24500                                  
+SSAMER       A323        0030RNG  SKD       O                             0367     12500     24500                                  
+SSAMER       A552-       0020OSAKASKEA      O                             0512     01500     24500                                  
+SSAMER       A323-       0010MQU  SKD       O                                      13500     24500                                  
+SSAMER       A323-       0020RENOSSKEA      O                             0277     13500     24500                                  
+SSAMER       A323-       0030RNG  SKD       O                             0274     13500     24500                                  
+SSAMER       W26-W       0010MRN  SKD       O                                      11500     24500                                  
+SSAMER       W26-W       0020RNG  SKD       O                             0130     11500     24500                                  
+SSAMER       G430-       0010OTU  SKD       O                                      09500     24500                                  
+SSAMER       G430-       0020ROPETSKEA      O                             0271     09500     24500                                  
+SSAMER       UA552       0060BAQ  SKD       O                             1051     24500     60000                                  
+SSAMER       UA552       0070PETERSKEA      O                             0659     24500     60000                                  
+SSAMER       UA552       0080ORTIZSKEA      O                             0618     24500     60000                                  
+SSAMER       UA552       0090MAU  SVD       O                             0977     24500     60000                                  
+SSAMER       UL305       0010OTU  SKD       O                                      24500     60000                                  
+SSAMER       UL305       0020BAGRESKEA      O                             0399     24500     60000                                  
+SSAMER       UL305       0030MGN  SKD       O                             0965     24500     60000                                  
+SSAMER       UL305       0040BAQ  SKD       O                             0906     24500     60000                                  
+SSAMER       UL305       0050GIR  SKD       O                                      24500     60000                                  
+SSAMER       UL305       0060DIKUNSKEA      O                             1860     24500     60000                                  
+SSAMER       UL305       0070PULTUSKEA      O                             0655     24500     60000                                  
+SSAMER       UL305       0080TERASTUEA      O                             1259     24500     60000                                  
+SSAMER       UL300       0030BOG  SKD       O                                      24500     60000                                  
+SSAMER       UL300       0040ROLUSSKEA      O                             3613     24500     60000                                  
+SSAMER       UW5         0020BAQ  SKD       O                             2066     24500     60000                                  
+SSAMER       UW5         0030BIVOSSKEA      O                             0938     24500     60000                                  
+SSAMER       UW5         0040MTR  SKD       O                             0429     24500     60000                                  
+SSAMER       UA574       0010BAQ  SKD       O                                      24500     60000                                  
+SSAMER       UA574       0020CTG  SKD       O                             0520     24500     60000                                  
+SSAMER       UA301       0010BAQ  SKD       O                                      24500     60000                                  
+SSAMER       UA301       0020DAGANSKEA      O                             1751     24500     60000                                  
+SSAMER       UA301       0030EJA  SKD       O                             0596     24500     60000                                  
+SSAMER       UA301       0040EDOPOSKEA      O                             1863     24500     60000                                  
+SSAMER       UA301       0050SJE  SKEA      O                             0903     24500     60000                                  
+SSAMER       UA301       0060MARTUSKEA      O                             1469     24500     60000                                  
+SSAMER       UA301       0070GALORSKEA      O                             1473     24500     60000                                  
+SSAMER       UA301       0080PUPASSKEA      O                             0229     24500     60000                                  
+SSAMER       UA301       0090LET  SKD       O                             1202     24500     60000                                  
+SSAMER       UA301       0100NEGRASBEA      O                             1317     24500     60000                                  
+SSAMER       UA574       0010BAQ  SKD       O                                      24500     60000                                  
+SSAMER       UA574       0020STA  SKD       O                             0380     24500     60000                                  
+SSAMER       UA574       0030NERVASKEA      O                             0354     24500     60000                                  
+SSAMER       UA574       0040RHC  SKD       O                             0494     24500     60000                                  
+SSAMER       UA574       0050HACHASKEA      O                             0289     24500     60000                                  
+SSAMER       UA574       0060GILGA  EA      O                             0839     24500     60000                                  
+SSAMER       UA574       0080CTG  SKD       O                                      24500     60000                                  
+SSAMER       UA574       0090BOGAL  EA      O                             1193     24500     60000                                  
+SSAMER       UW34        0060CUC  SKD       O                                      24500     60000                                  
+SSAMER       UW34        0070LFA  SVD       O                             0237     24500     60000                                  
+SSAMER       UA317       0200VVC  SKD       O                                      24500     60000                                  
+SSAMER       UA317       0210BUTANSKEA      O                             1354     24500     60000                                  
+SSAMER       UA317       0220MTU  SKD       O                             1182     24500     60000                                  
+SSAMER       UA317       0230ELANASBEA      O                             2021     24500     60000                                  
+SSAMER       UA317       0300DAKMOSKEA      O                             0610     19500     60000                                  
+SSAMER       UA317       0310MQU  SKD       O                             2190     24500     60000                                  
+SSAMER       UW20        0150TME  SKD       O                                      24500     60000                                  
+SSAMER       UW20        0160SOG  SKD       O                             0862     24500     60000                                  
+SSAMER       UW20        0170ZIP  SKD       O                             0726     24500     60000                                  
+SSAMER       UG430       0010OTU  SKD       O                                      24500     60000                                  
+SSAMER       UG430       0020REMOLSKEA      O                             0378     24500     60000                                  
+SSAMER       UG430       0030BIVOSSKEA      O                             1025     24500     60000                                  
+SSAMER       UG430       0040CTG  SKD       O                             0569     24500     60000                                  
+SSAMER       UG430       0050BUTUM  EA      O                             0977     24500     60000                                  
+SSAMER       UA567       0010BUV  SKD       O                                      24500     60000                                  
+SSAMER       UA567       0020BGA  SKD       O                             1041     24500     60000                                  
+SSAMER       UA567       0030CUC  SKD       O                             0626     24500     60000                                  
+SSAMER       UG431       0050BOG  SKD       O                                      24500     60000                                  
+SSAMER       UG431       0060BUV  SKD       O                             0498     24500     60000                                  
+SSAMER       UG431       0070EJA  SKD       O                             0899     24500     60000                                  
+SSAMER       UG431       0080CUC  SKD       O                             0942     24500     60000                                  
+SSAMER       UG431       0200PLG  SKD       O                             1386     24500     60000                                  
+SSAMER       UW9         0040ZIP  SKD       O                                      24500     60000                                  
+SSAMER       UW9         0050PIE  SKD       O                             1238     24500     60000                                  
+SSAMER       UW9         0060BGA  SKD       O                             0163     24500     60000                                  
+SSAMER       UW9         0070DIBAMSKEA      O                             0689     24500     60000                                  
+SSAMER       UW9         0080ELB  SKD       O                             0550     24500     60000                                  
+SSAMER       UW9         0090POTSISKEA      O                             0632     24500     60000                                  
+SSAMER       UW9         0100STA  SKD       O                             0537     24500     60000                                  
+SSAMER       UQ108       0020BIBILSKEA      O                             2822     24500     60000                                  
+SSAMER       UQ108       0030GEKARSKEA      O                             1472     24500     60000                                  
+SSAMER       UQ108       0040ILVIRSKEA      O                             2957     24500     60000                                  
+SSAMER       UA323       0060BRACOSKEA      O                             2063     24500     60000                                  
+SSAMER       UA323       0070VVC  SKD       O                             2535     24500     60000                                  
+SSAMER       UR640       0170HACHASKEA      O                             1355     24500     60000                                  
+SSAMER       UR640       0180URIBISKEA      O                             0311     24500     60000                                  
+SSAMER       UR640       0190MAR  SVD       O                             0482     24500     60000                                  
+SSAMER       UA550       0170GIR  SKD       O                                      24500     60000                                  
+SSAMER       UA550       0180ESAROSKEA      O                             1098     24500     60000                                  
+SSAMER       UA550       0190MER  SKD       O                             0891     24500     60000                                  
+SSAMER       UG444       0100NERVASKEA      O                             1625     24500     60000                                  
+SSAMER       UG444       0110PETERSKEA      O                             0260     24500     60000                                  
+SSAMER       UG444       0120ELB  SKD       O                             1044     24500     60000                                  
+SSAMER       UG444       0130BOBICSKEA      O                             0602     24500     60000                                  
+SSAMER       UG444       0140EJA  SKD       O                             0613     24500     60000                                  
+SSAMER       UG444       0150VVC  SKD       O                             1796     24500     60000                                  
+SSAMER       UG444       0160PLG  SKD       O                             2683     24500     60000                                  
+SSAMER       UA553       0070UGOTASKEA      O                             0472     24500     60000                                  
+SSAMER       UA553       0080MGN  SKD       O                             0564     24500     60000                                  
+SSAMER       UA553       0090ESEDA  EA      O                             1531     24500     60000                                  
+SSAMER       UA550       0010BOG  SKD       O                                      24500     60000                                  
+SSAMER       UA550       0020GIR  SKD       O                             0509     24500     60000                                  
+SSAMER       UA317       0010BOG  SKD       O                                      24500     60000                                  
+SSAMER       UA317       0020MQU  SKD       O                             0419     24500     60000                                  
+SSAMER       UA317       0010BOG  SKD       O                                      24500     60000                                  
+SSAMER       UA317       0020VVC  SKD       O                             0733     24500     60000                                  
+SSAMER       UA550       0010BOG  SKD       O                                      24500     60000                                  
+SSAMER       UA550       0020ZIP  SKD       O                             0227     24500     60000                                  
+SSAMER       UL655       0230ESAROSKEA      O                                      24500     60000                                  
+SSAMER       UL655       0240DABAXSKEA      O                             1621     24500     60000                                  
+SSAMER       UL655       0250SIMATSKEA      O                             0988     24500     60000                                  
+SSAMER       UL655       0260GALORSKEA      O                             1704     24500     60000                                  
+SSAMER       UL655       0270PABONSKEA      O                             0651     24500     60000                                  
+SSAMER       UA550       0010MER  SKD       O                                      24500     60000                                  
+SSAMER       UA550       0020BOKANSEEA      O                             0734     24500     60000                                  
+SSAMER       UQ104       0020LOBULSKEA      O                             3210     24500     60000                                  
+SSAMER       UQ104       0030KIKASSVEA      O                             1932     24500     60000                                  
+SSAMER       UQ113       0020ULQ  SKD       O                             2207     24500     60000                                  
+SSAMER       UA321       0030CLO  SKD       O                                      24500     60000                                  
+SSAMER       UA321       0040FLA  SKD       O                             1275     24500     60000                                  
+SSAMER       UA321       0050DIKUNSKEA      O                             0231     24500     60000                                  
+SSAMER       UA321       0060PLG  SKD       O                             0856     24500     60000                                  
+SSAMER       UM414       0050OPRUSSKEA      O                             0373     25000     60000                                  
+SSAMER       UB510       0090KUBEKSKEA      O                             0593     24500     60000                                  
+SSAMER       UB510       0100LCE  SKD       O                             0320     24500     60000                                  
+SSAMER       UB510       0110OTU  SKD       O                             1290     24500     60000                                  
+SSAMER       UW40        0040BUV  SKD       O                                      24500     60000                                  
+SSAMER       UW40        0050PUKENSKEA      O                             0734     24500     60000                                  
+SSAMER       UW40        0060KIKASSVEA      O                             0704     24500     60000                                  
+SSAMER       UA566       0070LET  SKD       O                             0209     24500     60000                                  
+SSAMER       UQ106       0020PLG  SKD       O                             4654     24500     60000                                  
+SSAMER       UG438       0010CTG  SKD       O                                      24500     60000                                  
+SSAMER       UG438       0020BUTALSKEA      O                             1415     24500     60000                                  
+SSAMER       UG438       0030RNG  SKD       O                             1125     24500     60000                                  
+SSAMER       UG438       0040PEI  SKD       O                             0762     24500     60000                                  
+SSAMER       UG438       0050ULQ  SKD       O                             0475     24500     60000                                  
+SSAMER       UG438       0060CLO  SKD       O                             0427     24500     60000                                  
+SSAMER       UG438       0070MER  SKD       O                             1067     24500     60000                                  
+SSAMER       UQ105       0010BUTALSKEA      O                                      24500     60000                                  
+SSAMER       UQ105       0020EKATI  EA      O                             1313     24500     60000                                  
+SSAMER       UW23        0010MQU  SKD       O                                      24500     60000                                  
+SSAMER       UW23        0020BUTALSKEA      O                             1620     24500     60000                                  
+SSAMER       UW23        0030MTR  SKD       O                             0616     24500     60000                                  
+SSAMER       UL417       0010PABONSKEA      O                                      24500     60000                                  
+SSAMER       UL417       0020BUTANSKEA      O                             3322     24500     60000                                  
+SSAMER       UL417       0030LONAXSKEA      O                             0866     24500     60000                                  
+SSAMER       UL417       0040PUKENSKEA      O                             1486     24500     60000                                  
+SSAMER       UL417       0170MIBENSKEA      O                                      24500     60000                                  
+SSAMER       UL417       0180UGOTASKEA      O                             0812     24500     60000                                  
+SSAMER       UW66        0080MTR  SKD       O                                      19500     45000                                  
+SSAMER       UW66        0090LUCHYSKEA      O                             0758     19500     45000                                  
+SSAMER       UW66        0100OTU  SKD       O                             0505     19500     24500                                  
+SSAMER       UR564       0010GIR  SKD       O                                      24500     60000                                  
+SSAMER       UR564       0020CLO  SKD       O                             1037     24500     60000                                  
+SSAMER       UR564       0030SULKASKEA      O                             1250     24500     60000                                  
+SSAMER       UR564       0040TCO    D       O                             0447     24500     60000                                  
+SSAMER       UM787       0030REBIMSKEA      O                             0633     24500     60000                                  
+SSAMER       UM787       0040ROPOL  EA      O                             3656     19500     60000                                  
+SSAMER       UM782       0050XOGENSKEA      O                                      24500     60000                                  
+SSAMER       UM782       0060EJA  SKD       O                             0618     24500     60000                                  
+SSAMER       UM782       0070LONAXSKEA      O                             2108     24500     60000                                  
+SSAMER       UM782       0080MTU  SKD       O                             1978     24500     60000                                  
+SSAMER       UM782       0090VUDERSKEA      O                             0481     24500     60000                                  
+SSAMER       UM782       0100CRUMBSBEA      O                             2411     24500     60000                                  
+SSAMER       UQ103       0010CUC  SKD       O                                      24500     60000                                  
+SSAMER       UQ103       0020ELABUSKEA      O                             2245     24500     60000                                  
+SSAMER       UQ103       0030DOBLISKEA      O                             1457     24500     60000                                  
+SSAMER       UQ103       0040PLG  SKD       O                             1353     24500     60000                                  
+SSAMER       UA567       0010CUC  SKD       O                                      24500     60000                                  
+SSAMER       UA567       0020ENPUTSVEA      O                             0184     24500     60000                                  
+SSAMER       UQ114       0010DAKMOSKEA      O                                      24500     60000                                  
+SSAMER       UQ114       0020DAGURSKEA      O                             2286     24500     60000                                  
+SSAMER       UQ114       0030EDVILSKEA      O                             1221     24500     60000                                  
+SSAMER       UQ114       0040ILTENSKEA      O                             2184     24500     60000                                  
+SSAMER       UQ109       0010DAKMOSKEA      O                                      24500     60000                                  
+SSAMER       UQ109       0020EDRANSKEA      O                             2416     24500     60000                                  
+SSAMER       UL216       0050PAY  SKD       O                             1023     24500     60000                                  
+SSAMER       UL216       0060ZORROSKEA      O                             2268     24500     60000                                  
+SSAMER       UL216       0070SGC  SBD       O                             1216     24500     60000                                  
+SSAMER       UB689       0010RNG  SKD       O                                      24500     60000                                  
+SSAMER       UB689       0020LCE  SKD       O                             1349     24500     60000                                  
+SSAMER       UB689       0030KAKOLSKEA      O                             0601     24500     60000                                  
+SSAMER       UB689       0040PONPOMPEA      O                             0636     19500     60000                                  
+SSAMER       UB689       0070LET  SKD       O                                      24500     60000                                  
+SSAMER       UB689       0080PABONSKEA      O                             0892     24500     60000                                  
+SSAMER       UB689       0090LOKOSSKEA      O                             1705     24500     60000                                  
+SSAMER       UB689       0100DUBRASKEA      O                             0996     24500     60000                                  
+SSAMER       UB689       0110SJE  SKEA      O                             0840     24500     60000                                  
+SSAMER       UB689       0120VVC  SKD       O                             1003     24500     60000                                  
+SSAMER       UG427       0020ENRUTSKEA      O                             1082     24500     60000                                  
+SSAMER       UG427       0030SIMATSKEA      O                             1168     24500     60000                                  
+SSAMER       UG427       0040SJE  SKEA      O                             1594     24500     60000                                  
+SSAMER       UG427       0050POLENSKEA      O                             0962     24500     60000                                  
+SSAMER       UG427       0060KOVEXSKEA      O                             1985     24500     60000                                  
+SSAMER       UG427       0070EZA  SVD       O                             0337     24500     60000                                  
+SSAMER       UG426       0020ENSOLSKEA      O                             0548     24500     60000                                  
+SSAMER       UG426       0030TCO    D       O                             0293     24500     60000                                  
+SSAMER       UQ110       0010PLG  SKD       O                                      24500     60000                                  
+SSAMER       UQ110       0020GEDIMSKEA      O                             0678     24500     60000                                  
+SSAMER       UQ110       0030LIVEKSKEA      O                             2350     24500     60000                                  
+SSAMER       UQ110       0040KOVEXSKEA      O                             2010     24500     60000                                  
+SSAMER       UG430       0010GIR  SKD       O                                      24500     60000                                  
+SSAMER       UG430       0020MQU  SKD       O                             0611     24500     60000                                  
+SSAMER       UG430       0030OTU  SKD       O                             1096     24500     60000                                  
+SSAMER       UG430       0010GIR  SKD       O                                      24500     60000                                  
+SSAMER       UG430       0020PLG  SKD       O                             2625     24500     60000                                  
+SSAMER       UQ102       0030MUDUMSKEA      O                             0703     24500     60000                                  
+SSAMER       UQ102       0040LCE  SKD       O                             0306     24500     60000                                  
+SSAMER       UA323       0010MQU  SKD       O                                      24500     60000                                  
+SSAMER       UA323       0020RNG  SKD       O                             0550     24500     60000                                  
+SSAMER       UQ111       0030PABONSKEA      O                                      24500     60000                                  
+SSAMER       UQ111       0040TEH  SKD       O                             5055     24500     60000                                  
+SSAMER       UR567       0010PLG  SKD       O                                      24500     60000                                  
+SSAMER       UR567       0020ROLUSSKEA      O                             0896     24500     60000                                  

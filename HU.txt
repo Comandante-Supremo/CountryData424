@@ -1,0 +1,583 @@
+SEUREAENRT   ABETI LH           N47403977E017004623                                                                                 
+SEUREAENRT   ABLOM LH           N48040325E017051572                                                                                 
+SEUREAENRT   ABONY LH           N47161504E019584453                                                                                 
+SEUREAENRT   AGMAS LH           N47290340E019412883                                                                                 
+SEUREAENRT   ALAMU LH           N47441210E0181947100                                                                                
+SEUREAENRT   ARGIV LH           N48072264E019511955                                                                                 
+SEUREAENRT   ARSIN LH           N47335904E016451019                                                                                 
+SEUREAENRT   BABOX LH           N46534468E019405894                                                                                 
+SEUREAENRT   BADOV LH           N48011510E0184856100                                                                                
+SEUREAENRT   BAKOL LH           N47391461E018280000                                                                                 
+SEUREAENRT   BALAP LH           N48040479E019145983                                                                                 
+SEUREAENRT   BALUX LH           N47202725E019074637                                                                                 
+SEUREAENRT   BEGLA LH           N47495056E017065195                                                                                 
+SEUREAENRT   BOKSI LH           N46380713E019495075                                                                                 
+SEUREAENRT   BP026 LH           N47213020E019215731                                                                                 
+SEUREAENRT   BP035 LH           N47205410E019244723                                                                                 
+SEUREAENRT   BP042 LH           N47305450E019084258                                                                                 
+SEUREAENRT   BP049 LH           N47310800E019062736                                                                                 
+SEUREAENRT   BP052 LH           N47285959E019104199                                                                                 
+SEUREAENRT   BP412 LH           N47394135E018412439                                                                                 
+SEUREAENRT   BP413 LH           N47320597E019045066                                                                                 
+SEUREAENRT   BP414 LH           N47360759E018581673                                                                                 
+SEUREAENRT   BP415 LH           N47400883E018514180                                                                                 
+SEUREAENRT   BP416 LH           N47440968E018450585                                                                                 
+SEUREAENRT   BP417 LH           N47403029E018400309                                                                                 
+SEUREAENRT   BP418 LH           N47362943E018463942                                                                                 
+SEUREAENRT   BP419 LH           N47322819E018531474                                                                                 
+SEUREAENRT   BP420 LH           N47282657E018594905                                                                                 
+SEUREAENRT   BP421 LH           N47244717E018544780                                                                                 
+SEUREAENRT   BP422 LH           N47284879E018481310                                                                                 
+SEUREAENRT   BP423 LH           N47325004E018413740                                                                                 
+SEUREAENRT   BP430 LH           N47052890E019364715                                                                                 
+SEUREAENRT   BP431 LH           N47203023E019233598                                                                                 
+SEUREAENRT   BP432 LH           N47170770E019290109                                                                                 
+SEUREAENRT   BP433 LH           N47134491E019342552                                                                                 
+SEUREAENRT   BP434 LH           N47102186E019394926                                                                                 
+SEUREAENRT   BP435 LH           N47064245E019344971                                                                                 
+SEUREAENRT   BP436 LH           N47100550E019292565                                                                                 
+SEUREAENRT   BP437 LH           N47132829E019240091                                                                                 
+SEUREAENRT   BP438 LH           N47165083E019183547                                                                                 
+SEUREAENRT   BP439 LH           N47245308E019054554                                                                                 
+SEUREAENRT   BP440 LH           N47310611E018554568                                                                                 
+SEUREAENRT   BP442 LH           N47252310E0183029100                                                                                
+SEUREAENRT   BP512 LH           N47482770E018510314                                                                                 
+SEUREAENRT   BP513 LH           N47315432E019070338                                                                                 
+SEUREAENRT   BP514 LH           N47355608E019002966                                                                                 
+SEUREAENRT   BP515 LH           N47395746E018535493                                                                                 
+SEUREAENRT   BP516 LH           N47435845E018471919                                                                                 
+SEUREAENRT   BP517 LH           N47473762E018522264                                                                                 
+SEUREAENRT   BP518 LH           N47433662E018585799                                                                                 
+SEUREAENRT   BP519 LH           N47393525E019053233                                                                                 
+SEUREAENRT   BP520 LH           N47353350E019120566                                                                                 
+SEUREAENRT   BP521 LH           N47391267E019170830                                                                                 
+SEUREAENRT   BP522 LH           N47431442E019103535                                                                                 
+SEUREAENRT   BP523 LH           N47512914E018571740                                                                                 
+SEUREAENRT   BP530 LH           N47143877E019454115                                                                                 
+SEUREAENRT   BP531 LH           N47195483E019262562                                                                                 
+SEUREAENRT   BP532 LH           N47163215E019315048                                                                                 
+SEUREAENRT   BP533 LH           N47130922E019371466                                                                                 
+SEUREAENRT   BP534 LH           N47094603E019423814                                                                                 
+SEUREAENRT   BP535 LH           N47132522E019473832                                                                                 
+SEUREAENRT   BP536 LH           N47164840E019421516                                                                                 
+SEUREAENRT   BP537 LH           N47201134E019365130                                                                                 
+SEUREAENRT   BP538 LH           N47233401E019312676                                                                                 
+SEUREAENRT   BP539 LH           N47331490E019314846                                                                                 
+SEUREAENRT   BP540 LH           N47390548E019113979                                                                                 
+SEUREAENRT   BP610 LH           N47221356E018544937                                                                                 
+SEUREAENRT   BP611 LH           N47123943E018543160                                                                                 
+SEUREAENRT   BP612 LH           N47191401E019132006                                                                                 
+SEUREAENRT   BP613 LH           N47215860E019211497                                                                                 
+SEUREAENRT   BP614 LH           N47234084E018453679                                                                                 
+SEUREAENRT   BP615 LH           N47123510E0185711100                                                                                
+SEUREAENRT   BP628 LH           N47355173E018433818                                                                                 
+SEUREAENRT   BP629 LH           N47455385E019200685                                                                                 
+SEUREAENRT   BP630 LH           N47330309E019003133                                                                                 
+SEUREAENRT   BP631 LH           N47281529E019045996                                                                                 
+SEUREAENRT   BP632 LH           N47225857E019031240                                                                                 
+SEUREAENRT   BP633 LH           N47144691E018520808                                                                                 
+SEUREAENRT   BP635 LH           N47330851E019052028                                                                                 
+SEUREAENRT   BP636 LH           N47391233E018572800                                                                                 
+SEUREAENRT   BP637 LH           N47471661E018542206                                                                                 
+SEUREAENRT   BP638 LH           N47365486E019150843                                                                                 
+SEUREAENRT   BP639 LH           N48015597E019290877                                                                                 
+SEUREAENRT   BP713 LH           N47223586E019220609                                                                                 
+SEUREAENRT   BP714 LH           N47314110E019324800                                                                                 
+SEUREAENRT   BP715 LH           N47363529E019354006                                                                                 
+SEUREAENRT   BP716 LH           N47441311E019345447                                                                                 
+SEUREAENRT   BP717 LH           N48005459E019331301                                                                                 
+SEUREAENRT   BP718 LH           N47452941E019211729                                                                                 
+SEUREAENRT   BP719 LH           N47562039E019040187                                                                                 
+SEUREAENRT   BUD07 LH           N47220956E019222277                                                                                 
+SEUREAENRT   BUD10 LH           N47192830E019243700                                                                                 
+SEUREAENRT   BUD11 LH           N47183018E019265195                                                                                 
+SEUREAENRT   BUD12 LH           N47173580E019294626                                                                                 
+SEUREAENRT   BUD13 LH           N47200425E019253297                                                                                 
+SEUREAENRT   BUD31 LH           N47363138E019015128                                                                                 
+SEUREAENRT   BUD34 LH           N47292189E019111973                                                                                 
+SEUREAENRT   BUD35 LH           N47290199E019104419                                                                                 
+SEUREAENRT   BUD57 LH           N47305583E019085075                                                                                 
+SEUREAENRT   BUD66 LH           N47270774E019145208                                                                                 
+SEUREAENRT   BUD67 LH           N47270287E019145979                                                                                 
+SEUREAENRT   BUD71 LH           N47392639E018574826                                                                                 
+SEUREAENRT   BUD72 LH           N47210661E019223622                                                                                 
+SEUREAENRT   BUD84 LH           N47324607E019055561                                                                                 
+SEUREAENRT   BUD90 LH           N47191805E019270506                                                                                 
+SEUREAENRT   BUD97 LH           N47201315E019254458                                                                                 
+SEUREAENRT   BUD98 LH           N47193584E019244864                                                                                 
+SEUREAENRT   BUD99 LH           N47231505E019194784                                                                                 
+SEUREAENRT   DC001 LH           N47272418E021334686                                                                                 
+SEUREAENRT   DC015 LH           N47355105E021422508                                                                                 
+SEUREAENRT   DC016 LH           N47202526E021434560                                                                                 
+SEUREAENRT   DC017 LH           N47190949E021382916                                                                                 
+SEUREAENRT   DC018 LH           N47195820E021300810                                                                                 
+SEUREAENRT   DEMOP LH           N48102810E0200324100                                                                                
+SEUREAENRT   DODAR LH           N47125236E019313912                                                                                 
+SEUREAENRT   DOSAD LH           N47062680E019012367                                                                                 
+SEUREAENRT   EBORO LH           N46305166E020032996                                                                                 
+SEUREAENRT   EPARI LH           N47411103E018584082                                                                                 
+SEUREAENRT   ERGOM LH           N47482910E018435900                                                                                 
+SEUREAENRT   ERLOS LH           N47040300E0191629100                                                                                
+SEUREAENRT   EVAXI LH           N47464028E017060199                                                                                 
+SEUREAENRT   GESGI LH           N47551904E016571461                                                                                 
+SEUREAENRT   GIGOR LH           N47453420E017403634                                                                                 
+SEUREAENRT   GILEP LH           N47290020E018153159                                                                                 
+SEUREAENRT   GIPEG LH           N47455051E018275398                                                                                 
+SEUREAENRT   GITAS LH           N47031725E018102693                                                                                 
+SEUREAENRT   GODRE LH           N46180658E017571146                                                                                 
+SEUREAENRT   GOMPA LH           N47235426E019354403                                                                                 
+SEUREAENRT   HIGHW LH           N47253198E019090498                                                                                 
+SEUREAENRT   HOLOF LH           N46114940E017521150                                                                                 
+SEUREAENRT   KARIL LH           N47473823E022263206                                                                                 
+SEUREAENRT   KEREP LH           N47331398E019161896                                                                                 
+SEUREAENRT   KEROP LH           N46110352E019414762                                                                                 
+SEUREAENRT   KESID LH           N47305965E018533945                                                                                 
+SEUREAENRT   KOVEK LH           N47505037E020301002                                                                                 
+SEUREAENRT   KUNET LH           N47564772E017193518                                                                                 
+SEUREAENRT   LITKU LH           N48135000E0193554100                                                                                
+SEUREAENRT   MAAGE LH           N46335163E017484095                                                                                 
+SEUREAENRT   MAMOS LH           N47471579E019040141                                                                                 
+SEUREAENRT   MAVIR LH           N46235432E019493102                                                                                 
+SEUREAENRT   MIKLO LH           N47324398E019023900                                                                                 
+SEUREAENRT   MIRLU LH           N47560423E017082983                                                                                 
+SEUREAENRT   MNRNB LH           N47201613E019235917                                                                                 
+SEUREAENRT   MOKSA LH           N47420413E018375829                                                                                 
+SEUREAENRT   MOLNA LH           N47235401E019063498                                                                                 
+SEUREAENRT   NALOX LH           N46521052E016491227                                                                                 
+SEUREAENRT   NAPAX LH           N47142072E019223718                                                                                 
+SEUREAENRT   NIKAB LH           N46370871E017324418                                                                                 
+SEUREAENRT   NORAH LH           N47365847E019482943                                                                                 
+SEUREAENRT   OKORA LH           N46455888E018221647                                                                                 
+SEUREAENRT   OLATI LH           N46591418E017284502                                                                                 
+SEUREAENRT   OPERA LH           N47062400E020133600                                                                                 
+SEUREAENRT   PAKON LH           N47215401E019111596                                                                                 
+SEUREAENRT   PARAK LH           N46095020E020053950                                                                                 
+SEUREAENRT   PATAK LH           N48042263E019073849                                                                                 
+SEUREAENRT   PEMAG LH           N47385499E019063796                                                                                 
+SEUREAENRT   PERIT LH           N47470294E021370396                                                                                 
+SEUREAENRT   PESAT LH           N47425400E017031100                                                                                 
+SEUREAENRT   PIDON LH           N46072048E018040960                                                                                 
+SEUREAENRT   PITOK LH           N48192625E020221501                                                                                 
+SEUREAENRT   PUSTA LH           N47090798E018443234                                                                                 
+SEUREAENRT   R2156 LH           N47264352E019152718                                                                                 
+SEUREAENRT   R2157 LH           N47265534E019131473                                                                                 
+SEUREAENRT   R2158 LH           N47254971E019150089                                                                                 
+SEUREAENRT   R2159 LH           N47252262E019173788                                                                                 
+SEUREAENRT   ROMKA LH           N48131870E021502462                                                                                 
+SEUREAENRT   RYAAN LH           N46131709E017590441                                                                                 
+SEUREAENRT   SASAL LH           N47170410E0162827100                                                                                
+SEUREAENRT   SENYR LH           N46274560E0172350100                                                                                
+SEUREAENRT   SIKAT LH           N47342598E019092898                                                                                 
+SEUREAENRT   SIRDU LH           N47151380E017195134                                                                                 
+SEUREAENRT   SOGMO LH           N46363429E017410007                                                                                 
+SEUREAENRT   SOMOK LH           N47372221E018343181                                                                                 
+SEUREAENRT   SOPRO LH           N47351630E016480883                                                                                 
+SEUREAENRT   SOROK LH           N47241399E019062700                                                                                 
+SEUREAENRT   STEIN LH           N47253900E0163558100                                                                                
+SEUREAENRT   SUBES LH           N47251348E017253238                                                                                 
+SEUREAENRT   SUNOR LH           N46284610E0171749100                                                                                
+SEUREAENRT   TAPIO LH           N47293594E019264596                                                                                 
+SEUREAENRT   TEKNO LH           N47372559E017243207                                                                                 
+SEUREAENRT   TOMMY LH           N46375485E017480747                                                                                 
+SEUREAENRT   TORNO LH           N47322319E018292444                                                                                 
+SEUREAENRT   TPS05 LH           N47403087E019284551                                                                                 
+SEUREAENRT   TPS09 LH           N47222985E019345589                                                                                 
+SEUREAENRT   TPS11 LH           N47401883E019230657                                                                                 
+SEUREAENRT   TPS12 LH           N47373680E019133482                                                                                 
+SEUREAENRT   TPS15 LH           N47213870E019325956                                                                                 
+SEUREAENRT   TPS17 LH           N47193431E019063254                                                                                 
+SEUREAENRT   TPS23 LH           N47160831E018594015                                                                                 
+SEUREAENRT   TPS29 LH           N47361199E019033798                                                                                 
+SEUREAENRT   TSEPE LH           N47273997E019041896                                                                                 
+SEUREAENRT   VAMOG LH           N47471310E017394500                                                                                 
+SEUREAENRT   VEBOS LH           N47182336E018381385                                                                                 
+SEUREAENRT   VERIG LH           N47100294E021430498                                                                                 
+SEUREAENRT   WEBER LH           N46130167E017584439                                                                                 
+SEUREAENRT   WW181 LH           N47575378E016575331                                                                                 
+SEUREAENRT   WW831 LH           N47552617E017075442                                                                                 
+SEUREAENRT   WW836 LH           N47411464E016452778                                                                                 
+SEUREAENRT   WW840 LH           N47500426E017035508                                                                                 
+SEUREAENRT   WW848 LH           N47595430E017111440                                                                                 
+SEUREAENRT   WW888 LH           N47423468E016523600                                                                                 
+SEUREAENRT   WW891 LH           N47395406E016382004                                                                                 
+SEUREAENRT   XEG01 LH           N47203048E019180792                                                                                 
+SEUREAENRT   XEGLI LH           N47093294E019443001                                                                                 
+SEUREAENRT   XOMBA LH           N47452385E018034306                                                                                 
+SEUREAENRT   ZANBI LH           N46260994E017540210                                                                                 
+SEURDB       BKS   LH000374     N46474224E021044099                                                                                 
+SEURDB       HA    LH000329     N47292706E0190857100                                                                                
+SEURDB       HM    LH000420     N47241950E019172628                                                                                 
+SEURDB       R     LH000381     N47250274E019181497                                                                                 
+SEURDB       BUG   LH000430     N46403888E019405626                                                                                 
+SEURDB       DC    LH000295     N47272419E021334690                                                                                 
+SEURDB       C     LH000326     N47283110E021353521                                                                                 
+SEURDB       EN    LH000383     N47315970E021411700                                                                                 
+SEURDB       A     LH000343     N47271817E019123780                                                                                 
+SEURDB       L     LH000357     N47270726E019145156                                                                                 
+SEURDB       M     LH000403     N47252624E019153870                                                                                 
+SEURDB       BL    LH000335     N47292035E019111032                                                                                 
+SEURDB       BR    LH000395     N47223653E019220561                                                                                 
+SEURDB       GYR   LH000354     N47393617E017430451                                                                                 
+SEURDB       JBR   LH000517     N47293753E019534063                                                                                 
+SEURDB       XNB   LH000235     N46231560E017440650                                                                                 
+SEURDB       MNR   LH000288     N47201613E019235917                                                                                 
+SEURDB       NCS   LH000409     N47573912E021314908                                                                                 
+SEURDB       Y     LH000346     N47580517E021413442                                                                                 
+SEURDB       O     LH000422     N47081710E020144200                                                                                 
+SEURDB       OA    LH000282     N47094710E020153600                                                                                 
+SEURDB       AO    LH000282     N47045400E020124200                                                                                 
+SEURDB       PC    LH000481     N47242617E017284308                                                                                 
+SEURDB       CP    LH000481     N47191276E017313107                                                                                 
+SEURDB       C     LH000352     N47204390E017304218                                                                                 
+SEURDB       VR    LH000465     N47100472E017361598                                                                                 
+SEURDB       PP    LH000412     N46002010E018135800                                                                                 
+SEURDB       PTB   LH000386     N47090889E018443413                                                                                 
+SEURDB       SVR   LH000348     N46494741E018070191                                                                                 
+SEURDB       SAG   LH000390     N47594979E020591562                                                                                 
+SEURDB       SME   LH000428     N46395690E017100074                                                                                 
+SEURDB       G     LH000345     N46153811E020052644                                                                                 
+SEURDB       ZG    LH000445     N46173617E020052645                                                                                 
+SEURDB       V     LH000451     N47033970E017584929                                                                                 
+SEURDB       VS    LH000362     N47014845E017594773                                                                                 
+SEURDB       TPS   LH000306     N47293573E019264640                                                                                 
+SEURDB       K     LH000459     N46244681E017544108                                                                                 
+SEURDB       TN    LH000313     N46533173E019483297                                                                                 
+SEURDB       T     LH000440     N46542426E019463374                                                                                 
+SEURDB       NT    LH000313     N46563421E019413846                                                                                 
+SEURDB       N     LH000440     N46554408E019433243                                                                                 
+SEURDB       DU    LH000510     N47183258E019012764                                                                                 
+SEURDB       D     LH000300     N47194609E019000404                                                                                 
+SEURD        BKS   LH011580V    N46475991E021042596                                                                                 
+SEURD        BUD   LH011730V    N47270460E019145733                                                                                 
+SEURD        BUG   LH011340V    N46403954E019405424                                                                                 
+SEURD        GYR   LH011510V    N47393278E017432767                                                                                 
+SEURD        MNR   LH011250V    N47200498E019241965                                                                                 
+SEURD        NYR   LH011610V    N47592825E021413322                                                                                 
+SEURD        PTB   LH011710V    N47090798E018443233                                                                                 
+SEURD        SVR   LH011770V    N46494122E018070405                                                                                 
+SEURD        SAG   LH011440V    N48002870E020594677                                                                                 
+SEURD        TPS   LH011590V    N47293573E019264640                                                                                 
+SEURD        BPL   LH011170 D   N47264183E019154382                                                                                 
+SEURD        FER   LH011050 D   N47265529E019132520                                                                                 
+SEURD        FHL   LH011150 D   N47255591E019144177                                                                                 
+SEURD        BPR   LH010950 D   N47252577E019172665                                                                                 
+SEURD        SMK   LH010875 D   N46414062E017092714                                                                                 
+SEURD        BKS   LH011580 D   N46475991E021042596                                                                                 
+SEURD        BUD   LH011730 D   N47270460E019145733                                                                                 
+SEURD        BUG   LH011340 D   N46403954E019405424                                                                                 
+SEURD        GYR   LH011510 D   N47393238E017432760                                                                                 
+SEURD        MNR   LH011250 D   N47200498E019241965                                                                                 
+SEURD        PTB   LH011710 D   N47090798E018443233                                                                                 
+SEURD        SVR   LH011770 D   N46494122E018070405                                                                                 
+SEURD        SAG   LH011440 D   N48002870E020594677                                                                                 
+SEURD        TPS   LH011590 D   N47293573E019264640                                                                                 
+SEURD        BUD   LH011730 D   N47270460E019145733                                                                                 
+SEURD        MOB   LH011420 D   N46234914E017551014                                                                                 
+SEURER       UL851       0010SUBESLHEA      O                                      24500     66000                                  
+SEURER       UL851       0020BABOXLHEA      O                             0974     24500     66000                                  
+SEURER       UL851       0030DEGETLREA      O                             0696     24500     66000                                  
+SEURER       L617        0110PARAKLHEA      O                             0795     05000     24500                                  
+SEURER       L617        0120BOKSILHEA      O                             0303     05000     24500                                  
+SEURER       L617        0130BABOXLHEA      O                             0168     05000     24500                                  
+SEURER       L617        0140DODARLHEA      O                             0202     05000     24500                                  
+SEURER       L617        0150TPS  LHD       O                             0171     05000     24500                                  
+SEURER       L617        0160PATAKLHEA      O                             0371     05000     24500                                  
+SEURER       Y55         0020OKORALHEA      O                             0552     04000     24500                                  
+SEURER       Y55         0030GITASLHEA      O                             0191     04000     24500                                  
+SEURER       Y55         0040VAMOGLHEA      O                             0486     04000     24500                                  
+SEURER       Y571        0020SOGMOLHEA      O                             0658     04000     24500                                  
+SEURER       Y571        0030SASALLHEA      O                             0640     08000     24500                                  
+SEURER       Y571        0040SNU  LOD       O                             0362     08000     24500                                  
+SEURER       Y586        0020SUNORLHEA      O                             0754     04000     24500                                  
+SEURER       Y586        0030SME  LHD       O                             0124     04000     24500                                  
+SEURER       L851        0010SUBESLHEA      O                                      04000     24500                                  
+SEURER       L851        0020BABOXLHEA      O                             0974     04000     24500                                  
+SEURER       L851        0030DEGETLREA      O                             0696     04000     24500                                  
+SEURER       L620        0010PITOKLHEA      O                                      05500     24500                                  
+SEURER       L620        0020BADORLREA      O                             0831     05500     24500                                  
+SEURER       L605        0120STEINLHEA      O                             0205     05500     24500                                  
+SEURER       L605        0130SIRDULHEA      O                             0315     05000     24500                                  
+SEURER       L605        0140GITASLHEA      O                             0364     05000     24500                                  
+SEURER       L605        0150BUG  LHD       O                             0659     05000     24500                                  
+SEURER       L605        0160BOKSILHEA      O                             0066     05000     24500                                  
+SEURER       L605        0170TEGRILREA      O                             0572     05000     24500                                  
+SEURER       M748        0210EPARILHEA      O                             1178     05000     24500                                  
+SEURER       M748        0220ERGOMLHEA      O                             0123     05000     24500                                  
+SEURER       M748        0230RUTOLLZEA      O                             0127     03600     24500                                  
+SEURER       Z201        0100DEMOPLHEA      O                                      06000     24500                                  
+SEURER       Z201        0110JBR  LHD       O                             0413     06000     24500                                  
+SEURER       B45         0010BALAPLHEA      O                                      04600     24500                                  
+SEURER       B45         0020SLC  LZD       O                             0237     04600     24500                                  
+SEURER       P45         0010BALAPLHEA      O                                      04000     24500                                  
+SEURER       P45         0020TPS  LHD       O                             0354     04000     24500                                  
+SEURER       Y34         0010BALUXLHEA      O                                      04000     24500                                  
+SEURER       Y34         0020DODARLHEA      O                             0179     04000     24500                                  
+SEURER       Y34         0030TORNOLHEA      O                                      04000     24500                                  
+SEURER       Y34         0040XOMBALHEA      O                             0217     04000     24500                                  
+SEURER       Y56         0010BALUXLHEA      O                                      04000     24500                                  
+SEURER       Y56         0020PARAKLHEA      O                             0810     04000     24500                                  
+SEURER       Y56         0060PESATLHEA      O                                      04000     24500                                  
+SEURER       Y56         0070GIGORLHEA      O                             0253     04000     24500                                  
+SEURER       Y56         0080TORNOLHEA      O                             0354     04000     24500                                  
+SEURER       M986        0060ROMKALHEA      O                             0204     05000     24500                                  
+SEURER       M986        0070SAG  LHD       O                             0362     05000     24500                                  
+SEURER       M986        0080KOVEKLHEA      O                             0221     05000     24500                                  
+SEURER       M986        0090NORAHLHEA      O                             0313     05000     24500                                  
+SEURER       M986        0100TPS  LHD       O                             0164     05000     24500                                  
+SEURER       M986        0110BALUXLHEA      O                             0158     05000     24500                                  
+SEURER       M986        0120PUSTALHEA      O                             0194     05000     24500                                  
+SEURER       M986        0130SVR  LHD       O                             0321     05000     24500                                  
+SEURER       M986        0140SOGMOLHEA      O                             0222     05000     24500                                  
+SEURER       M986        0150KOPRYLDEA      O                             0372     05000     28500                                  
+SEURER       Y34-Y       0010BALUXLHEA      O                                      04000     24500                                  
+SEURER       Y34-Y       0020TORNOLHEA      O                             0286     04000     24500                                  
+SEURER       Y43         0020SOGMOLHEA      O                             0643     04000     24500                                  
+SEURER       Y43         0030TONDOLYEA      O                             0771     04000     24500                                  
+SEURER       L619        0190KARILLHEA      O                             0431     05000     24500                                  
+SEURER       L619        0200KENINLZEA      O                             0398     05000     24500                                  
+SEURER       Q571        0010BUG  LHD       RH                                     04000     09500                                  
+SEURER       Q571        0020BAREBLDEA      RH                            0768     04000     09500                                  
+SEURER       Q570        0030SVR  LHD       RH                            0661     04000     09500                                  
+SEURER       M859        0200NIKABLHEA      O                             0464     04000     24500                                  
+SEURER       M859        0210SOGMOLHEA      O                             0057     04000     24500                                  
+SEURER       Z200        0110DEMOPLHEA      O                                      06000     24500                                  
+SEURER       Z200        0120TPS  LHD       O                             0477     06000     24500                                  
+SEURER       M749        0050GESGILHEA      O                             0171     05000     24500                                  
+SEURER       M749        0060BEGLALHEA      O                             0085     05000     24500                                  
+SEURER       M749        0070TEKNOLHEA      O                             0172     04000     24500                                  
+SEURER       M749        0080TONDOLYEA      O                             1239     08100     28500                                  
+SEURER       L850        0010BEGLALHEA      O                                      04000     24500                                  
+SEURER       L850        0020GYR  LHD       O                             0267     04000     24500                                  
+SEURER       L850        0030DODARLHEA      O                             0779     04000     24500                                  
+SEURER       L850        0040BUDOPLREA      O                             0867     04000     24500                                  
+SEURER       N127        0150KARILLHEA      O                             0471     10500     24500                                  
+SEURER       M173        0050SAG  LHD       O                             0331     04000     24500                                  
+SEURER       M173        0060PARAKLHEA      O                             1167     04000     24500                                  
+SEURER       M173-       0030PARAKLHEA      O                             0449     07100     28500                                  
+SEURER       L602        0040NORAHLHEA      O                             0887     04000     24500                                  
+SEURER       L602        0050PATAKLHEA      O                             0388     05000     24500                                  
+SEURER       L610        0310SUBESLHEA      O                             1145     04000     24500                                  
+SEURER       Y444        0040KARILLHEA      O                                      05000     24500                                  
+SEURER       Y444        0050PITOKLHEA      O                             0890     05000     24500                                  
+SEURER       Y53         0020NIKABLHEA      O                             0332     04000     24500                                  
+SEURER       Y53         0030VEBOSLHEA      O                             0609     04000     24500                                  
+SEURER       Y573        0010MAVIRLHEA      O                                      04000     24500                                  
+SEURER       Y573        0020VEBALLDEA      O                             1079     04000     24500                                  
+SEURER       Y50         0060TEKNOLHEA      O                                      04000     24500                                  
+SEURER       Y50         0070TORNOLHEA      O                             0441     04000     24500                                  
+SEURER       UL602       0180NORAHLHEA      O                             0887     24500     66000                                  
+SEURER       UL602       0190PATAKLHEA      O                             0388     24500     66000                                  
+SEURER       UL602       0200LALESLKEA      O                             0738     24500     66000                                  
+SEURER       L616        0130KEROPLHEA      O                             0561     10100     28500                                  
+SEURER       L616        0140PUSTALHEA      O                             0702     04000     24500                                  
+SEURER       M174        0060STEINLHEA      O                             0297     05500     24500                                  
+SEURER       Y582        0020NALOXLHEA      O                             0198     04000     24500                                  
+SEURER       Q108        0020EVAXILHEA      RH                            0170     06000     66000                                  
+SEURER       Q108        0030DIVALLOEA      RH                            0415     06000     66000                                  
+SEURER       Y54         0020SASALLHEA      O                             0214     05500     24500                                  
+SEURER       Y54         0030OLATILHEA      O                             0448     04000     24500                                  
+SEURER       Y54         0040SVR  LHD       O                             0279     04000     24500                                  
+SEURER       L606        0020SOGMOLHEA      O                             0634     04000     24500                                  
+SEURER       L606        0030MAVIRLHEA      O                             0894     04000     24500                                  
+SEURER       L606        0040MOPUGLREA      O                             0393     03500     24500                                  
+SEURER       L196        0010SOGMOLHEA      O                                      04000     24500                                  
+SEURER       L196        0020VEBALLDEA      O                             0404     04000     24500                                  
+SEURER       L624        0010KARILLHEA      O                                      10500     24500                                  
+SEURER       L624        0020ESATULREA      O                             0323     10500     24500                                  
+SEURER       Y554        0010EBOROLHEA      O                                      04000     24500                                  
+SEURER       Y554        0020PARAKLHEA      O                             0211     04000     24500                                  
+SEURER       Q350        0010ERGOMLHEA      RH                                     03600     24500                                  
+SEURER       Q350        0020TABINLZEA      RH                            0289     03600     24500                                  
+SEURER       Y557        0010ERLOSLHEA      O                                      04000     24500                                  
+SEURER       Y557        0020MAVIRLHEA      O                             0461     04000     24500                                  
+SEURER       R232        0120KARILLHEA      O                             0636     05000     24500                                  
+SEURER       Q110        0010KUNETLHEA      RH                                     05000     24500                                  
+SEURER       Q110        0020MIRLULHEA      RH                            0075     05000     66000                                  
+SEURER       Q110        0030GESGILHEA      RH                            0076     05000     66000                                  
+SEURER       Q110        0040SNU  LOD       RH                            0269     05000     66000                                  
+SEURER       Y52         0020SIRDULHEA      O                             0406     04000     24500                                  
+SEURER       Y52         0030TORNOLHEA      O                             0501     04000     24500                                  
+SEURER       Y570        0030SVR  LHD       O                             0783     04000     24500                                  
+SEURER       Y570        0040OKORALHEA      O                             0111     04000     24500                                  
+SEURER       Y570        0050MAVIRLHEA      O                             0639     04000     24500                                  
+SEURER       Y570        0060TEGRILREA      O                             0537     04000     24500                                  
+SEURER       Y580        0020NALOXLHEA      O                             0256     04000     24500                                  
+SEURER       Y58         0020OLATILHEA      O                             0514     04000     24500                                  
+SEURER       Y58         0030VEBOSLHEA      O                             0510     04000     24500                                  
+SEURER       Z210        0010PIDONLHEA      O                                      04000     24500                                  
+SEURER       Z210        0020GOTARLOEA      O                             0925     04000     24500                                  
+SEURER       Q575        0010GYR  LHD       RH                                     04000     09500                                  
+SEURER       Q575        0020SOPROLHEA      RH                            0376     04000     09500                                  
+SEURER       Q572        0010SVR  LHD       RH                                     04000     09500                                  
+SEURER       Q572        0020GYR  LHD       RH                            0524     04000     09500                                  
+SEURER       Q572        0030VAMOGLHEA      RH                            0081     04000     09500                                  
+SEURER       Q572        0040JAN  LZD       RH                            0240     03600     08500                                  
+SEURER       Y57         0010JBR  LHD       O                                      04000     24500                                  
+SEURER       Y57         0020KOVEKLHEA      O                             0324     04000     24500                                  
+SEURER       Y666        0010KARILLHEA      O                                      06000     24500                                  
+SEURER       Y666        0020SAG  LHD       O                             0596     06000     24500                                  
+SEURER       P192        0010KEROPLHEA      O                                      07100     28500                                  
+SEURER       P192        0020TISAKLYEA      O                             0509     07100     28500                                  
+SEURER       Y572        0020MAVIRLHEA      O                             1191     05000     24500                                  
+SEURER       Y583        0020SUNORLHEA      O                             0200     04000     24500                                  
+SEURER       N95         0010KOVEKLHEA      O                                      05500     24500                                  
+SEURER       N95         0020NARKALREA      O                             0657     05500     24500                                  
+SEURER       L853        0020LITKULHEA      O                             0168     15000     24500                                  
+SEURER       L853        0030TPS  LHD       O                             0447     04000     24500                                  
+SEURER       Y587        0010SME  LHD       O                                      04000     24500                                  
+SEURER       Y587        0020NALOXLHEA      O                             0188     04000     24500                                  
+SEURER       Y587        0030SUNISLOEA      O                             0253     04000     24500                                  
+SEURER       Y585        0010NALOXLHEA      O                                      04000     24500                                  
+SEURER       Y585        0020STEINLHEA      O                             0347     04000     24500                                  
+SEURER       Y33         0020NORAHLHEA      O                             0862     04000     24500                                  
+SEURER       L867        0020PITOKLHEA      O                             0882     05500     24500                                  
+SEURER       Y555        0010PARAKLHEA      O                                      04000     24500                                  
+SEURER       Y555        0020ROMKALHEA      O                             1426     04000     24500                                  
+SEURER       Y563        0010PUSTALHEA      O                                      04000     24500                                  
+SEURER       Y563        0020SUNISLOEA      O                             0977     04000     24500                                  
+SEURER       Y552        0010PUSTALHEA      O                                      04000     24500                                  
+SEURER       Y552        0020VEBALLDEA      O                             0917     04000     24500                                  
+SEURER       Q574        0010SOPROLHEA      RH                                     04000     09500                                  
+SEURER       Q574        0020SVR  LHD       RH                            0704     04000     09500                                  
+SEURER       Y581        0010SUNORLHEA      O                                      04000     24500                                  
+SEURER       Y581        0020SVR  LHD       O                             0398     04000     24500                                  
+SEURER       Q573        0010SVR  LHD       RH                                     04000     09500                                  
+SEURER       Q573        0020XOMBALHEA      RH                            0558     04000     09500                                  
+SEURER       Q573        0030TABINLZEA      RH                            0156     03600     08500                                  
+SEURER       UL617       0120PARAKLHEA      O                             0795     24500     66000                                  
+SEURER       UL617       0130BOKSILHEA      O                             0303     24500     66000                                  
+SEURER       UL617       0140BABOXLHEA      O                             0168     24500     66000                                  
+SEURER       UL617       0150DODARLHEA      O                             0202     24500     66000                                  
+SEURER       UL617       0160TPS  LHD       O                             0171     24500     66000                                  
+SEURER       UL617       0170PATAKLHEA      O                             0371     24500     66000                                  
+SEURER       UL617       0180OTA23LKEA      O                             0825     24500     66000                                  
+SEURER       UM406       0100KARILLHEA      O                             0300     24500     66000                                  
+SEURER       UY55        0020OKORALHEA      O                             0552     24500     66000                                  
+SEURER       UY55        0030GITASLHEA      O                             0191     24500     66000                                  
+SEURER       UY55        0040VAMOGLHEA      O                             0486     24500     66000                                  
+SEURER       UY571       0020SOGMOLHEA      O                             0658     24500     66000                                  
+SEURER       UY571       0030SASALLHEA      O                             0640     24500     66000                                  
+SEURER       UY571       0040SNU  LOD       O                             0362     24500     66000                                  
+SEURER       UZ201       0040DEMOPLHEA      O                             0324     24500     66000                                  
+SEURER       UZ201       0050JBR  LHD       O                             0413     24500     66000                                  
+SEURER       UL620       0370PITOKLHEA      O                             0705     24500     66000                                  
+SEURER       UL620       0380BADORLREA      O                             0831     24500     66000                                  
+SEURER       UL605       0130STEINLHEA      O                             0205     24500     60000                                  
+SEURER       UL605       0140SIRDULHEA      O                             0315     24500     66000                                  
+SEURER       UL605       0150GITASLHEA      O                             0364     24500     66000                                  
+SEURER       UL605       0160BUG  LHD       O                             0659     24500     66000                                  
+SEURER       UL605       0170BOKSILHEA      O                             0066     24500     66000                                  
+SEURER       UL605       0180TEGRILREA      O                             0572     24500     66000                                  
+SEURER       UL867       0120PITOKLHEA      O                             0882     24500     66000                                  
+SEURER       UL867       0130TEPNILZEA      O                             0304     24500     66000                                  
+SEURER       UP45        0010TPS  LHD       O                                      24500     66000                                  
+SEURER       UP45        0020BALAPLHEA      O                             0354     24500     66000                                  
+SEURER       UP45        0030SLC  LZD       O                             0237     24500     66000                                  
+SEURER       UL619       0200KARILLHEA      O                             0431     24500     66000                                  
+SEURER       UL619       0210KENINLZEA      O                             0398     24500     66000                                  
+SEURER       UY34        0010BALUXLHEA      O                                      24500     66000                                  
+SEURER       UY34        0020DODARLHEA      O                             0179     24500     66000                                  
+SEURER       UY34        0030TORNOLHEA      O                                      24500     66000                                  
+SEURER       UY34        0040XOMBALHEA      O                             0217     24500     66000                                  
+SEURER       UY56        0010BALUXLHEA      O                                      24500     66000                                  
+SEURER       UY56        0020PARAKLHEA      O                             0810     24500     66000                                  
+SEURER       UY56        0030PESATLHEA      O                                      24500     66000                                  
+SEURER       UY56        0040GIGORLHEA      O                             0253     24500     66000                                  
+SEURER       UY56        0050TORNOLHEA      O                             0354     24500     66000                                  
+SEURER       UM986       0120SOGMOLHEA      O                             0372     24500     46000                                  
+SEURER       UM986       0130SVR  LHD       O                             0222     24500     66000                                  
+SEURER       UM986       0140PUSTALHEA      O                             0321     24500     66000                                  
+SEURER       UM986       0150BALUXLHEA      O                             0194     24500     66000                                  
+SEURER       UM986       0160TPS  LHD       O                             0158     24500     66000                                  
+SEURER       UM986       0170NORAHLHEA      O                             0164     24500     66000                                  
+SEURER       UM986       0180KOVEKLHEA      O                             0313     24500     66000                                  
+SEURER       UM986       0190SAG  LHD       O                             0221     24500     66000                                  
+SEURER       UM986       0200ROMKALHEA      O                             0362     24500     66000                                  
+SEURER       UM986       0210LONLAUKEA      O                             0204     24500     66000                                  
+SEURER       UY34-       0010BALUXLHEA      O                                      24500     66000                                  
+SEURER       UY34-       0020TORNOLHEA      O                             0286     24500     66000                                  
+SEURER       UL850       0050BEGLALHEA      O                             0427     24500     66000                                  
+SEURER       UL850       0060GYR  LHD       O                             0267     24500     66000                                  
+SEURER       UL850       0070DODARLHEA      O                             0779     24500     66000                                  
+SEURER       UL850       0080BUDOPLREA      O                             0867     24500     66000                                  
+SEURER       UM859       0190NIKABLHEA      O                             0464     24500     66000                                  
+SEURER       UM859       0200SOGMOLHEA      O                             0057     24500     66000                                  
+SEURER       UL610       0270SUBESLHEA      O                             1145     24500     66000                                  
+SEURER       UZ200       0020DEMOPLHEA      O                             0923     24500     66000                                  
+SEURER       UZ200       0030TPS  LHD       O                             0477     24500     66000                                  
+SEURER       UM749       0020GESGILHEA      O                             0171     24500     60000                                  
+SEURER       UM749       0030BEGLALHEA      O                             0085     24500     60000                                  
+SEURER       UM749       0040TEKNOLHEA      O                             0172     24500     66000                                  
+SEURER       UM749       0050TONDOLYEA      O                             1239     28500     60000                                  
+SEURER       UN127       0150KARILLHEA      O                                      24500     66000                                  
+SEURER       UN127       0160RILASLREA      O                             0287     24500     66000                                  
+SEURER       UM173       0060SAG  LHD       O                             0331     24500     66000                                  
+SEURER       UM173       0070PARAKLHEA      O                             1167     24500     66000                                  
+SEURER       UM173       0030PARAKLHEA      O                             0449     28500     60000                                  
+SEURER       UM748       0190ERGOMLHEA      O                             0127     24500     66000                                  
+SEURER       UM748       0200EPARILHEA      O                             0123     24500     66000                                  
+SEURER       UM748       0210DEGETLREA      O                             1178     24500     66000                                  
+SEURER       UY444       0080KARILLHEA      O                                      24500     66000                                  
+SEURER       UY444       0090PITOKLHEA      O                             0890     24500     66000                                  
+SEURER       UY50        0060TEKNOLHEA      O                                      24500     66000                                  
+SEURER       UY50        0070TORNOLHEA      O                             0441     24500     66000                                  
+SEURER       UL616       0170KEROPLHEA      O                             0561     28500     66000                                  
+SEURER       UL616       0180PUSTALHEA      O                             0702     24500     66000                                  
+SEURER       UM174       0060STEINLHEA      O                             0297     24500     60000                                  
+SEURER       UY54        0020SASALLHEA      O                             0214     24500     66000                                  
+SEURER       UY54        0030OLATILHEA      O                             0448     24500     66000                                  
+SEURER       UY54        0040SVR  LHD       O                             0279     24500     66000                                  
+SEURER       UL606       0060SOGMOLHEA      O                             0634     24500     66000                                  
+SEURER       UL606       0070MAVIRLHEA      O                             0894     24500     66000                                  
+SEURER       UL606       0080MOPUGLREA      O                             0393     24500     66000                                  
+SEURER       UL196       0010SOGMOLHEA      O                                      24500     66000                                  
+SEURER       UL196       0020VEBALLDEA      O                             0404     24500     66000                                  
+SEURER       UY554       0010EBOROLHEA      O                                      24500     66000                                  
+SEURER       UY554       0020PARAKLHEA      O                             0211     24500     66000                                  
+SEURER       UY33        0010EPARILHEA      O                                      24500     66000                                  
+SEURER       UY33        0020NORAHLHEA      O                             0338     24500     66000                                  
+SEURER       UY33        0030NARKALREA      O                             0862     24500     66000                                  
+SEURER       UZ650       0080LITKULHEA      O                             1036     24500     66000                                  
+SEURER       UY557       0010ERLOSLHEA      O                                      24500     66000                                  
+SEURER       UY557       0020MAVIRLHEA      O                             0461     24500     66000                                  
+SEURER       UL624       0010KARILLHEA      O                                      24500     66000                                  
+SEURER       UL624       0020ESATULREA      O                             0323     24500     66000                                  
+SEURER       UY30        0050LITKULHEA      O                                      24500     66000                                  
+SEURER       UY30        0060NIT  LZD       O                             0620     24500     66000                                  
+SEURER       UY570       0030SVR  LHD       O                             0783     24500     66000                                  
+SEURER       UY570       0040OKORALHEA      O                             0111     24500     66000                                  
+SEURER       UY570       0050MAVIRLHEA      O                             0639     24500     66000                                  
+SEURER       UY570       0060TEGRILREA      O                             0537     24500     66000                                  
+SEURER       UY58        0020OLATILHEA      O                             0514     24500     66000                                  
+SEURER       UY58        0030VEBOSLHEA      O                             0510     24500     66000                                  
+SEURER       UZ210       0020PIDONLHEA      O                             0925     24500     66000                                  
+SEURER       UY43        0020SOGMOLHEA      O                             0643     24500     66000                                  
+SEURER       UY43        0030TONDOLYEA      O                             0771     24500     66000                                  
+SEURER       UY57        0010JBR  LHD       O                                      24500     66000                                  
+SEURER       UY57        0020KOVEKLHEA      O                             0324     24500     66000                                  
+SEURER       UR232       0010KARILLHEA      O                                      24500     66000                                  
+SEURER       UR232       0020KEKEDLZEA      O                             0636     24500     66000                                  
+SEURER       UY666       0010KARILLHEA      O                                      24500     66000                                  
+SEURER       UY666       0020SAG  LHD       O                             0596     24500     66000                                  
+SEURER       UP192       0010KEROPLHEA      O                                      28500     60000                                  
+SEURER       UP192       0020TISAKLYEA      O                             0509     28500     60000                                  
+SEURER       UY572       0020MAVIRLHEA      O                             1191     24500     66000                                  
+SEURER       UY53        0020NIKABLHEA      O                             0332     24500     66000                                  
+SEURER       UY53        0030VEBOSLHEA      O                             0609     24500     66000                                  
+SEURER       UN95        0010KOVEKLHEA      O                                      24500     66000                                  
+SEURER       UN95        0020NARKALREA      O                             0657     24500     66000                                  
+SEURER       UN95        0030LITKULHEA      O                                      24500     66000                                  
+SEURER       UN95        0040SLC  LZD       O                             0235     24500     66000                                  
+SEURER       UL853       0020LITKULHEA      O                             0168     24500     66000                                  
+SEURER       UL853       0030TPS  LHD       O                             0447     24500     66000                                  
+SEURER       UY573       0010MAVIRLHEA      O                                      24500     66000                                  
+SEURER       UY573       0020VEBALLDEA      O                             1079     24500     66000                                  
+SEURER       UY300       0020PATAKLHEA      O                             0450     24500     66000                                  
+SEURER       UY555       0010PARAKLHEA      O                                      24500     66000                                  
+SEURER       UY555       0020ROMKALHEA      O                             1426     24500     66000                                  
+SEURER       UY563       0010PUSTALHEA      O                                      24500     66000                                  
+SEURER       UY563       0020SUNISLOEA      O                             0977     24500     66000                                  
+SEURER       UY552       0010PUSTALHEA      O                                      24500     66000                                  
+SEURER       UY552       0020VEBALLDEA      O                             0917     24500     66000                                  
+SEURER       UY52        0020SIRDULHEA      O                             0406     24500     66000                                  
+SEURER       UY52        0030TORNOLHEA      O                             0501     24500     66000                                  

@@ -1,0 +1,97 @@
+SEUREAENRT   31BSA LL           N31062426E035171162                                                                                 
+SEUREAENRT   BG006 LL           N32010132E034513347                                                                                 
+SEUREAENRT   BG025 LL           N32020128E034493854                                                                                 
+SEUREAENRT   BGN03 LL           N32003771E034485943                                                                                 
+SEUREAENRT   BGN07 LL           N32010162E034441714                                                                                 
+SEUREAENRT   BGN15 LL           N32012388E034505424                                                                                 
+SEUREAENRT   BGN21 LL           N31591701E034523083                                                                                 
+SEUREAENRT   BGN25 LL           N32001517E034500021                                                                                 
+SEUREAENRT   BGN32 LL           N32082598E034465381                                                                                 
+SEUREAENRT   BGN70 LL           N32000951E034441886                                                                                 
+SEUREAENRT   BIRIM LL           N31513819E034580684                                                                                 
+SEUREAENRT   BOGER LL           N30555714E034555685                                                                                 
+SEUREAENRT   DESHE LL           N32510225E035323288                                                                                 
+SEUREAENRT   GALIM LL           N32495624E034575883                                                                                 
+SEUREAENRT   GEVES LL           N30265812E034562086                                                                                 
+SEUREAENRT   GILAD LL           N31285317E034510984                                                                                 
+SEUREAENRT   IZHAR LL           N32045520E034534183                                                                                 
+SEUREAENRT   KANER LL           N32123021E034554183                                                                                 
+SEUREAENRT   KINAR LL           N30563815E035210489                                                                                 
+SEUREAENRT   MALKA LL           N31403318E034590185                                                                                 
+SEUREAENRT   MEGID LL           N32351723E035150186                                                                                 
+SEUREAENRT   NAT04 LL           N32180597E034535254                                                                                 
+SEUREAENRT   NOAAM LL           N32065620E034535883                                                                                 
+SEUREAENRT   NURIT LL           N30040210E035040687                                                                                 
+SEUREAENRT   R2162 LL           N32005287E034515704                                                                                 
+SEUREAENRT   SAMAR LL           N29491410E035010687                                                                                 
+SEUREAENRT   SUKOT LL           N31042015E035215089                                                                                 
+SEURDB       HFA   LL000323     N32485624E035034884                                                                                 
+SEURDB       HRZ   LL000273     N32104421E034493683                                                                                 
+SEURDB       OVD   LL000353     N29563110E034555900                                                                                 
+SEURDB       RPN   LL000243     N32580010E035332400                                                                                 
+SEURDB       TAV   LL000348     N32063420E034465182                                                                                 
+SEURDB       LL    LL000331     N32034520E034461482                                                                                 
+SEURD        BSA   LL011430V    N31171016E034431683                                                                                 
+SEURD        BGN   LL011350V    N32004720E034523083                                                                                 
+SEURD        MZD   LL011500V    N31195017E035232588                                                                                 
+SEURD        NAT   LL011240V    N32195522E034580484                                                                                 
+SEURD        OVD   LL011410V    N29580000E0345649100                                                                                
+SEURD        ROP   LL011530V    N32585726E035342188                                                                                 
+SEURD        ZFR   LL011560V    N30332910E0350939100                                                                                
+SEURD        BG    LL011030 D   N32004299E034520679                                                                                 
+SEURD        BGN   LL011350 D   N32004720E034523083                                                                                 
+SEURD        MZD   LL011500 D   N31195017E035232588                                                                                 
+SEURD        NAT   LL011240 D   N32195522E034580484                                                                                 
+SEURD        OVD   LL011410 D   N29580000E0345649100                                                                                
+SEURD        ROP   LL011530 D   N32585726E035342188                                                                                 
+SEURD        ZFR   LL011560 D   N30332910E0350939100                                                                                
+SEURER       J12         0010SUKOTLLEA      OH                                     05000     19000                                  
+SEURER       J12         002031BSALLEA      OH                            0045     05000     19000                                  
+SEURER       J12         0030BSA  LLD       OH                            0310     05000     19000                                  
+SEURER       J12         0040SHIRA  EA      OH                            0367     05000     19000                                  
+SEURER       H1          0010BGN  LLD       O                                      05000     08000                                  
+SEURER       H1          0020DEENA  EA      O                             0120     05000     08000                                  
+SEURER       J11         0010BGN  LLD       OH                                     04000     06000                                  
+SEURER       J11         0020KANERLLEA      OH                            0120     04000     06000                                  
+SEURER       J11         0030NAT  LLD       OH                            0077     04000     06000                                  
+SEURER       J10         0010BGN  LLD       OH                                     06000     09000                                  
+SEURER       J10         0020LORIMLVEA      OH                            0150     06000     09000                                  
+SEURER       J10         0110SAMARLLEA      OH                            0130     02000     19000                                  
+SEURER       J10         0120NURITLLEA      OH                            0150     05000     19000                                  
+SEURER       J10         0130ZFR  LLD       OH                            0299     05000     19000                                  
+SEURER       J10         0140KINARLLEA      OH                            0251     06000     19000                                  
+SEURER       J10         0150SUKOTLLEA      OH                            0077     06000     19000                                  
+SEURER       J10         0160MZD  LLD       OH                            0156     05000     19000                                  
+SEURER       J17         0010BGN  LLD       OH                                     07000     08000                                  
+SEURER       J17         0020SALAMLVEA      OH                            0330     07000     08000                                  
+SEURER       H2          0010BGN  LLD       O                                      05000     07000                                  
+SEURER       H2          0020SIRON  EA      O                             0160     05000     07000                                  
+SEURER       J31         0020NOAAMLLEA      OH                            0151     13000     13000                                  
+SEURER       J31         0030TAGELLVEA      OH                            0137     13000     13000                                  
+SEURER       H4A         0020GALIMLLEA      O                             0239     05000     10000                                  
+SEURER       J14         0010ROP  LLD       OH                                     02000     05000                                  
+SEURER       J14         0020DESHELLEA      OH                            0081     05000     06000                                  
+SEURER       J14         0030MEGIDLLEA      OH                            0216     05000     06000                                  
+SEURER       J14         0040NAT  LLD       OH                            0210     05000     06000                                  
+SEURER       J10F        0040MZD  LLD       OH                            0160     05000     09000                                  
+SEURER       H4B         0010GALIMLLEA      O                                      05000     10000                                  
+SEURER       H4B         0020TAMMI  EA      O                             0207     05000     10000                                  
+SEURER       H14         0020NAT  LLD       O                             0345     05000     10000                                  
+SEURER       J10D        0010MZD  LLD       OH                                     06000     19000                                  
+SEURER       J10D        0020ZFR  LLD       OH                            0478     06000     19000                                  
+SEURER       H11         0010NAT  LLD       O                                      05000     19000                                  
+SEURER       H11         0020SOLIN  EA      O                             0416     05000     19000                                  
+SEURER       UJ12        0010KINARLLEA      O                                      20000     41000                                  
+SEURER       UJ12        002031BSALLEA      O                             0103     20000     41000                                  
+SEURER       UJ12        0030BSA  LLD       O                             0310     20000     41000                                  
+SEURER       UJ12        0040TIBBI  EA      O                             0481     20000     41000                                  
+SEURER       UJ10        0010BGN  LLD       O                                      20000     41000                                  
+SEURER       UJ10        0020TALMILVEA      O                             0340     20000     41000                                  
+SEURER       UJ10        0040MZD  LLD       O                             0228     20000     41000                                  
+SEURER       UJ10        0050KINARLLEA      O                             0233     20000     41000                                  
+SEURER       UJ10        0060ZFR  LLD       O                             0251     20000     41000                                  
+SEURER       UJ10        0070LOT  OJD       O                             0579     20000     41000                                  
+SEURER       UH1         0010BGN  LLD       O                                      20000     41000                                  
+SEURER       UH1         0020TIBBI  EA      O                             0249     20000     41000                                  
+SEURER       UH11        0010NAT  LLD       O                                      20000     41000                                  
+SEURER       UH11        0020SOLIN  EA      O                             0416     20000     41000                                  

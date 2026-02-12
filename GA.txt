@@ -1,0 +1,91 @@
+SAFREAENRT   BUNDO              S01503400E0102111100                                                                                
+SAFREAENRT   DIMLA              S02140310E0135103100                                                                                
+SAFREAENRT   EBTOL              S00440800E0095743100                                                                                
+SAFREAENRT   EMTIP              N00291710E012413500                                                                                 
+SAFREAENRT   GAKAL              S00213300E0102622100                                                                                
+SAFREAENRT   IKTUS              S02052210E013135000                                                                                 
+SAFREAENRT   IPETO              S02360000E010104400                                                                                 
+SAFREAENRT   KOPOV              S00432310E010532500                                                                                 
+SAFREAENRT   LITAT              S00485000E0125339100                                                                                
+SAFREAENRT   MISTI              N00434100E011530800                                                                                 
+SAFREAENRT   MISVA              S00453200E0095433100                                                                                
+SAFREAENRT   NULOS              S01153410E0090911100                                                                                
+SAFREAENRT   ONASA              S03433500E0110736100                                                                                
+SAFREAENRT   PONOT              S01053500E011205200                                                                                 
+SAFREAENRT   TAPIL              S01475700E010270900                                                                                 
+SAFREAENRT   TASIN              S03371300E011182800                                                                                 
+SAFREAENRT   UBOLI              S03455610E011042300                                                                                 
+SAFRDB       IM      000264     N02050066E011285636                                                                                 
+SAFRDB       FRV     000295     S01361230E013235730                                                                                 
+SAFRDB       FRA     000276     S01381250E013252490                                                                                 
+SAFRDB       KL      000386     S01101084E012255461                                                                                 
+SAFRDB       LB      000310     S00424339E010135129                                                                                 
+SAFRDB       LV      000350     S00495835E012445643                                                                                 
+SAFRDB       LN      000305     N00320870E009222950                                                                                 
+SAFRDB       KO      000271     N00345077E012532253                                                                                 
+SAFRDB       MED     000392     N01000103E010445632                                                                                 
+SAFRDB       IC      000316     N00470110E011325636                                                                                 
+SAFRDB       ND      000402     S01314812E013160146                                                                                 
+SAFRDB       ML      000263     S01465253E011024453                                                                                 
+SAFRDB       OJ      000281     S00415840E013465649                                                                                 
+SAFRDB       OY      000353     N01321510E011343550                                                                                 
+SAFRDB       TC      000376     S02531710E010571900                                                                                 
+SAFRD        FRV     011610V    S01391110E013263810                                                                                 
+SAFRD        LR      011270V    S00422839E010142529                                                                                 
+SAFRD        LV      011210V    N00284740E009240710                                                                                 
+SAFRD        OE      011300V    N01320850E011343250                                                                                 
+SAFRD        TB      011750V    S02525630E010571030                                                                                 
+SAFRD        LB      010950 D   N00280541E009242004                                                                                 
+SAFRD        FRV     011610 D   S01391110E013263810                                                                                 
+SAFRD        LV      011210 D   N00284740E009240710                                                                                 
+SAFRD        OE      011300 D   N01320850E011343250                                                                                 
+SAFRER       B600F       0160LV     D       O                             0922     05500     24500                                  
+SAFRER       G857G       0050LV     D       O                             0688     07500     24500                                  
+SAFRER       G857G       0060TEMKI  EA      O                             0432     03500     24500                                  
+SAFRER       R526G       0030ONASA  EA      O                             0153     06500     24500                                  
+SAFRER       R526G       0040BUNDO  EA      O                             1222     06500     24500                                  
+SAFRER       R526G       0050MISVA  EA      O                             0703     06500     24500                                  
+SAFRER       R526G       0060LV     D       O                             0804     06500     24500                                  
+SAFRER       G856F       0040LV     D       O                                      06500     24500                                  
+SAFRER       G856F       0050GAKAL  EA      O                             0801     06500     24500                                  
+SAFRER       G856F       0060PONOT  EA      O                             0701     06500     24500                                  
+SAFRER       G856F       0070VOSALFCEA      O                             1311     09500     24500                                  
+SAFRER       A604F       0030DIMLA  EA      O                             0703     06500     24500                                  
+SAFRER       A604F       0040FRV    D       O                             0426     06500     24500                                  
+SAFRER       A604F       0050LITAT  EA      O                             0602     07500     24500                                  
+SAFRER       A604F       0060MISTI  EA      O                             1106     07500     24500                                  
+SAFRER       A604F       0070GUPAM  EA      O                             0959     07500     24500                                  
+SAFRER       R987F       0040LV     D       O                                      06500     24500                                  
+SAFRER       R987F       0050EBTOL  EA      O                             0804     06500     24500                                  
+SAFRER       R987F       0060TAPIL  EA      O                             0703     06500     24500                                  
+SAFRER       R987F       0070TB     D       O                             0716     06500     24500                                  
+SAFRER       R987F       0080TASIN  EA      O                             0492     06500     24500                                  
+SAFRER       B732G       0030UBOLI  EA      O                             0149     06500     24500                                  
+SAFRER       B732G       0040NULOS  EA      O                                      06500     24500                                  
+SAFRER       B732G       0050PG     D       O                             0401     06500     24500                                  
+SAFRER       R988G       0010FRV    D       O                                      06500     24500                                  
+SAFRER       R988G       0020IKTUS  EA      O                             0292     06500     24500                                  
+SAFRER       A616        0010LV     D       O                                      05500     24500                                  
+SAFRER       A616        0020KOPUB  EA      O                             0792     05500     24500                                  
+SAFRER       UA604       0060MISTI  EA      O                             1263     24500     46000                                  
+SAFRER       UG857       0010LV     D       O                                      24500     46000                                  
+SAFRER       UG857       0020BT     D       O                             0889     24500     46000                                  
+SAFRER       UR526       0010BUNDO  EA      O                                      24500     46000                                  
+SAFRER       UR526       0020ENINAFCEA      O                             1375     24500     46000                                  
+SAFRER       UR526       0010BUNDO  EA      O                                      24500     46000                                  
+SAFRER       UR526       0020LV     D       O                             1507     24500     46000                                  
+SAFRER       UB600       0100LV     D       O                             1222     24500     46000                                  
+SAFRER       UA604       0020DIMLA  EA      O                             1475     24500     46000                                  
+SAFRER       UA604       0030FRV    D       O                             0426     24500     46000                                  
+SAFRER       UA604       0040MISTI  EA      O                             1709     24500     46000                                  
+SAFRER       UG856       0030KOPOV  EA      O                             1664     24500     46000                                  
+SAFRER       UG856       0040LV     D       O                             1149     24500     46000                                  
+SAFRER       UR987       0040TAPIL  EA      O                                      24500     46000                                  
+SAFRER       UR987       0050TB     D       O                             0716     24500     46000                                  
+SAFRER       UR986       0010FRV    D       O                                      24500     46000                                  
+SAFRER       UR986       0020EMTIP  EA      O                             1362     24500     46000                                  
+SAFRER       UR986       0030TAPEK  EA      O                             1345     24500     46000                                  
+SAFRER       UR988       0010FRV    D       O                                      24500     46000                                  
+SAFRER       UR988       0020VOSALFCEA      O                             0542     24500     46000                                  
+SAFRER       UR987       0060LV     D       O                                      24500     46000                                  
+SAFRER       UR987       0070TAPIL  EA      O                             1507     24500     46000                                  

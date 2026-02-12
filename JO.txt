@@ -1,0 +1,100 @@
+SMESEAENRT   AMMIT OJ           N31322618E035255889                                                                                 
+SMESEAENRT   AMN03 OJ           N32013170E036070914                                                                                 
+SMESEAENRT   AMN10 OJ           N31555730E035531957                                                                                 
+SMESEAENRT   AMN15 OJ           N31534828E035480095                                                                                 
+SMESEAENRT   AMN34 OJ           N31591040E036011796                                                                                 
+SMESEAENRT   AMN50 OJ           N31560907E035473550                                                                                 
+SMESEAENRT   AMN70 OJ           N32021246E036115216                                                                                 
+SMESEAENRT   AMN90 OJ           N31473502E035542633                                                                                 
+SMESEAENRT   AMRAH OJ           N32072611E036315915                                                                                 
+SMESEAENRT   AQB00 OJ           N29350124E035002801                                                                                 
+SMESEAENRT   AQB05 OJ           N29301433E034584479                                                                                 
+SMESEAENRT   AQB10 OJ           N29252691E034570355                                                                                 
+SMESEAENRT   AQB12 OJ           N29335242E035000335                                                                                 
+SMESEAENRT   AQB80 OJ           N29272214E034574298                                                                                 
+SMESEAENRT   BAKIR OJ           N29395323E035060796                                                                                 
+SMESEAENRT   BUSRA OJ           N32195910E036370000                                                                                 
+SMESEAENRT   HAMZH OJ           N33000000E038202000                                                                                 
+SMESEAENRT   HAZEM OJ           N32135910E0363759100                                                                                
+SMESEAENRT   IQA00 OJ           N31431262E036012622                                                                                 
+SMESEAENRT   IQAN0 OJ           N31433638E035574985                                                                                 
+SMESEAENRT   JYO03 OJ           N32013424E036070767                                                                                 
+SMESEAENRT   JYO25 OJ           N31591296E036011649                                                                                 
+SMESEAENRT   KAMEL OJ           N32195612E036435916                                                                                 
+SMESEAENRT   MDB07 OJ           N31465873E035442800                                                                                 
+SMESEAENRT   MDB11 OJ           N31514200E035574200                                                                                 
+SMESEAENRT   MDB16 OJ           N31582163E035484392                                                                                 
+SMESEAENRT   MDB23 OJ           N31421841E035534445                                                                                 
+SMESEAENRT   MDB26 OJ           N31400902E035512861                                                                                 
+SMESEAENRT   MDB65 OJ           N31411526E035433629                                                                                 
+SMESEAENRT   MDB67 OJ           N31470662E035565550                                                                                 
+SMESEAENRT   MDB69 OJ           N31384550E035440509                                                                                 
+SMESEAENRT   MDB99 OJ           N31513839E035461226                                                                                 
+SMESEAENRT   METSA OJ           N29295598E034595905                                                                                 
+SMESEAENRT   MODAD OJ           N32353988E038413814                                                                                 
+SMESEAENRT   MOUAB OJ           N31475710E0353558100                                                                                
+SMESEAENRT   OSAMA OJ           N31554980E0353705100                                                                                
+SMESEAENRT   PARAM OJ           N31232400E037064100                                                                                 
+SMESEAENRT   QA014 OJ           N31300000E036043600                                                                                 
+SMESEAENRT   QA020 OJ           N31275310E0362241100                                                                                
+SMESEAENRT   QA022 OJ           N31283000E0362335100                                                                                
+SMESEAENRT   QA613 OJ           N31495942E036043341                                                                                 
+SMESEAENRT   QA890 OJ           N31514886E036053677                                                                                 
+SMESEAENRT   QAA06 OJ           N31500994E036073107                                                                                 
+SMESEAENRT   QAA08 OJ           N31453000E036184200                                                                                 
+SMESEAENRT   QAA14 OJ           N31430156E035525773                                                                                 
+SMESEAENRT   QAA20 OJ           N31594800E0362429100                                                                                
+SMESEAENRT   QAA21 OJ           N31470522E035445463                                                                                 
+SMESEAENRT   QAA22 OJ           N31440695E035433412                                                                                 
+SMESEAENRT   QAA31 OJ           N31443356E036054976                                                                                 
+SMESEAENRT   QAA34 OJ           N31474838E036084685                                                                                 
+SMESEAENRT   QAA37 OJ           N31520310E036170874                                                                                 
+SMESEAENRT   QAA40 OJ           N31321937E036195296                                                                                 
+SMESEAENRT   QAA64 OJ           N31455462E036164781                                                                                 
+SMESEAENRT   QAA74 OJ           N31491910E036161037                                                                                 
+SMESEAENRT   QAA87 OJ           N31294024E036061351                                                                                 
+SMESEAENRT   QL013 OJ           N31532260E036161728                                                                                 
+SMESEAENRT   QL021 OJ           N32031494E036151691                                                                                 
+SMESEAENRT   QL025 OJ           N32000600E036240600                                                                                 
+SMESEAENRT   QTR15 OJ           N31285400E0355711100                                                                                
+SMESEAENRT   QTR34 OJ           N31454710E036201200                                                                                 
+SMESEAENRT   QTR40 OJ           N31510240E036230699                                                                                 
+SMESEAENRT   QTR50 OJ           N32002400E0362805100                                                                                
+SMESEAENRT   R2186 OJ           N31584491E036002579                                                                                 
+SMESEAENRT   R2187 OJ           N29355297E035004795                                                                                 
+SMESEAENRT   REEMA OJ           N31184707E036321416                                                                                 
+SMESEAENRT   SOKAN OJ           N33080810E0382206100                                                                                
+SMESDB       JYO   OJ000391     N32001721E036035608                                                                                 
+SMESDB       AQA   OJ000418     N30133534E035131695                                                                                 
+SMESDB       AQC   OJ000326     N29540821E035070839                                                                                 
+SMESDB       AQ    OJ000404     N29344854E035002538                                                                                 
+SMESDB       JYT   OJ000302     N31145921E036024960                                                                                 
+SMESDB       QL    OJ000307     N31440700E0360136100                                                                                
+SMESDB       MDB   OJ000399     N31423352E035510085                                                                                 
+SMESDB       QA    OJ000410     N31434996E036054049                                                                                 
+SMESD        AMN   OJ011630V    N32001466E036035755                                                                                 
+SMESD        AQB   OJ011310V    N29350074E035002969                                                                                 
+SMESD        LOT   OJ011200V    N29362800E034583200                                                                                 
+SMESD        QTR   OJ011290V    N31145441E036033431                                                                                 
+SMESD        QAA   OJ011520V    N31442715E036092902                                                                                 
+SMESD        AMN   OJ011630 D   N32001466E036035755                                                                                 
+SMESD        AQB   OJ011310 D   N29350074E035002969                                                                                 
+SMESD        LOT   OJ011200 D   N29362800E034583200                                                                                 
+SMESD        QTR   OJ011290 D   N31145441E036033431                                                                                 
+SMESD        QAA   OJ011520 D   N31442715E036092902                                                                                 
+SMESER       J10         0100LOT  OJD       OH                            0067               19000                                  
+SMESER       J10         0110SAMARLLEA      OH                            0130     02000     19000                                  
+SMESER       L513        0010BUSRAOJEA      O                                      11000     45000                                  
+SMESER       L513        0020HAZEMOJEA      O                             0061     11000     45000                                  
+SMESER       R652        0020PARAMOJEA      O                             0091     12000     46000                                  
+SMESER       R652        0030REEMAOJEA      O                             0298     15000     30000                                  
+SMESER       R652        0040QTR  OJD       O                             0248     09000     45000                                  
+SMESER       R652        0050METSAOJEA      O                             1185     09000     45000                                  
+SMESER       A412        0010KAMELOJEA      O                                      11000     45000                                  
+SMESER       A412        0020ZELAFOSEA      O                             0740     11000     45000                                  
+SMESER       W733        0010METSAOJEA      O                                      10500     60000                                  
+SMESER       W733        0020NWB    D       O                             0329     10500     60000                                  
+SMESER       UJ10        0070LOT  OJD       O                             0579     20000     41000                                  
+SMESER       UR219       0040SOKANOJEA      O                             0052     23500     45000                                  
+SMESER       UR219       0050MODADOJEA      O                             0364     23500     45000                                  
+SMESER       UR219       0060OTILAOEEA      O                             0382     23500     45000                                  

@@ -1,0 +1,35 @@
+SSPAEAENRT   BIDAN NC           S16351200E1784359100                                                                                
+SSPAEAENRT   PACKO NC           S16465910E1785317100                                                                                
+SSPADB       AL    NC000385     S17493200E1772312100                                                                                
+SSPADB       MI    NC000364     S17535910E177193200                                                                                 
+SSPADB       NA    NC000307     S18024410E178334500                                                                                 
+SSPADB       VK    NC000405     S17470410E1772509100                                                                                
+SSPADB       NO    NC000330     S18005210E178280400                                                                                 
+SSPAD        LB    NC011510V    S16250510E1791853100                                                                                
+SSPAD        NN    NC011250V    S17391610E177234400                                                                                 
+SSPAD        NA    NC011220V    S18023110E1783347100                                                                                
+SSPAD        LB    NC011510 D   S16250510E1791853100                                                                                
+SSPAD        NN    NC011250 D   S17391610E177234400                                                                                 
+SSPAD        NA    NC011220 D   S18023110E1783347100                                                                                
+SSPAER       B581        0100BIDANNCEA      O                             3274     20000     60000                                  
+SSPAER       B581        0110NN   NCD       O                             1000     20000     60000                                  
+SSPAER       G224        0050NN   NCD       O                             1002     20000     60000                                  
+SSPAER       G224        0060VIPOB  EA      O                             1000     20000     60000                                  
+SSPAER       A578        0070NN   NCD       O                             1007     20000     60000                                  
+SSPAER       R453        0040NN   NCD       O                             1002     20000     60000                                  
+SSPAER       B599        0020NN   NCD       O                             1003     20000     60000                                  
+SSPAER       G593        0030NA   NCD       O                             0921     20000     60000                                  
+SSPAER       3E290       0010LB   NCD       O                                      04200     46000                                  
+SSPAER       3E290       0020NA   NCD       O                             1066     04200     46000                                  
+SSPAER       3E291       0010LB   NCD       O                                      05100     46000                                  
+SSPAER       3E291       0020NN   NCD       O                             1329     05100     46000                                  
+SSPAER       3E991       0010NA   NCD       O                                      03700     46000                                  
+SSPAER       3E991       0020NA121  EA      O                             1212     03700     46000                                  
+SSPAER       B598-       0010NA   NCD       O                                      20000     60000                                  
+SSPAER       B598-       0020NN   NCD       O                             0706     20000     60000                                  
+SSPAER       3E287       0010NA   NCD       O                                      03200     46000                                  
+SSPAER       3E287       0020NV     D       O                             0253     03200     46000                                  
+SSPAER       3E993       0010NA   NCD       O                                      04000     46000                                  
+SSPAER       3E993       0020PUNIX  EA      O                             1435     04000     46000                                  
+SSPAER       3E994       0010NN   NCD       O                                      06000     46000                                  
+SSPAER       3E994       0020NV     D       O                             0563     06000     46000                                  

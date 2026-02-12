@@ -1,0 +1,156 @@
+SSCAEAENRT   BAIRE MU           N20540200W077280500                                                                                 
+SSCAEAENRT   CANAL MU           N22414200W0821405100                                                                                
+SSCAEAENRT   CEDRO MU           N22533000W081533000                                                                                 
+SSCAEAENRT   CLARA MU           N22285010W0795935100                                                                                
+SSCAEAENRT   DUTAN MU           N22401800W0821333100                                                                                
+SSCAEAENRT   ISABE MU           N22470200W080065900                                                                                 
+SSCAEAENRT   LIMAS MU           N22483510W081242400                                                                                 
+SSCAEAENRT   LUCIA MU           N21015510W077202900                                                                                 
+SSCAEAENRT   PALOS MU           N22332400W0812617100                                                                                
+SSCAEAENRT   PINOS MU           N22460000W081560600                                                                                 
+SSCAEAENRT   TERSA MU           N21092510W077152900                                                                                 
+SSCAEAENRT   UHA00 MU           N22584395W082253014                                                                                 
+SSCAEAENRT   UHA01 MU           N22580939W082262308                                                                                 
+SSCAEAENRT   UHA02 MU           N22573447W082271564                                                                                 
+SSCAEAENRT   UHA03 MU           N22565991W082280820                                                                                 
+SSCAEAENRT   UHA04 MU           N22562463W082290076                                                                                 
+SSCAEAENRT   UHA06 MU           N23015823W082201083                                                                                 
+SSCAEAENRT   UHA08 MU           N22540315W082323388                                                                                 
+SSCAEAENRT   UHA09 MU           N23033758W082170652                                                                                 
+SSCAEAENRT   UHA10 MU           N22540734W082155883                                                                                 
+SSCAEAENRT   UHA11 MU           N22495390W082334588                                                                                 
+SSCAEAENRT   UHA12 MU           N22482750W082191036                                                                                 
+SSCAEAENRT   UHA14 MU           N23033471W082111517                                                                                 
+SSCAEAENRT   UHA19 MU           N22544478W082051229                                                                                 
+SSCAEAENRT   UHA21 MU           N22595955W082233532                                                                                 
+SSCAEAENRT   UHA27 MU           N23002030W082225860                                                                                 
+SSCAEAENRT   UHA35 MU           N23004694W082221108                                                                                 
+SSCAEAENRT   UHA53 MU           N22553784W082301132                                                                                 
+SSCAEAENRT   UHA61 MU           N22550062W082311037                                                                                 
+SSCAEAENRT   UHA79 MU           N23030590W082180484                                                                                 
+SSCAEAENRT   UHA81 MU           N22574190W082342189                                                                                 
+SSCAEAENRT   UHA91 MU           N22591982W082154155                                                                                 
+SSCADB       UBA   MU000278     N20221010W074312230                                                                                 
+SSCADB       UBY   MU000268     N20233800W076370900                                                                                 
+SSCADB       C     MU000402     N21244858W077515711                                                                                 
+SSCADB       UCM   MU000370     N21232530W077554470                                                                                 
+SSCADB       UCY   MU000380     N22512900W082511000                                                                                 
+SSCADB       G     MU000360     N22005796W078484881                                                                                 
+SSCADB       UCA   MU000390     N21592201W078521888                                                                                 
+SSCADB       UCF   MU000212     N22065000W080253120                                                                                 
+SSCADB       UGT   MU000300     N20044420W075092990                                                                                 
+SSCADB       UHA   MU000348     N22555818W0822931100                                                                                
+SSCADB       A     MU000339     N22582560W0822555100                                                                                
+SSCADB       HG    MU000220     N20461384W076195461                                                                                 
+SSCADB       UHG   MU000353     N20434990W076223500                                                                                 
+SSCADB       UCC   MU000382     N22280441W078182464                                                                                 
+SSCADB       UMO   MU000212     N20385570W074554980                                                                                 
+SSCADB       UNV   MU000256     N21235710W077135700                                                                                 
+SSCADB       UPB   MU000250     N23012343W082345067                                                                                 
+SSCADB       USC   MU000240     N22285060W079593630                                                                                 
+SSCADB       U     MU000287     N22291283W079580001                                                                                 
+SSCADB       K     MU000348     N19580768W075560725                                                                                 
+SSCADB       UCU   MU000339     N19582240W075491530                                                                                 
+SSCADB       UTD   MU000300     N21472610W079592825                                                                                 
+SSCADB       UVT   MU000296     N20591810W076561960                                                                                 
+SSCADB       VA    MU000430     N22591870W081302924                                                                                 
+SSCADB       V     MU000420     N23011180W081272931                                                                                 
+SSCADB       UZG   MU000283     N22560510W0820218100                                                                                
+SSCAD        UCM   MU011410V    N21261477W077480301                                                                                 
+SSCAD        UCA   MU011740V    N22005420W078485690                                                                                 
+SSCAD        UCF   MU011230V    N22091684W080242181                                                                                 
+SSCAD        UHA   MU011610V    N22584400W082253600                                                                                 
+SSCAD        UHG   MU011680V    N20475300W076181100                                                                                 
+SSCAD        UCJ   MU011780V    N22280300W0781842100                                                                                
+SSCAD        UMZ   MU011600V    N20181010W0770557100                                                                                
+SSCAD        UNV   MU011630V    N21234110W0771350100                                                                                
+SSCAD        UPB   MU010920V    N23012404W082345417                                                                                 
+SSCAD        UCU   MU011330V    N19584000W075492200                                                                                 
+SSCAD        UVA   MU011480V    N23012890W081271290                                                                                 
+SSCAD        UCM   MU011410 D   N21261477W077480301                                                                                 
+SSCAD        UCA   MU011740 D   N22005420W078485690                                                                                 
+SSCAD        UCF   MU011230 D   N22091684W080242181                                                                                 
+SSCAD        UHA   MU011610 D   N22584400W082253600                                                                                 
+SSCAD        UHG   MU011680 D   N20475300W076181100                                                                                 
+SSCAD        UCJ   MU011780 D   N22280300W0781842100                                                                                
+SSCAD        UMZ   MU011600 D   N20181010W0770557100                                                                                
+SSCAD        UCU   MU011330 D   N19584000W075492200                                                                                 
+SSCAD        UVA   MU011480 D   N23012890W081271290                                                                                 
+SSCAD        NBW   MU011460 D   N19543600W075130660                                                                                 
+SSCAER       J9          0010BAIREMUEA      OH                                     04000     44500                                  
+SSCAER       J9          0020UCM  MUD       OH                            0372     04000     44500                                  
+SSCAER       J9          0030UCJ  MUD       OH                            0681     04000     44500                                  
+SSCAER       A301        0270UCA  MUD       O                             1643     03000     24500                                  
+SSCAER       A301        0280URSUS  EA      O                             1200     03000     24500                                  
+SSCAER       B503        0050UMZ  MUD       O                             0578     08000     24500                                  
+SSCAER       B503        0060UNV  MUD       O                             0660     08000     24500                                  
+SSCAER       B503        0070ENAMO  EA      O                             1309     06000     60000                                  
+SSCAER       G430        0160UCA  MUD       O                             1259     03000     24500                                  
+SSCAER       G430        0170TANIA  EA      O                             1272     03000     24500                                  
+SSCAER       L417        0030UMZ  MUD       O                             0623     08000     24500                                  
+SSCAER       L212        0050UHG  MUD       O                                      05500     24500                                  
+SSCAER       L212        0060URLAM  EA      O                             1724     05500     24500                                  
+SSCAER       G437        0260UCA  MUD       O                             1212     03000     24500                                  
+SSCAER       J2          0030UCF  MUD       OH                            1172     05000     44500                                  
+SSCAER       J2          0040UZG  MUD       OH                            1019     04000     44500                                  
+SSCAER       G629        0020UMO  MUD       O                             0475     08000     24500                                  
+SSCAER       G629        0040UCU  MUD       O                             0734     08000     24500                                  
+SSCAER       J4          0010CLARAMUEA      OH                                     04000     44500                                  
+SSCAER       J4          0020UCA  MUD       OH                            0712     04000     44500                                  
+SSCAER       J4          0030UCM  MUD       OH                            0664     04000     44500                                  
+SSCAER       J4          0040TERSAMUEA      OH                            0347     04000     44500                                  
+SSCAER       J4          0050UVT  MUD       OH                            0206     04000     44500                                  
+SSCAER       J4          0060UHG  MUD       OH                            0375     06000     44500                                  
+SSCAER       J4          0070UCU  MUD       OH                            0562     06000     44500                                  
+SSCAER       J8          0010CLARAMUEA      OH                                     04000     44500                                  
+SSCAER       J8          0020UCF  MUD       OH                            0301     04000     44500                                  
+SSCAER       J8          0030PERLA  EA      OH                            0419     04000     44500                                  
+SSCAER       A890        0030UCU  MUD       O                             0979     06000     24500                                  
+SSCAER       L465        0010DUTANMUEA      O                                      02500     24500                                  
+SSCAER       L465        0020TIBEN  EA      O                             1598     02500     24500                                  
+SSCAER       G448        0070UVA  MUD       O                             0854     03000     24500                                  
+SSCAER       G448        0080TADPO  EA      O                             0600     02500     60000                                  
+SSCAER       R625        0040UMZ  MUD       O                             0532     08000     24500                                  
+SSCAER       J3          0010LUCIAMUEA      OH                                     04000     44500                                  
+SSCAER       J3          0020UBY  MUD       OH                            0558     04000     44500                                  
+SSCAER       J3          0030UCU  MUD       OH                            0514     06000     44500                                  
+SSCAER       R628        0010UVA  MUD       O                                      03000     24500                                  
+SSCAER       R628        0020TANIA  EA      O                             1220     03000     24500                                  
+SSCAER       L347        0030UCU  MUD       O                             0632     06000     24500                                  
+SSCAER       R506        0020UCY  MUD       O                             1813     04000     24500                                  
+SSCAER       J6          0040UCY  MUD       OH                            0662     04000     44500                                  
+SSCAER       J1          0010UVA  MUD       OH                                     04000     44500                                  
+SSCAER       J1          0020UZG  MUD       OH                            0328     04000     44500                                  
+SSCAER       J1          0030UHA  MUD       OH                            0216     04000     44500                                  
+SSCAER       J1          0040UCY  MUD       OH                            0247     04000     44500                                  
+SSCAER       G629-       0010UCU  MUD       O                                      06000     24500                                  
+SSCAER       G629-       0020UMO  MUD       O                             0644     06000     24500                                  
+SSCAER       J7          0010UGT  MUD       OH                                     06000     44500                                  
+SSCAER       J7          0020UMO  MUD       OH                            0365     06000     44500                                  
+SSCAER       UA301       0190UCA  MUD       O                             1643     24500     44500                                  
+SSCAER       UA301       0200URSUS  EA      O                             1200     24500     44500                                  
+SSCAER       UB503       0030UMZ  MUD       O                             0578     24500     44500                                  
+SSCAER       UB503       0040UNV  MUD       O                             0660     24500     44500                                  
+SSCAER       UB503       0050ENAMO  EA      O                             1309     24500     44500                                  
+SSCAER       UG430       0110UCA  MUD       O                             1259     24500     44500                                  
+SSCAER       UG430       0120TANIA  EA      O                             1272     24500     44500                                  
+SSCAER       UL212       0070UHG  MUD       O                             1724     24500     44500                                  
+SSCAER       UG437       0170UCA  MUD       O                             1212     24500     44500                                  
+SSCAER       UL417       0120UMZ  MUD       O                             0623     24500     44500                                  
+SSCAER       UA890       0030UCU  MUD       O                             0979     24500     44500                                  
+SSCAER       UL465       0010DUTANMUEA      O                                      24500     44500                                  
+SSCAER       UL465       0020TIBEN  EA      O                             1598     24500     44500                                  
+SSCAER       UG448       0050UVA  MUD       O                             0600     24500     44500                                  
+SSCAER       UG448       0060UCL    D       O                             0854     24500     44500                                  
+SSCAER       UG629       0020UMO  MUD       O                             0475     24500     44500                                  
+SSCAER       UG629       0040UCU  MUD       O                             0734     24500     44500                                  
+SSCAER       UR625       0030UMZ  MUD       O                             0532     24500     44500                                  
+SSCAER       UL347       0030UCU  MUD       O                             0632     24500     44500                                  
+SSCAER       UR506       0020UCY  MUD       O                             1813     24500     44500                                  
+SSCAER       UR628       0020UVA  MUD       O                             1220     24500     44500                                  
+SSCAER       UR628       0030UCY  MUD       O                                      24500     44500                                  
+SSCAER       UR628       0040UZG  MUD       O                             0453     24500     44500                                  
+SSCAER       J3-UG       0010UCU  MUD       OH                                     24500     44500                                  
+SSCAER       J3-UG       0020UMO  MUD       OH                            0644     24500     44500                                  
+SSCAER       J1-UR       0010UVA  MUD       OH                                     24500     44500                                  
+SSCAER       J1-UR       0020UZG  MUD       OH                            0328     24500     44500                                  

@@ -1,0 +1,189 @@
+SSCAEAENRT   ALFRA MH           N14102810W0864936100                                                                                
+SSCAEAENRT   ANGEL MH           N14200300W086561500                                                                                 
+SSCAEAENRT   ARITA MH           N14514710W087371800                                                                                 
+SSCAEAENRT   AUD45 MH           N14193203W087363729                                                                                 
+SSCAEAENRT   AUD58 MH           N14092125W087344415                                                                                 
+SSCAEAENRT   AUD83 MH           N14065210W087341671                                                                                 
+SSCAEAENRT   AUDRY MH           N14150519W087354784                                                                                 
+SSCAEAENRT   BATAN MH           N15382500W087142100                                                                                 
+SSCAEAENRT   BTO06 MH           N15433442W086580172                                                                                 
+SSCAEAENRT   BTO08 MH           N15432175W087000553                                                                                 
+SSCAEAENRT   BTO15 MH           N15440286W086532314                                                                                 
+SSCAEAENRT   BTO63 MH           N15430906W087020933                                                                                 
+SSCAEAENRT   BTO76 MH           N15452555W087020821                                                                                 
+SSCAEAENRT   BUBEG MH           N14241210W0871123100                                                                                
+SSCAEAENRT   DAVRO MH           N15372410W0844252100                                                                                
+SSCAEAENRT   DEBIT MH           N14420287W087405148                                                                                 
+SSCAEAENRT   DOWNR MH           N14034407W087334035                                                                                 
+SSCAEAENRT   DURES MH           N14090810W087120600                                                                                 
+SSCAEAENRT   ESC02 MH           N14240652W087372663                                                                                 
+SSCAEAENRT   ESC03 MH           N14262858W087375497                                                                                 
+SSCAEAENRT   ESC04 MH           N14193161W087364940                                                                                 
+SSCAEAENRT   ESC06 MH           N14292615W087383040                                                                                 
+SSCAEAENRT   ESC08 MH           N14152890W087370229                                                                                 
+SSCAEAENRT   ESC10 MH           N14332483W087390705                                                                                 
+SSCAEAENRT   ESC14 MH           N14371967W087400497                                                                                 
+SSCAEAENRT   ESC16 MH           N14063354W087351155                                                                                 
+SSCAEAENRT   ESC17 MH           N14214927W087370674                                                                                 
+SSCAEAENRT   ESC21 MH           N14324603W087331767                                                                                 
+SSCAEAENRT   ESC40 MH           N15011704W087512828                                                                                 
+SSCAEAENRT   ESC71 MH           N14090317W087353035                                                                                 
+SSCAEAENRT   ESC85 MH           N14150228W087361551                                                                                 
+SSCAEAENRT   GALAN MH           N13392010W0872514100                                                                                
+SSCAEAENRT   GPS02 MH           N14110859W087115604                                                                                 
+SSCAEAENRT   KARAK MH           N14015900W0864758100                                                                                
+SSCAEAENRT   KARET MH           N14483410W085033600                                                                                 
+SSCAEAENRT   KARID MH           N13535310W087381200                                                                                 
+SSCAEAENRT   KEKNU MH           N13492010W087150100                                                                                 
+SSCAEAENRT   LEPAX MH           N14060600W087390600                                                                                 
+SSCAEAENRT   LIBIS MH           N13364800W087160000                                                                                 
+SSCAEAENRT   LMS05 MH           N15314824W087505472                                                                                 
+SSCAEAENRT   LMS08 MH           N15354746W087514869                                                                                 
+SSCAEAENRT   MELVO MH           N14160660W087102280                                                                                 
+SSCAEAENRT   NAGEL MH           N14154710W088352400                                                                                 
+SSCAEAENRT   NAKAN MH           N15150710W088334500                                                                                 
+SSCAEAENRT   OVISI MH           N14060180W087121140                                                                                 
+SSCAEAENRT   PENRU MH           N15114200W0884359100                                                                                
+SSCAEAENRT   PNNON MH           N14431456W087411751                                                                                 
+SSCAEAENRT   R1256 MH           N14233559W087372350                                                                                 
+SSCAEAENRT   R1309 MH           N14221746W087370885                                                                                 
+SSCAEAENRT   R4032 MH           N14040784W087125181                                                                                 
+SSCAEAENRT   RIBOS MH           N13571210W0873902100                                                                                
+SSCAEAENRT   ROMBO MH           N14242910W087242400                                                                                 
+SSCAEAENRT   RUBRA MH           N15494800W087193000                                                                                 
+SSCAEAENRT   TAGIR MH           N13554510W0874708100                                                                                
+SSCAEAENRT   TALAG MH           N14261100W087083400                                                                                 
+SSCAEAENRT   TIRNA MH           N14530510W0881423100                                                                                
+SSCAEAENRT   TNT05 MH           N13570078W087153038                                                                                 
+SSCAEAENRT   TNT07 MH           N13550744W087161259                                                                                 
+SSCAEAENRT   TOMAA MH           N14033490W087344158                                                                                 
+SSCAEAENRT   URNOS MH           N14192910W0885717100                                                                                
+SSCAEAENRT   VITAN MH           N13514200W087450000                                                                                 
+SSCAEAENRT   ZAR07 MH           N14372088W087395762                                                                                 
+SSCAEAENRT   ZAR39 MH           N14263457W087375755                                                                                 
+SSCAEAENRT   ZARDO MH           N14302582W087384049                                                                                 
+SSCADB       LCE   MH000227     N15441750W086532590                                                                                 
+SSCADB       LMS   MH000370     N15265589W087555664                                                                                 
+SSCADB       PIC   MH000334     N14085990W087122164                                                                                 
+SSCADB       TNT   MH000405     N14033926W087131370                                                                                 
+SSCAD        BTO   MH011350V    N15441232W086515028                                                                                 
+SSCAD        LMS   MH011310V    N15281140W087543070                                                                                 
+SSCAD        ESC   MH011490V    N14233101W087371955                                                                                 
+SSCAD        TNT   MH011230V    N14014400W087134500                                                                                 
+SSCAD        BTO   MH011350 D   N15441232W086515028                                                                                 
+SSCAD        LMS   MH011310 D   N15281140W087543070                                                                                 
+SSCAD        ESC   MH011490 D   N14233101W087371955                                                                                 
+SSCAD        TNT   MH011230 D   N14014400W087134500                                                                                 
+SSCAER       A552        0290KARAKMHEA      O                             0826     10000     19500                                  
+SSCAER       A552        0300TNT  MHD       O                             0250     10000     19500                                  
+SSCAER       A552        0310LEPAXMHEA      O                             0250     12000     19500                                  
+SSCAER       A552        0320NAGELMHEA      O                             0555     12000     19500                                  
+SSCAER       A552        0330URNOSMHEA      O                             0216     12000     19500                                  
+SSCAER       A552        0340NOVOGMSEA      O                             0128     12000     19500                                  
+SSCAER       B764        0020PENRUMHEA      O                             0335     12000     19500                                  
+SSCAER       B764        0030URNOSMHEA      O                             0538     12000     19500                                  
+SSCAER       B764        0040MORAMMSEA      O                             0143     12000     19500                                  
+SSCAER       R635        0040TAGIRMHEA      O                             0539     10000     19500                                  
+SSCAER       R635        0050RIBOSMHEA      O                             0080     10000     19500                                  
+SSCAER       R635        0060TNT  MHD       O                             0250     10000     19500                                  
+SSCAER       R635        0080PLP  MHEA      O                             0489     03000     19500                                  
+SSCAER       R635        0090KARETMHEA      O                             0791     10000     19500                                  
+SSCAER       R645        0010LMS  MHD       O                                      10000     19500                                  
+SSCAER       R645        0020BATANMHEA      O                             0400     10000     19500                                  
+SSCAER       R645        0030BTO  MHD       O                             0224     10000     19500                                  
+SSCAER       R645        0040ROA    D       O                             0400     10000     19500                                  
+SSCAER       G877        0080PLP  MHEA      O                             0550     11000     19500                                  
+SSCAER       G877        0090BENASMNEA      O                             0911     11000     19500                                  
+SSCAER       A502        0140LIBISMHEA      O                             0492     11000     19500                                  
+SSCAER       A502        0150TNT  MHD       O                             0250     11000     19500                                  
+SSCAER       A766        0040PLP  MHEA      O                             0744     03000     19500                                  
+SSCAER       R644        0020PENRUMHEA      O                             0303     11000     19500                                  
+SSCAER       R644        0030NAKANMHEA      O                             0105     11000     19500                                  
+SSCAER       R644        0040LMS  MHD       O                             0401     11000     19500                                  
+SSCAER       A754        0030BTO  MHD       O                             1116     03000     19500                                  
+SSCAER       A754        0040TALAGMHEA      O                             0797     10000     19500                                  
+SSCAER       A754        0050TNT  MHD       O                             0250     10000     19500                                  
+SSCAER       A754        0060KARIDMHEA      O                             0250     10000     19500                                  
+SSCAER       A754        0070VITANMHEA      O                             0070     10000     19500                                  
+SSCAER       A754        0080LEMPAMSEA      O                             0588     10000     19500                                  
+SSCAER       B881        0010BTO  MHD       O                                      10000     19500                                  
+SSCAER       B881        0020UTILA  EA      O                             0224     10000     19500                                  
+SSCAER       B753        0010LMS  MHD       O                                      07000     19500                                  
+SSCAER       B753        0020OMOSO  EA      O                             0400     07000     19500                                  
+SSCAER       B753        0170ROMBOMHEA      O                                      10000     19500                                  
+SSCAER       B753        0180TNT  MHD       O                             0250     10000     19500                                  
+SSCAER       R899        0040DAVROMHEA      O                                      10000     19500                                  
+SSCAER       R899        0050PLP  MHEA      O                             0584     10000     19500                                  
+SSCAER       R899        0060PZA  MND       O                             0763     10000     19500                                  
+SSCAER       B500        0030NAGELMHEA      O                             0212     13000     19500                                  
+SSCAER       B500        0040TIRNAMHEA      O                             0425     13000     19500                                  
+SSCAER       B500        0050LMS  MHD       O                             0400     13000     19500                                  
+SSCAER       R890        0030TNT  MHD       O                                      07000     19500                                  
+SSCAER       R890        0040GALANMHEA      O                             0250     07000     19500                                  
+SSCAER       R890        0050TUKOR  EA      O                             0517     07000     19500                                  
+SSCAER       G439        0150KARETMHEA      O                             0497     11000     19500                                  
+SSCAER       G439        0160DAVROMHEA      O                             0528     11000     19500                                  
+SSCAER       G439        0170LERIK  EA      O                             0465     03000     19500                                  
+SSCAER       G521        0030LMS  MHD       O                             0400     07000     19500                                  
+SSCAER       B500-       0010LMS  MHD       O                                      07000     19500                                  
+SSCAER       B500-       0020RUBRAMHEA      O                             0401     07000     19500                                  
+SSCAER       B500-       0030UTILA  EA      O                             0315     07000     19500                                  
+SSCAER       UA552       0250URNOSMHEA      O                             0128     19500     60000                                  
+SSCAER       UA552       0260NAGELMHEA      O                             0216     19500     60000                                  
+SSCAER       UA552       0270LEPAXMHEA      O                             0555     19500     60000                                  
+SSCAER       UA552       0280TNT  MHD       O                             0250     19500     60000                                  
+SSCAER       UA552       0290KARAKMHEA      O                             0250     19500     60000                                  
+SSCAER       UA552       0300PERSIMNEA      O                             0826     19500     60000                                  
+SSCAER       UB764       0020PENRUMHEA      O                             0335     19500     60000                                  
+SSCAER       UB764       0030URNOSMHEA      O                             0538     19500     60000                                  
+SSCAER       UB764       0040MORAMMSEA      O                             0143     19500     60000                                  
+SSCAER       UR635       0040TAGIRMHEA      O                             0539     19500     60000                                  
+SSCAER       UR635       0050RIBOSMHEA      O                             0080     19500     60000                                  
+SSCAER       UR635       0060TNT  MHD       O                             0250     19500     60000                                  
+SSCAER       UR635       0080PLP  MHEA      O                             0489     19500     60000                                  
+SSCAER       UR635       0090KARETMHEA      O                             0791     19500     60000                                  
+SSCAER       UR645       0010LMS  MHD       O                                      19500     60000                                  
+SSCAER       UR645       0020BATANMHEA      O                             0400     19500     60000                                  
+SSCAER       UR645       0030BTO  MHD       O                             0224     19500     60000                                  
+SSCAER       UR645       0040ROA    D       O                             0400     19500     60000                                  
+SSCAER       UG877       0070PLP  MHEA      O                             0550     19500     60000                                  
+SSCAER       UG877       0080BENASMNEA      O                             0911     19500     60000                                  
+SSCAER       UA502       0010TNT  MHD       O                                      19500     60000                                  
+SSCAER       UA502       0020LIBISMHEA      O                             0250     19500     60000                                  
+SSCAER       UA502       0030BERTAMNEA      O                             0492     19500     60000                                  
+SSCAER       UR644       0020PENRUMHEA      O                             0303     19500     60000                                  
+SSCAER       UR644       0030NAKANMHEA      O                             0105     19500     60000                                  
+SSCAER       UR644       0040LMS  MHD       O                             0401     19500     60000                                  
+SSCAER       UA754       0030BTO  MHD       O                             1116     19500     60000                                  
+SSCAER       UA754       0040TALAGMHEA      O                             0797     19500     60000                                  
+SSCAER       UA754       0050TNT  MHD       O                             0250     19500     60000                                  
+SSCAER       UA754       0060KARIDMHEA      O                             0250     19500     60000                                  
+SSCAER       UA754       0070VITANMHEA      O                             0070     19500     60000                                  
+SSCAER       UA754       0080LEMPAMSEA      O                             0588     19500     60000                                  
+SSCAER       UB881       0010BTO  MHD       O                                      19500     60000                                  
+SSCAER       UB881       0020UTILA  EA      O                             0224     19500     60000                                  
+SSCAER       UB753       0010LMS  MHD       O                                      19500     60000                                  
+SSCAER       UB753       0020OMOSO  EA      O                             0400     19500     60000                                  
+SSCAER       UB753       0130ROMBOMHEA      O                                      19500     60000                                  
+SSCAER       UB753       0140TNT  MHD       O                             0250     19500     60000                                  
+SSCAER       UR899       0040DAVROMHEA      O                                      19500     60000                                  
+SSCAER       UR899       0050PLP  MHEA      O                             0584     19500     60000                                  
+SSCAER       UR899       0060PZA  MND       O                             0763     19500     60000                                  
+SSCAER       UB500       0030NAGELMHEA      O                             0212     19500     60000                                  
+SSCAER       UB500       0040TIRNAMHEA      O                             0425     19500     60000                                  
+SSCAER       UB500       0050LMS  MHD       O                             0400     19500     60000                                  
+SSCAER       UR890       0030TNT  MHD       O                                      19500     60000                                  
+SSCAER       UR890       0040GALANMHEA      O                             0250     19500     60000                                  
+SSCAER       UR890       0050TUKOR  EA      O                             0517     19500     60000                                  
+SSCAER       UG439       0140KARETMHEA      O                             0497     19500     60000                                  
+SSCAER       UG439       0150DAVROMHEA      O                             0528     19500     60000                                  
+SSCAER       UG439       0160LERIK  EA      O                             0465     19500     60000                                  
+SSCAER       UA766       0040PLP  MHEA      O                             0744     19500     60000                                  
+SSCAER       UM787       0080PLP  MHEA      O                             0897     24500     60000                                  
+SSCAER       UM787       0090TIK  MGD       O                             3656     24500     60000                                  
+SSCAER       UL471       0010NAGELMHEA      O                                      19500     60000                                  
+SSCAER       UL471       0020GABIX  EA      O                             2164     19500     60000                                  
+SSCAER       UG521       0030LMS  MHD       O                             0400     19500     60000                                  
+SSCAER       UB500       0010LMS  MHD       O                                      19500     60000                                  
+SSCAER       UB500       0020RUBRAMHEA      O                             0401     19500     60000                                  
+SSCAER       UB500       0030UTILA  EA      O                             0315     19500     60000                                  

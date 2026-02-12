@@ -1,0 +1,559 @@
+SEUREAENRT   ABKOM UM           N54173510E029324800                                                                                 
+SEUREAENRT   ABROK UM           N51353516E029015339                                                                                 
+SEUREAENRT   AMIRI UM           N51551200E0255317100                                                                                
+SEUREAENRT   BABOK UM           N54271710E0301605100                                                                                
+SEUREAENRT   BABUN UM           N52105400E0284659100                                                                                
+SEUREAENRT   BAGAM UM           N52471200E029253000                                                                                 
+SEUREAENRT   BATKU UM           N55273300E0263303100                                                                                
+SEUREAENRT   BEREG UM           N52362910E030030000                                                                                 
+SEUREAENRT   BERIS UM           N54042310E028543600                                                                                 
+SEUREAENRT   BORAT UM           N51275918E029351143                                                                                 
+SEUREAENRT   BUSIN UM           N53162910E026310000                                                                                 
+SEUREAENRT   DEDOK UM           N54020510E0291811100                                                                                
+SEUREAENRT   DELON UM           N53210000E0283859100                                                                                
+SEUREAENRT   DERAD UM           N53245310E030491200                                                                                 
+SEUREAENRT   DIBON UM           N51533510E0260723100                                                                                
+SEUREAENRT   DIVIM UM           N52112310E025030000                                                                                 
+SEUREAENRT   DOMAN UM           N52330600E0245035100                                                                                
+SEUREAENRT   DUKAT UM           N54281700E025365500                                                                                 
+SEUREAENRT   DULEB UM           N53490510E029233000                                                                                 
+SEUREAENRT   ELDOK UM           N53480600E025045400                                                                                 
+SEUREAENRT   ENOBI UM           N53353400E0233746100                                                                                
+SEUREAENRT   GANVI UM           N52571710E026241800                                                                                 
+SEUREAENRT   GIDKA UM           N53561710E0301217100                                                                                
+SEUREAENRT   GOGER UM           N52361710E0301923100                                                                                
+SEUREAENRT   GOMAD UM           N51520000E029580000                                                                                 
+SEUREAENRT   GORAT UM           N53104100E023533900                                                                                 
+SEUREAENRT   GORUL UM           N52252910E030232400                                                                                 
+SEUREAENRT   GOVIK UM           N53360600E0264929100                                                                                
+SEUREAENRT   GRINA UM           N53011800E0240911100                                                                                
+SEUREAENRT   KEDUG UM           N53291710E030480000                                                                                 
+SEUREAENRT   KODON UM           N55142400E0291059100                                                                                
+SEUREAENRT   KOLAK UM           N53302400E027412400                                                                                 
+SEUREAENRT   KOLOS UM           N53272400E0265729100                                                                                
+SEUREAENRT   KOMAP UM           N53512400E0284253100                                                                                
+SEUREAENRT   KOMEN UM           N53223600E0250017100                                                                                
+SEUREAENRT   KOPON UM           N53384200E030453600                                                                                 
+SEUREAENRT   KOSAN UM           N54462910E0291641100                                                                                
+SEUREAENRT   KUBIN UM           N54351710E027414800                                                                                 
+SEUREAENRT   KUNIN UM           N52062910E0265129100                                                                                
+SEUREAENRT   KUREN UM           N54401800E026495400                                                                                 
+SEUREAENRT   KURPI UM           N54154710E028424200                                                                                 
+SEUREAENRT   KUSIP UM           N52072310E0235359100                                                                                
+SEUREAENRT   LAPKI UM           N54402910E0292859100                                                                                
+SEUREAENRT   LASDA UM           N51283600E0301547100                                                                                
+SEUREAENRT   LAVAR UM           N54412900E025441200                                                                                 
+SEUREAENRT   LENOK UM           N54330600E0272635100                                                                                
+SEUREAENRT   LETKI UM           N52111700E0232415100                                                                                
+SEUREAENRT   LIMPO UM           N53151800E0281835100                                                                                
+SEUREAENRT   LITVI UM           N54295310E0264835100                                                                                
+SEUREAENRT   LOVIK UM           N52045929E031005339                                                                                 
+SEUREAENRT   LUBIN UM           N54180600E030350600                                                                                 
+SEUREAENRT   LUPAN UM           N53070510E0274041100                                                                                
+SEUREAENRT   MABIR UM           N52385910E0313259100                                                                                
+SEUREAENRT   MAGEP UM           N51564800E029030600                                                                                 
+SEUREAENRT   MAMIN UM           N52572910E0305617100                                                                                
+SEUREAENRT   MASAD UM           N52324800E027080600                                                                                 
+SEUREAENRT   MATUS UM           N54061110E0272023100                                                                                
+SEUREAENRT   MOLOD UM           N54170510E0264659100                                                                                
+SEUREAENRT   NAMOK UM           N51361710E028450600                                                                                 
+SEUREAENRT   NASKA UM           N53370000E028550000                                                                                 
+SEUREAENRT   NELIM UM           N52563510E0240953100                                                                                
+SEUREAENRT   NELOK UM           N54340510E0294835100                                                                                
+SEUREAENRT   NIMAN UM           N53385910E0240311100                                                                                
+SEUREAENRT   OGARA UM           N52412310E0271423100                                                                                
+SEUREAENRT   PASUD UM           N54233510E0295559100                                                                                
+SEUREAENRT   PENAL UM           N54310510E0283123100                                                                                
+SEUREAENRT   PENAT UM           N53465400E030111200                                                                                 
+SEUREAENRT   PEPAR UM           N53443000E025060600                                                                                 
+SEUREAENRT   PIROS UM           N53293000E030090600                                                                                 
+SEUREAENRT   POTAP UM           N53041200E0241611100                                                                                
+SEUREAENRT   RALIK UM           N53395310E0304041100                                                                                
+SEUREAENRT   RATIN UM           N55164710E0305147100                                                                                
+SEUREAENRT   RAVOK UM           N52124710E0240541100                                                                                
+SEUREAENRT   REKTA UM           N53533000E029101800                                                                                 
+SEUREAENRT   RINAL UM           N54310510E029454200                                                                                 
+SEUREAENRT   ROMAL UM           N52122400E030313600                                                                                 
+SEUREAENRT   RUDEN UM           N53370510E027413000                                                                                 
+SEUREAENRT   RUDKA UM           N52510500E0235518100                                                                                
+SEUREAENRT   RUMIK UM           N54273600E0303223100                                                                                
+SEUREAENRT   SIVRU UM           N55015400E029112400                                                                                 
+SEUREAENRT   SLEDA UM           N53330600E0302605100                                                                                
+SEUREAENRT   SODKO UM           N54105910E0292635100                                                                                
+SEUREAENRT   SONTI UM           N52100000E026514200                                                                                 
+SEUREAENRT   SOSUD UM           N52251200E024580000                                                                                 
+SEUREAENRT   SOTET UM           N53494700E023331100                                                                                 
+SEUREAENRT   SUMOK UM           N54213510E0293635100                                                                                
+SEUREAENRT   SURUG UM           N52333600E0241323100                                                                                
+SEUREAENRT   TADIG UM           N54101200E030371200                                                                                 
+SEUREAENRT   TADUN UM           N51540492E024411721                                                                                 
+SEUREAENRT   TEDRO UM           N54172310E0275153100                                                                                
+SEUREAENRT   TIVAN UM           N53525400E0283029100                                                                                
+SEUREAENRT   TOBLO UM           N52580000E031220000                                                                                 
+SEUREAENRT   TOSPO UM           N52005900E0233952100                                                                                
+SEUREAENRT   VALOL UM           N52133000E0232805100                                                                                
+SEUREAENRT   VALTA UM           N55083000E0291041100                                                                                
+SEURDB       BY    UM000985     N52052400E023580000                                                                                 
+SEURDB       CP    UM000985     N52073676E023494114                                                                                 
+SEURDB       MV    UM000247     N52304466E031044701                                                                                 
+SEURDB       GM    UM000247     N52323588E030564291                                                                                 
+SEURDB       WF    UM000452     N53331435E024032235                                                                                 
+SEURDB       GP    UM000985     N53390119E024030490                                                                                 
+SEURDB       KI    UM000355     N53525910E0264359100                                                                                
+SEURDB       WN    UM000458     N53432310E027362400                                                                                 
+SEURDB       QM    UM000458     N53491200E0273311100                                                                                
+SEURDB       NE    UM000321     N53501200E027362400                                                                                 
+SEURDB       GK    UM000321     N53533510E0272823100                                                                                
+SEURDB       VX    UM000635     N53551800E027583000                                                                                 
+SEURDB       GH    UM000635     N53503510E028053000                                                                                 
+SEURDB       UF    UM000485     N53591200E030024200                                                                                 
+SEURDB       CO    UM000485     N53553600E0300841100                                                                                
+SEURDB       UU    UM000524     N55085910E0302547100                                                                                
+SEURDB       WS    UM000524     N55061110E030163600                                                                                 
+SEURD        GOL   UM011310V    N52310930E031030049                                                                                 
+SEURD        MNS   UM011360V    N53530510E028011800                                                                                 
+SEURD        PNK   UM011340V    N52091110E026075400                                                                                 
+SEURD        VTB   UM011270V    N55073000E0302111100                                                                                
+SEURD        GOL   UM011310 D   N52310930E031030049                                                                                 
+SEURD        MNS   UM011360 D   N53530510E028011800                                                                                 
+SEURD        PNK   UM011340 D   N52091110E026075400                                                                                 
+SEURD        VTB   UM011270 D   N55073000E0302111100                                                                                
+SEURD        GOL   UM011310 D   N52310930E031030049                                                                                 
+SEURER       G478        0010VTB  UMD       O                                      10000     19000                                  
+SEURER       G478        0020BABOKUMEA      O                             0403     10000     19000                                  
+SEURER       G478        0030GIDKAUMEA      O                             0311     10000     19000                                  
+SEURER       G478        0040PIROSUMEA      O                             0269     10000     19000                                  
+SEURER       G478        0050BEREGUMEA      O                             0532     10000     19000                                  
+SEURER       G478        0060GOMADUMEA      O                             0446     10000     19000                                  
+SEURER       N743        0010DELONUMEA      O                                      10000     19000                                  
+SEURER       N743        0020BABUNUMEA      O                             0703     10000     19000                                  
+SEURER       N743        0030NAMOKUMEA      O                             0346     10000     19000                                  
+SEURER       N743        0040SORIKUKEA      O                             0087     10000     19000                                  
+SEURER       L32         0010GOMADUMEA      O                                      10000     19000                                  
+SEURER       L32         0020BABUNUMEA      O                             0476     10000     19000                                  
+SEURER       L32         0030OGARAUMEA      O                             0642     10000     19000                                  
+SEURER       L32         0040GANVIUMEA      O                             0342     10000     19000                                  
+SEURER       L32         0050KOMENUMEA      O                             0564     10000     19000                                  
+SEURER       L32         0060NIMANUMEA      O                             0377     10000     19000                                  
+SEURER       L32         0070SOTETUMEA      O                             0208     10000     19000                                  
+SEURER       R228        0010PNK  UMD       O                                      10000     19000                                  
+SEURER       R228        0020SONTIUMEA      O                             0269     10000     19000                                  
+SEURER       R228        0030BABUNUMEA      O                             0708     10000     19000                                  
+SEURER       R228        0040GORULUMEA      O                             0608     10000     19000                                  
+SEURER       R228        0050GOL  UMD       O                             0249     10000     19000                                  
+SEURER       R228        0060MABIRUMEA      O                             0198     10000     19000                                  
+SEURER       R228        0070SURAVUUEA      O                             0379     14800     31500                                  
+SEURER       M854        0010BABUNUMEA      O                                      10000     19000                                  
+SEURER       M854        0020LIMPOUMEA      O                             0667     10000     19000                                  
+SEURER       M854        0030MNS  UMD       O                             0392     10000     19000                                  
+SEURER       M854        0040TEDROUMEA      O                             0249     10000     19000                                  
+SEURER       M854        0050KUBINUMEA      O                             0189     10000     19000                                  
+SEURER       M854        0060DUBINEVEA      O                             0775     10000     19000                                  
+SEURER       R247        0010BABUNUMEA      O                                      10000     19000                                  
+SEURER       R247        0020LOVIKUMEA      O                             0825     10000     19000                                  
+SEURER       L33         0010BORATUMEA      O                                      10000     19000                                  
+SEURER       L33         0020MAGEPUMEA      O                             0350     10000     19000                                  
+SEURER       L33         0030BABUNUMEA      O                             0172     10000     19000                                  
+SEURER       L33         0040LUPANUMEA      O                             0692     10000     19000                                  
+SEURER       L33         0050KI   UMD       O                             0570     10000     19000                                  
+SEURER       A68         0010NASKAUMEA      O                                      10000     19000                                  
+SEURER       A68         0020BAGAMUMEA      O                             0531     10000     19000                                  
+SEURER       A68         0030GOMADUMEA      O                             0587     10000     19000                                  
+SEURER       A68         0040LASDAUMEA      O                             0259     10000     19000                                  
+SEURER       B248        0060DIBONUMEA      O                                      09000     27000                                  
+SEURER       B248        0070GENKUUKEA      O                             0266     09000     27000                                  
+SEURER       M984        0150LETKIUMEA      O                             1500     19500     28500                                  
+SEURER       M984        0160VALOLUMEA      O                             0032     10000     19000                                  
+SEURER       M984        0170KI   UMD       O                             1542     10000     19000                                  
+SEURER       M865        0010VTB  UMD       O                                      10000     19000                                  
+SEURER       M865        0020KODONUMEA      O                             0407     10000     19000                                  
+SEURER       M865        0030BATKUUMEA      O                             0908     09500     19500                                  
+SEURER       M865        0040DEVKAEYEA      O                             0200     09500     19500                                  
+SEURER       N616        0130NIMANUMEA      O                             0187     10000     19000                                  
+SEURER       N616        0140POTAPUMEA      O                             0357     10000     19000                                  
+SEURER       N616        0150TADUNUMEA      O                             0718     10000     19000                                  
+SEURER       N623        0080LOVIKUMEA      O                                      16000     27000                                  
+SEURER       N623        0090TALOBUKEA      O                             1479     16000     27000                                  
+SEURER       N623        0100NASKAUMEA      O                                      10000     19000                                  
+SEURER       N623        0110TIVANUMEA      O                             0215     10000     19000                                  
+SEURER       N623        0120TEDROUMEA      O                             0334     10000     19000                                  
+SEURER       N623        0130LENOKUMEA      O                             0215     10000     19000                                  
+SEURER       N623        0140PODILEYEA      O                             0485     09500     19500                                  
+SEURER       B246        0040LASDAUMEA      O                             0562     07100     27000                                  
+SEURER       N869        0170VTB  UMD       O                                      10000     19000                                  
+SEURER       N869        0180KOSANUMEA      O                             0426     10000     19000                                  
+SEURER       N869        0190PENALUMEA      O                             0304     10000     19000                                  
+SEURER       N869        0200TEDROUMEA      O                             0268     10000     19000                                  
+SEURER       N869        0210MATUSUMEA      O                             0216     10000     19000                                  
+SEURER       N869        0220KI   UMD       O                             0252     10000     19000                                  
+SEURER       N869        0230NELIMUMEA      O                             1078     10000     19000                                  
+SEURER       N869        0240RUDKAUMEA      O                             0104     10000     19000                                  
+SEURER       N869        0250SIE  EPD       O                             0755     19500     28500                                  
+SEURER       M996-       0010DELONUMEA      O                                      10000     19000                                  
+SEURER       M996-       0020BEREGUMEA      O                             0674     10000     19000                                  
+SEURER       M996-       0030GORULUMEA      O                             0166     10000     19000                                  
+SEURER       M996-       0040LOVIKUMEA      O                             0308     10000     19000                                  
+SEURER       DOM82       0010BERISUMEA      O                                      05000     15000                                  
+SEURER       DOM82       0020DEDOKUMEA      O                             0141     05000     15000                                  
+SEURER       DOM82       0030UMOO UMEA      O                             0284     05000     15000                                  
+SEURER       DOM82       0010BERISUMEA      O                                      05000     15000                                  
+SEURER       DOM82       0020MNS  UMD       O                             0333     05000     15000                                  
+SEURER       M863        0010BERISUMEA      O                                      10000     19000                                  
+SEURER       M863        0020SODKOUMEA      O                             0199     10000     19000                                  
+SEURER       M863        0030MNS  UMD       O                                      10000     19000                                  
+SEURER       M863        0040GOVIKUMEA      O                             0458     10000     19000                                  
+SEURER       M863        0050RUDKAUMEA      O                             1136     10000     19000                                  
+SEURER       M863        0060WAR  EPD       O                             1244     19500     28500                                  
+SEURER       N858        0050LAVARUMEA      O                             0157     10000     19000                                  
+SEURER       N858        0060SIVRUUMEA      O                             1211     10000     19000                                  
+SEURER       N858        0070VTB  UMD       O                             0404     10000     19000                                  
+SEURER       N858        0080RATINUMEA      O                             0198     10000     19000                                  
+SEURER       L741        0010DUKATUMEA      O                                      09500     19500                                  
+SEURER       L741        0020BILDIEYEA      O                             0244     09500     19500                                  
+SEURER       L23         0050GORATUMEA      O                                      12000     19000                                  
+SEURER       L23         0060OGARAUMEA      O                             1246     12000     19000                                  
+SEURER       L23         0070LOVIKUMEA      O                             1430     12000     19000                                  
+SEURER       G38         0010BORATUMEA      O                                      10000     19000                                  
+SEURER       G38         0020DELONUMEA      O                             1182     10000     19000                                  
+SEURER       G38         0030MNS  UMD       O                             0391     10000     19000                                  
+SEURER       M856        0010MAMINUMEA      O                                      10000     19000                                  
+SEURER       M856        0020DERADUMEA      O                             0277     10000     19000                                  
+SEURER       M856        0030KEDUGUMEA      O                             0045     10000     19000                                  
+SEURER       M856        0040KOPONUMEA      O                             0095     10000     19000                                  
+SEURER       M856        0050TADIGUMEA      O                             0319     10000     19000                                  
+SEURER       M856        0060LUBINUMEA      O                             0080     10000     19000                                  
+SEURER       M856        0070RUMIKUMEA      O                             0096     10000     19000                                  
+SEURER       M856        0080VTB  UMD       O                             0404     10000     19000                                  
+SEURER       M856        0090OLAGOUUEA      O                             0408     10000     19000                                  
+SEURER       M856        0160LOVIKUMEA      O                             0683     10000     19000                                  
+SEURER       M856        0170GOL  UMD       O                             0263     10000     19000                                  
+SEURER       A260        0070SODKOUMEA      O                                      10000     19000                                  
+SEURER       A260        0080DEDOKUMEA      O                             0102     10000     19000                                  
+SEURER       A260        0090REKTAUMEA      O                             0098     10000     19000                                  
+SEURER       A260        0100NASKAUMEA      O                             0188     10000     19000                                  
+SEURER       A260        0110DELONUMEA      O                                      10000     19000                                  
+SEURER       A260        0120OGARAUMEA      O                             0645     10000     19000                                  
+SEURER       A260        0130PNK  UMD       O                             0518     10000     19000                                  
+SEURER       A260        0140VTB  UMD       O                                      10000     19000                                  
+SEURER       A260        0150NELOKUMEA      O                             0383     10000     19000                                  
+SEURER       A260        0160RINALUMEA      O                             0034     10000     19000                                  
+SEURER       A260        0170SUMOKUMEA      O                             0109     10000     19000                                  
+SEURER       R246        0010BORATUMEA      O                                      10000     19000                                  
+SEURER       R246        0020GOMADUMEA      O                             0279     10000     19000                                  
+SEURER       R246        0030ROMALUMEA      O                             0291     10000     19000                                  
+SEURER       R246        0040GOL  UMD       O                             0269     10000     19000                                  
+SEURER       R225        0010BORATUMEA      O                                      06100     27000                                  
+SEURER       R225        0020NANIRUKEA      O                             0457     06100     27000                                  
+SEURER       L748        0020DERADUMEA      O                             0603     10000     19000                                  
+SEURER       L748        0030PIROSUMEA      O                             0243     10000     19000                                  
+SEURER       L748        0040NASKAUMEA      O                             0447     10000     19000                                  
+SEURER       T711        0010KI   UMD       RL                                     10000     19000                                  
+SEURER       T711        0020GORATUMEA      RL                            1098     24500     28500                                  
+SEURER       T711        0030BULEPEPEA      RL                            0587     24500     28500                                  
+SEURER       L999        0010VTB  UMD       O                                      10000     19000                                  
+SEURER       L999        0020LAPKIUMEA      O                             0404     10000     19000                                  
+SEURER       L999        0030KURPIUMEA      O                             0365     10000     19000                                  
+SEURER       L999        0040MNS  UMD       O                             0333     10000     19000                                  
+SEURER       L999        0050KOLOSUMEA      O                             0457     10000     19000                                  
+SEURER       L999        0060BUSINUMEA      O                             0192     10000     19000                                  
+SEURER       L999        0070DOMANUMEA      O                             0745     10000     19000                                  
+SEURER       L999        0080RAVOKUMEA      O                             0341     10000     19000                                  
+SEURER       L999        0090KUSIPUMEA      O                             0090     10000     19000                                  
+SEURER       L999        0100TOSPOUMEA      O                             0108     10000     19000                                  
+SEURER       L999        0110RILABEPEA      O                             1025     19500     28500                                  
+SEURER       P727        0010DIBONUMEA      O                                      10000     19000                                  
+SEURER       P727        0020PNK  UMD       O                             0156     10000     19000                                  
+SEURER       P727        0030GANVIUMEA      O                             0492     10000     19000                                  
+SEURER       P727        0040BUSINUMEA      O                             0196     10000     19000                                  
+SEURER       P727        0050KI   UMD       O                             0373     10000     19000                                  
+SEURER       P727        0060MOLODUMEA      O                             0242     15000     19000                                  
+SEURER       P727        0070LITVIUMEA      O                             0128     15000     19000                                  
+SEURER       P727        0080KURENUMEA      O                             0104     15000     19000                                  
+SEURER       P727        0090DUBINEVEA      O                             0687     15000     19000                                  
+SEURER       B102        0010DELONUMEA      O                                      10000     19000                                  
+SEURER       B102        0020LUPANUMEA      O                             0376     10000     19000                                  
+SEURER       B102        0030SOSUDUMEA      O                             1070     10000     19000                                  
+SEURER       B102        0040KUSIPUMEA      O                             0430     10000     19000                                  
+SEURER       B102        0050LUBINUMEA      O                                      10000     19000                                  
+SEURER       B102        0060DULEBUMEA      O                             0511     10000     19000                                  
+SEURER       B102        0070NASKAUMEA      O                             0208     10000     19000                                  
+SEURER       A260-       0010DELONUMEA      O                                      10000     19000                                  
+SEURER       A260-       0020NASKAUMEA      O                             0186     10000     19000                                  
+SEURER       M996        0010DELONUMEA      O                                      10000     19000                                  
+SEURER       M996        0020RUDENUMEA      O                             0378     10000     19000                                  
+SEURER       M996        0030KI   UMD       O                             0376     10000     19000                                  
+SEURER       M996        0040DUKATUMEA      O                             0528     09500     19500                                  
+SEURER       M996        0050ELEKAEYEA      O                             0378     09500     19500                                  
+SEURER       M996        0190LOVIKUMEA      O                             1414     17000     27000                                  
+SEURER       P851        0080GOMADUMEA      O                                      10000     19000                                  
+SEURER       P851        0090MAGEPUMEA      O                             0342     10000     19000                                  
+SEURER       P851        0100KUNINUMEA      O                             0816     10000     19000                                  
+SEURER       P851        0110PNK  UMD       O                             0269     10000     19000                                  
+SEURER       P851        0120DIVIMUMEA      O                             0399     10000     19000                                  
+SEURER       P851        0130RAVOKUMEA      O                             0352     10000     19000                                  
+SEURER       P851        0140VALOLUMEA      O                             0231     10000     19000                                  
+SEURER       L735        0020DUKATUMEA      O                             0791     10000     19000                                  
+SEURER       L735        0030LITVIUMEA      O                             0417     10000     19000                                  
+SEURER       L735        0040PENALUMEA      O                             0597     10000     19000                                  
+SEURER       L735        0050RINALUMEA      O                             0432     10000     19000                                  
+SEURER       M870        0010DUKATUMEA      O                                      09500     19500                                  
+SEURER       M870        0020RELTUEYEA      O                             0438     09500     19500                                  
+SEURER       L979        0010ENOBIUMEA      O                                      10000     19000                                  
+SEURER       L979        0020NIMANUMEA      O                             0155     10000     19000                                  
+SEURER       L979        0030ELDOKUMEA      O                             0376     10000     19000                                  
+SEURER       L979        0040MATUSUMEA      O                             0818     10000     19000                                  
+SEURER       L979        0050KURPIUMEA      O                             0491     10000     19000                                  
+SEURER       L979        0060SUMOKUMEA      O                             0320     10000     19000                                  
+SEURER       L979        0070PASUDUMEA      O                             0115     10000     19000                                  
+SEURER       M874        0030LAVARUMEA      O                             0369     09500     19500                                  
+SEURER       L749        0030LAVARUMEA      O                                      09500     19500                                  
+SEURER       L749        0040NEDAMEYEA      O                             0538     09500     19500                                  
+SEURER       G102-       0010LOVIKUMEA      O                                      10000     19000                                  
+SEURER       G102-       0020GOGERUMEA      O                             0403     10000     19000                                  
+SEURER       G102-       0030NASKAUMEA      O                             0791     10000     19000                                  
+SEURER       DOM83       0010GOL  UMD       O                                      05000     15000                                  
+SEURER       DOM83       0020MAMINUMEA      O                             0266     05000     15000                                  
+SEURER       L32-P       0010GOMADUMEA      O                                      10000     19000                                  
+SEURER       L32-P       0020KIBERUKEA      O                             0263     10000     19000                                  
+SEURER       DOM84       0010NIMANUMEA      O                                      05000     15000                                  
+SEURER       DOM84       0020GRINAUMEA      O                             0379     09000     15000                                  
+SEURER       DOM84       0030NELIMUMEA      O                             0047     09000     15000                                  
+SEURER       DOM84       0040SURUGUMEA      O                             0231     05000     15000                                  
+SEURER       DOM84       0050KUSIPUMEA      O                             0288     05000     15000                                  
+SEURER       L29         0070LAVARUMEA      O                             0481     09500     19500                                  
+SEURER       G102        0010MNS  UMD       O                                      10000     19000                                  
+SEURER       G102        0020KI   UMD       O                             0456     10000     19000                                  
+SEURER       G102        0030PEPARUMEA      O                             0585     10000     19000                                  
+SEURER       G102        0040NIMANUMEA      O                             0377     10000     19000                                  
+SEURER       L736        0010KOSANUMEA      O                                      10000     19000                                  
+SEURER       L736        0020PODILEYEA      O                             0991     10000     19000                                  
+SEURER       R245        0010LAVARUMEA      O                                      10000     19000                                  
+SEURER       R245        0020KURENUMEA      O                             0380     10000     19000                                  
+SEURER       R245        0030NELOKUMEA      O                             1037     10000     19000                                  
+SEURER       DOM83       0010MAMINUMEA      O                                      05000     15000                                  
+SEURER       DOM83       0020SLEDAUMEA      O                             0399     05000     15000                                  
+SEURER       DOM83       0030UMOO UMEA      O                             0270     05000     15000                                  
+SEURER       G102-       0010MNS  UMD       O                                      10000     19000                                  
+SEURER       G102-       0020NASKAUMEA      O                             0356     10000     19000                                  
+SEURER       UA104       0020PASUDUMEA      O                             0421     21000     45000                                  
+SEURER       M998-       0020VALTAUMEA      O                             0928     10000     19000                                  
+SEURER       M998-       0030VTB  UMD       O                             0403     10000     19000                                  
+SEURER       L32-T       0010SOTETUMEA      O                                      12500     28500                                  
+SEURER       L32-T       0020SUW  EPD       O                             0272     12500     28500                                  
+SEURER       UM861       0070TADUNUMEA      O                             2376     28000     66000                                  
+SEURER       UN743       0010DELONUMEA      O                                      20000     45000                                  
+SEURER       UN743       0020BABUNUMEA      O                             0703     20000     45000                                  
+SEURER       UN743       0030NAMOKUMEA      O                             0346     20000     45000                                  
+SEURER       UN743       0040SORIKUKEA      O                             0087     28000     66000                                  
+SEURER       UG478       0010VTB  UMD       O                                      20000     43000                                  
+SEURER       UG478       0020BABOKUMEA      O                             0403     20000     43000                                  
+SEURER       UG478       0030GIDKAUMEA      O                             0311     20000     43000                                  
+SEURER       UG478       0040PIROSUMEA      O                             0269     20000     43000                                  
+SEURER       UG478       0050BEREGUMEA      O                             0532     20000     43000                                  
+SEURER       UG478       0060GOMADUMEA      O                             0446     20000     43000                                  
+SEURER       UL32-       0010BABUNUMEA      O                                      22000     43000                                  
+SEURER       UL32-       0020GOMADUMEA      O                             0476     22000     43000                                  
+SEURER       UR228       0010MABIRUMEA      O                                      20000     36000                                  
+SEURER       UR228       0020GOL  UMD       O                             0198     20000     36000                                  
+SEURER       UR228       0030GORULUMEA      O                             0249     20000     36000                                  
+SEURER       UR228       0040BABUNUMEA      O                             0608     20000     36000                                  
+SEURER       UR228       0050SONTIUMEA      O                             0708     20000     36000                                  
+SEURER       UR228       0060PNK  UMD       O                             0269     20000     36000                                  
+SEURER       UM854       0010BABUNUMEA      O                                      20000     45000                                  
+SEURER       UM854       0020LIMPOUMEA      O                             0667     20000     45000                                  
+SEURER       UM854       0030MNS  UMD       O                             0392     20000     45000                                  
+SEURER       UM854       0040TEDROUMEA      O                             0249     20000     45000                                  
+SEURER       UM854       0050KUBINUMEA      O                             0189     20000     45000                                  
+SEURER       UM854       0060DUBINEVEA      O                             0775     20000     45000                                  
+SEURER       UR247       0010BABUNUMEA      O                                      20000     45000                                  
+SEURER       UR247       0020LOVIKUMEA      O                             0825     20000     45000                                  
+SEURER       UL33        0010BORATUMEA      O                                      20000     45000                                  
+SEURER       UL33        0020MAGEPUMEA      O                             0350     20000     45000                                  
+SEURER       UL33        0030BABUNUMEA      O                             0172     20000     45000                                  
+SEURER       UL33        0040LUPANUMEA      O                             0692     20000     45000                                  
+SEURER       UL33        0050KI   UMD       O                             0570     20000     45000                                  
+SEURER       UW648       0010BABUNUMEA      O                                      30000     43000                                  
+SEURER       UW648       0020MASADUMEA      O                             0643     30000     43000                                  
+SEURER       UW648       0030GORATUMEA      O                             1234     30000     43000                                  
+SEURER       UL32        0010BABUNUMEA      O                                      20000     45000                                  
+SEURER       UL32        0020OGARAUMEA      O                             0642     20000     45000                                  
+SEURER       UL32        0030GANVIUMEA      O                             0342     20000     45000                                  
+SEURER       UL32        0040KOMENUMEA      O                             0564     20000     45000                                  
+SEURER       UL32        0050NIMANUMEA      O                             0377     20000     45000                                  
+SEURER       UL32        0060SOTETUMEA      O                             0208     20000     45000                                  
+SEURER       UL32        0070SUW  EPD       O                             0272     28500     46000                                  
+SEURER       UM856       0150LOVIKUMEA      O                             0683     20000     45000                                  
+SEURER       UM856       0160GOL  UMD       O                             0263     20000     45000                                  
+SEURER       UM856       0170MAMINUMEA      O                             0266     20000     45000                                  
+SEURER       UM856       0180DERADUMEA      O                             0277     20000     45000                                  
+SEURER       UM856       0190KEDUGUMEA      O                             0045     20000     45000                                  
+SEURER       UM856       0200KOPONUMEA      O                             0095     20000     45000                                  
+SEURER       UM856       0210TADIGUMEA      O                             0319     20000     45000                                  
+SEURER       UM856       0220LUBINUMEA      O                             0080     20000     45000                                  
+SEURER       UM856       0230RUMIKUMEA      O                             0096     20000     45000                                  
+SEURER       UM856       0240VTB  UMD       O                             0404     20000     45000                                  
+SEURER       UM856       0250OLAGOUUEA      O                             0408     20000     45000                                  
+SEURER       UA68        0020KOMAPUMEA      O                             1319     21000     43000                                  
+SEURER       UA68        0030NASKAUMEA      O                             0161     22000     43000                                  
+SEURER       UA68        0040BAGAMUMEA      O                             0531     22000     43000                                  
+SEURER       UA68        0050GOMADUMEA      O                             0587     22000     43000                                  
+SEURER       UA68        0060LASDAUMEA      O                             0259     22000     43000                                  
+SEURER       UM996       0060LOVIKUMEA      O                             1414     20000     45000                                  
+SEURER       UM996       0070BAGAMUMEA      O                             0719     20000     45000                                  
+SEURER       UM996       0080LIMPOUMEA      O                             0491     20000     45000                                  
+SEURER       UM996       0090KOLAKUMEA      O                             0269     20000     45000                                  
+SEURER       UM996       0100KI   UMD       O                             0408     20000     45000                                  
+SEURER       UM996       0110DUKATUMEA      O                             0528     20000     45000                                  
+SEURER       UM996       0120NEDAMEYEA      O                             0556     19500     66000                                  
+SEURER       UM984       0220LETKIUMEA      O                             1500     28500     46000                                  
+SEURER       UM984       0230VALOLUMEA      O                             0032     20000     43000                                  
+SEURER       UM984       0240KI   UMD       O                             1542     20000     43000                                  
+SEURER       UB246       0010LASDAUMEA      O                                      28000     66000                                  
+SEURER       UB246       0020BASORUKEA      O                             0882     28000     66000                                  
+SEURER       UR225       0010BORATUMEA      O                                      28000     66000                                  
+SEURER       UR225       0020LUTIKUKEA      O                             0550     29000     66000                                  
+SEURER       UM865       0010VTB  UMD       O                                      20000     45000                                  
+SEURER       UM865       0020KODONUMEA      O                             0407     20000     45000                                  
+SEURER       UM865       0030BATKUUMEA      O                             0908     19500     66000                                  
+SEURER       UM865       0040DEVKAEYEA      O                             0200     19500     66000                                  
+SEURER       UN616       0070TADUNUMEA      O                             1607     28000     66000                                  
+SEURER       UN616       0080POTAPUMEA      O                             0718     20000     43000                                  
+SEURER       UN616       0090NIMANUMEA      O                             0357     20000     43000                                  
+SEURER       UN616       0100TUMKIEYEA      O                             0187     20000     43000                                  
+SEURER       UN623       0070LOVIKUMEA      O                                      28000     66000                                  
+SEURER       UN623       0080TALOBUKEA      O                             1479     28000     66000                                  
+SEURER       UN623       0090NASKAUMEA      O                                      20000     45000                                  
+SEURER       UN623       0100TIVANUMEA      O                             0215     20000     45000                                  
+SEURER       UN623       0110TEDROUMEA      O                             0334     20000     45000                                  
+SEURER       UN623       0120LENOKUMEA      O                             0215     20000     45000                                  
+SEURER       UN623       0130PODILEYEA      O                             0485     19500     66000                                  
+SEURER       UN869       0120NELIMUMEA      O                                      20000     45000                                  
+SEURER       UN869       0130KI   UMD       O                             1078     20000     45000                                  
+SEURER       UN869       0140MATUSUMEA      O                             0252     20000     45000                                  
+SEURER       UN869       0150TEDROUMEA      O                             0216     20000     45000                                  
+SEURER       UN869       0160PENALUMEA      O                                      20000     45000                                  
+SEURER       UN869       0170KOSANUMEA      O                             0304     20000     45000                                  
+SEURER       UN869       0180VTB  UMD       O                             0426     20000     45000                                  
+SEURER       UN869       0520RUDKAUMEA      O                             0755     28500     46000                                  
+SEURER       UR243       0010DELONUMEA      O                                      20000     45000                                  
+SEURER       UR243       0020BEREGUMEA      O                             0674     20000     45000                                  
+SEURER       UR243       0030GORULUMEA      O                             0166     20000     45000                                  
+SEURER       UR243       0040LOVIKUMEA      O                             0308     20000     45000                                  
+SEURER       UM863       0010SODKOUMEA      O                                      20000     45000                                  
+SEURER       UM863       0020BERISUMEA      O                             0199     20000     45000                                  
+SEURER       UM863       0030MNS  UMD       O                             0333     20000     45000                                  
+SEURER       UM863       0040GOVIKUMEA      O                             0458     20000     45000                                  
+SEURER       UM863       0050RUDKAUMEA      O                             1136     31000     45000                                  
+SEURER       UL749       0020KOPONUMEA      O                             0662     20000     47000                                  
+SEURER       UL749       0030RALIKUMEA      O                             0031     20000     47000                                  
+SEURER       UL749       0040PENATUMEA      O                             0188     20000     47000                                  
+SEURER       UL749       0050BERISUMEA      O                             0484     20000     47000                                  
+SEURER       UL749       0060TEDROUMEA      O                             0390     20000     47000                                  
+SEURER       UL749       0070LITVIUMEA      O                             0389     20000     47000                                  
+SEURER       UL749       0080LAVARUMEA      O                             0391     20000     47000                                  
+SEURER       UL749       0090NEDAMEYEA      O                             0538     19500     66000                                  
+SEURER       UN858       0340RATINUMEA      O                                      20000     45000                                  
+SEURER       UN858       0350VTB  UMD       O                             0198     20000     45000                                  
+SEURER       UN858       0360SIVRUUMEA      O                             0404     20000     45000                                  
+SEURER       UN858       0370LAVARUMEA      O                             1211     20000     45000                                  
+SEURER       UN858       0380VNO  EYD       O                             0157     19500     66000                                  
+SEURER       UL741       0010DUKATUMEA      O                                      19500     66000                                  
+SEURER       UL741       0020BILDIEYEA      O                             0244     19500     66000                                  
+SEURER       UL23        0050GORATUMEA      O                             1844     29500     46000                                  
+SEURER       UL23        0060OGARAUMEA      O                             1246     30000     45000                                  
+SEURER       UL23        0070LOVIKUMEA      O                             1430     30000     45000                                  
+SEURER       UM998       0220VALTAUMEA      O                             0928     20000     45000                                  
+SEURER       UM998       0230VTB  UMD       O                             0403     20000     45000                                  
+SEURER       UG38        0010BORATUMEA      O                                      20000     45000                                  
+SEURER       UG38        0020DELONUMEA      O                             1182     20000     45000                                  
+SEURER       UG38        0030MNS  UMD       O                             0391     20000     45000                                  
+SEURER       UR246       0010BORATUMEA      O                                      20000     43000                                  
+SEURER       UR246       0020GOMADUMEA      O                             0279     20000     43000                                  
+SEURER       UR246       0030ROMALUMEA      O                             0291     20000     43000                                  
+SEURER       UR246       0040GOL  UMD       O                             0269     20000     43000                                  
+SEURER       UL748       0020KEDUGUMEA      O                             0619     20000     47000                                  
+SEURER       UL748       0030MNS  UMD       O                             1016     20000     47000                                  
+SEURER       UP727       0020DIBONUMEA      O                             2368     28000     66000                                  
+SEURER       UP727       0030PNK  UMD       O                             0156     20000     43000                                  
+SEURER       UP727       0040GANVIUMEA      O                             0492     20000     43000                                  
+SEURER       UP727       0050BUSINUMEA      O                             0196     20000     43000                                  
+SEURER       UP727       0060KI   UMD       O                             0373     20000     43000                                  
+SEURER       UP727       0070MOLODUMEA      O                             0242     20000     43000                                  
+SEURER       UP727       0080LITVIUMEA      O                             0128     20000     43000                                  
+SEURER       UP727       0090KURENUMEA      O                             0104     20000     43000                                  
+SEURER       UP727       0100DUBINEVEA      O                             0687     20000     43000                                  
+SEURER       UL999       0040VTB  UMD       O                                      20000     45000                                  
+SEURER       UL999       0050LAPKIUMEA      O                             0404     20000     45000                                  
+SEURER       UL999       0060KURPIUMEA      O                             0365     20000     45000                                  
+SEURER       UL999       0070MNS  UMD       O                             0333     20000     45000                                  
+SEURER       UL999       0080KOLOSUMEA      O                             0457     20000     45000                                  
+SEURER       UL999       0090BUSINUMEA      O                             0192     20000     45000                                  
+SEURER       UL999       0100DOMANUMEA      O                             0745     20000     45000                                  
+SEURER       UL999       0110RAVOKUMEA      O                             0341     20000     45000                                  
+SEURER       UL999       0120KUSIPUMEA      O                             0090     20000     45000                                  
+SEURER       UL999       0130TOSPOUMEA      O                             0108     20000     45000                                  
+SEURER       UL999       0140RILABEPEA      O                             1025     28500     46000                                  
+SEURER       UA260       0010SODKOUMEA      O                                      20000     43000                                  
+SEURER       UA260       0020DEDOKUMEA      O                             0102     20000     43000                                  
+SEURER       UA260       0030REKTAUMEA      O                             0098     20000     43000                                  
+SEURER       UA260       0040NASKAUMEA      O                             0188     20000     43000                                  
+SEURER       UA260       0050DELONUMEA      O                                      20000     43000                                  
+SEURER       UA260       0060OGARAUMEA      O                             0645     20000     43000                                  
+SEURER       UA260       0070PNK  UMD       O                             0518     20000     43000                                  
+SEURER       UA260       0100VTB  UMD       O                                      20000     43000                                  
+SEURER       UA260       0110NELOKUMEA      O                             0383     20000     43000                                  
+SEURER       UA260       0120RINALUMEA      O                             0034     20000     43000                                  
+SEURER       UA260       0130SUMOKUMEA      O                             0109     20000     43000                                  
+SEURER       UB102       0010DELONUMEA      O                                      20000     43000                                  
+SEURER       UB102       0020LUPANUMEA      O                             0376     20000     43000                                  
+SEURER       UB102       0030SOSUDUMEA      O                             1070     20000     43000                                  
+SEURER       UB102       0040KUSIPUMEA      O                             0430     20000     43000                                  
+SEURER       UB102       0050LUBINUMEA      O                                      20000     43000                                  
+SEURER       UB102       0060DULEBUMEA      O                             0511     20000     43000                                  
+SEURER       UB102       0070NASKAUMEA      O                             0208     20000     43000                                  
+SEURER       UA260       0010DELONUMEA      O                                      20000     43000                                  
+SEURER       UA260       0020NASKAUMEA      O                             0186     20000     43000                                  
+SEURER       UP851       0010RAVOKUMEA      O                                      20000     45000                                  
+SEURER       UP851       0020DIVIMUMEA      O                             0352     20000     45000                                  
+SEURER       UP851       0030PNK  UMD       O                             0399     20000     45000                                  
+SEURER       UP851       0040KUNINUMEA      O                             0269     20000     45000                                  
+SEURER       UP851       0050MAGEPUMEA      O                             0816     20000     45000                                  
+SEURER       UP851       0060GOMADUMEA      O                             0342     20000     45000                                  
+SEURER       UM870       0010DUKATUMEA      O                                      19500     66000                                  
+SEURER       UM870       0020GENSAEVEA      O                             1405     19500     66000                                  
+SEURER       UL735       0070DUKATUMEA      O                             0791     20000     43000                                  
+SEURER       UL735       0080LITVIUMEA      O                             0417     20000     43000                                  
+SEURER       UL735       0090PENALUMEA      O                             0597     20000     43000                                  
+SEURER       UL735       0100RINALUMEA      O                             0432     20000     43000                                  
+SEURER       UL979       0030ENOBIUMEA      O                             2919     28500     46000                                  
+SEURER       UL979       0040NIMANUMEA      O                             0155     20000     45000                                  
+SEURER       UL979       0050ELDOKUMEA      O                             0376     20000     45000                                  
+SEURER       UL979       0060MATUSUMEA      O                             0818     20000     45000                                  
+SEURER       UL979       0070KURPIUMEA      O                             0491     20000     43000                                  
+SEURER       UL979       0080SUMOKUMEA      O                             0320     20000     43000                                  
+SEURER       UL979       0090PASUDUMEA      O                             0115     20000     43000                                  
+SEURER       UG102       0010LOVIKUMEA      O                                      20000     45000                                  
+SEURER       UG102       0020GOGERUMEA      O                             0403     20000     45000                                  
+SEURER       UG102       0030NASKAUMEA      O                             0791     28000     45000                                  
+SEURER       UL32-       0010GOMADUMEA      O                                      22000     45000                                  
+SEURER       UL32-       0020KIBERUKEA      O                             0263     22000     45000                                  
+SEURER       UT711       0010KI   UMD       O                                      20000     40000                                  
+SEURER       UT711       0020GORATUMEA      O                             1098     20000     40000                                  
+SEURER       UT711       0030WAR  EPD       O                             1300     28500     46000                                  
+SEURER       UL29        0030LAVARUMEA      O                                      19500     66000                                  
+SEURER       UL29        0040VABEREYEA      O                             0866     19500     66000                                  
+SEURER       UG102       0010NASKAUMEA      O                                      28000     45000                                  
+SEURER       UG102       0020MNS  UMD       O                             0356     28000     45000                                  
+SEURER       UG102       0030KI   UMD       O                             0456     28000     45000                                  
+SEURER       UG102       0040PEPARUMEA      O                             0585     20000     41000                                  
+SEURER       UG102       0050NIMANUMEA      O                             0377     20000     41000                                  
+SEURER       UL736       0010KOSANUMEA      O                                      20000     43000                                  
+SEURER       UL736       0020PODILEYEA      O                             0991     20000     43000                                  
+SEURER       UM874       0020LAVARUMEA      O                             1049     19500     66000                                  
+SEURER       UR245       0010LAVARUMEA      O                                      20000     40000                                  
+SEURER       UR245       0020KURENUMEA      O                             0380     20000     40000                                  
+SEURER       UR245       0030NELOKUMEA      O                             1037     20000     40000                                  
+SEURER       N869-       0010NELIMUMEA      O                                      20000     45000                                  
+SEURER       N869-       0020RUDKAUMEA      O                             0104     20000     45000                                  
+SEURER       N869-       0030PENALUMEA      O                                      20000     45000                                  
+SEURER       N869-       0040TEDROUMEA      O                             0268     20000     45000                                  

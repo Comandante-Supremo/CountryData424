@@ -1,0 +1,356 @@
+SEUREAENRT   ABINO EK           N55580510E0095939100                                                                                
+SEUREAENRT   AE002 EK           N57053286E009484353                                                                                 
+SEUREAENRT   AE004 EK           N57051912E009450614                                                                                 
+SEUREAENRT   AE008 EK           N57045118E009374931                                                                                 
+SEUREAENRT   AE009 EK           N57044413E009360013                                                                                 
+SEUREAENRT   AE010 EK           N57043699E009340987                                                                                 
+SEUREAENRT   AE227 EK           N57021474E009351643                                                                                 
+SEUREAENRT   AH101 EK           N56192338E010251505                                                                                 
+SEUREAENRT   AH102 EK           N56200354E010182824                                                                                 
+SEUREAENRT   ALINI EK           N56245967E010165433                                                                                 
+SEUREAENRT   AMINO EK           N57041910E009302700                                                                                 
+SEUREAENRT   BAKIT EK           N57065710E010113500                                                                                 
+SEUREAENRT   BAMPI EK           N55503446E008161064                                                                                 
+SEUREAENRT   BANLU EK           N55293510E0081412100                                                                                
+SEUREAENRT   BARLA EK           N55071300E009332900                                                                                 
+SEUREAENRT   BASLO EK           N55275400E012251300                                                                                 
+SEUREAENRT   BI362 EK           N55483423E008551905                                                                                 
+SEUREAENRT   BI363 EK           N55510058E009053305                                                                                 
+SEUREAENRT   BI364 EK           N55523675E009172992                                                                                 
+SEUREAENRT   BI365 EK           N55470071E009002039                                                                                 
+SEUREAENRT   BI366 EK           N55424569E008561007                                                                                 
+SEUREAENRT   BI367 EK           N55562308E009025861                                                                                 
+SEUREAENRT   BISTA EK           N55121218E012072298                                                                                 
+SEUREAENRT   BUKAL EK           N55095610E009401300                                                                                 
+SEUREAENRT   CH371 EK           N55524100E012062400                                                                                 
+SEUREAENRT   CH374 EK           N55322210E012223600                                                                                 
+SEUREAENRT   CH377 EK           N55252600E012233300                                                                                 
+SEUREAENRT   CH378 EK           N55561810E012213800                                                                                 
+SEUREAENRT   CH379 EK           N55595710E012213200                                                                                 
+SEUREAENRT   CH384 EK           N55353510E011543600                                                                                 
+SEUREAENRT   CH385 EK           N55352500E011595200                                                                                 
+SEUREAENRT   CH386 EK           N55394500E0120629100                                                                                
+SEUREAENRT   CH398 EK           N55484500E012204700                                                                                 
+SEUREAENRT   CH399 EK           N55402310E0122509100                                                                                
+SEUREAENRT   CH441 EK           N55252110E012203449                                                                                 
+SEUREAENRT   CH442 EK           N55231010E012171471                                                                                 
+SEUREAENRT   CH443 EK           N55280000E012151218                                                                                 
+SEUREAENRT   CH444 EK           N55224165E012073042                                                                                 
+SEUREAENRT   CH445 EK           N55340000E0121659100                                                                                
+SEUREAENRT   CH446 EK           N55413000E012133333                                                                                 
+SEUREAENRT   CH448 EK           N55293876E011553531                                                                                 
+SEUREAENRT   CH449 EK           N55233819E011595994                                                                                 
+SEUREAENRT   CH884 EK           N55473853E012164345                                                                                 
+SEUREAENRT   CH887 EK           N55465956E011473627                                                                                 
+SEUREAENRT   CH888 EK           N55341576E0115210100                                                                                
+SEUREAENRT   DINUT EK           N55095900E009362900                                                                                 
+SEUREAENRT   DOBEL EK           N55362188E011232375                                                                                 
+SEUREAENRT   DOSUR EK           N54513010E009113900                                                                                 
+SEUREAENRT   EGABA EK           N55231768E012050173                                                                                 
+SEUREAENRT   FISKO EK           N55410410E0114615100                                                                                
+SEUREAENRT   GATMA EK           N55280575E011505163                                                                                 
+SEUREAENRT   GELBA EK           N55434510E008490000                                                                                 
+SEUREAENRT   GINUB EK           N56154314E010135787                                                                                 
+SEUREAENRT   GIPIN EK           N56200410E0101843100                                                                                
+SEUREAENRT   GOLMI EK           N55463710E012305900                                                                                 
+SEUREAENRT   INKIG EK           N55380010E012364600                                                                                 
+SEUREAENRT   INTET EK           N56133469E009244109                                                                                 
+SEUREAENRT   KA008 EK           N56154353E009210445                                                                                 
+SEUREAENRT   KAR09 EK           N56175027E009042783                                                                                 
+SEUREAENRT   KAR26 EK           N56172943E008333613                                                                                 
+SEUREAENRT   KAR27 EK           N56174364E008532029                                                                                 
+SEUREAENRT   KAR29 EK           N56220001E008441320                                                                                 
+SEUREAENRT   KAR77 EK           N56175531E009142004                                                                                 
+SEUREAENRT   KAR95 EK           N56240519E008360299                                                                                 
+SEUREAENRT   KELEP EK           N55092210E009301350                                                                                 
+SEUREAENRT   KELOM EK           N55500300E0111006100                                                                                
+SEUREAENRT   KEMEG EK           N56431410E008522100                                                                                 
+SEUREAENRT   KETAL EK           N55160500E0112157100                                                                                
+SEUREAENRT   KOR06 EK           N55214100E011303800                                                                                 
+SEUREAENRT   KOR07 EK           N55242900E0112621100                                                                                
+SEUREAENRT   KR005 EK           N56175089E009080757                                                                                 
+SEUREAENRT   KR063 EK           N56175330E009183462                                                                                 
+SEUREAENRT   KUNAR EK           N55361133E0080954100                                                                                
+SEUREAENRT   LARSO EK           N55335570E012342980                                                                                 
+SEUREAENRT   LATVO EK           N55335310E008545000                                                                                 
+SEUREAENRT   LOKSA EK           N55450500E0093047100                                                                                
+SEUREAENRT   LONPA EK           N55034750E009274683                                                                                 
+SEUREAENRT   LUPUR EK           N54592710E0120302100                                                                                
+SEUREAENRT   LUTUS EK           N56060210E0095939100                                                                                
+SEUREAENRT   MALIX EK           N55451100E0121834100                                                                                
+SEUREAENRT   MAXEL EK           N55123331E011540893                                                                                 
+SEUREAENRT   MIC63 EK           N55122410E011545500                                                                                 
+SEUREAENRT   NARBA EK           N55511110E008065000                                                                                 
+SEUREAENRT   NAROL EK           N56002010E0121329100                                                                                
+SEUREAENRT   NEBSA EK           N55462910E0081659100                                                                                
+SEUREAENRT   NIMKU EK           N57021700E0090111100                                                                                
+SEUREAENRT   NUSMO EK           N55353466E012261299                                                                                 
+SEUREAENRT   ODN25 EK           N55331000E0112345100                                                                                
+SEUREAENRT   ODN27 EK           N55282300E0112417100                                                                                
+SEUREAENRT   R1375 EK           N56175085E009072866                                                                                 
+SEUREAENRT   R2507 EK           N57053737E009500017                                                                                 
+SEUREAENRT   R2508 EK           N57054744E009523675                                                                                 
+SEUREAENRT   RADIS EK           N56323000E0095941100                                                                                
+SEUREAENRT   REVBO EK           N56174200E0084535100                                                                                
+SEUREAENRT   RIKSU EK           N56175600E0092702100                                                                                
+SEUREAENRT   RK291 EK           N55324624E012161895                                                                                 
+SEUREAENRT   RK292 EK           N55310552E012221635                                                                                 
+SEUREAENRT   RK361 EK           N55462674E011262108                                                                                 
+SEUREAENRT   RK362 EK           N55262171E011375351                                                                                 
+SEUREAENRT   RK363 EK           N55372286E011594945                                                                                 
+SEUREAENRT   RK364 EK           N55364312E011482783                                                                                 
+SEUREAENRT   RK365 EK           N55410194E011463735                                                                                 
+SEUREAENRT   RK366 EK           N55393882E011512836                                                                                 
+SEUREAENRT   RK367 EK           N55371300E011514377                                                                                 
+SEUREAENRT   RK368 EK           N55380842E011570534                                                                                 
+SEUREAENRT   RK369 EK           N55354589E012053766                                                                                 
+SEUREAENRT   RK371 EK           N55375303E011515753                                                                                 
+SEUREAENRT   RK373 EK           N55302530E012025475                                                                                 
+SEUREAENRT   RK374 EK           N55270989E011592935                                                                                 
+SEUREAENRT   RK375 EK           N55243555E011564761                                                                                 
+SEUREAENRT   RK376 EK           N55274348E011541877                                                                                 
+SEUREAENRT   ROBUS EK           N55063310E0114310100                                                                                
+SEUREAENRT   RUBAT EK           N55340850E012340390                                                                                 
+SEUREAENRT   RUDOV EK           N56205559E010093503                                                                                 
+SEUREAENRT   RW10R EK           N56181977E010355124                                                                                 
+SEUREAENRT   RW28L EK           N56180417E010382584                                                                                 
+SEUREAENRT   SB141 EK           N55024069E009401795                                                                                 
+SEUREAENRT   SB142 EK           N55053457E009355668                                                                                 
+SEUREAENRT   SISVA EK           N55225263E011545997                                                                                 
+SEUREAENRT   SKR01 EK           N55133257E009141199                                                                                 
+SEUREAENRT   SKR02 EK           N55141313E009092709                                                                                 
+SEUREAENRT   SKR04 EK           N55144198E009060349                                                                                 
+SEUREAENRT   SKR06 EK           N55151074E009023981                                                                                 
+SEUREAENRT   SKR09 EK           N55112364E009280124                                                                                 
+SEUREAENRT   SKR10 EK           N55091713E009412918                                                                                 
+SEUREAENRT   SKR11 EK           N55204702E008580446                                                                                 
+SEUREAENRT   SKR12 EK           N55153492E009333432                                                                                 
+SEUREAENRT   SKR16 EK           N55105215E009312336                                                                                 
+SEUREAENRT   SKR17 EK           N55243690E008495889                                                                                 
+SEUREAENRT   SKR22 EK           N54533010E0090006100                                                                                
+SEUREAENRT   SKR25 EK           N55130222E009172399                                                                                 
+SEUREAENRT   SKR28 EK           N55174723E008435811                                                                                 
+SEUREAENRT   SKR82 EK           N55162002E009421309                                                                                 
+SEUREAENRT   SONAM EK           N55585071E008431598                                                                                 
+SEUREAENRT   SONAS EK           N55184160E011351135                                                                                 
+SEUREAENRT   SORGA EK           N55585331E011485057                                                                                 
+SEUREAENRT   SOTAS EK           N55263624E012182061                                                                                 
+SEUREAENRT   TALSA EK           N55062410E009411100                                                                                 
+SEUREAENRT   TISET EK           N55163804E008542463                                                                                 
+SEUREAENRT   TNO02 EK           N55470310E0112210100                                                                                
+SEUREAENRT   TOBIS EK           N55150848E011403461                                                                                 
+SEUREAENRT   VES12 EK           N55361000E008392000                                                                                 
+SEUREAENRT   VES13 EK           N55403587E008393533                                                                                 
+SEUREAENRT   VES15 EK           N55324300E008443000                                                                                 
+SEUREAENRT   VES30 EK           N55292110E0090924100                                                                                
+SEUREAENRT   VES46 EK           N55354510E0093830100                                                                                
+SEUREAENRT   VES47 EK           N55525400E0093446100                                                                                
+SEUREAENRT   VESIL EK           N57305710E010323900                                                                                 
+SEUREAENRT   VIBUM EK           N55285126E012301040                                                                                 
+SEURDB       GL    EK000398     N57050175E009404833                                                                                 
+SEURDB       TU    EK000374     N56171663E010463099                                                                                 
+SEURDB       ML    EK000324     N56190705E010273359                                                                                 
+SEURDB       GE    EK000395     N55441021E009010690                                                                                 
+SEURDB       LO    EK000341     N55444013E009164681                                                                                 
+SEURDB       EJ    EK000401     N55322851E008415911                                                                                 
+SEURDB       HP    EK000376     N55304117E008244579                                                                                 
+SEURDB       KP    EK000351     N56174751E008580653                                                                                 
+SEURDB       KA    EK000369     N56175442E009141305                                                                                 
+SEURDB       RK    EK000368     N55372327E011594981                                                                                 
+SEURDB       SD    EK000339     N57300277E010090253                                                                                 
+SEURDB       SP    EK000321     N55112492E009272984                                                                                 
+SEURDB       IN    EK000316     N55011386E009422316                                                                                 
+SEURDB       VJ    EK000328     N55591913E008252797                                                                                 
+SEURDB       AU    EK000346     N55592758E008190609                                                                                 
+SEURDB       TW    EK000394     N57043688E008372541                                                                                 
+SEURDB       TE    EK000331     N57031265E008515190                                                                                 
+SEURDB       KD    EK000357     N55263587E009200542                                                                                 
+SEURD        AAL   EK011670V    N57061339E009594408                                                                                 
+SEURD        KAS   EK011250V    N55352587E012364897                                                                                 
+SEURD        KOR   EK011280V    N55262171E011375351                                                                                 
+SEURD        RAM   EK011185V    N56284214E008111451                                                                                 
+SEURD        SKR   EK011040V    N55134418E009125061                                                                                 
+SEURD        TNO   EK011740V    N55462674E011262108                                                                                 
+SEURD        VES   EK011660V    N55361133E008175986                                                                                 
+SEURD        TR    EK011110 D   N56180099E010381084                                                                                 
+SEURD        LEL   EK011070 D   N55442280E009102717                                                                                 
+SEURD        CH    EK011050 D   N55353589E012362955                                                                                 
+SEURD        KA    EK010990 D   N55371798E012382993                                                                                 
+SEURD        OXS   EK010950 D   N55372067E012395727                                                                                 
+SEURD        KLK   EK011090 D   N55363503E012380109                                                                                 
+SEURD        OY    EK010890 D   N55365109E012394289                                                                                 
+SEURD        KV    EK011150 D   N55351581E012070908                                                                                 
+SEURD        CIM   EK011115 D   N54572939E009475503                                                                                 
+SEURD        SDL   EK011015 D   N57300906E010140506                                                                                 
+SEURD        AE    EK010990 D   N57055020E009522187                                                                                 
+SEURD        YT    EK010990 D   N57055020E009522187                                                                                 
+SEURD        AAL   EK011670 D   N57061416E009593411                                                                                 
+SEURD        KAS   EK011250 D   N55352587E012364897                                                                                 
+SEURD        KOR   EK011280 D   N55262171E011375351                                                                                 
+SEURD        RAM   EK011185 D   N56284214E008111451                                                                                 
+SEURD        SKR   EK011040 D   N55134418E009125061                                                                                 
+SEURD        TNO   EK011740 D   N55462674E011262108                                                                                 
+SEURD        VES   EK011660 D   N55361133E008175986                                                                                 
+SEURD        AAL   EK011670 D   N57061416E009593411                                                                                 
+SEURD        KAR   EK011000 D   N56174803E009003095                                                                                 
+SEURD        VLL   EK011400 D   N55472845E012054474                                                                                 
+SEURER       Z32         0040KELOMEKEA      O                             0231     03500     24500                                  
+SEURER       Z32         0050TOBMI  EA      O                             0394     03500     24500                                  
+SEURER       N850        0270MIC63EKEA      O                             0337     09500     24500                                  
+SEURER       N850        0280GOLMIEKEA      O                             0399     09500     24500                                  
+SEURER       N850        0290MISBI  EA      O                             0090     09500     24500                                  
+SEURER       N873        0040RADISEKEA      O                                      03500     24500                                  
+SEURER       N873        0050GOTEX  EA      O                             0528     03500     24500                                  
+SEURER       N873        0180VES  EKD       O                             0119     03500     24500                                  
+SEURER       L983        0100ROBUSEKEA      O                                      03500     24500                                  
+SEURER       L983        0110TUDLO  EA      O                             0381     03500     24500                                  
+SEURER       L983        0120VES  EKD       O                                      03500     24500                                  
+SEURER       L983        0130VES15EKEA      O                             0154     03500     24500                                  
+SEURER       L983        0140VES30EKEA      O                             0145     03500     24500                                  
+SEURER       T660        0010BAMPIEKEA      RL                                     19500     24500                                  
+SEURER       T660        0020NARBAEKEA      RL                            0053     19500     24500                                  
+SEURER       T660        0030NAVIK  EA      RL                            0049     19500     24500                                  
+SEURER       M609        0010VES  EKD       O                                      03500     24500                                  
+SEURER       M609        0020BAMPIEKEA      O                             0144     03500     24500                                  
+SEURER       M609        0030RAM  EKD       O                             0383     03500     24500                                  
+SEURER       M609        0040RASVI  EA      O                             0489     03500     24500                                  
+SEURER       TR10        0030SKR22EKEA      RL                            0063     25000     45000                                  
+SEURER       TR10        0040SKR  EKD       RL                            0215     25000     46000                                  
+SEURER       L975        0270ODN25EKEA      O                             0450     09500     24500                                  
+SEURER       L975        0280ODN    D       O                             0253     03500     24500                                  
+SEURER       L975        0300VES46EKEA      O                             0120     03500     24500                                  
+SEURER       L975        0310VES12EKEA      O                             0335     03500     24500                                  
+SEURER       L975        0320VES  EKD       O                             0121     19500     24500                                  
+SEURER       L975        0330GOLUM  EA      O                             1029     19500     24500                                  
+SEURER       N866        0160KEMEGEKEA      O                                      19500     24500                                  
+SEURER       N866        0170RAM  EKD       O                             0269     19500     24500                                  
+SEURER       M602        0050LUTUSEKEA      O                                      03500     24500                                  
+SEURER       M602        0060ODN    D       O                             0383     03500     24500                                  
+SEURER       M602        0070ROBUSEKEA      O                             0461     03500     24500                                  
+SEURER       T503        0010BISTAEKEA      RL                                     03500     24500                                  
+SEURER       T503        0020GIMRU  EA      RL                            0477     03500     24500                                  
+SEURER       T502        0050TOBISEKEA      RL                            0337     03500     24500                                  
+SEURER       M611        0080LUPUREKEA      O                             0113     03500     24500                                  
+SEURER       M611        0090KOPEX  EA      O                             0201     03500     24500                                  
+SEURER       L983-       0020ROBUSEKEA      O                             0236     03500     24500                                  
+SEURER       N872        0030DOBELEKEA      O                                      09500     24500                                  
+SEURER       N872        0040NAROLEKEA      O                             0370     09500     24500                                  
+SEURER       N872        0050LASGI  EA      O                             0100     09500     24500                                  
+SEURER       T508        0020ROBUSEKEA      RL                            0349     03500     24500                                  
+SEURER       T507        0010DOBELEKEA      RL                                     03500     24500                                  
+SEURER       T507        0020ODN    D       RL                            0250     03500     24500                                  
+SEURER       P615        0090LUTUSEKEA      O                                      03500     24500                                  
+SEURER       P615        0100RADISEKEA      O                             0265     03500     24500                                  
+SEURER       T55         0010INTETEKEA      RL                                     03500     24500                                  
+SEURER       T55         0020EVAKI  EA      RL                            0644     03500     24500                                  
+SEURER       T55         0040LUTUSEKEA      RL                                     03500     24500                                  
+SEURER       T55         0050TESPI  EA      RL                            0217     03500     24500                                  
+SEURER       N581-       0020RAM  EKD       O                             0275     19500     24500                                  
+SEURER       T59         0020ROBUSEKEA      RL                            0304     03500     24500                                  
+SEURER       T59         0030KETALEKEA      RL                            0154     03500     24500                                  
+SEURER       T59         0040KOR06EKEA      RL                            0075     03500     24500                                  
+SEURER       T59         0050KOR  EKD       RL                            0062     03500     24500                                  
+SEURER       T51         0050KELOMEKEA      RL                                     03500     24500                                  
+SEURER       T51         0060KOPEX  EA      RL                            0529     03500     24500                                  
+SEURER       L990        0030LUPUREKEA      O                             0245     03500     24500                                  
+SEURER       L990        0040MARIP  EA      O                             0271     03500     24500                                  
+SEURER       P613        0030VES  EKD       O                             0240     19500     24500                                  
+SEURER       T505        0020RAM  EKD       RL                            0936     19500     24500                                  
+SEURER       T505        0030TUKTU  EA      RL                            0936     03500     24500                                  
+SEURER       P601-       0020KEMEGEKEA      O                             0460     03500     24500                                  
+SEURER       P601-       0030VES  EKD       O                             0698     03500     24500                                  
+SEURER       T504        0010MAXELEKEA      RL                                     05000     24500                                  
+SEURER       T504        0020ROBUSEKEA      RL                            0087     05000     24500                                  
+SEURER       T504        0030KOPEX  EA      RL                            0120     05000     24500                                  
+SEURER       T58         0020SONASEKEA      RL                            0209     03500     24500                                  
+SEURER       P729-       0010KOR  EKD       O                                      03500     24500                                  
+SEURER       P729-       0020KOR07EKEA      O                             0068     03500     24500                                  
+SEURER       P729-       0030LUGAS  EA      O                             0169     03500     24500                                  
+SEURER       T510        0020KOR  EKD       RL                            0369     03500     04500                                  
+SEURER       T510        0030ODN27EKEA      RL                            0080     03500     04500                                  
+SEURER       T510        0040ODN    D       RL                            0264     03500     04500                                  
+SEURER       P602        0030VES  EKD       O                             1342     03500     24500                                  
+SEURER       T50         0030SKR  EKD       RL                            0257     03500     24500                                  
+SEURER       P992        0010VES  EKD       O                                      19500     24500                                  
+SEURER       P992        0020NARBAEKEA      O                             0163     19500     24500                                  
+SEURER       P992        0030LINVI  EA      O                             0749     19500     24500                                  
+SEURER       T501        0020SORGAEKEA      RL                            0152     03500     24500                                  
+SEURER       P619        0030VES  EKD       O                             0192     19500     24500                                  
+SEURER       P614        0010RAM  EKD       O                                      19500     24500                                  
+SEURER       P614        0020RAMUD  EA      O                             0397     19500     24500                                  
+SEURER       T54-T       0030TNO02EKEA      RL                            0153     03500     24500                                  
+SEURER       T54-T       0040TNO  EKD       RL                            0024     03500     24500                                  
+SEURER       P729        0010TALSAEKEA      O                                      03500     24500                                  
+SEURER       P729        0020TUDLO  EA      O                             0345     03500     24500                                  
+SEURER       T56         0010VES  EKD       RL                                     03500     24500                                  
+SEURER       T56         0020VES13EKEA      RL                            0130     03500     24500                                  
+SEURER       T56         0030VES47EKEA      RL                            0334     03500     24500                                  
+SEURER       UN873       0530RADISEKEA      O                                      24500     46000                                  
+SEURER       UN873       0540GOTEX  EA      O                             0528     24500     46000                                  
+SEURER       UN873       0660VES  EKD       O                             0119     24500     46000                                  
+SEURER       UN850       0040GOLMIEKEA      O                             0736     24500     46000                                  
+SEURER       UN850       0050MISBI  EA      O                             0090     24500     46000                                  
+SEURER       UT504       0100ROBUSEKEA      O                             0120     24500     46000                                  
+SEURER       UT504       0110MAXELEKEA      O                             0087     24500     46000                                  
+SEURER       UT660       0010BAMPIEKEA      O                                      24500     46000                                  
+SEURER       UT660       0020NARBAEKEA      O                             0053     24500     46000                                  
+SEURER       UT660       0030NAVIK  EA      O                             0049     24500     46000                                  
+SEURER       UM609       0010VES  EKD       O                                      24500     46000                                  
+SEURER       UM609       0020BAMPIEKEA      O                             0144     24500     46000                                  
+SEURER       UM609       0030RAM  EKD       O                             0383     24500     46000                                  
+SEURER       UM609       0040RASVI  EA      O                             0489     24500     46000                                  
+SEURER       UN866       0530KEMEGEKEA      O                                      24500     46000                                  
+SEURER       UN866       0540RAM  EKD       O                             0269     24500     46000                                  
+SEURER       UN872       0140DOBELEKEA      O                                      24500     46000                                  
+SEURER       UN872       0150NAROLEKEA      O                             0370     24500     46000                                  
+SEURER       UN872       0160LASGI  EA      O                             0100     24500     46000                                  
+SEURER       UL975       0250VES  EKD       O                             0575     24500     46000                                  
+SEURER       UL975       0260GOLUM  EA      O                             1029     24500     46000                                  
+SEURER       UZ709       0060VES  EKD       O                             0417     24500     46000                                  
+SEURER       UP615       0100LUTUSEKEA      O                                      24500     46000                                  
+SEURER       UP615       0110RADISEKEA      O                             0265     24500     46000                                  
+SEURER       UM602       0060ROBUSEKEA      O                             0236     24500     46000                                  
+SEURER       UM602       0070ODN    D       O                             0461     24500     46000                                  
+SEURER       UM602       0080LUTUSEKEA      O                             0383     24500     46000                                  
+SEURER       UT503       0010BISTAEKEA      O                                      24500     46000                                  
+SEURER       UT503       0020GIMRU  EA      O                             0477     24500     46000                                  
+SEURER       UT502       0070TOBISEKEA      O                             0337     24500     46000                                  
+SEURER       UM611       0080LUPUREKEA      O                             0113     24500     46000                                  
+SEURER       UM611       0090KOPEX  EA      O                             0201     24500     46000                                  
+SEURER       UP730       0020TALSAEKEA      O                             0928     24500     46000                                  
+SEURER       UT55        0030INTETEKEA      O                                      24500     46000                                  
+SEURER       UT55        0040EVAKI  EA      O                             0644     24500     46000                                  
+SEURER       UT55        0060LUTUSEKEA      O                                      24500     46000                                  
+SEURER       UT55        0070TESPI  EA      O                             0217     24500     46000                                  
+SEURER       UP729       0030DOSUREKEA      O                             0603     25000     66000                                  
+SEURER       UP729       0040TALSAEKEA      O                             0226     24500     46000                                  
+SEURER       UP729       0050TUDLO  EA      O                             0345     24500     46000                                  
+SEURER       UT508       0020ROBUSEKEA      O                             0349     24500     46000                                  
+SEURER       UT507       0010DOBELEKEA      O                                      24500     46000                                  
+SEURER       UT507       0020ODN    D       O                             0250     24500     46000                                  
+SEURER       UN581       0020RAM  EKD       O                             0275     24500     46000                                  
+SEURER       UT59        0020ROBUSEKEA      O                             0304     24500     46000                                  
+SEURER       UT59        0030KETALEKEA      O                             0154     24500     46000                                  
+SEURER       UT59        0040KOR  EKD       O                             0137     24500     46000                                  
+SEURER       UZ710       0050VES  EKD       O                             0326     24500     46000                                  
+SEURER       UP619       0060VES  EKD       O                             0192     24500     46000                                  
+SEURER       UZ702       0060TALSAEKEA      O                             0227     24500     46000                                  
+SEURER       UL990       0020LUPUREKEA      O                             0268     24500     46000                                  
+SEURER       UL990       0030MARIP  EA      O                             0271     24500     46000                                  
+SEURER       UP613       0010VES  EKD       O                                      24500     46000                                  
+SEURER       UP613       0020NUGLO  EA      O                             0240     24500     66000                                  
+SEURER       UT505       0020RAM  EKD       O                             0936     24500     46000                                  
+SEURER       UT505       0030TUKTU  EA      O                             0936     24500     46000                                  
+SEURER       UP601       0020KEMEGEKEA      O                             0460     24500     46000                                  
+SEURER       UP601       0030VES  EKD       O                             0698     24500     46000                                  
+SEURER       UP729       0010KOR  EKD       O                                      24500     46000                                  
+SEURER       UP729       0020LUGAS  EA      O                             0237     24500     46000                                  
+SEURER       UZ708       0020VES  EKD       O                             0430     24500     46000                                  
+SEURER       UP602       0030VES  EKD       O                             1342     24500     46000                                  
+SEURER       UP992       0010VES  EKD       O                                      24500     46000                                  
+SEURER       UP992       0020NARBAEKEA      O                             0163     24500     46000                                  
+SEURER       UP992       0030LINVI  EA      O                             0749     24500     46000                                  
+SEURER       UT501       0020SORGAEKEA      O                             0152     24500     46000                                  
+SEURER       UP614       0010RAM  EKD       O                                      24500     46000                                  
+SEURER       UP614       0020RAMUD  EA      O                             0397     24500     46000                                  
+SEURER       UT54-       0030TNO  EKD       O                             0177     24500     46000                                  

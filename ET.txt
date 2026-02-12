@@ -1,0 +1,156 @@
+SAFREAENRT   ADABA HA           N05415060E041550220                                                                                 
+SAFREAENRT   ADS05 HA           N09000984E038524394                                                                                 
+SAFREAENRT   ADS07 HA           N09004969E038543839                                                                                 
+SAFREAENRT   ADS25 HA           N08592000E038502089                                                                                 
+SAFREAENRT   ADS69 HA           N09024920E039002179                                                                                 
+SAFREAENRT   ADS92 HA           N08573961E039010437                                                                                 
+SAFREAENRT   ALEMU HA           N03594971E039400335                                                                                 
+SAFREAENRT   ALNAB HA           N08550510E044130000                                                                                 
+SAFREAENRT   ANVEX HA           N08183310E035273270                                                                                 
+SAFREAENRT   APKAR HA           N05340270E040555010                                                                                 
+SAFREAENRT   APKOD HA           N07383720E036260870                                                                                 
+SAFREAENRT   ASOLE HA           N09562570E040135680                                                                                 
+SAFREAENRT   ASTAR HA           N10390710E042310230                                                                                 
+SAFREAENRT   AXIDA HA           N08200180E041330820                                                                                 
+SAFREAENRT   AXOTI HA           N10033130E034131950                                                                                 
+SAFREAENRT   BELDI HA           N05102080E042231420                                                                                 
+SAFREAENRT   BENDO HA           N07364770E038002890                                                                                 
+SAFREAENRT   DAVIT HA           N11340690E036250170                                                                                 
+SAFREAENRT   DILKA HA           N14300000E0394759100                                                                                
+SAFREAENRT   DWA02 HA           N09395979E041495412                                                                                 
+SAFREAENRT   DWA03 HA           N09405166E041492319                                                                                 
+SAFREAENRT   DWA06 HA           N09432729E041475036                                                                                 
+SAFREAENRT   DWA07 HA           N09441916E041471941                                                                                 
+SAFREAENRT   DWA12 HA           N09483852E041444462                                                                                 
+SAFREAENRT   DWA28 HA           N09465478E041454655                                                                                 
+SAFREAENRT   DWA46 HA           N09480427E041484330                                                                                 
+SAFREAENRT   DWA51 HA           N09501210E041491939                                                                                 
+SAFREAENRT   EGMER HA           N09004450E034252080                                                                                 
+SAFREAENRT   EGMES HA           N06570290E043050230                                                                                 
+SAFREAENRT   EGNAK HA           N09093870E037050930                                                                                 
+SAFREAENRT   EPSIX HA           N06380840E034400150                                                                                 
+SAFREAENRT   EPTOV HA           N08255570E042245030                                                                                 
+SAFREAENRT   ETGOM HA           N06515710E037374500                                                                                 
+SAFREAENRT   ETIVA HA           N08231740E038234970                                                                                 
+SAFREAENRT   ETOKO HA           N09081590E037531820                                                                                 
+SAFREAENRT   ETONI HA           N10003770E037172950                                                                                 
+SAFREAENRT   GABDA HA           N06510830E044420250                                                                                 
+SAFREAENRT   GETIN HA           N08560970E038015360                                                                                 
+SAFREAENRT   GETOL HA           N08104770E038321730                                                                                 
+SAFREAENRT   GISHE HA           N10273430E039455080                                                                                 
+SAFREAENRT   GUDER HA           N08433310E037074820                                                                                 
+SAFREAENRT   IBTAN HA           N05141940E040511540                                                                                 
+SAFREAENRT   IMKIT HA           N05411090E039230300                                                                                 
+SAFREAENRT   IMTOR HA           N06451110E034520000                                                                                 
+SAFREAENRT   ITGEV HA           N14173110E036504620                                                                                 
+SAFREAENRT   ITPOG HA           N08440630E038094970                                                                                 
+SAFREAENRT   KOFTA HA           N08125780E037204050                                                                                 
+SAFREAENRT   KONET HA           N14300000E0385359100                                                                                
+SAFREAENRT   LABLA HA           N10322570E037535480                                                                                 
+SAFREAENRT   MARCO HA           N10183170E0374306100                                                                                
+SAFREAENRT   MASLO HA           N07245750E039031480                                                                                 
+SAFREAENRT   MIWAS HA           N09251890E040253060                                                                                 
+SAFREAENRT   MURAL HA           N08454970E044452050                                                                                 
+SAFREAENRT   NIDEG HA           N10351810E0412205100                                                                                
+SAFREAENRT   NIGUS HA           N06301440E041082810                                                                                 
+SAFREAENRT   OKLAT HA           N10263150E037450740                                                                                 
+SAFREAENRT   OKNET HA           N06321750E038074830                                                                                 
+SAFREAENRT   RANSO HA           N10465060E038461170                                                                                 
+SAFREAENRT   SETIT HA           N14285910E0391959100                                                                                
+SAFREAENRT   SHALA HA           N07285180E038215060                                                                                 
+SAFREAENRT   TADRA HA           N08163790E041525020                                                                                 
+SAFREAENRT   TATGU HA           N12534841E041362021                                                                                 
+SAFREAENRT   TIBIT HA           N11461920E040435800                                                                                 
+SAFREAENRT   USUBA HA           N09162700E034215900                                                                                 
+SAFREAENRT   UTANO HA           N04451120E040445110                                                                                 
+SAFREAENRT   UVARO HA           N10384920E038063110                                                                                 
+SAFRDB       AB    HA000333     N08595054E038514526                                                                                 
+SAFRDB       BL    HA000352     N08595585E038491256                                                                                 
+SAFRDB       AM    HA000275     N06032770E037360850                                                                                 
+SAFRDB       AX    HA000440     N14084548E038463479                                                                                 
+SAFRDB       TN    HA000420     N11352938E037181712                                                                                 
+SAFRDB       DM    HA000235     N10150000E037400000                                                                                 
+SAFRDB       AY    HA000241     N09383791E041503892                                                                                 
+SAFRDB       GM    HA000300     N08080510E0343423100                                                                                
+SAFRDB       BR    HA000450     N08062944E034334718                                                                                 
+SAFRDB       AZZ   HA000349     N12295346E037261694                                                                                 
+SAFRDB       JM    HA000263     N07400736E036491768                                                                                 
+SAFRDB       KT    HA000252     N07391946E036495441                                                                                 
+SAFRDB       LA    HA000215     N07040423E038300286                                                                                 
+SAFRDB       LLB   HA000390     N11584095E038590052                                                                                 
+SAFRDB       MK    HA000256     N13283040E039311820                                                                                 
+SAFRDB       MA    HA000400     N03562517E041515105                                                                                 
+SAFRDB       MY    HA000288     N03314917E039030332                                                                                 
+SAFRD        ADS   HA011290V    N08583015E038475784                                                                                 
+SAFRD        DWA   HA011770V    N09381603E041505599                                                                                 
+SAFRD        GWZ   HA011590V    N09062233E038461170                                                                                 
+SAFRD        QHA   HA011660V    N13282198E039312909                                                                                 
+SAFRD        ADS   HA011290 D   N08583015E038475784                                                                                 
+SAFRD        DWA   HA011770 D   N09381603E041505599                                                                                 
+SAFRD        GWZ   HA011590 D   N09062233E038461170                                                                                 
+SAFRD        QHA   HA011660 D   N13282198E039312909                                                                                 
+SAFRER       R611        0010GWZ  HAD       O                                      29500     66000                                  
+SAFRER       R611        0020MARCOHAEA      O                             0953     15500     66000                                  
+SAFRER       R611        0030DAVITHAEA      O                             1077     15500     66000                                  
+SAFRER       R611        0040TIKATHSEA      O                             0681     15500     66000                                  
+SAFRER       G650        0010GETOLHAEA      O                                      14500     66000                                  
+SAFRER       G650        0020SHALAHAEA      O                             0432     14500     66000                                  
+SAFRER       UR993       0010DILKAHAEA      O                                      13500     60000                                  
+SAFRER       UR993       0020TATGUHAEA      O                             1427     13500     60000                                  
+SAFRER       UR993       0030RAGASHDEA      O                             0542     10500     66000                                  
+SAFRER       B535-       0020EPSIXHAEA      O                             0312     24500     66000                                  
+SAFRER       B535-       0030IMTORHAEA      O                             0138     24500     66000                                  
+SAFRER       W886        0010DWA  HAD       O                                      13500     66000                                  
+SAFRER       W886        0020MIWASHAEA      O                             0853     13500     66000                                  
+SAFRER       W886        0030GWZ  HAD       O                             0999     13500     60000                                  
+SAFRER       W886        0040GETINHAEA      O                             0450     13500     66000                                  
+SAFRER       W886        0050GUDERHAEA      O                             0550     13500     66000                                  
+SAFRER       1AW3        0010DWA  HAD       O                                      13500     60000                                  
+SAFRER       1AW3        0020TADRAHAEA      O                             0817     13500     60000                                  
+SAFRER       UG300       0010MASLOHAEA      O                                      24500     66000                                  
+SAFRER       UG300       0020GETOLHAEA      O                             0552     15500     66000                                  
+SAFRER       UG300       0030ETIVAHAEA      O                             0151     15500     66000                                  
+SAFRER       UG300       0040ITPOGHAEA      O                             0250     24500     66000                                  
+SAFRER       UG300       0050GETINHAEA      O                             0144     15500     66000                                  
+SAFRER       UG300       0060ETOKOHAEA      O                             0148     15500     66000                                  
+SAFRER       UG300       0070ETONIHAEA      O                             0632     15500     66000                                  
+SAFRER       UG300       0080TIKATHSEA      O                             1738     15500     66000                                  
+SAFRER       W887        0010GWZ  HAD       O                                      16500     66000                                  
+SAFRER       W887        0020LABLAHAEA      O                             1004     16500     66000                                  
+SAFRER       W887        0030TN   HAD       O                             0722     16500     66000                                  
+SAFRER       UG657       0010EGMESHAEA      O                                      24500     66000                                  
+SAFRER       UG657       0020BELDIHAEA      O                             1146     24500     66000                                  
+SAFRER       UG657       0030MA   HAD       O                             0803     24500     66000                                  
+SAFRER       UA408       0060TATGUHAEA      O                             0224     24500     66000                                  
+SAFRER       UA408       0070TIBITHAEA      O                             0847     24500     66000                                  
+SAFRER       UA408       0080GISHEHAEA      O                             0973     24500     66000                                  
+SAFRER       UA408       0090GWZ  HAD       O                             1003     24500     66000                                  
+SAFRER       UA408       0100ETIVAHAEA      O                             0485     24500     60000                                  
+SAFRER       UA408       0110BENDOHAEA      O                             0520     24500     66000                                  
+SAFRER       UA408       0120ETGOMHAEA      O                             0502     24500     66000                                  
+SAFRER       UA408       0130EKBULHKEA      O                             1955     24500     66000                                  
+SAFRER       UM651       0050MURALHAEA      O                                      24500     60000                                  
+SAFRER       UM651       0060HARGA  EA      O                             0601     24500     60000                                  
+SAFRER       UA405       0160MA   HAD       O                                      24500     60000                                  
+SAFRER       UA405       0170WAV  HKD       O                             1696     24500     60000                                  
+SAFRER       UR780       0030EGMESHAEA      O                                      24500     66000                                  
+SAFRER       UR780       0040EPTOVHAEA      O                             0975     24500     66000                                  
+SAFRER       UR780       0050DWA  HAD       O                             0798     24500     66000                                  
+SAFRER       UR780       0060NIDEGHAEA      O                             0638     24500     66000                                  
+SAFRER       UR780       0070TIBITHAEA      O                             0803     24500     66000                                  
+SAFRER       UR780       0080SETITHAEA      O                             1822     24500     66000                                  
+SAFRER       UM220       0010USUBAHAEA      O                                      29500     66000                                  
+SAFRER       UM220       0020EGMERHAEA      O                             0161     24500     66000                                  
+SAFRER       UM220       0030GM   HAD       O                             0534     24500     66000                                  
+SAFRER       UM220       0040IMTORHAEA      O                             0848     24500     66000                                  
+SAFRER       UB736       0010USUBAHAEA      O                                      24500     66000                                  
+SAFRER       UB736       0020EGNAKHAEA      O                             1613     24500     66000                                  
+SAFRER       UB736       0030ETOKOHAEA      O                             0476     24500     66000                                  
+SAFRER       UB736       0040GWZ  HAD       O                             0523     24500     60000                                  
+SAFRER       UR995       0020OKLATHAEA      O                             1828     24500     66000                                  
+SAFRER       UR995       0030GWZ  HAD       O                             1003     24500     66000                                  
+SAFRER       UB525       0010GWZ  HAD       O                                      24500     66000                                  
+SAFRER       UB525       0020UVAROHAEA      O                             1004     24500     66000                                  
+SAFRER       UG651       0020MURALHAEA      O                             1688     24500     66000                                  
+SAFRER       UM665       0010MA   HAD       O                                      24500     60000                                  
+SAFRER       UM665       0020TULAPHCEA      O                             1891     24500     60000                                  

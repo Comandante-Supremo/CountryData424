@@ -1,0 +1,1077 @@
+SEUREAENRT   AAKET EF           N67424810E0242000100                                                                                
+SEUREAENRT   ABEXI EF           N62194510E0255003100                                                                                
+SEUREAENRT   ABKUR EF           N66573510E024144400                                                                                 
+SEUREAENRT   AGIXA EF           N61030500E022000000                                                                                 
+SEUREAENRT   AHOLA EF           N65413400E029123800                                                                                 
+SEUREAENRT   AITTA EF           N63043200E0222809100                                                                                
+SEUREAENRT   AKOVU EF           N64391110E024481100                                                                                 
+SEUREAENRT   ALIBA EF           N60462300E022374000                                                                                 
+SEUREAENRT   AMEDU EF           N60284900E0233643100                                                                                
+SEUREAENRT   AMEVA EF           N61261710E0272336100                                                                                
+SEUREAENRT   ANELO EF           N67584110E024142100                                                                                 
+SEUREAENRT   APILA EF           N61575500E0244332100                                                                                
+SEUREAENRT   APPIS EF           N68370900E026461800                                                                                 
+SEUREAENRT   APRIS EF           N61172900E0225805100                                                                                
+SEUREAENRT   APROV EF           N63224100E0274600100                                                                                
+SEUREAENRT   ARDIL EF           N61111810E022271900                                                                                 
+SEUREAENRT   ARDUT EF           N64303200E0250100100                                                                                
+SEUREAENRT   ARNUR EF           N66142710E026060200                                                                                 
+SEUREAENRT   ARTUR EF           N60204800E024035000                                                                                 
+SEUREAENRT   ASKUS EF           N66572900E0260821100                                                                                
+SEUREAENRT   ATRIV EF           N60570000E0221947100                                                                                
+SEUREAENRT   BABUX EF           N66032010E025093300                                                                                 
+SEUREAENRT   BAKNI EF           N64584100E0250953100                                                                                
+SEUREAENRT   BAMIS EF           N67363810E024541900                                                                                 
+SEUREAENRT   BAMPO EF           N61582310E025573600                                                                                 
+SEUREAENRT   BILSA EF           N65515310E0252632100                                                                                
+SEUREAENRT   BISRO EF           N67142000E025142900                                                                                 
+SEUREAENRT   BOLSO EF           N60121711E024421146                                                                                 
+SEUREAENRT   BUPIT EF           N61202600E0222214100                                                                                
+SEUREAENRT   DEGER EF           N60155900E025123300                                                                                 
+SEUREAENRT   DEKOP EF           N61040300E0271641100                                                                                
+SEUREAENRT   DEKOT EF           N64512410E025370500                                                                                 
+SEUREAENRT   DEMOT EF           N62353400E021462600                                                                                 
+SEUREAENRT   DEROX EF           N61172600E026102300                                                                                 
+SEUREAENRT   DEXIT EF           N62373500E0262415100                                                                                
+SEUREAENRT   DIMOT EF           N61243200E021570900                                                                                 
+SEUREAENRT   DIPAR EF           N62044610E0250727100                                                                                
+SEUREAENRT   DISOS EF           N62415810E0292439100                                                                                
+SEUREAENRT   EBOLU EF           N66121610E024480100                                                                                 
+SEUREAENRT   ELBUS EF           N65505310E0254830100                                                                                
+SEUREAENRT   ELKUN EF           N60272311E024500430                                                                                 
+SEUREAENRT   ELMAK EF           N62261700E027430900                                                                                 
+SEUREAENRT   ELMUT EF           N60101200E024055700                                                                                 
+SEUREAENRT   ELMUX EF           N62532610E0223648100                                                                                
+SEUREAENRT   ELSUS EF           N61081500E026343200                                                                                 
+SEUREAENRT   EMETT EF           N63384010E0232215100                                                                                
+SEUREAENRT   EMLIS EF           N61385410E025073100                                                                                 
+SEUREAENRT   ENOKI EF           N60493600E0233557100                                                                                
+SEUREAENRT   EPESI EF           N62413010E0251323100                                                                                
+SEUREAENRT   EREPO EF           N65220000E0254802100                                                                                
+SEUREAENRT   ETABI EF           N62545500E026080600                                                                                 
+SEUREAENRT   ETANI EF           N62452000E0212030100                                                                                
+SEUREAENRT   ETSIR EF           N65551400E029242400                                                                                 
+SEUREAENRT   ETSON EF           N66384800E0255912100                                                                                
+SEUREAENRT   FAZER EF           N60153300E025073200                                                                                 
+SEUREAENRT   GANKI EF           N62413900E026053400                                                                                 
+SEUREAENRT   GASKU EF           N62514310E028294400                                                                                 
+SEUREAENRT   GEDLO EF           N60101528E024374668                                                                                 
+SEUREAENRT   GEKLU EF           N61490510E028304200                                                                                 
+SEUREAENRT   GEKSI EF           N63443610E0261754100                                                                                
+SEUREAENRT   GELSO EF           N62381600E0221403100                                                                                
+SEUREAENRT   GESMI EF           N61584900E0235013100                                                                                
+SEUREAENRT   GETSO EF           N60515900E026203900                                                                                 
+SEUREAENRT   GIMIS EF           N61255800E0225519100                                                                                
+SEUREAENRT   GIPLU EF           N61300210E0270521100                                                                                
+SEUREAENRT   GONGI EF           N61155500E021300000                                                                                 
+SEUREAENRT   GOSOV EF           N66275710E025392800                                                                                 
+SEUREAENRT   GOVKA EF           N66000000E030000000                                                                                 
+SEUREAENRT   GRANO EF           N63045510E0212909100                                                                                
+SEUREAENRT   GUBLA EF           N62031110E0273527100                                                                                
+SEUREAENRT   GUPLO EF           N60111210E0223308100                                                                                
+SEUREAENRT   GUPSA EF           N60373810E023362400                                                                                 
+SEUREAENRT   HAAPA EF           N63193900E0232639100                                                                                
+SEUREAENRT   HAARA EF           N63084400E0275609100                                                                                
+SEUREAENRT   HAGIS EF           N60123010E0245359100                                                                                
+SEUREAENRT   HAKKI EF           N60164210E025053000                                                                                 
+SEUREAENRT   HALLA EF           N60375510E022335500                                                                                 
+SEUREAENRT   HARJU EF           N60581300E026393600                                                                                 
+SEUREAENRT   HEL02 EF           N60183154E024591144                                                                                 
+SEUREAENRT   HEL03 EF           N60180372E024593363                                                                                 
+SEUREAENRT   HEL16 EF           N60144801E024472584                                                                                 
+SEUREAENRT   HEL18 EF           N60211636E024562328                                                                                 
+SEUREAENRT   HEL20 EF           N60172805E024532422                                                                                 
+SEUREAENRT   HEL40 EF           N60231379E024542301                                                                                 
+SEUREAENRT   HEL41 EF           N60210280E025013210                                                                                 
+SEUREAENRT   HEL44 EF           N60222251E025043238                                                                                 
+SEUREAENRT   HEL91 EF           N60190948E025054704                                                                                 
+SEUREAENRT   HIETA EF           N62331500E0254054100                                                                                
+SEUREAENRT   HIIRO EF           N61491700E027183700                                                                                 
+SEUREAENRT   HIMME EF           N66054810E0281436100                                                                                
+SEUREAENRT   HIRSI EF           N61461510E024295600                                                                                 
+SEUREAENRT   HOPSU EF           N61583210E0245724100                                                                                
+SEUREAENRT   HORMA EF           N67372100E0251006100                                                                                
+SEUREAENRT   HORMI EF           N61174910E0215626100                                                                                
+SEUREAENRT   HOTEL EF           N60201453E0245932100                                                                                
+SEUREAENRT   HUTTU EF           N61070500E027562400                                                                                 
+SEUREAENRT   IBARI EF           N61584900E0231909100                                                                                
+SEUREAENRT   IBSOL EF           N60312310E0222823100                                                                                
+SEUREAENRT   IDEKU EF           N61271510E023465000                                                                                 
+SEUREAENRT   INKIS EF           N60561500E0225206100                                                                                
+SEUREAENRT   INKOL EF           N60295600E0240545100                                                                                
+SEUREAENRT   IPLOT EF           N64262210E0253208100                                                                                
+SEUREAENRT   IPSON EF           N61043710E028182900                                                                                 
+SEUREAENRT   IPSUL EF           N61470010E0214723100                                                                                
+SEUREAENRT   IRKUN EF           N65242900E0252403100                                                                                
+SEUREAENRT   JALAS EF           N62331000E022443800                                                                                 
+SEUREAENRT   JAUHO EF           N67293910E0244252100                                                                                
+SEUREAENRT   JERIS EF           N67534800E024130900                                                                                 
+SEUREAENRT   JOLHI EF           N67411810E024362300                                                                                 
+SEUREAENRT   JUPPU EF           N67171310E0263042100                                                                                
+SEUREAENRT   KALLA EF           N62510810E027433500                                                                                 
+SEUREAENRT   KASAR EF           N68545400E0274440100                                                                                
+SEUREAENRT   KASKI EF           N63133200E0231436100                                                                                
+SEUREAENRT   KATTA EF           N68323900E0275608100                                                                                
+SEUREAENRT   KEHVO EF           N62585700E0273329100                                                                                
+SEUREAENRT   KEKEL EF           N61195400E0254311100                                                                                
+SEUREAENRT   KEKOX EF           N66024700E0252733100                                                                                
+SEUREAENRT   KELEK EF           N68301110E0282729100                                                                                
+SEUREAENRT   KELUS EF           N67271400E026522600                                                                                 
+SEUREAENRT   KEPAB EF           N65514600E0243630100                                                                                
+SEUREAENRT   KEPIT EF           N61530810E0290657100                                                                                
+SEUREAENRT   KEPUK EF           N62465800E023095100                                                                                 
+SEUREAENRT   KERAB EF           N60233461E025070027                                                                                 
+SEUREAENRT   KERPU EF           N67200010E024395000                                                                                 
+SEUREAENRT   KETOL EF           N61475910E030050000                                                                                 
+SEUREAENRT   KOKIS EF           N64190000E0235658100                                                                                
+SEUREAENRT   KOLPI EF           N63382000E022550000                                                                                 
+SEUREAENRT   KOLUP EF           N67195510E023460000                                                                                 
+SEUREAENRT   KOMEK EF           N62251800E0310629100                                                                                
+SEUREAENRT   KONGO EF           N61411310E028574600                                                                                 
+SEUREAENRT   KOPAX EF           N62374800E029475700                                                                                 
+SEUREAENRT   KOSED EF           N68061510E0232009100                                                                                
+SEUREAENRT   KOVOT EF           N60521510E0264354100                                                                                
+SEUREAENRT   KUGIT EF           N68263110E0222948100                                                                                
+SEUREAENRT   KULJU EF           N61222410E0234748100                                                                                
+SEUREAENRT   KULLA EF           N61275710E022104100                                                                                 
+SEUREAENRT   KULUS EF           N66262710E0263557100                                                                                
+SEUREAENRT   KUSOS EF           N62502110E023274200                                                                                 
+SEUREAENRT   KUVAK EF           N60434900E0253526100                                                                                
+SEUREAENRT   KYNSI EF           N62302300E026103000                                                                                 
+SEUREAENRT   LAAJA EF           N62410600E0254412100                                                                                
+SEUREAENRT   LAHNA EF           N63463900E0232205100                                                                                
+SEUREAENRT   LAIHA EF           N62575110E0220405100                                                                                
+SEUREAENRT   LAKUT EF           N60261700E023523500                                                                                 
+SEUREAENRT   LANKI EF           N61445410E024504700                                                                                 
+SEUREAENRT   LAPEG EF           N60545210E0270751100                                                                                
+SEUREAENRT   LAPSU EF           N63442110E025555900                                                                                 
+SEUREAENRT   LARPU EF           N62214410E0230826100                                                                                
+SEUREAENRT   LEGMA EF           N61304210E021391100                                                                                 
+SEUREAENRT   LEKRA EF           N66232900E024544700                                                                                 
+SEUREAENRT   LEKSU EF           N61413010E024204800                                                                                 
+SEUREAENRT   LELVI EF           N63474410E022363800                                                                                 
+SEUREAENRT   LEMPO EF           N61184310E0234233100                                                                                
+SEUREAENRT   LEPPI EF           N68332410E023192100                                                                                 
+SEUREAENRT   LERSA EF           N61433200E023314000                                                                                 
+SEUREAENRT   LILJA EF           N60192600E0251230100                                                                                
+SEUREAENRT   LIMIS EF           N64480210E025245900                                                                                 
+SEUREAENRT   LIMRO EF           N68122300E0234812100                                                                                
+SEUREAENRT   LIPRI EF           N62341200E029282200                                                                                 
+SEUREAENRT   LIRVO EF           N66190400E0233916100                                                                                
+SEUREAENRT   LITSU EF           N62475910E023210000                                                                                 
+SEUREAENRT   LONSI EF           N63481500E023104500                                                                                 
+SEUREAENRT   LOUHI EF           N60563010E028041300                                                                                 
+SEUREAENRT   LUKAT EF           N61563510E0250728100                                                                                
+SEUREAENRT   LUMIO EF           N64510500E0250939100                                                                                
+SEUREAENRT   LUNAL EF           N60573910E028125600                                                                                 
+SEUREAENRT   LUNUT EF           N62000500E0284615100                                                                                
+SEUREAENRT   LUOMA EF           N63055700E0224544100                                                                                
+SEUREAENRT   LUOPA EF           N62370000E0224502100                                                                                
+SEUREAENRT   LUOTO EF           N63443500E022513300                                                                                 
+SEUREAENRT   LURIX EF           N61122000E0274959100                                                                                
+SEUREAENRT   LUVIA EF           N61222710E0213831100                                                                                
+SEUREAENRT   LUVIT EF           N62053400E024291700                                                                                 
+SEUREAENRT   LUVOS EF           N62375910E0225715100                                                                                
+SEUREAENRT   MAGON EF           N66440700E0235331100                                                                                
+SEUREAENRT   MAKSA EF           N63093200E0215724100                                                                                
+SEUREAENRT   MALAX EF           N62554510E0213535100                                                                                
+SEUREAENRT   MAPIT EF           N61100110E0260339100                                                                                
+SEUREAENRT   MAPUS EF           N60300210E0215917100                                                                                
+SEUREAENRT   MAROM EF           N60265200E0240236100                                                                                
+SEUREAENRT   MARUG EF           N64593800E0250455100                                                                                
+SEUREAENRT   MATAP EF           N61004200E027591200                                                                                 
+SEUREAENRT   MAVAX EF           N68283500E025053000                                                                                 
+SEUREAENRT   MAXAN EF           N63450310E0274318100                                                                                
+SEUREAENRT   MEBIX EF           N61272800E023475700                                                                                 
+SEUREAENRT   MEDOT EF           N60262600E0230531100                                                                                
+SEUREAENRT   MIKVI EF           N61512910E028233400                                                                                 
+SEUREAENRT   MILSI EF           N60315300E026062300                                                                                 
+SEUREAENRT   MIMLA EF           N63493100E0251544100                                                                                
+SEUREAENRT   MISMO EF           N66102810E0234909100                                                                                
+SEUREAENRT   MISMU EF           N62433810E0255617100                                                                                
+SEUREAENRT   MIVSI EF           N61425400E0270330100                                                                                
+SEUREAENRT   MONNI EF           N62114400E0290445100                                                                                
+SEUREAENRT   MOPUX EF           N62372310E029510000                                                                                 
+SEUREAENRT   MOSKU EF           N67354010E0264323100                                                                                
+SEUREAENRT   MOTUT EF           N63083110E0214202100                                                                                
+SEUREAENRT   MOVUK EF           N67580300E0233745100                                                                                
+SEUREAENRT   MURTO EF           N63593010E0272349100                                                                                
+SEUREAENRT   MUSTA EF           N63003800E0231319100                                                                                
+SEUREAENRT   MUURA EF           N62100510E025250400                                                                                 
+SEUREAENRT   MYLLY EF           N60471600E0264305100                                                                                
+SEUREAENRT   NAARA EF           N62180210E027184600                                                                                 
+SEUREAENRT   NAKKI EF           N60380300E025024800                                                                                 
+SEUREAENRT   NAPSU EF           N67143010E026223100                                                                                 
+SEUREAENRT   NARNA EF           N69150200E027554500                                                                                 
+SEUREAENRT   NASUL EF           N66035710E0254024100                                                                                
+SEUREAENRT   NATIT EF           N66030710E029022900                                                                                 
+SEUREAENRT   NEBET EF           N67020410E0234300100                                                                                
+SEUREAENRT   NEMIX EF           N64012310E023510500                                                                                 
+SEUREAENRT   NESIN EF           N62175810E0300720100                                                                                
+SEUREAENRT   NETGO EF           N68310900E0262908100                                                                                
+SEUREAENRT   NIINI EF           N62375510E0231945100                                                                                
+SEUREAENRT   NIKRU EF           N61131110E022592900                                                                                 
+SEUREAENRT   NILMO EF           N62165910E0291404100                                                                                
+SEUREAENRT   NIPAN EF           N61090200E022072700                                                                                 
+SEUREAENRT   NIPSA EF           N68544600E0274319100                                                                                
+SEUREAENRT   NIRPU EF           N60462700E0220800100                                                                                
+SEUREAENRT   NISKA EF           N64294810E0271834100                                                                                
+SEUREAENRT   NITTY EF           N62302900E0294951100                                                                                
+SEUREAENRT   NOKKA EF           N60105910E025012100                                                                                 
+SEUREAENRT   NOLGI EF           N61554900E0230123100                                                                                
+SEUREAENRT   NOORA EF           N61355200E021473300                                                                                 
+SEUREAENRT   NOPPA EF           N62443110E022221200                                                                                 
+SEUREAENRT   NOPSA EF           N65511110E025364600                                                                                 
+SEUREAENRT   NOSLO EF           N64162410E024040500                                                                                 
+SEUREAENRT   NUKSA EF           N64322710E0275251100                                                                                
+SEUREAENRT   NUKSI EF           N60182800E0243728100                                                                                
+SEUREAENRT   NUNAS EF           N68233610E023061100                                                                                 
+SEUREAENRT   NUNVA EF           N62311700E0274359100                                                                                
+SEUREAENRT   NURGA EF           N62564910E021501100                                                                                 
+SEUREAENRT   NURMI EF           N60244324E024524948                                                                                 
+SEUREAENRT   OBEXI EF           N66040000E0290127100                                                                                
+SEUREAENRT   OBIRO EF           N67114010E024584000                                                                                 
+SEUREAENRT   OGASI EF           N63240100E023231600                                                                                 
+SEUREAENRT   OKAMO EF           N64003200E0233418100                                                                                
+SEUREAENRT   OLAXU EF           N68271400E027270500                                                                                 
+SEUREAENRT   OLKKA EF           N66330600E0261118100                                                                                
+SEUREAENRT   OMELU EF           N63174910E022140300                                                                                 
+SEUREAENRT   OMILO EF           N62095110E029070800                                                                                 
+SEUREAENRT   ORATU EF           N67193900E0265908100                                                                                
+SEUREAENRT   OSIKO EF           N62025200E0281735100                                                                                
+SEUREAENRT   OSMET EF           N61221110E023253200                                                                                 
+SEUREAENRT   OSNIL EF           N62222100E028572400                                                                                 
+SEUREAENRT   OSTOS EF           N64260600E025185400                                                                                 
+SEUREAENRT   OTAVA EF           N61385810E027035400                                                                                 
+SEUREAENRT   OTLAT EF           N62465410E0270048100                                                                                
+SEUREAENRT   PAASI EF           N62012710E0292828100                                                                                
+SEUREAENRT   PABRU EF           N60422300E0262945100                                                                                
+SEUREAENRT   PABVO EF           N68394810E0231905100                                                                                
+SEUREAENRT   PEKUS EF           N61265810E022214500                                                                                 
+SEUREAENRT   PELAK EF           N62445100E025393700                                                                                 
+SEUREAENRT   PELNI EF           N61273300E027174200                                                                                 
+SEUREAENRT   PELOP EF           N66481110E023591100                                                                                 
+SEUREAENRT   PEMER EF           N62504800E0222035100                                                                                
+SEUREAENRT   PEMOS EF           N60550010E024132700                                                                                 
+SEUREAENRT   PENAD EF           N60164110E0252935100                                                                                
+SEUREAENRT   PEPUT EF           N64262900E0254712100                                                                                
+SEUREAENRT   PERIL EF           N61441810E0215648100                                                                                
+SEUREAENRT   PIILO EF           N66203900E0284600100                                                                                
+SEUREAENRT   PIKUT EF           N66380300E025574700                                                                                 
+SEUREAENRT   PILEL EF           N64234510E027451500                                                                                 
+SEUREAENRT   PIPAT EF           N60550000E0273656100                                                                                
+SEUREAENRT   PIPON EF           N61505810E0243530100                                                                                
+SEUREAENRT   PIRUX EF           N62324200E0223231100                                                                                
+SEUREAENRT   PISIN EF           N65455610E029005000                                                                                 
+SEUREAENRT   PISOM EF           N63250110E0230625100                                                                                
+SEUREAENRT   PISOV EF           N61521010E0293335100                                                                                
+SEUREAENRT   PITTI EF           N67260600E0262330100                                                                                
+SEUREAENRT   PITUM EF           N61241610E0215743100                                                                                
+SEUREAENRT   PIVAK EF           N60440200E024272900                                                                                 
+SEUREAENRT   POBUS EF           N63251910E0225621100                                                                                
+SEUREAENRT   POGOM EF           N63131810E023022600                                                                                 
+SEUREAENRT   POHJA EF           N62481100E022515100                                                                                 
+SEUREAENRT   POKEX EF           N63590510E027183800                                                                                 
+SEUREAENRT   PUOLI EF           N68120500E0234633100                                                                                
+SEUREAENRT   PURNU EF           N65495800E028505600                                                                                 
+SEUREAENRT   PVO24 EF           N60155088E024471481                                                                                 
+SEUREAENRT   PVO27 EF           N60181066E025251888                                                                                 
+SEUREAENRT   PVO28 EF           N60153105E024391472                                                                                 
+SEUREAENRT   R1845 EF           N60184239E024561477                                                                                 
+SEUREAENRT   R1846 EF           N60194899E024575219                                                                                 
+SEUREAENRT   R1847 EF           N60195048E024584472                                                                                 
+SEUREAENRT   RAMAN EF           N61045700E022343200                                                                                 
+SEUREAENRT   RANTA EF           N68490400E027214200                                                                                 
+SEUREAENRT   RAPAX EF           N62250000E031070000                                                                                 
+SEUREAENRT   RATLA EF           N60512910E0282017100                                                                                
+SEUREAENRT   RAUHA EF           N61543410E026540600                                                                                 
+SEUREAENRT   RAUPO EF           N60371300E022035400                                                                                 
+SEUREAENRT   REKSA EF           N60582200E0273307100                                                                                
+SEUREAENRT   RELSU EF           N62503800E022445600                                                                                 
+SEUREAENRT   RESKA EF           N60582200E0273307100                                                                                
+SEUREAENRT   RETGI EF           N61094600E021414200                                                                                 
+SEUREAENRT   RIIKO EF           N67435910E0250635100                                                                                
+SEUREAENRT   RIIPI EF           N67213010E0255506100                                                                                
+SEUREAENRT   RIKSI EF           N63043200E022170300                                                                                 
+SEUREAENRT   RIMPU EF           N62334600E0272322100                                                                                
+SEUREAENRT   RISAT EF           N61114010E0262811100                                                                                
+SEUREAENRT   RITUN EF           N61241110E0275300100                                                                                
+SEUREAENRT   RIVOX EF           N62231810E0240145100                                                                                
+SEUREAENRT   ROLAT EF           N60175700E0253119100                                                                                
+SEUREAENRT   ROLOS EF           N62302010E0222304100                                                                                
+SEUREAENRT   ROLSI EF           N63100900E0214059100                                                                                
+SEUREAENRT   ROTES EF           N62285410E025271100                                                                                 
+SEUREAENRT   ROVAN EF           N69474910E0283150100                                                                                
+SEUREAENRT   ROVIL EF           N60491700E0250732100                                                                                
+SEUREAENRT   ROVIX EF           N66151400E024124700                                                                                 
+SEUREAENRT   ROVSU EF           N63061900E027430400                                                                                 
+SEUREAENRT   RUDAM EF           N62323035E030220813                                                                                 
+SEUREAENRT   RUNEN EF           N60152700E024045400                                                                                 
+SEUREAENRT   RUNES EF           N69393810E028223900                                                                                 
+SEUREAENRT   RUOHO EF           N61050010E0280553100                                                                                
+SEUREAENRT   RUOKO EF           N63061210E027280300                                                                                 
+SEUREAENRT   SAARA EF           N60495900E027144400                                                                                 
+SEUREAENRT   SAARI EF           N65543410E0244614100                                                                                
+SEUREAENRT   SAIMA EF           N61093310E028141200                                                                                 
+SEUREAENRT   SALPA EF           N60263000E0223652100                                                                                
+SEUREAENRT   SANKA EF           N62174400E0253106100                                                                                
+SEUREAENRT   SANKI EF           N64570210E0254009100                                                                                
+SEUREAENRT   SEURU EF           N62535810E0232336100                                                                                
+SEUREAENRT   SIERI EF           N66263500E025575600                                                                                 
+SEUREAENRT   SIILI EF           N61335500E023465400                                                                                 
+SEUREAENRT   SISPO EF           N65083610E026045900                                                                                 
+SEUREAENRT   SITMU EF           N60294110E0230553100                                                                                
+SEUREAENRT   SITSO EF           N66572300E025291500                                                                                 
+SEUREAENRT   SIURO EF           N61282700E0232004100                                                                                
+SEUREAENRT   SONOX EF           N60484210E022065600                                                                                 
+SEUREAENRT   SOPAT EF           N68033410E0275021100                                                                                
+SEUREAENRT   SOPRI EF           N64401400E0261842100                                                                                
+SEUREAENRT   SORUK EF           N61422400E023155100                                                                                 
+SEUREAENRT   SORVA EF           N61262000E0232832100                                                                                
+SEUREAENRT   SOTKA EF           N64034310E0281830100                                                                                
+SEUREAENRT   SUDIP EF           N67271500E025030000                                                                                 
+SEUREAENRT   SUKIS EF           N68275210E0274000100                                                                                
+SEUREAENRT   SULKA EF           N61502600E0282541100                                                                                
+SEUREAENRT   SUMES EF           N62121900E028390500                                                                                 
+SEUREAENRT   SUPOX EF           N68181100E0263146100                                                                                
+SEUREAENRT   SUSAT EF           N66391210E0255520100                                                                                
+SEUREAENRT   SUTAM EF           N61160400E028184600                                                                                 
+SEUREAENRT   SUVOS EF           N63064810E023390600                                                                                 
+SEUREAENRT   TADIT EF           N62422300E0264256100                                                                                
+SEUREAENRT   TAKKU EF           N62262710E0274754100                                                                                
+SEUREAENRT   TAKOT EF           N63244710E0231432100                                                                                
+SEUREAENRT   TALUG EF           N62311510E023035500                                                                                 
+SEUREAENRT   TALVA EF           N68245610E0235748100                                                                                
+SEUREAENRT   TANKA EF           N68132710E0271100100                                                                                
+SEUREAENRT   TEKVU EF           N61515710E0250043100                                                                                
+SEUREAENRT   TENKU EF           N68130510E027135800                                                                                 
+SEUREAENRT   TERMI EF           N68400400E023401400                                                                                 
+SEUREAENRT   TIEVA EF           N67585000E0253625100                                                                                
+SEUREAENRT   TIGLU EF           N64282010E027002700                                                                                 
+SEUREAENRT   TIILI EF           N61322710E026530200                                                                                 
+SEUREAENRT   TIKRA EF           N62590910E023344400                                                                                 
+SEUREAENRT   TILDO EF           N61203000E0250732100                                                                                
+SEUREAENRT   TILTU EF           N63211210E0220445100                                                                                
+SEUREAENRT   TINOS EF           N69473000E026134000                                                                                 
+SEUREAENRT   TIPOT EF           N64160510E027284500                                                                                 
+SEUREAENRT   TISMA EF           N63012200E0230334100                                                                                
+SEUREAENRT   TISRU EF           N67044610E0270406100                                                                                
+SEUREAENRT   TIVIN EF           N63445810E028231600                                                                                 
+SEUREAENRT   TOKLA EF           N65520610E0284457100                                                                                
+SEUREAENRT   TOPPI EF           N65034700E0252359100                                                                                
+SEUREAENRT   TORKO EF           N63035600E0215954100                                                                                
+SEUREAENRT   TOSLO EF           N64005500E0274121100                                                                                
+SEUREAENRT   TOUKO EF           N65423410E0244856100                                                                                
+SEUREAENRT   TULTI EF           N61410800E0272819100                                                                                
+SEUREAENRT   TUNUS EF           N60231810E023051100                                                                                 
+SEUREAENRT   TUOHI EF           N61005610E027101200                                                                                 
+SEUREAENRT   TUPSU EF           N61593000E0232905100                                                                                
+SEUREAENRT   TURSU EF           N60483800E022533000                                                                                 
+SEUREAENRT   TURUX EF           N61091610E0231127100                                                                                
+SEUREAENRT   TUSIS EF           N62274200E0271718100                                                                                
+SEUREAENRT   TUSKU EF           N61072810E021575100                                                                                 
+SEUREAENRT   UBELO EF           N61432410E023430900                                                                                 
+SEUREAENRT   ULTOS EF           N65235710E025290800                                                                                 
+SEUREAENRT   UMOTI EF           N60534810E026554500                                                                                 
+SEUREAENRT   UPMOT EF           N64254610E0250436100                                                                                
+SEUREAENRT   UPULI EF           N63445700E027023500                                                                                 
+SEUREAENRT   URAKA EF           N62221700E0232520100                                                                                
+SEUREAENRT   URUVI EF           N65575110E026472000                                                                                 
+SEUREAENRT   USEPU EF           N61433500E023260800                                                                                 
+SEUREAENRT   USOPI EF           N62572010E025410300                                                                                 
+SEUREAENRT   UTELI EF           N60312710E0223132100                                                                                
+SEUREAENRT   UTESI EF           N69550110E027014400                                                                                 
+SEUREAENRT   UTUNU EF           N63441410E0254636100                                                                                
+SEUREAENRT   UVIKO EF           N66054300E025005900                                                                                 
+SEUREAENRT   VABAS EF           N62183410E0255321100                                                                                
+SEUREAENRT   VADLA EF           N69450600E028474200                                                                                 
+SEUREAENRT   VAKAT EF           N60410600E0254248100                                                                                
+SEUREAENRT   VAKKA EF           N61204400E0233347100                                                                                
+SEUREAENRT   VALOX EF           N61065100E023352000                                                                                 
+SEUREAENRT   VALTA EF           N66122610E029151400                                                                                 
+SEUREAENRT   VANIT EF           N63441310E024421500                                                                                 
+SEUREAENRT   VAPOT EF           N66072410E025484700                                                                                 
+SEUREAENRT   VARTI EF           N62553100E028060500                                                                                 
+SEUREAENRT   VASUK EF           N60253544E025112870                                                                                 
+SEUREAENRT   VATIA EF           N62275100E0255353100                                                                                
+SEUREAENRT   VAVIS EF           N60140510E024503900                                                                                 
+SEUREAENRT   VAVIX EF           N62575110E025135700                                                                                 
+SEUREAENRT   VEDAN EF           N62473500E0285304100                                                                                
+SEUREAENRT   VEKEM EF           N62544700E0275303100                                                                                
+SEUREAENRT   VELUN EF           N61065600E023580000                                                                                 
+SEUREAENRT   VEMOL EF           N63051210E0222756100                                                                                
+SEUREAENRT   VEMUX EF           N66592500E025525700                                                                                 
+SEUREAENRT   VEPIS EF           N61464610E028350300                                                                                 
+SEUREAENRT   VEREX EF           N61195000E025504700                                                                                 
+SEUREAENRT   VETIX EF           N62143510E0274448100                                                                                
+SEUREAENRT   VEXAT EF           N63291410E0223526100                                                                                
+SEUREAENRT   VEXUT EF           N64180610E0275510100                                                                                
+SEUREAENRT   VIKSI EF           N66344210E025292000                                                                                 
+SEUREAENRT   VIRMA EF           N62011810E0273736100                                                                                
+SEUREAENRT   VTI14 EF           N60193078E024374252                                                                                 
+SEUREAENRT   VUORI EF           N62130910E028035600                                                                                 
+SEUREAENRT   XAMIL EF           N67162010E0260056100                                                                                
+SEUREAENRT   XEDOG EF           N61552200E0254005100                                                                                
+SEUREAENRT   XOKNO EF           N63591600E0245012100                                                                                
+SEUREAENRT   XUPAV EF           N60115400E0245047100                                                                                
+SEURDB       AKU   EF000432     N68404220E027365266                                                                                 
+SEURDB       ESP   EF000381     N60145379E024474707                                                                                 
+SEURDB       ESS   EF000398     N63381265E023063249                                                                                 
+SEURDB       LI    EF000408     N60160240E025024386                                                                                 
+SEURDB       FR    EF000375     N61250666E021553719                                                                                 
+SEURDB       HET   EF000375     N68252036E023321208                                                                                 
+SEURDB       H     EF000403     N60201453E0245932100                                                                                
+SEURDB       JOE   EF000325     N62410981E029281950                                                                                 
+SEURDB       JP    EF000401     N62381617E029452687                                                                                 
+SEURDB       JR    EF000370     N62133040E027464962                                                                                 
+SEURDB       KAJ   EF000337     N64162302E027314752                                                                                 
+SEURDB       KEM   EF000373     N65504726E024361047                                                                                 
+SEURDB       KS    EF000340     N66023199E029053359                                                                                 
+SEURDB       KIT   EF000328     N67372306E024535088                                                                                 
+SEURDB       KOR   EF000322     N60221968E025040614                                                                                 
+SEURDB       KRU   EF000388     N63473048E023102603                                                                                 
+SEURDB       KUR   EF000310     N62552088E027524063                                                                                 
+SEURDB       LAA   EF000350     N64575876E025124022                                                                                 
+SEURDB       LIE   EF000361     N60311564E022250710                                                                                 
+SEURDB       PA    EF000377     N66280876E025385568                                                                                 
+SEURDB       POR   EF000341     N61302370E021401026                                                                                 
+SEURDB       RAN   EF000392     N61010656E028005663                                                                                 
+SEURDB       RO    EF000361     N63012435E023034958                                                                                 
+SEURDB       PSJ   EF000352     N62383164E022561009                                                                                 
+SEURDB       SEP   EF000357     N63073846E021423865                                                                                 
+SEURDB       SK    EF000368     N67281849E026340075                                                                                 
+SEURDB       SUS   EF000345     N63131171E023022520                                                                                 
+SEURDB       TP    EF000290     N64530419E025315386                                                                                 
+SEURDB       TOR   EF000416     N66381998E025581568                                                                                 
+SEURDB       U     EF000371     N60181449E024551320                                                                                 
+SEURDB       VS    EF000365     N61223722E023264576                                                                                 
+SEURDB       VA    EF000332     N64074623E024383396                                                                                 
+SEURD        ANT   EF011370V    N60514683E025073655                                                                                 
+SEURD        ENO   EF011710V    N68225256E023274233                                                                                 
+SEURD        HAL   EF011520V    N61511683E024480938                                                                                 
+SEURD        HEL   EF011420V    N60201614E024571343                                                                                 
+SEURD        JNS   EF011570V    N62393779E029363789                                                                                 
+SEURD        KNI   EF011490V    N64165713E027392079                                                                                 
+SEURD        KLA   EF011440V    N65593023E029140901                                                                                 
+SEURD        KAU   EF011240V    N63072103E023032131                                                                                 
+SEURD        KNS   EF011580V    N68271439E027270545                                                                                 
+SEURD        SVL   EF011790V    N61570965E028545062                                                                                 
+SEURD        LNE   EF011230V    N62251483E025372403                                                                                 
+SEURD        ORM   EF011730V    N60500060E025454353                                                                                 
+SEURD        OUK   EF011330V    N64555359E025213342                                                                                 
+SEURD        PIR   EF011620V    N61243568E023343958                                                                                 
+SEURD        PVO   EF011280V    N60173976E025351852                                                                                 
+SEURD        PRI   EF011320V    N61275254E021474509                                                                                 
+SEURD        ROI   EF011770V    N66334514E025491347                                                                                 
+SEURD        RUS   EF011550V    N60305469E022152350                                                                                 
+SEURD        UTT   EF011460V    N60535026E026554608                                                                                 
+SEURD        VAS   EF011450V    N63022894E021455355                                                                                 
+SEURD        VEH   EF011300V    N62584717E027484984                                                                                 
+SEURD        VTI   EF011700V    N60273330E024143865                                                                                 
+SEURD        VIL   EF011250V    N61022059E028070497                                                                                 
+SEURD        ET    EF011130 D   N68220626E023255399                                                                                 
+SEURD        HTV   EF011190 D   N60185587E024542273                                                                                 
+SEURD        HG    EF011150 D   N60185002E024561998                                                                                 
+SEURD        HL    EF010910 D   N60194201E024580812                                                                                 
+SEURD        HK    EF011030 D   N60194698E024582522                                                                                 
+SEURD        HUO   EF011070 D   N60194787E024561687                                                                                 
+SEURD        JO    EF010950 D   N62392393E029381518                                                                                 
+SEURD        JY    EF011090 D   N62233274E025412584                                                                                 
+SEURD        KE    EF011090 D   N65472349E024345648                                                                                 
+SEURD        KI    EF010990 D   N64170592E027402080                                                                                 
+SEURD        KK    EF010930 D   N63433819E023083765                                                                                 
+SEURD        KO    EF011030 D   N65593188E029132226                                                                                 
+SEURD        HOU   EF011190 D   N67413557E024505746                                                                                 
+SEURD        KU    EF011030 D   N62595393E027483045                                                                                 
+SEURD        OU    EF010950 D   N64560065E025200950                                                                                 
+SEURD        RO    EF011170 D   N66342806E025504342                                                                                 
+SEURD        TU    EF010950 D   N60305751E022164906                                                                                 
+SEURD        VA    EF010850 D   N63033527E021453052                                                                                 
+SEURD        ANT   EF011370 D   N60514683E025073655                                                                                 
+SEURD        ENO   EF011710 D   N68225256E023274233                                                                                 
+SEURD        HAL   EF011520 D   N61511683E024480938                                                                                 
+SEURD        HEL   EF011420 D   N60201614E024571343                                                                                 
+SEURD        JNS   EF011570 D   N62393779E029363789                                                                                 
+SEURD        KNI   EF011490 D   N64165713E027392079                                                                                 
+SEURD        KLA   EF011440 D   N65593023E029140901                                                                                 
+SEURD        KAU   EF011240 D   N63072103E023032131                                                                                 
+SEURD        KNS   EF011580 D   N68271439E027270545                                                                                 
+SEURD        SVL   EF011790 D   N61570965E028545062                                                                                 
+SEURD        LNE   EF011230 D   N62251483E025372403                                                                                 
+SEURD        ORM   EF011730 D   N60500060E025454353                                                                                 
+SEURD        OUK   EF011330 D   N64555359E025213342                                                                                 
+SEURD        PIR   EF011620 D   N61243568E023343958                                                                                 
+SEURD        PVO   EF011280 D   N60173976E025351852                                                                                 
+SEURD        PRI   EF011320 D   N61275254E021474509                                                                                 
+SEURD        ROI   EF011770 D   N66334514E025491347                                                                                 
+SEURD        RUS   EF011550 D   N60305469E022152350                                                                                 
+SEURD        UTT   EF011460 D   N60535026E026554608                                                                                 
+SEURD        VAS   EF011450 D   N63022894E021455355                                                                                 
+SEURD        VEH   EF011300 D   N62584717E027484984                                                                                 
+SEURD        VTI   EF011700 D   N60273330E024143865                                                                                 
+SEURD        VIL   EF011250 D   N61022059E028070497                                                                                 
+SEURER       M854        0130PVO  EFD       O                             0239     09500     28500                                  
+SEURER       P609        0010ROI  EFD       O                                      09500     28500                                  
+SEURER       P609        0020BABUXEFEA      O                             0344     09500     28500                                  
+SEURER       P609        0030VASUL  EA      O                             1021     09500     28500                                  
+SEURER       P609        0090ETANIEFEA      O                             0996     09500     28500                                  
+SEURER       P609        0100VAS  EFD       O                             0207     09500     28500                                  
+SEURER       P609        0110TILTUEFEA      O                             0206     09500     28500                                  
+SEURER       M852        0220KELEKEFEA      O                                      09500     28500                                  
+SEURER       M852        0230SUKISEFEA      O                             0176     09500     28500                                  
+SEURER       M852        0240KNS  EFD       O                             0048     09500     28500                                  
+SEURER       M852        0250SUPOXEFEA      O                             0223     09500     28500                                  
+SEURER       Y85         0040OUK  EFD       O                                      09500     28500                                  
+SEURER       Y85         0050BIGNU  EA      O                             0217     09500     28500                                  
+SEURER       M857        0140NAPSUEFEA      O                                      09500     28500                                  
+SEURER       M857        0150TENKUEFEA      O                             0618     09500     28500                                  
+SEURER       M857        0160KNS  EFD       O                             0150     09500     28500                                  
+SEURER       M857        0170NIPSAEFEA      O                             0282     09500     28500                                  
+SEURER       M857        0180NARNAEFEA      O                             0208     09500     28500                                  
+SEURER       M857        0190RUNESEFEA      O                             0264     09500     28500                                  
+SEURER       M857        0200ROVANEFEA      O                             0088     09500     28500                                  
+SEURER       M857        0210ROI  EFD       O                                      09500     28500                                  
+SEURER       M857        0220NASULEFEA      O                             0300     09500     28500                                  
+SEURER       M857        0230NOPSAEFEA      O                             0129     09500     28500                                  
+SEURER       M857        0240ULTOSEFEA      O                             0274     09500     28500                                  
+SEURER       M857        0250OUK  EFD       O                             0283     09500     28500                                  
+SEURER       M857        0260PVO  EFD       O                                      09500     28500                                  
+SEURER       M857        0270VAKATEFEA      O                             0237     09500     28500                                  
+SEURER       M857        0280ORM  EFD       O                             0090     09500     28500                                  
+SEURER       M857        0290KEKELEFEA      O                             0299     09500     28500                                  
+SEURER       M857        0300XEDOGEFEA      O                             0355     09500     28500                                  
+SEURER       M857        0310LNE  EFD       O                             0299     09500     28500                                  
+SEURER       M857        0320PELAKEFEA      O                             0196     09500     28500                                  
+SEURER       M857        0330USOPIEFEA      O                             0125     09500     28500                                  
+SEURER       M857        0340UTUNUEFEA      O                             0470     09500     28500                                  
+SEURER       M857-       0020PVO  EFD       O                             0255     09500     28500                                  
+SEURER       T97         0010KNS  EFD       RL                                     09500     28500                                  
+SEURER       T97         0020TISRUEFEA      RL                            0830     09500     28500                                  
+SEURER       T97         0030URUVIEFEA      RL                            0673     09500     28500                                  
+SEURER       T97         0040GEKSIEFEA      RL                            1339     09500     28500                                  
+SEURER       T97         0050ETABIEFEA      RL                            0499     09500     28500                                  
+SEURER       T97         0060GANKIEFEA      RL                            0133     09500     28500                                  
+SEURER       T97         0070BAMPOEFEA      RL                            0434     09500     28500                                  
+SEURER       T97         0080VEREXEFEA      RL                            0387     09500     28500                                  
+SEURER       T97         0090ORM  EFD       RL                            0299     09500     28500                                  
+SEURER       Y70         0100PIR  EFD       O                                      06500     28500                                  
+SEURER       Y70         0110GIMISEFEA      O                             0189     06500     28500                                  
+SEURER       Y70         0120PEKUSEFEA      O                             0161     06500     28500                                  
+SEURER       Y70         0130PRI  EFD       O                             0163     06500     28500                                  
+SEURER       B487        0020KOMEKEFEA      O                             0523     04900     39700                                  
+SEURER       M607        0010ROI  EFD       O                                      09500     28500                                  
+SEURER       M607        0020LEKRAEFEA      O                             0240     09500     28500                                  
+SEURER       M607        0030ROVIXEFEA      O                             0188     09500     28500                                  
+SEURER       M607        0040MISMOEFEA      O                             0107     09500     28500                                  
+SEURER       M607        0050BESLAESEA      O                             0415     09500     28500                                  
+SEURER       T81         0010JNS  EFD       RL                                     09500     28500                                  
+SEURER       T81         0020VEDANEFEA      RL                            0215     09500     28500                                  
+SEURER       T81         0030GASKUEFEA      RL                            0114     09500     28500                                  
+SEURER       T81         0040VEH  EFD       RL                            0199     09500     28500                                  
+SEURER       T81         0050OTLATEFEA      RL                            0249     09500     28500                                  
+SEURER       T81         0060TADITEFEA      RL                            0094     09500     28500                                  
+SEURER       T81         0070DEXITEFEA      RL                            0098     09500     28500                                  
+SEURER       T81         0080LNE  EFD       RL                            0249     09500     28500                                  
+SEURER       T81         0090DIPAREFEA      RL                            0248     09500     28500                                  
+SEURER       T81         0100HAL  EFD       RL                            0163     09500     28500                                  
+SEURER       T81         0110LEKSUEFEA      RL                            0162     09500     28500                                  
+SEURER       T81         0120PIR  EFD       RL                            0278     09500     28500                                  
+SEURER       T81         0130TURUXEFEA      RL                            0190     06500     28500                                  
+SEURER       T81         0160RUS  EFD       RL                            0259     09500     28500                                  
+SEURER       T93         0010PSJ  EFD       RL                                     09500     28500                                  
+SEURER       T93         0020PIRUXEFEA      RL                            0123     09500     28500                                  
+SEURER       T93         0030ROLOSEFEA      RL                            0050     09500     28500                                  
+SEURER       Y75         0010IRKUNEFEA      O                                      09500     28500                                  
+SEURER       Y75         0020BILSAEFEA      O                             0275     09500     28500                                  
+SEURER       Y75         0030KEKOXEFEA      O                             0109     09500     28500                                  
+SEURER       Y75         0040ROI  EFD       O                             0322     09500     28500                                  
+SEURER       Y75         0050TILDOEFEA      O                                      09500     28500                                  
+SEURER       Y75         0060EMLISEFEA      O                             0184     09500     28500                                  
+SEURER       Y75         0070LUKATEFEA      O                             0177     09500     28500                                  
+SEURER       Y75         0080DIPAREFEA      O                             0082     09500     28500                                  
+SEURER       Y75         0090EPESIEFEA      O                             0369     09500     28500                                  
+SEURER       Y75         0100VAVIXEFEA      O                             0164     09500     28500                                  
+SEURER       Y75         0110MIMLAEFEA      O                             0517     09500     28500                                  
+SEURER       Y75         0120OSTOSEFEA      O                             0366     09500     28500                                  
+SEURER       Y75         0130OUK  EFD       O                             0298     09500     28500                                  
+SEURER       Y75         0140PVO  EFD       O                                      09500     28500                                  
+SEURER       Y75         0150ROVILEFEA      O                             0345     09500     28500                                  
+SEURER       Y78         0010KIT  EFD       O                                      09500     28500                                  
+SEURER       Y78         0020BISROEFEA      O                             0244     09500     28500                                  
+SEURER       Y78         0030SITSOEFEA      O                             0179     09500     28500                                  
+SEURER       Y78         0040ROI  EFD       O                             0249     09500     28500                                  
+SEURER       Y78         0050UVIKOEFEA      O                             0341     09500     28500                                  
+SEURER       Y78         0060KEM  EFD       O                             0180     09500     28500                                  
+SEURER       Y78         0070ENO  EFD       O                                      09500     28500                                  
+SEURER       Y78         0080LIMROEFEA      O                             0130     09500     28500                                  
+SEURER       Y78         0090HEL  EFD       O                                      09500     28500                                  
+SEURER       Y78         0100KUVAKEFEA      O                             0302     09500     28500                                  
+SEURER       Y78         0110ORM  EFD       O                             0080     09500     28500                                  
+SEURER       Y78         0120DEROXEFEA      O                             0299     09500     28500                                  
+SEURER       Y78         0130TUSISEFEA      O                             0771     09500     28500                                  
+SEURER       Y78         0140RIMPUEFEA      O                             0067     09500     28500                                  
+SEURER       Y78         0150VEH  EFD       O                             0276     09500     28500                                  
+SEURER       Y78         0160MAXANEFEA      O                                      09500     28500                                  
+SEURER       Y78         0170TOSLOEFEA      O                             0159     09500     28500                                  
+SEURER       Y78         0180KNI  EFD       O                             0161     09500     28500                                  
+SEURER       Y78         0190TIGLUEFEA      O                             0203     09500     28500                                  
+SEURER       Y78         0200SOPRIEFEA      O                             0215     09500     28500                                  
+SEURER       Y78         0210OUK  EFD       O                             0290     09500     28500                                  
+SEURER       N873-       0030TUNUSEFEA      O                             0766     09500     28500                                  
+SEURER       N873-       0040LAKUTEFEA      O                             0236     09500     28500                                  
+SEURER       T91         0010KRU  EFD       RL                                     09500     28500                                  
+SEURER       T91         0020POBUSEFEA      RL                            0231     09500     28500                                  
+SEURER       T91         0030ELMUXEFEA      RL                            0331     09500     28500                                  
+SEURER       T91         0040ROLOSEFEA      RL                            0240     09500     28500                                  
+SEURER       T91         0050PERILEFEA      RL                            0477     09500     28500                                  
+SEURER       T91         0060PRI  EFD       RL                            0170     09500     28500                                  
+SEURER       T6          0070HEL  EFD       RL                                     09500     28500                                  
+SEURER       T6          0080ELMUTEFEA      RL                            0274     09500     28500                                  
+SEURER       T6          0090PEVEN  EA      RL                            0831     09500     28500                                  
+SEURER       T84         0010UMOTIEFEA      RL                                     09500     28500                                  
+SEURER       T84         0020DEKOPEFEA      RL                            0144     09500     28500                                  
+SEURER       T84         0030RITUNEFEA      RL                            0267     09500     28500                                  
+SEURER       T84         0040VEPISEFEA      RL                            0302     09500     28500                                  
+SEURER       T84         0050SVL  EFD       RL                            0140     09500     28500                                  
+SEURER       T84         0060OMILOEFEA      RL                            0140     09500     28500                                  
+SEURER       T84         0070NILMOEFEA      RL                            0078     09500     28500                                  
+SEURER       T84         0080JNS  EFD       RL                            0249     09500     28500                                  
+SEURER       T86         0040RUS  EFD       RL                            0269     06500     28500                                  
+SEURER       T86         0050SITMUEFEA      RL                            0249     06500     28500                                  
+SEURER       T86         0070PVO  EFD       RL                            0284     09500     28500                                  
+SEURER       T86         0080VTI  EFD       RL                            0411     09500     28500                                  
+SEURER       N872        0180RUNENEFEA      O                             0471     09500     28500                                  
+SEURER       N872        0190NUKSIEFEA      O                             0164     09500     28500                                  
+SEURER       N872        0200HEL  EFD       O                             0099     09500     28500                                  
+SEURER       N872        0210PVO  EFD       O                             0191     09500     28500                                  
+SEURER       N872        0220LEDUN  EA      O                             0247     09500     28500                                  
+SEURER       Y80         0010IPSULEFEA      O                                      09500     28500                                  
+SEURER       Y80         0020DEMOTEFEA      O                             0486     09500     28500                                  
+SEURER       Y80         0030VAS  EFD       O                             0269     09500     28500                                  
+SEURER       Y80         0040RUS  EFD       O                                      06500     28500                                  
+SEURER       Y80         0050NIRPUEFEA      O                             0160     06500     28500                                  
+SEURER       Y80         0060TUSKUEFEA      O                             0216     06500     28500                                  
+SEURER       Y80         0070PRI  EFD       O                             0210     06500     28500                                  
+SEURER       P739        0070PVO  EFD       O                             0452     06500     28500                                  
+SEURER       Y76         0080KEKOXEFEA      O                                      09500     28500                                  
+SEURER       Y76         0090VEMUXEFEA      O                             0576     09500     28500                                  
+SEURER       Y76         0100XAMILEFEA      O                             0172     09500     28500                                  
+SEURER       Y76         0110SUPOXEFEA      O                             0630     09500     28500                                  
+SEURER       L855        0010VTI  EFD       O                                      09500     28500                                  
+SEURER       L855        0020DOBAN  EA      O                             0401     09500     19500                                  
+SEURER       Y74         0030RAMANEFEA      O                             0766     09500     28500                                  
+SEURER       Y74         0040NIKRUEFEA      O                             0146     09500     28500                                  
+SEURER       Y74         0050PIR  EFD       O                             0204     09500     28500                                  
+SEURER       T311        0060VAS  EFD       RL                            0198     09500     28500                                  
+SEURER       Q1          0010MEDOTEFEA      RH                                     06500     28500                                  
+SEURER       Q1          0020RUS  EFD       RH                            0251     06500     28500                                  
+SEURER       T9          0010UTUNUEFEA      RL                                     09500     28500                                  
+SEURER       T9          0020PEPUTEFEA      RL                            0423     09500     28500                                  
+SEURER       T9          0030EREPOEFEA      RL                            0556     09500     28500                                  
+SEURER       T9          0040ELBUSEFEA      RL                            0289     09500     28500                                  
+SEURER       T9          0050VAPOTEFEA      RL                            0165     09500     28500                                  
+SEURER       T9          0060ROI  EFD       RL                            0264     09500     28500                                  
+SEURER       T83         0010TULTIEFEA      RL                                     09500     28500                                  
+SEURER       T83         0020GUBLAEFEA      RL                            0223     09500     28500                                  
+SEURER       T83         0030ELMAKEFEA      RL                            0234     09500     28500                                  
+SEURER       T83         0040NUNVAEFEA      RL                            0050     09500     28500                                  
+SEURER       T83         0050VEH  EFD       RL                            0276     09500     28500                                  
+SEURER       Y73         0010ORM  EFD       O                                      09500     28500                                  
+SEURER       Y73         0020ELSUSEFEA      O                             0299     09500     28500                                  
+SEURER       Y73         0030GEKLUEFEA      O                             0689     09500     28500                                  
+SEURER       Y73         0040SVL  EFD       O                             0140     09500     28500                                  
+SEURER       Y72-Y       0010GUPSAEFEA      O                                      06500     28500                                  
+SEURER       Y72-Y       0020ENOKIEFEA      O                             0120     06500     28500                                  
+SEURER       Y72-Y       0030VALOXEFEA      O                             0173     06500     28500                                  
+SEURER       Y72-Y       0040PIR  EFD       O                             0178     06500     28500                                  
+SEURER       T70         0010OUK  EFD       RL                                     09500     28500                                  
+SEURER       T70         0020EPESA  EA      RL                            0294     09500     28500                                  
+SEURER       T70         0030OBIROEFEA      RL                            1068     09500     28500                                  
+SEURER       T70         0040KIT  EFD       RL                            0258     09500     28500                                  
+SEURER       T99         0010EPESIEFEA      RL                                     09500     28500                                  
+SEURER       T99         0020LNE  EFD       RL                            0197     09500     28500                                  
+SEURER       Y71         0010KLA  EFD       O                                      09500     28500                                  
+SEURER       Y71         0020PISINEFEA      O                             0146     09500     28500                                  
+SEURER       Y71         0030NUKSAEFEA      O                             0789     09500     28500                                  
+SEURER       Y71         0040KNI  EFD       O                             0166     09500     28500                                  
+SEURER       Y71         0050POKEXEFEA      O                             0200     09500     28500                                  
+SEURER       Y71         0060UPULIEFEA      O                             0158     09500     28500                                  
+SEURER       Y71         0070ETABIEFEA      O                             0557     09500     28500                                  
+SEURER       Y71         0080MISMUEFEA      O                             0125     09500     28500                                  
+SEURER       Y71         0090LNE  EFD       O                             0204     09500     28500                                  
+SEURER       B158        0050KETOLEFEA      O                             0754     04000     39700                                  
+SEURER       P854        0010HEL  EFD       O                                      06500     28500                                  
+SEURER       P854        0020PIVAKEFEA      O                             0279     06500     28500                                  
+SEURER       P854        0030PEMOSEFEA      O                             0129     06500     28500                                  
+SEURER       P854        0040VELUNEFEA      O                             0141     06500     28500                                  
+SEURER       P854        0050PIR  EFD       O                             0209     09500     28500                                  
+SEURER       P854        0060SORUKEFEA      O                             0199     09500     28500                                  
+SEURER       P854        0070NOLGIEFEA      O                             0151     09500     28500                                  
+SEURER       P854        0080ROLOSEFEA      O                             0389     09500     28500                                  
+SEURER       P854        0090GELSOEFEA      O                             0089     09500     28500                                  
+SEURER       P854        0100VAS  EFD       O                             0274     09500     28500                                  
+SEURER       P854        0110RALOX  EA      O                             0164     09500     28500                                  
+SEURER       T95         0010OUK  EFD       RL                                     09500     28500                                  
+SEURER       T95         0020UPMOTEFEA      RL                            0310     09500     28500                                  
+SEURER       T95         0030XOKNOEFEA      RL                            0273     09500     28500                                  
+SEURER       T95         0040VANITEFEA      RL                            0154     09500     28500                                  
+SEURER       T95         0050RIVOXEFEA      RL                            0830     09500     28500                                  
+SEURER       T95         0060GESMIEFEA      RL                            0251     09500     28500                                  
+SEURER       T95         0070UBELOEFEA      RL                            0158     09500     28500                                  
+SEURER       T95         0080PIR  EFD       RL                            0193     09500     28500                                  
+SEURER       Y77         0010ORM  EFD       O                                      09500     28500                                  
+SEURER       Y77         0020GETSOEFEA      O                             0171     09500     28500                                  
+SEURER       Y77         0030UMOTIEFEA      O                             0172     09500     28500                                  
+SEURER       T82         0010JNS  EFD       RL                                     09500     28500                                  
+SEURER       T82         0020OSNILEFEA      RL                            0250     09500     28500                                  
+SEURER       T82         0030TULTIEFEA      RL                            0587     09500     28500                                  
+SEURER       T82         0040GIPLUEFEA      RL                            0156     09500     28500                                  
+SEURER       T82         0050RISATEFEA      RL                            0256     09500     28500                                  
+SEURER       T82         0060ORM  EFD       RL                            0299     09500     28500                                  
+SEURER       P606        0040PVO  EFD       O                                      09500     28500                                  
+SEURER       P606        0050KUDOP  EA      O                             0490     09500     28500                                  
+SEURER       Z210        0050VADLAEFEA      O                             0224     12000     24500                                  
+SEURER       Z210        0060TINOSEFEA      O                             0533     12000     24500                                  
+SEURER       Z210        0070LENSA  EA      O                             1293     12000     24500                                  
+SEURER       T80         0010INKOLEFEA      RL                                     06500     28500                                  
+SEURER       T80         0020GUPSAEFEA      RL                            0164     06500     28500                                  
+SEURER       T80         0030TURSUEFEA      RL                            0237     06500     28500                                  
+SEURER       T80         0040NIPANEFEA      RL                                     06500     28500                                  
+SEURER       T80         0050PRI  EFD       RL                            0211     06500     28500                                  
+SEURER       T98         0010JNS  EFD       RL                                     09500     28500                                  
+SEURER       T98         0020RUDAMEFEA      RL                            0221     09500     28500                                  
+SEURER       T98         0030KOMEKEFEA      RL                            0217     09500     28500                                  
+SEURER       A227        0010KELEKEFEA      O                                      08900     39700                                  
+SEURER       A227        0020PELORUUEA      O                             0733     08900     39700                                  
+SEURER       T87         0010KETOLEFEA      RL                                     09500     28500                                  
+SEURER       T87         0020PISOVEFEA      RL                            0154     09500     28500                                  
+SEURER       T87         0030SVL  EFD       RL                            0189     09500     28500                                  
+SEURER       B963        0010KETOLEFEA      O                                      04000     39700                                  
+SEURER       B963        0020VIDLAUUEA      O                             0755     04000     39700                                  
+SEURER       M745        0030NARNAEFEA      O                             0338     09500     28500                                  
+SEURER       T89         0010KLA  EFD       RL                                     09500     28500                                  
+SEURER       T89         0020TOKLAEFEA      RL                            0140     09500     28500                                  
+SEURER       T89         0030SISPOEFEA      RL                            0794     09500     28500                                  
+SEURER       T89         0040OUK  EFD       RL                            0223     09500     28500                                  
+SEURER       T89         0050NOSLOEFEA      RL                                     06500     28500                                  
+SEURER       T89         0060OKAMOEFEA      RL                            0205     06500     28500                                  
+SEURER       T89         0070KRU  EFD       RL                            0167     06500     28500                                  
+SEURER       T89         0080VEXATEFEA      RL                            0240     06500     28500                                  
+SEURER       T89         0090OMELUEFEA      RL                            0149     06500     28500                                  
+SEURER       T89         0100VAS  EFD       RL                            0199     06500     28500                                  
+SEURER       T94         0010KRU  EFD       RL                                     09500     28500                                  
+SEURER       T94         0020TAKOTEFEA      RL                            0228     09500     28500                                  
+SEURER       T94         0030LITSUEFEA      RL                            0369     09500     28500                                  
+SEURER       T94         0040URAKAEFEA      RL                            0258     09500     28500                                  
+SEURER       T94         0050TUPSUEFEA      RL                            0229     09500     28500                                  
+SEURER       T94         0060LERSAEFEA      RL                            0160     09500     28500                                  
+SEURER       T94         0070PIR  EFD       RL                            0190     09500     28500                                  
+SEURER       N873-       0010LAKUTEFEA      O                                      06500     28500                                  
+SEURER       N873-       0020MAROMEFEA      O                             0050     06500     28500                                  
+SEURER       N873-       0030VTI  EFD       O                             0060     06500     28500                                  
+SEURER       T79         0010LARPUEFEA      RL                                     09500     28500                                  
+SEURER       T79         0020TALUGEFEA      RL                            0098     09500     28500                                  
+SEURER       T79         0030PSJ  EFD       RL                            0081     09500     28500                                  
+SEURER       T79         0040PIR  EFD       RL                                     09500     28500                                  
+SEURER       T79         0050USEPUEFEA      RL                            0194     09500     28500                                  
+SEURER       B488        0010KELEKEFEA      O                                      33200     39700                                  
+SEURER       B488        0020NISENUUEA      O                             0612     33200     39700                                  
+SEURER       Y79         0010RATLAEFEA      O                                      09500     28500                                  
+SEURER       Y79         0020LUNALEFEA      O                             0071     09500     28500                                  
+SEURER       Y79         0030VIL  EFD       O                             0055     09500     28500                                  
+SEURER       Y79         0040RESKAEFEA      O                             0169     09500     28500                                  
+SEURER       Y79         0050UMOTIEFEA      O                             0187     09500     28500                                  
+SEURER       Y79         0060PABRUEFEA      O                             0171     09500     28500                                  
+SEURER       Y79         0070MILSIEFEA      O                             0156     09500     28500                                  
+SEURER       Y79         0080PVO  EFD       O                             0209     09500     28500                                  
+SEURER       Y880        0010PRI  EFD       O                                      09500     28500                                  
+SEURER       Y880        0020TOGMI  EA      O                             0668     09500     28500                                  
+SEURER       UN746       0160NESINEFEA      O                             0411     28500     66000                                  
+SEURER       UM854       0130PVO  EFD       O                             0239     28500     66000                                  
+SEURER       UP609       0010ROI  EFD       O                                      28500     66000                                  
+SEURER       UP609       0020BABUXEFEA      O                             0344     28500     66000                                  
+SEURER       UP609       0030VASUL  EA      O                             1021     28500     66000                                  
+SEURER       UP609       0090ETANIEFEA      O                             0996     28500     66000                                  
+SEURER       UP609       0100VAS  EFD       O                             0207     28500     66000                                  
+SEURER       UP609       0110TILTUEFEA      O                             0206     28500     66000                                  
+SEURER       UM852       0210KELEKEFEA      O                                      28500     66000                                  
+SEURER       UM852       0220SUKISEFEA      O                             0176     28500     66000                                  
+SEURER       UM852       0230KNS  EFD       O                             0048     28500     66000                                  
+SEURER       UM852       0240SUPOXEFEA      O                             0223     28500     66000                                  
+SEURER       UY85        0040OUK  EFD       O                                      28500     66000                                  
+SEURER       UY85        0050BIGNU  EA      O                             0217     28500     66000                                  
+SEURER       UT85        0120JNS  EFD       O                                      28500     66000                                  
+SEURER       UT85        0130RUS  EFD       O                             2462     28500     66000                                  
+SEURER       UM857       0170ROVANEFEA      O                             0781     24500     66000                                  
+SEURER       UM857       0180RUNESEFEA      O                             0088     28500     66000                                  
+SEURER       UM857       0190NARNAEFEA      O                             0264     28500     66000                                  
+SEURER       UM857       0200NIPSAEFEA      O                             0208     28500     66000                                  
+SEURER       UM857       0210KNS  EFD       O                             0282     28500     66000                                  
+SEURER       UM857       0220TENKUEFEA      O                             0150     28500     66000                                  
+SEURER       UM857       0230NAPSUEFEA      O                             0618     28500     66000                                  
+SEURER       UM857       0240ROI  EFD       O                                      28500     66000                                  
+SEURER       UM857       0250NASULEFEA      O                             0300     28500     66000                                  
+SEURER       UM857       0260NOPSAEFEA      O                             0129     28500     66000                                  
+SEURER       UM857       0270ULTOSEFEA      O                             0274     28500     66000                                  
+SEURER       UM857       0280OUK  EFD       O                             0283     28500     66000                                  
+SEURER       UM857       0290PVO  EFD       O                                      28500     66000                                  
+SEURER       UM857       0300VAKATEFEA      O                             0237     28500     66000                                  
+SEURER       UM857       0310ORM  EFD       O                             0090     28500     66000                                  
+SEURER       UM857       0320KEKELEFEA      O                             0299     28500     66000                                  
+SEURER       UM857       0330XEDOGEFEA      O                             0355     28500     66000                                  
+SEURER       UM857       0340LNE  EFD       O                             0299     28500     66000                                  
+SEURER       UM857       0350PELAKEFEA      O                             0196     28500     66000                                  
+SEURER       UM857       0360USOPIEFEA      O                             0125     28500     66000                                  
+SEURER       UM857       0370UTUNUEFEA      O                             0470     28500     66000                                  
+SEURER       UM857       0020PVO  EFD       O                             0255     28500     66000                                  
+SEURER       UT97        0010KNS  EFD       O                                      28500     66000                                  
+SEURER       UT97        0020TISRUEFEA      O                             0830     28500     66000                                  
+SEURER       UT97        0030URUVIEFEA      O                             0673     28500     66000                                  
+SEURER       UT97        0040GEKSIEFEA      O                             1339     28500     66000                                  
+SEURER       UT97        0050ETABIEFEA      O                             0499     28500     66000                                  
+SEURER       UT97        0060GANKIEFEA      O                             0133     28500     66000                                  
+SEURER       UT97        0070BAMPOEFEA      O                             0434     28500     66000                                  
+SEURER       UT97        0080VEREXEFEA      O                             0387     28500     66000                                  
+SEURER       UT97        0090ORM  EFD       O                             0299     28500     66000                                  
+SEURER       UN866       0440JNS  EFD       O                                      28500     66000                                  
+SEURER       UN866       0450SONOXEFEA      O                             2401     28500     66000                                  
+SEURER       UN866       0460EVLAN  EA      O                             0949     28500     46000                                  
+SEURER       UY6         0040TIVINEFEA      O                             0779     28500     66000                                  
+SEURER       UY6         0050MAPITEFEA      O                             1679     28500     66000                                  
+SEURER       UN872       0290RUNENEFEA      O                             0471     28500     66000                                  
+SEURER       UN872       0300NUKSIEFEA      O                             0164     28500     66000                                  
+SEURER       UN872       0310HEL  EFD       O                             0099     28500     66000                                  
+SEURER       UN872       0320PVO  EFD       O                             0191     28500     66000                                  
+SEURER       UN872       0330LEDUN  EA      O                             0247     28500     66000                                  
+SEURER       UY70        0130PIR  EFD       O                                      28500     66000                                  
+SEURER       UY70        0140GIMISEFEA      O                             0189     28500     66000                                  
+SEURER       UY70        0150PEKUSEFEA      O                             0161     28500     66000                                  
+SEURER       UY70        0160PRI  EFD       O                             0163     28500     66000                                  
+SEURER       UM608       0120NESINEFEA      O                                      28500     66000                                  
+SEURER       UM608       0130SUDAT  EA      O                             1998     28500     66000                                  
+SEURER       UP854       0090VAS  EFD       O                             0164     28500     66000                                  
+SEURER       UP854       0100GELSOEFEA      O                             0274     28500     66000                                  
+SEURER       UP854       0110ROLOSEFEA      O                             0089     28500     66000                                  
+SEURER       UP854       0120NOLGIEFEA      O                             0389     28500     66000                                  
+SEURER       UP854       0130SORUKEFEA      O                             0151     28500     66000                                  
+SEURER       UP854       0140PIR  EFD       O                             0199     28500     66000                                  
+SEURER       UP854       0150VELUNEFEA      O                             0209     28500     66000                                  
+SEURER       UP854       0160PEMOSEFEA      O                             0141     28500     66000                                  
+SEURER       UP854       0170PIVAKEFEA      O                             0129     28500     66000                                  
+SEURER       UP854       0180HEL  EFD       O                             0279     28500     66000                                  
+SEURER       UM607       0010ROI  EFD       O                                      28500     66000                                  
+SEURER       UM607       0020LEKRAEFEA      O                             0240     28500     66000                                  
+SEURER       UM607       0030ROVIXEFEA      O                             0188     28500     66000                                  
+SEURER       UM607       0040MISMOEFEA      O                             0107     28500     46000                                  
+SEURER       UM607       0050BESLAESEA      O                             0415     28500     46000                                  
+SEURER       UP853       0020LAPSUEFEA      O                             1203     28500     66000                                  
+SEURER       UP853       0030VIL  EFD       O                             1731     28500     66000                                  
+SEURER       UP853       0040RATLAEFEA      O                             0126     28500     66000                                  
+SEURER       UY75        0010IRKUNEFEA      O                                      28500     66000                                  
+SEURER       UY75        0020BILSAEFEA      O                             0275     28500     66000                                  
+SEURER       UY75        0030KEKOXEFEA      O                             0109     28500     66000                                  
+SEURER       UY75        0040ROI  EFD       O                             0322     28500     66000                                  
+SEURER       UY75        0050TILDOEFEA      O                                      28500     66000                                  
+SEURER       UY75        0060EMLISEFEA      O                             0184     28500     66000                                  
+SEURER       UY75        0070LUKATEFEA      O                             0177     28500     66000                                  
+SEURER       UY75        0080DIPAREFEA      O                             0082     28500     66000                                  
+SEURER       UY75        0090EPESIEFEA      O                             0369     28500     66000                                  
+SEURER       UY75        0100VAVIXEFEA      O                             0164     28500     66000                                  
+SEURER       UY75        0110MIMLAEFEA      O                             0517     28500     66000                                  
+SEURER       UY75        0120OSTOSEFEA      O                             0366     28500     66000                                  
+SEURER       UY75        0130OUK  EFD       O                             0298     28500     66000                                  
+SEURER       UY75        0140PVO  EFD       O                                      28500     66000                                  
+SEURER       UY75        0150ROVILEFEA      O                             0345     28500     66000                                  
+SEURER       UY78        0010KIT  EFD       O                                      28500     66000                                  
+SEURER       UY78        0020BISROEFEA      O                             0244     28500     66000                                  
+SEURER       UY78        0030SITSOEFEA      O                             0179     28500     66000                                  
+SEURER       UY78        0040ROI  EFD       O                             0249     28500     66000                                  
+SEURER       UY78        0050UVIKOEFEA      O                             0341     28500     66000                                  
+SEURER       UY78        0060KEM  EFD       O                             0180     28500     66000                                  
+SEURER       UY78        0070ENO  EFD       O                                      28500     66000                                  
+SEURER       UY78        0080LIMROEFEA      O                             0130     28500     66000                                  
+SEURER       UY78        0090HEL  EFD       O                                      28500     66000                                  
+SEURER       UY78        0100KUVAKEFEA      O                             0302     28500     66000                                  
+SEURER       UY78        0110ORM  EFD       O                             0080     28500     66000                                  
+SEURER       UY78        0120DEROXEFEA      O                             0299     28500     66000                                  
+SEURER       UY78        0130TUSISEFEA      O                             0771     28500     66000                                  
+SEURER       UY78        0140RIMPUEFEA      O                             0067     28500     66000                                  
+SEURER       UY78        0150VEH  EFD       O                             0276     28500     66000                                  
+SEURER       UY78        0160MAXANEFEA      O                                      28500     66000                                  
+SEURER       UY78        0170TOSLOEFEA      O                             0159     28500     66000                                  
+SEURER       UY78        0180KNI  EFD       O                             0161     28500     66000                                  
+SEURER       UY78        0190TIGLUEFEA      O                             0203     28500     66000                                  
+SEURER       UY78        0200SOPRIEFEA      O                             0215     28500     66000                                  
+SEURER       UY78        0210OUK  EFD       O                             0290     28500     66000                                  
+SEURER       UN873       0030TUNUSEFEA      O                             0766     28500     66000                                  
+SEURER       UN873       0040LAKUTEFEA      O                             0236     28500     66000                                  
+SEURER       UT84        0010UMOTIEFEA      O                                      28500     66000                                  
+SEURER       UT84        0020DEKOPEFEA      O                             0144     28500     66000                                  
+SEURER       UT84        0030RITUNEFEA      O                             0267     28500     66000                                  
+SEURER       UT84        0040VEPISEFEA      O                             0302     28500     66000                                  
+SEURER       UT84        0050SVL  EFD       O                             0140     28500     66000                                  
+SEURER       UT84        0060OMILOEFEA      O                             0140     28500     66000                                  
+SEURER       UT84        0070NILMOEFEA      O                             0078     28500     66000                                  
+SEURER       UT84        0080JNS  EFD       O                             0249     28500     66000                                  
+SEURER       UT86        0040RUS  EFD       O                             0269     28500     66000                                  
+SEURER       UT86        0050SITMUEFEA      O                             0249     28500     66000                                  
+SEURER       UT86        0070PVO  EFD       O                             0284     28500     66000                                  
+SEURER       UT86        0080VTI  EFD       O                             0411     28500     66000                                  
+SEURER       UY80        0010IPSULEFEA      O                                      28500     66000                                  
+SEURER       UY80        0020DEMOTEFEA      O                             0486     28500     66000                                  
+SEURER       UY80        0030VAS  EFD       O                             0269     28500     66000                                  
+SEURER       UY80        0040RUS  EFD       O                                      28500     66000                                  
+SEURER       UY80        0050NIRPUEFEA      O                             0160     28500     66000                                  
+SEURER       UY80        0060TUSKUEFEA      O                             0216     28500     66000                                  
+SEURER       UY80        0070PRI  EFD       O                             0210     28500     66000                                  
+SEURER       UP739       0070PVO  EFD       O                             0452     28500     66000                                  
+SEURER       UY76        0080KEKOXEFEA      O                                      28500     66000                                  
+SEURER       UY76        0090VEMUXEFEA      O                             0576     28500     66000                                  
+SEURER       UY76        0100XAMILEFEA      O                             0172     28500     66000                                  
+SEURER       UY76        0110SUPOXEFEA      O                             0630     28500     66000                                  
+SEURER       UT81        0010JNS  EFD       O                                      28500     66000                                  
+SEURER       UT81        0020VEDANEFEA      O                             0215     28500     66000                                  
+SEURER       UT81        0030GASKUEFEA      O                             0114     28500     66000                                  
+SEURER       UT81        0040VEH  EFD       O                             0199     28500     66000                                  
+SEURER       UT81        0050OTLATEFEA      O                             0249     28500     66000                                  
+SEURER       UT81        0060TADITEFEA      O                             0094     28500     66000                                  
+SEURER       UT81        0070DEXITEFEA      O                             0098     28500     66000                                  
+SEURER       UT81        0080LNE  EFD       O                             0249     28500     66000                                  
+SEURER       UT81        0090DIPAREFEA      O                             0248     28500     66000                                  
+SEURER       UT81        0100HAL  EFD       O                             0163     28500     66000                                  
+SEURER       UT81        0110LEKSUEFEA      O                             0162     28500     66000                                  
+SEURER       UT81        0120PIR  EFD       O                             0278     28500     66000                                  
+SEURER       UT81        0130TURUXEFEA      O                             0190     28500     66000                                  
+SEURER       UT81        0160RUS  EFD       O                             0259     28500     66000                                  
+SEURER       UL855       0010VTI  EFD       O                                      28500     66000                                  
+SEURER       UL855       0020DOBAN  EA      O                             0401     19500     66000                                  
+SEURER       UT6         0070HEL  EFD       O                                      28500     66000                                  
+SEURER       UT6         0080ELMUTEFEA      O                             0274     28500     66000                                  
+SEURER       UT6         0090PEVEN  EA      O                             0831     28500     66000                                  
+SEURER       UY74        0030RAMANEFEA      O                             0766     28500     66000                                  
+SEURER       UY74        0040NIKRUEFEA      O                             0146     28500     66000                                  
+SEURER       UY74        0050PIR  EFD       O                             0204     28500     66000                                  
+SEURER       UT311       0060VAS  EFD       O                             0198     28500     66000                                  
+SEURER       UT9         0010UTUNUEFEA      O                                      28500     66000                                  
+SEURER       UT9         0020PEPUTEFEA      O                             0423     28500     66000                                  
+SEURER       UT9         0030EREPOEFEA      O                             0556     28500     66000                                  
+SEURER       UT9         0040ELBUSEFEA      O                             0289     28500     66000                                  
+SEURER       UT9         0050VAPOTEFEA      O                             0165     28500     66000                                  
+SEURER       UT9         0060ROI  EFD       O                             0264     28500     66000                                  
+SEURER       UT83        0010TULTIEFEA      O                                      28500     66000                                  
+SEURER       UT83        0020GUBLAEFEA      O                             0223     28500     66000                                  
+SEURER       UT83        0030ELMAKEFEA      O                             0234     28500     66000                                  
+SEURER       UT83        0040NUNVAEFEA      O                             0050     28500     66000                                  
+SEURER       UT83        0050VEH  EFD       O                             0276     28500     66000                                  
+SEURER       UT91        0010KRU  EFD       O                                      28500     66000                                  
+SEURER       UT91        0020POBUSEFEA      O                             0231     28500     66000                                  
+SEURER       UT91        0030ELMUXEFEA      O                             0331     28500     66000                                  
+SEURER       UT91        0040ROLOSEFEA      O                             0240     28500     66000                                  
+SEURER       UT91        0050PERILEFEA      O                             0477     28500     66000                                  
+SEURER       UT91        0060PRI  EFD       O                             0170     28500     66000                                  
+SEURER       UY73        0010ORM  EFD       O                                      28500     66000                                  
+SEURER       UY73        0020ELSUSEFEA      O                             0299     28500     66000                                  
+SEURER       UY73        0030GEKLUEFEA      O                             0689     28500     66000                                  
+SEURER       UY73        0040SVL  EFD       O                             0140     28500     66000                                  
+SEURER       UY72        0010GUPSAEFEA      O                                      28500     66000                                  
+SEURER       UY72        0020ENOKIEFEA      O                             0120     28500     66000                                  
+SEURER       UY72        0030VALOXEFEA      O                             0173     28500     66000                                  
+SEURER       UY72        0040PIR  EFD       O                             0178     28500     66000                                  
+SEURER       UT70        0010OUK  EFD       O                                      28500     66000                                  
+SEURER       UT70        0020EPESA  EA      O                             0294     28500     66000                                  
+SEURER       UT70        0030OBIROEFEA      O                             1068     28500     66000                                  
+SEURER       UT70        0040KIT  EFD       O                             0258     28500     66000                                  
+SEURER       UT99        0010EPESIEFEA      O                                      28500     66000                                  
+SEURER       UT99        0020LNE  EFD       O                             0197     28500     66000                                  
+SEURER       UY71        0010KLA  EFD       O                                      28500     66000                                  
+SEURER       UY71        0020PISINEFEA      O                             0146     28500     66000                                  
+SEURER       UY71        0030NUKSAEFEA      O                             0789     28500     66000                                  
+SEURER       UY71        0040KNI  EFD       O                             0166     28500     66000                                  
+SEURER       UY71        0050POKEXEFEA      O                             0200     28500     66000                                  
+SEURER       UY71        0060UPULIEFEA      O                             0158     28500     66000                                  
+SEURER       UY71        0070ETABIEFEA      O                             0557     28500     66000                                  
+SEURER       UY71        0080MISMUEFEA      O                             0125     28500     66000                                  
+SEURER       UY71        0090LNE  EFD       O                             0204     28500     66000                                  
+SEURER       UT95        0010OUK  EFD       O                                      28500     66000                                  
+SEURER       UT95        0020UPMOTEFEA      O                             0310     28500     66000                                  
+SEURER       UT95        0030XOKNOEFEA      O                             0273     28500     66000                                  
+SEURER       UT95        0040VANITEFEA      O                             0154     28500     66000                                  
+SEURER       UT95        0050RIVOXEFEA      O                             0830     28500     66000                                  
+SEURER       UT95        0060GESMIEFEA      O                             0251     28500     66000                                  
+SEURER       UT95        0070UBELOEFEA      O                             0158     28500     66000                                  
+SEURER       UT95        0080PIR  EFD       O                             0193     28500     66000                                  
+SEURER       UY77        0010ORM  EFD       O                                      28500     66000                                  
+SEURER       UY77        0020GETSOEFEA      O                             0171     28500     66000                                  
+SEURER       UY77        0030UMOTIEFEA      O                             0172     28500     66000                                  
+SEURER       UT82        0010JNS  EFD       O                                      28500     66000                                  
+SEURER       UT82        0020OSNILEFEA      O                             0250     28500     66000                                  
+SEURER       UT82        0030TULTIEFEA      O                             0587     28500     66000                                  
+SEURER       UT82        0040GIPLUEFEA      O                             0156     28500     66000                                  
+SEURER       UT82        0050RISATEFEA      O                             0256     28500     66000                                  
+SEURER       UT82        0060ORM  EFD       O                             0299     28500     66000                                  
+SEURER       UP606       0040PVO  EFD       O                                      28500     66000                                  
+SEURER       UP606       0050KUDOP  EA      O                             0490     28500     66000                                  
+SEURER       UZ210       0040VADLAEFEA      O                             0224     24500     66000                                  
+SEURER       UZ210       0050TINOSEFEA      O                             0533     24500     66000                                  
+SEURER       UZ210       0060TRO    D       O                             1503     24500     66000                                  
+SEURER       UT80        0010INKOLEFEA      O                                      28500     66000                                  
+SEURER       UT80        0020GUPSAEFEA      O                             0164     28500     66000                                  
+SEURER       UT80        0030TURSUEFEA      O                             0237     28500     66000                                  
+SEURER       UT80        0040NIPANEFEA      O                                      28500     66000                                  
+SEURER       UT80        0050PRI  EFD       O                             0211     28500     66000                                  
+SEURER       UN624       0010JNS  EFD       O                                      28500     66000                                  
+SEURER       UN624       0020KOSKA  EA      O                             3335     28500     66000                                  
+SEURER       UT98        0010JNS  EFD       O                                      28500     66000                                  
+SEURER       UT98        0020RUDAMEFEA      O                             0221     28500     66000                                  
+SEURER       UT98        0030KOMEKEFEA      O                             0217     28500     66000                                  
+SEURER       UY84        0010JNS  EFD       O                                      28500     66000                                  
+SEURER       UY84        0020SUDAT  EA      O                             2062     28500     66000                                  
+SEURER       UY1         0010KELEKEFEA      O                                      28500     66000                                  
+SEURER       UY1         0020SOPATEFEA      O                             0300     28500     66000                                  
+SEURER       UT87        0010KETOLEFEA      O                                      28500     66000                                  
+SEURER       UT87        0020PISOVEFEA      O                             0154     28500     66000                                  
+SEURER       UT87        0030SVL  EFD       O                             0189     28500     66000                                  
+SEURER       UM745       0030NARNAEFEA      O                             0338     28500     66000                                  
+SEURER       UT89        0010KLA  EFD       O                                      28500     66000                                  
+SEURER       UT89        0020TOKLAEFEA      O                             0140     28500     66000                                  
+SEURER       UT89        0030SISPOEFEA      O                             0794     28500     66000                                  
+SEURER       UT89        0040OUK  EFD       O                             0223     28500     66000                                  
+SEURER       UT89        0050NOSLOEFEA      O                                      28500     66000                                  
+SEURER       UT89        0060OKAMOEFEA      O                             0205     28500     66000                                  
+SEURER       UT89        0070KRU  EFD       O                             0167     28500     66000                                  
+SEURER       UT89        0080VEXATEFEA      O                             0240     28500     66000                                  
+SEURER       UT89        0090OMELUEFEA      O                             0149     28500     66000                                  
+SEURER       UT89        0100VAS  EFD       O                             0199     28500     66000                                  
+SEURER       UP998       0020KOKISEFEA      O                             3219     28500     66000                                  
+SEURER       UP998       0030ROI  EFD       O                             1427     28500     66000                                  
+SEURER       UT94        0010KRU  EFD       O                                      28500     66000                                  
+SEURER       UT94        0020TAKOTEFEA      O                             0228     28500     66000                                  
+SEURER       UT94        0030LITSUEFEA      O                             0369     28500     66000                                  
+SEURER       UT94        0040URAKAEFEA      O                             0258     28500     66000                                  
+SEURER       UT94        0050TUPSUEFEA      O                             0229     28500     66000                                  
+SEURER       UT94        0060LERSAEFEA      O                             0160     28500     66000                                  
+SEURER       UT94        0070PIR  EFD       O                             0190     28500     66000                                  
+SEURER       UN873       0010LAKUTEFEA      O                                      28500     66000                                  
+SEURER       UN873       0020MAROMEFEA      O                             0050     28500     66000                                  
+SEURER       UN873       0030VTI  EFD       O                             0060     28500     66000                                  
+SEURER       UT79        0010LARPUEFEA      O                                      28500     66000                                  
+SEURER       UT79        0020TALUGEFEA      O                             0098     28500     66000                                  
+SEURER       UT79        0030PSJ  EFD       O                             0081     28500     66000                                  
+SEURER       UT79        0040PIR  EFD       O                                      28500     66000                                  
+SEURER       UT79        0050USEPUEFEA      O                             0194     28500     66000                                  
+SEURER       UY79        0010RATLAEFEA      O                                      28500     66000                                  
+SEURER       UY79        0020LUNALEFEA      O                             0071     28500     66000                                  
+SEURER       UY79        0030VIL  EFD       O                             0055     28500     66000                                  
+SEURER       UY79        0040RESKAEFEA      O                             0169     28500     66000                                  
+SEURER       UY79        0050UMOTIEFEA      O                             0187     28500     66000                                  
+SEURER       UY79        0060PABRUEFEA      O                             0171     28500     66000                                  
+SEURER       UY79        0070MILSIEFEA      O                             0156     28500     66000                                  
+SEURER       UY79        0080PVO  EFD       O                             0209     28500     66000                                  
+SEURER       UT88        0020SONOXEFEA      O                             0766     28500     66000                                  
+SEURER       UY82        0010NESINEFEA      O                                      28500     66000                                  
+SEURER       UY82        0020SONOXEFEA      O                             2456     28500     66000                                  
+SEURER       UT93        0010PSJ  EFD       O                                      28500     66000                                  
+SEURER       UT93        0020PIRUXEFEA      O                             0123     28500     66000                                  
+SEURER       UT93        0030ROLOSEFEA      O                             0050     28500     66000                                  
+SEURER       UY880       0010PRI  EFD       O                                      28500     66000                                  
+SEURER       UY880       0020TOGMI  EA      O                             0668     28500     66000                                  

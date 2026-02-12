@@ -1,0 +1,124 @@
+S   EAENRT   63N50              N63000000W050000000                                                                                 
+S   EAENRT   64N50              N64000000W050000000                                                                                 
+SUSAEAENRT   ABANA              N67280610W0505805100                                                                                
+SUSAEAENRT   AMINI              N66310010W050234200                                                                                 
+SUSAEAENRT   ANDRE              N68300810W051012700                                                                                 
+S   EAENRT   ASTAN              N65250400W039594400                                                                                 
+S   EAENRT   ASVID              N64374900W048224400                                                                                 
+S   EAENRT   AUDUN              N62144510W0485357100                                                                                
+S   EAENRT   AXIXE              N76314416W068484764                                                                                 
+S   EAENRT   BELLL              N76312040W069063120                                                                                 
+S   EAENRT   CASBI              N76252592W069453504                                                                                 
+S   EAENRT   CURAN              N79550000W0603459100                                                                                
+SUSAEAENRT   EVIMO              N66085645W051313556                                                                                 
+S   EAENRT   FARLA              N76311794W069085970                                                                                 
+S   EAENRT   FREZN              N76314116W068475465                                                                                 
+S   EAENRT   FRINI              N78120000W067420000                                                                                 
+S   EAENRT   GANGI              N66533910W0494050100                                                                                
+SUSAEAENRT   GEBKA              N63095508W050393820                                                                                 
+S   EAENRT   GORBI              N78035910W065400000                                                                                 
+S   EAENRT   HENRY              N80150000W065550000                                                                                 
+S   EAENRT   HUXEL              N76314530W068505694                                                                                 
+S   EAENRT   ICBRG              N76315397W068395079                                                                                 
+S   EAENRT   ILURE              N76312671W068564916                                                                                 
+S   EAENRT   JAGAN              N76311560W069070240                                                                                 
+SUSAEAENRT   KELDO              N65341110W051453300                                                                                 
+SUSAEAENRT   KEMOS              N66573200W052131400                                                                                 
+S   EAENRT   KITAP              N62244200W0475944100                                                                                
+SUSAEAENRT   KOXIN              N65303410W050572300                                                                                 
+SUSAEAENRT   KUGAM              N66282300W0510750100                                                                                
+S   EAENRT   KULUX              N77061397W070062377                                                                                 
+SUSAEAENRT   KUNUK              N68302400W050522200                                                                                 
+SUSAEAENRT   LILGO              N67261100W051255300                                                                                 
+SUSAEAENRT   LUXOV              N65523810W0530858100                                                                                
+S   EAENRT   MAARE              N76542905W068141362                                                                                 
+S   EAENRT   MASIK              N65580400W039594300                                                                                 
+S   EAENRT   MRTNN              N76123810W068531020                                                                                 
+SUSAEAENRT   NALAK              N65425100W0523352100                                                                                
+S   EAENRT   NANSI              N63080700W0465944100                                                                                
+S   EAENRT   NUTEE              N76302285W069475016                                                                                 
+SUSAEAENRT   NUTKA              N64332510W051265700                                                                                 
+SUSAEAENRT   NYGAR              N68135510W052184100                                                                                 
+S   EAENRT   OSKEL              N61124870W046593908                                                                                 
+S   EAENRT   PEVAR              N66415700W0465622100                                                                                
+S   EAENRT   PORSU              N62381200W0425944100                                                                                
+SUSAEAENRT   ROSIE              N65322100W0512757100                                                                                
+SUSAEAENRT   SIMON              N68293900W051131800                                                                                 
+S   EAENRT   SOBVI              N65105410W043494400                                                                                 
+SUSAEAENRT   SUKAK              N66563210W050292100                                                                                 
+S   EAENRT   SUNDD              N76302010W069474920                                                                                 
+S   EAENRT   THT25              N76280524W069461208                                                                                 
+S   EAENRT   THT27              N76321523W069482366                                                                                 
+S   EAENRT   TOLAN              N65361100W0492054100                                                                                
+SUSAEAENRT   UNVIG              N66313900W051320200                                                                                 
+SUSAEAENRT   VIBON              N66295653W052163559                                                                                 
+SUSADB       CH      000265     N68493000W0511229100                                                                                
+SEURDB       CP      000386     N70442500W0223714100                                                                                
+SUSADB       KS      000354     N63045910W0504059100                                                                                
+SUSADB       NK      000273     N64404210W051222600                                                                                 
+SUSADB       QT      000258     N64203973W051345489                                                                                 
+SUSADB       GH      000314     N64104666W051445858                                                                                 
+SUSADB       MAR     000322     N71074100W0511320100                                                                                
+S   DB       NS      000404     N60535910W046010000                                                                                 
+S   DB       NA      000359     N61101468W045244662                                                                                 
+SUSADB       SF      000382     N66580296W050563000                                                                                 
+SUSADB       UU      000285     N70434970W052395551                                                                                 
+S   D        THT     011100V    N76323271W068142119                                                                                 
+SUSAD        ISF     010955 D   N67010732W050405636                                                                                 
+S   D        THT     011100 D   N76323271W068142119                                                                                 
+SUSAD        GN      011030 D   N64111520W051404177                                                                                 
+S   D        NQ      011185 D   N61093749W045242552                                                                                 
+SUSAD        QA      011015 D   N70435690W052414623                                                                                 
+S   ER       5E42        0040THT    D       O                             1027     05500     60000                                  
+S   ER       W26         0350KITAP  EA      O                             1473     10500     19500                                  
+S   ER       W26         0360NA     D       O                             1045     10500     19500                                  
+SUSAER       W27         0400NYGAR  EA      O                             0663     07500     19500                                  
+SUSAER       W27         0410HB     D       O                             0841     09500     19500                                  
+SUSAER       W27         0420LUXOV  EA      O                             0649     09500     19500                                  
+SUSAER       W27         0430MA     D       O                             0288     09500     19500                                  
+S   ER       W28         0080MASIK  EA      O                             0727     08000     19500                                  
+S   ER       W28         0090PEVAR  EA      O                             1729     09000     19500                                  
+S   ER       W28         0100GANGI  EA      O                             0659     09000     19500                                  
+SUSAER       W28         0110SF     D       O                             0300     09000     19500                                  
+SUSAER       W28         0120KEMOS  EA      O                             0301     08000     19500                                  
+SUSAER       W28         0130HB     D       O                             0348     08000     19500                                  
+S   ER       W57         0030PORSU  EA      O                             1248     16600     19500                                  
+S   ER       W57         0040NA     D       O                             1114     15300     19500                                  
+SUSAER       W29         0130SIMON  EA      O                             0450     04500     19500                                  
+SUSAER       W29         0140LILGO  EA      O                             0637     10000     19500                                  
+SUSAER       W29         0150KELDO  EA      O                             1123     10000     19500                                  
+SUSAER       W29         0160KU     D       O                             0903     10000     19500                                  
+S   ER       W21         0080NA     D       O                                      11000     19500                                  
+S   ER       W21         0090NANSI  EA      O                             1260     11000     19500                                  
+SUSAER       W36         0110ROSIE  EA      O                             0893     10000     19500                                  
+SUSAER       W36         0120KUGAM  EA      O                             0567     10000     19500                                  
+SUSAER       W36         0130SF     D       O                             0300     10000     19500                                  
+S   ER       W37         0140NA     D       O                                      09000     19500                                  
+S   ER       W37         0150SI     D       O                             0453     09000     19500                                  
+SUSAER       W24         0260KUNUK  EA      O                             0443     05000     19500                                  
+SUSAER       W24         0270SUKAK  EA      O                             0943     05000     19500                                  
+SUSAER       W24         0320KOXIN  EA      O                                      07500     19500                                  
+SUSAER       W24         0330NUTKA  EA      O                             0585     07500     19500                                  
+SUSAER       W51         0110NALAK  EA      O                             0205     09200     19500                                  
+SUSAER       W51         0120UNVIG  EA      O                             0549     09200     19500                                  
+SUSAER       W51         0130SF     D       O                             0299     09200     19500                                  
+S   ER       5E48        0010CURAN  EA      O                                      08000     60000                                  
+S   ER       5E48        0020GORBI  EA      O                             1253     08000     60000                                  
+S   ER       5E48        0030THT    D       O                             0976     08000     60000                                  
+S   ER       5E44        0020THT    D       O                             1074     05500     60000                                  
+S   ER       5E47        0010FRINI  EA      O                                      08000     60000                                  
+S   ER       5E47        0020HENRY  EA      O                             1247     08000     60000                                  
+S   ER       5E46        0020THT    D       O                             1041     06100     60000                                  
+S   ER       5E43        0020THT    D       O                             1058     05500     60000                                  
+S   ER       5E45        0020THT    D       O                             1059     06100     60000                                  
+S   ER       5E40        0020THT    D       O                             0982     05500     60000                                  
+S   ER       5E58        0010THT    D       O                                      05500     60000                                  
+S   ER       5E58        0020TOMAS  EA      O                             2243     05500     60000                                  
+SUSAER       5E72        0040SF     D       O                             3415     28000     60000                                  
+SUSAER       5E72        0050YFB  CYD       O                             4777     18000     60000                                  
+SUSAER       5E88        0020SF     D       O                             1131     05500     60000                                  
+SUSAER       5E87        0020SF     D       O                             0648     05500     60000                                  
+SUSAER       5E85        0020SF     D       O                             1760     05500     60000                                  
+SUSAER       5E86        0020SF     D       O                             1053     05500     60000                                  
+S   ER       5E59-       0010THT    D       O                                      19500     60000                                  
+S   ER       5E59-       0020SAVIS  EA      O                             0978     19500     60000                                  

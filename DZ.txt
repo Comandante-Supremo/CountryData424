@@ -1,0 +1,557 @@
+SAFREAENRT   3300E DA           N33000000E000000000                                                                                 
+SAFREAENRT   3400E DA           N34000000E000000000                                                                                 
+SAFREAENRT   3500E DA           N35000000E000000000                                                                                 
+SAFREAENRT   ABLOD DA           N31150600E0022720100                                                                                
+SAFREAENRT   AGREB DA           N31555910W000330000                                                                                 
+SAFREAENRT   ALINO DA           N29395310E0093217100                                                                                
+SAFREAENRT   ALR04 DA           N36413310E003075893                                                                                 
+SAFREAENRT   ALR05 DA           N36413454E003064477                                                                                 
+SAFREAENRT   ALR06 DA           N36413526E003053061                                                                                 
+SAFREAENRT   ALR07 DA           N36413634E003041645                                                                                 
+SAFREAENRT   ALR08 DA           N36413742E003030193                                                                                 
+SAFREAENRT   ALR10 DA           N36414030E003003289                                                                                 
+SAFREAENRT   ALR86 DA           N36413634E003021549                                                                                 
+SAFREAENRT   ALR88 DA           N36465641E003213449                                                                                 
+SAFREAENRT   AMIRA DA           N34475910E006580000                                                                                 
+SAFREAENRT   AMTES DA           N20050000E002220000                                                                                 
+SAFREAENRT   ANIEB DA           N32490000E001300000                                                                                 
+SAFREAENRT   ARIAM DA           N33532110W0013736100                                                                                
+SAFREAENRT   ATAFA DA           N26000000E007050000                                                                                 
+SAFREAENRT   ATCHA DA           N29422400E0041721100                                                                                
+SAFREAENRT   BABOR DA           N36280000E005000000                                                                                 
+SAFREAENRT   BEREK DA           N33375910E005000000                                                                                 
+SAFREAENRT   BERTI DA           N25022900E007114200                                                                                 
+SAFREAENRT   BESBA DA           N33000000E000250000                                                                                 
+SAFREAENRT   BISSA DA           N31310000E005000000                                                                                 
+SAFREAENRT   BORMA DA           N31414800E0090723100                                                                                
+SAFREAENRT   BRENA DA           N26070000W006370000                                                                                 
+SAFREAENRT   BREZI DA           N33000100E000595300                                                                                 
+SAFREAENRT   CHECH DA           N25305000W0002811100                                                                                
+SAFREAENRT   CHLAL DA           N35400000E0041759100                                                                                
+SAFREAENRT   D4ALR DA           N36435710E003165029                                                                                 
+SAFREAENRT   D5ALR DA           N36443526E003174933                                                                                 
+SAFREAENRT   D6ALR DA           N36451342E003184765                                                                                 
+SAFREAENRT   D7ALR DA           N36455014E003194633                                                                                 
+SAFREAENRT   D8ALR DA           N36462578E003204501                                                                                 
+SAFREAENRT   D9ALR DA           N36442482E003233421                                                                                 
+SAFREAENRT   DAHRA DA           N36225910E001300000                                                                                 
+SAFREAENRT   DAYAT DA           N33520000E005000000                                                                                 
+SAFREAENRT   FAROS DA           N35300000E000175700                                                                                 
+SAFREAENRT   GAFLA DA           N29155910E005000000                                                                                 
+SAFREAENRT   GOBET DA           N33190000E005000000                                                                                 
+SAFREAENRT   GOLIB DA           N33000000E0004959100                                                                                
+SAFREAENRT   HINAN DA           N26000000E007570000                                                                                 
+SAFREAENRT   HOGAR DA           N26000000E0061659100                                                                                
+SAFREAENRT   IPOBA DA           N22283600W0010253100                                                                                
+SAFREAENRT   JOKKA DA           N29140310E0011449100                                                                                
+SAFREAENRT   KAHIL DA           N34045910E004070000                                                                                 
+SAFREAENRT   KARIM DA           N36414246E002580421                                                                                 
+SAFREAENRT   KEBRI DA           N31180000E005000000                                                                                 
+SAFREAENRT   KRIMA DA           N33460000E0073259100                                                                                
+SAFREAENRT   KSOUR DA           N28300000E0023759100                                                                                
+SAFREAENRT   LISUR DA           N23070000W0015259100                                                                                
+SAFREAENRT   MAHDI DA           N34370000E005000000                                                                                 
+SAFREAENRT   MELOG DA           N23315910E007220000                                                                                 
+SAFREAENRT   MOUNA DA           N30233500E001300000                                                                                 
+SAFREAENRT   NADJI DA           N34475910E006390000                                                                                 
+SAFREAENRT   NAGAH DA           N28060000E008370000                                                                                 
+SAFREAENRT   NIFEL DA           N30015400E003440200                                                                                 
+SAFREAENRT   ORSUP DA           N34505410W001502600                                                                                 
+SAFREAENRT   OUCIF DA           N27435910E005000000                                                                                 
+SAFREAENRT   OUREL DA           N26000000E008180000                                                                                 
+SAFREAENRT   RADJA DA           N34480100E007044400                                                                                 
+SAFREAENRT   RAHIL DA           N28300000E001300000                                                                                 
+SAFREAENRT   RAMAD DA           N21455100E0033517100                                                                                
+SAFREAENRT   RAZEL DA           N21030000E0022259100                                                                                
+SAFREAENRT   REMLI DA           N28155910W0041359100                                                                                
+SAFREAENRT   RIAME DA           N29535910E001300000                                                                                 
+SAFREAENRT   RIKIF DA           N30180000E005000000                                                                                 
+SAFREAENRT   RIMEL DA           N31370000E0074759100                                                                                
+SAFREAENRT   ROANE DA           N33590410E0055220100                                                                                
+SAFREAENRT   ROFER DA           N23024910E0013755100                                                                                
+SAFREAENRT   SAKNA DA           N33270000E001300000                                                                                 
+SAFREAENRT   SBITA DA           N25053900W0050003100                                                                                
+SAFREAENRT   SIHAR DA           N28300000E0033428100                                                                                
+SAFREAENRT   TABAL DA           N29150000W003060000                                                                                 
+SAFREAENRT   TAGRO DA           N36125710E005000000                                                                                 
+SAFREAENRT   TAJEN DA           N36222410E005511100                                                                                 
+SAFREAENRT   TARAT DA           N26000000E0090159100                                                                                
+SAFREAENRT   TERAS DA           N20430510E001465400                                                                                 
+SAFREAENRT   TIDOU DA           N26010400E007410200                                                                                 
+SAFREAENRT   TIFOU DA           N28300000E0042859100                                                                                
+SAFREAENRT   TILMA DA           N26594400E0085009100                                                                                
+SAFREAENRT   UDELA DA           N25265910W005370000                                                                                 
+SAFREAENRT   USLAG DA           N23195910E011434500                                                                                 
+SAFREAENRT   USRUT DA           N23400000W0024359100                                                                                
+SAFREAENRT   ZENAD DA           N34475910E007365400                                                                                 
+SAFREAENRT   ZIBAN DA           N34475910E005150000                                                                                 
+SAFRDB       ADR   DA000340     N27470700W000134900                                                                                 
+SAFRDB       ANB   DA000366     N36490500E007480900                                                                                 
+SAFRDB       BTN   DA000421     N35450600E0061807100                                                                                
+SAFRDB       BC    DA000417     N31375910W002182000                                                                                 
+SAFRDB       BJA   DA000423     N36422400E0050128100                                                                                
+SAFRDB       BBS   DA000320     N30000000W002130000                                                                                 
+SAFRDB       BNA   DA000353     N36390310E003352900                                                                                 
+SAFRDB       MOK   DA000304     N21221910E0005510100                                                                                
+SAFRDB       BSA   DA000335     N35210155E004133006                                                                                 
+SAFRDB       CHE   DA000397     N36360500E0021135100                                                                                
+SAFRDB       CNE   DA000397     N36112509E006433783                                                                                 
+SAFRDB       DJA   DA000274     N24171199E009271768                                                                                 
+SAFRDB       BAY   DA000284     N33422800E000570500                                                                                 
+SAFRDB       MEA   DA000375     N30334810E002534200                                                                                 
+SAFRDB       ELO   DA000358     N33302260E006471598                                                                                 
+SAFRDB       GDS   DA000347     N30074710E009300600                                                                                 
+SAFRDB       GHA   DA000340     N32222810E003473900                                                                                 
+SAFRDB       GRS   DA000424     N35122910E0000935100                                                                                
+SAFRDB       HMB   DA000432     N35214700W000580800                                                                                 
+SAFRDB       HKI   DA000261     N29105910W005160000                                                                                 
+SAFRDB       HMD   DA000390     N31385573E006081785                                                                                 
+SAFRDB       HRM   DA000331     N32554400E003161400                                                                                 
+SAFRDB       SMR   DA000370     N36413439E003052354                                                                                 
+SAFRDB       MAR   DA000416     N36410659E002465674                                                                                 
+SAFRDB       SAH   DA000373     N27151920E002304589                                                                                 
+SAFRDB       MCH   DA000413     N33325785W000130949                                                                                 
+SAFRDB       MOS   DA000334     N35543300E0000813100                                                                                
+SAFRDB       CNU   DA000371     N34475810W0015358100                                                                                
+SAFRDB       RGN   DA000310     N26410200E0001656100                                                                                
+SAFRDB       TAM   DA000358     N22482427E005264358                                                                                 
+SAFRDB       TRB   DA000389     N35204410E001300200                                                                                 
+SAFRDB       TIO   DA000383     N29142527E000152710                                                                                 
+SAFRDB       TLM   DA000346     N35022310W001220400                                                                                 
+SAFRDB       ZAR   DA000268     N28030200E0093751100                                                                                
+SAFRDB       ZEM   DA000359     N36474510E0033418100                                                                                
+SAFRD        ADR   DA011260V    N27490134W000122112                                                                                 
+SAFRD        SDM   DA011390V    N36375038E002582738                                                                                 
+SAFRD        ALR   DA011250V    N36412710E003125600                                                                                 
+SAFRD        ANB   DA011350V    N36490000E0074759100                                                                                
+SAFRD        BTN   DA011570V    N35461750E006203766                                                                                 
+SAFRD        BCR   DA011390V    N31410700W0021525100                                                                                
+SAFRD        BBS   DA011530V    N30002910W002130000                                                                                 
+SAFRD        BIS   DA011500V    N34462910E0054529100                                                                                
+SAFRD        MOK   DA011300V    N21225010E0005707100                                                                                
+SAFRD        BOD   DA011430V    N28075900E006502100                                                                                 
+SAFRD        BSA   DA011590V    N35305500E004240600                                                                                 
+SAFRD        CSO   DA011550V    N36173341E006361997                                                                                 
+SAFRD        DJA   DA011410V    N24171600E0092711100                                                                                
+SAFRD        BAY   DA011480V    N33423530E001044507                                                                                 
+SAFRD        MNA   DA011210V    N30333010E002514200                                                                                 
+SAFRD        ELO   DA011760V    N33303800E006465000                                                                                 
+SAFRD        GHA   DA011490V    N32233510E003464000                                                                                 
+SAFRD        GRS   DA011310V    N35123374E000085609                                                                                 
+SAFRD        HME   DA011470V    N31395159E006081025                                                                                 
+SAFRD        HRM   DA011540V    N32561310E003212400                                                                                 
+SAFRD        ILZ   DA011560V    N26432310E0083915100                                                                                
+SAFRD        NSL   DA011310V    N27141200E002293300                                                                                 
+SAFRD        JIL   DA011790V    N36463600E0055237100                                                                                
+SAFRD        MOS   DA011220V    N35535410E000081100                                                                                 
+SAFRD        ORA   DA011400V    N35364553W000391796                                                                                 
+SAFRD        TMS   DA011250V    N22503400E0052752100                                                                                
+SAFRD        TAM   DA011705V    N22503400E0052752100                                                                                
+SAFRD        TBS   DA011450V    N35272400E0080406100                                                                                
+SAFRD        TRB   DA011630V    N35205200E0013053100                                                                                
+SAFRD        TIO   DA011280V    N29133389E000152914                                                                                 
+SAFRD        TDF   DA011420V    N27423626W008075120                                                                                 
+SAFRD        TLM   DA011650V    N35020700W001231700                                                                                 
+SAFRD        TGU   DA011320V    N33032410E0060518100                                                                                
+SAFRD        IMN   DA011290V    N28041200E009395500                                                                                 
+SAFRD        ZEM   DA011660V    N36474200E0033414100                                                                                
+SAFRD        BJ    DA011050 D   N36423700E005032000                                                                                 
+SAFRD        ODA   DA011010 D   N34465066W001560168                                                                                 
+SAFRD        ADR   DA011260 D   N27490134W000122112                                                                                 
+SAFRD        ALR   DA011250 D   N36412710E003125600                                                                                 
+SAFRD        ANB   DA011350 D   N36490000E0074759100                                                                                
+SAFRD        BTN   DA011570 D   N35461750E006203766                                                                                 
+SAFRD        BCR   DA011390 D   N31410700W0021525100                                                                                
+SAFRD        BBS   DA011530 D   N30002910W002130000                                                                                 
+SAFRD        BIS   DA011500 D   N34462910E0054529100                                                                                
+SAFRD        BOD   DA011430 D   N28075900E006502100                                                                                 
+SAFRD        BSA   DA011590 D   N35305500E004240600                                                                                 
+SAFRD        CSO   DA011550 D   N36173341E006361997                                                                                 
+SAFRD        DJA   DA011410 D   N24171600E0092711100                                                                                
+SAFRD        BAY   DA011480 D   N33423530E001044507                                                                                 
+SAFRD        MNA   DA011210 D   N30333010E002514200                                                                                 
+SAFRD        ELO   DA011760 D   N33303800E006465000                                                                                 
+SAFRD        GHA   DA011490 D   N32233510E003464000                                                                                 
+SAFRD        HME   DA011470 D   N31395159E006081025                                                                                 
+SAFRD        HRM   DA011540 D   N32561310E003212400                                                                                 
+SAFRD        NSL   DA011310 D   N27141200E002293300                                                                                 
+SAFRD        JIL   DA011790 D   N36463600E0055237100                                                                                
+SAFRD        MOS   DA011220 D   N35535410E000081100                                                                                 
+SAFRD        ORA   DA011400 D   N35364553W000391796                                                                                 
+SAFRD        TMS   DA011250 D   N22503400E0052752100                                                                                
+SAFRD        TAM   DA011705 D   N22503400E0052752100                                                                                
+SAFRD        TBS   DA011450 D   N35272400E0080406100                                                                                
+SAFRD        TRB   DA011630 D   N35205200E0013053100                                                                                
+SAFRD        TIO   DA011280 D   N29133389E000152914                                                                                 
+SAFRD        TDF   DA011420 D   N27423626W008075120                                                                                 
+SAFRD        TLM   DA011650 D   N35020700W001231700                                                                                 
+SAFRD        TGU   DA011320 D   N33032410E0060518100                                                                                
+SAFRD        IMN   DA011290 D   N28041200E009395500                                                                                 
+SAFRD        ZEM   DA011660 D   N36474200E0033414100                                                                                
+SAFRER       A31         0010BNA  DAD       O                                      10500     24500                                  
+SAFRER       A31         0020BABORDAEA      O                             0688     10500     24500                                  
+SAFRER       A31         0030TAJENDAEA      O                             0416     10500     24500                                  
+SAFRER       A31         0040CSO  DAD       O                             0367     09500     24500                                  
+SAFRER       A31         0050TBS  DAD       O                             0871     09500     24500                                  
+SAFRER       A31         0060CHE  DAD       O                                      06500     24500                                  
+SAFRER       A31         0070KIRLA  EA      O                             0428     06500     24500                                  
+SAFRER       A411        0010BNA  DAD       O                                      08500     24500                                  
+SAFRER       A411        0020BJA  DAD       O                             0691     08500     24500                                  
+SAFRER       A411        0030JIL  DAD       O                             0412     10500     24500                                  
+SAFRER       A411        0040CHE  DAD       O                                      08500     24500                                  
+SAFRER       A411        0050DAHRADAEA      O                             0359     08500     24500                                  
+SAFRER       A411        0060MOS  DAD       O                             0722     06500     24500                                  
+SAFRER       A411        0070ORA  DAD       O                             0422     06500     24500                                  
+SAFRER       A411        0080ORSUPDAEA      O                             0741     08500     24500                                  
+SAFRER       A411        0090OJD    D       O                             0070     08500     24500                                  
+SAFRER       A34         0010MOS  DAD       O                                      04500     24500                                  
+SAFRER       A34         0020BAHRI  EA      O                             0243     04500     24500                                  
+SAFRER       A6          0110MOS  DAD       O                                      04500     24500                                  
+SAFRER       A6          0120LABRO  EA      O                             0954     04500     24500                                  
+SAFRER       M980-       0060TBS  DAD       O                             0491     09500     24500                                  
+SAFRER       A856-       0030TBS  DAD       O                             0647     09500     24500                                  
+SAFRER       B726        0050ZEM  DAD       O                                      09500     24500                                  
+SAFRER       B726        0060CHLALDAEA      O                             0764     09500     24500                                  
+SAFRER       B726        0070BSA  DAD       O                             0104     09500     24500                                  
+SAFRER       B726        0080KAHILDAEA      O                             0871     05500     24500                                  
+SAFRER       B726        0090GHA  DAD       O                             1029     05500     24500                                  
+SAFRER       B726        0100NSL  DAD       O                                      06500     24500                                  
+SAFRER       B726        0110RAZELDAEA      O                             3715     06500     24500                                  
+SAFRER       A29         0010BAY  DAD       O                                      10500     24500                                  
+SAFRER       A29         0020BESBADAEA      O                             0540     10500     24500                                  
+SAFRER       A29         0030BBS  DAD       O                                      06500     24500                                  
+SAFRER       A29         0040TABALDAEA      O                             0648     06500     24500                                  
+SAFRER       A29         0050REMLIDAEA      O                             0839     06500     24500                                  
+SAFRER       A29         0060BRENADAEA      O                             1813     06500     24500                                  
+SAFRER       A29         0070CHE  DAD       O                                      04500     24500                                  
+SAFRER       A29         0080SADAF  EA      O                             0725     04500     24500                                  
+SAFRER       A604        0010BAY  DAD       O                                      10500     24500                                  
+SAFRER       A604        0020FAROSDAEA      O                             1142     10500     24500                                  
+SAFRER       A604        0030MOS  DAD       O                             0252     10500     24500                                  
+SAFRER       A604        0050TMS  DAD       O                             1755     10500     24500                                  
+SAFRER       A604        0060SIHARDAEA      O                             3547     10500     24500                                  
+SAFRER       A604        0070MNA  DAD       O                             1291     10500     24500                                  
+SAFRER       G26         0010BAY  DAD       O                                      06500     24500                                  
+SAFRER       G26         0020GOLIBDAEA      O                             0444     06500     24500                                  
+SAFRER       G26         0030TIO  DAD       O                             2285     06500     24500                                  
+SAFRER       G26         0040UDELADAEA      O                             3866     05500     24500                                  
+SAFRER       G26         0070ZEM  DAD       O                             0987     06500     24500                                  
+SAFRER       J24-U       0010BAY  DAD       OH                                     10500     60000                                  
+SAFRER       J24-U       0020SAKNADAEA      OH                            0262     10500     60000                                  
+SAFRER       J24-U       0030GHA  DAD       OH                            1312     10500     60000                                  
+SAFRER       J24-U       0040BISSADAEA      OH                            0815     10500     60000                                  
+SAFRER       J24-U       0050IMN  DAD       OH                            3192     10500     60000                                  
+SAFRER       A29-G       0010BAY  DAD       O                                      06500     24500                                  
+SAFRER       A29-G       0020TRB  DAD       O                             1007     06500     24500                                  
+SAFRER       A29-G       0030CHE  DAD       O                             0822     04500     24500                                  
+SAFRER       B31         0300ZEM  DAD       O                             0822     10500     24500                                  
+SAFRER       B16         0120ZEM  DAD       O                             1031     10500     24500                                  
+SAFRER       J4-UJ       0010BEREKDAEA      OH                                     10500     60000                                  
+SAFRER       J4-UJ       0020KAHILDAEA      OH                            0517     10500     60000                                  
+SAFRER       J4-UJ       0030TRB  DAD       OH                            1492     10500     60000                                  
+SAFRER       J4-UJ       0040MOS  DAD       OH                            0750     10500     60000                                  
+SAFRER       B727        0050ILZ  DAD       O                                      11500     24500                                  
+SAFRER       B727        0060HINANDAEA      O                             0576     11500     24500                                  
+SAFRER       B727        0070BERTIDAEA      O                             0706     11500     24500                                  
+SAFRER       B727        0080TMS  DAD       O                             1626     11500     24500                                  
+SAFRER       B727        0090RAMADDAEA      O                             1227     11500     24500                                  
+SAFRER       B727        0100RAZELDAEA      O                             0798     11500     24500                                  
+SAFRER       B727        0110TERASDAEA      O                             0392     11500     24500                                  
+SAFRER       R978        0010BERTIDAEA      O                                      11500     24500                                  
+SAFRER       R978        0020MELOGDAEA      O                             0910     11500     24500                                  
+SAFRER       R978        0030ERKEL  EA      O                             1552     11500     24500                                  
+SAFRER       R978        0040BOD  DAD       O                                      11500     24500                                  
+SAFRER       R978        0050ELO  DAD       O                             3229     11500     24500                                  
+SAFRER       R978        0060NADJIDAEA      O                             0777     08500     24500                                  
+SAFRER       R978        0070CSO  DAD       O                             0896     08500     24500                                  
+SAFRER       R978        0080KAMER  EA      O                             1644     08500     24500                                  
+SAFRER       V18         0070TBS  DAD       OL                                     09500     24500                                  
+SAFRER       V18         0080DAFRIDTEA      OL                            0575     09500     24500                                  
+SAFRER       G859        0010CSO  DAD       O                                      10500     24500                                  
+SAFRER       G859        0020BIS  DAD       O                             1001     10500     24500                                  
+SAFRER       G859        0030DAYATDAEA      O                             0662     05500     24500                                  
+SAFRER       G859        0040GHA  DAD       O                             1077     05500     24500                                  
+SAFRER       G859        0060ROFERDAEA      O                             1295     05500     24500                                  
+SAFRER       G859        0070NSL  DAD       O                             2558     05500     24500                                  
+SAFRER       B734        0010BSA  DAD       O                                      10500     24500                                  
+SAFRER       B734        0020BJA  DAD       O                             0777     10500     24500                                  
+SAFRER       B734        0030DOLIS  EA      O                             1386     04500     24500                                  
+SAFRER       J7-UJ       0010BJA  DAD       OH                                     10500     60000                                  
+SAFRER       J7-UJ       0020CSO  DAD       OH                            0802     10500     60000                                  
+SAFRER       J9-UJ       0010BNA  DAD       OH                                     10500     60000                                  
+SAFRER       J9-UJ       0020TAGRODAEA      OH                            0729     10500     60000                                  
+SAFRER       J9-UJ       0030BTN  DAD       OH                            0705     10500     60000                                  
+SAFRER       B730        0010GAFLADAEA      O                                      05500     24500                                  
+SAFRER       B730        0020BOD  DAD       O                             1184     05500     24500                                  
+SAFRER       B730        0030OURELDAEA      O                             1500     05500     24500                                  
+SAFRER       B730        0040DJA  DAD       O                             1204     08500     24500                                  
+SAFRER       B730        0050IKTAV  EA      O                             1148     08500     24500                                  
+SAFRER       B730        0060MNA  DAD       O                                      05500     24500                                  
+SAFRER       B730        0070NIFELDAEA      O                             0552     05500     24500                                  
+SAFRER       G855        0010BOD  DAD       O                                      13500     24500                                  
+SAFRER       G855        0020HOGARDAEA      O                             1315     13500     24500                                  
+SAFRER       G855        0030TMS  DAD       O                             1948     09500     24500                                  
+SAFRER       J61         0010BOD  DAD       OH                                     10500     24500                                  
+SAFRER       J61         0020ILZ  DAD       OH                            1285     10500     24500                                  
+SAFRER       J61         0030DJA  DAD       OH                            1525     10500     24500                                  
+SAFRER       J41-U       0010BOD  DAD       OH                                     10500     60000                                  
+SAFRER       J41-U       0020NAGAHDAEA      OH                            0941     10500     60000                                  
+SAFRER       G623        0010GDS  DAD       O                                      09500     24500                                  
+SAFRER       G623        0020BORMADAEA      O                             0961     09500     24500                                  
+SAFRER       G623        0030TOUBADTEA      O                             1121     09500     24500                                  
+SAFRER       G623        0040TBS  DAD       O                             1198     09500     24500                                  
+SAFRER       J36-U       0010BSA  DAD       OH                                     10500     60000                                  
+SAFRER       J36-U       0020MAHDIDAEA      OH                            0614     10500     60000                                  
+SAFRER       J36-U       0030TGU  DAD       OH                            1082     10500     60000                                  
+SAFRER       R985        0010BSA  DAD       O                                      06500     24500                                  
+SAFRER       R985        0020ZIBANDAEA      O                             0598     06500     24500                                  
+SAFRER       R985        0030ELO  DAD       O                             1085     05500     24500                                  
+SAFRER       R985        0040RIMELDAEA      O                             1249     05500     24500                                  
+SAFRER       J14-U       0010BTN  DAD       OH                                     10500     60000                                  
+SAFRER       J14-U       0020CSO  DAD       OH                            0338     10500     60000                                  
+SAFRER       A24         0070ZEM  DAD       O                             1425     04500     24500                                  
+SAFRER       A614        0010IPOBADAEA      O                                      10500     24500                                  
+SAFRER       A614        0020CHECHDAEA      O                             1851     10500     24500                                  
+SAFRER       A614        0030TIO  DAD       O                             2262     10500     24500                                  
+SAFRER       G852        0010LISURDAEA      O                                      04500     24500                                  
+SAFRER       G852        0020CHECHDAEA      O                             1634     04500     24500                                  
+SAFRER       G852        0030RGN  DAD       O                             0811     04500     24500                                  
+SAFRER       G852        0040RAHILDAEA      O                             1268     04500     24500                                  
+SAFRER       G852        0050MNA  DAD       O                             1426     04500     24500                                  
+SAFRER       A605        0020CSO  DAD       O                             1638     10500     24500                                  
+SAFRER       A605        0040DJA  DAD       O                             1200     10500     24500                                  
+SAFRER       A605        0050TARATDAEA      O                             1053     10500     24500                                  
+SAFRER       A605        0060TILMADAEA      O                             0607     10500     24500                                  
+SAFRER       A605        0070NAGAHDAEA      O                             0673     10500     24500                                  
+SAFRER       A605        0080RIMELDAEA      O                             2154     10500     24500                                  
+SAFRER       J5-UJ       0010CSO  DAD       OH                                     10500     60000                                  
+SAFRER       J5-UJ       0020JIL  DAD       OH                            0456     10500     60000                                  
+SAFRER       G14         0010CSO  DAD       O                                      04500     24500                                  
+SAFRER       G14         0020KAWKA  EA      O                             1304     04500     24500                                  
+SAFRER       A18D        0020IMN  DAD       O                             1351     07000     60000                                  
+SAFRER       J60         0010DJA  DAD       OH                                     10500     24500                                  
+SAFRER       J60         0020MELOGDAEA      OH                            1232     10500     24500                                  
+SAFRER       J60         0030TMS  DAD       OH                            1129     10500     24500                                  
+SAFRER       J60         0040MOK  DAD       OH                            2659     10500     24500                                  
+SAFRER       J53-U       0010DJA  DAD       OH                                     10500     60000                                  
+SAFRER       J53-U       0020RTILAHLEA      OH                            1030     10500     60000                                  
+SAFRER       J13-J       0010ELO  DAD       OH                                     10500     60000                                  
+SAFRER       J13-J       0020HME  DAD       OH                            1155     10500     60000                                  
+SAFRER       V71         0010ELO  DAD       OL                                     04500     24500                                  
+SAFRER       V71         0020KRIMADAEA      OL                            0414     04500     24500                                  
+SAFRER       V71         0030TON  DTD       OL                            0294     04500     24500                                  
+SAFRER       J28-U       0010ELO  DAD       OH                                     10500     60000                                  
+SAFRER       J28-U       0020TGU  DAD       OH                            0441     10500     60000                                  
+SAFRER       J30-U       0010ELO  DAD       OH                                     10500     60000                                  
+SAFRER       J30-U       0020ZENADDAEA      OH                            0878     10500     60000                                  
+SAFRER       J30-U       0030TBS  DAD       OH                            0453     10500     60000                                  
+SAFRER       A615        0020TMS  DAD       O                             1832     10500     24500                                  
+SAFRER       A615        0030TIFOUDAEA      O                             3438     10500     24500                                  
+SAFRER       J62         0050NSL  DAD       OH                                     10500     24500                                  
+SAFRER       J62         0060TMS  DAD       OH                            3094     10500     24500                                  
+SAFRER       J3-UJ       0010FAROSDAEA      OH                                     10500     60000                                  
+SAFRER       J3-UJ       0020GRS  DAD       OH                            0189     10500     60000                                  
+SAFRER       B726-       0010GHA  DAD       O                                      05500     24500                                  
+SAFRER       B726-       0020MNA  DAD       O                             1197     05500     24500                                  
+SAFRER       B726-       0030KSOURDAEA      O                             1242     05500     24500                                  
+SAFRER       B726-       0040NSL  DAD       O                             0762     05500     24500                                  
+SAFRER       J25-U       0010HME  DAD       OH                                     10500     60000                                  
+SAFRER       J25-U       0020IMN  DAD       OH                            2834     10500     60000                                  
+SAFRER       J26-U       0010HME  DAD       OH                                     10500     60000                                  
+SAFRER       J26-U       0020KEBRIDAEA      OH                            0622     10500     60000                                  
+SAFRER       J26-U       0030MNA  DAD       OH                            1188     10500     60000                                  
+SAFRER       J8-UJ       0010HME  DAD       OH                                     10500     60000                                  
+SAFRER       J8-UJ       0020RIKIFDAEA      OH                            1006     10500     60000                                  
+SAFRER       J8-UJ       0030SIHARDAEA      OH                            1313     10500     60000                                  
+SAFRER       J8-UJ       0040NSL  DAD       OH                            0951     10500     60000                                  
+SAFRER       J27-U       0010HME  DAD       OH                                     10500     60000                                  
+SAFRER       J27-U       0020TGU  DAD       OH                            0836     10500     60000                                  
+SAFRER       G864-       0020TBS  DAD       O                             0575     09500     24500                                  
+SAFRER       R990        0010MNA  DAD       O                                      04500     24500                                  
+SAFRER       R990        0020RIAMEDAEA      O                             0810     04500     24500                                  
+SAFRER       R990        0030TIO  DAD       O                             0764     04500     24500                                  
+SAFRER       J12-U       0010NADJIDAEA      OH                                     10500     60000                                  
+SAFRER       J12-U       0020TGU  DAD       OH                            1083     10500     60000                                  
+SAFRER       B735        0010TIO  DAD       O                                      04500     24500                                  
+SAFRER       B735        0020USRUTDAEA      O                             3705     04500     24500                                  
+SAFRER       UA31        0010BNA  DAD       O                                      24500     60000                                  
+SAFRER       UA31        0020BABORDAEA      O                             0688     24500     60000                                  
+SAFRER       UA31        0030TAJENDAEA      O                             0416     24500     60000                                  
+SAFRER       UA31        0040CSO  DAD       O                             0367     24500     60000                                  
+SAFRER       UA31        0050TBS  DAD       O                             0871     24500     60000                                  
+SAFRER       UA31        0060CHE  DAD       O                                      24500     60000                                  
+SAFRER       UA31        0070KIRLA  EA      O                             0428     24500     60000                                  
+SAFRER       UA34        0030MOS  DAD       O                             0243     24500     60000                                  
+SAFRER       UB734       0030BJA  DAD       O                             1386     24500     60000                                  
+SAFRER       UB734       0040BSA  DAD       O                             0777     24500     60000                                  
+SAFRER       UR978       0040BERTIDAEA      O                                      24500     60000                                  
+SAFRER       UR978       0050MELOGDAEA      O                             0910     24500     60000                                  
+SAFRER       UR978       0060ERKEL  EA      O                             1552     24500     46000                                  
+SAFRER       UR978       0080BOD  DAD       O                                      24500     60000                                  
+SAFRER       UR978       0090ELO  DAD       O                             3229     24500     60000                                  
+SAFRER       UR978       0100NADJIDAEA      O                             0777     24500     60000                                  
+SAFRER       UR978       0110CSO  DAD       O                             0896     24500     60000                                  
+SAFRER       UM980       0060TBS  DAD       O                             0491     24500     60000                                  
+SAFRER       UA856       0010TBS  DAD       O                                      24500     60000                                  
+SAFRER       UA856       0020BAN  DTD       O                             0647     24500     60000                                  
+SAFRER       UA605       0110NAGAHDAEA      O                                      24500     60000                                  
+SAFRER       UA605       0120TILMADAEA      O                             0673     24500     60000                                  
+SAFRER       UA605       0130TARATDAEA      O                             0607     24500     60000                                  
+SAFRER       UA411       0050BNA  DAD       O                                      24500     60000                                  
+SAFRER       UA411       0060BJA  DAD       O                             0691     24500     60000                                  
+SAFRER       UA411       0070JIL  DAD       O                             0412     24500     60000                                  
+SAFRER       UA411       0080CHE  DAD       O                                      24500     60000                                  
+SAFRER       UA411       0090DAHRADAEA      O                             0359     24500     60000                                  
+SAFRER       UA411       0100MOS  DAD       O                             0722     24500     60000                                  
+SAFRER       UA411       0110ORA  DAD       O                             0422     24500     60000                                  
+SAFRER       UA411       0120ORSUPDAEA      O                             0741     24500     46000                                  
+SAFRER       UA411       0130OJD    D       O                             0070     24500     46000                                  
+SAFRER       UB726       0060ZEM  DAD       O                                      24500     60000                                  
+SAFRER       UB726       0070CHLALDAEA      O                             0764     24500     60000                                  
+SAFRER       UB726       0080BSA  DAD       O                             0104     24500     60000                                  
+SAFRER       UB726       0090KAHILDAEA      O                             0871     24500     60000                                  
+SAFRER       UB726       0100GHA  DAD       O                             1029     24500     60000                                  
+SAFRER       UB726       0110NSL  DAD       O                                      24500     60000                                  
+SAFRER       UB726       0120RAZELDAEA      O                             3715     24500     60000                                  
+SAFRER       UA29        0010BAY  DAD       O                                      24500     60000                                  
+SAFRER       UA29        0020BESBADAEA      O                             0540     24500     60000                                  
+SAFRER       UA29        0030BBS  DAD       O                                      24500     60000                                  
+SAFRER       UA29        0040TABALDAEA      O                             0648     24500     60000                                  
+SAFRER       UA29        0050REMLIDAEA      O                             0839     24500     60000                                  
+SAFRER       UA29        0060BRENADAEA      O                             1813     24500     60000                                  
+SAFRER       UA29        0070CHE  DAD       O                                      24500     60000                                  
+SAFRER       UA29        0080SADAF  EA      O                             0725     24500     60000                                  
+SAFRER       UM608       0010BAY  DAD       O                                      31000     60000                                  
+SAFRER       UM608       0020BREZIDAEA      O                             0428     31000     60000                                  
+SAFRER       UM608       0030JOKKADAEA      O                             2265     31000     60000                                  
+SAFRER       UM608       0040ROFERDAEA      O                             3721     31000     60000                                  
+SAFRER       UM608       0050TERASDAEA      O                             1401     31000     60000                                  
+SAFRER       UA604       0010BAY  DAD       O                                      24500     60000                                  
+SAFRER       UA604       0020FAROSDAEA      O                             1142     24500     60000                                  
+SAFRER       UA604       0030MOS  DAD       O                             0252     24500     60000                                  
+SAFRER       UA604       0080TMS  DAD       O                             1755     24500     60000                                  
+SAFRER       UA604       0090SIHARDAEA      O                             3547     24500     60000                                  
+SAFRER       UA604       0100MNA  DAD       O                             1291     24500     60000                                  
+SAFRER       UG26        0010BAY  DAD       O                                      24500     60000                                  
+SAFRER       UG26        0020GOLIBDAEA      O                             0444     24500     60000                                  
+SAFRER       UG26        0030TIO  DAD       O                             2285     24500     60000                                  
+SAFRER       UG26        0060ZEM  DAD       O                             0987     24500     60000                                  
+SAFRER       UB738       0010BAY  DAD       O                                      30000     60000                                  
+SAFRER       UB738       0020HMB  DAD       O                             1418     30000     60000                                  
+SAFRER       UB738       0030LIGUM  EA      O                             0577     30000     60000                                  
+SAFRER       UA29-       0010BAY  DAD       O                                      24500     60000                                  
+SAFRER       UA29-       0020TRB  DAD       O                             1007     24500     60000                                  
+SAFRER       UA29-       0030CHE  DAD       O                             0822     24500     60000                                  
+SAFRER       UB727       0110TERASDAEA      O                             0525     24500     60000                                  
+SAFRER       UB727       0120RAZELDAEA      O                             0392     24500     60000                                  
+SAFRER       UB727       0130RAMADDAEA      O                             0798     24500     60000                                  
+SAFRER       UB727       0140TMS  DAD       O                             1227     24500     60000                                  
+SAFRER       UB727       0150BERTIDAEA      O                             1626     24500     60000                                  
+SAFRER       UB727       0160HINANDAEA      O                             0706     24500     60000                                  
+SAFRER       UB727       0170ILZ  DAD       O                             0576     24500     60000                                  
+SAFRER       UM725       0210SBITADAEA      O                             0833     31000     60000                                  
+SAFRER       UM725       0220TIO  DAD       O                             3747     31000     60000                                  
+SAFRER       UG855       0110BOD  DAD       O                                      24500     60000                                  
+SAFRER       UG855       0120HOGARDAEA      O                             1315     24500     60000                                  
+SAFRER       UG855       0130TMS  DAD       O                             1948     24500     60000                                  
+SAFRER       UM114       0040RAMADDAEA      O                             1658     31000     60000                                  
+SAFRER       UM114       0050SIHARDAEA      O                             4044     31000     60000                                  
+SAFRER       UM114       0060NIFELDAEA      O                             0923     31000     60000                                  
+SAFRER       UM114       0070GHA  DAD       O                             1418     31000     60000                                  
+SAFRER       UA607       0030USLAGDAEA      O                             1164     24500     46000                                  
+SAFRER       UG859       0010CSO  DAD       O                                      24500     60000                                  
+SAFRER       UG859       0020BIS  DAD       O                             1001     24500     60000                                  
+SAFRER       UG859       0030DAYATDAEA      O                             0662     24500     60000                                  
+SAFRER       UG859       0040GHA  DAD       O                             1077     24500     60000                                  
+SAFRER       UG859       0120ROFERDAEA      O                             1295     24500     60000                                  
+SAFRER       UG859       0130NSL  DAD       O                             2558     24500     60000                                  
+SAFRER       UV508       0010BOD  DAD       O                                      31000     60000                                  
+SAFRER       UV508       0020TGU  DAD       O                             2982     31000     60000                                  
+SAFRER       UV508       0030ROANEDAEA      O                             0567     31000     60000                                  
+SAFRER       UV508       0040BIS  DAD       O                             0478     31000     60000                                  
+SAFRER       UV508       0050TAJENDAEA      O                             0961     31000     60000                                  
+SAFRER       UV508       0060JIL  DAD       O                             0242     31000     60000                                  
+SAFRER       UV508       0070KAMER  EA      O                             1339     31000     60000                                  
+SAFRER       UG852       0070LISURDAEA      O                             1676     24500     46000                                  
+SAFRER       UM998       0010CSO  DAD       O                                      31000     60000                                  
+SAFRER       UM998       0020BOD  DAD       O                             4900     31000     60000                                  
+SAFRER       UM998       0030TIDOUDAEA      O                             1348     31000     60000                                  
+SAFRER       UM998       0040TOBUK  EA      O                             2608     24500     60000                                  
+SAFRER       UB730       0010GAFLADAEA      O                                      24500     60000                                  
+SAFRER       UB730       0020BOD  DAD       O                             1184     24500     60000                                  
+SAFRER       UB730       0030OURELDAEA      O                             1500     24500     60000                                  
+SAFRER       UB730       0040DJA  DAD       O                             1204     24500     60000                                  
+SAFRER       UB730       0050IKTAV  EA      O                             1148     24500     60000                                  
+SAFRER       UB730       0090MNA  DAD       O                                      24500     60000                                  
+SAFRER       UB730       0100NIFELDAEA      O                             0552     24500     60000                                  
+SAFRER       UJ61        0010BOD  DAD       O                                      24500     60000                                  
+SAFRER       UJ61        0020ILZ  DAD       O                             1285     24500     60000                                  
+SAFRER       UJ61        0030DJA  DAD       O                             1525     24500     60000                                  
+SAFRER       UG623       0010GDS  DAD       O                                      24500     60000                                  
+SAFRER       UG623       0020BORMADAEA      O                             0961     24500     60000                                  
+SAFRER       UG623       0030TOUBADTEA      O                             1121     24500     60000                                  
+SAFRER       UG623       0040TBS  DAD       O                             1198     24500     60000                                  
+SAFRER       UA854       0010BRENADAEA      O                                      24500     46000                                  
+SAFRER       UA854       0020SENOXGQEA      O                             0501     24500     46000                                  
+SAFRER       UG864       0010BRENADAEA      O                                      24500     60000                                  
+SAFRER       UG864       0020TIO  DAD       O                             4104     24500     60000                                  
+SAFRER       UG864       0030MOUNADAEA      O                             0954     24500     60000                                  
+SAFRER       UG864       0040GHA  DAD       O                                      24500     60000                                  
+SAFRER       UG864       0050GOBETDAEA      O                             0829     24500     60000                                  
+SAFRER       UG864       0060ROANEDAEA      O                             0592     24500     60000                                  
+SAFRER       UG864       0070RADJADAEA      O                             0773     24500     60000                                  
+SAFRER       UG864       0080TBS  DAD       O                             0626     24500     60000                                  
+SAFRER       UR985       0010BSA  DAD       O                                      24500     60000                                  
+SAFRER       UR985       0020ZIBANDAEA      O                             0598     24500     60000                                  
+SAFRER       UR985       0030ELO  DAD       O                             1085     24500     60000                                  
+SAFRER       UR985       0040RIMELDAEA      O                             1249     24500     60000                                  
+SAFRER       UA24        0100ZEM  DAD       O                             1425     24500     60000                                  
+SAFRER       UA44        0020MOS  DAD       O                             0814     24500     60000                                  
+SAFRER       UA614       0010IPOBADAEA      O                                      31000     60000                                  
+SAFRER       UA614       0020CHECHDAEA      O                             1851     31000     60000                                  
+SAFRER       UA614       0030TIO  DAD       O                             2262     31000     60000                                  
+SAFRER       UG852       0010LISURDAEA      O                                      24500     60000                                  
+SAFRER       UG852       0020CHECHDAEA      O                             1634     24500     60000                                  
+SAFRER       UG852       0030RGN  DAD       O                             0811     24500     60000                                  
+SAFRER       UG852       0040RAHILDAEA      O                             1268     24500     60000                                  
+SAFRER       UG852       0050MNA  DAD       O                             1426     24500     60000                                  
+SAFRER       UA605       0020CSO  DAD       O                             1638     31000     60000                                  
+SAFRER       UA605       0040DJA  DAD       O                             1200     31000     60000                                  
+SAFRER       UA605       0050TARATDAEA      O                             1053     31000     60000                                  
+SAFRER       UA605       0060NAGAHDAEA      O                                      31000     60000                                  
+SAFRER       UA605       0070RIMELDAEA      O                             2154     31000     60000                                  
+SAFRER       UM998       0010CSO  DAD       O                                      31000     60000                                  
+SAFRER       UM998       0020KAMER  EA      O                             1644     31000     60000                                  
+SAFRER       UG14        0010CSO  DAD       O                                      24500     60000                                  
+SAFRER       UG14        0020KAWKA  EA      O                             1304     24500     60000                                  
+SAFRER       UV18        0010TBS  DAD       O                                      24500     60000                                  
+SAFRER       UV18        0020DAFRIDTEA      O                             0575     24500     60000                                  
+SAFRER       UA18        0020GDS  DAD       O                             0286     24500     60000                                  
+SAFRER       UJ60        0010DJA  DAD       O                                      24500     60000                                  
+SAFRER       UJ60        0020MELOGDAEA      O                             1232     24500     60000                                  
+SAFRER       UJ60        0030TMS  DAD       O                             1129     24500     60000                                  
+SAFRER       UJ60        0040MOK  DAD       O                             2659     24500     60000                                  
+SAFRER       UV71        0010ELO  DAD       O                                      24500     60000                                  
+SAFRER       UV71        0020KRIMADAEA      O                             0414     24500     60000                                  
+SAFRER       UV71        0030TON  DTD       O                             0294     24500     60000                                  
+SAFRER       UA615       0060TMS  DAD       O                             1832     24500     60000                                  
+SAFRER       UA615       0070TIFOUDAEA      O                             3438     24500     60000                                  
+SAFRER       UG655       0050TBS  DAD       O                             0931     24500     60000                                  
+SAFRER       UB726       0010GHA  DAD       O                                      24500     60000                                  
+SAFRER       UB726       0020MNA  DAD       O                             1197     24500     60000                                  
+SAFRER       UB726       0030KSOURDAEA      O                             1242     24500     60000                                  
+SAFRER       UB726       0040NSL  DAD       O                             0762     24500     60000                                  
+SAFRER       UM605       0050NAGAHDAEA      O                                      31000     60000                                  
+SAFRER       UM605       0060TARATDAEA      O                             1280     31000     60000                                  
+SAFRER       UA6         0020MOS  DAD       O                             0954     24500     60000                                  
+SAFRER       UB31        0060ZEM  DAD       O                             0822     24500     60000                                  
+SAFRER       G864-       0020TBS  DAD       O                             0575     24500     60000                                  
+SAFRER       UR990       0010MNA  DAD       O                                      24500     60000                                  
+SAFRER       UR990       0020RIAMEDAEA      O                             0810     24500     60000                                  
+SAFRER       UR990       0030TIO  DAD       O                             0764     24500     60000                                  
+SAFRER       UJ62        0010NSL  DAD       O                                      24500     60000                                  
+SAFRER       UJ62        0020TMS  DAD       O                             3094     24500     60000                                  
+SAFRER       UB735       0040USRUTDAEA      O                             1530     24500     46000                                  
+SAFRER       UB16        0020ZEM  DAD       O                             1031     24500     60000                                  
+SAFRER       UB735       0010TIO  DAD       O                                      31000     60000                                  
+SAFRER       UB735       0020USRUTDAEA      O                             3705     31000     60000                                  

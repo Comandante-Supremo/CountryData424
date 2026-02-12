@@ -1,0 +1,508 @@
+SEUREAENRT   ABLON LG           N38100910E023440800                                                                                 
+SEUREAENRT   ALIKO LG           N40461810E0222657100                                                                                
+SEUREAENRT   AMAXI LG           N35055200E025465800                                                                                 
+SEUREAENRT   AML05 LG           N38001483E021195723                                                                                 
+SEUREAENRT   AML09 LG           N37470971E021202468                                                                                 
+SEUREAENRT   AML13 LG           N38072320E021243353                                                                                 
+SEUREAENRT   AML25 LG           N37314981E021261778                                                                                 
+SEUREAENRT   AMLNB LG           N37462810E021204800                                                                                 
+SEUREAENRT   ARA04 LG           N38023461E021252569                                                                                 
+SEUREAENRT   ARA06 LG           N38123558E021253898                                                                                 
+SEUREAENRT   ARA07 LG           N37593432E021252172                                                                                 
+SEUREAENRT   ARA08 LG           N38115021E021175115                                                                                 
+SEUREAENRT   ARA09 LG           N37573412E021251907                                                                                 
+SEUREAENRT   ARA11 LG           N38095856E021384746                                                                                 
+SEUREAENRT   ARA12 LG           N38085168E021103443                                                                                 
+SEUREAENRT   ARA14 LG           N38042205E021430238                                                                                 
+SEUREAENRT   ARA17 LG           N38114896E021460241                                                                                 
+SEUREAENRT   ARA19 LG           N37594343E021234046                                                                                 
+SEUREAENRT   ARA30 LG           N37545707E021411433                                                                                 
+SEUREAENRT   ARA31 LG           N38111084E021184869                                                                                 
+SEUREAENRT   ARA32 LG           N37570039E021382822                                                                                 
+SEUREAENRT   ARA33 LG           N38130224E021220263                                                                                 
+SEUREAENRT   ARA34 LG           N38202467E021180373                                                                                 
+SEUREAENRT   ARA35 LG           N38182736E021230781                                                                                 
+SEUREAENRT   ARA36 LG           N38153587E021254297                                                                                 
+SEUREAENRT   ARA41 LG           N38213396E021103809                                                                                 
+SEUREAENRT   ARA70 LG           N38000765E021220324                                                                                 
+SEUREAENRT   ARA71 LG           N38094012E021373500                                                                                 
+SEUREAENRT   ARA90 LG           N38035323E021464754                                                                                 
+SEUREAENRT   ARA91 LG           N37595407E021451963                                                                                 
+SEUREAENRT   ARA94 LG           N37574148E021373282                                                                                 
+SEUREAENRT   ARA95 LG           N38103541E021411240                                                                                 
+SEUREAENRT   ARA96 LG           N38010507E021415014                                                                                 
+SEUREAENRT   ARA97 LG           N38012871E021404028                                                                                 
+SEUREAENRT   ARGUN LG           N37391500E022440000                                                                                 
+SEUREAENRT   ARNAS LG           N40314100E023285000                                                                                 
+SEUREAENRT   ARX02 LG           N38043033E021250040                                                                                 
+SEUREAENRT   ARX05 LG           N38070584E021313913                                                                                 
+SEUREAENRT   ARX08 LG           N37583319E021235703                                                                                 
+SEUREAENRT   ARX09 LG           N37573366E021234649                                                                                 
+SEUREAENRT   ARX10 LG           N37563414E021233595                                                                                 
+SEUREAENRT   ARX13 LG           N37533556E021230435                                                                                 
+SEUREAENRT   ARX18 LG           N38013176E021242869                                                                                 
+SEUREAENRT   ARX22 LG           N37594679E021155711                                                                                 
+SEUREAENRT   ARX90 LG           N38002708E021165348                                                                                 
+SEUREAENRT   ARX98 LG           N37463886E021215081                                                                                 
+SEUREAENRT   ASTOV LG           N37251410E0223203100                                                                                
+SEUREAENRT   BITLA LG           N40523200E021212900                                                                                 
+SEUREAENRT   DDM18 LG           N37260689E022503807                                                                                 
+SEUREAENRT   DIKNI LG           N40535700E023122300                                                                                 
+SEUREAENRT   DILOP LG           N38195910E023425900                                                                                 
+SEUREAENRT   DIMIS LG           N40042010E0203540100                                                                                
+SEUREAENRT   DISOR LG           N41144910E0224529100                                                                                
+SEUREAENRT   EDASI LG           N40272700E0222538100                                                                                
+SEUREAENRT   ELF05 LG           N37585412E023331668                                                                                 
+SEUREAENRT   ELF06 LG           N37575636E023330205                                                                                 
+SEUREAENRT   ELF08 LG           N38030805E023333147                                                                                 
+SEUREAENRT   ELF09 LG           N37542496E023315120                                                                                 
+SEUREAENRT   ELF11 LG           N37525665E023323383                                                                                 
+SEUREAENRT   ELF14 LG           N37513300E023250897                                                                                 
+SEUREAENRT   ELF15 LG           N37500592E023260255                                                                                 
+SEUREAENRT   ELF17 LG           N37475344E023324366                                                                                 
+SEUREAENRT   ELF35 LG           N38005161E023330211                                                                                 
+SEUREAENRT   ELF50 LG           N37585630E023330770                                                                                 
+SEUREAENRT   ELF66 LG           N37575405E023331367                                                                                 
+SEUREAENRT   ELF79 LG           N37525375E023325865                                                                                 
+SEUREAENRT   ELF80 LG           N38030636E023332933                                                                                 
+SEUREAENRT   ELPIS LG           N40193310E022361100                                                                                 
+SEUREAENRT   ELVAS LG           N38312810E0215030100                                                                                
+SEUREAENRT   EVR59 LG           N37595188E023592975                                                                                 
+SEUREAENRT   EXARA LG           N40453810E024001100                                                                                 
+SEUREAENRT   FSK14 LG           N40521625E022554163                                                                                 
+SEUREAENRT   GARTA LG           N38590510E0205805100                                                                                
+SEUREAENRT   GENSU LG           N40370000E0210259100                                                                                
+SEUREAENRT   GERMI LG           N38095600E0230727100                                                                                
+SEUREAENRT   IXONI LG           N38185910E022140000                                                                                 
+SEUREAENRT   KOPOL LG           N41114300E024260300                                                                                 
+SEUREAENRT   LAMBI LG           N40591920E023112622                                                                                 
+SEUREAENRT   LOPOS LG           N40172610E022300100                                                                                 
+SEUREAENRT   MAKED LG           N41074410E0223059100                                                                                
+SEUREAENRT   MIK12 LG           N40260742E023150766                                                                                 
+SEUREAENRT   MIK19 LG           N40353668E022365741                                                                                 
+SEUREAENRT   MIK26 LG           N40251540E022344620                                                                                 
+SEUREAENRT   MKA01 LG           N40312493E022572270                                                                                 
+SEUREAENRT   MKA02 LG           N40484306E022411920                                                                                 
+SEUREAENRT   MKA03 LG           N40470680E022425383                                                                                 
+SEUREAENRT   MKA06 LG           N40331440E022511602                                                                                 
+SEUREAENRT   MKA07 LG           N40240519E022593908                                                                                 
+SEUREAENRT   MKA08 LG           N40335809E022484926                                                                                 
+SEUREAENRT   MKA10 LG           N40390517E022504586                                                                                 
+SEUREAENRT   MKA13 LG           N40190675E023002400                                                                                 
+SEUREAENRT   MKA14 LG           N40252750E0231525100                                                                                
+SEUREAENRT   MKA17 LG           N40444237E022451564                                                                                 
+SEUREAENRT   MKA18 LG           N40373578E022363463                                                                                 
+SEUREAENRT   MKA20 LG           N40453052E022442839                                                                                 
+SEUREAENRT   MKA21 LG           N40424659E022550958                                                                                 
+SEUREAENRT   MKA22 LG           N40390249E022314041                                                                                 
+SEUREAENRT   MKA28 LG           N40344173E022462243                                                                                 
+SEUREAENRT   MKA34 LG           N40404934E022554407                                                                                 
+SEUREAENRT   MKA35 LG           N40250488E022593008                                                                                 
+SEUREAENRT   MKA36 LG           N40503558E022525129                                                                                 
+SEUREAENRT   MKA41 LG           N40194705E023093106                                                                                 
+SEUREAENRT   MKA44 LG           N40365481E022565294                                                                                 
+SEUREAENRT   MKA50 LG           N40262688E022383015                                                                                 
+SEUREAENRT   MKA61 LG           N40344423E022380963                                                                                 
+SEUREAENRT   MKA64 LG           N40320164E022581884                                                                                 
+SEUREAENRT   MKA70 LG           N40210613E023000604                                                                                 
+SEUREAENRT   MKA71 LG           N40300332E022584502                                                                                 
+SEUREAENRT   MKR01 LG           N40312438E022565576                                                                                 
+SEUREAENRT   MKR05 LG           N40360059E022564541                                                                                 
+SEUREAENRT   MKR06 LG           N40251557E022595405                                                                                 
+SEUREAENRT   MKR07 LG           N40330593E022492239                                                                                 
+SEUREAENRT   MKR08 LG           N40340249E022482452                                                                                 
+SEUREAENRT   MKR09 LG           N40221964E023004533                                                                                 
+SEUREAENRT   MKR10 LG           N40405199E022551460                                                                                 
+SEUREAENRT   MKR15 LG           N40314030E022562133                                                                                 
+SEUREAENRT   MKR19 LG           N40452005E022413495                                                                                 
+SEUREAENRT   MKR28 LG           N40344613E022455770                                                                                 
+SEUREAENRT   MKR34 LG           N40454688E022535304                                                                                 
+SEUREAENRT   MKR36 LG           N40451086E022511463                                                                                 
+SEUREAENRT   MKR44 LG           N40365922E022562821                                                                                 
+SEUREAENRT   MKR52 LG           N40460571E022563653                                                                                 
+SEUREAENRT   MKR60 LG           N40292529E023054420                                                                                 
+SEUREAENRT   MKR74 LG           N40330207E022383969                                                                                 
+SEUREAENRT   MKR78 LG           N40460781E022590123                                                                                 
+SEUREAENRT   MKR79 LG           N40490788E022591127                                                                                 
+SEUREAENRT   MKR80 LG           N40334642E022453183                                                                                 
+SEUREAENRT   MKR82 LG           N40350540E022391173                                                                                 
+SEUREAENRT   MKR88 LG           N40380187E022345634                                                                                 
+SEUREAENRT   MKR90 LG           N40370413E022400602                                                                                 
+SEUREAENRT   MKR94 LG           N40324903E022503798                                                                                 
+SEUREAENRT   MKR95 LG           N40502024E022260986                                                                                 
+SEUREAENRT   MKR97 LG           N40220766E023083693                                                                                 
+SEUREAENRT   MKR98 LG           N40450027E023054314                                                                                 
+SEUREAENRT   MKR99 LG           N40474678E023071388                                                                                 
+SEUREAENRT   NEMES LG           N37422300E0223450100                                                                                
+SEUREAENRT   ODIKO LG           N40581700E0231430100                                                                                
+SEUREAENRT   OSMOS LG           N40085200E0231544100                                                                                
+SEUREAENRT   OTREX LG           N35091510E024562000                                                                                 
+SEUREAENRT   PARNA LG           N39154310E020254900                                                                                 
+SEUREAENRT   PENIK LG           N41033310E024040500                                                                                 
+SEUREAENRT   PIKAD LG           N38034100E022415200                                                                                 
+SEUREAENRT   PIKOS LG           N39574200E021330000                                                                                 
+SEUREAENRT   PINDO LG           N40285010E0205720100                                                                                
+SEUREAENRT   PLH42 LG           N35103250E024315970                                                                                 
+SEUREAENRT   PRVNB LG           N38545970E020452620                                                                                 
+SEUREAENRT   R2153 LG           N37564673E023563465                                                                                 
+SEUREAENRT   R2469 LG           N40314900E022580340                                                                                 
+SEUREAENRT   R2813 LG           N37552345E023551646                                                                                 
+SEUREAENRT   R2814 LG           N37570093E023580619                                                                                 
+SEUREAENRT   R2927 LG           N37553245E023564307                                                                                 
+SEUREAENRT   RILIN LG           N37575400E022400000                                                                                 
+SEUREAENRT   SAT09 LG           N37483259E023465473                                                                                 
+SEUREAENRT   SAT23 LG           N37501238E023464482                                                                                 
+SEUREAENRT   SIERA LG           N37543921E023284075                                                                                 
+SEUREAENRT   SPA12 LG           N37442873E023490526                                                                                 
+SEUREAENRT   SUD13 LG           N35380810E023472448                                                                                 
+SEUREAENRT   SUD22 LG           N35193493E0235209100                                                                                
+SEUREAENRT   SUD23 LG           N35270009E024034277                                                                                 
+SEUREAENRT   SUD28 LG           N35105278E024320443                                                                                 
+SEUREAENRT   SUD32 LG           N35175369E024283734                                                                                 
+SEUREAENRT   SUD75 LG           N35211534E024240553                                                                                 
+SEUREAENRT   SUD76 LG           N35322761E023570355                                                                                 
+SEUREAENRT   SUD85 LG           N35215950E024194155                                                                                 
+SEUREAENRT   SUD86 LG           N35402964E023440917                                                                                 
+SEUREAENRT   SUD88 LG           N35182588E024235977                                                                                 
+SEUREAENRT   THS02 LG           N40373424E022562198                                                                                 
+SEUREAENRT   THS22 LG           N40421253E022505466                                                                                 
+SEUREAENRT   THS29 LG           N40424288E022520066                                                                                 
+SEUREAENRT   THS39 LG           N40314741E022575476                                                                                 
+SEUREAENRT   TSL01 LG           N40322376E022575469                                                                                 
+SEUREAENRT   TSL02 LG           N40252841E023000604                                                                                 
+SEUREAENRT   TSL04 LG           N40351950E022570224                                                                                 
+SEUREAENRT   TSL05 LG           N40271957E022525479                                                                                 
+SEUREAENRT   TSL08 LG           N40271377E022462160                                                                                 
+SEUREAENRT   TSL09 LG           N40401240E022553465                                                                                 
+SEUREAENRT   TSL11 LG           N40170787E023043728                                                                                 
+SEUREAENRT   TSL12 LG           N40294154E023145505                                                                                 
+SEUREAENRT   TSL14 LG           N40141952E023060135                                                                                 
+SEUREAENRT   TSL15 LG           N40214842E023021689                                                                                 
+SEUREAENRT   TSL16 LG           N40270632E022382980                                                                                 
+SEUREAENRT   TSL17 LG           N40202777E022390855                                                                                 
+SEUREAENRT   TSL25 LG           N40420481E022325136                                                                                 
+SEUREAENRT   TSL26 LG           N40265271E022252353                                                                                 
+SEUREAENRT   TSL30 LG           N40394445E022370760                                                                                 
+SEUREAENRT   TSL31 LG           N40453504E022262643                                                                                 
+SEUREAENRT   TSL33 LG           N40303738E022582516                                                                                 
+SEUREAENRT   TSL44 LG           N40405347E022552226                                                                                 
+SEUREAENRT   TSL53 LG           N40182484E023051204                                                                                 
+SEUREAENRT   TSL61 LG           N40205241E022402017                                                                                 
+SEUREAENRT   TSL64 LG           N40223481E023010967                                                                                 
+SEUREAENRT   TSL68 LG           N40270760E022394843                                                                                 
+SEUREAENRT   TSL75 LG           N40172563E023002273                                                                                 
+SEUREAENRT   TSL77 LG           N40374854E022403878                                                                                 
+SEUREAENRT   TSL78 LG           N40291892E023122047                                                                                 
+SEUREAENRT   TSL88 LG           N40270372E022355254                                                                                 
+SEUREAENRT   TSL95 LG           N40230102E023111418                                                                                 
+SEUREAENRT   TSL96 LG           N40174460E023025109                                                                                 
+SEUREAENRT   TSL98 LG           N40450169E023060649                                                                                 
+SEUREAENRT   TSL99 LG           N40473755E023070558                                                                                 
+SEUREAENRT   VARDI LG           N38401810E0215703100                                                                                
+SEUREAENRT   VAROX LG           N40511710E0210718100                                                                                
+SEUREAENRT   XORKI LG           N38101010E023303300                                                                                 
+SEURDB       GDA   LG000394     N40384010E022292100                                                                                 
+SEURDB       ALP   LG000351     N40512700E025563900                                                                                 
+SEURDB       AML   LG000367     N37462810E021204800                                                                                 
+SEURDB       KHR   LG000327     N40553665E024375774                                                                                 
+SEURDB       DEK   LG000388     N38061110E0234619100                                                                                
+SEURDB       ELF   LG000418     N38035600E0233335100                                                                                
+SEURDB       FIS   LG000314     N41055410E022593000                                                                                 
+SEURDB       IOA   LG000340     N39415600E0204857100                                                                                
+SEURDB       HER   LG000431     N35200300E025104100                                                                                 
+SEURDB       KTA   LG000348     N37032327E022012838                                                                                 
+SEURDB       KSO   LG000372     N40264010E0211645100                                                                                
+SEURDB       KVR   LG000357     N37485100E0234533100                                                                                
+SEURDB       KOR   LG000392     N37554900E0225608100                                                                                
+SEURDB       KZN   LG000291     N40172051E021503123                                                                                 
+SEURDB       LSA   LG000362     N39384351E022274159                                                                                 
+SEURDB       MGR   LG000405     N37585640E023212620                                                                                 
+SEURDB       NAN   LG000335     N39130510E0224757100                                                                                
+SEURDB       PAK   LG000353     N38545970E020452620                                                                                 
+SEURDB       STF   LG000522     N39275650E022445763                                                                                 
+SEURDB       TNG   LG000303     N38195510E0234350100                                                                                
+SEURDB       THS   LG000345     N40353696E022565311                                                                                 
+SEURD        ALX   LG011380V    N40511710E0255725100                                                                                
+SEURD        AGH   LG011040V    N39125840E022473093                                                                                 
+SEURD        ARA   LG011270V    N38063410E021253100                                                                                 
+SEURD        ATV   LG011440V    N37531810E0234851100                                                                                
+SEURD        DDM   LG011720V    N37283960E023130180                                                                                 
+SEURD        SAT   LG010960V    N37550000E023545100                                                                                 
+SEURD        SPA   LG011750V    N37550400E023561600                                                                                 
+SEURD        FSK   LG011640V    N41055810E0225931100                                                                                
+SEURD        YNN   LG010860V    N39420500E020491200                                                                                 
+SEURD        IRA   LG010880V    N35202610E025110700                                                                                 
+SEURD        KAM   LG011260V    N37035916E022012606                                                                                 
+SEURD        KAS   LG011450V    N40270355E021163147                                                                                 
+SEURD        KPL   LG010880V    N40544265E024365074                                                                                 
+SEURD        KOZ   LG010960V    N40170648E021502560                                                                                 
+SEURD        MKR   LG011080V    N40310741E022581128                                                                                 
+SEURD        AKT   LG011000V    N38552971E020454132                                                                                 
+SEURD        SIT   LG011330V    N35040632E026112063                                                                                 
+SEURD        SHT   LG011290V    N35130610E026062430                                                                                 
+SEURD        STV   LG011290V    N39284850E022461763                                                                                 
+SEURD        TGG   LG011180V    N38201700E023332800                                                                                 
+SEURD        TSL   LG011210V    N40272410E0225927100                                                                                
+SEURD        TRL   LG011620V    N37240989E022202267                                                                                 
+SEURD        IATL  LG011050 D   N37553648E023551992                                                                                 
+SEURD        IEVL  LG011110 D   N37565028E023580336                                                                                 
+SEURD        IEVR  LG011050 D   N37564272E023562256                                                                                 
+SEURD        IMAK  LG010950 D   N40312040E022574698                                                                                 
+SEURD        ITSL  LG011030 D   N40313660E022580210                                                                                 
+SEURD        ALX   LG011380 D   N40511710E0255725100                                                                                
+SEURD        AGH   LG011040 D   N39125840E022473093                                                                                 
+SEURD        ARA   LG011270 D   N38063410E021253100                                                                                 
+SEURD        ATV   LG011440 D   N37531810E0234851100                                                                                
+SEURD        DDM   LG011720 D   N37283960E023130180                                                                                 
+SEURD        SAT   LG010960 D   N37550000E023545100                                                                                 
+SEURD        SPA   LG011750 D   N37550400E023561600                                                                                 
+SEURD        FSK   LG011640 D   N41055810E0225931100                                                                                
+SEURD        YNN   LG010860 D   N39420500E020491200                                                                                 
+SEURD        IRA   LG010880 D   N35202610E025110700                                                                                 
+SEURD        KAM   LG011260 D   N37035916E022012606                                                                                 
+SEURD        KAS   LG011450 D   N40270355E021163147                                                                                 
+SEURD        KPL   LG010880 D   N40544265E024365074                                                                                 
+SEURD        KOZ   LG010960 D   N40170648E021502560                                                                                 
+SEURD        MKR   LG011080 D   N40310741E022581128                                                                                 
+SEURD        AKT   LG011000 D   N38552971E020454132                                                                                 
+SEURD        SIT   LG011330 D   N35040632E026112063                                                                                 
+SEURD        SHT   LG011290 D   N35130610E026062430                                                                                 
+SEURD        TGG   LG011180 D   N38201700E023332800                                                                                 
+SEURD        TSL   LG011210 D   N40272410E0225927100                                                                                
+SEURD        TRL   LG011620 D   N37240989E022202267                                                                                 
+SEURD        ARX   LG011240 D   N38062937E021252156                                                                                 
+SEURD        ELF   LG010820 D   N38035441E023333174                                                                                 
+SEURD        RKL   LG010830 D   N35194726E025132196                                                                                 
+SEURD        KLM   LG011520 D   N37043600E022010800                                                                                 
+SEURD        KLI   LG011190 D   N35114510E0251947100                                                                                
+SEURD        KRP   LG011430 D   N40545665E024365774                                                                                 
+SEURD        KRN   LG011540 D   N38081810E023571000                                                                                 
+SEURD        LAR   LG010900 D   N39391652E022302360                                                                                 
+SEURD        MIK   LG011740 D   N40272900E022593000                                                                                 
+SEURD        MKA   LG011530 D   N40310210E022583600                                                                                 
+SEURD        ANL   LG011560 D   N39125000E022443900                                                                                 
+SEURD        TGR   LG010840 D   N38210043E023310373                                                                                 
+SEURD        TIM   LG010980 D   N35034310E0244601100                                                                                
+SEURD        TPO   LG010980 D   N37314000E022241900                                                                                 
+SEURER       L617        0170SIT  LGD       O                                      09500     24500                                  
+SEURER       L617        0180ERITI  EA      O                             0740     09500     24500                                  
+SEURER       W33         0030DIMISLGEA      O                                      11500     24500                                  
+SEURER       W33         0040YNN  LGD       O                             0246     11500     24500                                  
+SEURER       B34         0030DDM  LGD       O                             0500     06500     24500                                  
+SEURER       B34         0040NEMESLGEA      O                             0332     09500     24500                                  
+SEURER       B1          0100DDM  LGD       O                                      08500     24500                                  
+SEURER       B1          0110VELOP  EA      O                             0200     08500     24500                                  
+SEURER       B1          0140DILOPLGEA      O                                      07500     24500                                  
+SEURER       B1          0150OMIRO  EA      O                             0251     07500     24500                                  
+SEURER       B1-L6       0040TSL  LGD       O                             0221     06500     24500                                  
+SEURER       W44         0070BITLALGEA      O                             0281     11500     24500                                  
+SEURER       W44         0080KAS  LGD       O                             0258     11500     24500                                  
+SEURER       W44         0090YNN  LGD       O                             0496     11500     24500                                  
+SEURER       R35         0010TSL  LGD       O                                      09500     24500                                  
+SEURER       R35         0020DIKNILGEA      O                             0283     09500     24500                                  
+SEURER       R35         0030ODIKOLGEA      O                             0046     09500     24500                                  
+SEURER       R35         0040EVIVILBEA      O                             0276     09500     24500                                  
+SEURER       L608        0090DISORLGEA      O                                      11000     24500                                  
+SEURER       L608        0100LONTALWEA      O                             0820     11000     24500                                  
+SEURER       H59-N       0020KPL  LGD       O                             0140     07500     24500                                  
+SEURER       G8          0220KOR  LGD       O                                      09500     24500                                  
+SEURER       G8          0230RILINLGEA      O                             0129     09500     24500                                  
+SEURER       G400        0010SIT  LGD       O                                      06500     24500                                  
+SEURER       G400        0020KUMBI  EA      O                             1507     06500     60000                                  
+SEURER       J61         0040KAM  LGD       OH                                     08500     24500                                  
+SEURER       J61         0050TRL  LGD       OH                            0252     08500     24500                                  
+SEURER       M603        0140KAS  LGD       O                                      11500     24500                                  
+SEURER       M603        0150PINDOLGEA      O                             0147     11500     24500                                  
+SEURER       W58         0100KAS  LGD       O                                      08500     14000                                  
+SEURER       W58         0110KOZ  LGD       O                             0277     08500     14000                                  
+SEURER       W58         0120LSA  LGD       O                             0479     10500     14000                                  
+SEURER       B26         0030IRA  LGD       O                                      06500     24500                                  
+SEURER       B26         0040DIRMI  EA      O                             0460     06500     24500                                  
+SEURER       V61         0030GARTALGEA      OL                                     09500     24500                                  
+SEURER       V61         0040KFN    D       OL                            0567     09500     24500                                  
+SEURER       L607        0320PINDOLGEA      O                                      16500     24500                                  
+SEURER       L607        0330PIKOSLGEA      O                             0414     16500     24500                                  
+SEURER       L607        0340XORKILGEA      O                             1411     16500     24500                                  
+SEURER       V62         0010GARTALGEA      OL                                     09500     24500                                  
+SEURER       V62         0020YNN  LGD       OL                            0436     09500     24500                                  
+SEURER       V63         0020EXARALGEA      OL                            0100     12500     24500                                  
+SEURER       V63         0030PENIKLGEA      OL                            0182     12500     24500                                  
+SEURER       V63         0040RODOPLBEA      OL                            0319     12500     24500                                  
+SEURER       G85         0010DDM  LGD       O                                      09500     24500                                  
+SEURER       G85         0020KOR  LGD       O                             0303     09500     24500                                  
+SEURER       L616        0060KAS  LGD       O                                      09500     24500                                  
+SEURER       L616        0070VAROXLGEA      O                             0252     09500     24500                                  
+SEURER       L616        0080KOGATLWEA      O                             0756     15000     28500                                  
+SEURER       G18         0010FSK  LGD       O                                      10500     24500                                  
+SEURER       G18         0020DIKNILGEA      O                             0155     10500     24500                                  
+SEURER       G18         0030GIKAS  EA      O                             1074     10500     24500                                  
+SEURER       G18         0070DISORLGEA      O                                      02000     24500                                  
+SEURER       G18         0080SKJ  LWD       O                             0653     02000     24500                                  
+SEURER       A145-       0010TRL  LGD       O                                      09500     24500                                  
+SEURER       A145-       0020DILMO  EA      O                             0864     09500     24500                                  
+SEURER       N141        0010DISORLGEA      O                                      02000     24500                                  
+SEURER       N141        0020DOBARLAEA      O                             1022     02000     24500                                  
+SEURER       G18-L       0010DISORLGEA      O                                      10500     24500                                  
+SEURER       G18-L       0020FSK  LGD       O                             0138     10500     24500                                  
+SEURER       M867        0010DISORLGEA      O                                      11000     24500                                  
+SEURER       M867        0020KOGATLWEA      O                             0924     11000     24500                                  
+SEURER       N134        0090KOR  LGD       O                                      09500     24500                                  
+SEURER       N134        0100MIL    D       O                             1037     09500     24500                                  
+SEURER       M603-       0010KAS  LGD       O                                      11500     24500                                  
+SEURER       M603-       0020EDASILGEA      O                             0526     11500     24500                                  
+SEURER       M603-       0030TSL  LGD       O                             0257     11500     24500                                  
+SEURER       L611        0080YNN  LGD       O                             0272     11500     24500                                  
+SEURER       G12-M       0010TSL  LGD       O                                      11500     24500                                  
+SEURER       G12-M       0020ELPISLGEA      O                             0194     11500     24500                                  
+SEURER       G12-M       0030LOPOSLGEA      O                             0052     11500     24500                                  
+SEURER       G12-M       0040PIKOSLGEA      O                             0479     11500     24500                                  
+SEURER       G12-M       0050YNN  LGD       O                             0371     07500     24500                                  
+SEURER       G12-M       0060KRK    D       O                             0379     07500     24500                                  
+SEURER       Z508        0020ELPISLGEA      O                             0831     18000     24500                                  
+SEURER       Z508        0030TALASLWEA      O                             0548     18000     24500                                  
+SEURER       L53-R       0010IXONILGEA      O                                      08500     24500                                  
+SEURER       L53-R       0020ELVASLGEA      O                             0222     08500     24500                                  
+SEURER       L53-R       0030GARTALGEA      O                             0494     08500     24500                                  
+SEURER       L53-R       0040PARNALGEA      O                             0301     06500     24500                                  
+SEURER       L53-R       0050KRK    D       O                             0199     06500     24500                                  
+SEURER       L53-R       0060KOR  LGD       O                                      08500     24500                                  
+SEURER       L53-R       0070PIKADLGEA      O                             0137     08500     24500                                  
+SEURER       A14-M       0060SIT  LGD       O                             0841     06500     24500                                  
+SEURER       B5          0070FSK  LGD       O                                      10500     24500                                  
+SEURER       B5          0080TSL  LGD       O                             0386     10500     24500                                  
+SEURER       N128        0010FSK  LGD       O                                      10500     24500                                  
+SEURER       N128        0020ODIKOLGEA      O                             0137     10500     24500                                  
+SEURER       N128        0030PEREN  EA      O                             0399     12500     24500                                  
+SEURER       B5-N1       0010FSK  LGD       O                                      10500     24500                                  
+SEURER       B5-N1       0020RUGASLWEA      O                             0165     10500     24500                                  
+SEURER       L995-       0010GERMILGEA      O                                      09500     24500                                  
+SEURER       L995-       0020VARDILGEA      O                             0630     09500     24500                                  
+SEURER       L995-       0030KRK    D       O                             0991     09500     24500                                  
+SEURER       M978-       0080SIT  LGD       O                             0532     06500     24500                                  
+SEURER       Z507        0050OSMOSLGEA      O                             0610     13000     24500                                  
+SEURER       Z507        0060TSL  LGD       O                             0223     13000     24500                                  
+SEURER       J65-M       0030TRL  LGD       OH                            0970     10500     24500                                  
+SEURER       N731        0020YNN  LGD       O                             0965     09500     24500                                  
+SEURER       B7-N1       0010KPL  LGD       O                                      12500     24500                                  
+SEURER       B7-N1       0020KOPOLLGEA      O                             0189     12500     24500                                  
+SEURER       B7-N1       0030RODOPLBEA      O                             0259     12500     24500                                  
+SEURER       G80         0050SIT  LGD       O                             0404     05500     24500                                  
+SEURER       A145-       0030TRL  LGD       O                             0659     09500     24500                                  
+SEURER       N140        0010MAKEDLGEA      O                                      11000     24500                                  
+SEURER       N140        0020NEGOTLWEA      O                             0128     11000     24500                                  
+SEURER       M872-       0010OTREXLGEA      O                                      10500     24500                                  
+SEURER       M872-       0020PLH    D       O                             0619     10500     24500                                  
+SEURER       A10-L       0020SIT  LGD       O                             0878     06500     24500                                  
+SEURER       B12-L       0010SIT  LGD       O                                      06500     24500                                  
+SEURER       B12-L       0020TANSA  EA      O                             0713     06500     24500                                  
+SEURER       J65         0030TRL  LGD       OH                            0877     08500     24500                                  
+SEURER       UL617       0260SIT  LGD       O                             0740     24500     46000                                  
+SEURER       UL617       0270TANSA  EA      O                             0713     24500     46000                                  
+SEURER       UL617       0330MAKEDLGEA      O                             0718     24500     46000                                  
+SEURER       UL617       0340TSL  LGD       O                             0458     24500     46000                                  
+SEURER       UB34        0030DDM  LGD       O                             0500     24500     46000                                  
+SEURER       UB34        0040NEMESLGEA      O                             0332     24500     46000                                  
+SEURER       UM601       0420TRL  LGD       O                                      24500     46000                                  
+SEURER       UM601       0430KFN    D       O                             0970     24500     46000                                  
+SEURER       UB1-U       0040TSL  LGD       O                             0221     24500     46000                                  
+SEURER       UN128       0090ODIKOLGEA      O                             0399     24500     46000                                  
+SEURER       UN128       0100FSK  LGD       O                             0137     24500     46000                                  
+SEURER       UN128       0110RUGASLWEA      O                             0165     24500     46000                                  
+SEURER       UW44        0040BITLALGEA      O                             0281     24500     46000                                  
+SEURER       UW44        0050KAS  LGD       O                             0258     24500     46000                                  
+SEURER       UW44        0060YNN  LGD       O                             0496     24500     46000                                  
+SEURER       UW33        0160YNN  LGD       O                                      24500     46000                                  
+SEURER       UW33        0170DIMISLGEA      O                             0246     26000     46000                                  
+SEURER       UW33        0180TR   LAD       O                             0926     26000     46000                                  
+SEURER       UL608       0060DISORLGEA      O                             0820     24500     46000                                  
+SEURER       UL608       0070FSK  LGD       O                             0138     24500     46000                                  
+SEURER       UN127       0080KPL  LGD       O                             0140     24500     46000                                  
+SEURER       UN127       0090KOPOLLGEA      O                             0189     24500     46000                                  
+SEURER       UN127       0100RODOPLBEA      O                             0259     24500     46000                                  
+SEURER       UM603       0080TSL  LGD       O                                      24500     46000                                  
+SEURER       UM603       0090EDASILGEA      O                             0257     24500     46000                                  
+SEURER       UM603       0100KAS  LGD       O                             0526     24500     46000                                  
+SEURER       UM603       0110PINDOLGEA      O                             0147     24500     46000                                  
+SEURER       UL613       0140YNN  LGD       O                             0260     30500     46000                                  
+SEURER       UL613       0150KOR  LGD       O                             1453     30500     46000                                  
+SEURER       UG8         0100KOR  LGD       O                                      24500     46000                                  
+SEURER       UG8         0110RILINLGEA      O                             0129     24500     46000                                  
+SEURER       UM978       0160SIT  LGD       O                             0532     24500     46000                                  
+SEURER       UB1         0060DDM  LGD       O                                      24500     46000                                  
+SEURER       UB1         0070VELOP  EA      O                             0200     24500     46000                                  
+SEURER       UB1         0100DILOPLGEA      O                                      24500     46000                                  
+SEURER       UB1         0110OMIRO  EA      O                             0251     24500     46000                                  
+SEURER       UL995       0200VARDILGEA      O                             0991     24500     46000                                  
+SEURER       UL995       0210GERMILGEA      O                             0630     24500     46000                                  
+SEURER       UM872       0210SIT  LGD       O                             0841     24500     46000                                  
+SEURER       UL607       0290PINDOLGEA      O                             0794     24500     46000                                  
+SEURER       UL607       0300PIKOSLGEA      O                             0414     24500     46000                                  
+SEURER       UL607       0310XORKILGEA      O                             1411     24500     46000                                  
+SEURER       UL607       0350SIT  LGD       O                             0878     24500     46000                                  
+SEURER       UG85        0010DDM  LGD       O                                      24500     46000                                  
+SEURER       UG85        0020KOR  LGD       O                             0303     24500     46000                                  
+SEURER       UR45        0010DDM  LGD       O                                      31000     46000                                  
+SEURER       UR45        0020YNN  LGD       O                             1746     31000     46000                                  
+SEURER       UL616       0100KAS  LGD       O                                      24500     46000                                  
+SEURER       UL616       0110VAROXLGEA      O                             0252     24500     46000                                  
+SEURER       UL616       0120KOGATLWEA      O                             0756     28500     60000                                  
+SEURER       UG18        0010FSK  LGD       O                                      24500     46000                                  
+SEURER       UG18        0020DIKNILGEA      O                             0155     24500     46000                                  
+SEURER       UG18        0030GIKAS  EA      O                             1074     24500     46000                                  
+SEURER       UR35        0010TSL  LGD       O                                      24500     46000                                  
+SEURER       UR35        0020DIKNILGEA      O                             0283     24500     46000                                  
+SEURER       UR35        0030ODIKOLGEA      O                             0046     24500     46000                                  
+SEURER       UR35        0040EVIVILBEA      O                             0276     24500     46000                                  
+SEURER       UA145       0010TRL  LGD       O                                      24500     46000                                  
+SEURER       UA145       0020DILMO  EA      O                             0864     24500     46000                                  
+SEURER       UM600       0010TSL  LGD       O                                      24500     46000                                  
+SEURER       UM600       0020ELPISLGEA      O                             0194     24500     46000                                  
+SEURER       UM600       0030LOPOSLGEA      O                             0052     24500     46000                                  
+SEURER       UM600       0040PIKOSLGEA      O                             0479     24500     46000                                  
+SEURER       UM600       0050YNN  LGD       O                             0371     24500     46000                                  
+SEURER       UM600       0060KRK    D       O                             0379     24500     46000                                  
+SEURER       UB26        0010IRA  LGD       O                                      24500     46000                                  
+SEURER       UB26        0020DIRMI  EA      O                             0460     24500     46000                                  
+SEURER       UN141       0010DISORLGEA      O                                      26000     46000                                  
+SEURER       UN141       0020DOBARLAEA      O                             1022     26000     46000                                  
+SEURER       UM867       0010DISORLGEA      O                                      24500     46000                                  
+SEURER       UM867       0020KOGATLWEA      O                             0924     24500     46000                                  
+SEURER       UY400       0010DISORLGEA      O                                      24500     46000                                  
+SEURER       UY400       0020NEGOTLWEA      O                             0171     24500     46000                                  
+SEURER       UN134       0110KOR  LGD       O                             1037     24500     46000                                  
+SEURER       UZ511       0010ELPISLGEA      O                                      25000     46000                                  
+SEURER       UZ511       0020MAKEDLGEA      O                             0484     25000     46000                                  
+SEURER       UN132       0020ELPISLGEA      O                             0831     24500     46000                                  
+SEURER       UN132       0030TALASLWEA      O                             0548     24500     46000                                  
+SEURER       UL53        0010IXONILGEA      O                                      24500     46000                                  
+SEURER       UL53        0020ELVASLGEA      O                             0222     24500     46000                                  
+SEURER       UL53        0030GARTALGEA      O                             0494     24500     46000                                  
+SEURER       UL53        0040PARNALGEA      O                             0301     24500     46000                                  
+SEURER       UL53        0050KRK    D       O                             0199     24500     46000                                  
+SEURER       UL53        0120KOR  LGD       O                                      24500     46000                                  
+SEURER       UL53        0130PIKADLGEA      O                             0137     24500     46000                                  
+SEURER       UN130       0010TSL  LGD       O                                      30500     46000                                  
+SEURER       UN130       0020ESOPO  EA      O                             0967     24500     46000                                  
+SEURER       UV63        0020EXARALGEA      O                             0100     24500     46000                                  
+SEURER       UV63        0030PENIKLGEA      O                             0182     24500     46000                                  
+SEURER       UV63        0040RODOPLBEA      O                             0319     24500     46000                                  
+SEURER       UB5         0050FSK  LGD       O                                      24500     46000                                  
+SEURER       UB5         0060TSL  LGD       O                             0386     24500     46000                                  
+SEURER       UV61        0010GARTALGEA      O                                      24500     46000                                  
+SEURER       UV61        0020KFN    D       O                             0567     24500     46000                                  
+SEURER       UV62        0010GARTALGEA      O                                      24500     46000                                  
+SEURER       UV62        0020YNN  LGD       O                             0436     24500     46000                                  
+SEURER       UW69        0010GENSULGEA      O                                      31000     46000                                  
+SEURER       UW69        0020TR   LAD       O                             0790     31000     46000                                  
+SEURER       UZ507       0050OSMOSLGEA      O                             0610     24500     46000                                  
+SEURER       UZ507       0060TSL  LGD       O                             0223     24500     46000                                  
+SEURER       UN731       0020YNN  LGD       O                             0965     24500     46000                                  
+SEURER       UL611       0080YNN  LGD       O                             0272     24500     46000                                  
+SEURER       UG80        0050SIT  LGD       O                             0404     24500     46000                                  
+SEURER       UG400       0020SIT  LGD       O                             1507     24500     46000                                  
+SEURER       UN140       0010MAKEDLGEA      O                                      26000     46000                                  
+SEURER       UN140       0020NEGOTLWEA      O                             0128     26000     46000                                  
+SEURER       UJ65        0070TRL  LGD       O                             0877     24500     46000                                  
+SEURER       UM872       0010OTREXLGEA      O                                      24500     46000                                  
+SEURER       UM872       0020PLH    D       O                             0619     24500     46000                                  
+SEURER       UA145       0040TRL  LGD       O                             0659     24500     46000                                  

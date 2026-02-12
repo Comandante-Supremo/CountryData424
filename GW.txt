@@ -1,0 +1,28 @@
+SAFREAENRT   BADIA              N12160000W013460000                                                                                 
+SAFREAENRT   BIS06              N11595506W015335097                                                                                 
+SAFREAENRT   DILPO              N12300000W0152254100                                                                                
+SAFREAENRT   KOMOR              N12255910W0155453100                                                                                
+SAFREAENRT   LUSTI              N12190500W0162859100                                                                                
+SAFREAENRT   POGRA              N11400000W014103600                                                                                 
+SAFRDB       BS      000325     N11573620W015383550                                                                                 
+SAFRD        BIS     011430V    N11561031W015382384                                                                                 
+SAFRD        BIS     011430 D   N11561031W015382384                                                                                 
+SAFRER       A602G       0010BIS    D       O                                      03500     24500                                  
+SAFRER       A602G       0020LUSTI  EA      O                             0546     03500     24500                                  
+SAFRER       A602G       0030TITOR  EA      O                             0978     03500     24500                                  
+SAFRER       B600F       0020BIS06  EA      O                             0637     03500     24500                                  
+SAFRER       B600F       0030KOMOR  EA      O                             0332     03500     24500                                  
+SAFRER       B600F       0040ND   GBD       O                             0699     03500     24500                                  
+SAFRER       V205        0020POGRA  EA      OL                            1302     06000     24500                                  
+SAFRER       UR979       0080BADIA  EA      O                             0464     25000     46000                                  
+SAFRER       UR979       0090KOMABGOEA      O                             0502     25000     46000                                  
+SAFRER       UR620       0010BIS    D       O                                      24500     46000                                  
+SAFRER       UR620       0020DILPO  EA      O                             0371     24500     46000                                  
+SAFRER       UR620       0030ERIDIGOEA      O                             0442     24500     46000                                  
+SAFRER       UA602       0010BIS    D       O                                      24500     46000                                  
+SAFRER       UA602       0020LUSTI  EA      O                             0546     24500     46000                                  
+SAFRER       UA602       0030TITOR  EA      O                             0978     24500     46000                                  
+SAFRER       UB600       0130KOMOR  EA      O                             0969     24500     46000                                  
+SAFRER       UB600       0140ND   GBD       O                             0699     24500     46000                                  
+SAFRER       UR865       0080POGRA  EA      O                             1302     25000     60000                                  
+SAFRER       UR865       0020POGRA  EA      O                             0670     24500     46000                                  

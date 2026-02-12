@@ -1,0 +1,619 @@
+SAFREAENRT   AKNAR FZ           S07404921E026461148                                                                                 
+SAFREAENRT   AKROS FZ           S05064400E022462310                                                                                 
+SAFREAENRT   AMGES FZ           S01252714E024242926                                                                                 
+SAFREAENRT   APKOK FZ           S07185355E018063772                                                                                 
+SAFREAENRT   APOXO FZ           N00142036E029252974                                                                                 
+SAFREAENRT   ARMEN FZ           N02090179E027414157                                                                                 
+SAFREAENRT   AXUVI FZ           N02001383E019114077                                                                                 
+SAFREAENRT   BEMBA FZ           S05350784E014495836                                                                                 
+SAFREAENRT   BESHO FZ           S12000589E027495557                                                                                 
+SAFREAENRT   BIKAL FZ           N03272541E029343575                                                                                 
+SAFREAENRT   BINOL FZ           N01044100E0293723100                                                                                
+SAFREAENRT   BIRAN FZ           N01251440E020100780                                                                                 
+SAFREAENRT   BONBI FZ           S05012002E016231051                                                                                 
+SAFREAENRT   BULNA FZ           S01332549E028595575                                                                                 
+SAFREAENRT   BUMAG FZ           S04072032E027153553                                                                                 
+SAFREAENRT   BUMEL FZ           S00144550E021112296                                                                                 
+SAFREAENRT   BUNSI FZ           S05140795E014145831                                                                                 
+SAFREAENRT   BUPOX FZ           N01253710E021305899                                                                                 
+SAFREAENRT   BUROL FZ           S01484502E024483530                                                                                 
+SAFREAENRT   BUSAN FZ           N02041981E026521749                                                                                 
+SAFREAENRT   DEDIX FZ           N01404993E026291146                                                                                 
+SAFREAENRT   DEKUK FZ           S09340003E025580007                                                                                 
+SAFREAENRT   DENEB FZ           S03361448E028381766                                                                                 
+SAFREAENRT   DESEK FZ           N00482019E018380872                                                                                 
+SAFREAENRT   DILMA FZ           S05555575E027535959                                                                                 
+SAFREAENRT   DINGA FZ           S05160794E016105849                                                                                 
+SAFREAENRT   DIPTO FZ           N03114948E023135915                                                                                 
+SAFREAENRT   EBADA FZ           S06144365E020171687                                                                                 
+SAFREAENRT   EBNEL FZ           S02270883E028095962                                                                                 
+SAFREAENRT   EBREL FZ           S05161996E024062923                                                                                 
+SAFREAENRT   EBULA FZ           N02494959E020045885                                                                                 
+SAFREAENRT   EDAGA FZ           N02305568E028131162                                                                                 
+SAFREAENRT   EDATO FZ           N01264310E026405348                                                                                 
+SAFREAENRT   EDGOX FZ           S00205147E029170572                                                                                 
+SAFREAENRT   EDIKU FZ           N00332026E018563275                                                                                 
+SAFREAENRT   EDILO FZ           N02130177E029293574                                                                                 
+SAFREAENRT   EDLAM FZ           N00051334E022514471                                                                                 
+SAFREAENRT   EDLIN FZ           S06060768E016535855                                                                                 
+SAFREAENRT   EDUSA FZ           S06050770E024205925                                                                                 
+SAFREAENRT   EMSAT FZ           N01205710E017562400                                                                                 
+SAFREAENRT   ENDOX FZ           N02530758E028451167                                                                                 
+SAFREAENRT   ENUMI FZ           S03285651E028574169                                                                                 
+SAFREAENRT   GAKRI FZ           N00505617E026562350                                                                                 
+SAFREAENRT   GALIC FZ           S04280821E028305965                                                                                 
+SAFREAENRT   GAMEL FZ           N01391900E020353120                                                                                 
+SAFREAENRT   GAMEX FZ           S00510931E023475920                                                                                 
+SAFREAENRT   GANOK FZ           N01085608E029251773                                                                                 
+SAFREAENRT   GATMU FZ           N01384394E029452377                                                                                 
+SAFREAENRT   GATSA FZ           S00265744E023251717                                                                                 
+SAFREAENRT   IKPAN FZ           N00232631E026582950                                                                                 
+SAFREAENRT   IKTAL FZ           S04280821E026105343                                                                                 
+SAFREAENRT   ILBOK FZ           S03384446E020505892                                                                                 
+SAFREAENRT   ILKAM FZ           S01472717E028563427                                                                                 
+SAFREAENRT   INADU FZ           N01450191E029501778                                                                                 
+SAFREAENRT   INUGA FZ           S07111602E018321426                                                                                 
+SAFREAENRT   INUVA FZ           S00023956E019053476                                                                                 
+SAFREAENRT   IPOLU FZ           S03183601E016073604                                                                                 
+SAFREAENRT   IPULI FZ           S01581498E028265964                                                                                 
+SAFREAENRT   IRASA FZ           S03155321E028410513                                                                                 
+SAFREAENRT   ISDOP FZ           S02152089E024005322                                                                                 
+SAFREAENRT   KEDOT FZ           N03334338E021434101                                                                                 
+SAFREAENRT   KHMBA FZ           S07202900E018592340                                                                                 
+SAFREAENRT   KIBRO FZ           S05594973E026273545                                                                                 
+SAFREAENRT   KINKO FZ           S04371415E016325852                                                                                 
+SAFREAENRT   KMI67 FZ           S05083122E028252031                                                                                 
+SAFREAENRT   KOBDO FZ           S02085692E027585960                                                                                 
+SAFREAENRT   KOBGA FZ           S05250790E016005847                                                                                 
+SAFREAENRT   KODKO FZ           S04151426E016355853                                                                                 
+SAFREAENRT   KOSOK FZ           S06324955E017195259                                                                                 
+SAFREAENRT   LIKAL FZ           S07184933E028485368                                                                                 
+SAFREAENRT   LILAK FZ           S09050003E027510007                                                                                 
+SAFREAENRT   LIPOK FZ           N00143835E029214173                                                                                 
+SAFREAENRT   LIPON FZ           S03210600E017334203                                                                                 
+SAFREAENRT   LISAT FZ           N00450520E018435873                                                                                 
+SAFREAENRT   LOSMI FZ           S03155058E023321718                                                                                 
+SAFREAENRT   LOTRU FZ           S00190348E026461149                                                                                 
+SAFREAENRT   LUBRA FZ           S08012710E017343550                                                                                 
+SAFREAENRT   LUNSA FZ           N01570060E021070000                                                                                 
+SAFREAENRT   MELAM FZ           S07480717E029095971                                                                                 
+SAFREAENRT   MERON FZ           N04550000E024024200                                                                                 
+SAFREAENRT   MESAD FZ           S04060731E017444663                                                                                 
+SAFREAENRT   MESIT FZ           S01022126E028040561                                                                                 
+SAFREAENRT   MITON FZ           S01560922E029140236                                                                                 
+SAFREAENRT   MOLAN FZ           N01562271E029493085                                                                                 
+SAFREAENRT   MOMAX FZ           S06264359E028141762                                                                                 
+SAFREAENRT   MOTAM FZ           S12000589E027354755                                                                                 
+SAFREAENRT   MSMAT FZ           S05490776E013265824                                                                                 
+SAFREAENRT   MUNDA FZ           S05561121E012210413                                                                                 
+SAFREAENRT   NASAM FZ           S04494203E017421806                                                                                 
+SAFREAENRT   NEMAP FZ           S02192404E016454201                                                                                 
+SAFREAENRT   NUPON FZ           S00374510E0184530100                                                                                
+SAFREAENRT   OMOXA FZ           S01011527E024355928                                                                                 
+SAFREAENRT   ONRAK FZ           S09250003E026150007                                                                                 
+SAFREAENRT   ONSAL FZ           N01400793E029455377                                                                                 
+SAFREAENRT   ONTUV FZ           S06484348E024014122                                                                                 
+SAFREAENRT   OPGAT FZ           S01092722E025384738                                                                                 
+SAFREAENRT   OPOLA FZ           S05130005E017334206                                                                                 
+SAFREAENRT   OVRIG FZ           S00391837E017494965                                                                                 
+SAFREAENRT   PILSI FZ           S00150050E023491721                                                                                 
+SAFREAENRT   PILTU FZ           S06570743E023311717                                                                                 
+SAFREAENRT   PIPLO FZ           N02160510E018070000                                                                                 
+SAFREAENRT   PIRVO FZ           S05544976E028184763                                                                                 
+SAFREAENRT   PISPA FZ           S03215210E022494100                                                                                 
+SAFREAENRT   POLAN FZ           S09100675E028135962                                                                                 
+SAFREAENRT   POLDO FZ           N01555485E019290280                                                                                 
+SAFREAENRT   POMSA FZ           S05390603E017221806                                                                                 
+SAFREAENRT   PONAL FZ           S04173226E026481749                                                                                 
+SAFREAENRT   PONOB FZ           S06465548E019444082                                                                                 
+SAFREAENRT   RAPIN FZ           N01375594E023273517                                                                                 
+SAFREAENRT   RAPOL FZ           S04014434E023094114                                                                                 
+SAFREAENRT   RINUT FZ           N00133836E023400819                                                                                 
+SAFREAENRT   RIVOM FZ           S07491510E018371960                                                                                 
+SAFREAENRT   RUNGO FZ           S09060003E027030007                                                                                 
+SAFREAENRT   RURGO FZ           S05325310E020574200                                                                                 
+SAFREAENRT   RUVNI FZ           N04060122E019375881                                                                                 
+SAFREAENRT   SENAL FZ           S08342493E021595902                                                                                 
+SAFREAENRT   SEPAM FZ           S03522038E016303452                                                                                 
+SAFREAENRT   SEROK FZ           N00533216E023415319                                                                                 
+SAFREAENRT   SETOX FZ           S10040003E025280007                                                                                 
+SAFREAENRT   SEVIT FZ           N02160375E019415882                                                                                 
+SAFREAENRT   SEXER FZ           S06093768E0213916100                                                                                
+SAFREAENRT   SHIMA FZ           S06315555E018444072                                                                                 
+SAFREAENRT   SOLPA FZ           N01490688E019565184                                                                                 
+SAFREAENRT   SOPNO FZ           S11195910E0281959100                                                                                
+SAFREAENRT   SORGU FZ           S04280820E023015913                                                                                 
+SAFREAENRT   TALAC FZ           S03591636E029180172                                                                                 
+SAFREAENRT   TANUN FZ           S04490808E016285852                                                                                 
+SAFREAENRT   TAROK FZ           S05423781E021381099                                                                                 
+SAFREAENRT   TEBEN FZ           S04473010E021414300                                                                                 
+SAFREAENRT   TEKTI FZ           N04000000E018441200                                                                                 
+SAFREAENRT   TIPLI FZ           S02553868E028435967                                                                                 
+SAFREAENRT   TOBAR FZ           S02145089E019581684                                                                                 
+SAFREAENRT   TUSOX FZ           N02382464E019292880                                                                                 
+SAFREAENRT   TUVAB FZ           N03295239E022042504                                                                                 
+SAFREAENRT   UBOLO FZ           S05130797E021580503                                                                                 
+SAFREAENRT   ULPIG FZ           N01215302E023533321                                                                                 
+SAFREAENRT   ULVAS FZ           S07013000E019314800                                                                                 
+SAFREAENRT   UNIRI FZ           S05213793E023552921                                                                                 
+SAFREAENRT   UNUTU FZ           N03071350E020144087                                                                                 
+SAFREAENRT   UPABO FZ           N03225143E019564684                                                                                 
+SAFREAENRT   UPARA FZ           S01192117E021412900                                                                                 
+SAFREAENRT   UVAGO FZ           S07342310E0171829100                                                                                
+SAFREAENRT   UVKAT FZ           S12100000E028450000                                                                                 
+SAFREAENRT   VISMA FZ           S10303633E025115932                                                                                 
+SAFREAENRT   VIVRO FZ           N02074380E024572931                                                                                 
+SAFREAENRT   VND10 FZ           S13031500E0293105100                                                                                
+SAFREAENRT   VND17 FZ           S12472610E0285148100                                                                                
+SAFREAENRT   VND20 FZ           S13000000E029000000                                                                                 
+SAFREAENRT   VND30 FZ           S12300610E028441100                                                                                 
+SAFREAENRT   VOLGA FZ           N01541386E027202354                                                                                 
+SAFREAENRT   VOLTO FZ           S06230384E018033648                                                                                 
+SAFREAENRT   VORAX FZ           S04321600E0133437100                                                                                
+SAFREAENRT   VOREX FZ           N02173510E0270514100                                                                                
+SAFREAENRT   XODKU FZ           S06373685E029114240                                                                                 
+SAFREAENRT   XUTES FZ           S06543744E019205278                                                                                 
+SAFRDB       BAN   FZ000385     S03180856E017225860                                                                                 
+SAFRDB       KIS   FZ000315     N00275029E025210035                                                                                 
+SAFRDB       BSU   FZ000318     N01124406E019474683                                                                                 
+SAFRDB       BDE   FZ000388     S00140950E020485892                                                                                 
+SAFRDB       BOM   FZ000392     S05510775E013035820                                                                                 
+SAFRDB       BG    FZ000264     S01551899E029154972                                                                                 
+SAFRDB       BKV   FZ000255     S02182387E028490968                                                                                 
+SAFRDB       BBA   FZ000285     N02113000E022330000                                                                                 
+SAFRDB       BUN   FZ000380     N01314997E030145982                                                                                 
+SAFRDB       BUT   FZ000397     N02482560E024462329                                                                                 
+SAFRDB       BLT   FZ000310     N04174916E021025894                                                                                 
+SAFRDB       GEM   FZ000270     N03134947E019455882                                                                                 
+SAFRDB       GY    FZ000310     S01403608E029153712                                                                                 
+SAFRDB       GS    FZ000336     S01410906E029125972                                                                                 
+SAFRDB       IP    FZ000370     N01364994E018035867                                                                                 
+SAFRDB       INO   FZ000385     S01570897E018162869                                                                                 
+SAFRDB       IRO   FZ000405     N02502259E027341656                                                                                 
+SAFRDB       KMI   FZ000261     S05550776E029105971                                                                                 
+SAFRDB       KAL   FZ000326     S02350879E026445948                                                                                 
+SAFRDB       KB    FZ000321     S02274963E028542966                                                                                 
+SAFRDB       BW    FZ000258     S08375492E025125333                                                                                 
+SAFRDB       BE    FZ000278     S08391891E025171134                                                                                 
+SAFRDB       KMB   FZ000276     S08391210E025160014                                                                                 
+SAFRDB       KNG   FZ000380     S05544076E022292908                                                                                 
+SAFRDB       KKW   FZ000321     S05020802E018485873                                                                                 
+SAFRDB       KN    FZ000270     S02570867E025545940                                                                                 
+SAFRDB       KIN   FZ000285     S02540600E025544200                                                                                 
+SAFRDB       KW    FZ000255     S05555400E012255800                                                                                 
+SAFRDB       KIT   FZ000350     S05542000E012253600                                                                                 
+SAFRDB       KE    FZ000275     S05541510E0122734100                                                                                
+SAFRDB       KWZ   FZ000264     S10430627E025295935                                                                                 
+SAFRDB       KOT   FZ000340     N04100791E021450287                                                                                 
+SAFRDB       LIB   FZ000336     N03374935E018375872                                                                                 
+SAFRDB       LIS   FZ000324     N02094978E021295898                                                                                 
+SAFRDB       LE    FZ000285     S11354101E027322868                                                                                 
+SAFRDB       OL    FZ000275     S11380510E027251800                                                                                 
+SAFRDB       MTI   FZ000380     S05500776E013275824                                                                                 
+SAFRDB       MS    FZ000264     S05490776E013265824                                                                                 
+SAFRDB       MS    FZ000255     N00005042E018165869                                                                                 
+SAFRDB       MN    FZ000392     S06061970E023335318                                                                                 
+SAFRDB       OK    FZ000340     S04203223E015305843                                                                                 
+SAFRDB       NDO   FZ000318     S04190824E015185841                                                                                 
+SAFRDB       TKP   FZ000242     S06260759E020475891                                                                                 
+SAFRD        KGI   FZ011450V    N00293328E025184835                                                                                 
+SAFRD        BUN   FZ011400V    N01334996E030125981                                                                                 
+SAFRD        BLT   FZ011210V    N04144918E020575894                                                                                 
+SAFRD        GOM   FZ011650V    S01410906E029135972                                                                                 
+SAFRD        KMI   FZ011630V    S05520777E029145972                                                                                 
+SAFRD        KMB   FZ011470V    S08374292E025145233                                                                                 
+SAFRD        KNG   FZ011550V    S05540776E022265907                                                                                 
+SAFRD        KIN   FZ011510V    S02550868E025535940                                                                                 
+SAFRD        KIT   FZ011530V    S05561972E012253414                                                                                 
+SAFRD        LJA   FZ011550V    S03250853E023265917                                                                                 
+SAFRD        LUB   FZ011670V    S11361399E027301953                                                                                 
+SAFRD        MBA   FZ011570V    N00025041E018165869                                                                                 
+SAFRD        MBY   FZ011290V    S06065569E023334718                                                                                 
+SAFRD        KSA   FZ011500V    S04241706E015250552                                                                                 
+SAFRD        KGI   FZ011450 D   N00293328E025184835                                                                                 
+SAFRD        BLT   FZ011210 D   N04144918E020575894                                                                                 
+SAFRD        GOM   FZ011650 D   S01410906E029135972                                                                                 
+SAFRD        KNG   FZ011550 D   S05540776E022265907                                                                                 
+SAFRD        LUB   FZ011670 D   S11361399E027301953                                                                                 
+SAFRD        MBA   FZ011570 D   N00025041E018165869                                                                                 
+SAFRD        MBY   FZ011290 D   S06065569E023334718                                                                                 
+SAFRD        KSA   FZ011500 D   S04241706E015250552                                                                                 
+SAFRER       H1F         0010BUN  FZD       O                                      05000     24500                                  
+SAFRER       H1F         0020GATMUFZEA      O                             0280     05000     24500                                  
+SAFRER       H1F         0030GAKRIFZEA      O                             1757     09000     24500                                  
+SAFRER       H1F         0040KGI  FZD       O                             1000     05000     24500                                  
+SAFRER       H1F         0050ULPIGFZEA      O                             1001     05000     24500                                  
+SAFRER       H1F         0060RAPINFZEA      O                             0305     05000     24500                                  
+SAFRER       H1F         0070BBA  FZD       O                             0641     04000     24500                                  
+SAFRER       H1F         0080LIS  FZD       O                             0630     04000     24500                                  
+SAFRER       H1F         0090LUNSAFZEA      O                             0263     05000     24500                                  
+SAFRER       H1F         0100GAMELFZEA      O                             0361     05000     24500                                  
+SAFRER       H1F         0110BIRANFZEA      O                             0290     05000     24500                                  
+SAFRER       H1F         0120BSU  FZD       O                             0256     05000     24500                                  
+SAFRER       H1F         0130EDIKUFZEA      O                             0647     05000     24500                                  
+SAFRER       H1F         0140MBA  FZD       O                             0500     05000     24500                                  
+SAFRER       H10         0010INUVAFZEA      O                                      05000     24500                                  
+SAFRER       H10         0020BDE  FZD       O                             1041     05000     24500                                  
+SAFRER       H10         0030BUMELFZEA      O                             0224     05000     24500                                  
+SAFRER       H10         0040EDLAMFZEA      O                             1024     05000     24500                                  
+SAFRER       H10         0050RINUTFZEA      O                             0492     05000     24500                                  
+SAFRER       H10         0060KGI  FZD       O                             1000     05000     24500                                  
+SAFRER       H10         0070DEDIXFZEA      O                             1002     06000     24500                                  
+SAFRER       H10         0080BUSANFZEA      O                             0330     06000     24500                                  
+SAFRER       H10         0090VOREXFZEA      O                             0186     05000     24500                                  
+SAFRER       A611F       0010KSA  FZD       O                                      05000     24500                                  
+SAFRER       A611F       0020BEMBAFZEA      O                             0791     05000     24500                                  
+SAFRER       A611F       0030BUDELFNEA      O                             0200     05000     24500                                  
+SAFRER       A406F       0010BESHOFZEA      O                                      11000     24500                                  
+SAFRER       A406F       0020LUB  FZD       O                             0306     11000     24500                                  
+SAFRER       A406F       0030KWZ  FZD       O                             1295     11000     24500                                  
+SAFRER       A406F       0040VISMAFZEA      O                             0217     11000     24500                                  
+SAFRER       A406F       0050SENALFZEA      O                             2223     09000     24500                                  
+SAFRER       A406F       0060PORATFNEA      O                             0969     09000     24500                                  
+SAFRER       A406F       0070ULVASFZEA      O                             0770     09000     24500                                  
+SAFRER       A406F       0080SHIMAFZEA      O                             0554     09000     24500                                  
+SAFRER       A406F       0090POMSAFZEA      O                             0975     05000     24500                                  
+SAFRER       A406F       0100BONBIFZEA      O                             0700     05000     24500                                  
+SAFRER       A406F       0110KSA  FZD       O                             0688     05000     24500                                  
+SAFRER       A406F       0150VND20FZEA      O                             0195     05000     07500                                  
+SAFRER       A406F       0160SENGI  EA      O                             0770     05000     07500                                  
+SAFRER       406F-       0010BESHOFZEA      O                                      05000     07500                                  
+SAFRER       406F-       0020TOBAN  EA      O                             0273     05000     07500                                  
+SAFRER       W53         0010BKV  FZD       O                                      12500     24500                                  
+SAFRER       W53         0020KAROSHREA      O                             0284     12500     24500                                  
+SAFRER       B535F       0050BIKALFZEA      O                             0583     07000     24500                                  
+SAFRER       B535F       0060ENDOXFZEA      O                             0601     07000     24500                                  
+SAFRER       B535F       0070EDAGAFZEA      O                             0389     07000     24500                                  
+SAFRER       B535F       0080EDATOFZEA      O                                      07000     24500                                  
+SAFRER       B535F       0090KGI  FZD       O                             1001     07000     24500                                  
+SAFRER       B535F       0100PILSIFZEA      O                             1001     09000     24500                                  
+SAFRER       B535F       0110GATSAFZEA      O                             0268     09000     24500                                  
+SAFRER       B535F       0120UPARAFZEA      O                             1163     09000     24500                                  
+SAFRER       B535F       0130TOBARFZEA      O                             1172     09000     24500                                  
+SAFRER       B535F       0140LIPONFZEA      O                             1590     09000     24500                                  
+SAFRER       B535F       0150SEPAMFZEA      O                             0704     09000     24500                                  
+SAFRER       B535F       0160KSA  FZD       O                             0728     09000     24500                                  
+SAFRER       1E9         0020BKV  FZD       O                             0693     14400     60000                                  
+SAFRER       1E9         0030GOM  FZD       O                             0448     19000     60000                                  
+SAFRER       B527F       0020TALACFZEA      O                             0385     13000     24500                                  
+SAFRER       B527F       0030KMI  FZD       O                             1130     16000     24500                                  
+SAFRER       B527F       0040LIKALFZEA      O                             0905     16000     24500                                  
+SAFRER       B527F       0050POLANFZEA      O                             1166     16000     24500                                  
+SAFRER       B527F       0060LUB  FZD       O                             1524     11000     24500                                  
+SAFRER       J200F       0010BLT  FZD       OH                                     05000     24500                                  
+SAFRER       J200F       0020UPABOFZEA      OH                            0802     05000     24500                                  
+SAFRER       J200F       0030GEM  FZD       OH                            0141     05000     24500                                  
+SAFRER       J200F       0040TUSOXFZEA      OH                            0391     05000     24500                                  
+SAFRER       J200F       0050DESEKFZEA      OH                                     05000     24500                                  
+SAFRER       J200F       0060MBA  FZD       OH                            0502     05000     24500                                  
+SAFRER       B733F       0030UVAGOFZEA      O                             2940     07700     24500                                  
+SAFRER       B733F       0040KOBGAFZEA      O                                      07000     24500                                  
+SAFRER       B733F       0050KSA  FZD       O                             0706     07000     24500                                  
+SAFRER       B531F       0010GOM  FZD       O                                      15000     24500                                  
+SAFRER       B531F       0020BULNAFZEA      O                             0161     15000     24500                                  
+SAFRER       B531F       0030MESITFZEA      O                             0639     15000     24500                                  
+SAFRER       B531F       0040LOTRUFZEA      O                             0892     15000     24500                                  
+SAFRER       B531F       0050KGI  FZD       O                             1001     15000     24500                                  
+SAFRER       1E8         0010BUN  FZD       O                                      07500     60000                                  
+SAFRER       1E8         0020INADUFZEA      O                             0253     07500     60000                                  
+SAFRER       1E8         0030EDAGAFZEA      O                             1074     07500     60000                                  
+SAFRER       1E8         0040IRO  FZD       O                             0435     07500     60000                                  
+SAFRER       1E8         0050BUT  FZD       O                             1678     07500     60000                                  
+SAFRER       A609F       0010ONSALFZEA      O                                      11000     24500                                  
+SAFRER       A609F       0020BUN  FZD       O                             0278     11000     24500                                  
+SAFRER       A609F       0030SIPKIHUEA      O                             0318     11000     24500                                  
+SAFRER       A609F       0050VOREXFZEA      O                                      11000     24500                                  
+SAFRER       A609F       0060BUT  FZD       O                             1422     07000     24500                                  
+SAFRER       A609F       0070DIPTOFZEA      O                             0953     07000     24500                                  
+SAFRER       A609F       0080TUVABFZEA      O                             0718     07000     24500                                  
+SAFRER       A609F       0090RUVNIFZEA      O                             1506     07000     24500                                  
+SAFRER       A609F       0100MPK  HFD       O                             0684     06500     24500                                  
+SAFRER       H8F         0010KSA  FZD       O                                      05000     24500                                  
+SAFRER       H8F         0020BUNSIFZEA      O                             0859     05000     24500                                  
+SAFRER       H8F         0030MTI  FZD       O                             0591     05000     24500                                  
+SAFRER       H8F         0040KIT  FZD       O                             0624     05000     24500                                  
+SAFRER       H8F         0050MUNDAFZEA      O                             0045     05000     24500                                  
+SAFRER       B732        0020VORAXFZEA      O                             1025     06500     24500                                  
+SAFRER       H612F       0030RIVOMFZEA      O                             1010     07000     24500                                  
+SAFRER       H612F       0040LUBRAFZEA      O                             0634     07000     24500                                  
+SAFRER       H612F       0050GEBDOFNEA      O                             1414     07000     16500                                  
+SAFRER       406F        0050VND10FZEA      O                             0465     12000     24500                                  
+SAFRER       406F        0060VND    D       O                             0499     07500     24500                                  
+SAFRER       B531        0040GOM  FZD       O                             0145     12500     24500                                  
+SAFRER       V48F        0010LUB  FZD       OL                                     08100     24000                                  
+SAFRER       V48F        0020DEKUKFZEA      OL                            1523     08100     24000                                  
+SAFRER       V48F        0030KMB  FZD       OL                            0706     08100     24000                                  
+SAFRER       V48F        0040ONTUVFZEA      OL                            1310     05000     24000                                  
+SAFRER       V48F        0050MBY  FZD       OL                            0502     05000     24000                                  
+SAFRER       H4F         0010KSA  FZD       O                                      04000     24500                                  
+SAFRER       H4F         0020KINKOFZEA      O                             0689     04000     24500                                  
+SAFRER       H4F         0030NASAMFZEA      O                             0703     05000     24500                                  
+SAFRER       H4F         0040KKW  FZD       O                             0676     05000     24500                                  
+SAFRER       H4F         0050RURGOFZEA      O                             1319     05000     24500                                  
+SAFRER       H4F         0060TAROKFZEA      O                             0415     04000     24500                                  
+SAFRER       H4F         0070KNG  FZD       O                             0525     04000     24500                                  
+SAFRER       H4F         0080MBY  FZD       O                             0652     07000     24500                                  
+SAFRER       H4F         0090EDUSAFZEA      O                             0470     07000     24500                                  
+SAFRER       H4F         0100KIBROFZEA      O                             1261     07000     24500                                  
+SAFRER       H4F         0110DILMAFZEA      O                             0861     07000     24500                                  
+SAFRER       H4F         0120PIRVOFZEA      O                             0247     07000     24500                                  
+SAFRER       H4F         0130KMI  FZD       O                             0560     07000     24500                                  
+SAFRER       G652F       0010KSA  FZD       O                                      05000     24500                                  
+SAFRER       G652F       0020DINGAFZEA      O                             0692     08000     24500                                  
+SAFRER       G652F       0030EDLINFZEA      O                             0659     08000     24500                                  
+SAFRER       G652F       0040KOSOKFZEA      O                             0371     08000     24500                                  
+SAFRER       G652F       0100RIVOMFZEA      O                                      06800     24500                                  
+SAFRER       G652F       0110OKDATFNEA      O                             0366     06800     24500                                  
+SAFRER       J5F         0010KSA  FZD       OH                                     05000     24500                                  
+SAFRER       J5F         0020TANUNFZEA      OH                            0684     05000     24500                                  
+SAFRER       J5F         0030OPOLAFZEA      OH                            0688     05000     24500                                  
+SAFRER       J5F         0040EBADAFZEA      OH                            1742     05000     24500                                  
+SAFRER       J5F         0050TKP  FZD       OH                            0326     05000     24500                                  
+SAFRER       J5F         0060SETOXFZEA      OH                            3527     10000     24500                                  
+SAFRER       J5F         0070LUB  FZD       OH                            1516     10000     24500                                  
+SAFRER       B607        0010GOM  FZD       O                                      12500     24500                                  
+SAFRER       B607        0020MITONFZEA      O                             0150     12500     24500                                  
+SAFRER       B607        0030KAROSHREA      O                             0156     12500     24500                                  
+SAFRER       A409D       0040UVKATFZEA      O                             0502     07500     24500                                  
+SAFRER       A409F       0050UVKATFZEA      O                                      05000     07500                                  
+SAFRER       A409F       0060VND30FZEA      O                             0201     05000     07500                                  
+SAFRER       H325F       0010KGI  FZD       O                                      05000     24500                                  
+SAFRER       H325F       0020OMOXAFZEA      O                             1005     05000     24500                                  
+SAFRER       H325F       0030KMB  FZD       O                                      05000     24500                                  
+SAFRER       H325F       0040PILTUFZEA      O                             1438     05000     24500                                  
+SAFRER       H325F       0050KNG  FZD       O                             0876     05000     24500                                  
+SAFRER       H325F       0060LOSMIFZEA      O                                      05000     24500                                  
+SAFRER       H325F       0070LJA  FZD       O                             0107     05000     24500                                  
+SAFRER       H325F       0080RAPOLFZEA      O                             0405     05000     24500                                  
+SAFRER       H325F       0090SORGUFZEA      O                             0275     05000     24500                                  
+SAFRER       V3F         0010KIN  FZD       OL                                     15000     24500                                  
+SAFRER       V3F         0020KOBDOFZEA      OL                            1332     15000     24500                                  
+SAFRER       1E10        0010KNG  FZD       O                                      06000     60000                                  
+SAFRER       1E10        0020UBOLOFZEA      O                             0520     06000     60000                                  
+SAFRER       1E10        0030TEBENFZEA      O                             0304     06000     60000                                  
+SAFRER       A409D       0030UVKATFZEA      O                             0625     05000     11500                                  
+SAFRER       V30F        0010MBA  FZD       OL                                     05000     24500                                  
+SAFRER       V30F        0020OVRIGFZEA      OL                            0502     05000     24500                                  
+SAFRER       V30F        0030NEMAPFZEA      OL                            1189     05000     24500                                  
+SAFRER       B530F       0020VND17FZEA      O                             0842     05000     07500                                  
+SAFRER       B530F       0030VND    D       O                             0170     05000     07500                                  
+SAFRER       UM731       0230EMSATFZEA      O                                      24500     60000                                  
+SAFRER       UM731       0240USKAVFCEA      O                             0542     24500     60000                                  
+SAFRER       UH1F        0010MBA  FZD       O                                      24500     60000                                  
+SAFRER       UH1F        0020BSU  FZD       O                             1147     24500     60000                                  
+SAFRER       UH1F        0030BIRANFZEA      O                             0256     24500     60000                                  
+SAFRER       UH1F        0040GAMELFZEA      O                             0290     24500     60000                                  
+SAFRER       UH1F        0050LUNSAFZEA      O                             0361     24500     60000                                  
+SAFRER       UH1F        0060LIS  FZD       O                             0263     24500     60000                                  
+SAFRER       UH1F        0070BBA  FZD       O                             0630     24500     60000                                  
+SAFRER       UH1F        0080RAPINFZEA      O                             0641     24500     60000                                  
+SAFRER       UH1F        0090ULPIGFZEA      O                             0305     24500     60000                                  
+SAFRER       UH1F        0100KGI  FZD       O                             1001     24500     60000                                  
+SAFRER       UH1F        0110GAKRIFZEA      O                             1000     24500     60000                                  
+SAFRER       UH1F        0120GATMUFZEA      O                             1757     24500     60000                                  
+SAFRER       UH10F       0010MBA  FZD       O                                      24500     60000                                  
+SAFRER       UH10F       0020BDE  FZD       O                             1531     24500     60000                                  
+SAFRER       UH10F       0030BUMELFZEA      O                             0224     24500     60000                                  
+SAFRER       UH10F       0040EDLAMFZEA      O                             1024     24500     60000                                  
+SAFRER       UH10F       0050RINUTFZEA      O                             0492     24500     60000                                  
+SAFRER       UH10F       0060KGI  FZD       O                             1000     24500     60000                                  
+SAFRER       UH10F       0070DEDIXFZEA      O                             1002     24500     60000                                  
+SAFRER       UH10F       0080BUSANFZEA      O                             0330     24500     60000                                  
+SAFRER       UH10F       0090VOREXFZEA      O                             0186     24500     60000                                  
+SAFRER       UA611       0010KSA  FZD       O                                      05000     60000                                  
+SAFRER       UA611       0020BEMBAFZEA      O                             0791     24500     60000                                  
+SAFRER       UA611       0030BUDELFNEA      O                             0200     24500     60000                                  
+SAFRER       UA408       0210KMI  FZD       O                             1647     14500     46000                                  
+SAFRER       UA406       0010BESHOFZEA      O                                      24500     60000                                  
+SAFRER       UA406       0020LUB  FZD       O                             0306     24500     60000                                  
+SAFRER       UA406       0010BESHOFZEA      O                                      24500     60000                                  
+SAFRER       UA406       0020VND    D       O                             0773     24500     60000                                  
+SAFRER       UH1         0050BUN  FZD       O                                      24500     60000                                  
+SAFRER       UH1         0060GATMUFZEA      O                             0280     24500     60000                                  
+SAFRER       UB12        0020BIKALFZEA      O                             0699     31000     60000                                  
+SAFRER       UB12        0030EDILOFZEA      O                             0746     31000     60000                                  
+SAFRER       UB12        0040GANOKFZEA      O                             0643     31000     60000                                  
+SAFRER       UB12        0050LIPOKFZEA      O                             0545     31000     60000                                  
+SAFRER       UB12        0060EDGOXFZEA      O                             0358     31000     60000                                  
+SAFRER       UB12        0070GOM  FZD       O                             0804     31000     60000                                  
+SAFRER       UA618       0010BINOLFZEA      O                                      31000     60000                                  
+SAFRER       UA618       0020GATMUFZEA      O                             0350     31000     60000                                  
+SAFRER       UA618       0030MOLANFZEA      O                             0181     31000     60000                                  
+SAFRER       UA618       0040SAGBUHJEA      O                             1282     31000     60000                                  
+SAFRER       UA618       0050TIPLIFZEA      O                                      31000     60000                                  
+SAFRER       UA618       0060BKV  FZD       O                             0376     31000     60000                                  
+SAFRER       UA618       0070ILKAMFZEA      O                             0318     31000     60000                                  
+SAFRER       UA618       0080BULNAFZEA      O                             0144     31000     60000                                  
+SAFRER       UA618       0090EDGOXFZEA      O                             0746     31000     60000                                  
+SAFRER       UA618       0100IRASAFZEA      O                                      31000     60000                                  
+SAFRER       UA618       0110DENEBFZEA      O                             0206     31000     60000                                  
+SAFRER       UA618       0120GALICFZEA      O                             0524     31000     60000                                  
+SAFRER       UA618       0130KMI67FZEA      O                             0408     31000     60000                                  
+SAFRER       UA618       0140PIRVOFZEA      O                             0468     31000     60000                                  
+SAFRER       UA618       0150MOMAXFZEA      O                             0322     31000     60000                                  
+SAFRER       UA618       0160LILAKFZEA      O                             1601     31000     60000                                  
+SAFRER       UA618       0170LUB  FZD       O                             1527     31000     60000                                  
+SAFRER       UA609       0010BINOLFZEA      O                                      31000     60000                                  
+SAFRER       UA609       0020VOLGAFZEA      O                             1457     31000     60000                                  
+SAFRER       UA609       0030BUSANFZEA      O                             0299     31000     60000                                  
+SAFRER       UA609       0040BUT  FZD       O                             1334     31000     60000                                  
+SAFRER       UA609       0050DIPTOFZEA      O                             0953     24500     60000                                  
+SAFRER       UA609       0060KEDOTFZEA      O                             0928     24500     60000                                  
+SAFRER       UA609       0070RUVNIFZEA      O                             1296     24500     60000                                  
+SAFRER       UA609       0080MPK  HFD       O                             0684     24500     60000                                  
+SAFRER       UA607       0110TEKTIFZEA      O                             0259     31000     60000                                  
+SAFRER       UA607       0120TUSOXFZEA      O                             0933     31000     60000                                  
+SAFRER       UA607       0130SEVITFZEA      O                             0256     31000     60000                                  
+SAFRER       UA607       0140SOLPAFZEA      O                             0308     31000     60000                                  
+SAFRER       UA607       0150BIRANFZEA      O                             0273     31000     60000                                  
+SAFRER       UA607       0160BUMELFZEA      O                             1173     31000     60000                                  
+SAFRER       UA607       0170UPARAFZEA      O                             0713     31000     60000                                  
+SAFRER       UA607       0180PISPAFZEA      O                             1403     31000     60000                                  
+SAFRER       UA607       0190RAPOLFZEA      O                             0446     31000     60000                                  
+SAFRER       UA607       0200EDUSAFZEA      O                             1425     31000     60000                                  
+SAFRER       UA607       0210ONRAKFZEA      O                             2297     31000     60000                                  
+SAFRER       UA607       0220LUB  FZD       O                             1508     31000     60000                                  
+SAFRER       UG450       0010ENUMIFZEA      O                                      24500     46000                                  
+SAFRER       UG450       0020BJA  HBD       O                             0231     24500     46000                                  
+SAFRER       UA613       0020IRASAFZEA      O                             0385     31000     60000                                  
+SAFRER       UA613       0030KIN  FZD       O                                      31000     60000                                  
+SAFRER       UA613       0040LOSMIFZEA      O                             1431     31000     60000                                  
+SAFRER       UA613       0050PISPAFZEA      O                             0430     31000     60000                                  
+SAFRER       UA613       0060KSA  FZD       O                                      31000     60000                                  
+SAFRER       UA613       0070KODKOFZEA      O                             0713     31000     60000                                  
+SAFRER       UA613       0080MESADFZEA      O                             0693     31000     60000                                  
+SAFRER       UB607       0030MITONFZEA      O                                      24500     60000                                  
+SAFRER       UB607       0040KAROSHREA      O                             0156     24500     60000                                  
+SAFRER       UA408       0020KMI  FZD       O                             1515     24500     60000                                  
+SAFRER       UB532       0010BKV  FZD       O                                      24500     60000                                  
+SAFRER       UB532       0020EBNELFZEA      O                             0401     24500     60000                                  
+SAFRER       UB532       0030KIN  FZD       O                             1388     24500     60000                                  
+SAFRER       UB532       0010BKV  FZD       O                                      24500     60000                                  
+SAFRER       UB532       0020KAROSHREA      O                             0284     24500     60000                                  
+SAFRER       UV30        0010BLT  FZD       O                                      24500     60000                                  
+SAFRER       UV30        0020UNUTUFZEA      O                             0803     24500     60000                                  
+SAFRER       UV30        0030EBULAFZEA      O                             0199     24500     60000                                  
+SAFRER       UV30        0040SEVITFZEA      O                             0409     24500     60000                                  
+SAFRER       UV30        0050POLDOFZEA      O                             0240     24500     60000                                  
+SAFRER       UV30        0060LISATFZEA      O                             0840     24500     60000                                  
+SAFRER       UV30        0070MBA  FZD       O                             0502     24500     60000                                  
+SAFRER       UV30        0080NEMAPFZEA      O                             1691     24500     60000                                  
+SAFRER       UJ200       0010BLT  FZD       O                                      24500     60000                                  
+SAFRER       UJ200       0020UPABOFZEA      O                             0802     24500     60000                                  
+SAFRER       UJ200       0030GEM  FZD       O                             0141     24500     60000                                  
+SAFRER       UJ200       0040TUSOXFZEA      O                             0391     24500     60000                                  
+SAFRER       UM998       0190RIVOMFZEA      O                             0352     33000     60000                                  
+SAFRER       UG655       0060MERONFZEA      O                                      24500     46000                                  
+SAFRER       UG655       0070ONUDAHFEA      O                             2074     24500     46000                                  
+SAFRER       UG450       0010PONALFZEA      O                                      24500     60000                                  
+SAFRER       UG450       0020BUMAGFZEA      O                             0291     24500     60000                                  
+SAFRER       UG450       0030DENEBFZEA      O                             0882     24500     60000                                  
+SAFRER       UG450       0040ENUMIFZEA      O                             0207     24500     60000                                  
+SAFRER       UG450       0050IKTALFZEA      O                                      24500     60000                                  
+SAFRER       UG450       0060EBRELFZEA      O                             1331     24500     60000                                  
+SAFRER       UG450       0070UNIRIFZEA      O                             0122     24500     60000                                  
+SAFRER       UG450       0080KNG  FZD       O                             0918     24500     60000                                  
+SAFRER       UG450       0090SEXERFZEA      O                             0521     24500     60000                                  
+SAFRER       UG450       0100TKP  FZD       O                             0536     24500     60000                                  
+SAFRER       UG450       0110PONOBFZEA      O                             0663     24500     60000                                  
+SAFRER       UG450       0120XUTESFZEA      O                             0249     24500     60000                                  
+SAFRER       UG862       0010BUN  FZD       O                                      24500     60000                                  
+SAFRER       UG862       0020MOLANFZEA      O                             0326     24500     60000                                  
+SAFRER       UG862       0030ENDOXFZEA      O                             0858     24500     60000                                  
+SAFRER       UH8F        0010KSA  FZD       O                                      24500     60000                                  
+SAFRER       UH8F        0020BUNSIFZEA      O                             0859     24500     60000                                  
+SAFRER       UH8F        0030MTI  FZD       O                             0591     24500     60000                                  
+SAFRER       UH8F        0040KIT  FZD       O                             0624     24500     60000                                  
+SAFRER       UH8F        0050MUNDAFZEA      O                             0045     24500     60000                                  
+SAFRER       UR984       0010BUROLFZEA      O                                      24500     60000                                  
+SAFRER       UR984       0020KIN  FZD       O                             0932     24500     60000                                  
+SAFRER       UR984       0030PONALFZEA      O                             0987     24500     60000                                  
+SAFRER       UR984       0040DILMAFZEA      O                             1182     24500     60000                                  
+SAFRER       UR984       0050MOMAXFZEA      O                             0368     24500     60000                                  
+SAFRER       UR984       0060LIKALFZEA      O                             0624     24500     60000                                  
+SAFRER       UR984       0070MELAMFZEA      O                             0360     24500     60000                                  
+SAFRER       UR984       0080KENOT  EA      O                             0553     24500     60000                                  
+SAFRER       UR984       0100EBULAFZEA      O                             1316     24500     60000                                  
+SAFRER       UR984       0110BUPOXFZEA      O                             1204     24500     60000                                  
+SAFRER       UR984       0120EDLAMFZEA      O                             1140     24500     60000                                  
+SAFRER       UR984       0130GATSAFZEA      O                             0465     24500     60000                                  
+SAFRER       UR984       0140GAMEXFZEA      O                             0332     24500     60000                                  
+SAFRER       UA610       0010SOLPAFZEA      O                                      24500     60000                                  
+SAFRER       UA610       0020GAMELFZEA      O                             0399     24500     60000                                  
+SAFRER       UA610       0030BUPOXFZEA      O                             0571     24500     60000                                  
+SAFRER       UA610       0040SEROKFZEA      O                             1348     24500     60000                                  
+SAFRER       UA610       0050KGI  FZD       O                             0999     24500     60000                                  
+SAFRER       UA610       0060LIPOKFZEA      O                                      24500     60000                                  
+SAFRER       UA610       0070OPEROHUEA      O                             0325     24500     60000                                  
+SAFRER       UG655       0010MERONFZEA      O                                      31000     60000                                  
+SAFRER       UG655       0020BUT  FZD       O                             1340     31000     60000                                  
+SAFRER       UG655       0030VIVROFZEA      O                             0422     31000     60000                                  
+SAFRER       UG655       0040KGI  FZD       O                             1005     31000     60000                                  
+SAFRER       UG655       0050OPGATFZEA      O                             1011     31000     60000                                  
+SAFRER       UG655       0060KIN  FZD       O                             1068     31000     60000                                  
+SAFRER       UG655       0230MOTAMFZEA      O                                      31000     60000                                  
+SAFRER       UG655       0240LUB  FZD       O                             0245     31000     60000                                  
+SAFRER       UG655       0250RUNGOFZEA      O                             1527     31000     60000                                  
+SAFRER       UH612       0040RIVOMFZEA      O                             0503     24500     60000                                  
+SAFRER       UH612       0050LUBRAFZEA      O                             0634     24500     60000                                  
+SAFRER       UH612       0060EPVOKFNEA      O                             1052     24500     60000                                  
+SAFRER       UB531       0050GOM  FZD       O                             0145     24500     60000                                  
+SAFRER       UA610       0190PIPLOFZEA      O                             0221     24500     46000                                  
+SAFRER       UH4F        0010KMI  FZD       O                                      24500     60000                                  
+SAFRER       UH4F        0020PIRVOFZEA      O                             0560     24500     60000                                  
+SAFRER       UH4F        0030DILMAFZEA      O                             0247     24500     60000                                  
+SAFRER       UH4F        0040KIBROFZEA      O                             0861     24500     60000                                  
+SAFRER       UH4F        0050EDUSAFZEA      O                             1261     24500     60000                                  
+SAFRER       UH4F        0060MBY  FZD       O                             0470     24500     60000                                  
+SAFRER       UH4F        0070KNG  FZD       O                             0652     24500     60000                                  
+SAFRER       UH4F        0080RURGOFZEA      O                             0940     24500     60000                                  
+SAFRER       UH4F        0090KKW  FZD       O                             1319     24500     60000                                  
+SAFRER       UH4F        0100NASAMFZEA      O                             0676     24500     60000                                  
+SAFRER       UH4F        0110KSA  FZD       O                             1392     24500     60000                                  
+SAFRER       UG652       0010KSA  FZD       O                                      24500     60000                                  
+SAFRER       UG652       0020DINGAFZEA      O                             0692     24500     60000                                  
+SAFRER       UG652       0030EDLINFZEA      O                             0659     24500     60000                                  
+SAFRER       UG652       0040KOSOKFZEA      O                             0371     24500     60000                                  
+SAFRER       UG652       0090RIVOMFZEA      O                                      24500     60000                                  
+SAFRER       UG652       0100OKDATFNEA      O                             0366     24500     60000                                  
+SAFRER       UJ5F        0010KSA  FZD       O                                      24500     60000                                  
+SAFRER       UJ5F        0020OPOLAFZEA      O                             1372     24500     60000                                  
+SAFRER       UJ5F        0030EBADAFZEA      O                             1742     24500     60000                                  
+SAFRER       UJ5F        0040TKP  FZD       O                             0326     24500     60000                                  
+SAFRER       UJ5F        0050SETOXFZEA      O                             3527     24500     60000                                  
+SAFRER       UJ5F        0060LUB  FZD       O                             1516     24500     60000                                  
+SAFRER       UB535       0010EDAGAFZEA      O                                      31000     60000                                  
+SAFRER       UB535       0020SAGBUHJEA      O                             1574     31000     60000                                  
+SAFRER       UB535       0030EDATOFZEA      O                                      31000     60000                                  
+SAFRER       UB535       0040KGI  FZD       O                             1001     31000     60000                                  
+SAFRER       UB535       0050PILSIFZEA      O                             1001     31000     60000                                  
+SAFRER       UB535       0060UPARAFZEA      O                             1432     31000     60000                                  
+SAFRER       UB535       0070TOBARFZEA      O                             1172     31000     60000                                  
+SAFRER       UB535       0080LIPONFZEA      O                             1590     31000     60000                                  
+SAFRER       UB535       0090SEPAMFZEA      O                             0704     31000     60000                                  
+SAFRER       UB535       0100KSA  FZD       O                             0728     31000     60000                                  
+SAFRER       1E004       0010EDLINFZEA      O                                      24500     60000                                  
+SAFRER       1E004       0020KHMBAFZEA      O                             1452     24500     60000                                  
+SAFRER       UB527       0030KMI  FZD       O                                      24500     60000                                  
+SAFRER       UB527       0040POLANFZEA      O                             2072     24500     60000                                  
+SAFRER       UB527       0050LUB  FZD       O                             1524     24500     60000                                  
+SAFRER       UG424       0090SOPNOFZEA      O                             0340     14500     46000                                  
+SAFRER       UG424       0100LUB  FZD       O                             0514     14500     46000                                  
+SAFRER       UV3F        0010GOM  FZD       O                                      24500     60000                                  
+SAFRER       UV3F        0020IPULIFZEA      O                             0500     24500     60000                                  
+SAFRER       UV3F        0030KIN  FZD       O                                      24500     60000                                  
+SAFRER       UV3F        0040KOBDOFZEA      O                             1332     24500     60000                                  
+SAFRER       UB531       0010GOM  FZD       O                                      24500     60000                                  
+SAFRER       UB531       0020MESITFZEA      O                             0800     24500     60000                                  
+SAFRER       UB531       0030LOTRUFZEA      O                             0892     24500     60000                                  
+SAFRER       UB531       0040KGI  FZD       O                             1001     24500     60000                                  
+SAFRER       B607-       0010GOM  FZD       O                                      24500     60000                                  
+SAFRER       B607-       0020MITONFZEA      O                             0150     24500     60000                                  
+SAFRER       UH325       0010KGI  FZD       O                                      24500     60000                                  
+SAFRER       UH325       0020OMOXAFZEA      O                             1005     24500     60000                                  
+SAFRER       UH325       0030KMB  FZD       O                                      24500     60000                                  
+SAFRER       UH325       0040PILTUFZEA      O                             1438     24500     60000                                  
+SAFRER       UH325       0050KNG  FZD       O                             0876     24500     60000                                  
+SAFRER       UH325       0060SORGUFZEA      O                             0925     24500     60000                                  
+SAFRER       UH325       0070RAPOLFZEA      O                             0275     24500     60000                                  
+SAFRER       UH325       0080LJA  FZD       O                             0405     24500     60000                                  
+SAFRER       UH325       0090LOSMIFZEA      O                             0107     24500     60000                                  
+SAFRER       1E005       0010KHMBAFZEA      O                                      24500     60000                                  
+SAFRER       1E005       0020VOLTOFZEA      O                             0798     24500     60000                                  
+SAFRER       1E005       0030POMSAFZEA      O                             0602     24500     60000                                  
+SAFRER       UA409       0010KMI  FZD       O                                      24500     60000                                  
+SAFRER       UA409       0020MELAMFZEA      O                             1162     24500     60000                                  
+SAFRER       UA409       0030SOBTO  EA      O                             1365     24500     60000                                  
+SAFRER       UB733       0010KOBGAFZEA      O                                      24500     60000                                  
+SAFRER       UB733       0020KSA  FZD       O                             0706     24500     60000                                  
+SAFRER       UB733       0030UVAGOFZEA      O                                      24500     60000                                  
+SAFRER       UB733       0040VUE  FND       O                             2940     24500     60000                                  
+SAFRER       UA406       0010KSA  FZD       O                                      24500     60000                                  
+SAFRER       UA406       0020POMSAFZEA      O                             1388     24500     60000                                  
+SAFRER       UA406       0030SHIMAFZEA      O                             0975     24500     60000                                  
+SAFRER       UA406       0040ULVASFZEA      O                             0554     24500     60000                                  
+SAFRER       UA406       0050PORATFNEA      O                             0770     24500     60000                                  
+SAFRER       UA406       0060SENALFZEA      O                             0969     24500     60000                                  
+SAFRER       UA406       0070VISMAFZEA      O                             2223     24500     60000                                  
+SAFRER       UA406       0080KWZ  FZD       O                             0217     24500     60000                                  
+SAFRER       UA406       0090LUB  FZD       O                             1295     24500     60000                                  

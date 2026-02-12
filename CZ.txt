@@ -1,0 +1,631 @@
+SEUREAENRT   AGNAV LK           N49340166E012364839                                                                                 
+SEUREAENRT   AMTEK LK           N50001110E0175724100                                                                                
+SEUREAENRT   ANAKO LK           N50093467E017063693                                                                                 
+SEUREAENRT   ASTUT LK           N48454865E016025235                                                                                 
+SEUREAENRT   BABUS LK           N48584913E017180451                                                                                 
+SEUREAENRT   BADUG LK           N49575993E012443049                                                                                 
+SEUREAENRT   BAKOL LK           N50404549E014201210                                                                                 
+SEUREAENRT   BALTU LK           N50052206E013193548                                                                                 
+SEUREAENRT   BAVIN LK           N49564212E014434175                                                                                 
+SEUREAENRT   BAVOK LK           N50001000E018114300                                                                                 
+SEUREAENRT   BERKA LK           N50000610E013534300                                                                                 
+SEUREAENRT   BESNO LK           N50064371E013231913                                                                                 
+SEUREAENRT   BILNA LK           N49233610E0182649100                                                                                
+SEUREAENRT   BISGI LK           N50162044E012393789                                                                                 
+SEUREAENRT   BITSI LK           N49182980E016141073                                                                                 
+SEUREAENRT   BODAL LK           N49275079E015465773                                                                                 
+SEUREAENRT   BOLMU LK           N48590883E016572084                                                                                 
+SEUREAENRT   BUDEX LK           N48565398E014200970                                                                                 
+SEUREAENRT   BULEK LK           N50244766E015035510                                                                                 
+SEUREAENRT   CERNO LK           N49162100E013141200                                                                                 
+SEUREAENRT   DEKOV LK           N50535047E014125899                                                                                 
+SEUREAENRT   DESEN LK           N50161200E0173100100                                                                                
+SEUREAENRT   DEVIN LK           N49580575E014472165                                                                                 
+SEUREAENRT   DOBEN LK           N49462402E013334155                                                                                 
+SEUREAENRT   DOBIL LK           N50021928E015561461                                                                                 
+SEUREAENRT   DOKEL LK           N50373940E014492060                                                                                 
+SEUREAENRT   DOMAL LK           N49054040E0132542100                                                                                
+SEUREAENRT   DONAD LK           N50045093E013000000                                                                                 
+SEUREAENRT   DOPOV LK           N50045093E013073040                                                                                 
+SEUREAENRT   DOTAK LK           N50272739E014165587                                                                                 
+SEUREAENRT   EKTIL LK           N50005000E0175953100                                                                                
+SEUREAENRT   ELMEK LK           N49541404E014014753                                                                                 
+SEUREAENRT   ETATU LK           N50200480E014355965                                                                                 
+SEUREAENRT   ETVIS LK           N49391378E012490281                                                                                 
+SEUREAENRT   EVANA LK           N50232310E0140111100                                                                                
+SEUREAENRT   GOGEL LK           N49530784E014255039                                                                                 
+SEUREAENRT   GUBKO LK           N50093557E017353317                                                                                 
+SEUREAENRT   GUDON LK           N50543238E014512029                                                                                 
+SEUREAENRT   HDO06 LK           N51023500E014210600                                                                                 
+SEUREAENRT   HDO10 LK           N50550000E014390000                                                                                 
+SEUREAENRT   HDO39 LK           N50164881E014360778                                                                                 
+SEUREAENRT   HOLAN LK           N50350874E014294463                                                                                 
+SEUREAENRT   ILNEK LK           N49542604E014001097                                                                                 
+SEUREAENRT   KADNO LK           N50151401E013563978                                                                                 
+SEUREAENRT   KENOK LK           N49512162E014451797                                                                                 
+SEUREAENRT   KERKI LK           N49512512E014453137                                                                                 
+SEUREAENRT   KOLAD LK           N49213910E013051902                                                                                 
+SEUREAENRT   KOMUR LK           N50334446E014345390                                                                                 
+SEUREAENRT   KONAR LK           N50264250E013035608                                                                                 
+SEUREAENRT   KOPIT LK           N50111755E015092863                                                                                 
+SEUREAENRT   KV11F LK           N50145785E012444159                                                                                 
+SEUREAENRT   KV11M LK           N50125026E012523080                                                                                 
+SEUREAENRT   KV11R LK           N50122193E012541441                                                                                 
+SEUREAENRT   KV29F LK           N50085477E013064858                                                                                 
+SEUREAENRT   KV29H LK           N50045637E013105308                                                                                 
+SEUREAENRT   KV29I LK           N50073956E013111336                                                                                 
+SEUREAENRT   KV29L LK           N50133522E012494759                                                                                 
+SEUREAENRT   KV29P LK           N50105039E012594857                                                                                 
+SEUREAENRT   KV29S LK           N50042961E012454107                                                                                 
+SEUREAENRT   KVW03 LK           N50104436E012293636                                                                                 
+SEUREAENRT   KVW04 LK           N50173671E012345567                                                                                 
+SEUREAENRT   KVW11 LK           N50174352E012481291                                                                                 
+SEUREAENRT   KVW13 LK           N50215835E012381915                                                                                 
+SEUREAENRT   KVW14 LK           N50225708E012433395                                                                                 
+SEUREAENRT   LABEG LK           N50282810E014183797                                                                                 
+SEUREAENRT   LABUK LK           N49295469E017243884                                                                                 
+SEUREAENRT   LAGAR LK           N50474299E015220152                                                                                 
+SEUREAENRT   LALES LK           N48515500E0174233100                                                                                
+SEUREAENRT   LALUK LK           N50481510E013524900                                                                                 
+SEUREAENRT   LEDVA LK           N48434400E016472100                                                                                 
+SEUREAENRT   LEMBI LK           N50330286E014525261                                                                                 
+SEUREAENRT   LETKO LK           N49425998E013140854                                                                                 
+SEUREAENRT   LETNA LK           N50053129E014251984                                                                                 
+SEUREAENRT   LIBOC LK           N50071174E014171175                                                                                 
+SEUREAENRT   LIBSI LK           N49482811E014210588                                                                                 
+SEUREAENRT   LOMKI LK           N49543361E013142840                                                                                 
+SEUREAENRT   LUMES LK           N50233389E014404443                                                                                 
+SEUREAENRT   MAREM LK           N50425568E013374379                                                                                 
+SEUREAENRT   MAVOR LK           N48491700E017321500                                                                                 
+SEUREAENRT   MEDOV LK           N49504722E013232371                                                                                 
+SEUREAENRT   MIKOV LK           N48470410E0163715100                                                                                
+SEUREAENRT   MONOV LK           N49433910E017510460                                                                                 
+SEUREAENRT   MORKO LK           N49130900E017013500                                                                                 
+SEUREAENRT   NASKI LK           N50153599E0140805100                                                                                
+SEUREAENRT   NEPOV LK           N49372880E014045145                                                                                 
+SEUREAENRT   NOVUM LK           N49342201E016042401                                                                                 
+SEUREAENRT   ODERA LK           N50541510E014593400                                                                                 
+SEUREAENRT   ODNEM LK           N48511152E017100424                                                                                 
+SEUREAENRT   ODOMO LK           N49535700E012291200                                                                                 
+SEUREAENRT   OKL04 LK           N50045920E014094101                                                                                 
+SEUREAENRT   OKL12 LK           N50113436E014320735                                                                                 
+SEUREAENRT   OKL15 LK           N50051768E013522929                                                                                 
+SEUREAENRT   OKL19 LK           N49543722E014384866                                                                                 
+SEUREAENRT   OKL31 LK           N50040068E014194260                                                                                 
+SEUREAENRT   OKL36 LK           N50080127E014112273                                                                                 
+SEUREAENRT   OKL52 LK           N50141962E014345758                                                                                 
+SEUREAENRT   OKL60 LK           N50145765E013571908                                                                                 
+SEUREAENRT   OKL72 LK           N50064683E013523124                                                                                 
+SEUREAENRT   OKL80 LK           N50095629E014262366                                                                                 
+SEUREAENRT   OKL94 LK           N50103119E014282413                                                                                 
+SEUREAENRT   OMELO LK           N50501600E0140002100                                                                                
+SEUREAENRT   OPAVO LK           N49541991E017463370                                                                                 
+SEUREAENRT   OTA23 LK           N49212991E018233372                                                                                 
+SEUREAENRT   OTA26 LK           N49295028E018420059                                                                                 
+SEUREAENRT   PADKA LK           N49560198E018165977                                                                                 
+SEUREAENRT   PEMUR LK           N50031681E015321765                                                                                 
+SEUREAENRT   PG002 LK           N50042054E014190744                                                                                 
+SEUREAENRT   PG018 LK           N49543849E014384997                                                                                 
+SEUREAENRT   PG041 LK           N50002228E014271250                                                                                 
+SEUREAENRT   PG074 LK           N50010354E014254645                                                                                 
+SEUREAENRT   PG080 LK           N50010120E014255556                                                                                 
+SEUREAENRT   PG085 LK           N50002155E014270499                                                                                 
+SEUREAENRT   PG117 LK           N49582795E014310520                                                                                 
+SEUREAENRT   PR072 LK           N50095201E014261824                                                                                 
+SEUREAENRT   PR087 LK           N50103274E014282577                                                                                 
+SEUREAENRT   PR101 LK           N50194201E0143305100                                                                                
+SEUREAENRT   PR202 LK           N50250000E014092400                                                                                 
+SEUREAENRT   PR302 LK           N50101799E014274200                                                                                 
+SEUREAENRT   PR303 LK           N50122399E0143441100                                                                                
+SEUREAENRT   PR306 LK           N50134110E014263600                                                                                 
+SEUREAENRT   PR307 LK           N50214801E0141929100                                                                                
+SEUREAENRT   PR308 LK           N50162401E0142335100                                                                                
+SEUREAENRT   PR402 LK           N50021781E014005569                                                                                 
+SEUREAENRT   PR403 LK           N49512347E014093364                                                                                 
+SEUREAENRT   PR404 LK           N49400298E014324181                                                                                 
+SEUREAENRT   PR405 LK           N50115778E013503195                                                                                 
+SEUREAENRT   PR406 LK           N50183963E013555977                                                                                 
+SEUREAENRT   PR407 LK           N50203656E014022819                                                                                 
+SEUREAENRT   PR409 LK           N50334747E014470193                                                                                 
+SEUREAENRT   PR411 LK           N49583141E014155173                                                                                 
+SEUREAENRT   PR412 LK           N49425474E014432410                                                                                 
+SEUREAENRT   PR502 LK           N49582999E014155400                                                                                 
+SEUREAENRT   PR506 LK           N49582401E014312400                                                                                 
+SEUREAENRT   PR507 LK           N49444110E014441200                                                                                 
+SEUREAENRT   PR511 LK           N49540232E013285538                                                                                 
+SEUREAENRT   PR512 LK           N50043803E013502445                                                                                 
+SEUREAENRT   PR513 LK           N50105818E014112304                                                                                 
+SEUREAENRT   PR516 LK           N50223171E014314485                                                                                 
+SEUREAENRT   PR517 LK           N50173646E014150894                                                                                 
+SEUREAENRT   PR518 LK           N50130478E014182623                                                                                 
+SEUREAENRT   PR521 LK           N50004082E014134941                                                                                 
+SEUREAENRT   PR522 LK           N49485720E014503619                                                                                 
+SEUREAENRT   PR523 LK           N50030362E014214730                                                                                 
+SEUREAENRT   PR530 LK           N50081156E014390331                                                                                 
+SEUREAENRT   PR531 LK           N50171597E014323254                                                                                 
+SEUREAENRT   PR532 LK           N50124382E014354823                                                                                 
+SEUREAENRT   PR601 LK           N50030510E014101800                                                                                 
+SEUREAENRT   PR604 LK           N50021200E0142341100                                                                                
+SEUREAENRT   PR606 LK           N49594110E0141541100                                                                                
+SEUREAENRT   PR607 LK           N49534200E0142759100                                                                                
+SEUREAENRT   PR608 LK           N49434710E014480000                                                                                 
+SEUREAENRT   PR609 LK           N49475310E014524800                                                                                 
+SEUREAENRT   PR610 LK           N49403510E014343600                                                                                 
+SEUREAENRT   PR612 LK           N49514801E014161800                                                                                 
+SEUREAENRT   PR613 LK           N49412910E014371800                                                                                 
+SEUREAENRT   PR614 LK           N49512400E014093600                                                                                 
+SEUREAENRT   PR615 LK           N49400000E0143241100                                                                                
+SEUREAENRT   PR619 LK           N50083844E014220211                                                                                 
+SEUREAENRT   PR621 LK           N50215750E014082370                                                                                 
+SEUREAENRT   PR622 LK           N50242198E014055470                                                                                 
+SEUREAENRT   PR625 LK           N50101935E014274088                                                                                 
+SEUREAENRT   PR626 LK           N49590931E014294909                                                                                 
+SEUREAENRT   PR627 LK           N49365331E014402615                                                                                 
+SEUREAENRT   PR631 LK           N50111265E014304040                                                                                 
+SEUREAENRT   PR632 LK           N50243294E014170343                                                                                 
+SEUREAENRT   PR633 LK           N50130531E014370103                                                                                 
+SEUREAENRT   PR634 LK           N50165543E014500355                                                                                 
+SEUREAENRT   PR635 LK           N49590631E014393894                                                                                 
+SEUREAENRT   PR701 LK           N50051110E014103000                                                                                 
+SEUREAENRT   PR702 LK           N50074800E0140323100                                                                                
+SEUREAENRT   PR703 LK           N50135400E0140147100                                                                                
+SEUREAENRT   PR707 LK           N49535235E013332170                                                                                 
+SEUREAENRT   PR710 LK           N49580000E0134853100                                                                                
+SEUREAENRT   PR711 LK           N50231048E014382184                                                                                 
+SEUREAENRT   PR712 LK           N50165983E014313201                                                                                 
+SEUREAENRT   PR718 LK           N49504066E014240112                                                                                 
+SEUREAENRT   PR719 LK           N49571566E014205047                                                                                 
+SEUREAENRT   PR721 LK           N49454080E014570906                                                                                 
+SEUREAENRT   PR722 LK           N49514106E014532550                                                                                 
+SEUREAENRT   PR723 LK           N50041021E014453676                                                                                 
+SEUREAENRT   PR740 LK           N49554883E013574519                                                                                 
+SEUREAENRT   PR741 LK           N50045089E013510837                                                                                 
+SEUREAENRT   PR742 LK           N50001991E013542710                                                                                 
+SEUREAENRT   PR801 LK           N50033600E0140535100                                                                                
+SEUREAENRT   PR802 LK           N50054800E0135817100                                                                                
+SEUREAENRT   PR806 LK           N50103510E0134335100                                                                                
+SEUREAENRT   PR807 LK           N49515053E014162006                                                                                 
+SEUREAENRT   PR808 LK           N49413239E014371821                                                                                 
+SEUREAENRT   PR810 LK           N50074200E0141211100                                                                                
+SEUREAENRT   PR811 LK           N50081710E0141059100                                                                                
+SEUREAENRT   PR812 LK           N50061110E0140841100                                                                                
+SEUREAENRT   PR813 LK           N50115008E014033581                                                                                 
+SEUREAENRT   PR814 LK           N50072307E013582568                                                                                 
+SEUREAENRT   PR815 LK           N50134978E013592584                                                                                 
+SEUREAENRT   PR816 LK           N50210562E013585388                                                                                 
+SEUREAENRT   PR816 LK           N49582401E013480000                                                                                 
+SEUREAENRT   PR817 LK           N49580510E0135850100                                                                                
+SEUREAENRT   PR818 LK           N50222864E014101562                                                                                 
+SEUREAENRT   PR819 LK           N50255518E014391596                                                                                 
+SEUREAENRT   PR854 LK           N49572239E014081882                                                                                 
+SEUREAENRT   PR855 LK           N49542619E013525878                                                                                 
+SEUREAENRT   PR856 LK           N50073446E014393211                                                                                 
+SEUREAENRT   PR858 LK           N50201363E014302742                                                                                 
+SEUREAENRT   PR860 LK           N49572079E014333140                                                                                 
+SEUREAENRT   PR861 LK           N50104157E014485868                                                                                 
+SEUREAENRT   PR901 LK           N49514409E014112539                                                                                 
+SEUREAENRT   PR902 LK           N49554827E014235781                                                                                 
+SEUREAENRT   PR903 LK           N49435482E014480516                                                                                 
+SEUREAENRT   PR904 LK           N49475262E014524680                                                                                 
+SEUREAENRT   PR906 LK           N49531927E014414375                                                                                 
+SEUREAENRT   PR912 LK           N49571458E014334454                                                                                 
+SEUREAENRT   PR914 LK           N50082230E014234382                                                                                 
+SEUREAENRT   PR950 LK           N49505003E014523739                                                                                 
+SEUREAENRT   PR951 LK           N50004778E014391688                                                                                 
+SEUREAENRT   PR952 LK           N50064330E014270797                                                                                 
+SEUREAENRT   PR953 LK           N49584471E014174775                                                                                 
+SEUREAENRT   PR954 LK           N50055600E014025419                                                                                 
+SEUREAENRT   PR956 LK           N50000512E013483062                                                                                 
+SEUREAENRT   PR957 LK           N50221353E014265026                                                                                 
+SEUREAENRT   PR958 LK           N50122611E014151954                                                                                 
+SEUREAENRT   PR960 LK           N50104195E013525701                                                                                 
+SEUREAENRT   PR961 LK           N50184262E014021530                                                                                 
+SEUREAENRT   PR962 LK           N50144239E013573578                                                                                 
+SEUREAENRT   R1753 LK           N50065742E014162412                                                                                 
+SEUREAENRT   R1754 LK           N50052568E014165402                                                                                 
+SEUREAENRT   RAPET LK           N50112600E0122018100                                                                                
+SEUREAENRT   RASAN LK           N51004951E015054080                                                                                 
+SEUREAENRT   RASIM LK           N50070995E014395612                                                                                 
+SEUREAENRT   RATIS LK           N49521110E014103000                                                                                 
+SEUREAENRT   RODUX LK           N50563378E014370186                                                                                 
+SEUREAENRT   ROKEM LK           N49313100E013414108                                                                                 
+SEUREAENRT   ROMIS LK           N49073761E018063942                                                                                 
+SEUREAENRT   RUTAN LK           N50593500E0150633100                                                                                
+SEUREAENRT   SLC60 LK           N49130039E018090802                                                                                 
+SEUREAENRT   SOPAV LK           N49555132E018030856                                                                                 
+SEUREAENRT   SUMEK LK           N48440939E016431034                                                                                 
+SEUREAENRT   SUNER LK           N50433220E014145759                                                                                 
+SEUREAENRT   TABEM LK           N49143593E015131730                                                                                 
+SEUREAENRT   TEMLI LK           N49083680E015010701                                                                                 
+SEUREAENRT   TEPNO LK           N50041006E012330272                                                                                 
+SEUREAENRT   VADOV LK           N49074729E013582295                                                                                 
+SEUREAENRT   VALPI LK           N49012810E017570083                                                                                 
+SEUREAENRT   VAMBO LK           N50010147E016254810                                                                                 
+SEUREAENRT   VARIK LK           N50172710E0122251100                                                                                
+SEUREAENRT   VENOX LK           N50331710E0140759100                                                                                
+SEUREAENRT   VOZ40 LK           N50104346E014372496                                                                                 
+SEURDB       VO    LK000333     N50123982E014254234                                                                                 
+SEURDB       BNO   LK000368     N49084137E016460678                                                                                 
+SEURDB       CF    LK000345     N49541447E015255827                                                                                 
+SEURDB       RA    LK000402     N48564660E014305515                                                                                 
+SEURDB       R     LK000830     N48564670E014272960                                                                                 
+SEURDB       D     LK000429     N50050699E014173262                                                                                 
+SEURDB       HLV   LK000448     N49192227E017314223                                                                                 
+SEURDB       KD    LK000300     N50090940E014381182                                                                                 
+SEURDB       KNE   LK000434     N49024735E017270775                                                                                 
+SEURDB       KUN   LK000416     N49065012E017300503                                                                                 
+SEURDB       L     LK000372     N50071174E014171175                                                                                 
+SEURDB       D     LK000398     N49405924E013173927                                                                                 
+SEURDB       LA    LK000563     N49081141E016104660                                                                                 
+SEURDB       XU    LK000514     N49115011E016040047                                                                                 
+SEURDB       GT    LK000574     N49113500E017310400                                                                                 
+SEURDB       PK    LK000432     N50003993E015484687                                                                                 
+SEURDB       CK    LK000441     N49242549E017202115                                                                                 
+SEURDB       RAK   LK000386     N50054941E013412658                                                                                 
+SEURDB       PG    LK000307     N50025174E014220935                                                                                 
+SEURDB       PR    LK000356     N50083900E0142201100                                                                                
+SEURDB       TBV   LK000492     N49474504E016404389                                                                                 
+SEURDB       L     LK000365     N50114484E012563007                                                                                 
+SEURD        BNO   LK011390V    N49090023E016413329                                                                                 
+SEURD        OKG   LK011570V    N50035453E012242066                                                                                 
+SEURD        OKF   LK011315V    N48580903E015324408                                                                                 
+SEURD        OKX   LK011485V    N50540965E015015484                                                                                 
+SEURD        HDO   LK011500V    N50554134E014220768                                                                                 
+SEURD        NER   LK010860V    N50215961E014371691                                                                                 
+SEURD        OTA   LK011745V    N49415097E018063267                                                                                 
+SEURD        OKL   LK011260V    N50054732E014154611                                                                                 
+SEURD        VLM   LK011430V    N49421538E015040027                                                                                 
+SEURD        VOZ   LK011630V    N49315638E014522879                                                                                 
+SEURD        KD    LK010835 D   N50072434E014331218                                                                                 
+SEURD        KVY   LK011155 D   N50115672E012552903                                                                                 
+SEURD        OSV   LK011095 D   N49421610E018073562                                                                                 
+SEURD        LA    LK011135 D   N49093602E016075999                                                                                 
+SEURD        PK    LK010935 D   N50004307E015450670                                                                                 
+SEURD        CK    LK011015 D   N49252446E017233144                                                                                 
+SEURD        PH    LK011115 D   N50061526E014134923                                                                                 
+SEURD        PA    LK010995 D   N50062526E014145838                                                                                 
+SEURD        PR    LK010910 D   N50065603E014160513                                                                                 
+SEURD        PG    LK010950 D   N50052851E014163393                                                                                 
+SEURD        BO    LK011150 D   N49085525E016422741                                                                                 
+SEURD        VO    LK011075 D   N50124842E014242940                                                                                 
+SEURD        BNO   LK011390 D   N49090023E016413329                                                                                 
+SEURD        OKG   LK011570 D   N50035453E012242066                                                                                 
+SEURD        OKF   LK011315 D   N48580903E015324408                                                                                 
+SEURD        OKX   LK011485 D   N50540965E015015484                                                                                 
+SEURD        HDO   LK011500 D   N50554134E014220768                                                                                 
+SEURD        NER   LK010860 D   N50215961E014371691                                                                                 
+SEURD        OTA   LK011745 D   N49415097E018063267                                                                                 
+SEURD        OKL   LK011260 D   N50054732E014154611                                                                                 
+SEURD        VLM   LK011430 D   N49421538E015040027                                                                                 
+SEURD        VOZ   LK011630 D   N49315638E014522879                                                                                 
+SEURD        PSK   LK011760 D   N49470554E014020506                                                                                 
+SEURER       P41         0010BABUSLKEA      O                                      14000     24500                                  
+SEURER       P41         0020MAVORLKEA      O                             0133     14000     24500                                  
+SEURER       L620        0090KOMURLKEA      O                                      09500     24500                                  
+SEURER       L620        0100BAKOLLKEA      O                             0117     09500     24500                                  
+SEURER       L620        0110OMELOLKEA      O                             0159     09500     24500                                  
+SEURER       L620        0120LISBAEDEA      O                             0115     05000     24000                                  
+SEURER       L132        0010BADUGLKEA      O                                      09500     24500                                  
+SEURER       L132        0020KILNUEDEA      O                             0313     09500     24500                                  
+SEURER       Z205        0040BUDEXLKEA      O                                      09500     24500                                  
+SEURER       Z205        0050VENENLOEA      O                             0243     09500     24500                                  
+SEURER       T40         0070HOLANLKEA      RL                                     09500     24500                                  
+SEURER       T40         0080OKX  LKD       RL                            0279     09500     24500                                  
+SEURER       M748        0120HDO  LKD       O                             0109     09500     24500                                  
+SEURER       M748        0130BAKOLLKEA      O                             0150     09500     24500                                  
+SEURER       M748        0140LABEGLKEA      O                             0123     09500     24500                                  
+SEURER       M748        0150OKL  LKD       O                             0228     09500     24500                                  
+SEURER       M748        0160VLM  LKD       O                             0390     09500     24500                                  
+SEURER       M748        0170BODALLKEA      O                             0314     09500     24500                                  
+SEURER       M748        0180BNO  LKD       O                                      09500     24500                                  
+SEURER       M748        0190ODNEMLKEA      O                             0258     09500     24500                                  
+SEURER       M984        0010BOLMULKEA      O                                      10000     24500                                  
+SEURER       M984        0020LEDVALKEA      O                             0168     10000     24500                                  
+SEURER       M984        0110HLV  LKD       O                                      10000     24500                                  
+SEURER       M984        0120TUSINEPEA      O                             0514     10000     24500                                  
+SEURER       B45         0050BILNALKEA      O                             0337     06400     24500                                  
+SEURER       B45         0060EKTILLKEA      O                                      09500     19500                                  
+SEURER       B45         0070NERKIEPEA      O                             0586     09500     19500                                  
+SEURER       P45         0030BILNALKEA      O                                      09500     24500                                  
+SEURER       P45         0040SOPAVLKEA      O                             0357     09500     24500                                  
+SEURER       P45         0050EKTILLKEA      O                             0054     10000     24500                                  
+SEURER       P31         0170MAREMLKEA      O                             0147     09500     24500                                  
+SEURER       P31         0180MEDOVLKEA      O                             0530     09500     24500                                  
+SEURER       P31         0190CERNOLKEA      O                             0350     08000     24000                                  
+SEURER       P31         0200ETIMAEDEA      O                             0088     08000     24000                                  
+SEURER       L984        0010BALTULKEA      O                                      09500     24500                                  
+SEURER       L984        0020DONADLKEA      O                             0126     09500     24500                                  
+SEURER       L984        0030OKG  LKD       O                             0229     09500     24500                                  
+SEURER       L984        0040OKG06EDEA      O                             0055     09500     24500                                  
+SEURER       L984        0050BODALLKEA      O                                      09500     24500                                  
+SEURER       L984        0060NOVUMLKEA      O                             0131     09500     24500                                  
+SEURER       L984        0070TBV  LKD       O                             0271     09500     24500                                  
+SEURER       L984        0080OPAVOLKEA      O                             0430     09500     24500                                  
+SEURER       L984        0090SOPAVLKEA      O                             0108     09500     24500                                  
+SEURER       L984        0100PADKALKEA      O                             0089     09500     28500                                  
+SEURER       L984        0110NOMIXEPEA      O                             0269     09500     28500                                  
+SEURER       L984-       0010BALTULKEA      O                                      09500     24500                                  
+SEURER       L984-       0020RAK  LKD       O                             0140     09500     24500                                  
+SEURER       L984-       0030OKL  LKD       O                             0220     09500     24500                                  
+SEURER       L984-       0040VOZ  LKD       O                             0413     09500     24500                                  
+SEURER       L984-       0050BODALLKEA      O                             0356     09500     24500                                  
+SEURER       N871        0240DOMALLKEA      O                             0062     09500     24500                                  
+SEURER       N871        0250DOBENLKEA      O                             0411     09500     24500                                  
+SEURER       N871        0260RAK  LKD       O                             0201     09500     24500                                  
+SEURER       N871        0270LABEGLKEA      O                             0329     09500     24500                                  
+SEURER       N871        0280HOLANLKEA      O                             0097     09500     24500                                  
+SEURER       N871        0290LAGARLKEA      O                             0354     09500     24500                                  
+SEURER       N871        0300MISKAEPEA      O                             0637     19500     28500                                  
+SEURER       B41-T       0040BAVOKLKEA      O                             0185     09500     19500                                  
+SEURER       T709        0010BAVOKLKEA      RL                                     10000     24500                                  
+SEURER       T709        0020SOPAVLKEA      RL                            0070     10000     24500                                  
+SEURER       W32         0050BNO  LKD       O                                      09500     24500                                  
+SEURER       W32         0060MORKOLKEA      O                             0137     09500     24500                                  
+SEURER       W32         0070HLV  LKD       O                             0206     09500     24500                                  
+SEURER       W35         0030MAVORLKEA      O                             0122     04500     24500                                  
+SEURER       Z36         0060MAREMLKEA      O                             0111     07000     24000                                  
+SEURER       L733        0010RASANLKEA      O                                      24500     28500                                  
+SEURER       L733        0020BENEKEPEA      O                             0354     24500     28500                                  
+SEURER       N869        0400OKG  LKD       O                             0035     09500     24500                                  
+SEURER       N869        0410KONARLKEA      O                             0341     09500     24500                                  
+SEURER       N869        0420SUNERLKEA      O                             0482     09500     24500                                  
+SEURER       N869        0430OKX  LKD       O                             0315     09500     24500                                  
+SEURER       Z21         0010OMELOLKEA      O                                      05000     24000                                  
+SEURER       Z21         0020RIKLUEDEA      O                             0091     05000     24000                                  
+SEURER       L602        0100DONADLKEA      O                                      09500     24500                                  
+SEURER       L602        0110VARIKLKEA      O                             0269     09500     24500                                  
+SEURER       L602        0120PEROXEDEA      O                             0077     07000     24000                                  
+SEURER       A4-M7       0030ODNEMLKEA      O                             0205     03600     24500                                  
+SEURER       P96         0030HDO  LKD       O                             0211     10000     24500                                  
+SEURER       P96         0040HDO10LKEA      O                             0107     10000     24000                                  
+SEURER       P96         0050GUDONLKEA      O                             0078     10000     24000                                  
+SEURER       P96         0060ODERALKEA      O                             0052     19500     28500                                  
+SEURER       P96         0070OKX  LKD       O                             0015     05000     24500                                  
+SEURER       M725        0140HDO06LKEA      O                             0047     05000     24000                                  
+SEURER       M725        0150HDO  LKD       O                             0069     09500     24500                                  
+SEURER       M725        0160KOMURLKEA      O                             0234     09500     24500                                  
+SEURER       M725        0170LUMESLKEA      O                             0108     09500     24500                                  
+SEURER       M725        0180VLM  LKD       O                             0440     09500     24500                                  
+SEURER       M725        0190TABEMLKEA      O                             0283     09500     24500                                  
+SEURER       L858        0040TABEMLKEA      O                                      09500     24500                                  
+SEURER       L858        0050VOZ  LKD       O                             0220     09500     24500                                  
+SEURER       M748-       0010BNO  LKD       O                                      09500     24500                                  
+SEURER       M748-       0020BITSILKEA      O                             0203     09500     24500                                  
+SEURER       M748-       0030BODALLKEA      O                             0200     09500     24500                                  
+SEURER       T106        0040KOLADLKEA      RL                                     09500     24500                                  
+SEURER       T106        0050LETKOLKEA      RL                            0221     09500     24500                                  
+SEURER       T106        0060MAREMLKEA      RL                            0618     09500     24500                                  
+SEURER       M984-       0010BOLMULKEA      O                                      09500     24500                                  
+SEURER       M984-       0020HLV  LKD       O                             0303     09500     24500                                  
+SEURER       T43         0010BOLMULKEA      RL                                     09500     24500                                  
+SEURER       T43         0020MIKOVLKEA      RL                            0179     09500     24500                                  
+SEURER       T43         0030STO  LOD       RL                            0325     05000     24500                                  
+SEURER       T43         0090HLV  LKD       RL                                     09500     24500                                  
+SEURER       T43         0100SOPAVLKEA      RL                            0418     09500     24500                                  
+SEURER       Z37         0050BUDEXLKEA      O                             0219     09500     24500                                  
+SEURER       Z37         0060VADOVLKEA      O                             0180     09500     24500                                  
+SEURER       Z37         0070VEMUTEDEA      O                             0713     09500     24500                                  
+SEURER       Y444        0010BULEKLKEA      O                                      09500     24500                                  
+SEURER       Y444        0020LEMBILKEA      O                             0108     09500     24500                                  
+SEURER       Y444        0030HDO  LKD       O                             0299     09500     24500                                  
+SEURER       T44         0010HLV  LKD       RL                                     09500     24500                                  
+SEURER       T44         0020MAVORLKEA      RL                            0301     09500     24500                                  
+SEURER       T48         0040DOMALLKEA      RL                                     09500     24500                                  
+SEURER       T48         0050LIBSILKEA      RL                            0560     09500     24500                                  
+SEURER       P733        0050OKX  LKD       O                             0086     24500     28500                                  
+SEURER       UL602       0040BNO  LKD       O                                      24500     66000                                  
+SEURER       UL602       0050ILNEKLKEA      O                             1142     24500     66000                                  
+SEURER       UL602       0060DONADLKEA      O                             0401     24500     66000                                  
+SEURER       UL602       0070VARIKLKEA      O                             0269     24500     66000                                  
+SEURER       UL602       0080PEROXEDEA      O                             0077     25000     66000                                  
+SEURER       UL602       0200LALESLKEA      O                             0738     24500     66000                                  
+SEURER       Y621        0010DEKOVLKEA      O                                      05000     66000                                  
+SEURER       Y621        0020ESLOREDEA      O                             0102     05000     66000                                  
+SEURER       Z31         0010DEKOVLKEA      O                                      09500     24500                                  
+SEURER       Z31         0020KOMURLKEA      O                             0244     09500     24500                                  
+SEURER       P861        0050RUTANLKEA      O                             0498     24500     28500                                  
+SEURER       P861        0060OKX  LKD       O                             0062     10000     24500                                  
+SEURER       T170        0010DONADLKEA      RL                                     09500     24500                                  
+SEURER       T170        0020RAPETLKEA      RL                            0263     09500     24500                                  
+SEURER       T170        0030URONAEDEA      RL                            0161     07000     66000                                  
+SEURER       L616        0010DESENLKEA      O                                      24500     28500                                  
+SEURER       L616        0020PEKOTEPEA      O                             0076     24500     28500                                  
+SEURER       M174        0010TEMLILKEA      O                                      09500     24500                                  
+SEURER       M174        0020DILITLOEA      O                             0197     05500     24500                                  
+SEURER       T620        0030LALUKLKEA      RL                            0084     05000     66000                                  
+SEURER       M992-       0010GUBKOLKEA      O                                      09500     19500                                  
+SEURER       M992-       0020ROKEDEPEA      O                             0210     09500     19500                                  
+SEURER       T206        0010HDO  LKD       RL                                     05000     24000                                  
+SEURER       T206        0020LOBMAEDEA      RL                            0136     05000     24000                                  
+SEURER       P27         0010HLV  LKD       O                                      09500     24500                                  
+SEURER       P27         0020MAKALLZEA      O                             0254     09500     24500                                  
+SEURER       T42         0010HLV  LKD       RL                                     09500     24500                                  
+SEURER       T42         0020TBV  LKD       RL                            0436     09500     24500                                  
+SEURER       T49         0010MAREMLKEA      RL                                     09500     24500                                  
+SEURER       T49         0020KONARLKEA      RL                            0269     09500     24500                                  
+SEURER       T49         0030RAPETLKEA      RL                            0318     09500     24500                                  
+SEURER       L858-       0020OKF  LKD       O                             0056     09500     24500                                  
+SEURER       L858-       0030TABEMLKEA      O                             0208     09500     24500                                  
+SEURER       Z30         0030LOMKILKEA      O                                      09500     24500                                  
+SEURER       Z30         0040RAK  LKD       O                             0207     09500     24500                                  
+SEURER       Z38         0010LETKOLKEA      O                                      09500     24500                                  
+SEURER       Z38         0020MEDOVLKEA      O                             0098     09500     24500                                  
+SEURER       Z38         0030RAK  LKD       O                             0190     09500     24500                                  
+SEURER       T204        0010LUMESLKEA      RL                                     09500     24500                                  
+SEURER       T204        0020RODUXLKEA      RL                            0331     05000     66000                                  
+SEURER       T204        0030LOBMAEDEA      RL                            0108     05000     66000                                  
+SEURER       Z35         0010LOMKILKEA      O                                      09500     24500                                  
+SEURER       Z35         0020ODOMOLKEA      O                             0292     09500     24500                                  
+SEURER       Z35         0030TIPAMEDEA      O                             0125     07500     24000                                  
+SEURER       L859        0010MIKOVLKEA      O                                      05000     24500                                  
+SEURER       L859        0020WGM  LOD       O                             0282     05000     24500                                  
+SEURER       N869-       0010OKX  LKD       O                                      10000     24500                                  
+SEURER       N869-       0020UVSOVEPEA      O                             0103     10000     24500                                  
+SEURER       UL617       0180OTA23LKEA      O                             0825     24500     66000                                  
+SEURER       UL617       0190SOPAVLKEA      O                             0368     24500     66000                                  
+SEURER       UL617       0200REGLIEPEA      O                             0064     28500     46000                                  
+SEURER       UL602       0010BNO  LKD       O                                      24500     66000                                  
+SEURER       UL602       0020BABUSLKEA      O                             0260     24500     66000                                  
+SEURER       UL602       0030LALESLKEA      O                             0175     24500     66000                                  
+SEURER       UP41        0010BULEKLKEA      O                                      24500     66000                                  
+SEURER       UP41        0020BABUSLKEA      O                             1222     24500     66000                                  
+SEURER       UP41        0030MAVORLKEA      O                             0133     24500     66000                                  
+SEURER       UP41        0040LEMBILKEA      O                                      24500     66000                                  
+SEURER       UP41        0050RODUXLKEA      O                             0256     24500     66000                                  
+SEURER       UL620       0160ROMISLKEA      O                                      24500     66000                                  
+SEURER       UL620       0170HLV  LKD       O                             0257     24500     66000                                  
+SEURER       UL620       0180PEMURLKEA      O                             0889     24500     66000                                  
+SEURER       UL620       0190KOPITLKEA      O                             0167     24500     66000                                  
+SEURER       UL620       0200KOMURLKEA      O                                      24500     66000                                  
+SEURER       UL620       0210OMELOLKEA      O                             0276     25000     66000                                  
+SEURER       UL620       0220BESIPEDEA      O                             0204     25000     66000                                  
+SEURER       UM984       0010BOLMULKEA      O                                      24500     66000                                  
+SEURER       UM984       0020SUMEKLKEA      O                             0177     24500     66000                                  
+SEURER       UM984       0030GISPOLOEA      O                             0449     24500     60000                                  
+SEURER       UM984       0190HLV  LKD       O                                      24500     66000                                  
+SEURER       UM984       0200TUSINEPEA      O                             0514     24500     66000                                  
+SEURER       UL867       0140OTA26LKEA      O                             0661     24500     66000                                  
+SEURER       UL867       0150SOPAVLKEA      O                             0362     24500     66000                                  
+SEURER       UP45        0070BILNALKEA      O                             0191     24500     66000                                  
+SEURER       UP45        0080SOPAVLKEA      O                             0357     24500     66000                                  
+SEURER       UP31        0160MAREMLKEA      O                             0147     24500     66000                                  
+SEURER       UP31        0170MEDOVLKEA      O                             0530     24500     66000                                  
+SEURER       UP31        0180CERNOLKEA      O                             0350     25000     66000                                  
+SEURER       UP31        0190ETIMAEDEA      O                             0088     25000     66000                                  
+SEURER       UZ160       0040OKG  LKD       O                             0041     24500     66000                                  
+SEURER       UN871       0160NEPOVLKEA      O                             0490     25000     66000                                  
+SEURER       UN871       0170LETNALKEA      O                             0310     24500     66000                                  
+SEURER       UN871       0180DOKELLKEA      O                             0356     24500     66000                                  
+SEURER       UN871       0190LAGARLKEA      O                             0230     24500     66000                                  
+SEURER       UN871       0200GIGALEPEA      O                             0458     28500     46000                                  
+SEURER       UL858       0010HDO  LKD       O                                      24500     66000                                  
+SEURER       UL858       0020BAVINLKEA      O                             0606     24500     66000                                  
+SEURER       UL858       0030VOZ  LKD       O                             0254     24500     66000                                  
+SEURER       UL858       0040TABEMLKEA      O                             0220     24500     66000                                  
+SEURER       UL858       0050OKF  LKD       O                             0208     24500     66000                                  
+SEURER       UT204       0010BAVINLKEA      O                                      24500     66000                                  
+SEURER       UT204       0020LUMESLKEA      O                             0269     24500     66000                                  
+SEURER       UT204       0030RODUXLKEA      O                             0331     24500     66000                                  
+SEURER       UZ36        0060MAREMLKEA      O                             0111     25000     66000                                  
+SEURER       UL733       0050RASANLKEA      O                             0354     28500     46000                                  
+SEURER       UL733       0060OKX  LKD       O                             0071     24500     66000                                  
+SEURER       UN869       0440OKG  LKD       O                             0035     24500     66000                                  
+SEURER       UN869       0450KONARLKEA      O                             0341     24500     66000                                  
+SEURER       UN869       0460OKX  LKD       O                             0797     24500     66000                                  
+SEURER       UN869       0470UVSOVEPEA      O                             0103     28500     46000                                  
+SEURER       UT44        0030MAVORLKEA      O                             0122     24500     66000                                  
+SEURER       UT44        0040HLV  LKD       O                             0301     24500     66000                                  
+SEURER       UM748       0120HDO  LKD       O                             0109     25000     66000                                  
+SEURER       UM748       0130KOPITLKEA      O                                      24500     66000                                  
+SEURER       UM748       0140BNO  LKD       O                             0863     24500     66000                                  
+SEURER       UM748       0150ODNEMLKEA      O                             0258     24500     66000                                  
+SEURER       UM748       0160BERVALZEA      O                             0205     24500     66000                                  
+SEURER       UP96        0030HDO  LKD       O                             0211     25000     66000                                  
+SEURER       UP96        0040HDO10LKEA      O                             0107     25000     66000                                  
+SEURER       UP96        0050GUDONLKEA      O                             0078     25000     66000                                  
+SEURER       UP96        0060ODERALKEA      O                             0052     28500     46000                                  
+SEURER       UP96        0070OKX  LKD       O                             0015     25000     66000                                  
+SEURER       UM725       0260HDO06LKEA      O                             0047     25000     66000                                  
+SEURER       UM725       0270HDO  LKD       O                             0069     24500     66000                                  
+SEURER       UM725       0380KOMURLKEA      O                                      24500     66000                                  
+SEURER       UM725       0390LUMESLKEA      O                             0108     24500     66000                                  
+SEURER       UM725       0400VLM  LKD       O                             0440     24500     66000                                  
+SEURER       UM725       0410OKF  LKD       O                             0479     24500     66000                                  
+SEURER       UZ21        0150OMELOLKEA      O                             0091     25000     66000                                  
+SEURER       UL726       0010BNO  LKD       O                                      24500     66000                                  
+SEURER       UL726       0020BODALLKEA      O                             0403     24500     66000                                  
+SEURER       UL726       0030VLM  LKD       O                             0314     24500     66000                                  
+SEURER       UL726       0040LALESLKEA      O                                      24500     66000                                  
+SEURER       UL726       0050SLC  LZD       O                             0610     24500     66000                                  
+SEURER       UT47        0010BNO  LKD       O                                      24500     66000                                  
+SEURER       UT47        0020HLV  LKD       O                             0344     24500     66000                                  
+SEURER       UP27        0010BODALLKEA      O                                      24500     28500                                  
+SEURER       UP27        0020HLV  LKD       O                             0687     24500     28500                                  
+SEURER       UP27        0030MAKALLZEA      O                             0254     24500     28500                                  
+SEURER       UT45        0010VOZ  LKD       O                                      24500     66000                                  
+SEURER       UT45        0020BODALLKEA      O                             0356     24500     66000                                  
+SEURER       UT45        0030TBV  LKD       O                             0401     24500     66000                                  
+SEURER       UT45        0040SOPAVLKEA      O                             0538     24500     66000                                  
+SEURER       UM984       0010BOLMULKEA      O                                      24500     66000                                  
+SEURER       UM984       0020HLV  LKD       O                             0303     24500     66000                                  
+SEURER       UT43        0010BOLMULKEA      O                                      24500     66000                                  
+SEURER       UT43        0020MIKOVLKEA      O                             0179     24500     66000                                  
+SEURER       UT43        0030STO  LOD       O                             0325     24500     60000                                  
+SEURER       UT43        0040HLV  LKD       O                                      24500     66000                                  
+SEURER       UT43        0050SOPAVLKEA      O                             0418     24500     66000                                  
+SEURER       UZ38        0050LETKOLKEA      O                                      24500     66000                                  
+SEURER       UZ38        0060MEDOVLKEA      O                             0098     24500     66000                                  
+SEURER       UZ38        0070RAK  LKD       O                             0190     24500     66000                                  
+SEURER       UZ39        0030DOBENLKEA      O                                      24500     66000                                  
+SEURER       UZ39        0040DOMALLKEA      O                             0411     24500     66000                                  
+SEURER       UZ39        0050LUSANEDEA      O                             0062     24500     66000                                  
+SEURER       UL984       0210OKG  LKD       O                             0055     24500     66000                                  
+SEURER       UL984       0220DONADLKEA      O                             0229     24500     66000                                  
+SEURER       UL984       0230DOPOVLKEA      O                             0048     24500     66000                                  
+SEURER       UL984       0240RAK  LKD       O                             0218     24500     66000                                  
+SEURER       UL984       0250OKL  LKD       O                             0220     24500     66000                                  
+SEURER       UL984       0260LETNALKEA      O                             0061     24500     66000                                  
+SEURER       UL984       0270PEMURLKEA      O                             0431     24500     66000                                  
+SEURER       UL984       0280DOBILLKEA      O                             0154     24500     66000                                  
+SEURER       UL984       0290VAMBOLKEA      O                             0190     24500     66000                                  
+SEURER       UL984       0300SOPAVLKEA      O                             0629     28500     46000                                  
+SEURER       UL984       0310PADKALKEA      O                             0089     28500     46000                                  
+SEURER       UL984       0320SKAVIEPEA      O                             0625     28500     46000                                  
+SEURER       UZ37        0050BUDEXLKEA      O                             0219     24500     66000                                  
+SEURER       UZ37        0060VADOVLKEA      O                             0180     24500     66000                                  
+SEURER       UZ37        0070VEMUTEDEA      O                             0713     24500     66000                                  
+SEURER       UZ205       0010BUDEXLKEA      O                                      24500     66000                                  
+SEURER       UZ205       0020VENENLOEA      O                             0243     24500     66000                                  
+SEURER       UY444       0010BULEKLKEA      O                                      24500     66000                                  
+SEURER       UY444       0020DOBILLKEA      O                             0403     24500     66000                                  
+SEURER       UY444       0030LABUKLKEA      O                             0657     24500     66000                                  
+SEURER       UY444       0040SLC60LKEA      O                             0336     24500     66000                                  
+SEURER       UY444       0050RUKUSLZEA      O                             0268     24500     66000                                  
+SEURER       UY444       0060HDO  LKD       O                                      24500     66000                                  
+SEURER       UY444       0070LEMBILKEA      O                             0299     24500     66000                                  
+SEURER       UP41-       0010BULEKLKEA      O                                      24500     66000                                  
+SEURER       UP41-       0020LEMBILKEA      O                             0108     24500     66000                                  
+SEURER       UT40        0060DOPOVLKEA      O                                      24500     66000                                  
+SEURER       UT40        0070DOTAKLKEA      O                             0498     24500     66000                                  
+SEURER       UT40        0080OKX  LKD       O                             0391     24500     66000                                  
+SEURER       UP733       0050OKX  LKD       O                             0086     24500     66000                                  
+SEURER       UP861       0010DOKELLKEA      O                                      24500     66000                                  
+SEURER       UP861       0020OKX  LKD       O                             0183     24500     66000                                  
+SEURER       UP861       0030RUTANLKEA      O                             0062     28500     46000                                  
+SEURER       UP861       0040LATAGEPEA      O                             0498     28500     46000                                  
+SEURER       UL616       0050DESENLKEA      O                             0076     24500     66000                                  
+SEURER       UL616       0060MONOVLKEA      O                             0350     24500     66000                                  
+SEURER       UL616       0070VALPILKEA      O                             0424     24500     66000                                  
+SEURER       UL616       0080NIT  LZD       O                             0443     24500     66000                                  
+SEURER       UM174       0010TEMLILKEA      O                                      24500     66000                                  
+SEURER       UM174       0020DILITLOEA      O                             0197     24500     66000                                  
+SEURER       UT42        0010DOBILLKEA      O                                      24500     66000                                  
+SEURER       UT42        0020LALESLKEA      O                             0987     24500     66000                                  
+SEURER       UZ30        0010DOKELLKEA      O                                      24500     66000                                  
+SEURER       UZ30        0020DOTAKLKEA      O                             0230     24500     66000                                  
+SEURER       UZ30        0030RAK  LKD       O                             0314     24500     66000                                  
+SEURER       UZ30        0040LOMKILKEA      O                             0207     24500     66000                                  
+SEURER       UT48        0010DOMALLKEA      O                                      24500     66000                                  
+SEURER       UT48        0020LIBSILKEA      O                             0560     24500     66000                                  
+SEURER       UT170       0010DONADLKEA      O                                      24500     66000                                  
+SEURER       UT170       0020RAPETLKEA      O                             0263     24500     66000                                  
+SEURER       UT106       0090KOLADLKEA      O                                      24500     66000                                  
+SEURER       UT106       0100LETKOLKEA      O                             0221     24500     66000                                  
+SEURER       UT106       0110MAREMLKEA      O                             0618     24500     66000                                  
+SEURER       UZ650       0060ROKEMLKEA      O                             0508     24500     66000                                  
+SEURER       UZ650       0070ODNEMLKEA      O                             1421     24500     66000                                  
+SEURER       UZ650       0080LITKULHEA      O                             1036     24500     66000                                  
+SEURER       UM725       0010HDO  LKD       O                                      24500     66000                                  
+SEURER       UM725       0020KOMURLKEA      O                             0234     24500     66000                                  
+SEURER       UL620       0010KOMURLKEA      O                                      24500     66000                                  
+SEURER       UL620       0020KOPITLKEA      O                             0315     24500     66000                                  
+SEURER       UT49        0010MAREMLKEA      O                                      24500     66000                                  
+SEURER       UT49        0020KONARLKEA      O                             0269     24500     66000                                  
+SEURER       UT49        0030RAPETLKEA      O                             0318     24500     66000                                  
+SEURER       UL858       0020OKF  LKD       O                             0056     24500     66000                                  
+SEURER       UZ35        0010LOMKILKEA      O                                      24500     66000                                  
+SEURER       UZ35        0020ODOMOLKEA      O                             0292     24500     66000                                  
+SEURER       UZ35        0030TIPAMEDEA      O                             0125     25000     66000                                  
+SEURER       UL601       0020ROMISLKEA      O                             0312     24500     66000                                  
+SEURER       UL993       0010ODNEMLKEA      O                                      24500     66000                                  
+SEURER       UL993       0020VOZ  LKD       O                             0988     24500     66000                                  

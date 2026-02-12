@@ -1,0 +1,592 @@
+SEUREAENRT   ABARI LS           N47245900E0065632100                                                                                
+SEUREAENRT   AFOLT LS           N47143817E008282598                                                                                 
+SEUREAENRT   AGERI LS           N47070110E008361800                                                                                 
+SEUREAENRT   AKASU LS           N46063410E008294400                                                                                 
+SEUREAENRT   ALBIX LS           N47145810E0083351100                                                                                
+SEUREAENRT   ALETO LS           N46231710E007524000                                                                                 
+SEUREAENRT   AMIKI LS           N47342527E009021519                                                                                 
+SEUREAENRT   AMRIS LS           N47301500E0092259100                                                                                
+SEUREAENRT   AOSTA LS           N45474700E0072044100                                                                                
+SEUREAENRT   ARGAX LS           N47025910E009175300                                                                                 
+SEUREAENRT   ARNOT LS           N47240710E0065511100                                                                                
+SEUREAENRT   ARTAG LS           N47095110E008305000                                                                                 
+SEUREAENRT   ARVAN LS           N47135300E007434100                                                                                 
+SEUREAENRT   BADEP LS           N47013710E0072527100                                                                                
+SEUREAENRT   BALIR LS           N47182910E007165300                                                                                 
+SEUREAENRT   BANIN LS           N47352400E0091941100                                                                                
+SEUREAENRT   BARIG LS           N47160610E0083339100                                                                                
+SEUREAENRT   BASGO LS           N46162300E0082819100                                                                                
+SEUREAENRT   BASKI LS           N47162710E0081604100                                                                                
+SEUREAENRT   BASUD LS           N47221800E0073727100                                                                                
+SEUREAENRT   BELAR LS           N47072359E007335215                                                                                 
+SEUREAENRT   BENOT LS           N47032800E007102200                                                                                 
+SEUREAENRT   BERSU LS           N47080800E007562900                                                                                 
+SEUREAENRT   BIBAN LS           N45553200E0072702100                                                                                
+SEUREAENRT   BIBOT LS           N46450500E006243700                                                                                 
+SEUREAENRT   BINGI LS           N47145300E0075005100                                                                                
+SEUREAENRT   BIRKI LS           N47004710E0072237100                                                                                
+SEUREAENRT   BREGO LS           N47232400E008204800                                                                                 
+SEUREAENRT   CANNE LS           N46100000E0085251100                                                                                
+SEUREAENRT   CERVI LS           N45581110E007324300                                                                                 
+SEUREAENRT   DALIK LS           N47312816E008405330                                                                                 
+SEUREAENRT   DEGAD LS           N46260910E0083705100                                                                                
+SEUREAENRT   DEGES LS           N47244500E0091206100                                                                                
+SEUREAENRT   DELMO LS           N47152800E007093600                                                                                 
+SEUREAENRT   DEREM LS           N46212390E006103450                                                                                 
+SEUREAENRT   DINOX LS           N46400000E0060710100                                                                                
+SEUREAENRT   DITON LS           N47180710E0081959100                                                                                
+SEUREAENRT   DOPIL LS           N47041200E008010000                                                                                 
+SEUREAENRT   DOTAN LS           N47314500E0081326100                                                                                
+SEUREAENRT   EDUMI LS           N47454100E0082730100                                                                                
+SEUREAENRT   EGABI LS           N47182599E0083948100                                                                                
+SEUREAENRT   EKRIT LS           N47342010E0080142100                                                                                
+SEUREAENRT   ELMUR LS           N47092400E008542700                                                                                 
+SEUREAENRT   ESEVA LS           N46480710E0070052100                                                                                
+SEUREAENRT   FLORY LS           N46543010E0063505100                                                                                
+SEUREAENRT   FRI14 LS           N46522965E007232286                                                                                 
+SEUREAENRT   FRI25 LS           N46301167E006460464                                                                                 
+SEUREAENRT   GALBI LS           N46434400E0060836100                                                                                
+SEUREAENRT   GARLO LS           N45522710E007450100                                                                                 
+SEUREAENRT   GERSA LS           N47022110E0083155100                                                                                
+SEUREAENRT   GG507 LS           N46262699E006120000                                                                                 
+SEUREAENRT   GG512 LS           N46234999E006325701                                                                                 
+SEUREAENRT   GG514 LS           N46322501E006204898                                                                                 
+SEUREAENRT   GIPOL LS           N47301900E0080226100                                                                                
+SEUREAENRT   GOBAM LS           N46280610E006265302                                                                                 
+SEUREAENRT   GOLKE LS           N47315410E0075320100                                                                                
+SEUREAENRT   GRANA LS           N46170010E0073156100                                                                                
+SEUREAENRT   GUDAX LS           N46470410E007292500                                                                                 
+SEUREAENRT   HOC01 LS           N47293269E007251845                                                                                 
+SEUREAENRT   HOC11 LS           N47244788E007252521                                                                                 
+SEUREAENRT   HR012 LS           N47281010E0065939100                                                                                
+SEUREAENRT   HR028 LS           N47261600E0072412100                                                                                
+SEUREAENRT   ISW17 LS           N46270726E006255193                                                                                 
+SEUREAENRT   KELIP LS           N46572110E008454200                                                                                 
+SEUREAENRT   KESEX LS           N47140410E008430000                                                                                 
+SEUREAENRT   KLO00 LS           N47284970E008322560                                                                                 
+SEUREAENRT   KLO03 LS           N47301298E008351415                                                                                 
+SEUREAENRT   KLO04 LS           N47315447E008281297                                                                                 
+SEUREAENRT   KLO06 LS           N47265244E008413269                                                                                 
+SEUREAENRT   KLO07 LS           N47203900E008321455                                                                                 
+SEUREAENRT   KLO08 LS           N47345205E008241483                                                                                 
+SEUREAENRT   KLO09 LS           N47323585E008433588                                                                                 
+SEUREAENRT   KLO28 LS           N47274323E008284296                                                                                 
+SEUREAENRT   KLO63 LS           N47272910E008233000                                                                                 
+SEUREAENRT   KLOD9 LS           N47375244E008254645                                                                                 
+SEUREAENRT   KOLUL LS           N47280001E008490900                                                                                 
+SEUREAENRT   KONIL LS           N46340638E006273010                                                                                 
+SEUREAENRT   KONOL LS           N46594300E0074050100                                                                                
+SEUREAENRT   KORED LS           N46510200E007245100                                                                                 
+SEUREAENRT   KUBOM LS           N47260910E0065644100                                                                                
+SEUREAENRT   KUDIS LS           N47262710E0085800100                                                                                
+SEUREAENRT   LAGOS LS           N47322710E009315300                                                                                 
+SEUREAENRT   LAMAX LS           N47370110E0085401100                                                                                
+SEUREAENRT   LAMUR LS           N46344610E007135300                                                                                 
+SEUREAENRT   LARDO LS           N47053610E0072157100                                                                                
+SEUREAENRT   LASUN LS           N47245100E0073214100                                                                                
+SEUREAENRT   LEPLA LS           N47203510E0072157100                                                                                
+SEUREAENRT   LUKOM LS           N46350510E0084530100                                                                                
+SEUREAENRT   LUMEL LS           N47242510E007091400                                                                                 
+SEUREAENRT   LUTIX LS           N47095310E007221400                                                                                 
+SEUREAENRT   MALUS LS           N46494110E008334500                                                                                 
+SEUREAENRT   MANEG LS           N47121500E0084319100                                                                                
+SEUREAENRT   MANID LS           N47160210E0084140100                                                                                
+SEUREAENRT   MASAB LS           N46235597E0075444100                                                                                
+SEUREAENRT   MATIV LS           N47350600E0091104100                                                                                
+SEUREAENRT   ME101 LS           N47140457E008342455                                                                                 
+SEUREAENRT   MEGIM LS           N47052897E0072106100                                                                                
+SEUREAENRT   MILNI LS           N47174697E0083932100                                                                                
+SEUREAENRT   MOLUS LS           N46263800E0064045100                                                                                
+SEUREAENRT   MOMOL LS           N47274100E0084015100                                                                                
+SEUREAENRT   MONIN LS           N46410210E0075917100                                                                                
+SEUREAENRT   MOSIT LS           N47040900E008443800                                                                                 
+SEUREAENRT   MOT25 LS           N46175310E0080559100                                                                                
+SEUREAENRT   NATLI LS           N47293010E0073025100                                                                                
+SEUREAENRT   NEMOS LS           N46544210E006542400                                                                                 
+SEUREAENRT   OBEDU LS           N47152900E008151800                                                                                 
+SEUREAENRT   ODINA LS           N46061510E0083953100                                                                                
+SEUREAENRT   OLBEN LS           N47181510E0073745100                                                                                
+SEUREAENRT   ORSUD LS           N45572800E007105400                                                                                 
+SEUREAENRT   OSDAN LS           N47290201E008492400                                                                                 
+SEUREAENRT   PELAD LS           N46355600E0094332100                                                                                
+SEUREAENRT   PETAL LS           N46220998E0061803100                                                                                
+SEUREAENRT   PINOB LS           N47145710E0082702100                                                                                
+SEUREAENRT   PUNSA LS           N46044210E0080132100                                                                                
+SEUREAENRT   R2275 LS           N46505739E006553004                                                                                 
+SEUREAENRT   R2277 LS           N47055997E008184935                                                                                 
+SEUREAENRT   R2278 LS           N47285554E008320985                                                                                 
+SEUREAENRT   RAPEX LS           N47161800E008424100                                                                                 
+SEUREAENRT   RESIA LS           N46284110E0100235100                                                                                
+SEUREAENRT   REVLI LS           N46351010E0064435100                                                                                
+SEUREAENRT   RIPUS LS           N47153700E008300000                                                                                 
+SEUREAENRT   RISLI LS           N47271100E008302700                                                                                 
+SEUREAENRT   ROLSA LS           N47172210E008532100                                                                                 
+SEUREAENRT   ROMGA LS           N47292600E0092412100                                                                                
+SEUREAENRT   ROMOM LS           N46405110E006581402                                                                                 
+SEUREAENRT   RONAK LS           N46483800E010090200                                                                                 
+SEUREAENRT   RONIX LS           N47134110E0082729100                                                                                
+SEUREAENRT   ROTOS LS           N47112310E007433100                                                                                 
+SEUREAENRT   SAFFA LS           N47420710E008473800                                                                                 
+SEUREAENRT   SANET LS           N46195410E007163200                                                                                 
+SEUREAENRT   SITOR LS           N47303310E009200700                                                                                 
+SEUREAENRT   SOPER LS           N46532110E0085639100                                                                                
+SEUREAENRT   SOSAL LS           N46332902E006530398                                                                                 
+SEUREAENRT   SOSON LS           N46362400E008353900                                                                                 
+SEUREAENRT   SOVAD LS           N46201410E0060253100                                                                                
+SEUREAENRT   SPR06 LS           N46310661E006342477                                                                                 
+SEUREAENRT   SPR11 LS           N46203465E006471650                                                                                 
+SEUREAENRT   SPR12 LS           N46340541E006415737                                                                                 
+SEUREAENRT   SPR14 LS           N46371910E006113000                                                                                 
+SEUREAENRT   SPR15 LS           N46161985E006374652                                                                                 
+SEUREAENRT   SPR20 LS           N46112110E0064238100                                                                                
+SEUREAENRT   SPR29 LS           N46034810E006494100                                                                                 
+SEUREAENRT   SUGIS LS           N46571710E0070553100                                                                                
+SEUREAENRT   SUREP LS           N47095500E0080038100                                                                                
+SEUREAENRT   TELNO LS           N46461810E0071614100                                                                                
+SEUREAENRT   TRA04 LS           N47413582E008320807                                                                                 
+SEUREAENRT   TRA10 LS           N47354622E008135804                                                                                 
+SEUREAENRT   TURDO LS           N47265200E006580500                                                                                 
+SEUREAENRT   ULMES LS           N46571710E007173300                                                                                 
+SEUREAENRT   URIGI LS           N47033200E0082448100                                                                                
+SEUREAENRT   URNAS LS           N47000710E0083817100                                                                                
+SEUREAENRT   UTIXO LS           N47150810E0084119100                                                                                
+SEUREAENRT   VADAR LS           N46392510E0064512100                                                                                
+SEUREAENRT   VADEM LS           N46431800E0062859100                                                                                
+SEUREAENRT   VALOR LS           N46033410E006582600                                                                                 
+SEUREAENRT   VEBEG LS           N47211710E0093553100                                                                                
+SEUREAENRT   VEBIT LS           N47160610E0080020100                                                                                
+SEUREAENRT   VEROX LS           N46433810E0063423100                                                                                
+SEUREAENRT   WIL01 LS           N47123402E007350278                                                                                 
+SEUREAENRT   ZA506 LS           N46051399E0085408100                                                                                
+SEUREAENRT   ZA602 LS           N46051310E0085408100                                                                                
+SEUREAENRT   ZB505 LS           N47030202E007294200                                                                                 
+SEUREAENRT   ZB506 LS           N47050910E007363300                                                                                 
+SEUREAENRT   ZB520 LS           N46573910E007355200                                                                                 
+SEUREAENRT   ZB526 LS           N46512902E0073607100                                                                                
+SEUREAENRT   ZB527 LS           N46481199E0074327100                                                                                
+SEUREAENRT   ZB528 LS           N46442198E007515900                                                                                 
+SEUREAENRT   ZB581 LS           N46560499E0071932100                                                                                
+SEUREAENRT   ZB607 LS           N47050910E007363300                                                                                 
+SEUREAENRT   ZB608 LS           N47030202E007294200                                                                                 
+SEUREAENRT   ZB621 LS           N46573910E007355200                                                                                 
+SEUREAENRT   ZB635 LS           N46442198E007515900                                                                                 
+SEUREAENRT   ZB636 LS           N46481210E0074327100                                                                                
+SEUREAENRT   ZB637 LS           N46512902E0073607100                                                                                
+SEUREAENRT   ZB665 LS           N46512502E0072438100                                                                                
+SEUREAENRT   ZB680 LS           N46560499E0071932100                                                                                
+SEUREAENRT   ZB695 LS           N47061501E0072554100                                                                                
+SEUREAENRT   ZH500 LS           N47294716E008441085                                                                                 
+SEUREAENRT   ZH501 LS           N47271832E008354586                                                                                 
+SEUREAENRT   ZH502 LS           N47282515E008460379                                                                                 
+SEUREAENRT   ZH503 LS           N47343000E0084234100                                                                                
+SEUREAENRT   ZH504 LS           N47272300E0085348100                                                                                
+SEUREAENRT   ZH506 LS           N47302510E0084650100                                                                                
+SEUREAENRT   ZH518 LS           N47253636E008341516                                                                                 
+SEUREAENRT   ZH525 LS           N47262310E0090839100                                                                                
+SEUREAENRT   ZH526 LS           N47155900E0083714100                                                                                
+SEUREAENRT   ZH551 LS           N47171794E008104664                                                                                 
+SEUREAENRT   ZH552 LS           N47254110E008233000                                                                                 
+SEUREAENRT   ZH553 LS           N47252820E008211005                                                                                 
+SEUREAENRT   ZH554 LS           N47245316E008172641                                                                                 
+SEUREAENRT   ZH555 LS           N47204810E008154100                                                                                 
+SEUREAENRT   ZH556 LS           N47201710E0082228100                                                                                
+SEUREAENRT   ZH557 LS           N47192162E008242344                                                                                 
+SEUREAENRT   ZH558 LS           N47190500E0080840100                                                                                
+SEUREAENRT   ZH559 LS           N47132512E008241175                                                                                 
+SEUREAENRT   ZH560 LS           N47094304E008323435                                                                                 
+SEUREAENRT   ZH565 LS           N47190192E008091699                                                                                 
+SEUREAENRT   ZH566 LS           N47174662E008061412                                                                                 
+SEUREAENRT   ZH569 LS           N47235910E008135400                                                                                 
+SEUREAENRT   ZH570 LS           N47213557E007592138                                                                                 
+SEUREAENRT   ZH575 LS           N47311655E008302272                                                                                 
+SEUREAENRT   ZH576 LS           N47331578E008285618                                                                                 
+SEUREAENRT   ZH577 LS           N47353510E008271800                                                                                 
+SEUREAENRT   ZH578 LS           N47311914E008230841                                                                                 
+SEUREAENRT   ZH579 LS           N47275770E008220776                                                                                 
+SEUREAENRT   ZH580 LS           N47292198E0081739100                                                                                
+SEUREAENRT   ZH581 LS           N47312910E0081647100                                                                                
+SEUREAENRT   ZH582 LS           N47273704E008303266                                                                                 
+SEUREAENRT   ZH625 LS           N47195410E0084202100                                                                                
+SEUREAENRT   ZH626 LS           N47161810E008424100                                                                                 
+SEUREAENRT   ZH650 LS           N47214601E0083159100                                                                                
+SEUREAENRT   ZH652 LS           N47280001E008301000                                                                                 
+SEUREAENRT   ZH658 LS           N47261601E007591100                                                                                 
+SEUREAENRT   ZH675 LS           N47341200E007441100                                                                                 
+SEUREAENRT   ZH676 LS           N47273910E0083015100                                                                                
+SEUREAENRT   ZH677 LS           N47343710E0074412100                                                                                
+SEUREAENRT   ZH701 LS           N47374647E008400118                                                                                 
+SEUREAENRT   ZH702 LS           N47435900E008340300                                                                                 
+SEUREAENRT   ZH725 LS           N47150310E0084712100                                                                                
+SEUREAENRT   ZH726 LS           N47145000E0084714100                                                                                
+SEUREAENRT   ZH744 LS           N47355302E0082237100                                                                                
+SEUREAENRT   ZH746 LS           N47412710E0082903100                                                                                
+SEUREAENRT   ZH747 LS           N47413901E008334200                                                                                 
+SEUREAENRT   ZH748 LS           N47414902E008382100                                                                                 
+SEUREAENRT   ZH749 LS           N47415798E008425900                                                                                 
+SEUREAENRT   ZH764 LS           N47370800E0082622100                                                                                
+SEUREAENRT   ZH766 LS           N47413901E008334200                                                                                 
+SEUREAENRT   ZH767 LS           N47414902E008382100                                                                                 
+SEUREAENRT   ZH768 LS           N47415798E008425900                                                                                 
+SEUREAENRT   ZH775 LS           N47351710E0080743100                                                                                
+SEUREAENRT   ZH801 LS           N47294700E008485500                                                                                 
+SEUREAENRT   ZH825 LS           N47204898E0083920100                                                                                
+SEUREAENRT   ZH826 LS           N47173001E0084238100                                                                                
+SEUREAENRT   ZH851 LS           N47194699E0082649100                                                                                
+SEUREAENRT   ZH854 LS           N47244810E0081830100                                                                                
+SEUREAENRT   ZH859 LS           N47171810E008202600                                                                                 
+SEUREAENRT   ZH860 LS           N47095198E008305000                                                                                 
+SEUREAENRT   ZH865 LS           N47185699E0080848100                                                                                
+SEUREAENRT   ZH866 LS           N47170398E008034500                                                                                 
+SEUREAENRT   ZH870 LS           N47211901E007595300                                                                                 
+SEURDB       BS    LS000376     N47344610E007321050                                                                                 
+SEURDB       BER   LS000335     N46535682E007303774                                                                                 
+SEURDB       GLA   LS000375     N46243130E006143930                                                                                 
+SEURDB       LPS   LS000403     N47050120E006473800                                                                                 
+SEURD        FRI   LS011085V    N46463930E007132460                                                                                 
+SEURD        GRE   LS011545V    N47105935E007250545                                                                                 
+SEURD        HOC   LS011320V    N47275960E007395560                                                                                 
+SEURD        KLO   LS011485V    N47272570E008324410                                                                                 
+SEURD        MOT   LS011585V    N46184810E0073011100                                                                                
+SEURD        SIO   LS011215V    N46125580E007171960                                                                                 
+SEURD        SPR   LS011390V    N46280730E006265300                                                                                 
+SEURD        TRA   LS011430V    N47412220E008261301                                                                                 
+SEURD        WIL   LS011690V    N47104190E007542130                                                                                 
+SEURD        ZUE   LS011005V    N47353180E008490360                                                                                 
+SEURD        MH    LS011155 D   N47365295E007303665                                                                                 
+SEURD        IBLU  LS010935 D   N47351710E007314485                                                                                 
+SEURD        ISI   LS010835 D   N46125460E007184540                                                                                 
+SEURD        IDU   LS011115 D   N47234329E008393432                                                                                 
+SEURD        IEM   LS011035 D   N47055215E008184582                                                                                 
+SEURD        IPY   LS010930 D   N46505021E006552275                                                                                 
+SEURD        IBE   LS011010 D   N46542110E007302070                                                                                 
+SEURD        IKL   LS010830 D   N47284970E008322560                                                                                 
+SEURD        IZH   LS011050 D   N47282300E008322290                                                                                 
+SEURD        IZW   LS010975 D   N47272754E008335465                                                                                 
+SEURD        IZS   LS011075 D   N47270450E008330660                                                                                 
+SEURD        IAL   LS010875 D   N47290607E009331556                                                                                 
+SEURD        FRI   LS011085 D   N46463930E007132460                                                                                 
+SEURD        GRE   LS011545 D   N47105935E007250545                                                                                 
+SEURD        HOC   LS011320 D   N47275960E007395560                                                                                 
+SEURD        KLO   LS011485 D   N47272570E008324410                                                                                 
+SEURD        MOT   LS011585 D   N46184810E0073011100                                                                                
+SEURD        SIO   LS011215 D   N46125580E007171960                                                                                 
+SEURD        SPR   LS011390 D   N46280730E006265300                                                                                 
+SEURD        TRA   LS011430 D   N47412220E008261301                                                                                 
+SEURD        WIL   LS011690 D   N47104190E007542130                                                                                 
+SEURD        ZUE   LS011005 D   N47353180E008490360                                                                                 
+SEURD        CVA   LS011205 D   N46250500E009491800                                                                                 
+SEURD        LAP   LS011065 D   N46403310E0062447100                                                                                
+SEURER       UL851       0240TRA  LSD       O                             0067     19500     66000                                  
+SEURER       UL851       0250KUDESLSEA      O                             0198     19500     66000                                  
+SEURER       Y55         0070GG513LSEA      O                             0115     08000     19500                                  
+SEURER       Y55         0080GVA    D       O                             0061     08000     19500                                  
+SEURER       L851        0250KUDESLSEA      O                                      09500     19500                                  
+SEURER       L851        0260TRA  LSD       O                             0198     09500     19500                                  
+SEURER       Z669        0020VADARLSEA      O                             0419     09500     19500                                  
+SEURER       Z669        0030ESEVALSEA      O                             0138     09500     19500                                  
+SEURER       Z669        0040ULMESLSEA      O                             0146     09500     19500                                  
+SEURER       Z669        0050BADEPLSEA      O                             0069     09500     19500                                  
+SEURER       Z669        0060ROTOSLSEA      O                             0157     09500     19500                                  
+SEURER       Z669        0070TRA  LSD       O                             0416     13500     19500                                  
+SEURER       G5          0430WIL  LSD       O                                      06500     09500                                  
+SEURER       G5          0440FRI14LSEA      O                             0279     07500     09500                                  
+SEURER       G5          0450FRI  LSD       O                             0090     07500     09500                                  
+SEURER       G5          0460REVLILSEA      O                             0229     07500     09500                                  
+SEURER       G5          0470SPR12LSEA      O                             0021     07500     09500                                  
+SEURER       G5          0480SPR06LSEA      O                             0060     06500     09500                                  
+SEURER       G5          0490SPR  LSD       O                             0060     06500     09500                                  
+SEURER       G5          0500PETALLSEA      O                             0087     06500     19500                                  
+SEURER       G5          0510GVA    D       O                             0097     06500     09500                                  
+SEURER       A1          0020SPR29LSEA      O                             0174     17500     19500                                  
+SEURER       A1          0030SPR20LSEA      O                             0090     10500     19500                                  
+SEURER       A1          0040SPR15LSEA      O                             0060     08500     19500                                  
+SEURER       A1          0050SPR  LSD       O                             0140     06500     19500                                  
+SEURER       A1          0060DINOXLSEA      O                             0180     06500     19500                                  
+SEURER       A1          0070SIROD  EA      O                             0055     06500     19500                                  
+SEURER       N850        0100TRA  LSD       O                             0103     09000     19500                                  
+SEURER       N850        0110RIPUSLSEA      O                             0259     09000     19500                                  
+SEURER       N850        0120GERSALSEA      O                             0133     13000     19500                                  
+SEURER       N850        0130MALUSLSEA      O                             0127     13000     19500                                  
+SEURER       N850        0140SOSONLSEA      O                             0134     13000     19500                                  
+SEURER       N850        0150DEGADLSEA      O                             0103     14000     19500                                  
+SEURER       N850        0160ODINALSEA      O                             0200     14000     19500                                  
+SEURER       W102        0010LPS  LSD       O                                      10000     19500                                  
+SEURER       W102        0020DELMOLSEA      O                             0182     10000     19500                                  
+SEURER       W102        0030BALIRLSEA      O                             0058     10000     19500                                  
+SEURER       W102        0040LEPLALSEA      O                             0040     10000     19500                                  
+SEURER       W102        0050LASUNLSEA      O                             0082     10000     19500                                  
+SEURER       W102        0060HOC  LSD       O                             0061     10000     19500                                  
+SEURER       Z59         0010LUMELLSEA      O                                      06500     60000                                  
+SEURER       Z59         0020BALIRLSEA      O                             0079     06500     60000                                  
+SEURER       Z59         0030KONOLLSEA      O                             0249     06500     60000                                  
+SEURER       T52-Z       0010BALIRLSEA      RL                                     06500     09500                                  
+SEURER       T52-Z       0020LUMELLSEA      RL                            0079     06500     09500                                  
+SEURER       T52         0010BALIRLSEA      RL                                     06500     09500                                  
+SEURER       T52         0020VEBITLSEA      RL                            0296     06500     09500                                  
+SEURER       Y56         0030FRI  LSD       O                                      09000     19500                                  
+SEURER       Y56         0040FRI25LSEA      O                             0250     09000     19500                                  
+SEURER       Y56         0050SALEV  EA      O                             0389     09000     19500                                  
+SEURER       W103        0190LPS  LSD       O                                      10000     19500                                  
+SEURER       W103        0200FLORYLSEA      O                             0136     10000     19500                                  
+SEURER       W103        0210SPR  LSD       O                             0270     10000     19500                                  
+SEURER       N871        0020KUDESLSEA      O                             0279     09500     19500                                  
+SEURER       N871        0030DITONLSEA      O                             0250     13500     19500                                  
+SEURER       N871        0040SUREPLSEA      O                             0155     13500     19500                                  
+SEURER       N871        0050BERSULSEA      O                             0034     10000     19500                                  
+SEURER       N871        0060KONOLLSEA      O                             0136     10000     19500                                  
+SEURER       N871        0070KOREDLSEA      O                             0140     10000     19500                                  
+SEURER       N871        0080TELNOLSEA      O                             0075     10000     19500                                  
+SEURER       N871        0090SOSALLSEA      O                             0204     10000     19500                                  
+SEURER       N871        0100MOLUSLSEA      O                             0109     10000     19500                                  
+SEURER       N871        0110OMASI  EA      O                             0436     10000     19500                                  
+SEURER       Z2-Z6       0020ROMGALSEA      O                             0065     07500     66000                                  
+SEURER       A9          0010BARIGLSEA      O                                      07500     16500                                  
+SEURER       A9          0020RISLILSEA      O                             0113     07500     16500                                  
+SEURER       A9          0030TRA  LSD       O                             0145     07500     16500                                  
+SEURER       A9          0160CANNELSEA      O                             0318     13000     16500                                  
+SEURER       A9          0170LUKOMLSEA      O                             0256     13000     16500                                  
+SEURER       A9          0180URNASLSEA      O                             0255     13000     16500                                  
+SEURER       J50         0010BARIGLSEA      OH                                     07500     16500                                  
+SEURER       J50         0020WIL  LSD       OH                            0273     07500     16500                                  
+SEURER       Z710        0010BASGOLSEA      O                                      17500     66000                                  
+SEURER       Z710        0020DEGADLSEA      O                             0115     17500     66000                                  
+SEURER       Z55         0010BASUDLSEA      O                                      06500     28000                                  
+SEURER       Z55         0020OLBENLSEA      O                             0040     06500     28000                                  
+SEURER       Z55         0030ROTOSLSEA      O                             0079     07500     28000                                  
+SEURER       Z55         0040BERSULSEA      O                             0094     07500     28000                                  
+SEURER       Z55         0050URIGILSEA      O                             0198     10500     28000                                  
+SEURER       Z55         0060GERSALSEA      O                             0050     10500     28000                                  
+SEURER       W105        0010FRI  LSD       O                                      16500     19500                                  
+SEURER       W105        0020SANETLSEA      O                             0268     16500     19500                                  
+SEURER       W105        0030MOT  LSD       O                             0095     16500     19500                                  
+SEURER       N851        0200SOPERLSEA      O                                      13000     19500                                  
+SEURER       N851        0210ELMURLSEA      O                             0161     09000     19500                                  
+SEURER       N851        0220ROLSALSEA      O                             0080     09000     19500                                  
+SEURER       N851        0230KUDESLSEA      O                             0139     09000     19500                                  
+SEURER       N851        0240ROMIREDEA      O                             0154     09000     19500                                  
+SEURER       L995        0100CANNELSEA      O                                      13500     19500                                  
+SEURER       L995        0110PEPAGLIEA      O                             0135     13500     19500                                  
+SEURER       N869        0110OLBENLSEA      O                             0217     09500     19500                                  
+SEURER       N869        0120LUTIXLSEA      O                             0135     09500     19500                                  
+SEURER       N869        0130BENOTLSEA      O                             0103     09500     19500                                  
+SEURER       N869        0140NEMOSLSEA      O                             0140     09500     19500                                  
+SEURER       N869        0150VEROXLSEA      O                             0176     09500     19500                                  
+SEURER       N869        0160MILPA  EA      O                             0384     09500     19500                                  
+SEURER       G434        0070LASUNLSEA      O                                      09500     19500                                  
+SEURER       G434        0080LUMELLSEA      O                             0156     09500     19500                                  
+SEURER       G4          0080HOC01LSEA      O                             0283     05500     19500                                  
+SEURER       G4          0090HOC  LSD       O                             0100     05500     19500                                  
+SEURER       Z58         0010BERSULSEA      O                                      07500     66000                                  
+SEURER       Z58         0020TRA  LSD       O                             0389     07500     66000                                  
+SEURER       V31         0070DINOXLSEA      OL                                     07000     19500                                  
+SEURER       V31         0080MILPA  EA      OL                            0240     07000     19500                                  
+SEURER       W101        0010BINGILSEA      O                                      10000     19500                                  
+SEURER       W101        0020WIL  LSD       O                             0051     10000     19500                                  
+SEURER       W101        0030SUREPLSEA      O                             0044     10000     19500                                  
+SEURER       Z209        0040VEBEGLSEA      O                             0308     19500     24500                                  
+SEURER       J32         0050GLA  LSD       OH                            0099     09200     19500                                  
+SEURER       J32         0060MOLUSLSEA      OH                            0181     09200     19500                                  
+SEURER       G60         0030ZUE  LSD       O                             0257     05500     19500                                  
+SEURER       G60         0040TRA  LSD       O                             0165     06000     19500                                  
+SEURER       Z1-Z3       0020ROMGALSEA      O                             0061     07500     23000                                  
+SEURER       L613        0060HOC  LSD       O                                      06500     19500                                  
+SEURER       L613        0070DITONLSEA      O                             0289     06500     19500                                  
+SEURER       L613        0080RIPUSLSEA      O                             0072     09000     19500                                  
+SEURER       L613        0090MANEGLSEA      O                             0097     09000     19500                                  
+SEURER       L613        0100ELMURLSEA      O                             0081     09000     19500                                  
+SEURER       W110        0060HR012LSEA      O                             0120     14500     19500                                  
+SEURER       W110        0070LUMELLSEA      O                             0075     14500     19500                                  
+SEURER       W110        0080LEPLALSEA      O                             0094     10000     19500                                  
+SEURER       W110        0090WIL  LSD       O                             0241     10000     19500                                  
+SEURER       B46         0090SPR  LSD       O                             0150     08500     19500                                  
+SEURER       W112        0010ESEVALSEA      O                                      11000     19500                                  
+SEURER       W112        0020FRI  LSD       O                             0087     11000     19500                                  
+SEURER       W112        0030TELNOLSEA      O                             0020     11000     19500                                  
+SEURER       W112        0040MONINLSEA      O                             0300     16000     19500                                  
+SEURER       W112        0050SOSONLSEA      O                             0254     16000     19500                                  
+SEURER       W112        0060LUKOMLSEA      O                             0069     16000     19500                                  
+SEURER       Z651        0020CANNELSEA      O                             0329     13500     19500                                  
+SEURER       Z651        0030KELIPLSEA      O                             0477     13000     19500                                  
+SEURER       Z651        0040MOSITLSEA      O                             0068     13000     19500                                  
+SEURER       Z651        0050MANEGLSEA      O                             0082     09000     19500                                  
+SEURER       Z651        0060KESEXLSEA      O                             0018     09000     19500                                  
+SEURER       Z651        0070KUDESLSEA      O                             0181     09000     19500                                  
+SEURER       W107        0090MOT  LSD       O                                      15000     19500                                  
+SEURER       W107        0100SIO  LSD       O                             0107     15000     19500                                  
+SEURER       M727        0060ODINALSEA      O                                      13500     19500                                  
+SEURER       M727        0070SRN  LID       O                             0313     13500     19500                                  
+SEURER       Z1-Z2       0010DEGESLSEA      O                                      07500     23000                                  
+SEURER       Z1-Z2       0020ROMGALSEA      O                             0094     07500     23000                                  
+SEURER       Z62         0010DEREMLSEA      O                                      07000     19500                                  
+SEURER       Z62         0020GG601  EA      O                             0044     07000     19500                                  
+SEURER       Z62         0040MOLUSLSEA      O                             0080     09500     19500                                  
+SEURER       Z69         0010OLBENLSEA      O                                      13500     19500                                  
+SEURER       Z69         0020TRA  LSD       O                             0401     13500     19500                                  
+SEURER       Z671        0010DITONLSEA      O                                      09000     66000                                  
+SEURER       Z671        0020ROLSALSEA      O                             0226     09000     66000                                  
+SEURER       Z57         0010DOPILLSEA      O                                      11000     66000                                  
+SEURER       Z57         0020GUDAXLSEA      O                             0276     11000     66000                                  
+SEURER       Z57         0030LAMURLSEA      O                             0163     16000     66000                                  
+SEURER       W104        0040FRI  LSD       O                                      10000     19500                                  
+SEURER       W104        0050LPS  LSD       O                             0255     10000     19500                                  
+SEURER       Z61         0010FRI  LSD       O                                      07500     66000                                  
+SEURER       Z61         0020SOSALLSEA      O                             0192     07500     66000                                  
+SEURER       Z60         0010FRI  LSD       O                                      07500     66000                                  
+SEURER       Z60         0020VADARLSEA      O                             0206     07500     66000                                  
+SEURER       T125        0040ZUE  LSD       RL                            0138     05500     09500                                  
+SEURER       T734        0030TRA  LSD       RL                            0130     06500     66000                                  
+SEURER       Z50-Z       0010GERSALSEA      O                                      14000     66000                                  
+SEURER       Z50-Z       0020KELIPLSEA      O                             0106     14000     66000                                  
+SEURER       Z50-Z       0030SOPERLSEA      O                             0085     14000     66000                                  
+SEURER       Z50-Z       0040PELADLSEA      O                             0366     15500     66000                                  
+SEURER       Z50-Z       0050RESIALSEA      O                             0150     15500     66000                                  
+SEURER       W106        0060SANETLSEA      O                                      15000     19500                                  
+SEURER       W106        0070SIO  LSD       O                             0070     15000     19500                                  
+SEURER       W106        0080VALORLSEA      O                             0161     07000     19500                                  
+SEURER       P131        0020RESIALSEA      O                             0252     19500     19500                                  
+SEURER       J51         0010TRA  LSD       OH                                     07500     09500                                  
+SEURER       J51         0020GIPOLLSEA      OH                            0195     07500     09500                                  
+SEURER       J51         0030WIL  LSD       OH                            0204     07500     09500                                  
+SEURER       Z65         0020GLA  LSD       O                             0164     06500     19500                                  
+SEURER       Z65         0030SPR  LSD       O                             0092     06500     19500                                  
+SEURER       Y58         0060SPR  LSD       O                             0184     07800     26500                                  
+SEURER       Y58         0070VADARLSEA      O                             0169     09500     26500                                  
+SEURER       Y58         0080NEMOSLSEA      O                             0165     09500     26500                                  
+SEURER       Z56         0010GUDAXLSEA      O                                      11000     66000                                  
+SEURER       Z56         0020SOSALLSEA      O                             0284     11000     66000                                  
+SEURER       Y164        0030OLBENLSEA      O                             0604     08000     66000                                  
+SEURER       G4-L8       0010HOC  LSD       O                                      05500     09500                                  
+SEURER       G4-L8       0020TRA  LSD       O                             0340     05500     09500                                  
+SEURER       R73         0010HOC  LSD       O                                      06500     09500                                  
+SEURER       R73         0020WIL  LSD       O                             0199     06500     09500                                  
+SEURER       T51         0020HR028LSEA      RL                            0282     11500     19500                                  
+SEURER       T51         0030LASUNLSEA      RL                            0056     11500     19500                                  
+SEURER       T51         0040VEBITLSEA      RL                            0210     06500     19500                                  
+SEURER       Z653        0010KESEXLSEA      O                                      09000     66000                                  
+SEURER       Z653        0020ROLSALSEA      O                             0078     09000     66000                                  
+SEURER       Z652        0010KESEXLSEA      O                                      09000     66000                                  
+SEURER       Z652        0020TRA  LSD       O                             0296     09000     66000                                  
+SEURER       Z63         0010KONILLSEA      O                                      07500     19500                                  
+SEURER       Z63         0020SOSALLSEA      O                             0176     07500     19500                                  
+SEURER       Z67         0010KOREDLSEA      O                                      15500     66000                                  
+SEURER       Z67         0020LAMURLSEA      O                             0179     15500     66000                                  
+SEURER       Z67         0030SPR11LSEA      O                             0232     15500     66000                                  
+SEURER       Z67         0040VENAT  EA      O                             0099     15500     46000                                  
+SEURER       T50         0040ROTOSLSEA      RL                                     06500     19500                                  
+SEURER       T50         0050VEBITLSEA      RL                            0124     06500     19500                                  
+SEURER       A41         0020REVLILSEA      O                             0432     07000     19500                                  
+SEURER       T163        0080KUDESLSEA      RL                            0390     06000     66000                                  
+SEURER       T10         0010LUMELLSEA      RL                                     14500     19500                                  
+SEURER       T10         0020TORPA  EA      RL                            0206     14500     19500                                  
+SEURER       Z64         0010MOLUSLSEA      O                                      09500     19500                                  
+SEURER       Z64         0020SPR  LSD       O                             0097     09500     19500                                  
+SEURER       J51-L       0020TRA  LSD       OH                            0271     07500     09500                                  
+SEURER       T45         0010SOSALLSEA      RL                                     12500     19500                                  
+SEURER       T45         0020VENAT  EA      RL                            0223     12500     19500                                  
+SEURER       UL856       0250TRA  LSD       O                             0271     19500     66000                                  
+SEURER       UZ669       0020VADARLSEA      O                             0419     19500     66000                                  
+SEURER       UZ669       0030ULMESLSEA      O                             0285     19500     66000                                  
+SEURER       UZ669       0040BADEPLSEA      O                             0069     19500     66000                                  
+SEURER       UZ669       0050ROTOSLSEA      O                             0157     19500     66000                                  
+SEURER       UZ669       0060TRA  LSD       O                             0416     19500     66000                                  
+SEURER       UN850       0260ODINALSEA      O                             0462     19500     66000                                  
+SEURER       UN850       0270DEGADLSEA      O                             0200     19500     66000                                  
+SEURER       UN850       0280MALUSLSEA      O                             0237     19500     66000                                  
+SEURER       UN850       0290GERSALSEA      O                             0127     19500     66000                                  
+SEURER       UN850       0300RIPUSLSEA      O                             0133     19500     66000                                  
+SEURER       UN850       0310TRA  LSD       O                             0259     19500     66000                                  
+SEURER       UN850       0320TITIXEDEA      O                             0103     25000     66000                                  
+SEURER       UZ209       0060VEBEGLSEA      O                             0308     24500     66000                                  
+SEURER       UN871       0020KUDESLSEA      O                             0279     19500     66000                                  
+SEURER       UN871       0030DITONLSEA      O                             0250     19500     66000                                  
+SEURER       UN871       0040SUREPLSEA      O                             0155     19500     66000                                  
+SEURER       UN871       0050BERSULSEA      O                             0034     19500     66000                                  
+SEURER       UN871       0060KONOLLSEA      O                             0136     19500     66000                                  
+SEURER       UN871       0070KOREDLSEA      O                             0140     19500     66000                                  
+SEURER       UN871       0080TELNOLSEA      O                             0075     19500     66000                                  
+SEURER       UN871       0090SOSALLSEA      O                             0204     19500     66000                                  
+SEURER       UN871       0100MOLUSLSEA      O                             0109     19500     66000                                  
+SEURER       UN871       0110OMASI  EA      O                             0436     19500     66000                                  
+SEURER       UL50        0020MOLUSLSEA      O                             0406     19500     66000                                  
+SEURER       UZ670       0010BASGOLSEA      O                                      19500     66000                                  
+SEURER       UZ670       0020DITONLSEA      O                             0621     19500     66000                                  
+SEURER       UZ670       0030TRA  LSD       O                             0236     19500     66000                                  
+SEURER       UN851       0280SOPERLSEA      O                                      19500     66000                                  
+SEURER       UN851       0290ELMURLSEA      O                             0161     19500     66000                                  
+SEURER       UN851       0300ROLSALSEA      O                             0080     19500     66000                                  
+SEURER       UN851       0310KUDESLSEA      O                             0139     19500     66000                                  
+SEURER       UN851       0320ROMIREDEA      O                             0154     19500     66000                                  
+SEURER       UM729       0210GALBILSEA      O                             0100     19500     46000                                  
+SEURER       UM729       0220MOLUSLSEA      O                             0280     19500     46000                                  
+SEURER       UN869       0330VEROXLSEA      O                             0384     19500     66000                                  
+SEURER       UN869       0340NEMOSLSEA      O                             0176     19500     66000                                  
+SEURER       UN869       0350BENOTLSEA      O                             0140     19500     66000                                  
+SEURER       UN869       0360LUTIXLSEA      O                             0103     19500     66000                                  
+SEURER       UN869       0370OLBENLSEA      O                             0135     19500     66000                                  
+SEURER       UN869       0380RINLIEDEA      O                             0217     25000     66000                                  
+SEURER       UL153       0030BIBOTLSEA      O                             0262     19500     46000                                  
+SEURER       UL153       0040VADEMLSEA      O                             0035     19500     66000                                  
+SEURER       UL153       0050SOSALLSEA      O                             0192     19500     66000                                  
+SEURER       UL153       0060PUNSALSEA      O                             0554     19500     66000                                  
+SEURER       UL613       0040RONAKLSEA      O                             0201     29500     66000                                  
+SEURER       UL613       0180HOC  LSD       O                                      19500     66000                                  
+SEURER       UL613       0190DITONLSEA      O                             0289     19500     66000                                  
+SEURER       UL613       0200RIPUSLSEA      O                             0072     19500     66000                                  
+SEURER       UL613       0210MANEGLSEA      O                             0097     19500     66000                                  
+SEURER       UL613       0220ELMURLSEA      O                             0081     19500     66000                                  
+SEURER       UL613       0450NATLILSEA      O                             0505     19500     46000                                  
+SEURER       UL612       0110GARLOLSEA      O                             0550     25500     46000                                  
+SEURER       UL612       0120BIBANLSEA      O                             0129     25500     46000                                  
+SEURER       UL612       0130ORSUDLSEA      O                             0114     19500     66000                                  
+SEURER       UL612       0140PERAK  EA      O                             0326     19500     66000                                  
+SEURER       UT407       0010HOC  LSD       O                                      19500     66000                                  
+SEURER       UT407       0020BLM  EDD       O                             0120     19500     66000                                  
+SEURER       UN853       0070MOLUSLSEA      O                             0191     19500     66000                                  
+SEURER       UN853       0080VADEMLSEA      O                             0185     19500     66000                                  
+SEURER       UN853       0090GILIR  EA      O                             0228     19500     46000                                  
+SEURER       UZ909       0030RESIALSEA      O                             0555     19500     46000                                  
+SEURER       UT45        0050SOSALLSEA      O                                      19500     66000                                  
+SEURER       UT45        0060VENAT  EA      O                             0223     19500     66000                                  
+SEURER       Z1-Z4       0020ROMGALSEA      O                             0061     07500     66000                                  
+SEURER       UL995       0040CANNELSEA      O                                      20000     46000                                  
+SEURER       UL995       0050PEPAGLIEA      O                             0135     20000     46000                                  
+SEURER       UM872       0040GARLOLSEA      O                             0148     19500     46000                                  
+SEURER       UM872       0050CERVILSEA      O                             0103     19500     46000                                  
+SEURER       UM872       0060MOLUSLSEA      O                             0459     19500     66000                                  
+SEURER       UG42        0060NATLILSEA      O                             0352     19500     46000                                  
+SEURER       UZ651       0020CANNELSEA      O                             0329     19500     46000                                  
+SEURER       UZ651       0030KELIPLSEA      O                             0477     19500     66000                                  
+SEURER       UZ651       0040MOSITLSEA      O                             0068     19500     66000                                  
+SEURER       UZ651       0050MANEGLSEA      O                             0082     19500     60000                                  
+SEURER       UZ651       0060KESEXLSEA      O                             0018     19500     66000                                  
+SEURER       UZ651       0070KUDESLSEA      O                             0181     19500     66000                                  
+SEURER       UH10        0060SPR14LSEA      O                             0095     19500     66000                                  
+SEURER       UH10        0070SPR  LSD       O                             0140     19500     66000                                  
+SEURER       UM727       0110ODINALSEA      O                             0313     19500     46000                                  
+SEURER       UJ32        0090MOLUSLSEA      O                                      19500     66000                                  
+SEURER       UJ32        0100GLA  LSD       O                             0181     19500     66000                                  
+SEURER       UJ32        0110MOREG  EA      O                             0099     19500     66000                                  
+SEURER       Z1-Z2       0010DEGESLSEA      O                                      07500     66000                                  
+SEURER       Z1-Z2       0020ROMGALSEA      O                             0094     07500     66000                                  
+SEURER       UM982       0100GALBILSEA      O                             0187     19500     46000                                  
+SEURER       UP131       0040RESIALSEA      O                             0252     19500     46000                                  
+SEURER       UP131       0050TRA  LSD       O                             0980     19500     66000                                  
+SEURER       UG42-       0010HOC  LSD       O                                      19500     66000                                  
+SEURER       UG42-       0020NATLILSEA      O                             0066     19500     66000                                  
+SEURER       UL856       0010HOC  LSD       O                                      19500     66000                                  
+SEURER       UL856       0020TRA  LSD       O                             0340     19500     66000                                  
+SEURER       UN176       0010LASUNLSEA      O                                      19500     66000                                  
+SEURER       UN176       0020HOC11LSEA      O                             0046     19500     66000                                  
+SEURER       UN176       0030LUMELLSEA      O                             0110     19500     66000                                  
+SEURER       UZ662       0010KOREDLSEA      O                                      19500     66000                                  
+SEURER       UZ662       0020LAMURLSEA      O                             0179     19500     66000                                  
+SEURER       UT10        0010LASUNLSEA      O                                      19500     66000                                  
+SEURER       UT10        0020LUMELLSEA      O                             0156     19500     46000                                  
+SEURER       UT10        0030KUBOMLSEA      O                             0086     19500     46000                                  
+SEURER       UT10        0040TORPA  EA      O                             0119     19500     46000                                  
+SEURER       UZ662       0010LAMURLSEA      O                                      19500     66000                                  
+SEURER       UZ662       0020MOBLO  EA      O                             0508     19500     66000                                  
+SEURER       UM605       0010MOLUSLSEA      O                                      19500     66000                                  
+SEURER       UM605       0020LIRKO  EA      O                             0366     19500     66000                                  
+SEURER       UL615       0010MOLUSLSEA      O                                      19500     66000                                  
+SEURER       UL615       0020ORSUDLSEA      O                             0359     19500     66000                                  

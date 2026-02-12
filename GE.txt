@@ -1,0 +1,140 @@
+SEUREAENRT   ALETI UG           N41140700E044281700                                                                                 
+SEUREAENRT   ASELI UG           N42300000E044145600                                                                                 
+SEUREAENRT   BAGEM UG           N41355600E044285000                                                                                 
+SEUREAENRT   BARAD UG           N41213010E0450459100                                                                                
+SEUREAENRT   BARUS UG           N41541400E042503000                                                                                 
+SEUREAENRT   BEDNI UG           N41164500E044525000                                                                                 
+SEUREAENRT   DEDON UG           N41425500E045144800                                                                                 
+SEUREAENRT   DIPON UG           N42194400E044203300                                                                                 
+SEUREAENRT   IBERI UG           N42093810E041431800                                                                                 
+SEUREAENRT   LAGAS UG           N41341810E044135300                                                                                 
+SEUREAENRT   LAMUS UG           N41323910E0453123100                                                                                
+SEUREAENRT   LEGVI UG           N41235910E045115600                                                                                 
+SEUREAENRT   LOBIN UG           N42105400E0430625100                                                                                
+SEUREAENRT   NOLGA UG           N41254100E042584400                                                                                 
+SEUREAENRT   OBORA UG           N41495910E044275600                                                                                 
+SEUREAENRT   ODILI UG           N41431700E0420539100                                                                                
+SEUREAENRT   ONISA UG           N42345900E0432654100                                                                                
+SEUREAENRT   TAGAR UG           N42164110E0430409100                                                                                
+SEUREAENRT   TBS01 UG           N41472215E044465517                                                                                 
+SEUREAENRT   TBS02 UG           N41333321E044533283                                                                                 
+SEUREAENRT   TETRO UG           N41402010E0425134100                                                                                
+SEUREAENRT   TUNIS UG           N41100000E0434655100                                                                                
+SEUREAENRT   VP001 UG           N41331177E044535091                                                                                 
+SEURDB       BT    UG000353     N42060000E043385600                                                                                 
+SEURDB       LU    UG000430     N41360210E041365000                                                                                 
+SEURDB       DA    UG000525     N42360000E0414659100                                                                                
+SEURDB       OZ    UG000462     N42010000E0440755100                                                                                
+SEURDB       TIG   UG000477     N42102405E042271676                                                                                 
+SEURDB       UY    UG000842     N42110441E042323833                                                                                 
+SEURDB       V     UG000923     N41405800E044560130                                                                                 
+SEURDB       DF    UG000520     N41550000E044335600                                                                                 
+SEURDB       NA    UG000211     N41375780E044594960                                                                                 
+SEURDB       N     UG000435     N41390240E044582790                                                                                 
+SEURDB       VP    UG000697     N41424700E044534380                                                                                 
+SEURDB       TO    UG000342     N41375000E046005600                                                                                 
+SEURD        KTS   UG011360V    N42102456E042272179                                                                                 
+SEURD        TBS   UG011370V    N41390200E0445827100                                                                                
+SEURD        KTS   UG011360 D   N42102456E042272179                                                                                 
+SEURD        TBS   UG011370 D   N41390200E0445827100                                                                                
+SEURER       B143        0040TBS  UGD       O                                      10000     19500                                  
+SEURER       B143        0050DF   UGD       O                             0243     10000     19500                                  
+SEURER       B143        0060OZ   UGD       O                             0203     10000     19500                                  
+SEURER       B143        0070BT   UGD       O                             0221     10000     19500                                  
+SEURER       B143        0080LOBINUGEA      O                             0246     10000     19500                                  
+SEURER       B143        0090KTS  UGD       O                             0290     10000     19500                                  
+SEURER       B143        0100LAMUSUGEA      O                                      14000     19500                                  
+SEURER       B143        0110KUFANUUEA      O                             0421     14000     19500                                  
+SEURER       G261        0020DEDONUGEA      O                             0487     13000     19500                                  
+SEURER       G261        0030TBS  UGD       O                             0128     10000     19500                                  
+SEURER       G261        0040BAGEMUGEA      O                             0224     10000     19500                                  
+SEURER       G261        0050LAGASUGEA      O                             0113     10000     19500                                  
+SEURER       G261        0060NOLGAUGEA      O                             0570     13000     19500                                  
+SEURER       G261        0070TBN  LTD       O                             1461     24500     28500                                  
+SEURER       A277        0010IBERIUGEA      O                                      12000     19500                                  
+SEURER       A277        0020BARUSUGEA      O                             0523     12000     19500                                  
+SEURER       A277        0030TUNISUGEA      O                             0612     14000     19500                                  
+SEURER       A277        0040SVN  UDD       O                             0654     16000     19000                                  
+SEURER       B147        0010LU   UGD       O                                      10000     19500                                  
+SEURER       B147        0020ORAMI  EA      O                             0137     10000     19500                                  
+SEURER       A910        0010BARUSUGEA      O                                      12000     19500                                  
+SEURER       A910        0020LAGASUGEA      O                             0654     15000     19500                                  
+SEURER       A910        0030BARADUGEA      O                             0404     15000     19500                                  
+SEURER       A910        0040DEDINUBEA      O                             0063     15000     19500                                  
+SEURER       G67         0010BT   UGD       O                                      11000     19500                                  
+SEURER       G67         0020BARUSUGEA      O                             0379     11000     19500                                  
+SEURER       G67         0030LU   UGD       O                             0579     12000     19500                                  
+SEURER       G67         0040SARPI  EA      O                             0080     10000     19500                                  
+SEURER       G482        0020BEDNIUGEA      O                             0331     10000     19500                                  
+SEURER       G482        0030DF   UGD       O                             0408     10000     19500                                  
+SEURER       G482        0040DIPONUGEA      O                             0267     11000     19500                                  
+SEURER       R11         0140TBS  UGD       O                                      10000     19500                                  
+SEURER       R11         0150OBORAUGEA      O                             0253     10000     19500                                  
+SEURER       R11         0160BT   UGD       O                             0398     10000     19500                                  
+SEURER       R11         0170ONISAUGEA      O                             0303     13000     19500                                  
+SEURER       R11         0180GUSLIUUEA      O                             0214     19000     19500                                  
+SEURER       R661        0010BT   UGD       O                                      14000     19500                                  
+SEURER       R661        0020TUNISUGEA      O                             0564     14000     19500                                  
+SEURER       W48         0060KTS  UGD       O                                      10000     19500                                  
+SEURER       W48         0070NEDEK  EA      O                             0398     10000     19500                                  
+SEURER       W48         0080LU   UGD       O                             0241     10000     19500                                  
+SEURER       B140        0030LEGVIUGEA      O                             0046     07000     19500                                  
+SEURER       B140        0040TBS  UGD       O                             0181     07000     19500                                  
+SEURER       B232        0040TUNISUGEA      O                             0200     17000     19000                                  
+SEURER       B143-       0010LAMUSUGEA      O                                      10000     19500                                  
+SEURER       B143-       0020TBS  UGD       O                             0255     10000     19500                                  
+SEURER       V66         0010LAMUSUGEA      OL                                     10000     19500                                  
+SEURER       V66         0020TO   UGD       OL                            0227     10000     19500                                  
+SEURER       J44         0020TUNISUGEA      OH                            0271     13000     19000                                  
+SEURER       UA277       0120IBERIUGEA      O                             0915     19500     46000                                  
+SEURER       UA277       0130BARUSUGEA      O                             0523     19500     46000                                  
+SEURER       UA277       0140TUNISUGEA      O                             0612     19500     46000                                  
+SEURER       UA277       0150SVN  UDD       O                             0654     20000     46000                                  
+SEURER       UG261       0020DEDONUGEA      O                             0487     19500     46000                                  
+SEURER       UG261       0030TBS  UGD       O                             0128     19500     46000                                  
+SEURER       UG261       0040BAGEMUGEA      O                             0224     19500     46000                                  
+SEURER       UG261       0050LAGASUGEA      O                             0113     19500     46000                                  
+SEURER       UG261       0060NOLGAUGEA      O                             0570     19500     46000                                  
+SEURER       UG261       0070TBN  LTD       O                             1461     28500     66000                                  
+SEURER       UL850       0020TAGARUGEA      O                             1428     27000     46000                                  
+SEURER       UL850       0030DEDONUGEA      O                             1029     19500     46000                                  
+SEURER       UB147       0040LU   UGD       O                             0137     19500     46000                                  
+SEURER       UA910       0010BARUSUGEA      O                                      19500     46000                                  
+SEURER       UA910       0020LAGASUGEA      O                             0654     19500     46000                                  
+SEURER       UA910       0030BARADUGEA      O                             0404     19500     46000                                  
+SEURER       UA910       0040LIMTIUBEA      O                             1111     28000     43000                                  
+SEURER       UG67        0010BT   UGD       O                                      19500     46000                                  
+SEURER       UG67        0020BARUSUGEA      O                             0379     19500     46000                                  
+SEURER       UG67        0030ODILIUGEA      O                             0352     19500     46000                                  
+SEURER       UG67        0040LU   UGD       O                             0227     19500     46000                                  
+SEURER       UG67        0050SARPI  EA      O                             0080     19500     46000                                  
+SEURER       UM747       0010BARUSUGEA      O                                      19500     46000                                  
+SEURER       UM747       0020IDLER  EA      O                             1250     19500     46000                                  
+SEURER       UG482       0010DF   UGD       O                                      19500     46000                                  
+SEURER       UG482       0020BEDNIUGEA      O                             0408     19500     46000                                  
+SEURER       UG482       0030GIDLAUDEA      O                             0331     20000     46000                                  
+SEURER       B143-       0010BT   UGD       O                                      19500     46000                                  
+SEURER       B143-       0020LOBINUGEA      O                             0246     19500     46000                                  
+SEURER       B143-       0030DF   UGD       O                                      19500     46000                                  
+SEURER       B143-       0040TBS  UGD       O                             0243     19500     46000                                  
+SEURER       UR11        0020ONISAUGEA      O                             0214     19500     46000                                  
+SEURER       UR11        0030BT   UGD       O                             0303     19500     46000                                  
+SEURER       UR11        0040OBORAUGEA      O                             0398     19500     46000                                  
+SEURER       UR11        0050TBS  UGD       O                             0253     19500     46000                                  
+SEURER       UB143       0010BT   UGD       O                                      19500     46000                                  
+SEURER       UB143       0020OZ   UGD       O                             0221     19500     46000                                  
+SEURER       UB143       0030DF   UGD       O                             0203     19500     46000                                  
+SEURER       UB143       0070KTS  UGD       O                                      19500     46000                                  
+SEURER       UB143       0080LOBINUGEA      O                             0290     19500     46000                                  
+SEURER       UB143       0100LAMUSUGEA      O                             0421     19500     46000                                  
+SEURER       UB143       0110TBS  UGD       O                             0255     19500     46000                                  
+SEURER       UR661       0010BT   UGD       O                                      19500     46000                                  
+SEURER       UR661       0020TUNISUGEA      O                             0564     19500     46000                                  
+SEURER       UR661       0030REBGIUDEA      O                             0667     20000     46000                                  
+SEURER       UR654       0070LAGASUGEA      O                             0911     19500     46000                                  
+SEURER       UB140       0040LEGVIUGEA      O                             0256     19500     28000                                  
+SEURER       UB140       0050TBS  UGD       O                             0181     19500     46000                                  
+SEURER       UB232       0040TUNISUGEA      O                             0200     20000     46000                                  
+SEURER       UN644       0030ODILIUGEA      O                             0646     19500     46000                                  
+SEURER       UN644       0040TETROUGEA      O                             0344     19500     46000                                  
+SEURER       UN644       0050LAGASUGEA      O                             0619     19500     46000                                  

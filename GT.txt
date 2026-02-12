@@ -1,0 +1,146 @@
+SSCAEAENRT   ALIGO MG           N17051051W089284065                                                                                 
+SSCAEAENRT   AMARU MG           N17134026W089345906                                                                                 
+SSCAEAENRT   ARATI MG           N14482400W0895335100                                                                                
+SSCAEAENRT   AUR01 MG           N14362389W090311141                                                                                 
+SSCAEAENRT   AUR03 MG           N14323208W090321853                                                                                 
+SSCAEAENRT   AUR06 MG           N14410535W090292041                                                                                 
+SSCAEAENRT   AUR08 MG           N14425792W090283599                                                                                 
+SSCAEAENRT   AUR30 MG           N14420747W090265647                                                                                 
+SSCAEAENRT   AVRIS MG           N17394710W0892641100                                                                                
+SSCAEAENRT   BENES MG           N16122910W0891923100                                                                                
+SSCAEAENRT   BRITO MG           N15015680W089133640                                                                                 
+SSCAEAENRT   CANAL MG           N14100000W0902823100                                                                                
+SSCAEAENRT   CARME MG           N17194371W089575122                                                                                 
+SSCAEAENRT   COBAN MG           N15352310W0902331100                                                                                
+SSCAEAENRT   COSTA MG           N14180600W0902935100                                                                                
+SSCAEAENRT   DEDAL MG           N17122910W0890911100                                                                                
+SSCAEAENRT   EMADA MG           N17490000W090540000                                                                                 
+SSCAEAENRT   EMENU MG           N15550960W089473960                                                                                 
+SSCAEAENRT   ERBOR MG           N15414200W0915717100                                                                                
+SSCAEAENRT   JERON MG           N15062400W0900841100                                                                                
+SSCAEAENRT   KALPA MG           N15011800W091043000                                                                                 
+SSCAEAENRT   KANEL MG           N15203000W089581800                                                                                 
+SSCAEAENRT   KEBIS MG           N16050540W090193720                                                                                 
+SSCAEAENRT   KETSA MG           N14352820W090313480                                                                                 
+SSCAEAENRT   KINAL MG           N17390600W089094200                                                                                 
+SSCAEAENRT   LAGOX MG           N14310000W0900405100                                                                                
+SSCAEAENRT   MAVAL MG           N16550400W090124700                                                                                 
+SSCAEAENRT   MURNO MG           N17003360W089110660                                                                                 
+SSCAEAENRT   NALDA MG           N17444910W0900558100                                                                                
+SSCAEAENRT   NANDO MG           N16484510W089222620                                                                                 
+SSCAEAENRT   OCASO MG           N14460510W092090000                                                                                 
+SSCAEAENRT   OLIRA MG           N14493780W090261920                                                                                 
+SSCAEAENRT   OLORI MG           N16373421W089335899                                                                                 
+SSCAEAENRT   OMAMA MG           N16024380W090071980                                                                                 
+SSCAEAENRT   OTAMI MG           N14021600W089523600                                                                                 
+SSCAEAENRT   PALEN MG           N14392910W090182400                                                                                 
+SSCAEAENRT   PARAL MG           N16020885W090084194                                                                                 
+SSCAEAENRT   PATIK MG           N14384110W0910017100                                                                                
+SSCAEAENRT   PINOS MG           N14183810W0901203100                                                                                
+SSCAEAENRT   RAYMO MG           N14445967W090324077                                                                                 
+SSCAEAENRT   ROSAM MG           N14212400W090100000                                                                                 
+SSCAEAENRT   TECUN MG           N14394710W0920841100                                                                                
+SSCAEAENRT   TILOT MG           N15305400W090095400                                                                                 
+SSCAEAENRT   TUCAN MG           N16310341W089595586                                                                                 
+SSCAEAENRT   VIRSI MG           N15335933W090174920                                                                                 
+SSCADB       GUA   MG000375     N14551890W090284070                                                                                 
+SSCADB       IZP   MG000400     N13555130W090435410                                                                                 
+SSCADB       POP   MG000363     N16192910W089251800                                                                                 
+SSCADB       RBN   MG000313     N15004109W090280931                                                                                 
+SSCADB       REU   MG000340     N14311800W091414800                                                                                 
+SSCADB       RUB   MG000260     N15593120W090265610                                                                                 
+SSCADB       SGA   MG000425     N13560125W090514112                                                                                 
+SSCADB       TKL   MG000385     N16545626W089524848                                                                                 
+SSCAD        AUR   MG011450V    N14352760W090313360                                                                                 
+SSCAD        RAB   MG011610V    N15003110W090281320                                                                                 
+SSCAD        SJO   MG011410V    N13560350W090510610                                                                                 
+SSCAD        TIK   MG011330V    N16550850W089523550                                                                                 
+SSCAD        IAAI  MG011010 D   N14341636W090315265                                                                                 
+SSCAD        ITKL  MG011110 D   N16550615W089523501                                                                                 
+SSCAD        AUR   MG011450 D   N14352760W090313360                                                                                 
+SSCAD        RAB   MG011610 D   N15003110W090281320                                                                                 
+SSCAD        SJO   MG011410 D   N13560350W090510610                                                                                 
+SSCAD        TIK   MG011330 D   N16550850W089523550                                                                                 
+SSCAER       A552        0200KALPAMGEA      O                                      15000     19500                                  
+SSCAER       A552        0210ERBORMGEA      O                             0650     15000     19500                                  
+SSCAER       A552        0220XOVUKMMEA      O                             0404     15000     19500                                  
+SSCAER       A552        0350LAGOXMGEA      O                             0530     12000     19500                                  
+SSCAER       A317        0170SJO  MGD       O                             0451     07000     19500                                  
+SSCAER       A317        0180TECUNMGEA      O                             0870     07000     19500                                  
+SSCAER       A317        0190TAP  MMD       O                             0155     07000     19500                                  
+SSCAER       A758        0010NANDOMGEA      O                                      04000     19500                                  
+SSCAER       A758        0020BENESMGEA      O                             0364     12000     19500                                  
+SSCAER       A758        0030BRITOMGEA      O                             0710     12000     19500                                  
+SSCAER       A758        0040NOVOGMSEA      O                             0403     12000     19500                                  
+SSCAER       R630        0100BENESMGEA      O                             0736     12000     19500                                  
+SSCAER       R630        0110KANELMGEA      O                             0641     12000     19500                                  
+SSCAER       R630        0120JERONMGEA      O                             0173     12000     19500                                  
+SSCAER       G633        0030KINALMGEA      O                             0239     03000     19500                                  
+SSCAER       G633        0080EMADAMGEA      O                                      03000     19500                                  
+SSCAER       G633        0090NALDAMGEA      O                             0459     03000     19500                                  
+SSCAER       R644        0010BRITOMGEA      O                                      11000     19500                                  
+SSCAER       R644        0020PENRUMHEA      O                             0303     11000     19500                                  
+SSCAER       R644        0110PATIKMGEA      O                                      16000     19500                                  
+SSCAER       R644        0120OCASOMGEA      O                             0669     16000     19500                                  
+SSCAER       R644        0130TAP  MMD       O                             0132     16000     19500                                  
+SSCAER       B518        0030DEDALMGEA      O                             0270     03000     19500                                  
+SSCAER       A770        0010RAB  MGD       O                                      11000     19500                                  
+SSCAER       A770        0020COBANMGEA      O                             0352     11000     19500                                  
+SSCAER       A770        0030MAVALMGEA      O                             0804     11000     19500                                  
+SSCAER       A770        0040NALDAMGEA      O                             0502     11000     19500                                  
+SSCAER       A770        0080ROSAMMGEA      O                             0301     11000     19500                                  
+SSCAER       G765        0060DEDALMGEA      O                             0911     11000     19500                                  
+SSCAER       G765        0070NANDOMGEA      O                             0269     11000     19500                                  
+SSCAER       G765        0080TILOTMGEA      O                             0903     11000     19500                                  
+SSCAER       G765        0090RAB  MGD       O                             0352     11000     19500                                  
+SSCAER       G757        0020KINALMGEA      O                             0699     11000     19500                                  
+SSCAER       G757        0030RAB  MGD       O                                      11000     19500                                  
+SSCAER       G757        0040VIRSIMGEA      O                             0350     09000     19500                                  
+SSCAER       G757        0050PARALMGEA      O                             0295     05000     19500                                  
+SSCAER       G757        0060TUCANMGEA      O                             0301     05000     19500                                  
+SSCAER       G757        0070TIK  MGD       O                             0251     04000     19500                                  
+SSCAER       G436        0090OTAMIMGEA      O                                      11000     19500                                  
+SSCAER       G436        0100PINOSMGEA      O                             0250     11000     19500                                  
+SSCAER       UA552       0210ERBORMGEA      O                             0404     19500     60000                                  
+SSCAER       UA552       0220KALPAMGEA      O                             0650     19500     60000                                  
+SSCAER       UA552       0230LAGOXMGEA      O                                      19500     60000                                  
+SSCAER       UA552       0240NOVOGMSEA      O                             0530     19500     60000                                  
+SSCAER       UA317       0170SJO  MGD       O                             0451     19500     60000                                  
+SSCAER       UA317       0180TECUNMGEA      O                             0870     19500     60000                                  
+SSCAER       UA317       0190TAP  MMD       O                             0155     19500     60000                                  
+SSCAER       UA758       0010NANDOMGEA      O                                      19500     60000                                  
+SSCAER       UA758       0020BENESMGEA      O                             0364     19500     60000                                  
+SSCAER       UA758       0030BRITOMGEA      O                             0710     19500     60000                                  
+SSCAER       UA758       0040NOVOGMSEA      O                             0403     19500     60000                                  
+SSCAER       UR630       0100BENESMGEA      O                             0736     19500     60000                                  
+SSCAER       UR630       0110KANELMGEA      O                             0641     19500     60000                                  
+SSCAER       UR630       0120JERONMGEA      O                             0173     19500     60000                                  
+SSCAER       UG633       0050KINALMGEA      O                             0239     19500     60000                                  
+SSCAER       UG633       0080EMADAMGEA      O                                      19500     60000                                  
+SSCAER       UG633       0090NALDAMGEA      O                             0459     19500     60000                                  
+SSCAER       UT21        0020NALDAMGEA      O                             1272     19500     60000                                  
+SSCAER       UR644       0010BRITOMGEA      O                                      19500     60000                                  
+SSCAER       UR644       0020PENRUMHEA      O                             0303     19500     60000                                  
+SSCAER       UR644       0100PATIKMGEA      O                                      19500     60000                                  
+SSCAER       UR644       0110OCASOMGEA      O                             0669     19500     60000                                  
+SSCAER       UR644       0120TAP  MMD       O                             0132     19500     60000                                  
+SSCAER       UB518       0030DEDALMGEA      O                             0270     19500     60000                                  
+SSCAER       UA770       0010RAB  MGD       O                                      19500     60000                                  
+SSCAER       UA770       0020COBANMGEA      O                             0352     19500     60000                                  
+SSCAER       UA770       0030MAVALMGEA      O                             0804     19500     60000                                  
+SSCAER       UA770       0040NALDAMGEA      O                             0502     19500     60000                                  
+SSCAER       UA770       0080ROSAMMGEA      O                             0301     19500     60000                                  
+SSCAER       UM787       0090TIK  MGD       O                             3656     24500     60000                                  
+SSCAER       UM787       0100PILKOMMEA      O                             0772     19500     60000                                  
+SSCAER       UG765       0030DEDALMGEA      O                             0911     19500     60000                                  
+SSCAER       UG765       0040NANDOMGEA      O                             0269     19500     60000                                  
+SSCAER       UG765       0050TILOTMGEA      O                             0903     19500     60000                                  
+SSCAER       UG765       0060RAB  MGD       O                             0352     19500     60000                                  
+SSCAER       UG757       0020KINALMGEA      O                             0699     19500     60000                                  
+SSCAER       UG757       0030RAB  MGD       O                                      19500     60000                                  
+SSCAER       UG757       0040VIRSIMGEA      O                             0350     19500     60000                                  
+SSCAER       UG757       0050PARALMGEA      O                             0295     19500     60000                                  
+SSCAER       UG757       0060TUCANMGEA      O                             0301     19500     60000                                  
+SSCAER       UG757       0070TIK  MGD       O                             0251     19500     60000                                  
+SSCAER       UG436       0140OTAMIMGEA      O                                      19500     60000                                  
+SSCAER       UG436       0150PINOSMGEA      O                             0250     19500     60000                                  

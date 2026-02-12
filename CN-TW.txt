@@ -1,0 +1,54 @@
+SASIEAENRT   ANLOT              N23562610E1203120100                                                                                
+SASIEAENRT   ARLEN              N22501413E120221317                                                                                 
+SASIEAENRT   CJ126              N25130035E121253434                                                                                 
+SASIEAENRT   DALIN              N23353510E1202246100                                                                                
+SASIEAENRT   MEICH              N23421710E1201641100                                                                                
+SASIEAENRT   PILOX              N24245310E1210128100                                                                                
+SASIEAENRT   SANAS              N24534810E1214131100                                                                                
+SASIEAENRT   TI17A              N25154200E121291200                                                                                 
+SASIEAENRT   TI17B              N25161110E1212823100                                                                                
+SASIEAENRT   TOKEN              N24502310E121433600                                                                                 
+SASIEAENRT   TP232              N25161110E121280000                                                                                 
+SASIEAENRT   TP241              N25120600E121240600                                                                                 
+SASIEAENRT   TP242              N25152400E121281800                                                                                 
+SASIEAENRT   WATER              N24144800E120375400                                                                                 
+SASIDB       AP      000250     N25103310E121312200                                                                                 
+SASIDB       KU      000525     N23350300E120232100                                                                                 
+SASIDB       KT      000425     N22023750E120435050                                                                                 
+SASIDB       WK      000340     N24135910E1204923100                                                                                
+SASIDB       YU      000380     N24010390E121373810                                                                                 
+SASIDB       HW      000280     N24002190E121362680                                                                                 
+SASIDB       MS      000225     N24435410E121442900                                                                                 
+SASIDB       MR      000312     N22584170E120172310                                                                                 
+SASIDB       LK      000335     N25042760E1212527100                                                                                
+SASIDB       RA      000202     N24514200E1211511100                                                                                
+SASIDB       O       000295     N25035540E121375530                                                                                 
+SASIDB       SG      000310     N25041350E121314650                                                                                 
+SASIDB       NN      000375     N23072810E1201207100                                                                                
+SASIDB       SN      000370     N24081060E120391890                                                                                 
+SASIDB       SW      000385     N24594140E121292590                                                                                 
+SASIDB       TC      000210     N24151260E120370740                                                                                 
+SASIDB       ZN      000430     N22453570E121093290                                                                                 
+SASID        APU     011250V    N25103610E1213119100                                                                                
+SASID        TNN     011330V    N23080800E120122300                                                                                 
+SASID        IKUI    011030 D   N23282940E120232880                                                                                 
+SASID        ICHI    010990 D   N23270900E120233120                                                                                 
+SASID        ITCG    011170 D   N24164330E120370790                                                                                 
+SASID        ICCK    011150 D   N24150620E120372160                                                                                 
+SASID        ITNN    011010 D   N22562280E120122460                                                                                 
+SASID        IPTN    010930 D   N22415740E120282430                                                                                 
+SASID        ITSG    010890 D   N25041550E121323550                                                                                 
+SASID        ITLU    010810 D   N25040340E121335470                                                                                 
+SASID        IHLN    011030 D   N24022140E121372190                                                                                 
+SASID        APU     011250 D   N25103610E1213119100                                                                                
+SASID        TNN     011330 D   N23080800E120122300                                                                                 
+SASID        CHI     011180 D   N23275374E120232914                                                                                 
+SASID        CCK     011130 D   N24154550E120370430                                                                                 
+SASID        KTG     011270 D   N22023760E120435010                                                                                 
+SASID        HLN     010860 D   N24014210E1213700100                                                                                
+SASID        MSNN    011170 D   N24113980E120391570                                                                                 
+SASID        PIT     010960 D   N22401462E120273715                                                                                 
+SASID        LKU     011450 D   N25043310E1212537100                                                                                
+SASID        TCK     010840 D   N24151280E120370780                                                                                 
+SASID        TWS     011540 D   N22565975E120121702                                                                                 
+SASID        HC      010830 D   N25035520E121375580                                                                                 

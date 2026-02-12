@@ -1,0 +1,7 @@
+SAFRDB       ND    GB000256     N13204336W016392679                                                                                 
+SAFRD        BJ    GB011290V    N13201728W016391980                                                                                 
+SAFRD        BJ    GB011290 D   N13201728W016391980                                                                                 
+SAFRER       B600F       0040ND   GBD       O                             0699     03500     24500                                  
+SAFRER       B600F       0050YF   GOD       O                             0966     05500     24500                                  
+SAFRER       UB600       0140ND   GBD       O                             0699     24500     46000                                  
+SAFRER       UB600       0150YF   GOD       O                             0966     24500     46000                                  

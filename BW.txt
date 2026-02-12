@@ -1,0 +1,139 @@
+SAFREAENRT   ABFTV FB           S21005157E026521858                                                                                 
+SAFREAENRT   ABKGV FB           S23313552E022531685                                                                                 
+SAFREAENRT   ABKUT FB           S23333301E026082400                                                                                 
+SAFREAENRT   AKTLA FB           S23332893E026082725                                                                                 
+SAFREAENRT   ANTOG FB           S22010898E028220397                                                                                 
+SAFREAENRT   ANTOR FB           S23050463E019595810                                                                                 
+SAFREAENRT   APREV FB           S20250339E027025884                                                                                 
+SAFREAENRT   ASNKI FB           S24115302E024423326                                                                                 
+SAFREAENRT   AXIKO FB           S19570500E0264816100                                                                                
+SAFREAENRT   BONAL FB           S19182469E026050476                                                                                 
+SAFREAENRT   BOPAN FB           S22240881E019595811                                                                                 
+SAFREAENRT   DANAM FB           S21390308E028255898                                                                                 
+SAFREAENRT   ELTON FB           S19062400E0242209100                                                                                
+SAFREAENRT   ETBED FB           S24321696E024384744                                                                                 
+SAFREAENRT   EXOBO FB           S18090901E025260270                                                                                 
+SAFREAENRT   GABSI FB           S24194506E020000554                                                                                 
+SAFREAENRT   KULBU FB           S20561126E027410791                                                                                 
+SAFREAENRT   KUTLA FB           S23360757E026185874                                                                                 
+SAFREAENRT   LOTIS FB           S19205768E025551974                                                                                 
+SAFREAENRT   SINKI FB           S24160839E024410657                                                                                 
+SAFREAENRT   SOKIM FB           S23430954E026150374                                                                                 
+SAFREAENRT   TAVAS FB           S21014818E020595823                                                                                 
+SAFREAENRT   TAVLA FB           S22372310E0281735100                                                                                
+SAFREAENRT   UBVEM FB           S25251503E025053566                                                                                 
+SAFREAENRT   UNBIS FB           S24230781E024394988                                                                                 
+SAFREAENRT   UTADI FB           S21433841E021003104                                                                                 
+SAFREAENRT   UTRAN FB           S19404610E0243706100                                                                                
+SAFREAENRT   UTRIS FB           S23100528E020001462                                                                                 
+SAFREAENRT   UTVIN FB           S23370855E025175964                                                                                 
+SAFREAENRT   UVELA FB           S18245408E025084603                                                                                 
+SAFREAENRT   UVLAS FB           S23000272E026160374                                                                                 
+SAFREAENRT   XORAK FB           S23511124E020001025                                                                                 
+SAFRDB       GBL   FB000323     S24323510E0255604100                                                                                
+SAFRDB       GBE   FB000311     S24310457E025593832                                                                                 
+SAFRDB       GZ    FB000387     S21415701E021391718                                                                                 
+SAFRDB       JWN   FB000277     S24360237E024410921                                                                                 
+SAFRDB       KAS   FB000287     S17492287E025092340                                                                                 
+SAFRDB       LVA   FB000254     S22110299E029065968                                                                                 
+SAFRDB       MN    FB000350     S19584176E023254469                                                                                 
+SAFRDB       OR    FB000295     S21160682E025180470                                                                                 
+SAFRDB       SP    FB000303     S22031080E027481564                                                                                 
+SAFRD        FTV   FB011240V    S21094553E027282598                                                                                 
+SAFRD        GBV   FB011370V    S24355177E025495684                                                                                 
+SAFRD        KGV   FB011510V    S23404697E022491159                                                                                 
+SAFRD        KSV   FB011330V    S17495788E025101151                                                                                 
+SAFRD        MNV   FB011270V    S19592534E023231972                                                                                 
+SAFRD        FTV   FB011240 D   S21094553E027282598                                                                                 
+SAFRD        GBV   FB011370 D   S24355177E025495684                                                                                 
+SAFRD        KSV   FB011330 D   S17495788E025101151                                                                                 
+SAFRD        MNV   FB011270 D   S19592534E023231972                                                                                 
+SAFRER       UA404       0090BONALFBEA      O                             0715     24500     46000                                  
+SAFRER       UA404       0100TAVASFBEA      O                                      24500     46000                                  
+SAFRER       UA404       0110WHV    D       O                             2151     24500     46000                                  
+SAFRER       A404F       0010BONALFBEA      O                                      09500     24500                                  
+SAFRER       A404F       0020LOTISFBEA      O                             0096     09500     24500                                  
+SAFRER       A404F       0030MNV  FBD       O                             1483     09500     24500                                  
+SAFRER       A404F       0040TAVASFBEA      O                             1482     09500     24500                                  
+SAFRER       A404        0010BONALFBEA      O                                      12500     24500                                  
+SAFRER       A404        0020VSB  FVD       O                             2985     12500     24500                                  
+SAFRER       A404        0040TAVASFBEA      O                                      14500     24500                                  
+SAFRER       A404        0050WHV    D       O                             2151     14500     24500                                  
+SAFRER       G653        0090GBV  FBD       O                             0127     07000     24500                                  
+SAFRER       G653        0100SINKIFBEA      O                             0657     09500     24500                                  
+SAFRER       G653        0110KGV  FBD       O                             1083     09500     24500                                  
+SAFRER       G655        0010DANAMFBEA      O                                      12500     24500                                  
+SAFRER       G655        0020VBU  FVD       O                             0981     12500     24500                                  
+SAFRER       G853        0070MNV  FBD       O                                      09500     24500                                  
+SAFRER       G853        0080SOKIMFBEA      O                             2749     09500     24500                                  
+SAFRER       G853        0090RUDASFAEA      O                             0449     09500     24500                                  
+SAFRER       B400        0080GBV  FBD       O                                      09500     24500                                  
+SAFRER       B400        0090KUTLAFBEA      O                             0654     09500     24500                                  
+SAFRER       B400        0100FTV  FBD       O                             1599     07000     24500                                  
+SAFRER       B400        0110KULBUFBEA      O                             0180     07000     24500                                  
+SAFRER       B400        0120VBU  FVD       O                             0766     12500     24500                                  
+SAFRER       G655D       0030TAVLAFBEA      O                             0919     10500     19500                                  
+SAFRER       R779        0010EXOBOFBEA      O                                      09500     24500                                  
+SAFRER       R779        0020UVELAFBEA      O                             0228     09500     24500                                  
+SAFRER       R779        0030MNV  FBD       O                             1374     09500     24500                                  
+SAFRER       B733        0010GBV  FBD       O                                      09500     24500                                  
+SAFRER       B733        0020UTVINFBEA      O                             0656     09500     24500                                  
+SAFRER       B733        0030MNV  FBD       O                             2425     09500     24500                                  
+SAFRER       UM731       0200ELTONFBEA      O                             0994     24500     46000                                  
+SAFRER       UM731       0210UTRANFBEA      O                             0372     24500     46000                                  
+SAFRER       UM731       0220RUDASFAEA      O                             3027     24500     46000                                  
+SAFRER       UZ7         0150TAVLAFBEA      O                                      20000     60000                                  
+SAFRER       UZ7         0160EPVOLFAEA      O                             0797     20000     60000                                  
+SAFRER       UZ27        0160TAVLAFBEA      O                             1369     20000     60000                                  
+SAFRER       UL435       0030BOPANFBEA      O                                      20500     60000                                  
+SAFRER       UL435       0040GBV  FBD       O                             3471     20500     60000                                  
+SAFRER       UL435       0050NESEKFAEA      O                             0501     20000     60000                                  
+SAFRER       UA404       0010BONALFBEA      O                                      24500     46000                                  
+SAFRER       UA404       0020LOTISFBEA      O                             0096     24500     46000                                  
+SAFRER       UA404       0030MNV  FBD       O                             1483     24500     46000                                  
+SAFRER       UA404       0040TAVASFBEA      O                             1482     24500     46000                                  
+SAFRER       UR991       0010BOPANFBEA      O                                      24500     46000                                  
+SAFRER       UR991       0020ILDIR  EA      O                             6221     24500     46000                                  
+SAFRER       UB733       0020MNV  FBD       O                             1402     24500     46000                                  
+SAFRER       UB733       0030GBV  FBD       O                             3081     24500     46000                                  
+SAFRER       UG655       0070DANAMFBEA      O                                      24500     46000                                  
+SAFRER       UG655       0080VBU  FVD       O                             0981     24500     46000                                  
+SAFRER       UG655       0200TAVLAFBEA      O                             0919     20000     46000                                  
+SAFRER       UT1         0030GABSIFBEA      O                                      24500     46000                                  
+SAFRER       UT1         0040UNDAD  EA      O                             0299     24500     46000                                  
+SAFRER       UN183       0060GBV  FBD       O                                      24500     46000                                  
+SAFRER       UN183       0070ETBEDFBEA      O                             0649     24500     46000                                  
+SAFRER       UN183       0080XORAKFBEA      O                             2576     24500     46000                                  
+SAFRER       UN183       0090GEVIM  EA      O                             0265     24500     46000                                  
+SAFRER       UN184       0040UNBISFBEA      O                                      24500     46000                                  
+SAFRER       UN184       0050UTADIFBEA      O                             2574     24500     46000                                  
+SAFRER       UN184       0060UNGEV  EA      O                             2535     24500     46000                                  
+SAFRER       UN181       0090UBVEMFBEA      O                             0303     24500     46000                                  
+SAFRER       UN181       0100GABSIFBEA      O                             2850     24500     46000                                  
+SAFRER       UN181       0110XUBIL  EA      O                             0298     24500     46000                                  
+SAFRER       UB540       0010FTV  FBD       O                                      24500     46000                                  
+SAFRER       UB540       0020ETMITFAEA      O                             1234     24500     46000                                  
+SAFRER       UG653       0020GBV  FBD       O                             0127     24500     46000                                  
+SAFRER       UG653       0030GBV  FBD       O                                      24500     46000                                  
+SAFRER       UG653       0040SINKIFBEA      O                             0657     24500     46000                                  
+SAFRER       UG653       0050KGV  FBD       O                             1083     24500     46000                                  
+SAFRER       UQ1         0030TAVLAFBEA      O                             1320     20000     60000                                  
+SAFRER       R779-       0010EXOBOFBEA      O                                      24500     46000                                  
+SAFRER       R779-       0020UVELAFBEA      O                             0228     24500     46000                                  
+SAFRER       R779-       0030MNV  FBD       O                             1374     24500     46000                                  
+SAFRER       UR779       0010EXOBOFBEA      O                                      24500     46000                                  
+SAFRER       UR779       0020VLI  FVD       O                             0300     24500     46000                                  
+SAFRER       B400-       0010GBV  FBD       O                                      24500     46000                                  
+SAFRER       B400-       0020KUTLAFBEA      O                             0654     24500     46000                                  
+SAFRER       B400-       0030FTV  FBD       O                             1599     24500     46000                                  
+SAFRER       B400-       0040KULBUFBEA      O                             0180     24500     46000                                  
+SAFRER       B400-       0050VBU  FVD       O                             0766     24500     46000                                  
+SAFRER       UR544       0010FTV  FBD       O                                      24500     46000                                  
+SAFRER       UR544       0020LOTISFBEA      O                             1396     24500     46000                                  
+SAFRER       UR544       0030UVELAFBEA      O                             0713     24500     46000                                  
+SAFRER       UN182       0010GBV  FBD       O                                      24500     46000                                  
+SAFRER       UN182       0020UNBISFBEA      O                             0651     24500     46000                                  
+SAFRER       UN182       0030UTRISFBEA      O                             2662     24500     46000                                  
+SAFRER       G853-       0010MNV  FBD       O                                      24500     46000                                  
+SAFRER       G853-       0020SOKIMFBEA      O                             2749     24500     46000                                  
+SAFRER       G853-       0030RUDASFAEA      O                             0449     24500     46000                                  

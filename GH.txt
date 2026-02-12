@@ -1,0 +1,92 @@
+SAFREAENRT   AFO10 DG           N05230200W002440300                                                                                 
+SAFREAENRT   AMSAT DG           N09000000W002395100                                                                                 
+SAFREAENRT   BONTI DG           N05350310W0004202100                                                                                
+SAFREAENRT   BUGBU DG           N10120500W002150000                                                                                 
+SAFREAENRT   DIKMA DG           N05590190W001400311                                                                                 
+SAFREAENRT   DIRKO DG           N05131742W001041059                                                                                 
+SAFREAENRT   GAPEN DG           N05564993E000423901                                                                                 
+SAFREAENRT   IRVIK DG           N08150210W0003700100                                                                                
+SAFREAENRT   KEMOK DG           N06140889W000572943                                                                                 
+SAFREAENRT   LIPUS DG           N09130500E0000006100                                                                                
+SAFREAENRT   LISOR DG           N05040957W000590508                                                                                 
+SAFREAENRT   LITEX DG           N06381303W000062081                                                                                 
+SAFREAENRT   MIMTI DG           N05322052W001091260                                                                                 
+SAFREAENRT   NANGA DG           N10242910W0024959100                                                                                
+SAFREAENRT   NASAN DG           N06354465E000080106                                                                                 
+SAFREAENRT   NASIA DG           N10060600W0002559100                                                                                
+SAFREAENRT   NAVON DG           N11000000W001125400                                                                                 
+SAFREAENRT   OXIDU DG           N11000000W000201200                                                                                 
+SAFREAENRT   PINGO DG           N11000000E000000600                                                                                 
+SAFREAENRT   TEMBI DG           N05290200W0014203100                                                                                
+SAFREAENRT   TESMO DG           N06372246W000194541                                                                                 
+SAFREAENRT   TURUT DG           N08380700E0000003100                                                                                
+SAFREAENRT   TUSEK DG           N06163600W0031059100                                                                                
+SAFREAENRT   VOLTA DG           N08410700W0010400100                                                                                
+SAFRDB       AA    DG000409     N05403422W000081692                                                                                 
+SAFRDB       KL    DG000271     N06445226W001350204                                                                                 
+SAFRDB       SN    DG000357     N07223892W002175844                                                                                 
+SAFRDB       TI    DG000375     N04544709W001455364                                                                                 
+SAFRDB       TL    DG000415     N09341800W000505700                                                                                 
+SAFRD        ACC   DG011310V    N05380281W000091924                                                                                 
+SAFRD        KSI   DG011390V    N06423085W001352637                                                                                 
+SAFRD        PAM   DG011590V    N08004710E000334140                                                                                 
+SAFRD        TLE   DG011690V    N09342458W000504970                                                                                 
+SAFRD        ACC   DG011310 D   N05380281W000091924                                                                                 
+SAFRD        KSI   DG011390 D   N06423085W001352637                                                                                 
+SAFRD        PAM   DG011590 D   N08004710E000334140                                                                                 
+SAFRD        TLE   DG011690 D   N09342458W000504970                                                                                 
+SAFRER       W7          0450TI   DGD       O                                      03500     24500                                  
+SAFRER       W7          0460TEMBIDGEA      O                             0345     03500     24500                                  
+SAFRER       W7          0470DIKMADGEA      O                             0301     03500     24500                                  
+SAFRER       W7          0480KSI  DGD       O                             0438     03500     24500                                  
+SAFRER       W7          0490VOLTADGEA      O                             1227     03500     24500                                  
+SAFRER       W7          0500TLE  DGD       O                             0549     03500     24500                                  
+SAFRER       W6          0210DIRKODGEA      O                                      01500     24500                                  
+SAFRER       W6          0220TI   DGD       O                             0455     01500     24500                                  
+SAFRER       W1          0500KEMOKDGEA      O                                      03500     24500                                  
+SAFRER       W1          0510KSI  DGD       O                             0472     03500     24500                                  
+SAFRER       W1          0520SN   DGD       O                             0583     01500     24500                                  
+SAFRER       B726        0030PAM  DGD       O                             0900     04500     24500                                  
+SAFRER       B726        0040NASANDGEA      O                             0888     04500     24500                                  
+SAFRER       A601F       0010NANGADGEA      O                                      05500     24500                                  
+SAFRER       A601F       0020BD   DFD       O                             0998     05500     24500                                  
+SAFRER       B600        0010BONTIDGEA      O                                      06500     24500                                  
+SAFRER       B600        0020TEMBIDGEA      O                             0601     06500     24500                                  
+SAFRER       UR984       0270OXIDUDGEA      O                             0303     24500     46000                                  
+SAFRER       UR984       0280OG   DFD       O                             1064     24500     46000                                  
+SAFRER       A609        0010GAPENDGEA      O                                      11500     24500                                  
+SAFRER       A609        0020LM   DXD       O                             0362     11500     24500                                  
+SAFRER       R984        0090OXIDUDGEA      O                             1064     04500     24500                                  
+SAFRER       R982        0020NAVONDGEA      O                             0827     04500     24500                                  
+SAFRER       R982        0030TLE  DGD       O                             0884     11500     24500                                  
+SAFRER       UB726       0040PAM  DGD       O                             0900     24500     60000                                  
+SAFRER       UB726       0050NASANDGEA      O                             0888     24500     60000                                  
+SAFRER       UA601       0170NANGADGEA      O                             0165     24500     46000                                  
+SAFRER       UA601       0180BUGBUDGEA      O                             0366     24500     60000                                  
+SAFRER       UA601       0190TLE  DGD       O                             0911     24500     60000                                  
+SAFRER       UA601       0200TURUTDGEA      O                             0755     24500     60000                                  
+SAFRER       UA601       0210PAM  DGD       O                             0500     24500     60000                                  
+SAFRER       UA601       0220TYE  DBD       O                             1474     24500     60000                                  
+SAFRER       UG855       0070NASIADGEA      O                             0416     24500     60000                                  
+SAFRER       UG855       0080TLE  DGD       O                             0401     24500     60000                                  
+SAFRER       UG855       0090SN   DGD       O                             1576     24500     60000                                  
+SAFRER       UG855       0100TUSEKDGEA      O                             0845     24500     60000                                  
+SAFRER       UA560       0010LISORDGEA      O                                      24500     60000                                  
+SAFRER       UA560       0020BIPEX  EA      O                             0582     24500     60000                                  
+SAFRER       UG859       0050BUGBUDGEA      O                                      24500     46000                                  
+SAFRER       UG859       0060TUMUTDFEA      O                             0506     24500     46000                                  
+SAFRER       UR983       0030NASIADGEA      O                             0604     24500     60000                                  
+SAFRER       UR983       0040LIPUSDGEA      O                             0590     24500     60000                                  
+SAFRER       UR983       0050PAM  DGD       O                             0796     24500     60000                                  
+SAFRER       UR983       0060LM   DXD       O                             1176     24500     60000                                  
+SAFRER       UB600       0190MIMTIDGEA      O                                      24500     60000                                  
+SAFRER       UB600       0200TEMBIDGEA      O                             0329     24500     60000                                  
+SAFRER       UA603       0050PINGODGEA      O                             1089     24500     46000                                  
+SAFRER       UA603       0060TAMILDXEA      O                             0220     24500     60000                                  
+SAFRER       UA603       0070LIPUSDGEA      O                             0850     24500     60000                                  
+SAFRER       UA603       0080TURUTDGEA      O                             0350     24500     60000                                  
+SAFRER       UA603       0090LITEXDGEA      O                             1201     24500     60000                                  
+SAFRER       UA609       0130GAPENDGEA      O                                      24500     60000                                  
+SAFRER       UA609       0140LM   DXD       O                             0362     24500     60000                                  
+SAFRER       UR982       0020NAVONDGEA      O                             0827     24500     46000                                  
+SAFRER       UR982       0030TLE  DGD       O                             0884     24500     60000                                  

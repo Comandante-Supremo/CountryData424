@@ -1,0 +1,90 @@
+SSCAEAENRT   ELODO MT           N18220000W0734759100                                                                                
+SSCAEAENRT   ETBOD MT           N18310000W0715259100                                                                                
+SSCAEAENRT   KENOK MT           N18080820W071540120                                                                                 
+SSCAEAENRT   MEDON MT           N19460510W0730047100                                                                                
+SSCAEAENRT   NABEN MT           N18514710W071434900                                                                                 
+SSCAEAENRT   NOKEN MT           N18395207W072153921                                                                                 
+SSCAEAENRT   ONPAD MT           N19362400W0714423100                                                                                
+SSCAEAENRT   OSIDU MT           N19252310W071403600                                                                                 
+SSCAEAENRT   PAP01 MT           N18472889W072160662                                                                                 
+SSCAEAENRT   PAP05 MT           N18340909W072232844                                                                                 
+SSCAEAENRT   PAP08 MT           N18333796W072130525                                                                                 
+SSCAEAENRT   PAP09 MT           N18334323W072273961                                                                                 
+SSCAEAENRT   PAP10 MT           N18345384W072153849                                                                                 
+SSCAEAENRT   PAP18 MT           N18342971W072200748                                                                                 
+SSCAEAENRT   PAP20 MT           N18343759W072202154                                                                                 
+SSCAEAENRT   PAP40 MT           N18461309W072242843                                                                                 
+SSCAEAENRT   PAP50 MT           N18344068W0722330100                                                                                
+SSCAEAENRT   PAP73 MT           N18343017W072233099                                                                                 
+SSCAEAENRT   PAP90 MT           N18344472W072274362                                                                                 
+SSCAEAENRT   R1523 MT           N18344558W072182492                                                                                 
+SSCAEAENRT   R2650 MT           N18345079W072164137                                                                                 
+SSCAEAENRT   SATOR MT           N19450000W072120000                                                                                 
+SSCAEAENRT   SAVAR MT           N19052190W072360380                                                                                 
+SSCAEAENRT   SEDET MT           N19092890W072135220                                                                                 
+SSCAEAENRT   SINKA MT           N19513010W0725429100                                                                                
+SSCAEAENRT   VETMO MT           N19043600W072373000                                                                                 
+SSCADB       HTN   MT000288     N19435400W0721136100                                                                                
+SSCADB       CAY   MT000350     N18160243W073465874                                                                                 
+SSCADB       HHP   MT000270     N18343840W072171160                                                                                 
+SSCAD        HCN   MT011390V    N19434020W072114800                                                                                 
+SSCAD        OBN   MT011320V    N18261770W0721627100                                                                                
+SSCAD        PAP   MT011530V    N18343550W072181520                                                                                 
+SSCAD        IMG   MT011150 D   N18344856W072181295                                                                                 
+SSCAD        OBN   MT011320 D   N18261770W0721627100                                                                                
+SSCAD        PAP   MT011530 D   N18343550W072181520                                                                                 
+SSCAER       W26         0310ETBODMTEA      O                                      14000     19500                                  
+SSCAER       W26         0320PODAKMDEA      O                             0768     14000     19500                                  
+SSCAER       W13         0010ETBODMTEA      O                                      08000     19500                                  
+SSCAER       W13         0020BHO  MDD       O                             0457     08000     19500                                  
+SSCAER       G633        0220ETBODMTEA      O                             0770     11000     19500                                  
+SSCAER       G633        0230PAP  MTD       O                             0242     10500     24500                                  
+SSCAER       G633        0240MAROT  EA      O                             0350     10500     24500                                  
+SSCAER       B891        0010ETBODMTEA      O                                      14000     19500                                  
+SSCAER       B891        0020BEPALMDEA      O                             0429     14000     19500                                  
+SSCAER       L212        0040ONPADMTEA      O                             0461     06000     19500                                  
+SSCAER       A756        0010HCN  MTD       O                                      07500     24500                                  
+SSCAER       A756        0020NOSOX  EA      O                             0338     07500     24500                                  
+SSCAER       G444        0040OBN  MTD       O                             0188     10500     24500                                  
+SSCAER       G444        0050NOKENMTEA      O                             0136     07500     24500                                  
+SSCAER       G444        0060SEDETMTEA      O                             0297     07500     24500                                  
+SSCAER       G444        0070HCN  MTD       O                             0343     07500     24500                                  
+SSCAER       G444        0080TUMAR  EA      O                             0374     07500     24500                                  
+SSCAER       A772        0020KENOKMTEA      O                             0189     10500     24500                                  
+SSCAER       A772        0030OBN  MTD       O                             0280     10500     24500                                  
+SSCAER       A315        0030MEDONMTEA      O                                      07500     24500                                  
+SSCAER       A315        0040VETMOMTEA      O                             0471     07500     24500                                  
+SSCAER       A315        0050OBNOR  EA      O                             0279     07500     24500                                  
+SSCAER       A315        0060OBN  MTD       O                             0153     07500     24500                                  
+SSCAER       A315        0070TOVOL  EA      O                             0212     10500     24500                                  
+SSCAER       G444W       0010HCN  MTD       O                                      07500     24500                                  
+SSCAER       G444W       0020SAVARMTEA      O                             0447     07500     24500                                  
+SSCAER       A315-       0020MEDONMTEA      O                             0253     07500     24500                                  
+SSCAER       A315E       0010MEDONMTEA      O                                      07500     24500                                  
+SSCAER       A315E       0020SAVARMTEA      O                             0471     07500     24500                                  
+SSCAER       A315E       0030PAP  MTD       O                             0351     07500     24500                                  
+SSCAER       UL304       0230ETBODMTEA      O                             1236     25000     60000                                  
+SSCAER       UL304       0240RODBU  EA      O                             0923     19500     41000                                  
+SSCAER       UB882       0040MEDONMTEA      O                             0399     24500     60000                                  
+SSCAER       UB882       0050NOSOX  EA      O                             0287     24500     60000                                  
+SSCAER       UG633       0100ETBODMTEA      O                                      19500     60000                                  
+SSCAER       UG633       0110PITEXMDEA      O                             0447     19500     60000                                  
+SSCAER       UG633       0020OBN  MTD       O                             1365     24500     60000                                  
+SSCAER       UG633       0030ETBODMTEA      O                             0228     24500     60000                                  
+SSCAER       UB891       0010ETBODMTEA      O                                      19500     60000                                  
+SSCAER       UB891       0020BEPALMDEA      O                             0429     19500     60000                                  
+SSCAER       UL212       0040ONPADMTEA      O                             0461     19500     60000                                  
+SSCAER       UL212       0050SINKAMTEA      O                             0677     11000     60000                                  
+SSCAER       UL212       0060URLAM  EA      O                             0269     11000     60000                                  
+SSCAER       UG444       0030HCN  MTD       O                             0374     24500     60000                                  
+SSCAER       UG444       0040SEDETMTEA      O                             0343     24500     60000                                  
+SSCAER       UG444       0050OBN  MTD       O                             0433     24500     60000                                  
+SSCAER       UG444       0060KOBEX  EA      O                             0309     24500     60000                                  
+SSCAER       UA756       0030HCN  MTD       O                             0338     24500     60000                                  
+SSCAER       UL337       0020OSIDUMTEA      O                             0956     25000     60000                                  
+SSCAER       UL337       0030EPTESMDEA      O                             0924     19500     41000                                  
+SSCAER       UA315       0120MEDONMTEA      O                             0253     24500     60000                                  
+SSCAER       UA315       0130VETMOMTEA      O                             0471     24500     60000                                  
+SSCAER       UA315       0140OBNOR  EA      O                             0279     24500     60000                                  
+SSCAER       UA315       0150OBN  MTD       O                             0153     24500     60000                                  
+SSCAER       UA315       0160TOVOL  EA      O                             0212     24500     60000                                  

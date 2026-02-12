@@ -1,0 +1,37 @@
+SAFREAENRT   ASM01 HH           N15164441E038523190                                                                                 
+SAFREAENRT   ASM07 HH           N15154032E038470056                                                                                 
+SAFREAENRT   ASM09 HH           N15151579E038445903                                                                                 
+SAFREAENRT   ASM10 HH           N15150352E038435826                                                                                 
+SAFREAENRT   ASM12 HH           N15160634E038414368                                                                                 
+SAFREAENRT   ASM15 HH           N15164766E038523483                                                                                 
+SAFREAENRT   ASM26 HH           N15165834E038434531                                                                                 
+SAFREAENRT   ASM27 HH           N15192727E038415540                                                                                 
+SAFREAENRT   ASM28 HH           N15191407E038435939                                                                                 
+SAFREAENRT   BARKU HH           N16511110E038174800                                                                                 
+SAFREAENRT   BOPSA HH           N13115910E0414947100                                                                                
+SAFREAENRT   EKBOR HH           N14250510E040220000                                                                                 
+SAFREAENRT   GEREK HH           N14031710E041000000                                                                                 
+SAFREAENRT   IAS02 HH           N15162989E038514039                                                                                 
+SAFREAENRT   IAS04 HH           N15155677E038494076                                                                                 
+SAFREAENRT   IAS07 HH           N15150706E038464138                                                                                 
+SAFREAENRT   IAS09 HH           N15143394E038444196                                                                                 
+SAFREAENRT   IAS12 HH           N15134426E038414247                                                                                 
+SAFREAENRT   IBRAD HH           N13255400E042000000                                                                                 
+SAFREAENRT   IMDAX HH           N16190000E0385559100                                                                                
+SAFREAENRT   MANDA HH           N12352310E0424717100                                                                                
+SAFREAENRT   OKMAB HH           N13330000E0420459100                                                                                
+SAFREAENRT   R1624 HH           N15170264E038533871                                                                                 
+SAFREAENRT   TESON HH           N15205310E037104900                                                                                 
+SAFRDB       AS    HH000305     N15165266E038530686                                                                                 
+SAFRDB       MS    HH000230     N15394394E039204207                                                                                 
+SAFRD        ASM   HH011370V    N15170600E038540600                                                                                 
+SAFRD        IAS   HH011030 D   N15170182E038535168                                                                                 
+SAFRD        IMS   HH011050 D   N15402834E039231480                                                                                 
+SAFRD        ASM   HH011370 D   N15170600E038540600                                                                                 
+SAFRER       W180        0010BARKUHHEA      O                                      13000     60000                                  
+SAFRER       W180        0020IMDAXHHEA      O                             0488     13000     60000                                  
+SAFRER       A451-       0010BARKUHHEA      O                                      11500     60000                                  
+SAFRER       A451-       0020TOKARHSEA      O                             0804     11500     60000                                  
+SAFRER       UA408       0040IBRADHHEA      O                                      24500     60000                                  
+SAFRER       UA408       0050BOPSAHHEA      O                             0171     24500     60000                                  
+SAFRER       UA408       0060TATGUHAEA      O                             0224     24500     66000                                  

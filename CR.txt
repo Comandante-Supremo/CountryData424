@@ -1,0 +1,132 @@
+SSCAEAENRT   CACHI MR           N09490910W0834524100                                                                                
+SSCAEAENRT   CANAS MR           N10161110W0845053100                                                                                
+SSCAEAENRT   CARBA MR           N09551377W084233353                                                                                 
+SSCAEAENRT   CHANG MR           N10453913W085324182                                                                                 
+SSCAEAENRT   CHILE MR           N11025010W0843512100                                                                                
+SSCAEAENRT   CLARA MR           N09583160W083432610                                                                                 
+SSCAEAENRT   EGODI MR           N08514200W0824905100                                                                                
+SSCAEAENRT   FINCA MR           N09361800W083541400                                                                                 
+SSCAEAENRT   INDIO MR           N10253287W085325417                                                                                 
+SSCAEAENRT   ISEBA MR           N09322860W082521150                                                                                 
+SSCAEAENRT   LIB03 MR           N10342118W085353452                                                                                 
+SSCAEAENRT   LIB04 MR           N10371572W085290594                                                                                 
+SSCAEAENRT   LIB05 MR           N10333129W085372553                                                                                 
+SSCAEAENRT   LIB07 MR           N10381012W085261067                                                                                 
+SSCAEAENRT   LIB10 MR           N10312650W085420299                                                                                 
+SSCAEAENRT   LIB26 MR           N10344935W085425581                                                                                 
+SSCAEAENRT   LIB30 MR           N10364109W085295747                                                                                 
+SSCAEAENRT   LIB33 MR           N10343088W085353851                                                                                 
+SSCAEAENRT   LIB42 MR           N10305811W085414902                                                                                 
+SSCAEAENRT   LIB48 MR           N10315558W085421543                                                                                 
+SSCAEAENRT   LIB50 MR           N10372447W085280378                                                                                 
+SSCAEAENRT   LIB68 MR           N10391287W085231950                                                                                 
+SSCAEAENRT   LIB88 MR           N10354743W085223887                                                                                 
+SSCAEAENRT   LOPEZ MR           N09512947W084325981                                                                                 
+SSCAEAENRT   MONTE MR           N09571537W084184867                                                                                 
+SSCAEAENRT   PABLO MR           N09513842W084272507                                                                                 
+SSCAEAENRT   PARAI MR           N09504800W083501200                                                                                 
+SSCAEAENRT   PARZA MR           N09493396W084373812                                                                                 
+SSCAEAENRT   PIRAS MR           N10540310W084223100                                                                                 
+SSCAEAENRT   R1514 MR           N09592040W084131869                                                                                 
+SSCAEAENRT   RADON MR           N10412610W084042100                                                                                 
+SSCAEAENRT   RAMON MR           N10040448W084251729                                                                                 
+SSCAEAENRT   SEQUE MR           N10312497W085233372                                                                                 
+SSCAEAENRT   TIGRE MR           N10293510W083480600                                                                                 
+SSCAEAENRT   TIO01 MR           N09583835W084150635                                                                                 
+SSCAEAENRT   TIO23 MR           N09523289W084215518                                                                                 
+SSCAEAENRT   TIO68 MR           N10003157W084102457                                                                                 
+SSCAEAENRT   TOMAS MR           N09532220W084281794                                                                                 
+SSCAEAENRT   ULAPO MR           N11014110W085101800                                                                                 
+SSCAEAENRT   UPALA MR           N10192310W0843205100                                                                                
+SSCAEAENRT   VAROS MR           N10414375W085405131                                                                                 
+SSCAEAENRT   VILMA MR           N10445355W085364063                                                                                 
+SSCADB       COL   MR000380     N10451110W0833459100                                                                                
+SSCADB       COT   MR000201     N08363090W082581750                                                                                 
+SSCADB       FIO   MR000212     N10265310W084280000                                                                                 
+SSCADB       HOR   MR000260     N09573791W084173674                                                                                 
+SSCADB       LIO   MR000380     N09583600W083015800                                                                                 
+SSCADB       CHI   MR000221     N11021710W0844235100                                                                                
+SSCADB       PAR   MR000395     N09310300W0841900100                                                                                
+SSCAD        TIO   MR011570V    N09590120W084141020                                                                                 
+SSCAD        LIB   MR011280V    N10353910W085324690                                                                                 
+SSCAD        LIO   MR011630V    N09574730W083013780                                                                                 
+SSCAD        IOCO  MR010950 D   N09591710W0841305100                                                                                
+SSCAD        TIO   MR011570 D   N09590120W084141020                                                                                 
+SSCAD        LIB   MR011280 D   N10353910W085324690                                                                                 
+SSCAD        LIO   MR011630 D   N09574730W083013780                                                                                 
+SSCAER       A317        0040LIO  MRD       O                             0276     09000     19500                                  
+SSCAER       A317        0050TIGREMREA      O                             0558     14000     19500                                  
+SSCAER       A317        0060RADONMREA      O                             0199     14000     19500                                  
+SSCAER       A317        0070CHILEMREA      O                             0371     14000     19500                                  
+SSCAER       A317        0080EMARIMNEA      O                             0541     14000     19500                                  
+SSCAER       G440        0070ISEBAMREA      O                                      15000     19500                                  
+SSCAER       G440        0080CACHIMREA      O                             0551     15000     19500                                  
+SSCAER       G440        0090TIO  MRD       O                             0300     15000     19500                                  
+SSCAER       G440        0100CANASMREA      O                             0401     11000     19500                                  
+SSCAER       G440        0110LIB  MRD       O                             0456     11000     19500                                  
+SSCAER       A502        0060COT  MRD       O                             0085     15000     19500                                  
+SSCAER       A502        0070FINCAMREA      O                             0818     15000     19500                                  
+SSCAER       A502        0080TIO  MRD       O                             0301     15000     19500                                  
+SSCAER       A502        0090UPALAMREA      O                             0270     11000     19500                                  
+SSCAER       A502        0100ULAPOMREA      O                             0566     11000     19500                                  
+SSCAER       A502        0110LISPAMNEA      O                             0290     11000     19500                                  
+SSCAER       B767        0080RADONMREA      O                             0802     08000     19500                                  
+SSCAER       B767        0090TIO  MRD       O                             0435     10000     19500                                  
+SSCAER       B767        0100PAR  MRD       O                             0284     10000     19500                                  
+SSCAER       B767        0110ULARA  EA      O                             0477     10000     19500                                  
+SSCAER       G439        0010LIB  MRD       O                                      10000     19500                                  
+SSCAER       G439        0020PELDA  EA      O                             1105     10000     19500                                  
+SSCAER       B690        0010LIO  MRD       O                                      14000     19500                                  
+SSCAER       B690        0020CLARAMREA      O                             0416     14000     19500                                  
+SSCAER       B690        0030TIO  MRD       O                             0299     14000     19500                                  
+SSCAER       A322        0010COL  MRD       O                                      12000     19500                                  
+SSCAER       A322        0020TIGREMREA      O                             0202     12000     19500                                  
+SSCAER       A322        0030TIO  MRD       O                             0399     12000     19500                                  
+SSCAER       R773        0010COT  MRD       O                                      10000     19500                                  
+SSCAER       R773        0020PAR  MRD       O                             0970     10000     19500                                  
+SSCAER       R773        0030LIB  MRD       O                             0972     10000     19500                                  
+SSCAER       G436        0020LIB  MRD       O                             0260     08000     19500                                  
+SSCAER       G436        0030SELAK  EA      O                             0731     10000     19500                                  
+SSCAER       UA317       0040LIO  MRD       O                             0276     19500     60000                                  
+SSCAER       UA317       0050TIGREMREA      O                             0558     19500     60000                                  
+SSCAER       UA317       0060RADONMREA      O                             0199     19500     60000                                  
+SSCAER       UA317       0070CHILEMREA      O                             0371     19500     60000                                  
+SSCAER       UA317       0080EMARIMNEA      O                             0541     19500     60000                                  
+SSCAER       UG440       0010LIB  MRD       O                                      19500     60000                                  
+SSCAER       UG440       0020CANASMREA      O                             0456     19500     60000                                  
+SSCAER       UG440       0030TIO  MRD       O                             0401     19500     60000                                  
+SSCAER       UG440       0040CACHIMREA      O                             0300     19500     60000                                  
+SSCAER       UG440       0050ISEBAMREA      O                             0551     19500     60000                                  
+SSCAER       UG440       0060BDT    D       O                             0386     19500     60000                                  
+SSCAER       UA502       0060ULAPOMREA      O                             0290     19500     60000                                  
+SSCAER       UA502       0070UPALAMREA      O                             0566     19500     60000                                  
+SSCAER       UA502       0080TIO  MRD       O                             0270     19500     60000                                  
+SSCAER       UA502       0090FINCAMREA      O                             0301     19500     60000                                  
+SSCAER       UA502       0100COT  MRD       O                             0818     19500     60000                                  
+SSCAER       UA502       0110POXONMPEA      O                             0085     19500     60000                                  
+SSCAER       UB767       0070RADONMREA      O                             0802     19500     60000                                  
+SSCAER       UB767       0080TIO  MRD       O                             0435     19500     60000                                  
+SSCAER       UB767       0090PAR  MRD       O                             0284     19500     60000                                  
+SSCAER       UB767       0100ULARA  EA      O                             0477     19500     60000                                  
+SSCAER       UZ403       0030PIRASMREA      O                             3157     19500     60000                                  
+SSCAER       UZ403       0040FIO  MRD       O                             0277     19500     60000                                  
+SSCAER       UG439       0010LIB  MRD       O                                      19500     60000                                  
+SSCAER       UG439       0020PELDA  EA      O                             1105     19500     60000                                  
+SSCAER       UB690       0010LIO  MRD       O                                      19500     60000                                  
+SSCAER       UB690       0020CLARAMREA      O                             0416     19500     60000                                  
+SSCAER       UB690       0030TIO  MRD       O                             0299     19500     60000                                  
+SSCAER       UA322       0010COL  MRD       O                                      19500     60000                                  
+SSCAER       UA322       0020TIGREMREA      O                             0202     19500     60000                                  
+SSCAER       UA322       0030TIO  MRD       O                             0399     19500     60000                                  
+SSCAER       UR773       0010COT  MRD       O                                      19500     60000                                  
+SSCAER       UR773       0020PAR  MRD       O                             0970     19500     60000                                  
+SSCAER       UR773       0030LIB  MRD       O                             0972     19500     60000                                  
+SSCAER       UG436       0060LIB  MRD       O                             0731     19500     60000                                  
+SSCAER       UG436       0070ELENA  EA      O                             0260     19500     60000                                  
+SSCAER       UM659       0030PAR  MRD       O                             2328     19500     60000                                  
+SSCAER       UL200       0010LIO  MRD       O                                      19500     60000                                  
+SSCAER       UL200       0020LIB  MRD       O                             1536     19500     60000                                  
+SSCAER       UL200       0030TAMES  EA      O                             2401     19500     60000                                  
+SSCAER       UM796       0010LIO  MRD       O                                      19500     60000                                  
+SSCAER       UM796       0020PADUR  EA      O                             0254     19500     60000                                  
+SSCAER       UZ593       0020PAR  MRD       O                             4933     19500     60000                                  

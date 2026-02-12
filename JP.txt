@@ -1,0 +1,1231 @@
+SASIEAENRT   ABIRA RJ           N42475356E141575143                                                                                 
+SASIEAENRT   ABKMA RJ           N37055012E140251799                                                                                 
+SASIEAENRT   AKAGI RJ           N36232835E139415631                                                                                 
+SASIEAENRT   AKANE RJ           N35315255E137300315                                                                                 
+SASIEAENRT   AKASI RJ           N34343968E134451205                                                                                 
+SASIEAENRT   AKE22 RJ           N32345384E130343734                                                                                 
+SASIEAENRT   AKKIE RJ           N34140365E131064135                                                                                 
+SASIEAENRT   AKUNE RJ           N32055788E130253521                                                                                 
+SASIEAENRT   AMORI RJ           N31414352E130473367                                                                                 
+SASIEAENRT   AMUSE RJ           N35332768E139572170                                                                                 
+SASIEAENRT   ARIKA RJ           N40263670E139553967                                                                                 
+SASIEAENRT   ASAHI RJ           N35372160E1395841100                                                                                
+SASIEAENRT   ASANO RJ           N34471332E134390409                                                                                 
+SASIEAENRT   ASIBE RJ           N43270398E142170093                                                                                 
+SASIEAENRT   ASONO RJ           N33005811E131144942                                                                                 
+SASIEAENRT   ASUKA RJ           N34460272E136015473                                                                                 
+SASIEAENRT   AVION RJ           N35251759E140105833                                                                                 
+SASIEAENRT   AWE08 RJ           N43475019E142245546                                                                                 
+SASIEAENRT   AWE09 RJ           N43322364E142205096                                                                                 
+SASIEAENRT   AWE20 RJ           N43310990E142251569                                                                                 
+SASIEAENRT   AWE35 RJ           N43361729E142293105                                                                                 
+SASIEAENRT   AWE70 RJ           N43351792E142301089                                                                                 
+SASIEAENRT   AWE76 RJ           N43310990E142293361                                                                                 
+SASIEAENRT   AWE85 RJ           N43341315E142305433                                                                                 
+SASIEAENRT   AWE90 RJ           N43314457E142321488                                                                                 
+SASIEAENRT   AYANO RJ           N34054603E136233709                                                                                 
+SASIEAENRT   AZUMI RJ           N36285015E137543288                                                                                 
+SASIEAENRT   BABBS RJ           N36055506E139191238                                                                                 
+SASIEAENRT   BAMBO RJ           N34184775E132530179                                                                                 
+SASIEAENRT   BASIL RJ           N34305564E132254092                                                                                 
+SASIEAENRT   BATIE RJ           N35344453E139211387                                                                                 
+SASIEAENRT   BEEBA RJ           N43210667E141425979                                                                                 
+SASIEAENRT   BIGUN RJ           N35564406E139181163                                                                                 
+SASIEAENRT   BINGO RJ           N34242572E133104068                                                                                 
+SASIEAENRT   BIRDY RJ           N35522941E140194213                                                                                 
+SASIEAENRT   BISEI RJ           N42515466E142554363                                                                                 
+SASIEAENRT   BIWWA RJ           N35070509E136151750                                                                                 
+SASIEAENRT   BIZEN RJ           N34423565E134125432                                                                                 
+SASIEAENRT   BODAI RJ           N36003658E139173637                                                                                 
+SASIEAENRT   BOTAN RJ           N33275634E133110588                                                                                 
+SASIEAENRT   BREEE RJ           N35240988E139250225                                                                                 
+SASIEAENRT   BRIAN RJ           N40331058E141383502                                                                                 
+SASIEAENRT   BUZEN RJ           N33322098E131074072                                                                                 
+SASIEAENRT   BYOBU RJ           N41000955E140441425                                                                                 
+SASIEAENRT   CAHOW RJ           N40422992E141122127                                                                                 
+SASIEAENRT   CANAL RJ           N35281843E139414403                                                                                 
+SASIEAENRT   CANNA RJ           N37553481E140412880                                                                                 
+SASIEAENRT   CARDS RJ           N34250750E136240306                                                                                 
+SASIEAENRT   CARPS RJ           N34242457E132213384                                                                                 
+SASIEAENRT   CH006 RJ           N42395457E141423556                                                                                 
+SASIEAENRT   CH054 RJ           N42453004E141413240                                                                                 
+SASIEAENRT   CHAUS RJ           N35263325E138022931                                                                                 
+SASIEAENRT   CHE01 RJ           N42432808E141413351                                                                                 
+SASIEAENRT   CHE02 RJ           N42481796E141411917                                                                                 
+SASIEAENRT   CHE03 RJ           N42475133E141411146                                                                                 
+SASIEAENRT   CHE05 RJ           N42390301E141463931                                                                                 
+SASIEAENRT   CHE13 RJ           N43013860E141462258                                                                                 
+SASIEAENRT   CHE15 RJ           N42564389E141450417                                                                                 
+SASIEAENRT   CHE25 RJ           N42334841E141162573                                                                                 
+SASIEAENRT   CHE36 RJ           N42453504E141413577                                                                                 
+SASIEAENRT   CHE45 RJ           N42451396E141442181                                                                                 
+SASIEAENRT   CHESS RJ           N35203281E136290554                                                                                 
+SASIEAENRT   CHIBA RJ           N35351723E140035831                                                                                 
+SASIEAENRT   CHINO RJ           N35530348E138335577                                                                                 
+SASIEAENRT   CHIZU RJ           N35014616E134302537                                                                                 
+SASIEAENRT   CHOJA RJ           N33121133E131112255                                                                                 
+SASIEAENRT   CHOKA RJ           N39143103E140100449                                                                                 
+SASIEAENRT   CHUJI RJ           N37134398E139303627                                                                                 
+SASIEAENRT   CLOVE RJ           N34492658E133511342                                                                                 
+SASIEAENRT   COMET RJ           N36121566E140352064                                                                                 
+SASIEAENRT   CORRN RJ           N35374303E1392224100                                                                                
+SASIEAENRT   COSMO RJ           N35344572E140311041                                                                                 
+SASIEAENRT   COYEE RJ           N35503841E139193928                                                                                 
+SASIEAENRT   CREST RJ           N35205769E139562334                                                                                 
+SASIEAENRT   CUE35 RJ           N35020734E135065611                                                                                 
+SASIEAENRT   CUE40 RJ           N35103368E135021288                                                                                 
+SASIEAENRT   DAIEI RJ           N35302893E133420718                                                                                 
+SASIEAENRT   DGC12 RJ           N33365033E130255723                                                                                 
+SASIEAENRT   DGC25 RJ           N33471757E130521528                                                                                 
+SASIEAENRT   DONAR RJ           N33210514E132290470                                                                                 
+SASIEAENRT   DREAM RJ           N35385220E139504727                                                                                 
+SASIEAENRT   EATAK RJ           N43040625E143293624                                                                                 
+SASIEAENRT   ENZAN RJ           N35365841E138144499                                                                                 
+SASIEAENRT   ESANN RJ           N42032167E141052755                                                                                 
+SASIEAENRT   ESASI RJ           N41544828E140112445                                                                                 
+SASIEAENRT   FENIX RJ           N32083040E131352930                                                                                 
+SASIEAENRT   FINCH RJ           N38053504E140275137                                                                                 
+SASIEAENRT   FKE01 RJ           N37144394E140255318                                                                                 
+SASIEAENRT   FKE10 RJ           N37232782E140265294                                                                                 
+SASIEAENRT   FKE13 RJ           N37262791E140252222                                                                                 
+SASIEAENRT   FKE15 RJ           N36582698E140251469                                                                                 
+SASIEAENRT   FKE21 RJ           N37040252E140215693                                                                                 
+SASIEAENRT   FKE34 RJ           N37164742E140252033                                                                                 
+SASIEAENRT   FKE54 RJ           N37184502E140244901                                                                                 
+SASIEAENRT   FKE55 RJ           N37231548E140233687                                                                                 
+SASIEAENRT   FLUTE RJ           N34321890E136574944                                                                                 
+SASIEAENRT   FOIO2 RJ           N33364291E130255673                                                                                 
+SASIEAENRT   FUGEN RJ           N32391948E130292548                                                                                 
+SASIEAENRT   FUJYY RJ           N35190060E139010080                                                                                 
+SASIEAENRT   GABBY RJ           N40413011E141320611                                                                                 
+SASIEAENRT   GBE58 RJ           N33233355E134073505                                                                                 
+SASIEAENRT   GINGA RJ           N43373873E143571093                                                                                 
+SASIEAENRT   GLAXY RJ           N36311709E140383916                                                                                 
+SASIEAENRT   GOC09 RJ           N36354069E140215795                                                                                 
+SASIEAENRT   GOC10 RJ           N36382918E140304735                                                                                 
+SASIEAENRT   GOKYO RJ           N32361716E130041281                                                                                 
+SASIEAENRT   GONOU RJ           N40181876E140025247                                                                                 
+SASIEAENRT   GTC01 RJ           N37593179E139254136                                                                                 
+SASIEAENRT   GTC03 RJ           N37235438E138392766                                                                                 
+SASIEAENRT   GTC13 RJ           N37594654E139203084                                                                                 
+SASIEAENRT   GTC15 RJ           N37430750E139122284                                                                                 
+SASIEAENRT   GTC20 RJ           N38110576E139252898                                                                                 
+SASIEAENRT   GTC68 RJ           N37570320E139154644                                                                                 
+SASIEAENRT   GUJYO RJ           N35215052E136343848                                                                                 
+SASIEAENRT   HACHI RJ           N35470421E136405698                                                                                 
+SASIEAENRT   HAIKI RJ           N33093995E129414386                                                                                 
+SASIEAENRT   HAILY RJ           N36155231E139174717                                                                                 
+SASIEAENRT   HAKKO RJ           N40422807E141133968                                                                                 
+SASIEAENRT   HANKA RJ           N39010596E140334077                                                                                 
+SASIEAENRT   HANWA RJ           N34065391E135133595                                                                                 
+SASIEAENRT   HAPPO RJ           N37060490E137532073                                                                                 
+SASIEAENRT   HATAR RJ           N36201840E139362429                                                                                 
+SASIEAENRT   HATSU RJ           N34584097E139310955                                                                                 
+SASIEAENRT   HAUSS RJ           N35563968E139182633                                                                                 
+SASIEAENRT   HAYAS RJ           N33135409E131442060                                                                                 
+SASIEAENRT   HERON RJ           N37302302E140393979                                                                                 
+SASIEAENRT   HGE02 RJ           N34260786E132530131                                                                                 
+SASIEAENRT   HGE04 RJ           N34253955E132590241                                                                                 
+SASIEAENRT   HGE09 RJ           N34272870E133095109                                                                                 
+SASIEAENRT   HGE10 RJ           N34271430E133072693                                                                                 
+SASIEAENRT   HGE12 RJ           N34242030E133094857                                                                                 
+SASIEAENRT   HGE15 RJ           N34261257E132571436                                                                                 
+SASIEAENRT   HGE26 RJ           N34132039E132275978                                                                                 
+SASIEAENRT   HGE43 RJ           N34263300E133003612                                                                                 
+SASIEAENRT   HGE73 RJ           N34265478E133041232                                                                                 
+SASIEAENRT   HGE82 RJ           N34261205E132530166                                                                                 
+SASIEAENRT   HGE94 RJ           N34260661E132572227                                                                                 
+SASIEAENRT   HIBAR RJ           N41063830E140450160                                                                                 
+SASIEAENRT   HIJYU RJ           N33171302E131234435                                                                                 
+SASIEAENRT   HIKNE RJ           N35163453E136064567                                                                                 
+SASIEAENRT   HINAG RJ           N32234227E130305371                                                                                 
+SASIEAENRT   HINAI RJ           N40173007E140381794                                                                                 
+SASIEAENRT   HKC21 RJ           N32025044E130331511                                                                                 
+SASIEAENRT   HKC22 RJ           N32015882E130242658                                                                                 
+SASIEAENRT   HMADA RJ           N34532931E132165691                                                                                 
+SASIEAENRT   HME01 RJ           N35342859E139465991                                                                                 
+SASIEAENRT   HME02 RJ           N35314263E139472827                                                                                 
+SASIEAENRT   HME03 RJ           N35300991E139495291                                                                                 
+SASIEAENRT   HME04 RJ           N35370590E139491514                                                                                 
+SASIEAENRT   HME10 RJ           N35375795E139564768                                                                                 
+SASIEAENRT   HME12 RJ           N35212407E139481947                                                                                 
+SASIEAENRT   HME20 RJ           N35135987E139495468                                                                                 
+SASIEAENRT   HME23 RJ           N35354724E139480744                                                                                 
+SASIEAENRT   HME32 RJ           N35293222E139485973                                                                                 
+SASIEAENRT   HONBA RJ           N33284657E131095005                                                                                 
+SASIEAENRT   HONDA RJ           N35341740E140111860                                                                                 
+SASIEAENRT   HORAI RJ           N35030466E137411397                                                                                 
+SASIEAENRT   HOROM RJ           N43090382E141421962                                                                                 
+SASIEAENRT   HPE03 RJ           N39153507E141001862                                                                                 
+SASIEAENRT   HPE10 RJ           N39313634E141184265                                                                                 
+SASIEAENRT   HPE12 RJ           N39174708E140564349                                                                                 
+SASIEAENRT   HPE14 RJ           N39250653E141075089                                                                                 
+SASIEAENRT   HPE15 RJ           N39404999E141110079                                                                                 
+SASIEAENRT   HPE26 RJ           N39421144E141144926                                                                                 
+SASIEAENRT   HPE31 RJ           N39414011E141163726                                                                                 
+SASIEAENRT   HPE34 RJ           N39225561E141072719                                                                                 
+SASIEAENRT   HPE38 RJ           N39404426E141190161                                                                                 
+SASIEAENRT   HPE51 RJ           N39312826E141092936                                                                                 
+SASIEAENRT   HPE59 RJ           N39364172E141250700                                                                                 
+SASIEAENRT   HPE63 RJ           N39342302E141240618                                                                                 
+SASIEAENRT   HPE78 RJ           N39160363E141093482                                                                                 
+SASIEAENRT   HPE85 RJ           N39180996E141063556                                                                                 
+SASIEAENRT   HUT01 RJ           N36121058E140252997                                                                                 
+SASIEAENRT   HUT03 RJ           N36200371E140305426                                                                                 
+SASIEAENRT   HUT04 RJ           N36181860E140294210                                                                                 
+SASIEAENRT   HUT06 RJ           N36163347E1402829100                                                                                
+SASIEAENRT   HUT08 RJ           N36032930E140224074                                                                                 
+SASIEAENRT   HUT10 RJ           N36013211E140220749                                                                                 
+SASIEAENRT   HUT11 RJ           N36071548E140401026                                                                                 
+SASIEAENRT   HUT12 RJ           N36231553E140232073                                                                                 
+SASIEAENRT   HUT14 RJ           N36022435E140363788                                                                                 
+SASIEAENRT   HUT15 RJ           N36095012E140242898                                                                                 
+SASIEAENRT   HUT16 RJ           N35591312E140305429                                                                                 
+SASIEAENRT   HUT18 RJ           N36093275E140242316                                                                                 
+SASIEAENRT   HUT20 RJ           N35583633E140211768                                                                                 
+SASIEAENRT   HUT21 RJ           N36121779E140244625                                                                                 
+SASIEAENRT   HUT40 RJ           N36235394E140350158                                                                                 
+SASIEAENRT   HUT41 RJ           N36120842E140253440                                                                                 
+SASIEAENRT   HUT51 RJ           N36095369E140370828                                                                                 
+SASIEAENRT   HUT59 RJ           N36053942E140224450                                                                                 
+SASIEAENRT   HUT60 RJ           N36162048E140285664                                                                                 
+SASIEAENRT   HUT61 RJ           N36171677E140240742                                                                                 
+SASIEAENRT   HUT80 RJ           N36191636E140235187                                                                                 
+SASIEAENRT   HUT90 RJ           N36194206E140313869                                                                                 
+SASIEAENRT   HUT95 RJ           N36033998E140215430                                                                                 
+SASIEAENRT   HUT96 RJ           N36022034E140212073                                                                                 
+SASIEAENRT   HUT97 RJ           N35585451E140195681                                                                                 
+SASIEAENRT   HVT00 RJ           N40310273E141421906                                                                                 
+SASIEAENRT   HVT01 RJ           N40333956E141292692                                                                                 
+SASIEAENRT   HVT05 RJ           N40354175E141344376                                                                                 
+SASIEAENRT   HVT06 RJ           N40351215E141354170                                                                                 
+SASIEAENRT   HVT08 RJ           N40354910E141381169                                                                                 
+SASIEAENRT   HVT10 RJ           N40283836E141163730                                                                                 
+SASIEAENRT   HVT55 RJ           N40354692E141344371                                                                                 
+SASIEAENRT   HVT71 RJ           N40363550E141370471                                                                                 
+SASIEAENRT   HVT75 RJ           N40364193E141370376                                                                                 
+SASIEAENRT   HWE08 RJ           N41541240E140523165                                                                                 
+SASIEAENRT   HWE25 RJ           N42104303E140580563                                                                                 
+SASIEAENRT   HWE78 RJ           N40335544E140113417                                                                                 
+SASIEAENRT   HWE92 RJ           N40205305E140044983                                                                                 
+SASIEAENRT   HYE07 RJ           N35124302E139271952                                                                                 
+SASIEAENRT   HYE14 RJ           N35105972E139185980                                                                                 
+SASIEAENRT   HYE15 RJ           N35094187E139181664                                                                                 
+SASIEAENRT   HYE38 RJ           N35032679E138511195                                                                                 
+SASIEAENRT   HYOGO RJ           N34513059E134594394                                                                                 
+SASIEAENRT   IBUKI RJ           N35351141E136273350                                                                                 
+SASIEAENRT   IGOSO RJ           N34033191E134055326                                                                                 
+SASIEAENRT   IHP12 RJ           N39374852E141110102                                                                                 
+SASIEAENRT   IKEDA RJ           N42552608E143223107                                                                                 
+SASIEAENRT   IKOMA RJ           N34372036E135381453                                                                                 
+SASIEAENRT   IMARI RJ           N33225089E129554177                                                                                 
+SASIEAENRT   ISAMI RJ           N31482449E130341778                                                                                 
+SASIEAENRT   ITIKO RJ           N33032813E131345931                                                                                 
+SASIEAENRT   IUW77 RJ           N39355792E140233914                                                                                 
+SASIEAENRT   IUW92 RJ           N39361792E140201107                                                                                 
+SASIEAENRT   IUW97 RJ           N39354355E140261327                                                                                 
+SASIEAENRT   IWADE RJ           N34165585E135192890                                                                                 
+SASIEAENRT   IWATA RJ           N34463504E137581493                                                                                 
+SASIEAENRT   IWC18 RJ           N34111235E132290640                                                                                 
+SASIEAENRT   IWC28 RJ           N34245520E132322171                                                                                 
+SASIEAENRT   IZUMI RJ           N36343556E140012268                                                                                 
+SASIEAENRT   IZUMO RJ           N35104599E132515404                                                                                 
+SASIEAENRT   JA014 RJ           N31283694E131045695                                                                                 
+SASIEAENRT   JA085 RJ           N31243410E131053276                                                                                 
+SASIEAENRT   JA086 RJ           N31234646E131005372                                                                                 
+SASIEAENRT   JAT01 RJ           N31220258E130505541                                                                                 
+SASIEAENRT   JAT06 RJ           N31210807E130424960                                                                                 
+SASIEAENRT   JAT08 RJ           N31235837E130584747                                                                                 
+SASIEAENRT   JAT13 RJ           N31202334E130344160                                                                                 
+SASIEAENRT   JAT14 RJ           N31242862E131055151                                                                                 
+SASIEAENRT   JAT16 RJ           N31261011E131074737                                                                                 
+SASIEAENRT   JAT18 RJ           N31221632E130514911                                                                                 
+SASIEAENRT   JAT27 RJ           N31213970E130483826                                                                                 
+SASIEAENRT   JAT61 RJ           N31245169E131080923                                                                                 
+SASIEAENRT   JAT72 RJ           N31231905E130580084                                                                                 
+SASIEAENRT   JAT95 RJ           N31220144E131082987                                                                                 
+SASIEAENRT   JAT96 RJ           N31234681E131004597                                                                                 
+SASIEAENRT   JBT05 RJ           N32585025E129512666                                                                                 
+SASIEAENRT   JBT10 RJ           N33020735E129465699                                                                                 
+SASIEAENRT   JBT16 RJ           N33060364E129413295                                                                                 
+SASIEAENRT   JEC18 RJ           N35065981E133092107                                                                                 
+SASIEAENRT   JEC25 RJ           N35094379E132511863                                                                                 
+SASIEAENRT   JEC34 RJ           N35060589E133325031                                                                                 
+SASIEAENRT   JEDII RJ           N40540325E141104078                                                                                 
+SASIEAENRT   JERRY RJ           N35281380E139512083                                                                                 
+SASIEAENRT   JINGU RJ           N31540980E131025520                                                                                 
+SASIEAENRT   JOHNS RJ           N35584204E139174347                                                                                 
+SASIEAENRT   JONAN RJ           N35341128E139554278                                                                                 
+SASIEAENRT   KAEDE RJ           N38204463E140272179                                                                                 
+SASIEAENRT   KAGRA RJ           N43402270E142194932                                                                                 
+SASIEAENRT   KAIFU RJ           N33361006E134323123                                                                                 
+SASIEAENRT   KAIHO RJ           N35185783E139464243                                                                                 
+SASIEAENRT   KAIOU RJ           N33155591E129385986                                                                                 
+SASIEAENRT   KAMMY RJ           N34592762E134411872                                                                                 
+SASIEAENRT   KANAI RJ           N35355209E139293947                                                                                 
+SASIEAENRT   KANDA RJ           N33490680E131002941                                                                                 
+SASIEAENRT   KANMO RJ           N33495532E130591222                                                                                 
+SASIEAENRT   KANOH RJ           N35184740E139575820                                                                                 
+SASIEAENRT   KARIN RJ           N33402443E134111486                                                                                 
+SASIEAENRT   KARMN RJ           N35380556E139222020                                                                                 
+SASIEAENRT   KASAI RJ           N35412769E139523631                                                                                 
+SASIEAENRT   KASMI RJ           N36051169E140382772                                                                                 
+SASIEAENRT   KAZSA RJ           N32351018E130141077                                                                                 
+SASIEAENRT   KCC05 RJ           N35101984E136585891                                                                                 
+SASIEAENRT   KCC13 RJ           N35085690E137034041                                                                                 
+SASIEAENRT   KCC25 RJ           N35134608E136562810                                                                                 
+SASIEAENRT   KCC31 RJ           N35183271E136511227                                                                                 
+SASIEAENRT   KCC33 RJ           N34572065E136213536                                                                                 
+SASIEAENRT   KCC55 RJ           N36020456E137314324                                                                                 
+SASIEAENRT   KD008 RJ           N34204934E135073428                                                                                 
+SASIEAENRT   KENNI RJ           N40424352E141030839                                                                                 
+SASIEAENRT   KGE03 RJ           N31410835E130455798                                                                                 
+SASIEAENRT   KGE12 RJ           N31391139E130532033                                                                                 
+SASIEAENRT   KGE56 RJ           N31372171E130502670                                                                                 
+SASIEAENRT   KIDAR RJ           N35085910E138250010                                                                                 
+SASIEAENRT   KIIRE RJ           N31202515E130343996                                                                                 
+SASIEAENRT   KIKOL RJ           N34502772E137323529                                                                                 
+SASIEAENRT   KILEE RJ           N35534713E139185402                                                                                 
+SASIEAENRT   KINKO RJ           N31195821E130421203                                                                                 
+SASIEAENRT   KINTI RJ           N34130781E132114750                                                                                 
+SASIEAENRT   KIRIN RJ           N34071793E130491931                                                                                 
+SASIEAENRT   KIRYU RJ           N37000710E139423623                                                                                 
+SASIEAENRT   KMC04 RJ           N36210533E136195264                                                                                 
+SASIEAENRT   KMC05 RJ           N36204182E136192517                                                                                 
+SASIEAENRT   KMC06 RJ           N36293985E136255089                                                                                 
+SASIEAENRT   KMC08 RJ           N36225441E136230899                                                                                 
+SASIEAENRT   KMC09 RJ           N36334374E136254883                                                                                 
+SASIEAENRT   KMC10 RJ           N36333506E136265295                                                                                 
+SASIEAENRT   KMC11 RJ           N36165934E136133429                                                                                 
+SASIEAENRT   KMC15 RJ           N36434044E136272004                                                                                 
+SASIEAENRT   KMC16 RJ           N36135372E136084231                                                                                 
+SASIEAENRT   KMC25 RJ           N36002413E136352054                                                                                 
+SASIEAENRT   KMC26 RJ           N36481702E136304659                                                                                 
+SASIEAENRT   KMC53 RJ           N36580490E136332319                                                                                 
+SASIEAENRT   KMC56 RJ           N36201098E136124424                                                                                 
+SASIEAENRT   KMC61 RJ           N36392786E136282623                                                                                 
+SASIEAENRT   KMC73 RJ           N36191271E136163093                                                                                 
+SASIEAENRT   KMPNT RJ           N33364380E132523780                                                                                 
+SASIEAENRT   KN028 RJ           N34332674E135222698                                                                                 
+SASIEAENRT   KN037 RJ           N34282741E1351848100                                                                                
+SASIEAENRT   KN058 RJ           N34320254E135214784                                                                                 
+SASIEAENRT   KNE02 RJ           N34243590E135131051                                                                                 
+SASIEAENRT   KNE03 RJ           N34275362E135174312                                                                                 
+SASIEAENRT   KNE04 RJ           N34283837E135183183                                                                                 
+SASIEAENRT   KNE06 RJ           N34294635E135200427                                                                                 
+SASIEAENRT   KNE08 RJ           N34205850E135072312                                                                                 
+SASIEAENRT   KNE14 RJ           N34264680E135161953                                                                                 
+SASIEAENRT   KNE37 RJ           N34282562E135181642                                                                                 
+SASIEAENRT   KOCHO RJ           N35551419E135592187                                                                                 
+SASIEAENRT   KOGAR RJ           N36071246E139412835                                                                                 
+SASIEAENRT   KOHZU RJ           N35045485E138460878                                                                                 
+SASIEAENRT   KOITO RJ           N35191872E139561966                                                                                 
+SASIEAENRT   KOLTY RJ           N34260969E132425697                                                                                 
+SASIEAENRT   KOMPI RJ           N34100208E133523307                                                                                 
+SASIEAENRT   KOSAI RJ           N34460792E137280666                                                                                 
+SASIEAENRT   KOTAN RJ           N42592144E143520382                                                                                 
+SASIEAENRT   KOTBE RJ           N35310876E140111228                                                                                 
+SASIEAENRT   KOZUN RJ           N34564917E136554917                                                                                 
+SASIEAENRT   KP002 RJ           N34204700E132235953                                                                                 
+SASIEAENRT   KP005 RJ           N34180861E132221568                                                                                 
+SASIEAENRT   KP095 RJ           N34141097E132194010                                                                                 
+SASIEAENRT   KPE11 RJ           N34244636E132372121                                                                                 
+SASIEAENRT   KPE12 RJ           N34095031E132212251                                                                                 
+SASIEAENRT   KPE19 RJ           N34373130E132371070                                                                                 
+SASIEAENRT   KPE22 RJ           N34194838E132232754                                                                                 
+SASIEAENRT   KPE35 RJ           N34382206E132352690                                                                                 
+SASIEAENRT   KPE40 RJ           N34231879E132254817                                                                                 
+SASIEAENRT   KPE91 RJ           N34270572E132463701                                                                                 
+SASIEAENRT   KRE12 RJ           N33443047E133394830                                                                                 
+SASIEAENRT   KRE25 RJ           N33304110E134103820                                                                                 
+SASIEAENRT   KRETA RJ           N34083881E132370590                                                                                 
+SASIEAENRT   KROBE RJ           N36331310E137415197                                                                                 
+SASIEAENRT   KROMA RJ           N32243732E131062554                                                                                 
+SASIEAENRT   KSE10 RJ           N43110251E144070361                                                                                 
+SASIEAENRT   KSE27 RJ           N42485105E143400844                                                                                 
+SASIEAENRT   KSE33 RJ           N43130337E144024916                                                                                 
+SASIEAENRT   KSE34 RJ           N43140012E144051762                                                                                 
+SASIEAENRT   KTE02 RJ           N34122074E133585927                                                                                 
+SASIEAENRT   KTE05 RJ           N34142632E134071788                                                                                 
+SASIEAENRT   KTE90 RJ           N34131128E134021817                                                                                 
+SASIEAENRT   KTE92 RJ           N34153936E134120909                                                                                 
+SASIEAENRT   KUCHI RJ           N32392280E130113180                                                                                 
+SASIEAENRT   KUE02 RJ           N32504642E130481551                                                                                 
+SASIEAENRT   KUE03 RJ           N32510697E130470853                                                                                 
+SASIEAENRT   KUE05 RJ           N32514804E130445454                                                                                 
+SASIEAENRT   KUE20 RJ           N32320431E130431014                                                                                 
+SASIEAENRT   KUE24 RJ           N32471699E130453423                                                                                 
+SASIEAENRT   KUE25 RJ           N32435519E130353383                                                                                 
+SASIEAENRT   KUE30 RJ           N32484613E130471736                                                                                 
+SASIEAENRT   KUE31 RJ           N32564841E130383965                                                                                 
+SASIEAENRT   KUE41 RJ           N32575549E130364117                                                                                 
+SASIEAENRT   KUE80 RJ           N32420409E130503938                                                                                 
+SASIEAENRT   KUE98 RJ           N32545237E130345116                                                                                 
+SASIEAENRT   KUE99 RJ           N32541148E130370530                                                                                 
+SASIEAENRT   KULMA RJ           N35063205E137015534                                                                                 
+SASIEAENRT   KURIS RJ           N43091882E141422162                                                                                 
+SASIEAENRT   KUSUU RJ           N33312294E131202033                                                                                 
+SASIEAENRT   KZE03 RJ           N35265456E139553851                                                                                 
+SASIEAENRT   KZE04 RJ           N35205637E139570905                                                                                 
+SASIEAENRT   KZE07 RJ           N35264593E139461543                                                                                 
+SASIEAENRT   KZE22 RJ           N35322150E139291168                                                                                 
+SASIEAENRT   LABEL RJ           N34351610E136105250                                                                                 
+SASIEAENRT   LAKAN RJ           N34195756E131535999                                                                                 
+SASIEAENRT   LAKES RJ           N35575090E140300136                                                                                 
+SASIEAENRT   LANCE RJ           N35250921E139245063                                                                                 
+SASIEAENRT   LAPIS RJ           N37082518E139564513                                                                                 
+SASIEAENRT   LHE03 RJ           N34432352E137551793                                                                                 
+SASIEAENRT   LHE05 RJ           N34450310E137401636                                                                                 
+SASIEAENRT   LHE08 RJ           N34474441E137314588                                                                                 
+SASIEAENRT   LHE10 RJ           N34452320E137525806                                                                                 
+SASIEAENRT   LHE12 RJ           N34452923E137552361                                                                                 
+SASIEAENRT   LHE23 RJ           N34445954E137433773                                                                                 
+SASIEAENRT   LHE25 RJ           N34393526E137274536                                                                                 
+SASIEAENRT   LHE29 RJ           N34491020E137271340                                                                                 
+SASIEAENRT   LHE87 RJ           N34470919E137263171                                                                                 
+SASIEAENRT   LHE99 RJ           N34482732E137292966                                                                                 
+SASIEAENRT   LHT03 RJ           N34451193E137461297                                                                                 
+SASIEAENRT   LHT06 RJ           N34454001E137494898                                                                                 
+SASIEAENRT   LHT08 RJ           N34453991E137325621                                                                                 
+SASIEAENRT   LHT09 RJ           N34460485E137532553                                                                                 
+SASIEAENRT   LHT10 RJ           N34455226E137303123                                                                                 
+SASIEAENRT   LHT12 RJ           N34450004E137440258                                                                                 
+SASIEAENRT   LHT18 RJ           N34450130E137402556                                                                                 
+SASIEAENRT   LHT33 RJ           N34442796E137385906                                                                                 
+SASIEAENRT   LHT60 RJ           N34452750E137352118                                                                                 
+SASIEAENRT   LOVER RJ           N42530104E141401693                                                                                 
+SASIEAENRT   LUBEK RJ           N44010877E142582282                                                                                 
+SASIEAENRT   LUNAR RJ           N35205842E139560410                                                                                 
+SASIEAENRT   MACKY RJ           N34260968E132452244                                                                                 
+SASIEAENRT   MAIKA RJ           N41571968E139585692                                                                                 
+SASIEAENRT   MAIKO RJ           N34363973E134594906                                                                                 
+SASIEAENRT   MAKRA RJ           N31162167E130234191                                                                                 
+SASIEAENRT   MALTA RJ           N33575185E133125582                                                                                 
+SASIEAENRT   MAMRO RJ           N38484042E140155865                                                                                 
+SASIEAENRT   MARIA RJ           N35401389E136155390                                                                                 
+SASIEAENRT   MASHU RJ           N43282061E144321866                                                                                 
+SASIEAENRT   MAYAH RJ           N34361506E135123564                                                                                 
+SASIEAENRT   MBE01 RJ           N36191946E137535368                                                                                 
+SASIEAENRT   MBE02 RJ           N36112152E137550358                                                                                 
+SASIEAENRT   MBE06 RJ           N36152152E137544805                                                                                 
+SASIEAENRT   MBE07 RJ           N36162008E137541701                                                                                 
+SASIEAENRT   MBE08 RJ           N36172153E137544027                                                                                 
+SASIEAENRT   MBE09 RJ           N35592698E137565850                                                                                 
+SASIEAENRT   MBE10 RJ           N36003415E137491658                                                                                 
+SASIEAENRT   MBE12 RJ           N36211410E137573087                                                                                 
+SASIEAENRT   MBE14 RJ           N36232153E137541689                                                                                 
+SASIEAENRT   MBE19 RJ           N36190920E137574571                                                                                 
+SASIEAENRT   MBE20 RJ           N36112110E137545583                                                                                 
+SASIEAENRT   MBE23 RJ           N35532598E138350229                                                                                 
+SASIEAENRT   MBE35 RJ           N36214395E138031959                                                                                 
+SASIEAENRT   MBE50 RJ           N36592714E137540594                                                                                 
+SASIEAENRT   MELLY RJ           N31234004E131022560                                                                                 
+SASIEAENRT   MENOK RJ           N43074517E143561836                                                                                 
+SASIEAENRT   MESSE RJ           N35364473E140005927                                                                                 
+SASIEAENRT   MESTR RJ           N35301167E139235913                                                                                 
+SASIEAENRT   MICKY RJ           N35242851E139523927                                                                                 
+SASIEAENRT   MIDOH RJ           N34381806E135364213                                                                                 
+SASIEAENRT   MIKRA RJ           N37003834E140045025                                                                                 
+SASIEAENRT   MILKY RJ           N36324482E140261851                                                                                 
+SASIEAENRT   MINNE RJ           N34113767E131142632                                                                                 
+SASIEAENRT   MINOU RJ           N35392351E136442415                                                                                 
+SASIEAENRT   MIRAI RJ           N35280376E139415045                                                                                 
+SASIEAENRT   MIS00 RJ           N40415204E141360089                                                                                 
+SASIEAENRT   MIS09 RJ           N40420623E141240235                                                                                 
+SASIEAENRT   MIS19 RJ           N40420252E141240180                                                                                 
+SASIEAENRT   MIS20 RJ           N40420954E141252978                                                                                 
+SASIEAENRT   MIS25 RJ           N40420847E141260923                                                                                 
+SASIEAENRT   MIS27 RJ           N40405354E141031271                                                                                 
+SASIEAENRT   MIS28 RJ           N40422101E141181584                                                                                 
+SASIEAENRT   MIS29 RJ           N40421998E141185529                                                                                 
+SASIEAENRT   MIS30 RJ           N40325070E140452479                                                                                 
+SASIEAENRT   MIS31 RJ           N40450409E141032875                                                                                 
+SASIEAENRT   MIS32 RJ           N40162001E141400471                                                                                 
+SASIEAENRT   MIS34 RJ           N40294032E140325806                                                                                 
+SASIEAENRT   MIS41 RJ           N40421971E141202220                                                                                 
+SASIEAENRT   MIS42 RJ           N40023361E141153679                                                                                 
+SASIEAENRT   MIS44 RJ           N40570361E140335320                                                                                 
+SASIEAENRT   MIS45 RJ           N40134845E140455473                                                                                 
+SASIEAENRT   MIS53 RJ           N40430992E140432451                                                                                 
+SASIEAENRT   MIS54 RJ           N40432564E140301512                                                                                 
+SASIEAENRT   MIS72 RJ           N40420359E141240198                                                                                 
+SASIEAENRT   MIS74 RJ           N40423005E141122077                                                                                 
+SASIEAENRT   MIS75 RJ           N40412491E141030968                                                                                 
+SASIEAENRT   MIS85 RJ           N40422406E141161749                                                                                 
+SASIEAENRT   MIS90 RJ           N40420396E141240072                                                                                 
+SASIEAENRT   MIS96 RJ           N40273217E141184668                                                                                 
+SASIEAENRT   MISMI RJ           N32444364E130374430                                                                                 
+SASIEAENRT   MIURA RJ           N35013094E139410246                                                                                 
+SASIEAENRT   MKE04 RJ           N42455401E141422723                                                                                 
+SASIEAENRT   MKE13 RJ           N42454455E141521048                                                                                 
+SASIEAENRT   MOCOS RJ           N32074040E130535064                                                                                 
+SASIEAENRT   MOIWA RJ           N42555518E141131260                                                                                 
+SASIEAENRT   MOLLI RJ           N38411565E141131491                                                                                 
+SASIEAENRT   MORIO RJ           N39364534E141281864                                                                                 
+SASIEAENRT   MORIZ RJ           N35032431E137132348                                                                                 
+SASIEAENRT   MRE05 RJ           N40472499E140471218                                                                                 
+SASIEAENRT   MRE10 RJ           N40534241E140465451                                                                                 
+SASIEAENRT   MRE12 RJ           N40531398E140505104                                                                                 
+SASIEAENRT   MRE13 RJ           N40534085E140302424                                                                                 
+SASIEAENRT   MRE20 RJ           N41030838E140512205                                                                                 
+SASIEAENRT   MRE25 RJ           N40192776E140384255                                                                                 
+SASIEAENRT   MRE37 RJ           N40073158E140365950                                                                                 
+SASIEAENRT   MRE89 RJ           N40494731E140511696                                                                                 
+SASIEAENRT   MRHEE RJ           N35350246E139225674                                                                                 
+SASIEAENRT   MUINE RJ           N42553763E141135852                                                                                 
+SASIEAENRT   MWE30 RJ           N41175730E141171879                                                                                 
+SASIEAENRT   MWE48 RJ           N40003204E141124280                                                                                 
+SASIEAENRT   MXT99 RJ           N38391539E141131194                                                                                 
+SASIEAENRT   MZE02 RJ           N31524130E131235388                                                                                 
+SASIEAENRT   MZE06 RJ           N31524372E131281182                                                                                 
+SASIEAENRT   NAEBA RJ           N37151490E138320858                                                                                 
+SASIEAENRT   NAKTU RJ           N35280155E137274708                                                                                 
+SASIEAENRT   NANKA RJ           N32491521E131352432                                                                                 
+SASIEAENRT   NANSO RJ           N35190720E140104440                                                                                 
+SASIEAENRT   NARAH RJ           N34295880E135410285                                                                                 
+SASIEAENRT   NATCH RJ           N34113289E136113996                                                                                 
+SASIEAENRT   NEU01 RJ           N34182699E132144756                                                                                 
+SASIEAENRT   NEU02 RJ           N34092532E132141449                                                                                 
+SASIEAENRT   NEU05 RJ           N34112367E132184977                                                                                 
+SASIEAENRT   NEU06 RJ           N34142014E132234289                                                                                 
+SASIEAENRT   NEU07 RJ           N34234204E133050505                                                                                 
+SASIEAENRT   NEU12 RJ           N33562622E132144232                                                                                 
+SASIEAENRT   NEU15 RJ           N34002020E132210150                                                                                 
+SASIEAENRT   NEU18 RJ           N34022661E132141969                                                                                 
+SASIEAENRT   NEU21 RJ           N34071492E132140154                                                                                 
+SASIEAENRT   NEU36 RJ           N34531845E132081370                                                                                 
+SASIEAENRT   NEU50 RJ           N35015547E132300977                                                                                 
+SASIEAENRT   NEU62 RJ           N33144920E1325156100                                                                                
+SASIEAENRT   NEU83 RJ           N34012655E132142346                                                                                 
+SASIEAENRT   NEU90 RJ           N34092928E132255654                                                                                 
+SASIEAENRT   NHT05 RJ           N32072384E131321601                                                                                 
+SASIEAENRT   NHT12 RJ           N32152027E131340491                                                                                 
+SASIEAENRT   NHT15 RJ           N32044269E131285874                                                                                 
+SASIEAENRT   NHT28 RJ           N32053567E131234835                                                                                 
+SASIEAENRT   NHT50 RJ           N32091208E131300444                                                                                 
+SASIEAENRT   NHT58 RJ           N32044419E131284512                                                                                 
+SASIEAENRT   NHT59 RJ           N32034804E131340451                                                                                 
+SASIEAENRT   NIIMI RJ           N35101533E133210943                                                                                 
+SASIEAENRT   NJA01 RJ           N35344540E139274482                                                                                 
+SASIEAENRT   NJA05 RJ           N35054650E139185657                                                                                 
+SASIEAENRT   NJA06 RJ           N35205343E139253494                                                                                 
+SASIEAENRT   NJA07 RJ           N35194464E139264712                                                                                 
+SASIEAENRT   NJA08 RJ           N35184598E139271060                                                                                 
+SASIEAENRT   NJA09 RJ           N35255227E139265913                                                                                 
+SASIEAENRT   NJA11 RJ           N35154362E139265992                                                                                 
+SASIEAENRT   NJA13 RJ           N35392001E139230610                                                                                 
+SASIEAENRT   NJA15 RJ           N35204794E139314625                                                                                 
+SASIEAENRT   NJA20 RJ           N35160044E139241257                                                                                 
+SASIEAENRT   NJA21 RJ           N35071300E139214471                                                                                 
+SASIEAENRT   NJA22 RJ           N35173002E139195459                                                                                 
+SASIEAENRT   NJA23 RJ           N35123850E139081051                                                                                 
+SASIEAENRT   NJA35 RJ           N35115812E139071623                                                                                 
+SASIEAENRT   NJA41 RJ           N35224041E139270592                                                                                 
+SASIEAENRT   NJA50 RJ           N35215203E139255143                                                                                 
+SASIEAENRT   NJA91 RJ           N35175764E139244549                                                                                 
+SASIEAENRT   NOTAK RJ           N43053147E143002488                                                                                 
+SASIEAENRT   NSE07 RJ           N43341816E144561473                                                                                 
+SASIEAENRT   NSE10 RJ           N43272614E145063444                                                                                 
+SASIEAENRT   NSE11 RJ           N43305371E144425224                                                                                 
+SASIEAENRT   NSE19 RJ           N43350896E144593306                                                                                 
+SASIEAENRT   NSE22 RJ           N43334848E144541777                                                                                 
+SASIEAENRT   NSE24 RJ           N43281896E144443884                                                                                 
+SASIEAENRT   NSE26 RJ           N43314348E144460688                                                                                 
+SASIEAENRT   NSE35 RJ           N43332653E144523024                                                                                 
+SASIEAENRT   NSE51 RJ           N43330093E144511070                                                                                 
+SASIEAENRT   NUPRI RJ           N43030135E143514624                                                                                 
+SASIEAENRT   OASIS RJ           N35340273E140050531                                                                                 
+SASIEAENRT   OB001 RJ           N42284983E143205041                                                                                 
+SASIEAENRT   OB012 RJ           N42511423E143125747                                                                                 
+SASIEAENRT   OB039 RJ           N43141818E143411163                                                                                 
+SASIEAENRT   OB043 RJ           N42432178E143131611                                                                                 
+SASIEAENRT   OB046 RJ           N43032157E143014398                                                                                 
+SASIEAENRT   OB067 RJ           N42290787E143205563                                                                                 
+SASIEAENRT   OB082 RJ           N42282569E143170970                                                                                 
+SASIEAENRT   OBAKO RJ           N40042234E140031611                                                                                 
+SASIEAENRT   OBE05 RJ           N42391089E143145205                                                                                 
+SASIEAENRT   OBE09 RJ           N42351776E143161060                                                                                 
+SASIEAENRT   OBE10 RJ           N42511390E143034660                                                                                 
+SASIEAENRT   OBE11 RJ           N42333293E143182708                                                                                 
+SASIEAENRT   OBE12 RJ           N42361552E143214492                                                                                 
+SASIEAENRT   OBE19 RJ           N42340177E143125945                                                                                 
+SASIEAENRT   OBE20 RJ           N42514886E143381663                                                                                 
+SASIEAENRT   OBE35 RJ           N43140134E143375416                                                                                 
+SASIEAENRT   OBE45 RJ           N43021902E143020763                                                                                 
+SASIEAENRT   OBE50 RJ           N42482736E143100216                                                                                 
+SASIEAENRT   OBITU RJ           N35251860E140062460                                                                                 
+SASIEAENRT   OBOKE RJ           N34005391E133551746                                                                                 
+SASIEAENRT   OCEAN RJ           N34565394E139210457                                                                                 
+SASIEAENRT   OGORI RJ           N33163996E130254464                                                                                 
+SASIEAENRT   OHGIE RJ           N33195292E130104170                                                                                 
+SASIEAENRT   OHMAR RJ           N41184795E140592268                                                                                 
+SASIEAENRT   OHNNO RJ           N35532820E136380344                                                                                 
+SASIEAENRT   OHTAR RJ           N36142553E139135613                                                                                 
+SASIEAENRT   OJC17 RJ           N35251759E140105452                                                                                 
+SASIEAENRT   OJC32 RJ           N35233967E140081933                                                                                 
+SASIEAENRT   OJC35 RJ           N35253656E140113145                                                                                 
+SASIEAENRT   OKURA RJ           N35310536E139234192                                                                                 
+SASIEAENRT   OLE01 RJ           N32540648E129554692                                                                                 
+SASIEAENRT   OLE03 RJ           N32521125E129573595                                                                                 
+SASIEAENRT   OLE04 RJ           N32512869E129582633                                                                                 
+SASIEAENRT   OLE06 RJ           N32592823E129512414                                                                                 
+SASIEAENRT   OLE07 RJ           N32492098E130005739                                                                                 
+SASIEAENRT   OLE08 RJ           N33011132E129501051                                                                                 
+SASIEAENRT   OLE09 RJ           N32474270E130022192                                                                                 
+SASIEAENRT   OLE14 RJ           N32495481E129595631                                                                                 
+SASIEAENRT   OLE15 RJ           N32453776E130010072                                                                                 
+SASIEAENRT   OLE16 RJ           N32433550E130013247                                                                                 
+SASIEAENRT   OLE19 RJ           N33023993E129444817                                                                                 
+SASIEAENRT   OLE20 RJ           N32360009E130044249                                                                                 
+SASIEAENRT   OLE22 RJ           N32525415E129570278                                                                                 
+SASIEAENRT   OLE32 RJ           N32580584E129511063                                                                                 
+SASIEAENRT   OLE33 RJ           N32562779E129533287                                                                                 
+SASIEAENRT   OLE43 RJ           N32511944E129584179                                                                                 
+SASIEAENRT   OLE50 RJ           N32503884E129590775                                                                                 
+SASIEAENRT   OLE60 RJ           N32591845E129553403                                                                                 
+SASIEAENRT   OLE79 RJ           N32483711E130013130                                                                                 
+SASIEAENRT   OLE99 RJ           N32591791E129554107                                                                                 
+SASIEAENRT   OLIVE RJ           N34451765E134270024                                                                                 
+SASIEAENRT   OMOGO RJ           N33393404E133170469                                                                                 
+SASIEAENRT   OMUTA RJ           N33033220E130270141                                                                                 
+SASIEAENRT   ONDOC RJ           N34123377E132331991                                                                                 
+SASIEAENRT   OPPAR RJ           N35225803E139445861                                                                                 
+SASIEAENRT   ORION RJ           N35355243E140320186                                                                                 
+SASIEAENRT   ORVIL RJ           N35011800E136455576                                                                                 
+SASIEAENRT   OSUMI RJ           N31323632E130490074                                                                                 
+SASIEAENRT   OWARI RJ           N35174271E136452196                                                                                 
+SASIEAENRT   OWE45 RJ           N34430874E135305729                                                                                 
+SASIEAENRT   OWLET RJ           N37424187E140273889                                                                                 
+SASIEAENRT   OYABE RJ           N36363899E136462730                                                                                 
+SASIEAENRT   PANSY RJ           N40001403E141191227                                                                                 
+SASIEAENRT   PEARL RJ           N33145685E129370785                                                                                 
+SASIEAENRT   PEONY RJ           N39495777E140522251                                                                                 
+SASIEAENRT   PERCH RJ           N35532508E140171083                                                                                 
+SASIEAENRT   PONNY RJ           N35151560E139264477                                                                                 
+SASIEAENRT   POPPY RJ           N33490507E133491533                                                                                 
+SASIEAENRT   PRIKA RJ           N42552893E141440974                                                                                 
+SASIEAENRT   PROBE RJ           N34401758E136510777                                                                                 
+SASIEAENRT   QUEST RJ           N35023601E136453296                                                                                 
+SASIEAENRT   QURIO RJ           N44014954E143563547                                                                                 
+SASIEAENRT   R1692 RJ           N40421599E141210136                                                                                 
+SASIEAENRT   R1693 RJ           N40420719E141231085                                                                                 
+SASIEAENRT   R1694 RJ           N31220706E130510217                                                                                 
+SASIEAENRT   R1696 RJ           N40442979E140420927                                                                                 
+SASIEAENRT   R1697 RJ           N43342820E144565310                                                                                 
+SASIEAENRT   R1698 RJ           N34130252E134014345                                                                                 
+SASIEAENRT   R1699 RJ           N36101060E140243710                                                                                 
+SASIEAENRT   R1704 RJ           N37572084E139072653                                                                                 
+SASIEAENRT   R1705 RJ           N35144037E136555289                                                                                 
+SASIEAENRT   R1706 RJ           N39262324E141081711                                                                                 
+SASIEAENRT   R1707 RJ           N34075116E134370175                                                                                 
+SASIEAENRT   R1708 RJ           N32045277E131275683                                                                                 
+SASIEAENRT   R1709 RJ           N42454190E141413417                                                                                 
+SASIEAENRT   R1710 RJ           N42471836E141411718                                                                                 
+SASIEAENRT   R1711 RJ           N38241061E140221206                                                                                 
+SASIEAENRT   R1713 RJ           N34461992E135270676                                                                                 
+SASIEAENRT   R1714 RJ           N42432307E143132216                                                                                 
+SASIEAENRT   R1716 RJ           N39365166E140135925                                                                                 
+SASIEAENRT   R1718 RJ           N32542491E129552704                                                                                 
+SASIEAENRT   R1719 RJ           N35340288E139463761                                                                                 
+SASIEAENRT   R1720 RJ           N35321176E139470841                                                                                 
+SASIEAENRT   R1721 RJ           N35323302E139481134                                                                                 
+SASIEAENRT   R1723 RJ           N33321933E133404667                                                                                 
+SASIEAENRT   R1724 RJ           N31524106E131274180                                                                                 
+SASIEAENRT   R1727 RJ           N43030530E144111492                                                                                 
+SASIEAENRT   R1731 RJ           N36231316E136234107                                                                                 
+SASIEAENRT   R1736 RJ           N31473007E130433838                                                                                 
+SASIEAENRT   R1738 RJ           N35294356E133144424                                                                                 
+SASIEAENRT   R1739 RJ           N35454820E139204328                                                                                 
+SASIEAENRT   R1740 RJ           N35440095E139210579                                                                                 
+SASIEAENRT   R1741 RJ           N40332359E141284419                                                                                 
+SASIEAENRT   R1742 RJ           N32495345E130502609                                                                                 
+SASIEAENRT   R1760 RJ           N34250256E135134540                                                                                 
+SASIEAENRT   R2474 RJ           N38083218E140555756                                                                                 
+SASIEAENRT   R2527 RJ           N35263709E139270127                                                                                 
+SASIEAENRT   R2908 RJ           N34261404E135153192                                                                                 
+SASIEAENRT   R2922 RJ           N42463109E141401897                                                                                 
+SASIEAENRT   RECTO RJ           N35221380E139553060                                                                                 
+SASIEAENRT   RINDO RJ           N32311125E130424464                                                                                 
+SASIEAENRT   RINGO RJ           N40423974E141054691                                                                                 
+SASIEAENRT   RIPEN RJ           N35372819E139194097                                                                                 
+SASIEAENRT   RISSA RJ           N35514355E139192866                                                                                 
+SASIEAENRT   RITTO RJ           N35100160E136290052                                                                                 
+SASIEAENRT   ROCKY RJ           N33423501E133054677                                                                                 
+SASIEAENRT   ROKKA RJ           N36034678E139163004                                                                                 
+SASIEAENRT   ROKKO RJ           N35070051E135180081                                                                                 
+SASIEAENRT   ROSIE RJ           N33424844E133292634                                                                                 
+SASIEAENRT   RUMOI RJ           N43415761E141434451                                                                                 
+SASIEAENRT   RYOMA RJ           N33303707E134223431                                                                                 
+SASIEAENRT   SAGRA RJ           N34435691E138255074                                                                                 
+SASIEAENRT   SAIJO RJ           N34422046E132331374                                                                                 
+SASIEAENRT   SAKIN RJ           N45042581E142194147                                                                                 
+SASIEAENRT   SAMBO RJ           N40111592E140570137                                                                                 
+SASIEAENRT   SANDA RJ           N34555863E135225692                                                                                 
+SASIEAENRT   SAROM RJ           N44051043E143042684                                                                                 
+SASIEAENRT   SASIK RJ           N32175930E130311573                                                                                 
+SASIEAENRT   SASMA RJ           N36051753E139570322                                                                                 
+SASIEAENRT   SAYHO RJ           N34510549E134182899                                                                                 
+SASIEAENRT   SAYOH RJ           N34551658E134213625                                                                                 
+SASIEAENRT   SDE13 RJ           N38083570E140562936                                                                                 
+SASIEAENRT   SDE15 RJ           N38061700E140362731                                                                                 
+SASIEAENRT   SDE16 RJ           N38084092E140571578                                                                                 
+SASIEAENRT   SDE26 RJ           N37555560E140501248                                                                                 
+SASIEAENRT   SDE51 RJ           N37290668E140133975                                                                                 
+SASIEAENRT   SENJO RJ           N35355743E137483967                                                                                 
+SASIEAENRT   SETOH RJ           N34322534E134083878                                                                                 
+SASIEAENRT   SHARO RJ           N43290559E144110271                                                                                 
+SASIEAENRT   SHIMA RJ           N34222593E136390153                                                                                 
+SASIEAENRT   SHOJU RJ           N40223827E141172531                                                                                 
+SASIEAENRT   SHT01 RJ           N35461994E140003699                                                                                 
+SASIEAENRT   SHT07 RJ           N35550784E140004503                                                                                 
+SASIEAENRT   SHT10 RJ           N35575913E139582756                                                                                 
+SASIEAENRT   SHT11 RJ           N35593837E140005085                                                                                 
+SASIEAENRT   SHT15 RJ           N35493718E140003793                                                                                 
+SASIEAENRT   SHT17 RJ           N36050902E140005798                                                                                 
+SASIEAENRT   SHT25 RJ           N35503730E140003922                                                                                 
+SASIEAENRT   SHT71 RJ           N36050356E139582437                                                                                 
+SASIEAENRT   SHTLE RJ           N34495095E136565384                                                                                 
+SASIEAENRT   SIE12 RJ           N34374129E135541643                                                                                 
+SASIEAENRT   SIE39 RJ           N34475394E135472696                                                                                 
+SASIEAENRT   SIGAK RJ           N34530768E136025271                                                                                 
+SASIEAENRT   SINJO RJ           N34540480E137271320                                                                                 
+SASIEAENRT   SKE07 RJ           N34331219E135185113                                                                                 
+SASIEAENRT   SKE14 RJ           N34335013E1351045100                                                                                
+SASIEAENRT   SKE29 RJ           N34314075E135185053                                                                                 
+SASIEAENRT   SNE11 RJ           N35450887E139571434                                                                                 
+SASIEAENRT   SOBOH RJ           N32485120E131240939                                                                                 
+SASIEAENRT   SOGAR RJ           N35312675E140053431                                                                                 
+SASIEAENRT   SOUJA RJ           N34373864E133442248                                                                                 
+SASIEAENRT   SPE08 RJ           N43172183E141234309                                                                                 
+SASIEAENRT   SPE09 RJ           N43040620E141264986                                                                                 
+SASIEAENRT   SPE11 RJ           N43044776E141310105                                                                                 
+SASIEAENRT   SPE14 RJ           N43024111E141284545                                                                                 
+SASIEAENRT   SPE33 RJ           N43120204E141162526                                                                                 
+SASIEAENRT   SPE40 RJ           N43172037E141234730                                                                                 
+SASIEAENRT   SPE43 RJ           N43072508E141222807                                                                                 
+SASIEAENRT   SPE53 RJ           N43064353E141231577                                                                                 
+SASIEAENRT   SPE69 RJ           N43142853E141273768                                                                                 
+SASIEAENRT   SPE80 RJ           N43180290E141143443                                                                                 
+SASIEAENRT   SPE81 RJ           N43164186E141111478                                                                                 
+SASIEAENRT   SUIKA RJ           N43223538E141430396                                                                                 
+SASIEAENRT   SUMAR RJ           N34423194E135012815                                                                                 
+SASIEAENRT   SUNPU RJ           N34432625E138223550                                                                                 
+SASIEAENRT   SWAMP RJ           N36191450E140321701                                                                                 
+SASIEAENRT   SWING RJ           N35232194E137152947                                                                                 
+SASIEAENRT   TAE10 RJ           N33173050E131442003                                                                                 
+SASIEAENRT   TAE11 RJ           N33090809E131530501                                                                                 
+SASIEAENRT   TAE36 RJ           N33195929E132242412                                                                                 
+SASIEAENRT   TAE40 RJ           N33204352E132290591                                                                                 
+SASIEAENRT   TAIKI RJ           N42270521E143212961                                                                                 
+SASIEAENRT   TAIME RJ           N32514711E130281566                                                                                 
+SASIEAENRT   TAKAS RJ           N32530650E130402494                                                                                 
+SASIEAENRT   TAKEO RJ           N33112097E130052974                                                                                 
+SASIEAENRT   TAKNE RJ           N35493249E138240674                                                                                 
+SASIEAENRT   TAMBA RJ           N35145677E134484404                                                                                 
+SASIEAENRT   TAMPO RJ           N39295886E140063674                                                                                 
+SASIEAENRT   TAURA RJ           N35191822E139433661                                                                                 
+SASIEAENRT   TAZWA RJ           N40412336E141304064                                                                                 
+SASIEAENRT   TBE01 RJ           N43271886E143484947                                                                                 
+SASIEAENRT   TBE02 RJ           N43430601E144102870                                                                                 
+SASIEAENRT   TBE03 RJ           N44130344E143385505                                                                                 
+SASIEAENRT   TBE10 RJ           N43482431E144221058                                                                                 
+SASIEAENRT   TBE20 RJ           N43493180E143424632                                                                                 
+SASIEAENRT   TEEJA RJ           N35432723E139211815                                                                                 
+SASIEAENRT   TEKKO RJ           N42300708E141043100                                                                                 
+SASIEAENRT   TENGU RJ           N33303377E131084540                                                                                 
+SASIEAENRT   TENRI RJ           N34374084E135515091                                                                                 
+SASIEAENRT   TENRU RJ           N35401053E138002497                                                                                 
+SASIEAENRT   TERAS RJ           N32592096E129372287                                                                                 
+SASIEAENRT   TESHM RJ           N42485958E142071531                                                                                 
+SASIEAENRT   TESIO RJ           N44542414E141465623                                                                                 
+SASIEAENRT   TET01 RJ           N34590858E139494383                                                                                 
+SASIEAENRT   TET08 RJ           N35052358E139455127                                                                                 
+SASIEAENRT   TFE11 RJ           N33180629E131463480                                                                                 
+SASIEAENRT   TGAWA RJ           N33352587E130470150                                                                                 
+SASIEAENRT   TJMPT RJ           N33112820E132220900                                                                                 
+SASIEAENRT   TME13 RJ           N34290417E135054327                                                                                 
+SASIEAENRT   TME18 RJ           N34333932E135080896                                                                                 
+SASIEAENRT   TOHGO RJ           N35305120E133511724                                                                                 
+SASIEAENRT   TOHNE RJ           N36034624E139525917                                                                                 
+SASIEAENRT   TOJYO RJ           N34525327E133163914                                                                                 
+SASIEAENRT   TOMAM RJ           N43082050E142020410                                                                                 
+SASIEAENRT   TOMAS RJ           N35244787E139534104                                                                                 
+SASIEAENRT   TONNY RJ           N35462478E139203985                                                                                 
+SASIEAENRT   TOROI RJ           N34423198E138230694                                                                                 
+SASIEAENRT   TOTSU RJ           N33580010E135372185                                                                                 
+SASIEAENRT   TOZAK RJ           N31063303E130481292                                                                                 
+SASIEAENRT   TOZAN RJ           N35161910E134290540                                                                                 
+SASIEAENRT   TQT07 RJ           N33424427E131102981                                                                                 
+SASIEAENRT   TQT08 RJ           N33333931E130591938                                                                                 
+SASIEAENRT   TQT09 RJ           N33430910E131125067                                                                                 
+SASIEAENRT   TQT12 RJ           N33314023E131105568                                                                                 
+SASIEAENRT   TQT13 RJ           N33330467E131172076                                                                                 
+SASIEAENRT   TQT14 RJ           N33413450E131035554                                                                                 
+SASIEAENRT   TQT25 RJ           N34061243E131052594                                                                                 
+SASIEAENRT   TQT50 RJ           N33291594E131130505                                                                                 
+SASIEAENRT   TRONZ RJ           N35405890E139214704                                                                                 
+SASIEAENRT   TRUGA RJ           N35454633E136122560                                                                                 
+SASIEAENRT   TSC03 RJ           N34082547E134330274                                                                                 
+SASIEAENRT   TSC07 RJ           N34074382E134374030                                                                                 
+SASIEAENRT   TSC20 RJ           N33474505E1343634100                                                                                
+SASIEAENRT   TSC70 RJ           N34074375E134374051                                                                                 
+SASIEAENRT   TSUGA RJ           N35361196E140094063                                                                                 
+SASIEAENRT   TSUKA RJ           N43495812E143452320                                                                                 
+SASIEAENRT   TSUNO RJ           N35195800E134091202                                                                                 
+SASIEAENRT   TSURU RJ           N40554568E140263682                                                                                 
+SASIEAENRT   TTE24 RJ           N35115369E135425035                                                                                 
+SASIEAENRT   TTE33 RJ           N34194402E131390084                                                                                 
+SASIEAENRT   TUJUN RJ           N32515826E130544147                                                                                 
+SASIEAENRT   TUKBA RJ           N36075552E140012120                                                                                 
+SASIEAENRT   TUKMI RJ           N33122810E131441325                                                                                 
+SASIEAENRT   TUNAS RJ           N33400992E135430992                                                                                 
+SASIEAENRT   UENOH RJ           N34500643E136132478                                                                                 
+SASIEAENRT   URAGA RJ           N35133120E139500840                                                                                 
+SASIEAENRT   URUSI RJ           N36490915E137075352                                                                                 
+SASIEAENRT   UWE05 RJ           N39373810E140044733                                                                                 
+SASIEAENRT   UWE12 RJ           N39323064E140253650                                                                                 
+SASIEAENRT   UWE21 RJ           N39233819E140022556                                                                                 
+SASIEAENRT   UWE78 RJ           N39221920E140075520                                                                                 
+SASIEAENRT   VERSO RJ           N35215460E139542880                                                                                 
+SASIEAENRT   WAPPA RJ           N39420407E140330558                                                                                 
+SASIEAENRT   WASYU RJ           N34281750E133230114                                                                                 
+SASIEAENRT   WHILY RJ           N35312225E139322631                                                                                 
+SASIEAENRT   WHITE RJ           N42555928E141394131                                                                                 
+SASIEAENRT   WILBA RJ           N34414519E136504442                                                                                 
+SASIEAENRT   WOODY RJ           N33083079E131313930                                                                                 
+SASIEAENRT   XZE64 RJ           N35264143E133010681                                                                                 
+SASIEAENRT   YABAH RJ           N33223135E131133617                                                                                 
+SASIEAENRT   YACHI RJ           N40292544E140400497                                                                                 
+SASIEAENRT   YAGYU RJ           N34323931E135573806                                                                                 
+SASIEAENRT   YAMEK RJ           N33210588E130353952                                                                                 
+SASIEAENRT   YATSU RJ           N35425269E139583027                                                                                 
+SASIEAENRT   YHUKI RJ           N36193682E140002344                                                                                 
+SASIEAENRT   YLT04 RJ           N35463167E139261039                                                                                 
+SASIEAENRT   YLT06 RJ           N35554540E139213262                                                                                 
+SASIEAENRT   YLT08 RJ           N35423933E139272665                                                                                 
+SASIEAENRT   YLT12 RJ           N35591128E139345947                                                                                 
+SASIEAENRT   YLT13 RJ           N35490849E139251884                                                                                 
+SASIEAENRT   YLT18 RJ           N35520043E139235364                                                                                 
+SASIEAENRT   YLT80 RJ           N35573252E139202539                                                                                 
+SASIEAENRT   YME36 RJ           N35222360E134585086                                                                                 
+SASIEAENRT   YOE12 RJ           N34360681E135201377                                                                                 
+SASIEAENRT   YOK23 RJ           N36073280E139153592                                                                                 
+SASIEAENRT   YOK57 RJ           N36073722E139160515                                                                                 
+SASIEAENRT   YONEX RJ           N38043429E140174580                                                                                 
+SASIEAENRT   YOROI RJ           N45003110E141470808                                                                                 
+SASIEAENRT   YTE03 RJ           N38201884E140212064                                                                                 
+SASIEAENRT   YTE15 RJ           N38362547E140304793                                                                                 
+SASIEAENRT   YUBAR RJ           N35021049E133373447                                                                                 
+SASIEAENRT   YUURA RJ           N32182820E130303780                                                                                 
+SASIEAENRT   YVE07 RJ           N35225380E133162738                                                                                 
+SASIEAENRT   YVE23 RJ           N35244567E133412964                                                                                 
+SASIEAENRT   YVE61 RJ           N35322184E133212052                                                                                 
+SASIEAENRT   ZMO03 RJ           N38233195E140220640                                                                                 
+SASIEAENRT   ZMO04 RJ           N38201699E140213776                                                                                 
+SASIEAENRT   ZMO08 RJ           N38041548E140153273                                                                                 
+SASIEAENRT   ZMO15 RJ           N38091591E140200097                                                                                 
+SASIEAENRT   ZYT00 RJ           N43004611E141375540                                                                                 
+SASIEAENRT   ZYT02 RJ           N42584689E141381541                                                                                 
+SASIEAENRT   ZYT03 RJ           N43001525E141495892                                                                                 
+SASIEAENRT   ZYT06 RJ           N42395433E141412451                                                                                 
+SASIEAENRT   ZYT09 RJ           N42483856E142043519                                                                                 
+SASIEAENRT   ZYT13 RJ           N42573346E141481097                                                                                 
+SASIEAENRT   ZYT16 RJ           N43014571E141374538                                                                                 
+SASIEAENRT   ZYT20 RJ           N43054412E141370526                                                                                 
+SASIEAENRT   ZYT23 RJ           N42480910E141400214                                                                                 
+SASIEAENRT   ZYT25 RJ           N43050634E141475668                                                                                 
+SASIEAENRT   ZYT61 RJ           N42482031E142015395                                                                                 
+SASIEAENRT   ZYT83 RJ           N42385490E141413921                                                                                 
+SASIEAENRT   ZYT84 RJ           N42414239E141410974                                                                                 
+SASIEAENRT   ZYT97 RJ           N42544847E141385538                                                                                 
+SASIDB       NG    RJ000397     N35083219E136594764                                                                                 
+SASIDB       KQ    RJ000221     N43080426E144083770                                                                                 
+SASIDB       AK    RJ000380     N34314000E136414800                                                                                 
+SASIDB       CH    RJ000347     N42400750E141404644                                                                                 
+SASIDB       GO    RJ000221     N36455027E140213373                                                                                 
+SASIDB       RB    RJ000357     N35333483E139322824                                                                                 
+SASIDB       FQ    RJ000400     N36103133E136131301                                                                                 
+SASIDB       JC    RJ000381     N40330100E1412841100                                                                                
+SASIDB       HW    RJ000388     N41463131E140491001                                                                                 
+SASIDB       HP    RJ000328     N39312820E141092820                                                                                 
+SASIDB       HM    RJ000337     N35333174E139451634                                                                                 
+SASIDB       OW    RJ000211     N34481974E135241318                                                                                 
+SASIDB       HK    RJ000390     N31384079E130335678                                                                                 
+SASIDB       JA    RJ000238     N31212300E1305054100                                                                                
+SASIDB       KN    RJ000346     N34294220E135204265                                                                                 
+SASIDB       XR    RJ000379     N35305417E139234196                                                                                 
+SASIDB       KR    RJ000399     N33324603E133403944                                                                                 
+SASIDB       KM    RJ000232     N36242040E136250360                                                                                 
+SASIDB       KJ    RJ000352     N33583610E134385600                                                                                 
+SASIDB       XM    RJ000325     N34450741E136553508                                                                                 
+SASIDB       AY    RJ000283     N36095018E139183970                                                                                 
+SASIDB       KU    RJ000249     N32481985E130460650                                                                                 
+SASIDB       KS    RJ000194     N43020973E144120208                                                                                 
+SASIDB       MH    RJ000387     N36172640E137542940                                                                                 
+SASIDB       NA    RJ000376     N43000066E141390251                                                                                 
+SASIDB       KC    RJ000360     N35153383E136545889                                                                                 
+SASIDB       GT    RJ000253     N37570317E139063437                                                                                 
+SASIDB       JD    RJ000389     N36292334E139514821                                                                                 
+SASIDB       OB    RJ000325     N42392185E143152561                                                                                 
+SASIDB       OM    RJ000353     N41143000E141084300                                                                                 
+SASIDB       MI    RJ000228     N35550619E139365089                                                                                 
+SASIDB       JB    RJ000342     N32563000E129554800                                                                                 
+SASIDB       RK    RJ000340     N34411157E135330365                                                                                 
+SASIDB       CU    RJ000368     N35030120E135521724                                                                                 
+SASIDB       OC    RJ000253     N34025010E131033600                                                                                 
+SASIDB       SP    RJ000357     N43100752E141191441                                                                                 
+SASIDB       TN    RJ000366     N35430510E1392358100                                                                                
+SASIDB       SK    RJ000219     N34292872E135263706                                                                                 
+SASIDB       OH    RJ000239     N42535810E1430929100                                                                                
+SASIDB       TS    RJ000332     N34074100E1343621100                                                                                
+SASIDB       YZ    RJ000344     N34492012E138172159                                                                                 
+SASIDB       YU    RJ000249     N35115668E139365275                                                                                 
+SASIDB       DF    RJ000401     N35344716E139223453                                                                                 
+SASID        ATE   RJ011610V    N39424164E140034431                                                                                 
+SASID        AKE   RJ011345V    N32285151E130093463                                                                                 
+SASID        TLE   RJ011600V    N36011632E140121980                                                                                 
+SASID        MRE   RJ011410V    N40441965E140421920                                                                                 
+SASID        AWE   RJ011350V    N43400220E142272470                                                                                 
+SASID        BTE   RJ010940V    N36460619E140015985                                                                                 
+SASID        CHE   RJ011690V    N42415965E141411020                                                                                 
+SASID        CBE   RJ011780V    N34512882E136481141                                                                                 
+SASID        DYE   RJ011100V    N35361433E139490330                                                                                 
+SASID        GOC   RJ011530V    N36443972E140205946                                                                                 
+SASID        FKE   RJ011345V    N37132750E140261351                                                                                 
+SASID        HWE   RJ011230V    N41462651E140495598                                                                                 
+SASID        LHE   RJ011000V    N34445233E137405037                                                                                 
+SASID        HPE   RJ011280V    N39260009E141080060                                                                                 
+SASID        HME   RJ011220V    N35334434E139454014                                                                                 
+SASID        HKE   RJ011730V    N35483226E140223140                                                                                 
+SASID        HGE   RJ011790V    N34260159E132552629                                                                                 
+SASID        IXE   RJ011770V    N37085591E140583247                                                                                 
+SASID        IME   RJ011505V    N34403448E131464757                                                                                 
+SASID        XZE   RJ011340V    N35250206E132533254                                                                                 
+SASID        KTE   RJ010840V    N34124499E134012133                                                                                 
+SASID        HKC   RJ011330V    N31414910E130345860                                                                                 
+SASID        KGE   RJ011570V    N31475115E130433397                                                                                 
+SASID        KPE   RJ010985V    N34213359E132243783                                                                                 
+SASID        KNE   RJ011180V    N34254831E135150642                                                                                 
+SASID        OYE   RJ011100V    N34450138E133500620                                                                                 
+SASID        KZE   RJ011450V    N35240851E139541237                                                                                 
+SASID        KCE   RJ011125V    N34375158E135134245                                                                                 
+SASID        KRE   RJ011370V    N33323042E133404857                                                                                 
+SASID        KBE   RJ011730V    N31383797E130503157                                                                                 
+SASID        KMC   RJ011200V    N36234700E136241800                                                                                 
+SASID        XMC   RJ011350V    N34421667E136572861                                                                                 
+SASID        IWC   RJ011430V    N34044604E132085017                                                                                 
+SASID        KUE   RJ011280V    N32500529E130502945                                                                                 
+SASID        KSE   RJ011250V    N43020169E144121481                                                                                 
+SASID        MBE   RJ011760V    N36092151E137551134                                                                                 
+SASID        MPE   RJ011630V    N33484676E132430349                                                                                 
+SASID        TBE   RJ011085V    N43530567E144095826                                                                                 
+SASID        MIS   RJ011540V    N40421376E141225199                                                                                 
+SASID        MZE   RJ011240V    N31524342E131261488                                                                                 
+SASID        YME   RJ011260V    N35285049E135081328                                                                                 
+SASID        MVE   RJ011290V    N44181900E143234230                                                                                 
+SASID        SNE   RJ011400V    N35560537E139585323                                                                                 
+SASID        MKE   RJ011640V    N42331802E141572027                                                                                 
+SASID        OLE   RJ011660V    N32541889E129550473                                                                                 
+SASID        KCC   RJ011420V    N35155496E136545373                                                                                 
+SASID        NSE   RJ011145V    N43343850E144570181                                                                                 
+SASID        NRE   RJ011790V    N35465645E140214513                                                                                 
+SASID        NZE   RJ011480V    N36465762E140020888                                                                                 
+SASID        GTC   RJ011550V    N37572986E139065359                                                                                 
+SASID        OBE   RJ010965V    N42440227E143131363                                                                                 
+SASID        ODE   RJ011475V    N40115403E140214268                                                                                 
+SASID        TAE   RJ011210V    N33131324E131421170                                                                                 
+SASID        OKC   RJ011590V    N34401696E134005447                                                                                 
+SASID        OWE   RJ011390V    N34463373E135270581                                                                                 
+SASID        CUE   RJ011710V    N35010137E135493361                                                                                 
+SASID        SGE   RJ011475V    N33085503E130173443                                                                                 
+SASID        TYE   RJ011270V    N35470091E140154675                                                                                 
+SASID        SPE   RJ011390V    N43102871E141180858                                                                                 
+SASID        SYE   RJ011700V    N36003933E139502102                                                                                 
+SASID        SDE   RJ011630V    N38081886E140551734                                                                                 
+SASID        SIE   RJ011160V    N34374216E135394335                                                                                 
+SASID        SUC   RJ011520V    N32452150E132594790                                                                                 
+SASID        SKE   RJ011230V    N34293101E135265399                                                                                 
+SASID        STE   RJ011440V    N34304451E134162717                                                                                 
+SASID        YSE   RJ010960V    N38483881E139475751                                                                                 
+SASID        THE   RJ011045V    N35310466E134472927                                                                                 
+SASID        TZC   RJ011750V    N34193521E133571246                                                                                 
+SASID        MWE   RJ011490V    N40483209E141092651                                                                                 
+SASID        TSC   RJ011490V    N34074800E1343634100                                                                                
+SASID        TRE   RJ011020V    N35313828E134095359                                                                                 
+SASID        TOE   RJ011085V    N36390788E1371127100                                                                                
+SASID        TTE   RJ011720V    N34112656E131005828                                                                                 
+SASID        UBE   RJ011080V    N33560826E131170071                                                                                 
+SASID        YTE   RJ011300V    N38231904E140212863                                                                                 
+SASID        YOE   RJ011460V    N34355445E135353734                                                                                 
+SASID        HYE   RJ011620V    N35152097E139351508                                                                                 
+SASID        YVE   RJ011410V    N35293637E133135710                                                                                 
+SASID        UWE   RJ011065V    N39370166E140111297                                                                                 
+SASID        ZMO   RJ011080V    N38112401E140200888                                                                                 
+SASID        ITM   RJ011070 D   N35480345E140225921                                                                                 
+SASID        IKF   RJ011150 D   N35461612E140220852                                                                                 
+SASID        IYQ   RJ011190 D   N35450449E140230027                                                                                 
+SASID        ITJ   RJ011090 D   N35472117E140233037                                                                                 
+SASID        IKD   RJ010810 D   N34250572E135135819                                                                                 
+SASID        IKN   RJ011070 D   N34260350E135152429                                                                                 
+SASID        IKO   RJ010915 D   N34375079E135125139                                                                                 
+SASID        KPE   RJ010855 D   N34223258E132250982                                                                                 
+SASID        ITH   RJ010855 D   N35310853E134471668                                                                                 
+SASID        ICN   RJ011090 D   N42455218E141413812                                                                                 
+SASID        ICH   RJ011075 D   N42455343E141415121                                                                                 
+SASID        ICS   RJ011150 D   N42470832E141412472                                                                                 
+SASID        IHL   RJ010930 D   N41462072E140482779                                                                                 
+SASID        INS   RJ010935 D   N43342795E144571002                                                                                 
+SASID        IMV   RJ011155 D   N44175612E143243357                                                                                 
+SASID        IAW   RJ011050 D   N43394701E142270321                                                                                 
+SASID        IFF   RJ010890 D   N33343704E130271908                                                                                 
+SASID        IMZ   RJ010890 D   N31524441E131272940                                                                                 
+SASID        ISG   RJ011015 D   N33085125E130183328                                                                                 
+SASID        IOM   RJ011090 D   N32542975E129551442                                                                                 
+SASID        IKM   RJ011010 D   N36232516E136235436                                                                                 
+SASID        ITO   RJ010930 D   N36383269E137110288                                                                                 
+SASID        IHG   RJ010870 D   N34260548E132542402                                                                                 
+SASID        IXZ   RJ011170 D   N35242915E132524049                                                                                 
+SASID        IYV   RJ010895 D   N35294593E133143394                                                                                 
+SASID        IKR   RJ011090 D   N33322219E133403497                                                                                 
+SASID        ITS   RJ010890 D   N34075685E134365215                                                                                 
+SASID        IKT   RJ010970 D   N34125591E134013454                                                                                 
+SASID        IMR   RJ011190 D   N40441980E140420149                                                                                 
+SASID        IYT   RJ011010 D   N38242070E140221894                                                                                 
+SASID        IFK   RJ011050 D   N37130770E140253389                                                                                 
+SASID        IUW   RJ010890 D   N39365716E140134526                                                                                 
+SASID        INC   RJ010930 D   N37572562E139071135                                                                                 
+SASID        ISD   RJ011170 D   N38083466E140554361                                                                                 
+SASID        IYS   RJ011090 D   N38484446E139464405                                                                                 
+SASID        ISN   RJ011150 D   N38483676E139465424                                                                                 
+SASID        IAD   RJ010810 D   N35335145E139463410                                                                                 
+SASID        ITD   RJ011050 D   N35322106E139490659                                                                                 
+SASID        IHA   RJ011170 D   N35322346E139470636                                                                                 
+SASID        ITC   RJ010890 D   N35324398E139480953                                                                                 
+SASID        ATE   RJ011610 D   N39424164E140034431                                                                                 
+SASID        AKE   RJ011345 D   N32285151E130093463                                                                                 
+SASID        TLE   RJ011600 D   N36011632E140121980                                                                                 
+SASID        MRE   RJ011410 D   N40441965E140421920                                                                                 
+SASID        AWE   RJ011350 D   N43400220E142272470                                                                                 
+SASID        BTE   RJ010940 D   N36460619E140015985                                                                                 
+SASID        CHE   RJ011690 D   N42415965E141411020                                                                                 
+SASID        CBE   RJ011780 D   N34512882E136481141                                                                                 
+SASID        DYE   RJ011100 D   N35361433E139490330                                                                                 
+SASID        GOC   RJ011530 D   N36444147E140205842                                                                                 
+SASID        FKE   RJ011345 D   N37132750E140261351                                                                                 
+SASID        HWE   RJ011230 D   N41462651E140495598                                                                                 
+SASID        LHE   RJ011000 D   N34445233E137405037                                                                                 
+SASID        HPE   RJ011280 D   N39260009E141080060                                                                                 
+SASID        HME   RJ011220 D   N35334434E139454014                                                                                 
+SASID        HKE   RJ011730 D   N35483226E140223140                                                                                 
+SASID        HGE   RJ011790 D   N34260159E132552629                                                                                 
+SASID        IXE   RJ011770 D   N37085591E140583247                                                                                 
+SASID        IME   RJ011505 D   N34403448E131464757                                                                                 
+SASID        XZE   RJ011340 D   N35250206E132533254                                                                                 
+SASID        KTE   RJ010840 D   N34124499E134012133                                                                                 
+SASID        HKC   RJ011330 D   N31414910E130345860                                                                                 
+SASID        KGE   RJ011570 D   N31475115E130433397                                                                                 
+SASID        KPE   RJ010985 D   N34213359E132243783                                                                                 
+SASID        KNE   RJ011180 D   N34254831E135150642                                                                                 
+SASID        OYE   RJ011100 D   N34450138E133500620                                                                                 
+SASID        KZE   RJ011450 D   N35240851E139541237                                                                                 
+SASID        KCE   RJ011125 D   N34375158E135134245                                                                                 
+SASID        KRE   RJ011370 D   N33323042E133404857                                                                                 
+SASID        KBE   RJ011730 D   N31383797E130503157                                                                                 
+SASID        KMC   RJ011200 D   N36234700E136241800                                                                                 
+SASID        XMC   RJ011350 D   N34421654E136572673                                                                                 
+SASID        IWC   RJ011430 D   N34044764E132085031                                                                                 
+SASID        KUE   RJ011280 D   N32500529E130502945                                                                                 
+SASID        KSE   RJ011250 D   N43020169E144121481                                                                                 
+SASID        MBE   RJ011760 D   N36092151E137551134                                                                                 
+SASID        MPE   RJ011630 D   N33484676E132430349                                                                                 
+SASID        TBE   RJ011085 D   N43530567E144095826                                                                                 
+SASID        MIS   RJ011540 D   N40421376E141225199                                                                                 
+SASID        MZE   RJ011240 D   N31524342E131261488                                                                                 
+SASID        YME   RJ011260 D   N35285049E135081328                                                                                 
+SASID        MVE   RJ011290 D   N44181900E143234230                                                                                 
+SASID        SNE   RJ011400 D   N35560537E139585323                                                                                 
+SASID        MKE   RJ011640 D   N42331802E141572027                                                                                 
+SASID        OLE   RJ011660 D   N32541889E129550473                                                                                 
+SASID        KCC   RJ011420 D   N35155596E136545373                                                                                 
+SASID        NSE   RJ011145 D   N43343850E144570181                                                                                 
+SASID        NRE   RJ011790 D   N35465645E140214513                                                                                 
+SASID        NZE   RJ011480 D   N36465762E140020888                                                                                 
+SASID        GTC   RJ011550 D   N37572986E139065359                                                                                 
+SASID        OBE   RJ010965 D   N42440227E143131363                                                                                 
+SASID        ODE   RJ011475 D   N40115403E140214268                                                                                 
+SASID        TAE   RJ011210 D   N33131324E131421170                                                                                 
+SASID        OKC   RJ011590 D   N34401776E134005301                                                                                 
+SASID        OWE   RJ011390 D   N34463373E135270581                                                                                 
+SASID        CUE   RJ011710 D   N35010137E135493361                                                                                 
+SASID        SGE   RJ011475 D   N33085503E130173443                                                                                 
+SASID        TYE   RJ011270 D   N35470091E140154675                                                                                 
+SASID        SPE   RJ011390 D   N43102871E141180858                                                                                 
+SASID        SYE   RJ011700 D   N36003933E139502102                                                                                 
+SASID        SDE   RJ011630 D   N38081886E140551734                                                                                 
+SASID        SIE   RJ011160 D   N34374216E135394335                                                                                 
+SASID        SUC   RJ011520 D   N32452150E132594790                                                                                 
+SASID        SKE   RJ011230 D   N34293101E135265399                                                                                 
+SASID        STE   RJ011440 D   N34304451E134162717                                                                                 
+SASID        YSE   RJ010960 D   N38483881E139475751                                                                                 
+SASID        THE   RJ011045 D   N35310466E134472927                                                                                 
+SASID        TZC   RJ011750 D   N34193422E133571383                                                                                 
+SASID        MWE   RJ011490 D   N40483209E141092651                                                                                 
+SASID        TSC   RJ011490 D   N34074785E134363415                                                                                 
+SASID        TRE   RJ011020 D   N35313828E134095359                                                                                 
+SASID        TOE   RJ011085 D   N36390788E1371127100                                                                                
+SASID        TTE   RJ011720 D   N34112656E131005828                                                                                 
+SASID        UBE   RJ011080 D   N33560826E131170071                                                                                 
+SASID        YTE   RJ011300 D   N38231904E140212863                                                                                 
+SASID        YOE   RJ011460 D   N34355445E135353734                                                                                 
+SASID        HYE   RJ011620 D   N35152097E139351508                                                                                 
+SASID        YVE   RJ011410 D   N35293637E133135710                                                                                 
+SASID        UWE   RJ011065 D   N39370166E140111297                                                                                 
+SASID        AKT   RJ011205 D   N34314270E136403060                                                                                 
+SASID        AHT   RJ010860 D   N33531710E130390100                                                                                 
+SASID        NJA   RJ011510 D   N35264410E139271400                                                                                 
+SASID        ZYT   RJ010920 D   N42455110E1414024100                                                                                
+SASID        GFT   RJ011225 D   N35232900E1365130100                                                                                
+SASID        HVT   RJ010860 D   N40332010E1412811100                                                                                
+SASID        LHT   RJ011470 D   N34444910E137423600                                                                                 
+SASID        FMT   RJ011300 D   N34021710E1313244100                                                                                
+SASID        HUT   RJ011330 D   N36111710E1402453100                                                                                
+SASID        YLT   RJ011060 D   N35502400E1392453100                                                                                
+SASID        NEU   RJ010980 D   N34082610E1321356100                                                                                
+SASID        JAT   RJ011380 D   N31214600E130494800                                                                                 
+SASID        XR    RJ010980 D   N35305417E139234196                                                                                 
+SASID        KJT   RJ011355 D   N34001491E134373216                                                                                 
+SASID        MZT   RJ010965 D   N35325300E135253200                                                                                 
+SASID        NHT   RJ011500 D   N32044900E1312712100                                                                                
+SASID        OMT   RJ011485 D   N41135010E1410808100                                                                                
+SASID        JBT   RJ011405 D   N32553210E1295555100                                                                                
+SASID        OCT   RJ011215 D   N34023900E1310258100                                                                                
+SASID        SHT   RJ010820 D   N35480610E1400035100                                                                                
+SASID        YZT   RJ010920 D   N34485110E1381744100                                                                                
+SASID        TQT   RJ011040 D   N33411700E131021700                                                                                 
+SASID        JDT   RJ011215 D   N36310010E139523200                                                                                 
+SASID        YOK   RJ011380 D   N35445630E139210095                                                                                 
+SASIER       Y20         0010BASILRJEA      O                                      24000     60000                                  
+SASIER       Y20         0020CLOVERJEA      O                             0728     24000     60000                                  
+SASIER       Y20         0030KAMMYRJEA      O                             0423     12000     60000                                  
+SASIER       Y20         0040TTE24RJEA      O                             0519     16000     60000                                  
+SASIER       Y20         0050HIKNERJEA      O                             0201     16000     60000                                  
+SASIER       Y20         0060GUJYORJEA      O                             0234     16000     60000                                  
+SASIER       R211        0020GTC  RJD       O                             0127     05000     60000                                  
+SASIER       R211        0030LAPISRJEA      O                             0631     06000     09000                                  
+SASIER       R211        0040MIKRARJEA      O                             0101     09000     60000                                  
+SASIER       R211        0050GOC  RJD       O                             0206     09000     60000                                  
+SASIER       R211        0060MILKYRJEA      O                             0127     14000     60000                                  
+SASIER       R211        0070SWAMPRJEA      O                             0143     11000     60000                                  
+SASIER       R211        0080COMETRJEA      O                             0074     09000     60000                                  
+SASIER       R211        0090KASMIRJEA      O                             0075     09000     60000                                  
+SASIER       G339        0030OGORIRJEA      O                             0240     06000     60000                                  
+SASIER       G339        0040OMUTARJEA      O                             0132     08000     60000                                  
+SASIER       G339        0050TAIMERJEA      O                             0118     09000     60000                                  
+SASIER       G339        0060FUGENRJEA      O                             0125     09000     60000                                  
+SASIER       G339        0070HINAGRJEA      O                             0157     09000     60000                                  
+SASIER       G339        0080SASIKRJEA      O                             0057     08000     60000                                  
+SASIER       G583        0130MVE  RJD       O                             0560     12000     60000                                  
+SASIER       Y25         0040GOKYORJEA      O                             0792     07000     60000                                  
+SASIER       Y25         0050GENKO  EA      O                             0552     07000     60000                                  
+SASIER       Y10         0010CANNARJEA      O                                      20000     60000                                  
+SASIER       Y10         0020GOC  RJD       O                             0728     20000     60000                                  
+SASIER       Y755        0010CARDSRJEA      O                                      11000     60000                                  
+SASIER       Y755        0020NATCHRJEA      O                             0170     11000     60000                                  
+SASIER       Y755        0030TUNASRJEA      O                             0393     13000     60000                                  
+SASIER       V54         0010CARPSRJEA      OL                                     07000     60000                                  
+SASIER       V54         0020IWC  RJD       OL                            0223     07000     60000                                  
+SASIER       Y12         0010CHE  RJD       O                                      15000     60000                                  
+SASIER       Y12         0020HWE  RJD       O                             0673     15000     60000                                  
+SASIER       Y12         0030TAPPI  EA      O                             0487     16000     60000                                  
+SASIER       V13-Y       0010CHE  RJD       OL                                     06000     60000                                  
+SASIER       V13-Y       0020NASEL  EA      OL                            0350     06000     60000                                  
+SASIER       V11-Y       0010CHE  RJD       OL                                     06000     60000                                  
+SASIER       V11-Y       0020NAVER  EA      OL                            0350     06000     60000                                  
+SASIER       V22-Y       0010CHE  RJD       OL                                     07000     60000                                  
+SASIER       V22-Y       0020TOBBY  EA      OL                            0470     07000     60000                                  
+SASIER       Y511        0010CHESSRJEA      O                                      11000     60000                                  
+SASIER       Y511        0020MARIARJEA      O                             0224     11000     60000                                  
+SASIER       Y511        0030TRUGARJEA      O                             0062     16000     60000                                  
+SASIER       Y511        0040CHILY  EA      O                             0546     16000     60000                                  
+SASIER       Y17         0010CHINORJEA      O                                      24000     60000                                  
+SASIER       Y17         0020CHUJIRJEA      O                             0927     24000     60000                                  
+SASIER       Y17         0030YTE  RJD       O                             0804     11000     60000                                  
+SASIER       Y22         0010CHINORJEA      O                                      24000     60000                                  
+SASIER       Y22         0020TRUGARJEA      O                             1150     24000     60000                                  
+SASIER       Y22         0030JEC    D       O                             1525     16000     60000                                  
+SASIER       G597        0010CUE  RJD       O                                      07000     60000                                  
+SASIER       G597        0020ROKKORJEA      O                             0265     07000     60000                                  
+SASIER       G597        0030CUE40RJEA      O                             0134     07000     60000                                  
+SASIER       G597        0040TOZANRJEA      O                             0277     09000     60000                                  
+SASIER       G597        0050TSUNORJEA      O                             0166     08000     60000                                  
+SASIER       G597        0060JEC    D       O                             0532     08000     60000                                  
+SASIER       Y32-Y       0020MAIKORJEA      O                             0089     04000     60000                                  
+SASIER       Y32         0030WASYURJEA      O                             0446     05000     60000                                  
+SASIER       3E14        0020OHGIERJEA      O                             0233     07000     60000                                  
+SASIER       3E14        0030TAKEORJEA      O                             0096     07000     60000                                  
+SASIER       3E14        0040OLE  RJD       O                             0192     07000     60000                                  
+SASIER       Y414        0010DONARRJEA      O                                      16000     60000                                  
+SASIER       Y414        0020ROSIERJEA      O                             0548     16000     60000                                  
+SASIER       B597        0090SUC  RJD       O                             0486     04000     60000                                  
+SASIER       R217        0010FINCHRJEA      O                                      09000     60000                                  
+SASIER       R217        0020SDE15RJEA      O                             0068     09000     60000                                  
+SASIER       R217        0030SDE  RJD       O                             0150     08000     60000                                  
+SASIER       V17-Y       0020TAE  RJD       OL                            1484     21000     60000                                  
+SASIER       3E17        0020HANWARJEA      O                             0137     05000     60000                                  
+SASIER       3E17        0030IWADERJEA      O                             0112     05000     60000                                  
+SASIER       OTR3        0010GOC  RJD       O                                      05500     60000                                  
+SASIER       OTR3        0020SNAIL  EA      O                             1001     05500     60000                                  
+SASIER       OTR4        0010GOC  RJD       O                                      05500     60000                                  
+SASIER       OTR4        0020TOPOS  EA      O                             1029     05500     60000                                  
+SASIER       Y132        0010GUJYORJEA      O                                      08000     60000                                  
+SASIER       Y132        0020SIGAKRJEA      O                             0387     08000     60000                                  
+SASIER       3E18        0020YZ   RJD       O                             1170     16000     60000                                  
+SASIER       3E25        0020SUNPURJEA      O                             1196     08000     60000                                  
+SASIER       3E25        0030YZ   RJD       O                             0073     08000     60000                                  
+SASIER       3E12        0010HKC  RJD       O                                      09000     60000                                  
+SASIER       3E12        0020HONDO  EA      O                             0480     09000     60000                                  
+SASIER       3E12        0030OLE20RJEA      O                             0120     09000     60000                                  
+SASIER       3E12        0040OLE  RJD       O                             0200     05000     60000                                  
+SASIER       3E32        0010HPE  RJD       O                                      10000     60000                                  
+SASIER       3E32        0020WAPPARJEA      O                             0314     10000     60000                                  
+SASIER       3E33        0010HWE  RJD       O                                      06000     60000                                  
+SASIER       3E33        0020OHMARRJEA      O                             0286     06000     60000                                  
+SASIER       3E33        0030MWE  RJD       O                             0312     06000     60000                                  
+SASIER       3E44        0020MZE  RJD       O                             0292     05000     60000                                  
+SASIER       V59         0020TOHGORJEA      OL                            0372     07000     60000                                  
+SASIER       V59         0030YME  RJD       OL                            0627     13000     60000                                  
+SASIER       V59         0040KCC  RJD       OL                            0880     05000     60000                                  
+SASIER       V59         0050KIKOLRJEA      OL                            0400     05000     60000                                  
+SASIER       V59         0060LHE  RJD       OL                            0088     05000     60000                                  
+SASIER       Y11         0010KAEDERJEA      O                                      20000     60000                                  
+SASIER       Y11         0020NZE  RJD       O                             0960     20000     60000                                  
+SASIER       Y11         0030SNE  RJD       O                             0510     09000     60000                                  
+SASIER       3E38        0010KAGRARJEA      O                                      07000     60000                                  
+SASIER       3E38        0020RUMOIRJEA      O                             0262     07000     60000                                  
+SASIER       3E39        0010KSE  RJD       O                                      05000     60000                                  
+SASIER       3E39        0020OBE  RJD       O                             0469     05000     60000                                  
+SASIER       3E22        0010KZE  RJD       O                                      04000     60000                                  
+SASIER       3E22        0020PQE    D       O                             0274     04000     60000                                  
+SASIER       V17-Y       0010LABELRJEA      OL                                     16000     60000                                  
+SASIER       V17-Y       0020SKE  RJD       OL                            0367     16000     60000                                  
+SASIER       V17-Y       0030PROOF  EA      OL                            0293     16000     60000                                  
+SASIER       Y29         0010LHE  RJD       O                                      09000     60000                                  
+SASIER       Y29         0020SHTLERJEA      O                             0365     09000     60000                                  
+SASIER       Y29         0030YAGYURJEA      O                             0517     09000     60000                                  
+SASIER       Y29         0040NARAHRJEA      O                             0139     09000     60000                                  
+SASIER       Y752        0020MELLYRJEA      O                             0819     09000     60000                                  
+SASIER       Y412        0010MPE  RJD       O                                      16000     60000                                  
+SASIER       Y412        0020ROSIERJEA      O                             0390     16000     60000                                  
+SASIER       Y19         0010MRE  RJD       O                                      21000     60000                                  
+SASIER       Y19         0020NAMMY  EA      O                             0674     21000     60000                                  
+SASIER       OTR1        0030OBE  RJD       O                             1059     20000     60000                                  
+SASIER       3E40        0010NSE  RJD       O                                      08000     60000                                  
+SASIER       3E40        0020TBE10RJEA      O                             0287     08000     60000                                  
+SASIER       3E40        0030TBE  RJD       O                             0100     05000     60000                                  
+SASIER       OTR5        0020TYE  RJD       O                             1947     28000     60000                                  
+SASIER       3E23        0020TYE  RJD       O                             0534     04000     60000                                  
+SASIER       3E37        0010RUMOIRJEA      O                                      07000     60000                                  
+SASIER       3E37        0020SPE08RJEA      O                             0286     07000     60000                                  
+SASIER       3E37        0030SPE  RJD       O                             0080     05000     60000                                  
+SASIER       Y30         0010SETOHRJEA      O                                      05000     60000                                  
+SASIER       Y30         0020SUMARRJEA      O                             0447     05000     60000                                  

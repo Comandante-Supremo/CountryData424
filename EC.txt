@@ -1,0 +1,438 @@
+SSAMEAENRT   ALGEK SE           S03270710W0795957100                                                                                
+SSAMEAENRT   ALUPI SE           S01310300W077424100                                                                                 
+SSAMEAENRT   AMARI SE           S00495910W0802039100                                                                                
+SSAMEAENRT   AMB05 SE           S01174597W078352036                                                                                 
+SSAMEAENRT   AMINO SE           S00224500W077281700                                                                                 
+SSAMEAENRT   ANDEL SE           S03074210W079560300                                                                                 
+SSAMEAENRT   ANTIS SE           S00514500W078150500                                                                                 
+SSAMEAENRT   AROTO SE           S00050300W079423200                                                                                 
+SSAMEAENRT   ARPCS SE           S01504110W078001900                                                                                 
+SSAMEAENRT   ARPOL SE           N00042910W078251463                                                                                 
+SSAMEAENRT   ASAPO SE           S01085700W079135400                                                                                 
+SSAMEAENRT   AVILA SE           S00345110W077280300                                                                                 
+SSAMEAENRT   BACLO SE           S01152910W0804431100                                                                                
+SSAMEAENRT   BAQUI SE           N00030810W077261500                                                                                 
+SSAMEAENRT   BERME SE           N00172710W0772429100                                                                                
+SSAMEAENRT   BOKAN SE           N00482910W077525400                                                                                 
+SSAMEAENRT   BUVUL SE           S00000558W078252617                                                                                 
+SSAMEAENRT   CAGUA SE           S03572736W078441581                                                                                 
+SSAMEAENRT   CANAR SE           S02301710W0785201100                                                                                
+SSAMEAENRT   CANLS SE           S01352135W077431380                                                                                 
+SSAMEAENRT   CANOA SE           S02481110W079405300                                                                                 
+SSAMEAENRT   CARTE SE           S01352600W0792819100                                                                                
+SSAMEAENRT   CATRA SE           S01300210W079382600                                                                                 
+SSAMEAENRT   CAYAM SE           N00005900W077513800                                                                                 
+SSAMEAENRT   CHILA SE           S00153700W079113500                                                                                 
+SSAMEAENRT   CHNCN SE           S02582200W079130900                                                                                 
+SSAMEAENRT   COC06 SE           S00321163W076565302                                                                                 
+SSAMEAENRT   COC10 SE           S00170156W076573198                                                                                 
+SSAMEAENRT   COC13 SE           S00303055W076545407                                                                                 
+SSAMEAENRT   COC33 SE           S00223703W077022175                                                                                 
+SSAMEAENRT   COCOA SE           S00275534W076592079                                                                                 
+SSAMEAENRT   COFAN SE           N00225000W0774005100                                                                                
+SSAMEAENRT   CUR06 SE           S02545405W079004856                                                                                 
+SSAMEAENRT   CURRY SE           S01225110W0765604100                                                                                
+SSAMEAENRT   CUTCL SE           S03065900W078440700                                                                                 
+SSAMEAENRT   CUV07 SE           S02485991W078480614                                                                                 
+SSAMEAENRT   CUV09 SE           S02553255W079021205                                                                                 
+SSAMEAENRT   DANTO SE           S01114734W078084480                                                                                 
+SSAMEAENRT   DIMIN SE           S00292310W0791633100                                                                                
+SSAMEAENRT   DUBKU SE           N00365310W0775403100                                                                                
+SSAMEAENRT   GATUB SE           S00040300W078290119                                                                                 
+SSAMEAENRT   GELAR SE           S00481610W0773015100                                                                                
+SSAMEAENRT   GIRON SE           S03084410W0790213100                                                                                
+SSAMEAENRT   GUABO SE           S03133610W0794730100                                                                                
+SSAMEAENRT   GUARA SE           S02382500W078384300                                                                                 
+SSAMEAENRT   GUXAD SE           S02533110W0783513100                                                                                
+SSAMEAENRT   GYV04 SE           S02050849W079502566                                                                                 
+SSAMEAENRT   GYV08 SE           S02154351W079523447                                                                                 
+SSAMEAENRT   GYV30 SE           S02063143W079555041                                                                                 
+SSAMEAENRT   GYV35 SE           S02025200W079532365                                                                                 
+SSAMEAENRT   GYV50 SE           S02024482W079454294                                                                                 
+SSAMEAENRT   GYV80 SE           S02004397W079480112                                                                                 
+SSAMEAENRT   ILC05 SE           S02500331W078544951                                                                                 
+SSAMEAENRT   ILC10 SE           S02465448W078505262                                                                                 
+SSAMEAENRT   ILC12 SE           S02454456W078491788                                                                                 
+SSAMEAENRT   ILC25 SE           S02513571W078564796                                                                                 
+SSAMEAENRT   ILC75 SE           S02495433W078471408                                                                                 
+SSAMEAENRT   INTAG SE           N00252810W078341400                                                                                 
+SSAMEAENRT   ISA05 SE           S02155093W080543996                                                                                 
+SSAMEAENRT   KIKUL SE           S00053066W078292215                                                                                 
+SSAMEAENRT   KOLTA SE           N00222700W078120900                                                                                 
+SSAMEAENRT   KORBO SE           S03010000W077520000                                                                                 
+SSAMEAENRT   LAV05 SE           N00090956W076472368                                                                                 
+SSAMEAENRT   LAV07 SE           N00101025W076453934                                                                                 
+SSAMEAENRT   LAV09 SE           N00062695W077002207                                                                                 
+SSAMEAENRT   LAV10 SE           N00062906W077012196                                                                                 
+SSAMEAENRT   LAV15 SE           N00063958W077062145                                                                                 
+SSAMEAENRT   LAV23 SE           N00022713W076593576                                                                                 
+SSAMEAENRT   LAV33 SE           N00004119W076583378                                                                                 
+SSAMEAENRT   LAV51 SE           N00065991W076500936                                                                                 
+SSAMEAENRT   LAV59 SE           N00111947W076440115                                                                                 
+SSAMEAENRT   LAV75 SE           N00013566W076572199                                                                                 
+SSAMEAENRT   LAV79 SE           N00072859W076443118                                                                                 
+SSAMEAENRT   LIBRE SE           N00075410W077262000                                                                                 
+SSAMEAENRT   LOGUS SE           S02491510W0791454100                                                                                
+SSAMEAENRT   LOTOA SE           S00462300W0785219100                                                                                
+SSAMEAENRT   LPILA SE           S01124710W080284400                                                                                 
+SSAMEAENRT   LTV02 SE           S00572763W078370844                                                                                 
+SSAMEAENRT   LTV07 SE           S01022100W078353973                                                                                 
+SSAMEAENRT   LTV10 SE           S01051385W078344356                                                                                 
+SSAMEAENRT   LTV15 SE           S01100724W078333377                                                                                 
+SSAMEAENRT   LTV20 SE           S01150063W078322397                                                                                 
+SSAMEAENRT   LTV68 SE           S01002046W078355335                                                                                 
+SSAMEAENRT   MINDO SE           S00034500W079071800                                                                                 
+SSAMEAENRT   MIRLO SE           S03315910W078150000                                                                                 
+SSAMEAENRT   MNV07 SE           S01000117W080453086                                                                                 
+SSAMEAENRT   MNV35 SE           S01014239W080475995                                                                                 
+SSAMEAENRT   MNV42 SE           S00471546W080313247                                                                                 
+SSAMEAENRT   MNV46 SE           S01061222W080331123                                                                                 
+SSAMEAENRT   MNV54 SE           S00490970W080295381                                                                                 
+SSAMEAENRT   MNV66 SE           S00512208W080284090                                                                                 
+SSAMEAENRT   MNV72 SE           S00530858W080300979                                                                                 
+SSAMEAENRT   MNV73 SE           S00523329W080281515                                                                                 
+SSAMEAENRT   MOLLE SE           S02484600W0792653100                                                                                
+SSAMEAENRT   MORAS SE           S01111710W0791041100                                                                                
+SSAMEAENRT   NEKIS SE           S01555110W0803634100                                                                                
+SSAMEAENRT   OROLA SE           S00383500W0794507100                                                                                
+SSAMEAENRT   PACTO SE           N00175310W078524400                                                                                 
+SSAMEAENRT   PAJOL SE           N00205310W0780903100                                                                                
+SSAMEAENRT   PAKOK SE           S00535710W078265300                                                                                 
+SSAMEAENRT   PASJE SE           S03252700W0795018100                                                                                
+SSAMEAENRT   PAV12 SE           S01335100W077572947                                                                                 
+SSAMEAENRT   PAV17 SE           S01405107W078014874                                                                                 
+SSAMEAENRT   PAV18 SE           S01405006W078034368                                                                                 
+SSAMEAENRT   PAV34 SE           S01213880W077583716                                                                                 
+SSAMEAENRT   PAV46 SE           S01235086W077552975                                                                                 
+SSAMEAENRT   PAV48 SE           S01393252W077574121                                                                                 
+SSAMEAENRT   PAV73 SE           S01281382W077530190                                                                                 
+SSAMEAENRT   PAV90 SE           S01311104W077524183                                                                                 
+SSAMEAENRT   PAVCI SE           S01260410W0761538100                                                                                
+SSAMEAENRT   PIDRA SE           S03395210W079564400                                                                                 
+SSAMEAENRT   PIRCA SE           S02303810W0785021100                                                                                
+SSAMEAENRT   PITRA SE           S01474810W077520800                                                                                 
+SSAMEAENRT   PLAZA SE           S02555410W0782124100                                                                                
+SSAMEAENRT   PUCRA SE           S01170510W078412600                                                                                 
+SSAMEAENRT   PUMTA SE           S00311910W0775232100                                                                                
+SSAMEAENRT   PUTMO SE           N00070110W0755157100                                                                                
+SSAMEAENRT   QIT32 SE           S00052367W078294546                                                                                 
+SSAMEAENRT   QIT35 SE           S00105097W078221245                                                                                 
+SSAMEAENRT   R1519 SE           S02530313W078583956                                                                                 
+SSAMEAENRT   RARJO SE           S01163500W0774838100                                                                                
+SSAMEAENRT   RBLAO SE           S01223310W0782053100                                                                                
+SSAMEAENRT   REKIN SE           S00261600W079064700                                                                                 
+SSAMEAENRT   RIOJA SE           S00525400W078380200                                                                                 
+SSAMEAENRT   RIPAL SE           S01504410W0780424100                                                                                
+SSAMEAENRT   ROCAF SE           S00553500W0801942100                                                                                
+SSAMEAENRT   ROGEN SE           S01364810W080123800                                                                                 
+SSAMEAENRT   ROKAX SE           N00243410W079000200                                                                                 
+SSAMEAENRT   RTIGO SE           S01115810W076582300                                                                                 
+SSAMEAENRT   RUPNO SE           S01251300W0774328100                                                                                
+SSAMEAENRT   SAV03 SE           S02123646W080552738                                                                                 
+SSAMEAENRT   SAV04 SE           S02142438W080565374                                                                                 
+SSAMEAENRT   SAV05 SE           S02121343W080532963                                                                                 
+SSAMEAENRT   SAV06 SE           S02170369W080534831                                                                                 
+SSAMEAENRT   SAV26 SE           S02165387W080534041                                                                                 
+SSAMEAENRT   SAV30 SE           S02150735W080560616                                                                                 
+SSAMEAENRT   SAV88 SE           S02175310W080515504                                                                                 
+SSAMEAENRT   SAV95 SE           S02134776W080532635                                                                                 
+SSAMEAENRT   SCARS SE           S01015000W0792815100                                                                                
+SSAMEAENRT   SCLAA SE           S01121900W077550800                                                                                 
+SSAMEAENRT   SELVA SE           S00590434W077312379                                                                                 
+SSAMEAENRT   SHAPO SE           S00195700W077144300                                                                                 
+SSAMEAENRT   SIDEL SE           S01172100W0794808100                                                                                
+SSAMEAENRT   SJUAN SE           S01340800W0793012100                                                                                
+SSAMEAENRT   SROSA SE           S03274200W079564400                                                                                 
+SSAMEAENRT   SUCUA SE           S02275100W0781108100                                                                                
+SSAMEAENRT   SURCA SE           S00194610W077490400                                                                                 
+SSAMEAENRT   TACHI SE           S00390200W0785958100                                                                                
+SSAMEAENRT   TASHA SE           S02231200W0773007100                                                                                
+SSAMEAENRT   TEJAR SE           S00535810W078320800                                                                                 
+SSAMEAENRT   TIPDO SE           S00423410W078564800                                                                                 
+SSAMEAENRT   TIPTI SE           S00463500W0753146100                                                                                
+SSAMEAENRT   TUTAN SE           S02270500W0782251100                                                                                
+SSAMEAENRT   VAKUD SE           S04301110W079340000                                                                                 
+SSAMEAENRT   VALNC SE           S00534510W0791830100                                                                                
+SSAMEAENRT   VERGL SE           S01400010W0774454100                                                                                
+SSAMEAENRT   VILLO SE           S01310910W0772912100                                                                                
+SSAMEAENRT   VULKY SE           S01274710W0794852100                                                                                
+SSAMEAENRT   VUPON SE           N00185003W076254296                                                                                 
+SSAMEAENRT   YAUPI SE           S02502600W077531200                                                                                 
+SSAMDB       AMB   SE000360     S01124766W078343571                                                                                 
+SSAMDB       ZUI   SE000290     S00045910W078173800                                                                                 
+SSAMDB       BCN   SE000316     S00360610W0802425100                                                                                
+SSAMDB       SOL   SE000280     S02143510W080043200                                                                                 
+SSAMDB       COC   SE000322     S00264040W076594540                                                                                 
+SSAMDB       CUR   SE000221     S02514460W078565550                                                                                 
+SSAMDB       GLZ   SE000275     S03251110W078320800                                                                                 
+SSAMDB       R     SE000315     S02075800W079520800                                                                                 
+SSAMDB       LAG   SE000353     N00040000W0765411100                                                                                
+SSAMDB       LAR   SE000412     N00050200W076524900                                                                                 
+SSAMDB       LOJ   SE000414     S03594910W079221400                                                                                 
+SSAMDB       MAS   SE000405     S02181230W0780714100                                                                                
+SSAMDB       MHL   SE000250     S03160610W079575000                                                                                 
+SSAMDB       MTL   SE000331     S02041110W076580800                                                                                 
+SSAMDB       OLM   SE000400     N00094710W078033800                                                                                 
+SSAMDB       PAL   SE000365     S02012910W079483200                                                                                 
+SSAMDB       PTZ   SE000340     S01305842W078023582                                                                                 
+SSAMDB       PTN   SE000390     S01024510W0802805100                                                                                
+SSAMDB       UIO   SE000350     S00102810W078285900                                                                                 
+SSAMDB       RIO   SE000212     S01391900W0783920100                                                                                
+SSAMDB       TSH   SE000210     S02221270W077301570                                                                                 
+SSAMDB       TRP   SE000328     S00075300W0761928100                                                                                
+SSAMDB       TNA   SE000465     S00590300W0774941100                                                                                
+SSAMDB       TPU   SE000375     S00463500W0753146100                                                                                
+SSAMDB       TLC   SE000418     N00492600W0774113100                                                                                
+SSAMD        QIT   SE011530V    S00021810W078304080                                                                                 
+SSAMD        CUV   SE011450V    S02500510W078550060                                                                                 
+SSAMD        GYV   SE011590V    S02074110W0795200100                                                                                
+SSAMD        LAV   SE011230V    N00060710W0765121100                                                                                
+SSAMD        LTV   SE011710V    S00552710W078370310                                                                                 
+SSAMD        MSV   SE011250V    S02152684W078063644                                                                                 
+SSAMD        MHV   SE011210V    S03174110W079563900                                                                                 
+SSAMD        QMS   SE011480V    S00140820W078284020                                                                                 
+SSAMD        PAV   SE011310V    S01305000W0780240100                                                                                
+SSAMD        ILC   SE011090 D   S02530510W078584800                                                                                 
+SSAMD        ILG   SE011030 D   S02090600W0795245100                                                                                
+SSAMD        ILA   SE010870 D   S00535200W0783656100                                                                                
+SSAMD        IQO   SE011050 D   S00085010W078291200                                                                                 
+SSAMD        QIT   SE011530 D   S00021810W078304080                                                                                 
+SSAMD        CUV   SE011450 D   S02500510W078550060                                                                                 
+SSAMD        GYV   SE011590 D   S02074110W0795200100                                                                                
+SSAMD        LAV   SE011230 D   N00060710W0765121100                                                                                
+SSAMD        LTV   SE011710 D   S00552710W078370310                                                                                 
+SSAMD        MSV   SE011250 D   S02152684W078063644                                                                                 
+SSAMD        MHV   SE011210 D   S03174110W079563900                                                                                 
+SSAMD        QMS   SE011480 D   S00140820W078284020                                                                                 
+SSAMD        PAV   SE011310 D   S01305000W0780240100                                                                                
+SSAMER       W12         0170GYV  SED       O                                      02500     24500                                  
+SSAMER       W12         0180CARTESEEA      O                             0400     02500     24500                                  
+SSAMER       W12         0190MORASSEEA      O                             0299     10500     24500                                  
+SSAMER       W12         0200LOTOASEEA      O                             0310     18500     24500                                  
+SSAMER       W12         0210QMS  SED       O                             0400     18500     24500                                  
+SSAMER       W7          0020BACLOSEEA      O                             0200     04500     24500                                  
+SSAMER       W7          0030SALMN  EA      O                             0306     04500     24500                                  
+SSAMER       W10         0470LTV  SED       O                                      16500     24500                                  
+SSAMER       W10         0480VALNCSEEA      O                             0415     16500     24500                                  
+SSAMER       W10         0490ROCAFSEEA      O                             0613     03500     24500                                  
+SSAMER       W10         0500MNV    D       O                             0200     03500     24500                                  
+SSAMER       W6          0170OROLASEEA      O                                      06500     24500                                  
+SSAMER       W6          0180DIMINSEEA      O                             0300     06500     24500                                  
+SSAMER       W6          0190REKINSEEA      O                             0103     15500     24500                                  
+SSAMER       W6          0200QMS  SED       O                             0400     15500     24500                                  
+SSAMER       W6          0280GYV  SED       O                                      03500     24500                                  
+SSAMER       W6          0290ROGENSEEA      O                             0372     03500     24500                                  
+SSAMER       W6          0300LPILASEEA      O                             0289     04500     24500                                  
+SSAMER       W6          0310MNV    D       O                             0200     04500     24500                                  
+SSAMER       W9          0460NEKISSEEA      O                             0279     04500     24500                                  
+SSAMER       W9          0470ROGENSEEA      O                             0306     04500     24500                                  
+SSAMER       W9          0480SIDELSEEA      O                             0313     04500     24500                                  
+SSAMER       W9          0490SCARSSEEA      O                             0252     04500     24500                                  
+SSAMER       W9          0500VALNCSEEA      O                             0127     04500     24500                                  
+SSAMER       W9          0510TACHISEEA      O                             0237     16500     24500                                  
+SSAMER       W9          0520QMS  SED       O                             0400     16500     24500                                  
+SSAMER       W5          0470PIRCASEEA      O                                      17500     24500                                  
+SSAMER       W5          0480CUV  SED       O                             0200     15500     24500                                  
+SSAMER       W5          0490GIRONSEEA      O                             0200     15500     24500                                  
+SSAMER       W5          0500LOJ  SED       O                             0549     15500     24500                                  
+SSAMER       W5          0510MAC  TUD       O                             0411     12500     24500                                  
+SSAMER       W5          0630QIT  SED       O                                      17500     24500                                  
+SSAMER       W5          0640TEJARSEEA      O                             0517     17500     24500                                  
+SSAMER       W21G        0010LAV  SED       O                                      04500     24500                                  
+SSAMER       W21G        0020BAQUISEEA      O                             0350     13500     24500                                  
+SSAMER       W21G        0030CAYAMSEEA      O                             0255     13500     24500                                  
+SSAMER       W21G        0040QIT  SED       O                             0392     20500     24500                                  
+SSAMER       W3          0120CUV  SED       O                                      15500     24500                                  
+SSAMER       W3          0130CHNCNSEEA      O                             0199     15500     24500                                  
+SSAMER       W3          0140GUABOSEEA      O                             0376     15500     24500                                  
+SSAMER       W3          0150MHV  SED       O                             0100     15500     24500                                  
+SSAMER       W3          0160SROSASEEA      O                             0100     02500     24500                                  
+SSAMER       W3          0170PIDRASEEA      O                             0122     12500     24500                                  
+SSAMER       W3          0180MAC  TUD       O                             0428     12500     24500                                  
+SSAMER       W4          0190LOJ  SED       O                                      12500     24500                                  
+SSAMER       W4          0200PASJESEEA      O                             0444     12500     24500                                  
+SSAMER       W4          0210MHV  SED       O                             0100     12500     24500                                  
+SSAMER       W1          0120GYV  SED       O                                      02500     24500                                  
+SSAMER       W1          0130CATRASEEA      O                             0400     02500     24500                                  
+SSAMER       W1          0140SCARSSEEA      O                             0300     02500     24500                                  
+SSAMER       W1          0150DIMINSEEA      O                             0345     13500     24500                                  
+SSAMER       W1          0160CHILASEEA      O                             0147     13500     24500                                  
+SSAMER       W1          0170MINDOSEEA      O                             0126     13500     24500                                  
+SSAMER       A566        0180CANOASEEA      O                             0138     13500     24500                                  
+SSAMER       A566        0190MOLLESEEA      O                             0140     13500     24500                                  
+SSAMER       A566        0200LOGUSSEEA      O                             0120     16500     24500                                  
+SSAMER       A566        0210CUV  SED       O                             0199     17500     24500                                  
+SSAMER       A566        0220GUXADSEEA      O                             0201     17500     24500                                  
+SSAMER       A566        0230PLAZASEEA      O                             0140     14500     24500                                  
+SSAMER       A566        0240KORBOSEEA      O                             0298     08000     24000                                  
+SSAMER       A566        0250PABAMTUEA      O                             1403     08000     24000                                  
+SSAMER       W20G        0010LAV  SED       O                                      04500     24500                                  
+SSAMER       W20G        0020BERMESEEA      O                             0350     09500     24500                                  
+SSAMER       W20G        0030COFANSEEA      O                             0165     09500     24500                                  
+SSAMER       W20G        0040OLM  SED       O                             0269     16500     24500                                  
+SSAMER       W2          0280GYV  SED       O                                      03500     24500                                  
+SSAMER       W2          0290SAYA SEEA      O                             0400     03500     24500                                  
+SSAMER       W2          0300SAV    D       O                             0266     03500     24500                                  
+SSAMER       W29G        0080PAV  SED       O                                      05500     24500                                  
+SSAMER       W29G        0090CANLSSEEA      O                             0200     05500     24500                                  
+SSAMER       W29G        0100TERASTUEA      O                             1100     05500     24500                                  
+SSAMER       G437        0190OROLASEEA      O                             0983     04500     24500                                  
+SSAMER       G437        0200SIDELSEEA      O                             0389     02500     24500                                  
+SSAMER       G437        0210VULKYSEEA      O                             0105     02500     24500                                  
+SSAMER       G437        0220GYV  SED       O                             0400     02500     24500                                  
+SSAMER       G437        0230MHV  SED       O                             0702     02500     24500                                  
+SSAMER       G437        0240PADOXTUEA      O                             0983     14500     24500                                  
+SSAMER       W10G        0020CAGUASEEA      O                             0649     14500     24500                                  
+SSAMER       W10G        0030GLZ  SED       O                             0345     14500     24500                                  
+SSAMER       W10G        0040PLAZASEEA      O                             0312     14500     24500                                  
+SSAMER       W10G        0050SUCUASEEA      O                             0299     08500     24500                                  
+SSAMER       W10G        0060MAS  SED       O                             0104     08500     24500                                  
+SSAMER       W10G        0070RIPALSEEA      O                             0276     08500     24500                                  
+SSAMER       W10G        0080PAV  SED       O                             0200     08500     24500                                  
+SSAMER       W10G        0090SCLAASEEA      O                             0200     06500     24500                                  
+SSAMER       W10G        0100TNA  SED       O                             0143     06500     24500                                  
+SSAMER       W10G        0170LAV  SED       O                                      04500     24500                                  
+SSAMER       W10G        0180SHAPOSEEA      O                             0350     04500     24500                                  
+SSAMER       W25G        0060COC  SED       O                                      05500     24500                                  
+SSAMER       W25G        0070TRP  SED       O                             0445     05500     24500                                  
+SSAMER       W25G        0080PUTMOSEEA      O                             0313     05500     24500                                  
+SSAMER       W25G        0090QMS  SED       O                                      16500     24500                                  
+SSAMER       W25G        0100SURCASEEA      O                             0400     16500     24500                                  
+SSAMER       W18G        0050CUV  SED       O                                      17500     24500                                  
+SSAMER       W18G        0060CUTCLSEEA      O                             0201     17500     24500                                  
+SSAMER       W18G        0070GLZ  SED       O                             0218     17500     24500                                  
+SSAMER       G439        0090ROKAXSEEA      O                             0512     05500     24500                                  
+SSAMER       G439        0100PACTOSEEA      O                             0099     15500     24500                                  
+SSAMER       G439        0110QIT  SED       O                             0299     15500     24500                                  
+SSAMER       G675        0030GYV  SED       O                                      02500     24500                                  
+SSAMER       G675        0040SJUANSEEA      O                             0400     02500     24500                                  
+SSAMER       G675        0090DUBKUSEEA      O                             0201     17500     24500                                  
+SSAMER       G675        0100PAJOLSEEA      O                             0219     17500     24500                                  
+SSAMER       G675        0110QIT  SED       O                             0317     15500     24500                                  
+SSAMER       G675        0120TIPDOSEEA      O                             0480     17500     24500                                  
+SSAMER       W22G        0010COC  SED       O                                      05500     24500                                  
+SSAMER       W22G        0020LIBRESEEA      O                             0438     05500     24500                                  
+SSAMER       W11G        0010COC  SED       O                                      05500     24500                                  
+SSAMER       W11G        0020SELVASEEA      O                             0453     05500     24500                                  
+SSAMER       W11G        0030RARJOSEEA      O                             0246     06500     24500                                  
+SSAMER       W11G        0040PAV  SED       O                             0200     06500     24500                                  
+SSAMER       W11G        0050KORBOSEEA      O                                      08500     24500                                  
+SSAMER       W11G        0060YAUPISEEA      O                             0106     08500     24500                                  
+SSAMER       W17G        0010COCOASEEA      O                                      02500     24500                                  
+SSAMER       W17G        0020LAV  SED       O                             0350     02500     24500                                  
+SSAMER       W23G        0050DANTOSEEA      O                                      15500     24500                                  
+SSAMER       W23G        0060PAV  SED       O                             0200     15500     24500                                  
+SSAMER       W14G        0010CURRYSEEA      O                                      04500     24500                                  
+SSAMER       W14G        0020VILLOSEEA      O                             0342     04500     24500                                  
+SSAMER       W24G        0010CUV  SED       O                                      14500     24500                                  
+SSAMER       W24G        0020GUARASEEA      O                             0201     14500     24500                                  
+SSAMER       W24G        0030TUTANSEEA      O                             0195     14500     24500                                  
+SSAMER       W24G        0040MSV  SED       O                             0200     10500     24500                                  
+SSAMER       G426        0010INTAGSEEA      O                                      15500     24500                                  
+SSAMER       G426        0020ENSOLSKEA      O                             0548     15500     24500                                  
+SSAMER       W12G        0020LOJ  SED       O                             0603     14500     24500                                  
+SSAMER       W12G        0030GLZ  SED       O                             0609     14500     24500                                  
+SSAMER       W12G        0040YAUPISEEA      O                             0522     14500     24500                                  
+SSAMER       W12G        0050TASHASEEA      O                             0357     04500     24500                                  
+SSAMER       W12G        0060MTL  SED       O                             0372     04500     24500                                  
+SSAMER       W12G        0070PAVCISEEA      O                             0571     04500     24500                                  
+SSAMER       W12G        0080TIPTISEEA      O                             0591     04500     24500                                  
+SSAMER       W27G        0030SELVASEEA      O                                      05500     24500                                  
+SSAMER       W27G        0040TNA  SED       O                             0183     05500     24500                                  
+SSAMER       A566-       0010GYV  SED       O                                      02500     24500                                  
+SSAMER       A566-       0020PUNAS  EA      O                             0400     02500     24500                                  
+SSAMER       W9G         0010OLM  SED       O                                      15500     24500                                  
+SSAMER       W9G         0020LIBRESEEA      O                             0374     05500     24500                                  
+SSAMER       W9G         0030LAV  SED       O                             0350     05500     24500                                  
+SSAMER       W9G         0040TRP  SED       O                             0349     04500     24500                                  
+SSAMER       W9G         0050TIPTISEEA      O                             0615     04500     24500                                  
+SSAMER       W1-W2       0010MINDOSEEA      O                                      13500     24500                                  
+SSAMER       W1-W2       0020QIT  SED       O                             0367     13500     24500                                  
+SSAMER       W15G        0010MTL  SED       O                                      04500     24500                                  
+SSAMER       W15G        0020VERGLSEEA      O                             0527     04500     24500                                  
+SSAMER       W15G        0030PAV  SED       O                             0200     05500     24500                                  
+SSAMER       W20G-       0010OLM  SED       O                                      15500     24500                                  
+SSAMER       W20G-       0020QIT  SED       O                             0297     15500     24500                                  
+SSAMER       W16G        0010PAV  SED       O                                      06500     24500                                  
+SSAMER       W16G        0020PITRASEEA      O                             0200     06500     24500                                  
+SSAMER       W16G        0030TASHASEEA      O                             0417     06500     24500                                  
+SSAMER       W11-W       0010PAV  SED       O                                      14500     24500                                  
+SSAMER       W11-W       0020RBLAOSEEA      O                             0200     14500     24500                                  
+SSAMER       W13G        0010PAV  SED       O                                      06500     24500                                  
+SSAMER       W13G        0020RUPNOSEEA      O                             0200     06500     24500                                  
+SSAMER       W13G        0030RTIGOSEEA      O                             0470     04500     24500                                  
+SSAMER       W13G        0040TIPTISEEA      O                             0903     04500     24500                                  
+SSAMER       UW2         0170GYV  SED       O                                      24500     60000                                  
+SSAMER       UW2         0180SAYA SEEA      O                             0400     24500     60000                                  
+SSAMER       UW2         0190SAV    D       O                             0266     24500     60000                                  
+SSAMER       UW5         0300LOJ  SED       O                             0411     24500     60000                                  
+SSAMER       UW5         0310GIRONSEEA      O                             0549     24500     60000                                  
+SSAMER       UW5         0320CUV  SED       O                             0200     24500     60000                                  
+SSAMER       UW5         0330CANARSEEA      O                             0200     24500     60000                                  
+SSAMER       UW5         0340PUCRASEEA      O                             0740     24500     60000                                  
+SSAMER       UW5         0350RIOJASEEA      O                             0245     24500     60000                                  
+SSAMER       UW5         0360QIT  SED       O                             0511     24500     60000                                  
+SSAMER       UW6         0220GYV  SED       O                                      24500     60000                                  
+SSAMER       UW6         0230ROGENSEEA      O                             0372     24500     60000                                  
+SSAMER       UW6         0240MNV    D       O                             0489     24500     60000                                  
+SSAMER       UW6         0250OROLASEEA      O                             0574     24500     60000                                  
+SSAMER       UW6         0260DIMINSEEA      O                             0300     24500     60000                                  
+SSAMER       UW6         0270REKINSEEA      O                             0103     24500     60000                                  
+SSAMER       UW6         0280QMS  SED       O                             0400     24500     60000                                  
+SSAMER       UW9         0110QMS  SED       O                                      24500     60000                                  
+SSAMER       UW9         0120TACHISEEA      O                             0400     24500     60000                                  
+SSAMER       UW9         0130SCARSSEEA      O                             0364     24500     60000                                  
+SSAMER       UW9         0140SIDELSEEA      O                             0252     24500     60000                                  
+SSAMER       UW9         0150ROGENSEEA      O                             0313     24500     60000                                  
+SSAMER       UW9         0160SAV    D       O                             0585     24500     60000                                  
+SSAMER       UA550       0200GYV  SED       O                                      24500     60000                                  
+SSAMER       UA550       0210SJUANSEEA      O                             0400     24500     60000                                  
+SSAMER       UA550       0220QIT  SED       O                                      24500     60000                                  
+SSAMER       UA550       0230TIPDOSEEA      O                             0480     24500     60000                                  
+SSAMER       UA550       0020BOKANSEEA      O                             0734     24500     60000                                  
+SSAMER       UA550       0030KOLTASEEA      O                             0324     24500     60000                                  
+SSAMER       UA550       0040QIT  SED       O                             0310     24500     60000                                  
+SSAMER       UQ104       0010BOKANSEEA      O                                      24500     60000                                  
+SSAMER       UQ104       0020LOBULSKEA      O                             3210     24500     60000                                  
+SSAMER       UQ113       0010BOKANSEEA      O                                      24500     60000                                  
+SSAMER       UQ113       0020ULQ  SKD       O                             2207     24500     60000                                  
+SSAMER       UG437       0180GYV  SED       O                                      24500     60000                                  
+SSAMER       UG437       0190VULKYSEEA      O                             0400     24500     60000                                  
+SSAMER       UG437       0200SIDELSEEA      O                             0105     24500     60000                                  
+SSAMER       UG437       0210OROLASEEA      O                             0389     24500     60000                                  
+SSAMER       UG437       0230MHV  SED       O                             0302     24500     60000                                  
+SSAMER       UG437       0240PADOXTUEA      O                             0983     24500     60000                                  
+SSAMER       UW1         0050GYV  SED       O                                      24500     60000                                  
+SSAMER       UW1         0060CATRASEEA      O                             0400     24500     60000                                  
+SSAMER       UW1         0070SCARSSEEA      O                             0300     24500     60000                                  
+SSAMER       UW1         0080DIMINSEEA      O                             0345     24500     60000                                  
+SSAMER       UW1         0090CHILASEEA      O                             0147     24500     60000                                  
+SSAMER       UW1         0100MINDOSEEA      O                             0126     24500     60000                                  
+SSAMER       UA566       0020CUV  SED       O                             0597     24500     60000                                  
+SSAMER       UA566       0030KORBOSEEA      O                             0639     24500     60000                                  
+SSAMER       UA566       0040KOPLATUEA      O                             1038     24500     60000                                  
+SSAMER       UL780       0070VAKUDSEEA      O                             2169     24500     45000                                  
+SSAMER       UL780       0080GYV  SED       O                             1437     24500     45000                                  
+SSAMER       UL780       0090UGUPI  EA      O                             2129     24500     60000                                  
+SSAMER       UW21G       0010LAV  SED       O                                      24500     60000                                  
+SSAMER       UW21G       0020CAYAMSEEA      O                             0605     24500     60000                                  
+SSAMER       UW21G       0030QIT  SED       O                             0392     24500     60000                                  
+SSAMER       UG439       0090PACTOSEEA      O                             0611     24500     60000                                  
+SSAMER       UG439       0100QIT  SED       O                             0299     24500     60000                                  
+SSAMER       UZ30        0050GYV  SED       O                                      24500     60000                                  
+SSAMER       UZ30        0060MNV    D       O                             0861     24500     60000                                  
+SSAMER       UG426       0010INTAGSEEA      O                                      24500     60000                                  
+SSAMER       UG426       0020ENSOLSKEA      O                             0548     24500     60000                                  
+SSAMER       UG426       0110MIRLOSEEA      O                             1618     24500     60000                                  
+SSAMER       UG426       0120PAKOKSEEA      O                             1586     24500     60000                                  
+SSAMER       UG426       0130QIT  SED       O                             0518     24500     60000                                  
+SSAMER       UA565       0030GELARSEEA      O                             1185     24500     60000                                  
+SSAMER       UA565       0040PUMTASEEA      O                             0280     24500     60000                                  
+SSAMER       UA565       0050QIT  SED       O                             0479     24500     60000                                  
+SSAMER       UB696       0010GYV  SED       O                                      24500     60000                                  
+SSAMER       UB696       0020MHV  SED       O                             0702     24500     60000                                  
+SSAMER       UB696       0030PAGURTUEA      O                             0753     24500     60000                                  
+SSAMER       UA566       0010GYV  SED       O                                      24500     60000                                  
+SSAMER       UA566       0020PUNAS  EA      O                             0400     24500     60000                                  
+SSAMER       UW1-U       0010MINDOSEEA      O                                      24500     60000                                  
+SSAMER       UW1-U       0020QIT  SED       O                             0367     24500     60000                                  

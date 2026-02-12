@@ -1,0 +1,89 @@
+SAFREAENRT   AMLOS HF           N06105510E016392400                                                                                 
+SAFREAENRT   AMPER HF           N05150690E026071142                                                                                 
+SAFREAENRT   EBSAP HF           N03421100E0171900100                                                                                
+SAFREAENRT   ERNEV HF           N04371200E0170423100                                                                                
+SAFREAENRT   GUPOT HF           N06402100E017303200                                                                                 
+SAFREAENRT   IPANI HF           N06330710E021000000                                                                                 
+SAFREAENRT   IRAGA HF           N09323610E0222018100                                                                                
+SAFREAENRT   KAFIA HF           N08440000E0233059100                                                                                
+SAFREAENRT   KEKOL HF           N06020300E020242900                                                                                 
+SAFREAENRT   KITRA HF           N09320810E0213853100                                                                                
+SAFREAENRT   KORIL HF           N04355100E0171230100                                                                                
+SAFREAENRT   LINAD HF           N06261200E017053000                                                                                 
+SAFREAENRT   LOVPA HF           N04182110E0171132100                                                                                
+SAFREAENRT   LURTI HF           N04503510E0154336100                                                                                
+SAFREAENRT   ONIMA HF           N07173300E0152954100                                                                                
+SAFREAENRT   ONUDA HF           N08094100E0225108100                                                                                
+SAFREAENRT   OXIMU HF           N04563800E0150652100                                                                                
+SAFREAENRT   POKOT HF           N05360310E017590300                                                                                 
+SAFREAENRT   TOBAB HF           N04103600E015195400                                                                                 
+SAFREAENRT   VOTUR HF           N04181500E0170925100                                                                                
+SAFRDB       BP    HF000279     N04224330E0183128100                                                                                
+SAFRDB       BN    HF000265     N04292580E018294420                                                                                 
+SAFRDB       PK    HF000305     N04192760E018322060                                                                                 
+SAFRDB       BO    HF000298     N10164757E022465909                                                                                 
+SAFRDB       FBU   HF000388     N05571486E015382104                                                                                 
+SAFRDB       KB    HF000378     N04364908E021515902                                                                                 
+SAFRD        MPK   HF011730V    N04223410E018313130                                                                                 
+SAFRD        BT    HF011390V    N04134570E015470180                                                                                 
+SAFRD        IA    HF011350V    N06313360E021592110                                                                                 
+SAFRD        LE    HF011310V    N08234960E020410940                                                                                 
+SAFRD        BGI   HF011030 D   N04232723E018312156                                                                                 
+SAFRD        MPK   HF011730 D   N04223410E018313130                                                                                 
+SAFRER       R984G       0010MPK  HFD       O                                      05500     24500                                  
+SAFRER       R984G       0020LOVPAHFEA      O                             0799     05500     24500                                  
+SAFRER       R984G       0030BT   HFD       O                             0845     07500     24500                                  
+SAFRER       R984G       0040KOGAN  EA      O                             1051     07500     24500                                  
+SAFRER       A403G       0060BT   HFD       O                             0855     11500     24500                                  
+SAFRER       A403G       0070LURTIHFEA      O                             0370     11500     24500                                  
+SAFRER       A403G       0080UMOSAGTEA      O                             1903     11500     24500                                  
+SAFRER       A410F       0070MPK  HFD       O                             0804     05500     24500                                  
+SAFRER       A609F       0100MPK  HFD       O                             0684     06500     24500                                  
+SAFRER       A609F       0110KORILHFEA      O                             0799     06500     24500                                  
+SAFRER       A609F       0120LURTIHFEA      O                             0899     06500     24500                                  
+SAFRER       A609F       0130MOTET  EA      O                             1123     13500     24500                                  
+SAFRER       A607F       0050GUPOTHFEA      O                             0872     07500     24500                                  
+SAFRER       A607F       0060POKOTHFEA      O                             0703     07500     24500                                  
+SAFRER       A607F       0070MPK  HFD       O                             0804     07500     24500                                  
+SAFRER       UR984       0060MPK  HFD       O                                      24500     46000                                  
+SAFRER       UR984       0070VOTURHFEA      O                             0820     24500     46000                                  
+SAFRER       UR984       0080BT   HFD       O                             0824     24500     46000                                  
+SAFRER       UR984       0090TOBABHFEA      O                             0273     24500     46000                                  
+SAFRER       UR984       0100KOGAN  EA      O                             0778     24500     46000                                  
+SAFRER       UM731       0260EBSAPHFEA      O                             0829     24500     60000                                  
+SAFRER       UM731       0270VOTURHFEA      O                             0373     24500     60000                                  
+SAFRER       UM731       0280ERNEVHFEA      O                             0196     24500     60000                                  
+SAFRER       UA609       0080MPK  HFD       O                             0684     24500     60000                                  
+SAFRER       UA607       0090GUPOTHFEA      O                             0872     24500     46000                                  
+SAFRER       UA607       0100MPK  HFD       O                             1507     24500     46000                                  
+SAFRER       UA607       0110TEKTIFZEA      O                             0259     31000     60000                                  
+SAFRER       UM998       0140OXIMUHFEA      O                             1907     24500     60000                                  
+SAFRER       UM998       0150TOBABHFEA      O                             0479     24500     60000                                  
+SAFRER       UM998       0160MOROS  EA      O                             0854     24500     60000                                  
+SAFRER       UA403       0100BT   HFD       O                             0855     24500     46000                                  
+SAFRER       UA403       0110LURTIHFEA      O                             0370     24500     46000                                  
+SAFRER       UA403       0120ONIMAHFEA      O                             1477     24500     46000                                  
+SAFRER       UA403       0130UMOSAGTEA      O                             0427     24500     46000                                  
+SAFRER       UG655       0010IRAGAHFEA      O                                      24500     46000                                  
+SAFRER       UG655       0020BULGOGTEA      O                             1145     24500     46000                                  
+SAFRER       UG655       0070ONUDAHFEA      O                             2074     24500     46000                                  
+SAFRER       UR984       0090MPK  HFD       O                                      24500     60000                                  
+SAFRER       UR984       0100EBULAFZEA      O                             1316     24500     60000                                  
+SAFRER       UG862       0070KITRAHFEA      O                             1677     24500     46000                                  
+SAFRER       UG862       0080ONUDAHFEA      O                             1091     24500     46000                                  
+SAFRER       UA410       0060MPK  HFD       O                             1301     24500     46000                                  
+SAFRER       UB736       0140KITRAHFEA      O                             1568     24500     46000                                  
+SAFRER       UW500       0010MPK  HFD       O                                      24500     46000                                  
+SAFRER       UW500       0020LINADHFEA      O                             1505     24500     46000                                  
+SAFRER       UW500       0030RIROTGTEA      O                             1144     24500     46000                                  
+SAFRER       UA609       0050MPK  HFD       O                                      24500     46000                                  
+SAFRER       UA609       0060ERNEVHFEA      O                             0881     24500     46000                                  
+SAFRER       UA609       0070LURTIHFEA      O                             0817     24500     46000                                  
+SAFRER       UA609       0080OXIMUHFEA      O                             0371     24500     46000                                  
+SAFRER       UA609       0090MOTET  EA      O                             0752     24500     46000                                  
+SAFRER       UA410       0010KAFIAHFEA      O                                      24500     46000                                  
+SAFRER       UA410       0020ONUDAHFEA      O                             0523     24500     46000                                  
+SAFRER       UA410       0030KEKOLHFEA      O                                      24500     46000                                  
+SAFRER       UA410       0040MPK  HFD       O                             1503     24500     46000                                  
+SAFRER       UW400       0010ONIMAHFEA      O                                      24500     46000                                  
+SAFRER       UW400       0020NARTU  EA      O                             0613     24500     46000                                  

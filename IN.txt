@@ -1,0 +1,867 @@
+SASIEAENRT   AGELA VI           N16362400E0752756100                                                                                
+SASIEAENRT   AGROM VI           N22314530E084500040                                                                                 
+SASIEAENRT   AKELA VI           N27250055E076475566                                                                                 
+SASIEAENRT   AKTIV VI           N20150280E073145760                                                                                 
+SASIEAENRT   ALI29 VI           N28202350E077101801                                                                                 
+SASIEAENRT   ANIRO VI           N14020976E078363020                                                                                 
+SASIEAENRT   APAGO VI           N22120900E092401250                                                                                 
+SASIEAENRT   APANO VI           N21350240E072585768                                                                                 
+SASIEAENRT   APIPU VI           N26584957E083004121                                                                                 
+SASIEAENRT   APUSU VI           N18000360E076254410                                                                                 
+SASIEAENRT   ARIVO VI           N22581730E084074534                                                                                 
+SASIEAENRT   ARONA VI           N09541687E0765936100                                                                                
+SASIEAENRT   ASARI VI           N30481530E075093136                                                                                 
+SASIEAENRT   ASOGA VI           N19323310E076495590                                                                                 
+SASIEAENRT   ASOPO VI           N23090910E080033830                                                                                 
+SASIEAENRT   ATAPO VI           N17402770E075595630                                                                                 
+SASIEAENRT   ATOGA VI           N25160195E090005145                                                                                 
+SASIEAENRT   AVGON VI           N28383470E076374590                                                                                 
+SASIEAENRT   AVKOR VI           N18020701E073575457                                                                                 
+SASIEAENRT   BADAT VI           N27490637E075190839                                                                                 
+SASIEAENRT   BAVOX VI           N26083010E077125550                                                                                 
+SASIEAENRT   BBB03 VI           N19221138E072530898                                                                                 
+SASIEAENRT   BBB09 VI           N19212178E072580488                                                                                 
+SASIEAENRT   BBB10 VI           N18562017E072573838                                                                                 
+SASIEAENRT   BBB11 VI           N19051681E073025837                                                                                 
+SASIEAENRT   BBB15 VI           N18515651E073001172                                                                                 
+SASIEAENRT   BBB16 VI           N18484746E072574589                                                                                 
+SASIEAENRT   BBB17 VI           N18580243E073063034                                                                                 
+SASIEAENRT   BBB18 VI           N18570568E073082212                                                                                 
+SASIEAENRT   BBB38 VI           N18541673E073033117                                                                                 
+SASIEAENRT   BBB39 VI           N18524992E073045904                                                                                 
+SASIEAENRT   BBB45 VI           N19172402E073050088                                                                                 
+SASIEAENRT   BBB50 VI           N19051794E072574158                                                                                 
+SASIEAENRT   BBB54 VI           N19155741E073033260                                                                                 
+SASIEAENRT   BBB61 VI           N18504276E072570893                                                                                 
+SASIEAENRT   BBB90 VI           N19192716E072572558                                                                                 
+SASIEAENRT   BBB99 VI           N19201092E072530454                                                                                 
+SASIEAENRT   BBY01 VI           N19062045E072505820                                                                                 
+SASIEAENRT   BHITI VI           N25193946E082151509                                                                                 
+SASIEAENRT   BIDAN VI           N26042810E075095150                                                                                 
+SASIEAENRT   BIGEL VI           N22070230E077335550                                                                                 
+SASIEAENRT   BIKIK VI           N24464690E087475050                                                                                 
+SASIEAENRT   BIKUX VI           N32342169E075300310                                                                                 
+SASIEAENRT   BILAN VI           N25000140E077502694                                                                                 
+SASIEAENRT   BILUN VI           N18410350E082485310                                                                                 
+SASIEAENRT   BITEM VI           N17091510E082075950                                                                                 
+SASIEAENRT   BOBED VI           N18000360E079554250                                                                                 
+SASIEAENRT   BOBET VI           N24003170E078323990                                                                                 
+SASIEAENRT   BODAR VI           N22361909E074131706                                                                                 
+SASIEAENRT   BODEL VI           N14583051E079251182                                                                                 
+SASIEAENRT   BODOG VI           N26013710E083345330                                                                                 
+SASIEAENRT   BOGAT VI           N16213310E075595640                                                                                 
+SASIEAENRT   BOKAD VI           N31524894E075304514                                                                                 
+SASIEAENRT   BOLUX VI           N30471430E075042640                                                                                 
+SASIEAENRT   BOM10 VI           N19051954E072515573                                                                                 
+SASIEAENRT   BUKLO VI           N25000138E077152553                                                                                 
+SASIEAENRT   BUSBO VI           N19145823E078073030                                                                                 
+SASIEAENRT   BUTOP VI           N29194485E075235630                                                                                 
+SASIEAENRT   CAL07 VI           N22330078E088260292                                                                                 
+SASIEAENRT   CHI15 VI           N28224020E076565109                                                                                 
+SASIEAENRT   CHILA VI           N22232299E092445546                                                                                 
+SASIEAENRT   CIA01 VI           N10063992E076372314                                                                                 
+SASIEAENRT   CIA04 VI           N10085335E076181793                                                                                 
+SASIEAENRT   CIA06 VI           N10085607E076165282                                                                                 
+SASIEAENRT   CIA10 VI           N10050599E076314158                                                                                 
+SASIEAENRT   CIA28 VI           N10102951E076152443                                                                                 
+SASIEAENRT   CIA29 VI           N10112614E076154080                                                                                 
+SASIEAENRT   CIA97 VI           N10074259E076373095                                                                                 
+SASIEAENRT   CIL01 VI           N10090748E076254592                                                                                 
+SASIEAENRT   CIL10 VI           N10092854E076345439                                                                                 
+SASIEAENRT   CIL12 VI           N10093317E076365601                                                                                 
+SASIEAENRT   CIL13 VI           N10093549E076375679                                                                                 
+SASIEAENRT   CIL40 VI           N10091456E076284949                                                                                 
+SASIEAENRT   CM007 VI           N23325700E091112900                                                                                 
+SASIEAENRT   DAMAK VI           N24005860E072400180                                                                                 
+SASIEAENRT   DELHI VI           N28332220E077080150                                                                                 
+SASIEAENRT   DELTA VI           N22400216E078075519                                                                                 
+SASIEAENRT   DIPAS VI           N27360150E075513210                                                                                 
+SASIEAENRT   DLH01 VI           N28340941E077075207                                                                                 
+SASIEAENRT   DLH04 VI           N28340428E077111643                                                                                 
+SASIEAENRT   DLH06 VI           N28340102E077131904                                                                                 
+SASIEAENRT   DODUD VI           N26360120E085005169                                                                                 
+SASIEAENRT   DOLBY VI           N28243180E077091020                                                                                 
+SASIEAENRT   DOMET VI           N25083040E081263020                                                                                 
+SASIEAENRT   DONDI VI           N10404900E0763531100                                                                                
+SASIEAENRT   DOPOS VI           N28490020E079015451                                                                                 
+SASIEAENRT   DORAM VI           N15430430E077205580                                                                                 
+SASIEAENRT   DORIL VI           N19253340E084125250                                                                                 
+SASIEAENRT   DOSAT VI           N21413260E081182370                                                                                 
+SASIEAENRT   DOTIP VI           N20452870E072564669                                                                                 
+SASIEAENRT   DPN00 VI           N28341488E077040948                                                                                 
+SASIEAENRT   DPN01 VI           N28484338E077091465                                                                                 
+SASIEAENRT   DPN03 VI           N28340845E077090571                                                                                 
+SASIEAENRT   DPN05 VI           N28350969E077000998                                                                                 
+SASIEAENRT   DPN09 VI           N28310408E077211484                                                                                 
+SASIEAENRT   DPN10 VI           N28292020E077215355                                                                                 
+SASIEAENRT   DPN11 VI           N28295764E077194403                                                                                 
+SASIEAENRT   DPN12 VI           N28464563E077084618                                                                                 
+SASIEAENRT   DPN13 VI           N28231888E077140909                                                                                 
+SASIEAENRT   DPN14 VI           N28214017E077152703                                                                                 
+SASIEAENRT   DPN15 VI           N28474132E077091671                                                                                 
+SASIEAENRT   DPN16 VI           N28205808E077061237                                                                                 
+SASIEAENRT   DPN17 VI           N28185776E077061711                                                                                 
+SASIEAENRT   DPN18 VI           N28494225E077092890                                                                                 
+SASIEAENRT   DPN19 VI           N28474451E077090041                                                                                 
+SASIEAENRT   DPN20 VI           N28231116E076572665                                                                                 
+SASIEAENRT   DPN21 VI           N28213126E076561067                                                                                 
+SASIEAENRT   DPN22 VI           N28370281E076475002                                                                                 
+SASIEAENRT   DPN23 VI           N28364011E076500401                                                                                 
+SASIEAENRT   DPN24 VI           N28204130E076553269                                                                                 
+SASIEAENRT   DPN25 VI           N28222121E076564865                                                                                 
+SASIEAENRT   DPN26 VI           N28454402E077084591                                                                                 
+SASIEAENRT   DPN27 VI           N28342100E077000162                                                                                 
+SASIEAENRT   DPN28 VI           N28362875E076511100                                                                                 
+SASIEAENRT   DPN29 VI           N28383995E076515332                                                                                 
+SASIEAENRT   DPN30 VI           N28334339E077090167                                                                                 
+SASIEAENRT   DPN31 VI           N28450009E076540273                                                                                 
+SASIEAENRT   DPN32 VI           N28433216E076553603                                                                                 
+SASIEAENRT   DPN33 VI           N28441545E076531224                                                                                 
+SASIEAENRT   DPN34 VI           N28425348E076545228                                                                                 
+SASIEAENRT   DPN35 VI           N28454404E076531605                                                                                 
+SASIEAENRT   DPN36 VI           N28441612E076544938                                                                                 
+SASIEAENRT   DPN37 VI           N28445642E076522221                                                                                 
+SASIEAENRT   DPN38 VI           N28433446E076540227                                                                                 
+SASIEAENRT   DPN40 VI           N28350083E077005212                                                                                 
+SASIEAENRT   DPN41 VI           N28424819E076562268                                                                                 
+SASIEAENRT   DPN44 VI           N28222952E077144807                                                                                 
+SASIEAENRT   DPN45 VI           N28205080E077160599                                                                                 
+SASIEAENRT   DPN48 VI           N28240110E076580465                                                                                 
+SASIEAENRT   DPN50 VI           N28220318E077040197                                                                                 
+SASIEAENRT   DPN51 VI           N28483996E077093212                                                                                 
+SASIEAENRT   DPN52 VI           N28421249E076554229                                                                                 
+SASIEAENRT   DPN53 VI           N28464267E077090131                                                                                 
+SASIEAENRT   DPN60 VI           N28353115E076584024                                                                                 
+SASIEAENRT   DPN61 VI           N28462005E077005234                                                                                 
+SASIEAENRT   DPN62 VI           N28351762E076584789                                                                                 
+SASIEAENRT   DPN63 VI           N28351238E076583973                                                                                 
+SASIEAENRT   DPN65 VI           N28361737E076521799                                                                                 
+SASIEAENRT   DPN71 VI           N28342671E076505553                                                                                 
+SASIEAENRT   DPN72 VI           N28344035E076505618                                                                                 
+SASIEAENRT   DPN73 VI           N28215825E077061000                                                                                 
+SASIEAENRT   DPN75 VI           N28352121E076505972                                                                                 
+SASIEAENRT   DPN77 VI           N28175760E077061948                                                                                 
+SASIEAENRT   DPN78 VI           N28195792E077061474                                                                                 
+SASIEAENRT   DPN83 VI           N28240823E077133010                                                                                 
+SASIEAENRT   DPN84 VI           N28372199E076512480                                                                                 
+SASIEAENRT   DPN85 VI           N28210343E077035369                                                                                 
+SASIEAENRT   DPN86 VI           N28190393E077033714                                                                                 
+SASIEAENRT   DPN87 VI           N28200368E077034541                                                                                 
+SASIEAENRT   DPN88 VI           N28180417E077032887                                                                                 
+SASIEAENRT   DPN89 VI           N28382715E076514793                                                                                 
+SASIEAENRT   DPN91 VI           N28334749E077213536                                                                                 
+SASIEAENRT   DPN93 VI           N28391783E076521101                                                                                 
+SASIEAENRT   DPN95 VI           N28284297E077175634                                                                                 
+SASIEAENRT   DPN99 VI           N28305260E077185149                                                                                 
+SASIEAENRT   DUBOX VI           N20221480E076495590                                                                                 
+SASIEAENRT   DUKUM VI           N26163168E090394906                                                                                 
+SASIEAENRT   DULAR VI           N21362830E077225560                                                                                 
+SASIEAENRT   DUMKA VI           N24110213E087210996                                                                                 
+SASIEAENRT   DUMOS VI           N28485123E077025558                                                                                 
+SASIEAENRT   EGARI VI           N13263489E075514146                                                                                 
+SASIEAENRT   EKIGA VI           N23404678E075595612                                                                                 
+SASIEAENRT   ELKUX VI           N29502967E075304122                                                                                 
+SASIEAENRT   EPKOS VI           N16531176E074071042                                                                                 
+SASIEAENRT   EXUNA VI           N24230590E084295210                                                                                 
+SASIEAENRT   GOKUL VI           N10420565E076174131                                                                                 
+SASIEAENRT   GUDUM VI           N26010099E075265638                                                                                 
+SASIEAENRT   GUGIP VI           N26562030E081280020                                                                                 
+SASIEAENRT   GULAM VI           N15081940E075595640                                                                                 
+SASIEAENRT   GUMIT VI           N18593129E077280161                                                                                 
+SASIEAENRT   GUNAS VI           N14020470E075325660                                                                                 
+SASIEAENRT   GUNIM VI           N14050470E075322660                                                                                 
+SASIEAENRT   GURTI VI           N27434550E077474020                                                                                 
+SASIEAENRT   GUTID VI           N21044092E084555207                                                                                 
+SASIEAENRT   IBANI VI           N25000136E076431079                                                                                 
+SASIEAENRT   IBAPA VI           N25110200E0912608100                                                                                
+SASIEAENRT   IBELA VI           N19223320E076495590                                                                                 
+SASIEAENRT   IBEPA VI           N15000494E075324159                                                                                 
+SASIEAENRT   IBUDA VI           N23040220E082095330                                                                                 
+SASIEAENRT   IBUDU VI           N15000443E075035681                                                                                 
+SASIEAENRT   IBUSU VI           N25313148E083550728                                                                                 
+SASIEAENRT   IDOLA VI           N25000132E075065657                                                                                 
+SASIEAENRT   IGINO VI           N29010560E076320740                                                                                 
+SASIEAENRT   IGMAR VI           N15432203E075595277                                                                                 
+SASIEAENRT   IGONA VI           N25580030E080153010                                                                                 
+SASIEAENRT   IGOTU VI           N26164981E092191430                                                                                 
+SASIEAENRT   IKATI VI           N14290460E0744556100                                                                                
+SASIEAENRT   IKIKO VI           N22151730E077215560                                                                                 
+SASIEAENRT   IKINA VI           N21270270E081595340                                                                                 
+SASIEAENRT   IKOSI VI           N20430290E081565350                                                                                 
+SASIEAENRT   INTIL VI           N26275090E076324082                                                                                 
+SASIEAENRT   IPLAS VI           N26194132E085391340                                                                                 
+SASIEAENRT   ITBAN VI           N27494340E077424755                                                                                 
+SASIEAENRT   KABAR VI           N25000130E0745609100                                                                                
+SASIEAENRT   KABEL VI           N27435990E073501570                                                                                 
+SASIEAENRT   KADAS VI           N27200068E079285434                                                                                 
+SASIEAENRT   KALNA VI           N25541705E076235591                                                                                 
+SASIEAENRT   KAMOL VI           N19380300E073395740                                                                                 
+SASIEAENRT   KINKI VI           N22191749E083553747                                                                                 
+SASIEAENRT   KKP22 VI           N12505910E080045400                                                                                 
+SASIEAENRT   LAKET VI           N31075922E075285618                                                                                 
+SASIEAENRT   LAPAN VI           N23435503E083260762                                                                                 
+SASIEAENRT   LATID VI           N14283463E077565550                                                                                 
+SASIEAENRT   LATOS VI           N26573060E073215740                                                                                 
+SASIEAENRT   LEKAP VI           N12050530E079355480                                                                                 
+SASIEAENRT   LELAX VI           N32232883E077375501                                                                                 
+SASIEAENRT   LETPU VI           N27322053E077280033                                                                                 
+SASIEAENRT   LORAT VI           N28223720E076535280                                                                                 
+SASIEAENRT   MABTA VI           N17082880E073214560                                                                                 
+SASIEAENRT   MANDI VI           N19301223E072532671                                                                                 
+SASIEAENRT   MAS04 VI           N12574501E080045218                                                                                 
+SASIEAENRT   MAS05 VI           N12572278E080034816                                                                                 
+SASIEAENRT   MAS06 VI           N12585377E080080514                                                                                 
+SASIEAENRT   MAS11 VI           N12551993E079575674                                                                                 
+SASIEAENRT   MECHI VI           N26460530E088105520                                                                                 
+SASIEAENRT   MELAX VI           N19295509E075375648                                                                                 
+SASIEAENRT   MEMID VI           N25363120E0781754100                                                                                
+SASIEAENRT   MEMIR VI           N24330187E087095083                                                                                 
+SASIEAENRT   MEPAR VI           N24000246E091514872                                                                                 
+SASIEAENRT   MEPOK VI           N18041269E081595355                                                                                 
+SASIEAENRT   MEPOL VI           N19394863E084401456                                                                                 
+SASIEAENRT   MESAR VI           N33295834E075135622                                                                                 
+SASIEAENRT   MIGOP VI           N25122000E088470800                                                                                 
+SASIEAENRT   MIKAG VI           N26322282E093250377                                                                                 
+SASIEAENRT   MINIT VI           N16024610E075595640                                                                                 
+SASIEAENRT   MMV12 VI           N12485246E080060705                                                                                 
+SASIEAENRT   MMV13 VI           N13103304E080064582                                                                                 
+SASIEAENRT   MMV62 VI           N13050073E080133513                                                                                 
+SASIEAENRT   MMV69 VI           N12531331E080114439                                                                                 
+SASIEAENRT   MMV78 VI           N11460858E079410528                                                                                 
+SASIEAENRT   MONDA VI           N25210200E086261599                                                                                 
+SASIEAENRT   MONPI VI           N22041430E075595620                                                                                 
+SASIEAENRT   MORVI VI           N22490197E070495870                                                                                 
+SASIEAENRT   NIKOT VI           N25541881E075244180                                                                                 
+SASIEAENRT   NINAT VI           N20324781E077245559                                                                                 
+SASIEAENRT   NINIM VI           N23110190E075595620                                                                                 
+SASIEAENRT   NIPAD VI           N21521755E081595340                                                                                 
+SASIEAENRT   NIRAB VI           N25490153E086245108                                                                                 
+SASIEAENRT   NOBOM VI           N26090100E078485470                                                                                 
+SASIEAENRT   NOLOV VI           N18152524E081594714                                                                                 
+SASIEAENRT   NOMAG VI           N27085375E094384115                                                                                 
+SASIEAENRT   OGUNA VI           N21292580E082394520                                                                                 
+SASIEAENRT   OMUPA VI           N27000110E084471580                                                                                 
+SASIEAENRT   ONOGI VI           N30245953E077115533                                                                                 
+SASIEAENRT   ONOTO VI           N24162610E087572848                                                                                 
+SASIEAENRT   OPAKA VI           N19382103E074325797                                                                                 
+SASIEAENRT   OPAMO VI           N14353460E077052590                                                                                 
+SASIEAENRT   OPASA VI           N20350300E082572300                                                                                 
+SASIEAENRT   OPIMO VI           N26345746E088554984                                                                                 
+SASIEAENRT   OPONI VI           N21470260E081382360                                                                                 
+SASIEAENRT   OROTI VI           N29165990E075295630                                                                                 
+SASIEAENRT   OSRAM VI           N27290054E077084548                                                                                 
+SASIEAENRT   OTABA VI           N22110250E083192280                                                                                 
+SASIEAENRT   PAROT VI           N24003600E083493340                                                                                 
+SASIEAENRT   PARTY VI           N24143800E070515900                                                                                 
+SASIEAENRT   PEKIX VI           N28450006E075525607                                                                                 
+SASIEAENRT   PLM02 VI           N28330536E077091112                                                                                 
+SASIEAENRT   PLM04 VI           N28323479E077112297                                                                                 
+SASIEAENRT   POLOT VI           N25360190E091300380                                                                                 
+SASIEAENRT   POSIG VI           N27130065E077345330                                                                                 
+SASIEAENRT   PUKES VI           N24420223E077161217                                                                                 
+SASIEAENRT   PUMOT VI           N28280026E078465462                                                                                 
+SASIEAENRT   PUPAM VI           N24123190E084272210                                                                                 
+SASIEAENRT   R2401 VI           N28333060E077072109                                                                                 
+SASIEAENRT   R2408 VI           N22383188E088264669                                                                                 
+SASIEAENRT   R2415 VI           N19051839E072505762                                                                                 
+SASIEAENRT   R2455 VI           N19054538E072513627                                                                                 
+SASIEAENRT   R2462 VI           N28341149E077065547                                                                                 
+SASIEAENRT   R2491 VI           N19051973E072523566                                                                                 
+SASIEAENRT   R2655 VI           N10090923E076250264                                                                                 
+SASIEAENRT   R2781 VI           N28340182E077050539                                                                                 
+SASIEAENRT   RABAN VI           N31353202E074345064                                                                                 
+SASIEAENRT   RADOM VI           N28185400E077110660                                                                                 
+SASIEAENRT   RAMSA VI           N25200010E0704422100                                                                                
+SASIEAENRT   REBON VI           N27480070E076312060                                                                                 
+SASIEAENRT   REDAP VI           N24540193E088110532                                                                                 
+SASIEAENRT   RIBRO VI           N18424950E081595350                                                                                 
+SASIEAENRT   RUPAK VI           N26244782E092524003                                                                                 
+SASIEAENRT   SABAP VI           N22330525E079495638                                                                                 
+SASIEAENRT   SAFIN VI           N28404380E076503420                                                                                 
+SASIEAENRT   SALOR VI           N25130174E086454496                                                                                 
+SASIEAENRT   SAM11 VI           N28382534E076511005                                                                                 
+SASIEAENRT   SAMAR VI           N31204800E0743356100                                                                                
+SASIEAENRT   SAPLO VI           N27385410E077081510                                                                                 
+SASIEAENRT   SAPNU VI           N17501344E081131181                                                                                 
+SASIEAENRT   SAREK VI           N24080208E086455104                                                                                 
+SASIEAENRT   SASRO VI           N24041660E070595860                                                                                 
+SASIEAENRT   SATTI VI           N10561560E076291320                                                                                 
+SASIEAENRT   SHABA VI           N18410722E073001327                                                                                 
+SASIEAENRT   SOMAX VI           N28254710E076564680                                                                                 
+SASIEAENRT   SSB30 VI           N28284590E077324519                                                                                 
+SASIEAENRT   SSB91 VI           N28272130E077315763                                                                                 
+SASIEAENRT   SUBSU VI           N26585530E088514980                                                                                 
+SASIEAENRT   TAMID VI           N20411778E077505539                                                                                 
+SASIEAENRT   TANGO VI           N11351046E079145396                                                                                 
+SASIEAENRT   TARAB VI           N21391630E069393930                                                                                 
+SASIEAENRT   TAXOP VI           N25345930E086331390                                                                                 
+SASIEAENRT   TAXUN VI           N21190400E0701542100                                                                                
+SASIEAENRT   TEBAM VI           N12575806E078275129                                                                                 
+SASIEAENRT   TEBID VI           N24410200E088015000                                                                                 
+SASIEAENRT   TELEM VI           N24070110E068460000                                                                                 
+SASIEAENRT   TEPAL VI           N23484220E086260320                                                                                 
+SASIEAENRT   TUMLA VI           N09305098E076582601                                                                                 
+SASIEAENRT   UDULO VI           N16220400E073334250                                                                                 
+SASIEAENRT   UNSAL VI           N14240460E076095630                                                                                 
+SASIEAENRT   UPTAR VI           N21304152E077405544                                                                                 
+SASIEAENRT   UXAGA VI           N25350450E086150920                                                                                 
+SASIEAENRT   UXIDA VI           N30005960E075175630                                                                                 
+SASIEAENRT   UXUPO VI           N25471030E083170020                                                                                 
+SASIEAENRT   VANTU VI           N26053110E0891439100                                                                                
+SASIEAENRT   VASLA VI           N23311674E070595861                                                                                 
+SASIEAENRT   VENUM VI           N25120516E092384126                                                                                 
+SASIEAENRT   VIKIT VI           N27521558E071252675                                                                                 
+SASIEAENRT   VILOP VI           N24113182E081595328                                                                                 
+SASIEAENRT   VIRAM VI           N15213440E078055540                                                                                 
+SASIDB       AG    VI000249     N27090068E077575509                                                                                 
+SASIDB       AH    VI000215     N23082900E072415880                                                                                 
+SASIDB       AZ    VI000366     N23443461E092481032                                                                                 
+SASIDB       KL    VI000211     N20413876E077030876                                                                                 
+SASIDB       AP    VI000328     N25280139E081415335                                                                                 
+SASIDB       AR    VI000351     N31423099E074485151                                                                                 
+SASIDB       AU    VI000205     N19513798E075235456                                                                                 
+SASIDB       BD    VI000345     N26411640E088193510                                                                                 
+SASIDB       BG    VI000363     N12581005E077425063                                                                                 
+SASIDB       BR    VI000320     N25422196E091583251                                                                                 
+SASIDB       BY    VI000218     N28250031E079265429                                                                                 
+SASIDB       BI    VI000310     N15093200E0765309100                                                                                
+SASIDB       BV    VI000243     N21453083E072103607                                                                                 
+SASIDB       BS    VI000302     N20153420E085485071                                                                                 
+SASIDB       BJ    VI000404     N23164180E069401630                                                                                 
+SASIDB       BNR   VI000334     N31525400E077090528                                                                                 
+SASIDB       BR    VI000240     N17550361E077295563                                                                                 
+SASIDB       CL    VI000303     N11083369E075565195                                                                                 
+SASIDB       CG    VI000228     N30395942E076475553                                                                                 
+SASIDB       MA    VI000228     N12572010E080042957                                                                                 
+SASIDB       CA    VI000268     N10022683E076164432                                                                                 
+SASIDB       CI    VI000217     N10085710E076290300                                                                                 
+SASIDB       CC    VI000325     N09574985E076165532                                                                                 
+SASIDB       CB    VI000354     N11012560E0770249100                                                                                
+SASIDB       CO    VI000337     N26194957E089285661                                                                                 
+SASIDB       JG    VI000375     N30112364E078102784                                                                                 
+SASIDB       DP    VI000274     N28350020E076595550                                                                                 
+SASIDB       DH    VI000202     N28335220E077120840                                                                                 
+SASIDB       LM    VI000320     N28332220E077080150                                                                                 
+SASIDB       PL    VI000303     N28323212E077115042                                                                                 
+SASIDB       DBR   VI000265     N27275568E095010695                                                                                 
+SASIDB       MR    VI000422     N25530205E093460368                                                                                 
+SASIDB       DG    VI000327     N17400371E078245521                                                                                 
+SASIDB       FR    VI000334     N26150210E081224000                                                                                 
+SASIDB       GH    VI000278     N26440106E083264430                                                                                 
+SASIDB       GT    VI000360     N26063180E091360964                                                                                 
+SASIDB       GJ    VI000390     N26170099E0781354100                                                                                
+SASIDB       HB    VI000402     N15213032E075050079                                                                                 
+SASIDB       IM    VI000289     N24452939E093532075                                                                                 
+SASIDB       ID    VI000335     N22434708E075483630                                                                                 
+SASIDB       JB    VI000301     N23110906E080033825                                                                                 
+SASIDB       JA    VI000415     N32415862E074505645                                                                                 
+SASIDB       JH    VI000314     N21534763E084021944                                                                                 
+SASIDB       JO    VI000340     N26150086E073015757                                                                                 
+SASIDB       JT    VI000217     N26430183E094084743                                                                                 
+SASIDB       KD    VI000335     N23064188E070062705                                                                                 
+SASIDB       KN    VI000237     N32101164E076154936                                                                                 
+SASIDB       KA    VI000292     N26250010E080235390                                                                                 
+SASIDB       KH    VI000242     N25340170E087332060                                                                                 
+SASIDB       KS    VI000282     N21190650E070154200                                                                                 
+SASIDB       KJ    VI000403     N24491353E079550025                                                                                 
+SASIDB       KM    VI000340     N17143388E080082442                                                                                 
+SASIDB       KG    VI000263     N26060454E087563034                                                                                 
+SASIDB       KP    VI000260     N16395293E074165664                                                                                 
+SASIDB       DU    VI000385     N22442461E088272736                                                                                 
+SASIDB       CA    VI000293     N22350160E088262380                                                                                 
+SASIDB       KO    VI000284     N25095629E075503721                                                                                 
+SASIDB       LA    VI001053     N34085910E0773459100                                                                                
+SASIDB       LP    VI000344     N23500556E092372139                                                                                 
+SASIDB       NR    VI000381     N27171265E094052739                                                                                 
+SASIDB       LD    VI000380     N30513432E075575295                                                                                 
+SASIDB       MD    VI000400     N09503191E078055851                                                                                 
+SASIDB       ML    VI000357     N12574750E0745330100                                                                                
+SASIDB       NP    VI000372     N21072168E079022081                                                                                 
+SASIDB       NPJ   VI000330     N28055300E0813920100                                                                                
+SASIDB       HW    VI000400     N29015210E079282525                                                                                 
+SASIDB       PK    VI000393     N32142581E075375906                                                                                 
+SASIDB       OM    VI000385     N11575840E079483520                                                                                 
+SASIDB       PR    VI000344     N21382835E069394538                                                                                 
+SASIDB       PO    VI000381     N18350335E073545729                                                                                 
+SASIDB       RY    VI000366     N17063410E081491170                                                                                 
+SASIDB       RK    VI000329     N22183914E070471073                                                                                 
+SASIDB       RC    VI000285     N23190118E085191848                                                                                 
+SASIDB       TRR   VI000266     N27220050E075335630                                                                                 
+SASIDB       SP    VI000298     N29595968E077255523                                                                                 
+SASIDB       KU    VI000351     N24551127E092591513                                                                                 
+SASIDB       SH    VI000398     N31051028E077040137                                                                                 
+SASIDB       SG    VI000358     N21100254E073335741                                                                                 
+SASIDB       SAI   VI000241     N14085972E077470460                                                                                 
+SASIDB       SNG   VI000220     N33585815E074465643                                                                                 
+SASIDB       SU    VI000201     N21065654E072443380                                                                                 
+SASIDB       TK    VI000390     N22540253E088015055                                                                                 
+SASIDB       TJ    VI000339     N27550166E096094638                                                                                 
+SASIDB       TZ    VI000208     N26423871E092475804                                                                                 
+SASIDB       TR    VI000307     N10445967E078411823                                                                                 
+SASIDB       TU    VI000376     N08433220E078013250                                                                                 
+SASIDB       LU    VI000384     N24371743E073564416                                                                                 
+SASIDB       QZ    VI000304     N22200516E073123356                                                                                 
+SASIDB       BN    VI000222     N25264546E082515780                                                                                 
+SASIDB       BZ    VI000393     N16312610E080471715                                                                                 
+SASIDB       VB    VI000321     N17200380E077525400                                                                                 
+SASIDB       VZ    VI000244     N17441683E083150999                                                                                 
+SASIDB       YH    VI000223     N13090499E077365567                                                                                 
+SASID        AGG   VI011200V    N27090270E077565110                                                                                 
+SASID        AAE   VI011310V    N23041991E072372983                                                                                 
+SASID        ALI   VI011790V    N27494550E0781041100                                                                                
+SASID        AAR   VI011550V    N31422410E0744802100                                                                                
+SASID        AAU   VI011630V    N19515298E075233857                                                                                 
+SASID        BBD   VI011660V    N26411538E088193361                                                                                 
+SASID        BBG   VI011550V    N12565910E077405160                                                                                 
+SASID        BPN   VI011600V    N25422340E091584330                                                                                 
+SASID        BBM   VI011210V    N15512220E0743700100                                                                                
+SASID        BBI   VI011280V    N15095440E076525000                                                                                 
+SASID        BVR   VI011410V    N21450030E072112010                                                                                 
+SASID        BPL   VI011710V    N23165510E077201350                                                                                 
+SASID        BBS   VI011350V    N20144121E085484073                                                                                 
+SASID        BBJ   VI011260V    N23161582E069400426                                                                                 
+SASID        CLC   VI011650V    N11080653E075571745                                                                                 
+SASID        CHG   VI011650V    N30400342E076482052                                                                                 
+SASID        MMV   VI011250V    N12593610E080101450                                                                                 
+SASID        CHI   VI011680V    N28205120E076395770                                                                                 
+SASID        CIB   VI011730V    N10065500E076405400                                                                                 
+SASID        CIA   VI011350V    N10090180E076222130                                                                                 
+SASID        CCN   VI011460V    N09564086E076162232                                                                                 
+SASID        CCB   VI011290V    N11020160E077025300                                                                                 
+SASID        DPN   VI011610V    N28340020E077054150                                                                                 
+SASID        DRG   VI011730V    N27291368E095011595                                                                                 
+SASID        DMR   VI011450V    N25525105E093465368                                                                                 
+SASID        LKA   VI011400V    N28104622E074063299                                                                                 
+SASID        GGC   VI011500V    N24443080E084563790                                                                                 
+SASID        GGB   VI011600V    N17184880E076481100                                                                                 
+SASID        GGT   VI011760V    N26060680E091350865                                                                                 
+SASID        GWA   VI011280V    N26170700E0781305100                                                                                
+SASID        HHY   VI011470V    N17271510E0782726100                                                                                
+SASID        IIM   VI011590V    N24460339E093541574                                                                                 
+SASID        IID   VI011670V    N22432208E075482430                                                                                 
+SASID        JJB   VI011360V    N23104500E0800338100                                                                                
+SASID        JJP   VI011290V    N26492950E075480240                                                                                 
+SASID        JAL   VI011580V    N27413956E079392023                                                                                 
+SASID        JJU   VI011330V    N32412960E074501550                                                                                 
+SASID        JMR   VI011500V    N22280610E0701015100                                                                                
+SASID        JJS   VI011540V    N22484450E086100340                                                                                 
+SASID        JJO   VI011230V    N26140087E073025756                                                                                 
+SASID        JHT   VI011210V    N26420684E094085543                                                                                 
+SASID        KKP   VI011540V    N12470580E079424720                                                                                 
+SASID        KKJ   VI011640V    N24485353E079550724                                                                                 
+SASID        CEA   VI011250V    N22384264E088271036                                                                                 
+SASID        LEH   VI011570V    N34435800E077335890                                                                                 
+SASID        LLP   VI011420V    N23494610E092373340                                                                                 
+SASID        LBR   VI011650V    N27173070E094060110                                                                                 
+SASID        LLK   VI011310V    N26454393E080524969                                                                                 
+SASID        LUN   VI011760V    N28341308E073470314                                                                                 
+SASID        MDI   VI011610V    N09495190E078052050                                                                                 
+SASID        MML   VI011420V    N12574060E074551790                                                                                 
+SASID        BBB   VI011660V    N19050740E072523130                                                                                 
+SASID        NNP   VI011270V    N21064170E079011180                                                                                 
+SASID        NGJ   VI011510V    N28060500E0813902100                                                                                
+SASID        PPT   VI011210V    N25352550E085052370                                                                                 
+SASID        PRA   VI011490V    N24014764E074450278                                                                                 
+SASID        PUN   VI011390V    N18344709E073545102                                                                                 
+SASID        RRP   VI011610V    N21104900E081444400                                                                                 
+SASID        RKT   VI011540V    N22184714E070464173                                                                                 
+SASID        RRC   VI011690V    N23183130E085193580                                                                                 
+SASID        SKA   VI011720V    N27505441E077002954                                                                                 
+SASID        SAM   VI011700V    N28492107E076492559                                                                                 
+SASID        SSB   VI011240V    N28233620E077422920                                                                                 
+SASID        KKU   VI011570V    N24544927E092583914                                                                                 
+SASID        SNG   VI011590V    N34000710E074451650                                                                                 
+SASID        TEZ   VI011790V    N26423871E092475804                                                                                 
+SASID        TTR   VI011310V    N10454470E078424820                                                                                 
+SASID        TTP   VI011570V    N13380389E079322079                                                                                 
+SASID        UUD   VI011590V    N24364640E073532720                                                                                 
+SASID        QQZ   VI011730V    N22195820E073133050                                                                                 
+SASID        BBN   VI011390V    N25271445E082513330                                                                                 
+SASID        BBZ   VI011620V    N16311410E080473900                                                                                 
+SASID        WSM   VI011450V    N20070294E077095573                                                                                 
+SASID        AHD   VI011030 D   N23051450E072383696                                                                                 
+SASID        AUR   VI011010 D   N19514310E075242420                                                                                 
+SASID        IBOM  VI010950 D   N19052020E072525280                                                                                 
+SASID        IBBY  VI011010 D   N19054160E072514650                                                                                 
+SASID        ISCZ  VI011030 D   N19051620E072522480                                                                                 
+SASID        VDD   VI011050 D   N22203490E073135390                                                                                 
+SASID        IBPH  VI010990 D   N23165900E077202600                                                                                 
+SASID        IIDR  VI011090 D   N22432910E075483530                                                                                 
+SASID        KJR   VI011070 D   N24492950E079551820                                                                                 
+SASID        INGR  VI011030 D   N21051470E079025880                                                                                 
+SASID        RAJ   VI011090 D   N22184870E070465970                                                                                 
+SASID        IUDR  VI010990 D   N24371140E073541620                                                                                 
+SASID        BHR   VI010910 D   N20151620E085483070                                                                                 
+SASID        ICAL  VI010990 D   N22384060E088265240                                                                                 
+SASID        IDUM  VI011030 D   N22400560E088265940                                                                                 
+SASID        GHT   VI011030 D   N26054780E091345470                                                                                 
+SASID        IPH   VI011030 D   N24450370E093533150                                                                                 
+SASID        DIB   VI010950 D   N27283840E095005180                                                                                 
+SASID        PAT   VI011030 D   N25353750E085053370                                                                                 
+SASID        RAN   VI011050 D   N23183420E085194950                                                                                 
+SASID        IAMR  VI010950 D   N31420200E074481050                                                                                 
+SASID        VNS   VI010990 D   N25270340E082520180                                                                                 
+SASID        DEL   VI010950 D   N28340220E077051650                                                                                 
+SASID        IDLH  VI011050 D   N28340920E077064390                                                                                 
+SASID        IPLM  VI011030 D   N28333720E077070950                                                                                 
+SASID        IJIP  VI010990 D   N26493330E0754905100                                                                                
+SASID        JMU   VI011010 D   N32410560E074501250                                                                                 
+SASID        LUC   VI010990 D   N26454290E080533870                                                                                 
+SASID        IBLR  VI011050 D   N12570110E077405560                                                                                 
+SASID        ICMB  VI010910 D   N11021060E077030200                                                                                 
+SASID        ICIL  VI011030 D   N10090180E076244730                                                                                 
+SASID        ICAC  VI010950 D   N11080200E0755800100                                                                                
+SASID        IHYD  VI011010 D   N17271480E078282720                                                                                 
+SASID        VOML  VI011010 D   N12573480E074533507                                                                                 
+SASID        IMAS  VI011030 D   N12591090E080091770                                                                                 
+SASID        ITCY  VI011090 D   N10455570E078431420                                                                                 
+SASID        AGG   VI011200 D   N27090270E077565110                                                                                 
+SASID        AAE   VI011310 D   N23041991E072372983                                                                                 
+SASID        ALI   VI011790 D   N27494550E0781041100                                                                                
+SASID        AAR   VI011550 D   N31422410E0744802100                                                                                
+SASID        AAU   VI011630 D   N19515298E075233857                                                                                 
+SASID        BBD   VI011660 D   N26411538E088193361                                                                                 
+SASID        BBG   VI011550 D   N12565910E077405160                                                                                 
+SASID        BPN   VI011600 D   N25422340E091584330                                                                                 
+SASID        BBM   VI011210 D   N15512220E0743700100                                                                                
+SASID        BBI   VI011280 D   N15095440E076525000                                                                                 
+SASID        BVR   VI011410 D   N21450030E072112010                                                                                 
+SASID        BPL   VI011710 D   N23165510E077201350                                                                                 
+SASID        BBS   VI011350 D   N20144121E085484073                                                                                 
+SASID        BBJ   VI011260 D   N23161582E069400426                                                                                 
+SASID        CLC   VI011650 D   N11080653E075571745                                                                                 
+SASID        CHG   VI011650 D   N30400342E076482052                                                                                 
+SASID        MMV   VI011250 D   N12593610E080101450                                                                                 
+SASID        CHI   VI011680 D   N28205120E076395770                                                                                 
+SASID        CIB   VI011730 D   N10065500E076405400                                                                                 
+SASID        CIA   VI011350 D   N10090180E076222130                                                                                 
+SASID        CCN   VI011460 D   N09564086E076162232                                                                                 
+SASID        CCB   VI011290 D   N11020160E077025300                                                                                 
+SASID        DPN   VI011610 D   N28340020E077054150                                                                                 
+SASID        DRG   VI011730 D   N27291368E095011595                                                                                 
+SASID        DMR   VI011450 D   N25525105E093465368                                                                                 
+SASID        LKA   VI011400 D   N28104622E074063299                                                                                 
+SASID        GGC   VI011500 D   N24443080E084563790                                                                                 
+SASID        GGB   VI011600 D   N17184880E076481100                                                                                 
+SASID        GGT   VI011760 D   N26060680E091350865                                                                                 
+SASID        GWA   VI011280 D   N26170700E0781305100                                                                                
+SASID        HHY   VI011470 D   N17271510E0782726100                                                                                
+SASID        IIM   VI011590 D   N24460339E093541574                                                                                 
+SASID        IID   VI011670 D   N22432208E075482430                                                                                 
+SASID        JJB   VI011360 D   N23104500E0800338100                                                                                
+SASID        JJP   VI011290 D   N26492950E075480240                                                                                 
+SASID        JAL   VI011580 D   N27413956E079392023                                                                                 
+SASID        JJU   VI011330 D   N32412960E074501550                                                                                 
+SASID        JMR   VI011500 D   N22280610E0701015100                                                                                
+SASID        JJS   VI011540 D   N22484450E086100340                                                                                 
+SASID        JJO   VI011230 D   N26140087E073025756                                                                                 
+SASID        JHT   VI011210 D   N26420684E094085543                                                                                 
+SASID        KKP   VI011540 D   N12470580E079424720                                                                                 
+SASID        KKJ   VI011640 D   N24485353E079550724                                                                                 
+SASID        CEA   VI011250 D   N22384264E088271036                                                                                 
+SASID        LEH   VI011570 D   N34435800E077335890                                                                                 
+SASID        LLP   VI011420 D   N23494610E092373340                                                                                 
+SASID        LBR   VI011650 D   N27173070E094060110                                                                                 
+SASID        LLK   VI011310 D   N26454393E080524969                                                                                 
+SASID        LUN   VI011760 D   N28341308E073470314                                                                                 
+SASID        MDI   VI011610 D   N09495190E078052050                                                                                 
+SASID        MML   VI011420 D   N12574060E074551790                                                                                 
+SASID        BBB   VI011660 D   N19050740E072523130                                                                                 
+SASID        NNP   VI011270 D   N21064170E079011180                                                                                 
+SASID        NGJ   VI011510 D   N28060500E0813902100                                                                                
+SASID        PPT   VI011210 D   N25352550E085052370                                                                                 
+SASID        PRA   VI011490 D   N24014764E074450278                                                                                 
+SASID        PUN   VI011390 D   N18344709E073545102                                                                                 
+SASID        RRP   VI011610 D   N21104900E081444400                                                                                 
+SASID        RKT   VI011540 D   N22184714E070464173                                                                                 
+SASID        RRC   VI011690 D   N23183130E085193580                                                                                 
+SASID        SKA   VI011720 D   N27505441E077002954                                                                                 
+SASID        SAM   VI011700 D   N28492107E076492559                                                                                 
+SASID        SSB   VI011240 D   N28233620E077422920                                                                                 
+SASID        KKU   VI011570 D   N24544927E092583914                                                                                 
+SASID        SNG   VI011590 D   N34000710E074451650                                                                                 
+SASID        TEZ   VI011790 D   N26423871E092475804                                                                                 
+SASID        TTR   VI011310 D   N10454470E078424820                                                                                 
+SASID        TTP   VI011570 D   N13380389E079322079                                                                                 
+SASID        UUD   VI011590 D   N24364640E073532720                                                                                 
+SASID        QQZ   VI011730 D   N22195820E073133050                                                                                 
+SASID        BBN   VI011390 D   N25271445E082513330                                                                                 
+SASID        BBZ   VI011620 D   N16311410E080473900                                                                                 
+SASIER       W65S        0010BADATVIEA      O                                      08000     46000                                  
+SASIER       W65S        0020CHI  VID       O                             0781     08000     46000                                  
+SASIER       B593        0030CEA  VID       O                             0284     07000     46000                                  
+SASIER       W20N        0010BAVOXVIEA      O                                      07500     46000                                  
+SASIER       W20N        0020BUKLOVIEA      O                             0686     07500     46000                                  
+SASIER       W20N        0030PUKESVIEA      O                             0180     25000     46000                                  
+SASIER       W20N        0040BPL  VID       O                             0852     25000     46000                                  
+SASIER       B209-       0010BAVOXVIEA      O                                      30000     46000                                  
+SASIER       B209-       0020INTILVIEA      O                             0410     30000     46000                                  
+SASIER       A451        0010BBB  VID       O                                      10000     46000                                  
+SASIER       A451        0020BISET  EA      O                             2074     10000     46000                                  
+SASIER       G210-       0010BBB  VID       O                                      07500     46000                                  
+SASIER       G210-       0020BOFIN  EA      O                             1005     07500     46000                                  
+SASIER       G210-       0030BVR  VID       O                             0641     07500     46000                                  
+SASIER       G450        0010BBB  VID       O                                      10000     46000                                  
+SASIER       G450        0020DARMI  EA      O                             1521     10000     46000                                  
+SASIER       W16N        0010BBB  VID       O                                      07500     46000                                  
+SASIER       W16N        0020DOTIPVIEA      O                             1005     07500     46000                                  
+SASIER       B211-       0010BBB  VID       O                                      09500     46000                                  
+SASIER       B211-       0020EPKOSVIEA      O                             1499     09500     46000                                  
+SASIER       A474        0010BBB  VID       O                                      10000     46000                                  
+SASIER       A474        0020ERVIS  EA      O                             1286     10000     46000                                  
+SASIER       B342-       0010BBB  VID       O                                      07500     27000                                  
+SASIER       B342-       0020EXOLU  EA      O                             1002     07500     27000                                  
+SASIER       B459        0010BBB  VID       O                                      10000     46000                                  
+SASIER       B459        0020GUNDI  EA      O                             1302     10000     46000                                  
+SASIER       W15S        0010BBB  VID       O                                      22000     46000                                  
+SASIER       W15S        0020KABSO  EA      O                             1200     22000     46000                                  
+SASIER       3E113       0010BBB  VID       O                                      07000     46000                                  
+SASIER       3E113       0020LIGDO  EA      O                             0982     07000     46000                                  
+SASIER       R461-       0010BBB  VID       O                                      09500     46000                                  
+SASIER       R461-       0020MABTAVIEA      O                             1200     09500     46000                                  
+SASIER       G450-       0010BBB  VID       O                                      07500     46000                                  
+SASIER       G450-       0020OPAKAVIEA      O                             1005     07500     46000                                  
+SASIER       W61         0010BBB  VID       O                                      07500     46000                                  
+SASIER       W61         0020RKT  VID       O                             2268     07500     46000                                  
+SASIER       W61         0030JMR  VID       O                             0350     07500     46000                                  
+SASIER       W45-W       0010BBD  VID       O                                      10000     46000                                  
+SASIER       W45-W       0020KG   VID       O                             0408     10000     46000                                  
+SASIER       G348        0010BBD  VID       O                                      26000     46000                                  
+SASIER       G348        0020MECHIVIEA      O                             0091     26000     46000                                  
+SASIER       G348        0030KTM  VND       O                             1607     26000     46000                                  
+SASIER       W56N        0010BBG  VID       O                                      10500     46000                                  
+SASIER       W56N        0020BBI  VID       O                             1409     10500     46000                                  
+SASIER       W56N        0030MINITVIEA      O                             0735     25000     46000                                  
+SASIER       W22-W       0010BBG  VID       O                                      11000     46000                                  
+SASIER       W22-W       0020CCB  VID       O                             1209     11000     46000                                  
+SASIER       W101W       0010BBG  VID       O                                      08000     46000                                  
+SASIER       W101W       0020GUNASVIEA      O                             1405     08000     46000                                  
+SASIER       W101W       0030GGO    D       O                             1292     08000     46000                                  
+SASIER       N563        0010BBG  VID       O                                      28000     46000                                  
+SASIER       N563        0020GUNIMVIEA      O                             1423     28000     46000                                  
+SASIER       N563        0030IKATIVIEA      O                             0511     28000     46000                                  
+SASIER       W56S        0010BBG  VID       O                                      10000     46000                                  
+SASIER       W56S        0020IBEPAVIEA      O                             1751     10000     46000                                  
+SASIER       W56S        0030BBM  VID       O                             0743     10000     46000                                  
+SASIER       W101E       0010BBG  VID       O                                      08000     46000                                  
+SASIER       W101E       0020UNSALVIEA      O                             1241     08000     46000                                  
+SASIER       W101E       0030GGO    D       O                             1486     08000     46000                                  
+SASIER       B211        0010BBI  VID       O                                      11500     46000                                  
+SASIER       B211        0020IGMARVIEA      O                             0611     11500     46000                                  
+SASIER       B211        0030EPKOSVIEA      O                             1288     11500     46000                                  
+SASIER       R458-       0010BBM  VID       O                                      09500     46000                                  
+SASIER       R458-       0020EPKOSVIEA      O                             0682     09500     46000                                  
+SASIER       R461        0010BBM  VID       O                                      20000     46000                                  
+SASIER       R461        0020IBUDUVIEA      O                             0575     20000     46000                                  
+SASIER       R461        0030EGARIVIEA      O                             1044     20000     46000                                  
+SASIER       R461        0040CCB  VID       O                             1605     20000     46000                                  
+SASIER       R461        0050MDI  VID       O                             0948     12500     46000                                  
+SASIER       R461        0060DEMON  EA      O                             0918     10000     46000                                  
+SASIER       R461-       0010BBM  VID       O                                      09500     46000                                  
+SASIER       R461-       0020MABTAVIEA      O                             1057     09500     46000                                  
+SASIER       G590-       0010BBN  VID       O                                      07500     46000                                  
+SASIER       G590-       0020BHITIVIEA      O                             0337     07500     46000                                  
+SASIER       R460        0010BBN  VID       O                                      07500     46000                                  
+SASIER       R460        0020GGC  VID       O                             1211     07500     46000                                  
+SASIER       R460        0030TEPALVIEA      O                             0989     07500     46000                                  
+SASIER       R460        0040CEA  VID       O                             1316     07500     46000                                  
+SASIER       W73W        0010BBN  VID       O                                      07500     46000                                  
+SASIER       W73W        0020PAROTVIEA      O                             1015     07500     46000                                  
+SASIER       W73W        0030RRC  VID       O                             0926     07500     46000                                  
+SASIER       P646        0010BBN  VID       O                                      28000     46000                                  
+SASIER       P646        0020PUPAMVIEA      O                             1147     28000     46000                                  
+SASIER       P646        0030JJS  VID       O                             1261     28000     46000                                  
+SASIER       P646        0040DOPID  EA      O                             2039     28000     46000                                  
+SASIER       W73E        0010BBN  VID       O                                      07500     46000                                  
+SASIER       W73E        0020RRC  VID       O                             1865     07500     46000                                  
+SASIER       G590        0010BBN  VID       O                                      10000     46000                                  
+SASIER       G590        0020UXUPOVIEA      O                             0304     10000     46000                                  
+SASIER       G590        0030BODOGVIEA      O                             0216     10000     46000                                  
+SASIER       G590        0040OMUPAVIEA      O                             0873     10000     46000                                  
+SASIER       G590        0050SMR  VND       O                             0143     10000     46000                                  
+SASIER       G472-       0010BBS  VID       O                                      07500     25000                                  
+SASIER       G472-       0020BUBKO  EA      O                             1733     07500     25000                                  
+SASIER       L759        0010BBS  VID       O                                      28000     46000                                  
+SASIER       L759        0020LEMEX  EA      O                             0280     28000     46000                                  
+SASIER       W113E       0010BBS  VID       O                                      07500     27000                                  
+SASIER       W113E       0020OGUNAVIEA      O                             1918     07500     27000                                  
+SASIER       W113E       0030RRP  VID       O                             0546     07500     27000                                  
+SASIER       G472-       0010BBS  VID       O                                      07500     25000                                  
+SASIER       G472-       0020OPASAVIEA      O                             1619     07500     25000                                  
+SASIER       L759-       0010BBS  VID       O                                      07500     27000                                  
+SASIER       L759-       0020OTABAVIEA      O                             1815     07500     27000                                  
+SASIER       A462        0020CEA  VID       O                             0299     10500     46000                                  
+SASIER       B345        0030GUGIPVIEA      O                             1103     10000     46000                                  
+SASIER       B345        0040LLK  VID       O                             0331     10000     46000                                  
+SASIER       R462-       0010BIDANVIEA      O                                      07500     46000                                  
+SASIER       R462-       0020JJP  VID       O                             0566     07500     46000                                  
+SASIER       P628        0020VIKITVIEA      O                             0678     32000     46000                                  
+SASIER       P628        0030LATOSVIEA      O                             1171     32000     46000                                  
+SASIER       P628        0040BIDANVIEA      O                             1102     32000     46000                                  
+SASIER       P628        0050NIKOTVIEA      O                             0168     32000     46000                                  
+SASIER       N877        0010BIGELVIEA      O                                      28000     46000                                  
+SASIER       N877        0020IKIKOVIEA      O                             0138     28000     46000                                  
+SASIER       A467-       0010BIKIKVIEA      O                                      10000     46000                                  
+SASIER       A467-       0020KH   VID       O                             0491     10000     46000                                  
+SASIER       A201-       0010BIKIKVIEA      O                                      10000     46000                                  
+SASIER       A201-       0020MONDAVIEA      O                             0815     10000     46000                                  
+SASIER       G590-       0010BOBETVIEA      O                                      07500     46000                                  
+SASIER       G590-       0020BPL  VID       O                             0795     07500     46000                                  
+SASIER       G590-       0010BODARVIEA      O                                      07500     46000                                  
+SASIER       G590-       0020IID  VID       O                             0881     07500     46000                                  
+SASIER       A347-       0010BODARVIEA      O                                      10000     46000                                  
+SASIER       A347-       0020PRA  VID       O                             0904     10000     46000                                  
+SASIER       A201-       0010BODOGVIEA      O                                      08500     46000                                  
+SASIER       A201-       0020LLK  VID       O                             1518     08500     46000                                  
+SASIER       B466-       0010BOGATVIEA      O                                      11500     46000                                  
+SASIER       B466-       0020DORAMVIEA      O                             0869     11500     46000                                  
+SASIER       R598        0020CO   VID       O                             0281     07500     46000                                  
+SASIER       R598        0030VANTUVIEA      O                             0192     10000     46000                                  
+SASIER       R598        0040SDP  VGD       O                             0272     10000     46000                                  
+SASIER       R598        0060MIGOPVIEA      O                             0101     10000     46000                                  
+SASIER       R598        0070RAJ  VGD       O                             0469     10000     46000                                  
+SASIER       W109E       0010BOLUXVIEA      O                                      12500     19500                                  
+SASIER       W109E       0020PK   VID       O                             0918     12500     19500                                  
+SASIER       W108E       0010BOLUXVIEA      O                                      12500     19500                                  
+SASIER       W108E       0020UXIDAVIEA      O                             0477     12500     19500                                  
+SASIER       W20S        0010BPL  VID       O                                      07500     46000                                  
+SASIER       W20S        0020IBANIVIEA      O                             1086     07500     46000                                  
+SASIER       G590-       0010BPL  VID       O                                      07500     46000                                  
+SASIER       G590-       0020IID  VID       O                             0910     07500     46000                                  
+SASIER       W19-W       0010BR   VID       O                                      25000     46000                                  
+SASIER       W19-W       0020VB   VID       O                             0413     25000     46000                                  
+SASIER       W19-W       0030HHY  VID       O                             0338     12500     46000                                  
+SASIER       M770        0030JJS  VID       O                             1382     28000     46000                                  
+SASIER       L505        0010BUSBOVIEA      O                                      28000     46000                                  
+SASIER       L505        0020IBELAVIEA      O                             0736     28000     46000                                  
+SASIER       A589-       0010BUTOPVIEA      O                                      08500     46000                                  
+SASIER       A589-       0020DPN  VID       O                             1002     08500     46000                                  
+SASIER       M875        0010BUTOPVIEA      O                                      28000     46000                                  
+SASIER       M875        0020IGONAVIEA      O                             3279     28000     46000                                  
+SASIER       M875        0030DOMETVIEA      O                             0810     28000     46000                                  
+SASIER       M875        0040LAPANVIEA      O                             1380     28000     46000                                  
+SASIER       W22S-       0010CCB  VID       O                                      11000     46000                                  
+SASIER       W22S-       0020CIA  VID       O                             0663     11000     46000                                  
+SASIER       W102E       0010CCB  VID       O                                      11000     46000                                  
+SASIER       W102E       0020CLC  VID       O                             0647     11000     46000                                  
+SASIER       W22N        0010CCB  VID       O                                      11000     46000                                  
+SASIER       W22N        0020DONDIVIEA      O                             0342     11000     46000                                  
+SASIER       W22N        0030CIA  VID       O                             0344     11000     46000                                  
+SASIER       W102W       0010CCB  VID       O                                      11000     46000                                  
+SASIER       W102W       0020SATTIVIEA      O                             0336     11000     46000                                  
+SASIER       W102W       0030CLC  VID       O                             0335     11000     46000                                  
+SASIER       W111-       0010CEA  VID       O                                      07500     28000                                  
+SASIER       W111-       0020DOPID  EA      O                             1119     07500     28000                                  
+SASIER       R325-       0010CEA  VID       O                                      07500     46000                                  
+SASIER       R325-       0020DUMKAVIEA      O                             1105     07500     46000                                  
+SASIER       A791-       0010CEA  VID       O                                      07500     46000                                  
+SASIER       A791-       0020JJS  VID       O                             1269     07500     46000                                  
+SASIER       A465-       0010CEA  VID       O                                      07000     46000                                  
+SASIER       A465-       0020LEGOS  EA      O                             0640     07000     46000                                  
+SASIER       R325        0010CEA  VID       O                                      21500     46000                                  
+SASIER       R325        0020MADAK  EA      O                             0701     21500     46000                                  
+SASIER       B465        0010CEA  VID       O                                      07000     46000                                  
+SASIER       B465        0020SUMAGVGEA      O                             0272     07000     46000                                  
+SASIER       M890-       0010CHG  VID       O                                      07500     46000                                  
+SASIER       M890-       0020LAKETVIEA      O                             0737     07500     46000                                  
+SASIER       M890-       0010CHG  VID       O                                      07500     46000                                  
+SASIER       M890-       0020ONOGIVIEA      O                             0253     07500     46000                                  
+SASIER       M890-       0030SP   VID       O                             0278     07500     46000                                  
+SASIER       R218-       0010CHI  VID       O                                      07500     46000                                  
+SASIER       R218-       0020DIPASVIEA      O                             0620     07500     46000                                  
+SASIER       R218-       0030JJP  VID       O                             0467     07500     46000                                  
+SASIER       A474-       0010CHI  VID       O                                      07500     46000                                  
+SASIER       A474-       0020DPN  VID       O                             0262     07500     46000                                  
+SASIER       G333        0010CHI  VID       O                                      21000     46000                                  
+SASIER       G333        0020LKA  VID       O                             1356     21000     46000                                  
+SASIER       G333        0030TIGEROPEA      O                             0998     21000     46000                                  
+SASIER       W15N        0010CIA  VID       O                                      11000     46000                                  
+SASIER       W15N        0020CLC  VID       O                             0641     11000     46000                                  
+SASIER       G336        0010DODUDVIEA      O                                      10000     46000                                  
+SASIER       G336        0020PPT  VID       O                             0608     10000     46000                                  
+SASIER       W31E        0010DPN  VID       O                                      08500     46000                                  
+SASIER       W31E        0020ELKUXVIEA      O                             1129     08500     46000                                  
+SASIER       A466-       0010DPN  VID       O                                      08500     46000                                  
+SASIER       A466-       0020IGINOVIEA      O                             0400     08500     46000                                  
+SASIER       A466-       0030ELKUXVIEA      O                             0729     08500     46000                                  
+SASIER       L760-       0010DPN  VID       O                                      07500     46000                                  
+SASIER       L760-       0020ITBANVIEA      O                             0551     07500     46000                                  
+SASIER       L760-       0030GURTIVIEA      O                             0074     07500     46000                                  
+SASIER       L759-       0010DPN  VID       O                                      07500     46000                                  
+SASIER       L759-       0020LETPUVIEA      O                             0648     07500     46000                                  
+SASIER       L759-       0030POSIGVIEA      O                             0203     07500     46000                                  
+SASIER       W108W       0010DPN  VID       O                                      12500     19500                                  
+SASIER       W108W       0020OROTIVIEA      O                             0943     12500     19500                                  
+SASIER       W108W       0030UXIDAVIEA      O                             0452     12500     19500                                  
+SASIER       A347-       0010DPN  VID       O                                      07500     46000                                  
+SASIER       A347-       0020REBONVIEA      O                             0551     07500     46000                                  
+SASIER       A347-       0030JJP  VID       O                             0701     07500     46000                                  
+SASIER       W35-W       0010DPN  VID       O                                      07500     46000                                  
+SASIER       W35-W       0020SP   VID       O                             0878     07500     46000                                  
+SASIER       R594-       0010DPN  VID       O                                      07500     46000                                  
+SASIER       R594-       0020SSB  VID       O                             0340     07500     46000                                  
+SASIER       W108E       0010DPN  VID       O                                      12500     19500                                  
+SASIER       W108E       0020UXIDAVIEA      O                             1281     12500     19500                                  
+SASIER       R581        0010DUMKAVIEA      O                                      07500     46000                                  
+SASIER       R581        0020MONDAVIEA      O                             0860     07500     46000                                  
+SASIER       B342-       0020TAXUNVIEA      O                             0989     07500     27000                                  
+SASIER       W106A       0010EXUNAVIEA      O                                      07500     25000                                  
+SASIER       W106A       0020GGC  VID       O                             0324     07500     25000                                  
+SASIER       W18-W       0010GGB  VID       O                                      07500     46000                                  
+SASIER       W18-W       0020HHY  VID       O                             0952     07500     46000                                  
+SASIER       W106-       0010GGC  VID       O                                      07500     25000                                  
+SASIER       W106-       0020PPT  VID       O                             0516     07500     25000                                  
+SASIER       L509        0010GGC  VID       O                                      32000     46000                                  
+SASIER       L509        0020UXUPOVIEA      O                             1098     32000     46000                                  
+SASIER       L509        0030GUGIPVIEA      O                             1198     32000     46000                                  
+SASIER       A466        0160SAMARVIEA      O                             0157     28000     60000                                  
+SASIER       A347        0010GUDUMVIEA      O                                      10000     46000                                  
+SASIER       A347        0020JJP  VID       O                             0521     10000     46000                                  
+SASIER       W10S        0010GWA  VID       O                                      07500     46000                                  
+SASIER       W10S        0020POSIGVIEA      O                             0655     07500     46000                                  
+SASIER       W29-W       0010HHY  VID       O                                      07500     46000                                  
+SASIER       W29-W       0020KM   VID       O                             0973     07500     46000                                  
+SASIER       W57-W       0010HHY  VID       O                                      10000     46000                                  
+SASIER       W57-W       0020VIRAMVIEA      O                             1275     10000     46000                                  
+SASIER       W57-W       0030LATIDVIEA      O                             0537     10000     46000                                  
+SASIER       M890-       0010JAL  VID       O                                      07500     46000                                  
+SASIER       M890-       0020LLK  VID       O                             0861     07500     46000                                  
+SASIER       M890        0010JAL  VID       O                                      30000     46000                                  
+SASIER       M890        0020PUMOTVIEA      O                             0655     30000     46000                                  
+SASIER       M890        0030SP   VID       O                             1161     30000     46000                                  
+SASIER       R594        0010JAL  VID       O                                      07500     46000                                  
+SASIER       R594        0020SSB  VID       O                             1114     07500     46000                                  
+SASIER       W58-W       0010JJO  VID       O                                      07500     46000                                  
+SASIER       W58-W       0020JJP  VID       O                             1520     07500     46000                                  
+SASIER       L333        0010JJP  VID       O                                      26000     46000                                  
+SASIER       L333        0020KABELVIEA      O                             1181     26000     46000                                  
+SASIER       L333        0030TIGEROPEA      O                             0950     26000     46000                                  
+SASIER       B209        0010JJS  VID       O                                      31000     46000                                  
+SASIER       B209        0020LAPANVIEA      O                             1605     31000     46000                                  
+SASIER       B209        0030VILOPVIEA      O                             0836     31000     46000                                  
+SASIER       B209        0040KKJ  VID       O                             1196     31000     46000                                  
+SASIER       A325-       0030PRA  VID       O                             2272     10000     46000                                  
+SASIER       W105-       0010KG   VID       O                                      08500     28000                                  
+SASIER       W105-       0020KH   VID       O                             0383     08500     28000                                  
+SASIER       A467        0010KH   VID       O                                      10000     46000                                  
+SASIER       A467        0020VTN  VND       O                             0573     10000     46000                                  
+SASIER       L759-       0010KKJ  VID       O                                      07500     46000                                  
+SASIER       L759-       0020NOBOMVIEA      O                             1000     07500     46000                                  
+SASIER       A456        0020RABANVIEA      O                             0108     10500     60000                                  
+SASIER       N894        0020TELEMVIEA      O                             2168     15500     60000                                  
+SASIER       L505-       0010MELAXVIEA      O                                      07500     46000                                  
+SASIER       L505-       0020OPAKAVIEA      O                             0618     07500     46000                                  
+SASIER       W31-W       0010MESARVIEA      O                                      18000     46000                                  
+SASIER       W31-W       0020SNG  VID       O                             0385     18000     46000                                  
+SASIER       G463-       0010MONDAVIEA      O                                      07500     46000                                  
+SASIER       G463-       0020UXAGAVIEA      O                             0173     07500     46000                                  
+SASIER       G208-       0010PARTYVIEA      O                                      07500     25000                                  
+SASIER       G208-       0020SASROVIEA      O                             0127     07500     25000                                  
+SASIER       G335        0010PPT  VID       O                                      11000     46000                                  
+SASIER       G335        0020TEPALVIEA      O                             1295     11000     46000                                  
+SASIER       W12S        0010QQZ  VID       O                                      07500     46000                                  
+SASIER       W12S        0020SG   VID       O                             0725     07500     46000                                  
+SASIER       B342-       0020TARABVIEA      O                             1502     25000     27000                                  
+SASIER       B342-       0030TAXUNVIEA      O                             0392     25000     27000                                  
+SASIER       G210-       0010TELEMVIEA      O                                      07500     25000                                  
+SASIER       G210-       0020VASLAVIEA      O                             1278     07500     25000                                  

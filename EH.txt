@@ -1,0 +1,17 @@
+SAFREAENRT   CARIM              N26000000W011114200                                                                                 
+SAFREAENRT   GUPEL              N21200000W015001800                                                                                 
+SAFREAENRT   MAURI              N21195910W016522600                                                                                 
+SAFREAENRT   MIYEC              N23420000W012590000                                                                                 
+SAFRER       G851F       0120MIYEC  EA      O                                      05500     24500                                  
+SAFRER       G851F       0130ZRT  GQD       O                             0634     05500     24500                                  
+SAFRER       R975F       0030CARIM  EA      O                             0508     05500     24500                                  
+SAFRER       R975F       0040ECHED  EA      O                             1065     12500     24500                                  
+SAFRER       A600F       0100MAURI  EA      O                             0267     03500     24500                                  
+SAFRER       A600F       0020MAURI  EA      O                             0335     03500     24500                                  
+SAFRER       UG851       0090MIYEC  EA      O                                      24500     46000                                  
+SAFRER       UG851       0100ZRT  GQD       O                             0634     24500     46000                                  
+SAFRER       UB601       0040GUPEL  EA      O                             2018     24500     46000                                  
+SAFRER       UB600       0030MAURI  EA      O                             0335     24500     46000                                  
+SAFRER       UB601       0010GUPEL  EA      O                                      24500     46000                                  
+SAFRER       UB601       0020KEMUL  EA      O                             2302     24500     46000                                  
+SAFRER       UG851       0020MIYEC  EA      O                             0933     24500     46000                                  

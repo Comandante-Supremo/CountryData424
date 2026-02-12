@@ -1,0 +1,121 @@
+SAFREAENRT   ARBAL GU           N10055910W010430000                                                                                 
+SAFREAENRT   AXIRO GU           N10055946W014015944                                                                                 
+SAFREAENRT   BUKLA GU           N09190000W013010000                                                                                 
+SAFREAENRT   BUMBI GU           N12280000W0125759100                                                                                
+SAFREAENRT   BUNAP GU           N10150000W011000000                                                                                 
+SAFREAENRT   ERMIT GU           N08220000W0081659100                                                                                
+SAFREAENRT   ILGOT GU           N10090000W012310000                                                                                 
+SAFREAENRT   KIMPO GU           N10165939W008475915                                                                                 
+SAFREAENRT   KIRTI GU           N10415926W014315947                                                                                 
+SAFREAENRT   KOLIP GU           N10400000W011330000                                                                                 
+SAFREAENRT   LUGMI GU           N11150000W012220000                                                                                 
+SAFREAENRT   LURBO GU           N10135941W013365942                                                                                 
+SAFREAENRT   NANAN GU           N09030000W0091659100                                                                                
+SAFREAENRT   NASLO GU           N11465910W013090000                                                                                 
+SAFREAENRT   NEGLO GU           N11555910W009090000                                                                                 
+SAFREAENRT   PIMSO GU           N10150000W013250000                                                                                 
+SAFREAENRT   SESEL GU           N11100000W0145335100                                                                                
+SAFREAENRT   TANOS GU           N12055910W013390000                                                                                 
+SAFREAENRT   UBATI GU           N11444810W009012200                                                                                 
+SAFREAENRT   ZZZZ1 GU           N10000000W010000000                                                                                 
+SAFREAENRT   ZZZZ2 GU           N10055910W0100559100                                                                                
+SAFRDB       OK    GU000382     N10572097W014182422                                                                                 
+SAFRDB       CY    GU000395     N09352227W013354827                                                                                 
+SAFRDB       KR    GU000365     N09333785W013375198                                                                                 
+SAFRDB       FH    GU000350     N10030376W010453658                                                                                 
+SAFRDB       GK    GU000286     N09144546W009174169                                                                                 
+SAFRDB       KAM   GU000308     N10394505W014362425                                                                                 
+SAFRDB       KN    GU000276     N10223378W009170051                                                                                 
+SAFRDB       KU    GU000387     N09100973W010071855                                                                                 
+SAFRDB       LB    GU000340     N11193381W012171266                                                                                 
+SAFRDB       MA    GU000395     N08290370W009321252                                                                                 
+SAFRDB       NZ    GU000382     N07490967W008423047                                                                                 
+SAFRDB       SB    GU000395     N12342185W013213072                                                                                 
+SAFRDB       SG    GU000332     N11074220W013500550                                                                                 
+SAFRDB       SI    GU000282     N11240382W009111250                                                                                 
+SAFRD        GIA   GU011490V    N09340472W013371089                                                                                 
+SAFRD        FRH   GU011210V    N10030323W010453584                                                                                 
+SAFRD        GIA   GU011490 D   N09340472W013371089                                                                                 
+SAFRER       B727        0020UBATIGUEA      O                             0801     05500     24500                                  
+SAFRER       B727        0030BUNAPGUEA      O                             1472     07000     24500                                  
+SAFRER       B727        0040KIMKAGFEA      O                             0589     07000     24500                                  
+SAFRER       B614        0010GIA  GUD       O                                      05000     24500                                  
+SAFRER       B614        0020BIREL  EA      O                             0332     05000     24500                                  
+SAFRER       B600F       0010SESELGUEA      O                                      03500     24500                                  
+SAFRER       B600F       0020BIS06  EA      O                             0637     03500     24500                                  
+SAFRER       A612G       0010NEGLOGUEA      O                                      05500     24500                                  
+SAFRER       A612G       0020BKO  GAD       O                             0805     04500     24500                                  
+SAFRER       B600        0030KIRTIGUEA      O                                      03000     24500                                  
+SAFRER       B600        0040SESELGUEA      O                             0352     03000     24500                                  
+SAFRER       B729        0010GIA  GUD       O                                      07000     24500                                  
+SAFRER       B729        0020BUKLAGUEA      O                             0388     07000     24500                                  
+SAFRER       B729        0030RAMAKGFEA      O                             1233     07000     24500                                  
+SAFRER       J579        0010KU   GUD       OH                                     03000     24500                                  
+SAFRER       J579        0020FH   GUD       OH                            0650     04000     24500                                  
+SAFRER       J579        0030BUNAPGUEA      OH                            0185     04000     24500                                  
+SAFRER       J579        0040KOLIPGUEA      OH                            0410     04000     24500                                  
+SAFRER       J579        0050LB   GUD       OH                            0588     04000     24500                                  
+SAFRER       J579        0060SB   GUD       OH                            0978     06000     24500                                  
+SAFRER       J579        0070MA   GUD       OH                                     07000     24500                                  
+SAFRER       J579        0080NZ   GUD       OH                            0634     07000     24500                                  
+SAFRER       H217        0010GIA  GUD       O                                      06000     24500                                  
+SAFRER       H217        0020EDBALGFEA      O                             0956     06000     24500                                  
+SAFRER       H217        0030FH   GUD       O                             0761     06000     24500                                  
+SAFRER       H217        0040KN   GUD       O                             0894     06000     24500                                  
+SAFRER       A612        0010GIA  GUD       O                                      06000     24500                                  
+SAFRER       A612        0020ILGOTGUEA      O                             0740     06000     24500                                  
+SAFRER       A612        0030KOLIPGUEA      O                                      06000     24500                                  
+SAFRER       A612        0040NEGLOGUEA      O                             1605     06000     24500                                  
+SAFRER       V206        0010GIA  GUD       OL                                     05000     24500                                  
+SAFRER       V206        0020LB   GUD       OL                            1317     05000     24500                                  
+SAFRER       V205        0010GIA  GUD       OL                                     06000     24500                                  
+SAFRER       V205        0020POGRA  EA      OL                            1302     06000     24500                                  
+SAFRER       H330        0010GIA  GUD       O                                      03000     24500                                  
+SAFRER       H330        0020SB   GUD       O                             1811     03000     24500                                  
+SAFRER       J341        0010NZ   GUD       OH                                     06000     24500                                  
+SAFRER       J341        0020GK   GUD       OH                            0925     06000     24500                                  
+SAFRER       J341        0030KN   GUD       OH                            0679     06000     24500                                  
+SAFRER       J341        0040SI   GUD       OH                            0618     06000     24500                                  
+SAFRER       UR979       0040BUNAPGUEA      O                                      25000     60000                                  
+SAFRER       UR979       0050KOLIPGUEA      O                             0410     25000     60000                                  
+SAFRER       UR979       0060LUGMIGUEA      O                             0595     25000     60000                                  
+SAFRER       UR979       0070NASLOGUEA      O                             0561     25000     60000                                  
+SAFRER       UR979       0080BADIA  EA      O                             0464     25000     46000                                  
+SAFRER       UR979       0120NANANGUEA      O                                      25000     60000                                  
+SAFRER       UR979       0130ERMITGUEA      O                             0721     25000     60000                                  
+SAFRER       UR979       0140POKSODIEA      O                             1693     24500     46000                                  
+SAFRER       UG854       0190KN   GUD       O                             0773     25000     60000                                  
+SAFRER       UG854       0200FH   GUD       O                             0894     25000     60000                                  
+SAFRER       UG854       0220GIA  GUD       O                             0956     25000     60000                                  
+SAFRER       UB727       0010BUNAPGUEA      O                                      25000     60000                                  
+SAFRER       UB727       0020UBATIGUEA      O                             1472     24500     46000                                  
+SAFRER       UB727       0030BKO  GAD       O                             0801     24500     46000                                  
+SAFRER       UB614       0010GIA  GUD       O                                      25000     60000                                  
+SAFRER       UB614       0020BIREL  EA      O                             0332     25000     60000                                  
+SAFRER       UA612       0070NEGLOGUEA      O                             0805     24500     46000                                  
+SAFRER       UA612       0080KOLIPGUEA      O                             1605     25000     60000                                  
+SAFRER       UA612       0090GIA  GUD       O                                      25000     60000                                  
+SAFRER       UA612       0100ILGOTGUEA      O                             0740     25000     60000                                  
+SAFRER       UB728       0050GIA  GUD       O                                      25000     60000                                  
+SAFRER       UB728       0060LURBOGUEA      O                             0399     25000     60000                                  
+SAFRER       UB728       0070TANOSGUEA      O                             1121     25000     60000                                  
+SAFRER       UB729       0010GIA  GUD       O                                      25000     60000                                  
+SAFRER       UB729       0020BUKLAGUEA      O                             0388     25000     60000                                  
+SAFRER       UB729       0030RAMAKGFEA      O                             1233     25000     60000                                  
+SAFRER       UM372       0040BUMBIGUEA      O                                      24500     46000                                  
+SAFRER       UM372       0050DEMOLGOEA      O                             0662     24500     46000                                  
+SAFRER       UR72        0010BUMBIGUEA      O                                      25000     60000                                  
+SAFRER       UR72        0020NASLOGUEA      O                             0424     25000     60000                                  
+SAFRER       UR72        0030PIMSOGUEA      O                             0934     25000     60000                                  
+SAFRER       UR72        0040GIA  GUD       O                             0427     25000     60000                                  
+SAFRER       UB600       0110KIRTIGUEA      O                                      25000     60000                                  
+SAFRER       UB600       0120SESELGUEA      O                             0352     25000     60000                                  
+SAFRER       UB600       0130KOMOR  EA      O                             0969     24500     46000                                  
+SAFRER       UG852       0070KIMPOGUEA      O                             0648     25000     60000                                  
+SAFRER       UG852       0080NANANGUEA      O                             0794     25000     60000                                  
+SAFRER       UG852       0090PONKAGLEA      O                             0759     25000     60000                                  
+SAFRER       UR865       0070GIA  GUD       O                                      25000     60000                                  
+SAFRER       UR865       0080POGRA  EA      O                             1302     25000     60000                                  
+SAFRER       V210        0010GIA  GUD       OL                                     25000     60000                                  
+SAFRER       V210        0020NANANGUEA      OL                            2588     25000     60000                                  
+SAFRER       V200        0020NANANGUEA      OL                            2333     25000     60000                                  
