@@ -1,0 +1,7 @@
+SASIEAENRT   BOGOP              N26440147E089444944                                                                                 
+SASIEAENRT   TAKTI              N27025880E0893002100                                                                                
+SASIDB       PR      000410     N27240123E089245553                                                                                 
+SASID        PRO     010840V    N27180133E089301846                                                                                 
+SASID        PRO     010840 D   N27180133E089301846                                                                                 
+SASIER       R598        0010BOGOP  EA      O                                      07500     46000                                  
+SASIER       R598        0020CO   VID       O                             0281     07500     46000                                  

@@ -1,0 +1,16 @@
+SSPAEAENRT   UDEPI AY           S63232900W0575012100                                                                                
+SSPAEAENRT   WKSWA AY           S66445813E110550920                                                                                 
+SSPAEAENRT   WKSWB AY           S66400116E110475601                                                                                 
+SSPAEAENRT   WKSWC AY           S66353840E110571091                                                                                 
+SSPAEAENRT   WKSWF AY           S66405182E111125889                                                                                 
+SSPAEAENRT   WKSWH AY           S66483516E111185650                                                                                 
+SSPAEAENRT   WKSWI AY           S66402699E111002723                                                                                 
+SSPAEAENRT   WKSWM AY           S66411566E111253096                                                                                 
+SSPAEAENRT   ZUKKY AY           S74100059E166520077                                                                                 
+SSPAD        ZSP   AY011530 D   S89594260E120554380                                                                                 
+SSPAER       W56         0080UDEPIAYEA      O                             0975     11500     24500                                  
+SSPAER       W56         0090MBI    D       O                             0600     08500     24500                                  
+SSPAER       A338        0050ZUKKYAYEA      O                             2516     24500     60000                                  
+SSPAER       A338        0060KALVA  EA      O                             0504     24500     60000                                  
+SSPAER       UW56        0080UDEPIAYEA      O                             0975     24500     45000                                  
+SSPAER       UW56        0090MBI    D       O                             0600     24500     45000                                  

@@ -1,0 +1,89 @@
+SASIEAENRT   ADMIL VG           N23105010E090592600                                                                                 
+SASIEAENRT   AGODA VG           N24192200E088355600                                                                                 
+SASIEAENRT   AGUNO VG           N23142100E0902613100                                                                                
+SASIEAENRT   AKEVO VG           N23360210E0900249100                                                                                
+SASIEAENRT   AVDAX VG           N22133210E0921624100                                                                                
+SASIEAENRT   AVLED VG           N21400320E092204870                                                                                 
+SASIEAENRT   AVPOP VG           N22180810E089005000                                                                                 
+SASIEAENRT   BATEL VG           N24064200E0893455100                                                                                
+SASIEAENRT   BAVAN VG           N23040900E089593000                                                                                 
+SASIEAENRT   BELKU VG           N24200200E089365000                                                                                 
+SASIEAENRT   BEMAK VG           N22553858E088535614                                                                                 
+SASIEAENRT   BOGEP VG           N24040800E090245000                                                                                 
+SASIEAENRT   CEA50 VG           N23060210E089125000                                                                                 
+SASIEAENRT   CM021 VG           N23470200E091135000                                                                                 
+SASIEAENRT   CTG10 VG           N22244642E091534167                                                                                 
+SASIEAENRT   CTG14 VG           N22061378E091575765                                                                                 
+SASIEAENRT   CTG30 VG           N22173564E091515627                                                                                 
+SASIEAENRT   CTG32 VG           N22244148E091411911                                                                                 
+SASIEAENRT   CTG41 VG           N22074616E091563461                                                                                 
+SASIEAENRT   CTG46 VG           N22223370E091571700                                                                                 
+SASIEAENRT   CTG60 VG           N22194340E091541368                                                                                 
+SASIEAENRT   CTG61 VG           N22202883E091585982                                                                                 
+SASIEAENRT   CTG90 VG           N22215113E091563116                                                                                 
+SASIEAENRT   CTG99 VG           N22230924E091424249                                                                                 
+SASIEAENRT   DAC75 VG           N22520275E091164907                                                                                 
+SASIEAENRT   GURSO VG           N23240210E0902049100                                                                                
+SASIEAENRT   IBANU VG           N23245610E089371400                                                                                 
+SASIEAENRT   IKOGU VG           N23223900E0893849100                                                                                
+SASIEAENRT   KAKBO VG           N23000210E090185000                                                                                 
+SASIEAENRT   KANDI VG           N23301210E090420500                                                                                 
+SASIEAENRT   LALMT VG           N25531549E089255300                                                                                 
+SASIEAENRT   LATIM VG           N24050800E0904449100                                                                                
+SASIEAENRT   MEXIV VG           N24024200E090030500                                                                                 
+SASIEAENRT   MIMAR VG           N23371910E090005000                                                                                 
+SASIEAENRT   NIKLI VG           N24114700E090525000                                                                                 
+SASIEAENRT   NOKAT VG           N22472610E088563000                                                                                 
+SASIEAENRT   NUPUR VG           N23060710E090515600                                                                                 
+SASIEAENRT   OLPAS VG           N23573200E090000500                                                                                 
+SASIEAENRT   SARAR VG           N25160400E0890912100                                                                                
+SASIEAENRT   SETAR VG           N23274810E0903822100                                                                                
+SASIEAENRT   SHAMR VG           N24235012E091550233                                                                                 
+SASIEAENRT   SUMAG VG           N22353868E088562615                                                                                 
+SASIEAENRT   TANAP VG           N21562610E092063700                                                                                 
+SASIEAENRT   TEGAK VG           N24104110E0895004100                                                                                
+SASIEAENRT   THAKN VG           N26005936E088234754                                                                                 
+SASIEAENRT   VINAD VG           N25221400E0884919100                                                                                
+SASIDB       AT    VG000237     N23531445E091140380                                                                                 
+SASIDB       BL    VG000368     N22475216E090175221                                                                                 
+SASIDB       EG    VG000287     N22150461E091490453                                                                                 
+SASIDB       CM    VG000330     N23261031E091111581                                                                                 
+SASIDB       DCN   VG000298     N23503432E090250367                                                                                 
+SASIDB       IS    VG000350     N24091025E089024143                                                                                 
+SASIDB       JR    VG000280     N23103057E089094229                                                                                 
+SASIDB       KR    VG000310     N24183438E092002263                                                                                 
+SASIDB       KM    VG000246     N24075642E091483973                                                                                 
+SASIDB       RJ    VG000228     N24263287E088364935                                                                                 
+SASIDB       SD    VG000268     N25455227E088543483                                                                                 
+SASIDB       SY    VG000372     N24571960E091522074                                                                                 
+SASID        AAT   VG011610V    N23532245E091142301                                                                                 
+SASID        CTG   VG011340V    N22152785E091493893                                                                                 
+SASID        CML   VG011550V    N23260160E091112433                                                                                 
+SASID        DAC   VG011270V    N23492886E090244536                                                                                 
+SASID        JSR   VG011300V    N23103698E089094723                                                                                 
+SASID        RAJ   VG011460V    N24262413E088365408                                                                                 
+SASID        SDP   VG011580V    N25451630E088543564                                                                                 
+SASID        SYT   VG011640V    N24573897E0915200100                                                                                
+SASID        ICG   VG011050 D   N22152030E091492039                                                                                 
+SASID        SYL   VG011150 D   N24580021E091513240                                                                                 
+SASID        AAT   VG011610 D   N23532245E091142301                                                                                 
+SASID        CTG   VG011340 D   N22152785E091493893                                                                                 
+SASID        DAC   VG011270 D   N23492886E090244536                                                                                 
+SASIER       G463        0010BATELVGEA      O                                      05500     46000                                  
+SASIER       G463        0020OLPASVGEA      O                             0247     05500     46000                                  
+SASIER       G463        0030DAC  VGD       O                             0240     05500     46000                                  
+SASIER       G463        0040KANDIVGEA      O                             0250     05500     46000                                  
+SASIER       B593        0010BAVANVGEA      O                                      07500     46000                                  
+SASIER       B593        0020NOKATVGEA      O                             0604     07500     46000                                  
+SASIER       B593        0030CEA  VID       O                             0284     07000     46000                                  
+SASIER       A462        0010BEMAKVGEA      O                                      10500     46000                                  
+SASIER       A462        0020CEA  VID       O                             0299     10500     46000                                  
+SASIER       A201        0010BOGEPVGEA      O                                      27000     46000                                  
+SASIER       A201        0020RAJ  VGD       O                             1010     27000     46000                                  
+SASIER       R598        0040SDP  VGD       O                             0272     10000     46000                                  
+SASIER       R598        0050VINADVGEA      O                             0235     07500     46000                                  
+SASIER       R598        0060MIGOPVIEA      O                             0101     10000     46000                                  
+SASIER       R598        0070RAJ  VGD       O                             0469     10000     46000                                  
+SASIER       B465        0020SUMAGVGEA      O                             0272     07000     46000                                  
+SASIER       B465        0030DAKID  EA      O                             1365     15500     46000                                  
+SASIER       B465        0040CTG  VGD       O                             0250     15500     46000                                  

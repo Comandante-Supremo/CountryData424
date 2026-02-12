@@ -1,0 +1,48 @@
+SASIEAENRT   BUTAX              N04261210E114523200                                                                                 
+SASIEAENRT   VJN80              N04510500E1151239100                                                                                
+SASIEAENRT   VLB02              N05154280E115161176                                                                                 
+SASIEAENRT   VLB04              N05140160E115171731                                                                                 
+SASIEAENRT   VLB06              N05122040E115182286                                                                                 
+SASIEAENRT   VLB07              N05142298E115201892                                                                                 
+SASIEAENRT   VLB10              N05085799E115203393                                                                                 
+SASIEAENRT   VLB21              N05094864E115083141                                                                                 
+SASIEAENRT   VLB51              N05234363E115225402                                                                                 
+SASIEAENRT   VLB57              N05080863E115190132                                                                                 
+SASIEAENRT   VMI43              N04044900E114401400                                                                                 
+SASIDB       AKI     000250     N04374900E114221800                                                                                 
+SASIDB       BR      000318     N04535667E114540468                                                                                 
+SASIDB       LAB     000260     N05170410E115151820                                                                                 
+SASID        BRU     011200V    N04522852E114530777                                                                                 
+SASID        VLB     011630V    N05172400E115150620                                                                                 
+SASID        VLG     011340V    N04475020E115000839                                                                                 
+SASID        BE      010890 D   N04555849E114551270                                                                                 
+SASID        BI      010970 D   N04572266E114560264                                                                                 
+SASID        BRU     011200 D   N04522852E114530777                                                                                 
+SASID        VLB     011630 D   N05172400E115150620                                                                                 
+SASID        VLG     011340 D   N04475020E115000839                                                                                 
+SASIER       B583        0010BRU    D       O                                      10000     46000                                  
+SASIER       B583        0020BRU50WMEA      O                             0501     10000     46000                                  
+SASIER       R223        0010BRU    D       O                                      14000     46000                                  
+SASIER       R223        0020BUTAX  EA      O                             0263     14000     46000                                  
+SASIER       M768        0010BRU    D       O                                      06500     46000                                  
+SASIER       M768        0020DOGOG  EA      O                             0559     06500     46000                                  
+SASIER       G460        0010BRU    D       O                                      07000     46000                                  
+SASIER       G460        0020KADMOWMEA      O                             0603     07000     46000                                  
+SASIER       M759        0010BRU    D       O                                      06500     46000                                  
+SASIER       M759        0020OLKIT  EA      O                             1813     06500     46000                                  
+SASIER       M754        0010BRU    D       O                                      13500     46000                                  
+SASIER       M754        0020UKIBA  EA      O                             0278     13500     46000                                  
+SASIER       B348-       0010BRU    D       O                                      06500     46000                                  
+SASIER       B348-       0020VJN  WMD       O                             0920     06500     46000                                  
+SASIER       G580        0010BRU    D       O                                      06500     46000                                  
+SASIER       G580        0020VMI    D       O                             0623     06500     46000                                  
+SASIER       B592        0010BUTAX  EA      O                                      06500     46000                                  
+SASIER       B592        0020UDEROWMEA      O                             0380     06500     46000                                  
+SASIER       W452        0010BUTAX  EA      O                                      07000     24500                                  
+SASIER       W452        0020VZU16WMEA      O                             0087     07000     24500                                  
+SASIER       W441        0030VLB    D       O                             0130     13500     46000                                  
+SASIER       W451        0020VLG    D       O                             0903     04500     24500                                  
+SASIER       W450        0010VLG    D       O                                      04500     24500                                  
+SASIER       W450        0020VMI    D       O                             0663     04500     24500                                  
+SASIER       W449        0020VMI43  EA      O                             0434     04500     24500                                  
+SASIER       W449        0030VZU  WMD       O                             0080     09500     24500                                  

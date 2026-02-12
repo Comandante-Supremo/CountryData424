@@ -1,0 +1,843 @@
+SEUREAENRT   4711E LO           N47351310E0114400100                                                                                
+SEUREAENRT   4812E LO           N47362055E012115553                                                                                 
+SEUREAENRT   ABINN LO           N47222400E0112753100                                                                                
+SEUREAENRT   ABIRI LO           N46454501E014580326                                                                                 
+SEUREAENRT   ABRUK LO           N47225927E015002387                                                                                 
+SEUREAENRT   ADILO LO           N47202610E010563120                                                                                 
+SEUREAENRT   ADLET LO           N48340336E014175742                                                                                 
+SEUREAENRT   AKIMA LO           N48244737E013183721                                                                                 
+SEUREAENRT   ALGOI LO           N47265073E010291921                                                                                 
+SEUREAENRT   ALMER LO           N48010661E014195585                                                                                 
+SEUREAENRT   ARTUS LO           N47310790E012152087                                                                                 
+SEUREAENRT   BAGSI LO           N48032815E014172298                                                                                 
+SEUREAENRT   BALAD LO           N47460000E0161412100                                                                                
+SEUREAENRT   BARUG LO           N47534855E015211994                                                                                 
+SEUREAENRT   BARUV LO           N47533956E015285089                                                                                 
+SEUREAENRT   BERAS LO           N47213372E011461047                                                                                 
+SEUREAENRT   BERTA LO           N46265895E014373085                                                                                 
+SEUREAENRT   BIRGI LO           N47205200E011562600                                                                                 
+SEUREAENRT   BRENO LO           N46584710E011223600                                                                                 
+SEUREAENRT   BRK63 LO           N48063714E016343685                                                                                 
+SEUREAENRT   BRK94 LO           N48072848E016320484                                                                                 
+SEUREAENRT   DEGAB LO           N48422046E013555338                                                                                 
+SEUREAENRT   DENUX LO           N48041333E015525038                                                                                 
+SEUREAENRT   DILIT LO           N48533774E015202926                                                                                 
+SEUREAENRT   DITIS LO           N48535287E015065890                                                                                 
+SEUREAENRT   DIVAL LO           N47331767E016074671                                                                                 
+SEUREAENRT   ELKAT LO           N46592760E013541984                                                                                 
+SEUREAENRT   ENOGO LO           N46484710E0110342100                                                                                
+SEUREAENRT   ERKIR LO           N47321600E012003200                                                                                 
+SEUREAENRT   ESEGA LO           N48174720E013105329                                                                                 
+SEUREAENRT   FRE45 LO           N48253632E015152149                                                                                 
+SEUREAENRT   GAMLI LO           N47542401E014464400                                                                                 
+SEUREAENRT   GASNA LO           N47241510E0121122100                                                                                
+SEUREAENRT   GIMBO LO           N48433131E014463299                                                                                 
+SEUREAENRT   GIMOS LO           N46501360E010434210                                                                                 
+SEUREAENRT   GISPO LO           N48055567E016074632                                                                                 
+SEUREAENRT   GOGEM LO           N47010510E011313500                                                                                 
+SEUREAENRT   GOLVA LO           N46422853E015390520                                                                                 
+SEUREAENRT   GOTAR LO           N46595237E016132915                                                                                 
+SEUREAENRT   GRZ40 LO           N47293609E014521628                                                                                 
+SEUREAENRT   GRZNB LO           N46551436E015273223                                                                                 
+SEUREAENRT   HAMAG LO           N48131230E013511492                                                                                 
+SEUREAENRT   INTEX LO           N47105610E0095134100                                                                                
+SEUREAENRT   ISTRI LO           N46295299E013573380                                                                                 
+SEUREAENRT   KFT25 LO           N46543173E014093466                                                                                 
+SEUREAENRT   KLAGY LO           N46305148E014463061                                                                                 
+SEUREAENRT   KOGEX LO           N47064769E015171341                                                                                 
+SEUREAENRT   KOVEL LO           N48420210E0153548100                                                                                
+SEUREAENRT   KPT23 LO           N47231200E010310000                                                                                 
+SEUREAENRT   KTI04 LO           N47164937E011000237                                                                                 
+SEUREAENRT   KTI05 LO           N47141097E010542829                                                                                 
+SEUREAENRT   KTI08 LO           N47180137E010525325                                                                                 
+SEUREAENRT   KUSAM LO           N47081310E0101654100                                                                                
+SEUREAENRT   LADAG LO           N48352033E015022798                                                                                 
+SEUREAENRT   LAMSI LO           N48391206E013350038                                                                                 
+SEUREAENRT   LANUX LO           N48531718E015365684                                                                                 
+SEUREAENRT   LEMSO LO           N47253610E0105139100                                                                                
+SEUREAENRT   LENIZ LO           N46472977E015294169                                                                                 
+SEUREAENRT   LEOBE LO           N47214928E015013707                                                                                 
+SEUREAENRT   LIMRA LO           N47543953E014265202                                                                                 
+SEUREAENRT   LIZUM LO           N47065425E011452173                                                                                 
+SEUREAENRT   LNZ01 LO           N48045943E014160416                                                                                 
+SEUREAENRT   LNZ08 LO           N48141394E014240336                                                                                 
+SEUREAENRT   LNZ10 LO           N48231065E014111944                                                                                 
+SEUREAENRT   LNZ11 LO           N48050642E014161782                                                                                 
+SEUREAENRT   LNZ17 LO           N48263553E013492561                                                                                 
+SEUREAENRT   LNZ20 LO           N48265606E014132320                                                                                 
+SEUREAENRT   LNZ24 LO           N48005174E014343656                                                                                 
+SEUREAENRT   LNZ35 LO           N47460760E014380926                                                                                 
+SEUREAENRT   LNZ41 LO           N48140622E014131035                                                                                 
+SEUREAENRT   LNZ42 LO           N47545008E014281017                                                                                 
+SEUREAENRT   LNZ53 LO           N47454548E014372590                                                                                 
+SEUREAENRT   LNZ60 LO           N48164545E0142630100                                                                                
+SEUREAENRT   LNZ67 LO           N48130110E013451616                                                                                 
+SEUREAENRT   LNZ70 LO           N48154994E014264963                                                                                 
+SEUREAENRT   LNZ71 LO           N48193333E013421409                                                                                 
+SEUREAENRT   LNZ79 LO           N48180530E014400171                                                                                 
+SEUREAENRT   LNZNB LO           N48141356E014191842                                                                                 
+SEUREAENRT   LOFER LO           N47385321E012351150                                                                                 
+SEUREAENRT   LOMRO LO           N47400000E0123548100                                                                                
+SEUREAENRT   LUGIM LO           N48110823E015063247                                                                                 
+SEUREAENRT   MABOD LO           N48342842E016412436                                                                                 
+SEUREAENRT   MAGIT LO           N48030500E013320499                                                                                 
+SEUREAENRT   MASUR LO           N48311236E015262144                                                                                 
+SEUREAENRT   MATAR LO           N46583000E0111511100                                                                                
+SEUREAENRT   MATIG LO           N48033093E013322938                                                                                 
+SEUREAENRT   MILGO LO           N47180616E015052994                                                                                 
+SEUREAENRT   MORED LO           N47523487E013005564                                                                                 
+SEUREAENRT   MOTIX LO           N48190660E014350830                                                                                 
+SEUREAENRT   MUREG LO           N46422121E015482566                                                                                 
+SEUREAENRT   NAKUM LO           N46433009E014210472                                                                                 
+SEUREAENRT   NAMAG LO           N48131230E013511493                                                                                 
+SEUREAENRT   NANIT LO           N47233487E012204717                                                                                 
+SEUREAENRT   NATAG LO           N46512900E010370800                                                                                 
+SEUREAENRT   NEMAL LO           N47550500E0132953100                                                                                
+SEUREAENRT   NERDU LO           N48285340E016055734                                                                                 
+SEUREAENRT   NIDLO LO           N46481203E015594083                                                                                 
+SEUREAENRT   NIGSI LO           N47220901E0160209100                                                                                
+SEUREAENRT   NIMDU LO           N47101916E014465765                                                                                 
+SEUREAENRT   NIPEL LO           N46292210E014015735                                                                                 
+SEUREAENRT   NOKDA LO           N46512022E013302925                                                                                 
+SEUREAENRT   NORIN LO           N47231355E011231835                                                                                 
+SEUREAENRT   NORPA LO           N48294800E0162505100                                                                                
+SEUREAENRT   NORTO LO           N47155888E011150656                                                                                 
+SEUREAENRT   OBEDI LO           N47194043E013194709                                                                                 
+SEUREAENRT   OEJ00 LO           N47185221E011360872                                                                                 
+SEUREAENRT   OEJ04 LO           N47172282E011304013                                                                                 
+SEUREAENRT   OEJ06 LO           N47163674E011275525                                                                                 
+SEUREAENRT   OEJ11 LO           N47144550E011210449                                                                                 
+SEUREAENRT   OEJ14 LO           N47133782E011165825                                                                                 
+SEUREAENRT   OEJ17 LO           N47123050E011125273                                                                                 
+SEUREAENRT   OEJ18 LO           N47120746E011112957                                                                                 
+SEUREAENRT   OEJ20 LO           N47114442E011084397                                                                                 
+SEUREAENRT   OEN11 LO           N48042117E016355297                                                                                 
+SEUREAENRT   OEV00 LO           N47153636E011211251                                                                                 
+SEUREAENRT   OEV01 LO           N47155282E011282081                                                                                 
+SEUREAENRT   OEV04 LO           N47164178E011265441                                                                                 
+SEUREAENRT   OEV05 LO           N47165832E011282013                                                                                 
+SEUREAENRT   OEV06 LO           N47171418E011294577                                                                                 
+SEUREAENRT   OEV07 LO           N47172966E011311109                                                                                 
+SEUREAENRT   OEV08 LO           N47174514E011323569                                                                                 
+SEUREAENRT   OEV10 LO           N47181827E011352561                                                                                 
+SEUREAENRT   OEV12 LO           N47184994E011381625                                                                                 
+SEUREAENRT   OEV14 LO           N47192234E011410761                                                                                 
+SEUREAENRT   OEV16 LO           N47195258E011435789                                                                                 
+SEUREAENRT   OEV17 LO           N47201166E011454085                                                                                 
+SEUREAENRT   OEV22 LO           N47212618E011523053                                                                                 
+SEUREAENRT   OEZ13 LO           N48201968E016291896                                                                                 
+SEUREAENRT   OEZ34 LO           N48192787E016294018                                                                                 
+SEUREAENRT   OEZ55 LO           N48011038E016374653                                                                                 
+SEUREAENRT   OGRUB LO           N47545692E013554812                                                                                 
+SEUREAENRT   OSPEN LO           N47290704E015313871                                                                                 
+SEUREAENRT   OTRES LO           N47012310E0104432100                                                                                
+SEUREAENRT   OTSIS LO           N47060267E010504367                                                                                 
+SEUREAENRT   PABSA LO           N48314177E013441730                                                                                 
+SEUREAENRT   PASAU LO           N48480900E0133903100                                                                                
+SEUREAENRT   PEREX LO           N47382230E013143753                                                                                 
+SEUREAENRT   PINKA LO           N47224000E015495000                                                                                 
+SEUREAENRT   PITAR LO           N47014500E010405000                                                                                 
+SEUREAENRT   PUBEG LO           N47304048E015394318                                                                                 
+SEUREAENRT   R1803 LO           N46584003E015263581                                                                                 
+SEUREAENRT   R1804 LO           N48064318E016345326                                                                                 
+SEUREAENRT   R1805 LO           N48051907E016352882                                                                                 
+SEUREAENRT   R1819 LO           N48140185E014122027                                                                                 
+SEUREAENRT   RASTA LO           N47294354E013225292                                                                                 
+SEUREAENRT   REKLU LO           N48351410E016561601                                                                                 
+SEUREAENRT   REKTI LO           N46350434E013535081                                                                                 
+SEUREAENRT   RENKA LO           N48350543E013301881                                                                                 
+SEUREAENRT   RTT04 LO           N47293833E011533501                                                                                 
+SEUREAENRT   RTT06 LO           N47295273E012025661                                                                                 
+SEUREAENRT   RTT08 LO           N47334169E012001533                                                                                 
+SEUREAENRT   RTT12 LO           N47363810E0120250100                                                                                
+SEUREAENRT   SIMBA LO           N48134855E013005694                                                                                 
+SEUREAENRT   SITNI LO           N48031522E014500461                                                                                 
+SEUREAENRT   SNU00 LO           N47523000E0161717100                                                                                
+SEUREAENRT   SNU10 LO           N47513630E016320659                                                                                 
+SEUREAENRT   SNU13 LO           N47511995E016363297                                                                                 
+SEUREAENRT   STO00 LO           N48250000E0160105100                                                                                
+SEUREAENRT   SUBEN LO           N48261136E013201242                                                                                 
+SEUREAENRT   SUDUX LO           N46564200E0110030100                                                                                
+SEUREAENRT   SUNIS LO           N47083076E016205860                                                                                 
+SEUREAENRT   TAGAS LO           N48023835E015391430                                                                                 
+SEUREAENRT   TEMTA LO           N48302700E0153948100                                                                                
+SEUREAENRT   TIRUL LO           N47105791E011532528                                                                                 
+SEUREAENRT   TOVKA LO           N48161258E016553475                                                                                 
+SEUREAENRT   TUTAL LO           N46570210E011040900                                                                                 
+SEUREAENRT   UMBIL LO           N47211195E015360421                                                                                 
+SEUREAENRT   UNIMI LO           N46513810E011035500                                                                                 
+SEUREAENRT   VELOM LO           N48131596E013295787                                                                                 
+SEUREAENRT   VENEN LO           N48335959E014322884                                                                                 
+SEUREAENRT   VENOG LO           N46571718E012163283                                                                                 
+SEUREAENRT   WGM00 LO           N48192310E0161929100                                                                                
+SEUREAENRT   WGM12 LO           N48071130E016350278                                                                                 
+SEUREAENRT   WGM15 LO           N48050501E016360015                                                                                 
+SEUREAENRT   WGM19 LO           N48011538E016374427                                                                                 
+SEUREAENRT   WGM21 LO           N47591345E016375525                                                                                 
+SEUREAENRT   WGM22 LO           N47582314E016390218                                                                                 
+SEUREAENRT   WGM29 LO           N48163948E016304364                                                                                 
+SEUREAENRT   WGM58 LO           N48135306E016315972                                                                                 
+SEUREAENRT   WGM74 LO           N47581914E016381724                                                                                 
+SEUREAENRT   WGM87 LO           N48110663E016331566                                                                                 
+SEUREAENRT   WO114 LO           N48071857E016315922                                                                                 
+SEUREAENRT   WW002 LO           N48021800E016471800                                                                                 
+SEUREAENRT   WW003 LO           N48005997E016511710                                                                                 
+SEUREAENRT   WW004 LO           N47594006E016551736                                                                                 
+SEUREAENRT   WW005 LO           N48032022E016580052                                                                                 
+SEUREAENRT   WW006 LO           N48043980E016535974                                                                                 
+SEUREAENRT   WW008 LO           N47560974E016524465                                                                                 
+SEUREAENRT   WW009 LO           N47572909E016484424                                                                                 
+SEUREAENRT   WW011 LO           N48134710E0161211100                                                                                
+SEUREAENRT   WW013 LO           N48150691E016081125                                                                                 
+SEUREAENRT   WW014 LO           N48162514E016040864                                                                                 
+SEUREAENRT   WW017 LO           N48113012E016053674                                                                                 
+SEUREAENRT   WW018 LO           N48124641E016013824                                                                                 
+SEUREAENRT   WW019 LO           N48200064E016064421                                                                                 
+SEUREAENRT   WW020 LO           N48184276E016104749                                                                                 
+SEUREAENRT   WW022 LO           N48021800E016471800                                                                                 
+SEUREAENRT   WW022 LO           N47554249E016392902                                                                                 
+SEUREAENRT   WW028 LO           N47524918E016404123                                                                                 
+SEUREAENRT   WW029 LO           N47495592E016415323                                                                                 
+SEUREAENRT   WW030 LO           N47470262E016430512                                                                                 
+SEUREAENRT   WW031 LO           N47535550E016463223                                                                                 
+SEUREAENRT   WW032 LO           N47510223E016474444                                                                                 
+SEUREAENRT   WW033 LO           N47480890E016485659                                                                                 
+SEUREAENRT   WW034 LO           N47444801E016385770                                                                                 
+SEUREAENRT   WW035 LO           N47473351E016381162                                                                                 
+SEUREAENRT   WW036 LO           N47502172E016372880                                                                                 
+SEUREAENRT   WW038 LO           N48220510E0162823100                                                                                
+SEUREAENRT   WW041 LO           N48201978E016352598                                                                                 
+SEUREAENRT   WW042 LO           N48172658E016363930                                                                                 
+SEUREAENRT   WW044 LO           N48260600E016325874                                                                                 
+SEUREAENRT   WW045 LO           N48245982E016270942                                                                                 
+SEUREAENRT   WW046 LO           N48262695E016240288                                                                                 
+SEUREAENRT   WW100 LO           N48052334E016380096                                                                                 
+SEUREAENRT   WW101 LO           N48012897E016364620                                                                                 
+SEUREAENRT   WW102 LO           N47594110E016280001                                                                                 
+SEUREAENRT   WW103 LO           N47552310E016071200                                                                                 
+SEUREAENRT   WW105 LO           N48071110E015564800                                                                                 
+SEUREAENRT   WW106 LO           N48091282E015462575                                                                                 
+SEUREAENRT   WW107 LO           N48144110E016373600                                                                                 
+SEUREAENRT   WW108 LO           N48004710E0165147100                                                                                
+SEUREAENRT   WW109 LO           N47434110E016493600                                                                                 
+SEUREAENRT   WW110 LO           N48071303E016322598                                                                                 
+SEUREAENRT   WW111 LO           N48063600E016262400                                                                                 
+SEUREAENRT   WW112 LO           N48065401E0161217100                                                                                
+SEUREAENRT   WW114 LO           N48025910E016161800                                                                                 
+SEUREAENRT   WW115 LO           N48005310E016024800                                                                                 
+SEUREAENRT   WW116 LO           N48004199E015220600                                                                                 
+SEUREAENRT   WW116 LO           N48004396E016220386                                                                                 
+SEUREAENRT   WW117 LO           N47474799E0154623100                                                                                
+SEUREAENRT   WW118 LO           N48033600E016274201                                                                                 
+SEUREAENRT   WW121 LO           N47544800E016265400                                                                                 
+SEUREAENRT   WW122 LO           N47464110E0163841100                                                                                
+SEUREAENRT   WW123 LO           N48123510E016322400                                                                                 
+SEUREAENRT   WW124 LO           N48035910E016360000                                                                                 
+SEUREAENRT   WW125 LO           N47594110E0163747100                                                                                
+SEUREAENRT   WW126 LO           N47574110E0163841100                                                                                
+SEUREAENRT   WW127 LO           N47451800E016434800                                                                                 
+SEUREAENRT   WW128 LO           N48012401E016325400                                                                                 
+SEUREAENRT   WW129 LO           N48011200E016301200                                                                                 
+SEUREAENRT   WW130 LO           N48002400E0162111100                                                                                
+SEUREAENRT   WW134 LO           N48044801E0161111100                                                                                
+SEUREAENRT   WW135 LO           N48093658E015385687                                                                                 
+SEUREAENRT   WW136 LO           N48144110E016373600                                                                                 
+SEUREAENRT   WW137 LO           N48075402E016342399                                                                                 
+SEUREAENRT   WW139 LO           N48051710E0162923100                                                                                
+SEUREAENRT   WW140 LO           N48044801E0163123100                                                                                
+SEUREAENRT   WW141 LO           N47515401E0163305100                                                                                
+SEUREAENRT   WW142 LO           N47461200E016392400                                                                                 
+SEUREAENRT   WW143 LO           N48043000E0162535100                                                                                
+SEUREAENRT   WW144 LO           N47561200E0163229100                                                                                
+SEUREAENRT   WW146 LO           N48140000E015374800                                                                                 
+SEUREAENRT   WW147 LO           N48073600E0153705100                                                                                
+SEUREAENRT   WW148 LO           N48013001E015362400                                                                                 
+SEUREAENRT   WW149 LO           N48015910E0151359100                                                                                
+SEUREAENRT   WW151 LO           N48060314E016355988                                                                                 
+SEUREAENRT   WW152 LO           N48172370E016393700                                                                                 
+SEUREAENRT   WW153 LO           N48040905E016414624                                                                                 
+SEUREAENRT   WW166 LO           N48060210E0163701100                                                                                
+SEUREAENRT   WW170 LO           N48262549E016385485                                                                                 
+SEUREAENRT   WW176 LO           N48155600E015380300                                                                                 
+SEUREAENRT   WW177 LO           N48093410E015371800                                                                                 
+SEUREAENRT   WW178 LO           N48024098E015362904                                                                                 
+SEUREAENRT   WW190 LO           N48332009E014455755                                                                                 
+SEUREAENRT   WW191 LO           N48323906E014592586                                                                                 
+SEUREAENRT   WW192 LO           N48315646E015125388                                                                                 
+SEUREAENRT   WW201 LO           N46592226E015510510                                                                                 
+SEUREAENRT   WW202 LO           N47143372E015582586                                                                                 
+SEUREAENRT   WW230 LO           N48083510E016122298                                                                                 
+SEUREAENRT   WW231 LO           N48060300E016122334                                                                                 
+SEUREAENRT   WW232 LO           N48055274E016221740                                                                                 
+SEUREAENRT   WW233 LO           N48015754E016193060                                                                                 
+SEUREAENRT   WW261 LO           N48030072E016451308                                                                                 
+SEUREAENRT   WW262 LO           N47543966E016343540                                                                                 
+SEUREAENRT   WW263 LO           N48010482E016175527                                                                                 
+SEUREAENRT   WW264 LO           N47561062E016191836                                                                                 
+SEUREAENRT   WW265 LO           N48013204E016325700                                                                                 
+SEUREAENRT   WW267 LO           N48041230E016355592                                                                                 
+SEUREAENRT   WW268 LO           N47591320E016380378                                                                                 
+SEUREAENRT   WW269 LO           N47590410E016422793                                                                                 
+SEUREAENRT   WW271 LO           N47592689E016405389                                                                                 
+SEUREAENRT   WW272 LO           N48113386E016471524                                                                                 
+SEUREAENRT   WW273 LO           N48070516E016163882                                                                                 
+SEUREAENRT   WW274 LO           N48043066E016160798                                                                                 
+SEUREAENRT   WW275 LO           N48013912E016142820                                                                                 
+SEUREAENRT   WW278 LO           N48065728E016525313                                                                                 
+SEUREAENRT   WW282 LO           N48052351E016200383                                                                                 
+SEUREAENRT   WW283 LO           N48023395E016175884                                                                                 
+SEUREAENRT   WW286 LO           N47555838E016295706                                                                                 
+SEUREAENRT   WW287 LO           N47540534E016301439                                                                                 
+SEUREAENRT   WW288 LO           N48091075E016094812                                                                                 
+SEUREAENRT   WW289 LO           N48013918E016142718                                                                                 
+SEUREAENRT   WW290 LO           N48091626E016115939                                                                                 
+SEUREAENRT   WW293 LO           N48065502E016282598                                                                                 
+SEUREAENRT   WW295 LO           N48054680E016271464                                                                                 
+SEUREAENRT   WW296 LO           N48043684E016281962                                                                                 
+SEUREAENRT   WW298 LO           N48054795E016123086                                                                                 
+SEUREAENRT   WW300 LO           N47572143E016193852                                                                                 
+SEUREAENRT   WW301 LO           N47525583E016001464                                                                                 
+SEUREAENRT   WW304 LO           N48080873E016341669                                                                                 
+SEUREAENRT   WW370 LO           N47524758E016251920                                                                                 
+SEUREAENRT   WW371 LO           N48142866E016400032                                                                                 
+SEUREAENRT   WW372 LO           N48165538E016423756                                                                                 
+SEUREAENRT   WW373 LO           N48104999E016474296                                                                                 
+SEUREAENRT   WW374 LO           N48282119E016274568                                                                                 
+SEUREAENRT   WW375 LO           N47581165E016293068                                                                                 
+SEUREAENRT   WW377 LO           N47584121E016264062                                                                                 
+SEUREAENRT   WW378 LO           N47554385E016232304                                                                                 
+SEUREAENRT   WW379 LO           N48013396E016221080                                                                                 
+SEUREAENRT   WW380 LO           N47592574E016073462                                                                                 
+SEUREAENRT   WW381 LO           N48052088E015525376                                                                                 
+SEUREAENRT   WW382 LO           N48085558E015553287                                                                                 
+SEUREAENRT   WW400 LO           N48164710E016510000                                                                                 
+SEUREAENRT   WW401 LO           N48181710E0161529100                                                                                
+SEUREAENRT   WW402 LO           N48205399E0160723100                                                                                
+SEUREAENRT   WW403 LO           N48162310E0160405100                                                                                
+SEUREAENRT   WW404 LO           N48115400E0160053100                                                                                
+SEUREAENRT   WW405 LO           N48091710E0160859100                                                                                
+SEUREAENRT   WW411 LO           N48073600E0164217100                                                                                
+SEUREAENRT   WW412 LO           N48271801E016340000                                                                                 
+SEUREAENRT   WW413 LO           N48260000E016264800                                                                                 
+SEUREAENRT   WW421 LO           N48000600E0165359100                                                                                
+SEUREAENRT   WW422 LO           N48043600E0165711100                                                                                
+SEUREAENRT   WW423 LO           N47553510E0165041100                                                                                
+SEUREAENRT   WW424 LO           N48023000E016300000                                                                                 
+SEUREAENRT   WW425 LO           N48112310E016363600                                                                                 
+SEUREAENRT   WW426 LO           N47541110E016335400                                                                                 
+SEUREAENRT   WW427 LO           N47594710E0163759100                                                                                
+SEUREAENRT   WW431 LO           N47531199E0164811100                                                                                
+SEUREAENRT   WW432 LO           N47515401E0164105100                                                                                
+SEUREAENRT   WW433 LO           N48073600E0164217100                                                                                
+SEUREAENRT   WW434 LO           N48174199E0163759100                                                                                
+SEUREAENRT   WW440 LO           N48205999E016430000                                                                                 
+SEUREAENRT   WW590 LO           N48074796E016442386                                                                                 
+SEUREAENRT   WW591 LO           N48065548E016470492                                                                                 
+SEUREAENRT   WW592 LO           N48003308E016390860                                                                                 
+SEUREAENRT   WW593 LO           N47594182E016414596                                                                                 
+SEUREAENRT   WW594 LO           N48031866E016442532                                                                                 
+SEUREAENRT   WW595 LO           N48061214E016353491                                                                                 
+SEUREAENRT   WW596 LO           N48072880E016313966                                                                                 
+SEUREAENRT   WW597 LO           N48063625E016293311                                                                                 
+SEUREAENRT   WW641 LO           N47592403E016445226                                                                                 
+SEUREAENRT   WW643 LO           N47513678E016320630                                                                                 
+SEUREAENRT   WW644 LO           N47581168E016382677                                                                                 
+SEUREAENRT   WW645 LO           N48043611E016354599                                                                                 
+SEUREAENRT   WW811 LO           N48135580E016115064                                                                                 
+SEUREAENRT   WW812 LO           N48160636E016050636                                                                                 
+SEUREAENRT   WW813 LO           N48181651E015582160                                                                                 
+SEUREAENRT   WW816 LO           N48174619E016301344                                                                                 
+SEUREAENRT   WW817 LO           N48213702E016283558                                                                                 
+SEUREAENRT   WW818 LO           N48262556E016263282                                                                                 
+SEUREAENRT   WW819 LO           N48311398E016242976                                                                                 
+SEUREAENRT   WW829 LO           N48020714E016475478                                                                                 
+SEUREAENRT   WW830 LO           N47595388E016543522                                                                                 
+SEUREAENRT   WW834 LO           N47554139E016392952                                                                                 
+SEUREAENRT   WW835 LO           N47505250E016412928                                                                                 
+SEUREAENRT   WW841 LO           N47543156E016503702                                                                                 
+SEUREAENRT   WW842 LO           N47564464E016435712                                                                                 
+SEUREAENRT   WW843 LO           N48010960E016303138                                                                                 
+SEUREAENRT   WW844 LO           N48071511E016151848                                                                                 
+SEUREAENRT   WW845 LO           N48092587E016083522                                                                                 
+SEUREAENRT   WW846 LO           N48134620E015550708                                                                                 
+SEUREAENRT   WW847 LO           N47554638E016263972                                                                                 
+SEUREAENRT   WW849 LO           N48042238E016575502                                                                                 
+SEUREAENRT   WW850 LO           N48110162E016375010                                                                                 
+SEUREAENRT   WW851 LO           N48191691E016292364                                                                                 
+SEUREAENRT   WW852 LO           N48182562E016150660                                                                                 
+SEUREAENRT   WW853 LO           N48224669E016013666                                                                                 
+SEUREAENRT   WW871 LO           N48183629E016124392                                                                                 
+SEUREAENRT   WW872 LO           N47582910E016211896                                                                                 
+SEUREAENRT   WW874 LO           N48292436E016422760                                                                                 
+SEUREAENRT   WW875 LO           N48145784E016483054                                                                                 
+SEUREAENRT   WW876 LO           N48013264E016541248                                                                                 
+SEUREAENRT   WW880 LO           N48322963E016314410                                                                                 
+SEUREAENRT   WW881 LO           N48274704E016334662                                                                                 
+SEUREAENRT   WW882 LO           N48225844E016354866                                                                                 
+SEUREAENRT   WW883 LO           N48161740E016383900                                                                                 
+SEUREAENRT   WW884 LO           N48132010E016395166                                                                                 
+SEUREAENRT   WW885 LO           N47595519E016452778                                                                                 
+SEUREAENRT   WW886 LO           N47570180E016463948                                                                                 
+SEUREAENRT   WW887 LO           N47472376E016503750                                                                                 
+SEUREAENRT   WW889 LO           N48042814E016464307                                                                                 
+SEUREAENRT   WW890 LO           N48000157E016500792                                                                                 
+SEUREAENRT   WW892 LO           N47444296E016362034                                                                                 
+SEUREAENRT   WW893 LO           N47542046E016321986                                                                                 
+SEUREAENRT   WW894 LO           N48000696E016295484                                                                                 
+SEUREAENRT   WW895 LO           N48295184E016171578                                                                                 
+SEUREAENRT   WW896 LO           N48201512E016212280                                                                                 
+SEUREAENRT   WW901 LO           N47445852E015525230                                                                                 
+SEUREAENRT   WW902 LO           N47441098E015520198                                                                                 
+SEUREAENRT   XANUT LO           N47065857E015544277                                                                                 
+SEURDB       AB    LO000313     N47172310E011300600                                                                                 
+SEURDB       BRK   LO000408     N48034652E016430029                                                                                 
+SEURDB       GBG   LO000426     N46531316E015480115                                                                                 
+SEURDB       GRZ   LO000290     N46551436E015273223                                                                                 
+SEURDB       INN   LO000420     N47134803E011240675                                                                                 
+SEURDB       KW    LO000405     N46400291E014130571                                                                                 
+SEURDB       KFT   LO000374     N46373054E014320299                                                                                 
+SEURDB       KTI   LO000413     N47125594E011014022                                                                                 
+SEURDB       LNZ   LO000327     N48141356E014191842                                                                                 
+SEURDB       RTT   LO000303     N47255132E011562419                                                                                 
+SEURDB       SI    LO000410     N47490610E012591568                                                                                 
+SEURDB       WO    LO000303     N48085073E016272733                                                                                 
+SEURDB       STE   LO000293     N48123822E016144969                                                                                 
+SEURDB       TUN   LO000358     N48183310E0155851100                                                                                
+SEURDB       TF    LO000315     N47502759E016165423                                                                                 
+SEURDB       ZW    LO000418     N47115300E014452400                                                                                 
+SEURD        FMD   LO011040V    N48061841E016374535                                                                                 
+SEURD        FRE   LO011350V    N48255441E014074739                                                                                 
+SEURD        GRZ   LO011620V    N46571932E015265795                                                                                 
+SEURD        KFT   LO011310V    N46355130E014334435                                                                                 
+SEURD        LNZ   LO011660V    N48134696E014061136                                                                                 
+SEURD        SNU   LO011550V    N47522955E016171837                                                                                 
+SEURD        STO   LO011300V    N48250169E016010694                                                                                 
+SEURD        TUN   LO011140V    N48183410E0155850100                                                                                
+SEURD        VIW   LO011290V    N46414701E013545272                                                                                 
+SEURD        WGM   LO011220V    N48192588E016292743                                                                                 
+SEURD        OEG   LO011090 D   N46584871E015262573                                                                                 
+SEURD        OEJ   LO010970 D   N47185221E011360872                                                                                 
+SEURD        OEJ   LO010970 D   N47185221E011360872                                                                                 
+SEURD        OEV   LO011110 D   N47153636E011211251                                                                                 
+SEURD        OEV   LO011110 D   N47153636E011211251                                                                                 
+SEURD        OEK   LO011010 D   N46381875E014210040                                                                                 
+SEURD        OEM   LO011055 D   N48140295E014102790                                                                                 
+SEURD        OEL   LO010930 D   N48140606E014120542                                                                                 
+SEURD        OES   LO010990 D   N47480339E013000466                                                                                 
+SEURD        OEW   LO011030 D   N48071336E016320960                                                                                 
+SEURD        OEZ   LO010850 D   N48070315E016345299                                                                                 
+SEURD        OEX   LO010955 D   N48063189E016341754                                                                                 
+SEURD        OEN   LO010810 D   N48052885E016353248                                                                                 
+SEURD        FMD   LO011040 D   N48061841E016374535                                                                                 
+SEURD        FRE   LO011350 D   N48255441E014074739                                                                                 
+SEURD        GRZ   LO011620 D   N46571932E015265795                                                                                 
+SEURD        KFT   LO011310 D   N46355188E014334448                                                                                 
+SEURD        LNZ   LO011660 D   N48134689E014061195                                                                                 
+SEURD        SNU   LO011550 D   N47522955E016171837                                                                                 
+SEURD        STO   LO011300 D   N48250151E016010753                                                                                 
+SEURD        TUN   LO011140 D   N48183410E0155850100                                                                                
+SEURD        VIW   LO011290 D   N46414701E013545272                                                                                 
+SEURD        WGM   LO011220 D   N48192610E016292691                                                                                 
+SEURER       UL851       0310LNZ  LOD       O                                      24500     60000                                  
+SEURER       UL851       0320SITNILOEA      O                             0311     24500     60000                                  
+SEURER       P994        0010ARTUSLOEA      O                                      07000     24500                                  
+SEURER       P994        00204812ELOEA      O                             0057     07000     24500                                  
+SEURER       P994        0030TURBUEDEA      O                             0081     10000     66000                                  
+SEURER       P994        0050VENOGLOEA      O                             0091     14500     24500                                  
+SEURER       T23         0030NIDLOLOEA      RL                            0190     04000     24500                                  
+SEURER       T23         0040GBG  LOD       RL                            0094     09000     24500                                  
+SEURER       T23         0050GRZ  LOD       RL                            0150     14500     24500                                  
+SEURER       T23         0060BIRGILOEA      RL                            1452     09000     24000                                  
+SEURER       T23         0070BERASLOEA      RL                            0070     09000     24000                                  
+SEURER       T23         0080NORINLOEA      RL                            0156     15000     24500                                  
+SEURER       N739        0060GOTARLOEA      O                             1289     04000     24500                                  
+SEURER       N739        0070KOGEXLOEA      O                             0390     05500     24500                                  
+SEURER       N739        0080OBEDILOEA      O                             0808     11500     24500                                  
+SEURER       Y571        0040SNU  LOD       O                             0362     08000     24500                                  
+SEURER       L856        0060GISPOLOEA      O                                      06000     24500                                  
+SEURER       L856        0070DENUXLOEA      O                             0101     06000     24500                                  
+SEURER       L856        0080TAGASLOEA      O                             0092     05500     24500                                  
+SEURER       L856        0090SITNILOEA      O                             0329     05500     24500                                  
+SEURER       L856        0100BAGSILOEA      O                             0219     04500     24500                                  
+SEURER       L856        0110MATIGLOEA      O                             0300     04500     24500                                  
+SEURER       L856        0120SBG  EDD       O                             0263     04500     24500                                  
+SEURER       Q102        0010RTT  LOD       RH                                     14500     24500                                  
+SEURER       Q102        0020VIW  LOD       RH                            0920     14500     24500                                  
+SEURER       L605        0100GAMLILOEA      O                                      10500     24500                                  
+SEURER       L605        0110DIVALLOEA      O                             0585     10500     24500                                  
+SEURER       L605        0120STEINLHEA      O                             0205     05500     24500                                  
+SEURER       L605        0200VELOMLOEA      O                                      04500     24500                                  
+SEURER       L605        0210ESEGALOEA      O                             0135     05000     24000                                  
+SEURER       L605        0220EGG  EDD       O                             0183     05000     24000                                  
+SEURER       Z205        0050VENENLOEA      O                             0243     09500     24500                                  
+SEURER       M726        0060INN  LOD       O                                      09000     24500                                  
+SEURER       M726        0070BRENOLOEA      O                             0150     14500     19500                                  
+SEURER       M726        0080BZO  LID       O                             0311     14500     19500                                  
+SEURER       M726        0310NORINLOEA      O                             0141     12500     24000                                  
+SEURER       L604        0010BAGSILOEA      O                                      04500     24500                                  
+SEURER       L604        0020LNZ  LOD       O                             0127     04500     24500                                  
+SEURER       L604        0030PABSALOEA      O                             0231     08000     24000                                  
+SEURER       L604        0040LAMSILOEA      O                             0097     08000     24000                                  
+SEURER       L604        0050LALINEDEA      O                             0192     08000     24000                                  
+SEURER       L604        0160GRZ  LOD       O                                      07500     24500                                  
+SEURER       L604        0170KOGEXLOEA      O                             0116     07500     24500                                  
+SEURER       L604        0180MILGOLOEA      O                             0138     07500     24500                                  
+SEURER       L604        0190LEOBELOEA      O                             0046     09500     24500                                  
+SEURER       L604        0200GRZ40LOEA      O                             0100     09500     24500                                  
+SEURER       L604        0210LIMRALOEA      O                             0304     09500     24500                                  
+SEURER       M984        0090OSPENLOEA      O                             1388     14500     24500                                  
+SEURER       M984        0100PUBEGLOEA      O                             0057     05500     24500                                  
+SEURER       M736        0070LIZUMLOEA      O                             0093     11500     24500                                  
+SEURER       M736        0080BERASLOEA      O                             0147     11500     24500                                  
+SEURER       M736        0090TULSIEDEA      O                             0206     07000     24500                                  
+SEURER       L175        0060LAMSILOEA      O                                      05500     24000                                  
+SEURER       L175        0070VENENLOEA      O                             0384     05500     24000                                  
+SEURER       L175        0080STO  LOD       O                             0595     05000     24500                                  
+SEURER       L175        0090MAREGLZEA      O                             0403     05000     24500                                  
+SEURER       Y43         0010GOTARLOEA      O                                      04000     24500                                  
+SEURER       Y43         0020SOGMOLHEA      O                             0643     04000     24500                                  
+SEURER       L725        0010SNU  LOD       O                                      05000     24500                                  
+SEURER       L725        0020BARUVLOEA      O                             0325     05500     24500                                  
+SEURER       L725        0030GAMLILOEA      O                             0283     05500     24500                                  
+SEURER       L725        0040LIMRALOEA      O                             0133     05500     24500                                  
+SEURER       L725        0050NEMALLOEA      O                             0382     04500     24500                                  
+SEURER       L725        0060MOREDLOEA      O                             0196     05000     24500                                  
+SEURER       L725        0070CHIEMEDEA      O                             0228     05000     24500                                  
+SEURER       L608        0210VIW  LOD       O                             0225     14500     24500                                  
+SEURER       L608        0220ERKIRLOEA      O                             0928     07000     24500                                  
+SEURER       L608        0230KOGOLEDEA      O                             0264     07000     24500                                  
+SEURER       M749        0010FRE  LOD       O                                      05500     24500                                  
+SEURER       M749        0020FRE45LOEA      O                             0449     05500     24500                                  
+SEURER       M749        0030STO  LOD       O                             0304     05000     24500                                  
+SEURER       M749        0040FMD  LOD       O                             0308     05000     24500                                  
+SEURER       M749        0050GESGILHEA      O                             0171     05000     24500                                  
+SEURER       T703        0010FRE  LOD       RL                                     04500     24500                                  
+SEURER       T703        0020PASAULOEA      RL                            0293     08000     66000                                  
+SEURER       T703        0030BEPASEDEA      RL                            0080     08000     66000                                  
+SEURER       L868        0020BERTALOEA      O                             0229     11000     24500                                  
+SEURER       L868        0030KFT  LOD       O                             0093     11000     24500                                  
+SEURER       M725        0230GRZ  LOD       O                                      08000     24500                                  
+SEURER       M725        0240UMBILLOEA      O                             0247     08000     24500                                  
+SEURER       M725        0250PUBEGLOEA      O                             0098     05500     24500                                  
+SEURER       M725        0260DENUXLOEA      O                             0347     05500     24500                                  
+SEURER       M725        0270STO  LOD       O                             0215     06000     24500                                  
+SEURER       M725        0280LANUXLOEA      O                             0325     05500     24500                                  
+SEURER       L12         0140ENOGOLOEA      O                             0236     15500     19500                                  
+SEURER       L12         0150OTSISLOEA      O                             0194     20000     24500                                  
+SEURER       L12         0160KPT  EDD       O                             0437     14000     24000                                  
+SEURER       L603        0260KLAGYLOEA      O                                      10000     24500                                  
+SEURER       L603        0270KFT  LOD       O                             0101     09000     24500                                  
+SEURER       L603        0280ELKATLOEA      O                             0359     09000     24500                                  
+SEURER       L603        0290OBEDILOEA      O                             0310     14500     24500                                  
+SEURER       L603        0300UNKENEDEA      O                             0336     10000     24000                                  
+SEURER       Z209        0010BIRGILOEA      O                                      09000     24500                                  
+SEURER       Z209        0020INN  LOD       O                             0230     09000     24500                                  
+SEURER       Z209        0030KUSAMLOEA      O                                      19500     24500                                  
+SEURER       Z209        0040VEBEGLSEA      O                             0308     19500     24500                                  
+SEURER       M738        0030PITARLOEA      O                                      19500     24500                                  
+SEURER       M738        0040GIMOSLOEA      O                             0117     19500     24500                                  
+SEURER       M738        0050RENTALIEA      O                             0324     16500     19500                                  
+SEURER       M985        0120DIVALLOEA      O                                      05500     24500                                  
+SEURER       M985        0130PINKALOEA      O                             0161     05500     24500                                  
+SEURER       M985        0140NIMDULOEA      O                             0444     10500     24500                                  
+SEURER       M985        0150ELKATLOEA      O                             0375     14500     24500                                  
+SEURER       M985        0160MALUGLIEA      O                             0564     14500     24500                                  
+SEURER       T43         0030STO  LOD       RL                            0325     05000     24500                                  
+SEURER       L862        0150VIW  LOD       O                             0147     11000     24500                                  
+SEURER       Z37         0010STO  LOD       O                                      05500     24500                                  
+SEURER       Z37         0020MASURLOEA      O                             0239     05500     24500                                  
+SEURER       Z37         0030LADAGLOEA      O                             0164     05500     24500                                  
+SEURER       Z37         0040GIMBOLOEA      O                             0133     09500     24500                                  
+SEURER       Z37         0050BUDEXLKEA      O                             0219     09500     24500                                  
+SEURER       L610        0190RENKALOEA      O                             0181     05000     24000                                  
+SEURER       L610        0200PABSALOEA      O                             0099     04500     24500                                  
+SEURER       L610        0210FRE  LOD       O                             0166     04500     24500                                  
+SEURER       L610        0220MOTIXLOEA      O                             0194     04500     24500                                  
+SEURER       L610        0230LUGIMLOEA      O                             0224     05500     19500                                  
+SEURER       L610        0240TAGASLOEA      O                             0234     05500     24500                                  
+SEURER       L610        0250SNU  LOD       O                             0275     05500     24500                                  
+SEURER       T101        0020MATARLOEA      RL                            0308     15500     19500                                  
+SEURER       T101        0030NORTOLOEA      RL                            0175     20000     45000                                  
+SEURER       T101        0040OBAGAEDEA      RL                            0199     12000     66000                                  
+SEURER       L172        0040OBEDILOEA      O                                      01400     24500                                  
+SEURER       L172        0050VIW  LOD       O                             0448     01400     24500                                  
+SEURER       P995        0020LOMROLOEA      O                             0111     15000     24000                                  
+SEURER       L607        0300LIZUMLOEA      O                                      14500     24500                                  
+SEURER       L607        0310VENOGLOEA      O                             0233     14500     24500                                  
+SEURER       Q109        0010DEGABLOEA      RH                                     04500     66000                                  
+SEURER       Q109        0020VENENLOEA      RH                            0256     04500     66000                                  
+SEURER       P976        0020VIW  LOD       O                             0675     14500     24500                                  
+SEURER       M174        0020DILITLOEA      O                             0197     05500     24500                                  
+SEURER       M174        0030KOVELLOEA      O                             0154     05500     24500                                  
+SEURER       M174        0040STO  LOD       O                             0239     05500     24500                                  
+SEURER       M174        0050SNU  LOD       O                             0343     05500     24500                                  
+SEURER       M174        0060STEINLHEA      O                             0297     05500     24500                                  
+SEURER       Q108        0030DIVALLOEA      RH                            0415     06000     66000                                  
+SEURER       Q108        0040PUBEGLOEA      RH                            0191     05500     66000                                  
+SEURER       Y54         0010DIVALLOEA      O                                      05500     24500                                  
+SEURER       Y54         0020SASALLHEA      O                             0214     05500     24500                                  
+SEURER       L156        0020GOLVALOEA      O                             0282     05000     24500                                  
+SEURER       L156        0030GBG  LOD       O                             0124     05000     24500                                  
+SEURER       L156        0040XANUTLOEA      O                             0145     05500     24500                                  
+SEURER       L156        0050DIVALLOEA      O                             0278     05500     24500                                  
+SEURER       L156        0060SNU  LOD       O                             0203     05500     24500                                  
+SEURER       L156        0070WGM  LOD       O                             0282     05500     24500                                  
+SEURER       L156        0080LANUXLOEA      O                             0485     05500     24500                                  
+SEURER       P870        0040RASTALOEA      O                                      11500     24500                                  
+SEURER       P870        0050MILGOLOEA      O                             0705     11500     24500                                  
+SEURER       P870        0060SUNISLOEA      O                             0522     05500     24500                                  
+SEURER       L141        0070GRZ  LOD       O                                      08000     24500                                  
+SEURER       L141        0080RADLYLJEA      O                             0211     08000     24500                                  
+SEURER       L606        0010SUNISLOEA      O                                      04000     24500                                  
+SEURER       L606        0020SOGMOLHEA      O                             0634     04000     24500                                  
+SEURER       T161        0050LNZ  LOD       RL                                     04500     24500                                  
+SEURER       T161        0060SUBENLOEA      RL                            0330     04500     24500                                  
+SEURER       M19         0090GRZ  LOD       O                                      05000     24500                                  
+SEURER       M19         0100MUREGLOEA      O                             0210     05000     24500                                  
+SEURER       M19         0110RATGOLJEA      O                             0135     05000     24500                                  
+SEURER       Q101        0010GASNALOEA      RH                                     11500     28500                                  
+SEURER       Q101        0020LIMRALOEA      RH                            0962     11500     28500                                  
+SEURER       Q111        0030GBG  LOD       RH                            0146     05000     66000                                  
+SEURER       Q110        0040SNU  LOD       RH                            0269     05000     66000                                  
+SEURER       Y52         0010SUNISLOEA      O                                      04000     24500                                  
+SEURER       Y52         0020SIRDULHEA      O                             0406     04000     24500                                  
+SEURER       Q103        0010GISPOLOEA      RH                                     05000     24500                                  
+SEURER       Q103        0020TOVKALOEA      RH                            0335     05000     24500                                  
+SEURER       L604-       0010GRZ  LOD       O                                      06000     24500                                  
+SEURER       L604-       0020GOLVALOEA      O                             0170     06000     24500                                  
+SEURER       L604-       0030MIRSOLJEA      O                             0160     06000     24500                                  
+SEURER       L74         0100LIZUMLOEA      O                                      14500     24500                                  
+SEURER       L74         0110VIW  LOD       O                             0920     14500     24500                                  
+SEURER       Y570        0010GRZ  LOD       O                                      05500     24500                                  
+SEURER       Y570        0020GOTARLOEA      O                             0319     05500     24500                                  
+SEURER       Y570        0030SVR  LHD       O                             0783     04000     24500                                  
+SEURER       Y580        0010GOTARLOEA      O                                      04000     24500                                  
+SEURER       Y580        0020NALOXLHEA      O                             0256     04000     24500                                  
+SEURER       Y58         0010GOTARLOEA      O                                      04000     24500                                  
+SEURER       Y58         0020OLATILHEA      O                             0514     04000     24500                                  
+SEURER       Z210        0020GOTARLOEA      O                             0925     04000     24500                                  
+SEURER       Z210        0030XANUTLOEA      O                             0146     05500     24500                                  
+SEURER       P978        0020VIW  LOD       O                             0542     09000     24500                                  
+SEURER       P978        0030KFT  LOD       O                             0273     07500     24500                                  
+SEURER       P978        0040GRZ  LOD       O                             0423     07500     24500                                  
+SEURER       P978        0050PINKALOEA      O                             0298     05500     24500                                  
+SEURER       P978        0060SNU  LOD       O                             0351     05500     24500                                  
+SEURER       Q114        0010GRZ  LOD       RH                                     05500     66000                                  
+SEURER       Q114        0020SUNISLOEA      RH                            0385     05500     66000                                  
+SEURER       L173        0030KFT  LOD       O                                      10000     24500                                  
+SEURER       L173        0040KFT25LOEA      O                             0250     10000     24500                                  
+SEURER       L173        0050RASTALOEA      O                             0474     11500     24500                                  
+SEURER       L173        0060PEREXLOEA      O                             0103     07500     24500                                  
+SEURER       L173        0070MOREDLOEA      O                             0170     07500     24500                                  
+SEURER       L173        0080SBG  EDD       O                             0090     10000     24500                                  
+SEURER       L174        0020VELOMLOEA      O                             0271     04500     24000                                  
+SEURER       L174        0030LNZ  LOD       O                             0242     05500     24500                                  
+SEURER       L174        0040LUGIMLOEA      O                             0403     05500     24500                                  
+SEURER       Y703        0020LEMSOLOEA      O                             0282     11000     66000                                  
+SEURER       L858-       0010LANUXLOEA      O                                      09500     24500                                  
+SEURER       L858-       0020OKF  LKD       O                             0056     09500     24500                                  
+SEURER       Y704        0010LIZUMLOEA      O                                      11500     24500                                  
+SEURER       Y704        0020TIRULLOEA      O                             0068     11500     24500                                  
+SEURER       Y704        0030RTT  LOD       O                             0150     07000     24500                                  
+SEURER       Y704        0040RTT12LOEA      O                             0116     07000     24500                                  
+SEURER       Y704        0050TURBUEDEA      O                             0076     10000     66000                                  
+SEURER       Q115        0010LNZ  LOD       RH                                     04500     24500                                  
+SEURER       Q115        0020NEMALLOEA      RH                            0306     04500     24500                                  
+SEURER       M141        0020LNZ  LOD       O                             0504     04500     24500                                  
+SEURER       M141        0030STO  LOD       O                             0773     05500     24500                                  
+SEURER       M141        0040WGM  LOD       O                             0197     05000     24500                                  
+SEURER       M141        0050TOVKALOEA      O                             0177     03600     24500                                  
+SEURER       M141        0060OKR  LZD       O                             0148     03600     24500                                  
+SEURER       L859        0020WGM  LOD       O                             0282     05000     24500                                  
+SEURER       Y587        0030SUNISLOEA      O                             0253     04000     24500                                  
+SEURER       M138        0010PUBEGLOEA      O                                      05500     24500                                  
+SEURER       M138        0020SNU  LOD       O                             0334     05500     24500                                  
+SEURER       Y563        0020SUNISLOEA      O                             0977     04000     24500                                  
+SEURER       Y700        0020SIMBALOEA      O                             0145     05000     24500                                  
+SEURER       UP994       00104812ELOEA      O                                      24500     66000                                  
+SEURER       UP994       0020ARTUSLOEA      O                             0057     24500     66000                                  
+SEURER       UP994       0040VENOGLOEA      O                             0091     24500     66000                                  
+SEURER       UN606       0010PITARLOEA      O                                      24500     60000                                  
+SEURER       UN606       0020BZO22LIEA      O                             0210     19500     46000                                  
+SEURER       UT23        0030NIDLOLOEA      O                             0190     24500     60000                                  
+SEURER       UT23        0040GRZ  LOD       O                             0242     24500     60000                                  
+SEURER       UT23        0050BIRGILOEA      O                             1452     24500     60000                                  
+SEURER       UT23        0060BERASLOEA      O                             0070     24500     60000                                  
+SEURER       UT23        0070NORINLOEA      O                             0156     24500     60000                                  
+SEURER       UN739       0070GOTARLOEA      O                             1289     24500     66000                                  
+SEURER       UN739       0080OBEDILOEA      O                             1198     24500     60000                                  
+SEURER       UY571       0040SNU  LOD       O                             0362     24500     66000                                  
+SEURER       UL856       0070GISPOLOEA      O                             0341     24500     60000                                  
+SEURER       UL856       0080DENUXLOEA      O                             0101     24500     60000                                  
+SEURER       UL856       0090TAGASLOEA      O                             0092     24500     60000                                  
+SEURER       UL856       0100SITNILOEA      O                             0329     24500     60000                                  
+SEURER       UL856       0110BAGSILOEA      O                             0219     24500     60000                                  
+SEURER       UL856       0120MATIGLOEA      O                             0300     24500     60000                                  
+SEURER       UL856       0130SBG  EDD       O                             0263     24500     60000                                  
+SEURER       UL605       0110GAMLILOEA      O                                      24500     60000                                  
+SEURER       UL605       0120DIVALLOEA      O                             0585     24500     60000                                  
+SEURER       UL605       0130STEINLHEA      O                             0205     24500     60000                                  
+SEURER       UL605       0210VELOMLOEA      O                                      24500     66000                                  
+SEURER       UL605       0220ESEGALOEA      O                             0135     25000     66000                                  
+SEURER       UL605       0230EGG  EDD       O                             0183     25000     66000                                  
+SEURER       UM726       0210INN  LOD       O                                      24500     60000                                  
+SEURER       UM726       0220BRENOLOEA      O                             0150     19500     46000                                  
+SEURER       UM726       0230BZO  LID       O                             0311     19500     46000                                  
+SEURER       UL604       0010BAGSILOEA      O                                      24500     60000                                  
+SEURER       UL604       0020LNZ  LOD       O                             0127     24500     60000                                  
+SEURER       UL604       0030PABSALOEA      O                             0231     24500     66000                                  
+SEURER       UL604       0040LAMSILOEA      O                             0097     25000     66000                                  
+SEURER       UL604       0050LALINEDEA      O                             0192     25000     66000                                  
+SEURER       UL604       0180GRZ  LOD       O                                      24500     60000                                  
+SEURER       UL604       0190MILGOLOEA      O                             0254     24500     60000                                  
+SEURER       UL604       0200LIMRALOEA      O                             0449     24500     60000                                  
+SEURER       UM984       0030GISPOLOEA      O                             0449     24500     60000                                  
+SEURER       UM984       0040PUBEGLOEA      O                             0400     24500     60000                                  
+SEURER       UM984       0050OSPENLOEA      O                             0057     24500     60000                                  
+SEURER       UM984       0060DETSALIEA      O                             1388     19500     46000                                  
+SEURER       UZ907       0010LIZUMLOEA      O                                      19500     46000                                  
+SEURER       UZ907       0020BAKORLIEA      O                             0304     19500     46000                                  
+SEURER       UZ209       0030BIRGILOEA      O                                      24500     66000                                  
+SEURER       UZ209       0040INN  LOD       O                             0230     24500     66000                                  
+SEURER       UZ209       0050KUSAMLOEA      O                                      24500     66000                                  
+SEURER       UZ209       0060VEBEGLSEA      O                             0308     24500     66000                                  
+SEURER       UM985       0310DIVALLOEA      O                                      24500     60000                                  
+SEURER       UM985       0320PINKALOEA      O                             0161     24500     60000                                  
+SEURER       UM985       0330NIMDULOEA      O                             0444     24500     66000                                  
+SEURER       UM985       0340ELKATLOEA      O                             0375     24500     60000                                  
+SEURER       UM985       0350MALUGLIEA      O                             0564     24500     60000                                  
+SEURER       UM736       0080LIZUMLOEA      O                             0093     24500     66000                                  
+SEURER       UM736       0090BERASLOEA      O                             0147     24500     66000                                  
+SEURER       UM736       0100TULSIEDEA      O                             0206     24500     66000                                  
+SEURER       UL175       0070LAMSILOEA      O                                      24500     66000                                  
+SEURER       UL175       0080VENENLOEA      O                             0384     24500     66000                                  
+SEURER       UL175       0090STO  LOD       O                             0595     24500     66000                                  
+SEURER       UL175       0100MAREGLZEA      O                             0403     24500     66000                                  
+SEURER       UL850       0040GISPOLOEA      O                                      24500     66000                                  
+SEURER       UL850       0050BEGLALHEA      O                             0427     24500     66000                                  
+SEURER       UL850       0090DEGABLOEA      O                                      25000     66000                                  
+SEURER       UL850       0100PASAULOEA      O                             0125     25000     66000                                  
+SEURER       UL850       0110LALINEDEA      O                             0168     25000     66000                                  
+SEURER       UL725       0010SNU  LOD       O                                      24500     66000                                  
+SEURER       UL725       0020BARUVLOEA      O                             0325     24500     60000                                  
+SEURER       UL725       0030GAMLILOEA      O                             0283     24500     60000                                  
+SEURER       UL725       0040LIMRALOEA      O                             0133     24500     60000                                  
+SEURER       UL725       0050NEMALLOEA      O                             0382     24500     60000                                  
+SEURER       UL725       0060MOREDLOEA      O                             0196     25000     66000                                  
+SEURER       UL725       0070CHIEMEDEA      O                             0228     25000     66000                                  
+SEURER       UL603       0210KLAGYLOEA      O                                      24500     60000                                  
+SEURER       UL603       0220KFT  LOD       O                             0101     25000     60000                                  
+SEURER       UL603       0230ELKATLOEA      O                             0359     25000     60000                                  
+SEURER       UL603       0240OBEDILOEA      O                             0310     25000     60000                                  
+SEURER       UL603       0250UNKENEDEA      O                             0336     25000     66000                                  
+SEURER       UL610       0320RENKALOEA      O                             0181     25000     66000                                  
+SEURER       UL610       0330PABSALOEA      O                             0099     24500     60000                                  
+SEURER       UL610       0340FRE  LOD       O                             0166     24500     60000                                  
+SEURER       UL610       0350MOTIXLOEA      O                             0194     24500     60000                                  
+SEURER       UL610       0360LUGIMLOEA      O                             0224     24500     66000                                  
+SEURER       UL610       0370TAGASLOEA      O                             0234     24500     60000                                  
+SEURER       UL610       0380SNU  LOD       O                             0275     24500     60000                                  
+SEURER       UL608       0220ERKIRLOEA      O                             0264     24500     60000                                  
+SEURER       UL608       0230VIW  LOD       O                             0928     24500     60000                                  
+SEURER       UL608       0240TELSILJEA      O                             0225     24500     60000                                  
+SEURER       UM749       0010FMD  LOD       O                                      24500     66000                                  
+SEURER       UM749       0020GESGILHEA      O                             0171     24500     60000                                  
+SEURER       UM749       0130FRE  LOD       O                                      24500     60000                                  
+SEURER       UM749       0140FRE45LOEA      O                             0449     24500     60000                                  
+SEURER       UL868       0020BERTALOEA      O                             0229     24500     60000                                  
+SEURER       UL868       0030KFT  LOD       O                             0093     24500     46000                                  
+SEURER       UM725       0320GRZ  LOD       O                                      24500     66000                                  
+SEURER       UM725       0330UMBILLOEA      O                             0247     24500     66000                                  
+SEURER       UM725       0340PUBEGLOEA      O                             0098     24500     60000                                  
+SEURER       UM725       0350DENUXLOEA      O                             0347     24500     60000                                  
+SEURER       UM725       0360STO  LOD       O                             0215     24500     60000                                  
+SEURER       UM725       0370LANUXLOEA      O                             0325     24500     60000                                  
+SEURER       UL12        0020ENOGOLOEA      O                             0236     19500     46000                                  
+SEURER       UL12        0030OTSISLOEA      O                             0194     24500     60000                                  
+SEURER       UL12        0040KPT  EDD       O                             0437     25000     66000                                  
+SEURER       UM738       0070PITARLOEA      O                                      24500     46000                                  
+SEURER       UM738       0080GIMOSLOEA      O                             0117     24500     46000                                  
+SEURER       UM738       0090RENTALIEA      O                             0324     19500     46000                                  
+SEURER       UT43        0030STO  LOD       O                             0325     24500     60000                                  
+SEURER       UL862       0120VIW  LOD       O                             0147     24500     60000                                  
+SEURER       UZ37        0010STO  LOD       O                                      24500     66000                                  
+SEURER       UZ37        0020MASURLOEA      O                             0239     24500     66000                                  
+SEURER       UZ37        0030LADAGLOEA      O                             0164     24500     60000                                  
+SEURER       UZ37        0040GIMBOLOEA      O                             0133     24500     66000                                  
+SEURER       UZ37        0050BUDEXLKEA      O                             0219     24500     66000                                  
+SEURER       UZ205       0020VENENLOEA      O                             0243     24500     66000                                  
+SEURER       UL607       0180LIZUMLOEA      O                                      24500     66000                                  
+SEURER       UL607       0190VENOGLOEA      O                             0233     24500     66000                                  
+SEURER       UT101       0020MATARLOEA      O                             0308     19500     46000                                  
+SEURER       UL172       0030OBEDILOEA      O                                      24500     60000                                  
+SEURER       UL172       0040VIW  LOD       O                             0448     24500     60000                                  
+SEURER       UP995       0020LOMROLOEA      O                             0111     25000     66000                                  
+SEURER       UP976       0020VIW  LOD       O                             0675     24500     60000                                  
+SEURER       UP976       0030GRZ  LOD       O                             0649     24500     60000                                  
+SEURER       UM174       0020DILITLOEA      O                             0197     24500     66000                                  
+SEURER       UM174       0030KOVELLOEA      O                             0154     24500     66000                                  
+SEURER       UM174       0040STO  LOD       O                             0239     24500     66000                                  
+SEURER       UM174       0050SNU  LOD       O                             0343     24500     60000                                  
+SEURER       UM174       0060STEINLHEA      O                             0297     24500     60000                                  
+SEURER       UY54        0010DIVALLOEA      O                                      24500     66000                                  
+SEURER       UY54        0020SASALLHEA      O                             0214     24500     66000                                  
+SEURER       UL156       0010SNU  LOD       O                                      24500     60000                                  
+SEURER       UL156       0020DIVALLOEA      O                             0203     24500     60000                                  
+SEURER       UL156       0030XANUTLOEA      O                             0278     24500     60000                                  
+SEURER       UL156       0040GBG  LOD       O                             0145     24500     60000                                  
+SEURER       UL156       0050GOLVALOEA      O                             0124     24500     60000                                  
+SEURER       UL156       0060VALLULJEA      O                             0282     24500     60000                                  
+SEURER       UP870       0040RASTALOEA      O                                      24500     60000                                  
+SEURER       UP870       0050MILGOLOEA      O                             0705     24500     60000                                  
+SEURER       UP870       0060SUNISLOEA      O                             0522     24500     60000                                  
+SEURER       UL606       0050SUNISLOEA      O                                      24500     66000                                  
+SEURER       UL606       0060SOGMOLHEA      O                             0634     24500     66000                                  
+SEURER       UT19        0010ERKIRLOEA      O                                      24500     60000                                  
+SEURER       UT19        0020GRZ  LOD       O                             1445     24500     60000                                  
+SEURER       UM19        0150MUREGLOEA      O                             0135     24500     60000                                  
+SEURER       UM19        0160GRZ  LOD       O                             0210     24500     60000                                  
+SEURER       UL604       0010GOLVALOEA      O                                      24500     60000                                  
+SEURER       UL604       0020GRZ  LOD       O                             0170     24500     60000                                  
+SEURER       UB9-U       0010GOLVALOEA      O                                      24500     60000                                  
+SEURER       UB9-U       0020MIRSOLJEA      O                             0160     24500     60000                                  
+SEURER       UY570       0010GRZ  LOD       O                                      24500     60000                                  
+SEURER       UY570       0020GOTARLOEA      O                             0319     24500     60000                                  
+SEURER       UY570       0030SVR  LHD       O                             0783     24500     66000                                  
+SEURER       UY58        0010GOTARLOEA      O                                      24500     66000                                  
+SEURER       UY58        0020OLATILHEA      O                             0514     24500     66000                                  
+SEURER       UZ210       0010GOTARLOEA      O                                      24500     66000                                  
+SEURER       UZ210       0020PIDONLHEA      O                             0925     24500     66000                                  
+SEURER       UY43        0010GOTARLOEA      O                                      24500     66000                                  
+SEURER       UY43        0020SOGMOLHEA      O                             0643     24500     66000                                  
+SEURER       UP978       0020VIW  LOD       O                             0542     24500     60000                                  
+SEURER       UP978       0030KFT  LOD       O                             0273     24500     60000                                  
+SEURER       UP978       0040GRZ  LOD       O                             0423     24500     60000                                  
+SEURER       UP978       0050PINKALOEA      O                             0298     24500     60000                                  
+SEURER       UP978       0060SNU  LOD       O                             0351     24500     60000                                  
+SEURER       UL141       0010GRZ  LOD       O                                      24500     60000                                  
+SEURER       UL141       0020RADLYLJEA      O                             0211     24500     60000                                  
+SEURER       UM141       0040TOVKALOEA      O                             0148     24500     66000                                  
+SEURER       UM141       0050WGM  LOD       O                             0177     24500     60000                                  
+SEURER       UM141       0060STO  LOD       O                             0197     24500     60000                                  
+SEURER       UM141       0070LNZ  LOD       O                             0773     24500     60000                                  
+SEURER       UM141       0080SBG  EDD       O                             0504     24500     60000                                  
+SEURER       UL173       0010KFT  LOD       O                                      24500     60000                                  
+SEURER       UL173       0020RASTALOEA      O                             0724     24500     60000                                  
+SEURER       UL173       0030PEREXLOEA      O                             0103     24500     60000                                  
+SEURER       UL173       0040MOREDLOEA      O                             0170     24500     60000                                  
+SEURER       UL173       0050SBG  EDD       O                             0090     24500     66000                                  
+SEURER       UL174       0020VELOMLOEA      O                             0271     25000     66000                                  
+SEURER       UL174       0030LNZ  LOD       O                             0242     24500     60000                                  
+SEURER       UL174       0040LUGIMLOEA      O                             0403     24500     60000                                  
+SEURER       UL858       0010LANUXLOEA      O                                      24500     66000                                  
+SEURER       UL858       0020OKF  LKD       O                             0056     24500     66000                                  
+SEURER       UL74        0090LIZUMLOEA      O                                      24500     60000                                  
+SEURER       UL74        0100VIW  LOD       O                             0920     24500     60000                                  
+SEURER       UT161       0010LNZ  LOD       O                                      24500     60000                                  
+SEURER       UT161       0020SUBENLOEA      O                             0330     24500     60000                                  
+SEURER       UM138       0010PUBEGLOEA      O                                      24500     60000                                  
+SEURER       UM138       0020SNU  LOD       O                             0334     24500     60000                                  
+SEURER       UY563       0020SUNISLOEA      O                             0977     24500     66000                                  
+SEURER       UY700       0020SIMBALOEA      O                             0145     24500     60000                                  
+SEURER       UY52        0010SUNISLOEA      O                                      24500     66000                                  
+SEURER       UY52        0020SIRDULHEA      O                             0406     24500     66000                                  

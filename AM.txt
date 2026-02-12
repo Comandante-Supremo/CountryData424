@@ -1,0 +1,79 @@
+SEUREAENRT   ADANO UD           N39400000E0454959100                                                                                
+SEUREAENRT   ADILA UD           N39594800E0452941100                                                                                
+SEUREAENRT   ASGIR UD           N39462910E0450159100                                                                                
+SEUREAENRT   ASMIK UD           N40394100E0441359100                                                                                
+SEUREAENRT   GIDLA UD           N40454100E045075300                                                                                 
+SEUREAENRT   IRLAN UD           N39304100E045263800                                                                                 
+SEUREAENRT   MATAL UD           N40460610E0453007100                                                                                
+SEUREAENRT   NEGAN UD           N39451800E0450035100                                                                                
+SEUREAENRT   PAPOK UD           N38480500E0461936100                                                                                
+SEUREAENRT   REBGI UD           N40151000E044365900                                                                                 
+SEUREAENRT   SVN41 UD           N40222263E044440056                                                                                 
+SEUREAENRT   TABAS UD           N40500700E043495400                                                                                 
+SEUREAENRT   TALIN UD           N40230793E043532812                                                                                 
+SEUREAENRT   TIBLO UD           N40230800E0435327100                                                                                
+SEUREAENRT   ZVR01 UD           N40085310E044204800                                                                                 
+SEUREAENRT   ZVR05 UD           N40085310E0441535100                                                                                
+SEUREAENRT   ZVR12 UD           N40141200E0441535100                                                                                
+SEUREAENRT   ZVR13 UD           N40033637E044373459                                                                                 
+SEUREAENRT   ZVR24 UD           N39563411E044485503                                                                                 
+SEUREAENRT   ZVR45 UD           N40141200E044204800                                                                                 
+SEUREAENRT   ZVR65 UD           N40085310E044054800                                                                                 
+SEUREAENRT   ZVR85 UD           N40084973E044273774                                                                                 
+SEUREAENRT   ZVR88 UD           N40141200E044054800                                                                                 
+SEURDB       AND   UD001220     N39494896E044593295                                                                                 
+SEURDB       GM    UD000325     N40434367E043504887                                                                                 
+SEURDB       MGR   UD000787     N38562000E0462049100                                                                                
+SEURDB       SVN   UD000490     N40320335E044571715                                                                                 
+SEURDB       ST    UD000602     N41021010E044212228                                                                                 
+SEURDB       TLN   UD000442     N40230793E043532812                                                                                 
+SEURDB       ZR    UD000395     N40084909E044194158                                                                                 
+SEURDB       Z     UD000805     N40084941E044214421                                                                                 
+SEURDB       ER    UD000496     N40084533E044285682                                                                                 
+SEURD        GRM   UD011340V    N40434588E043505006                                                                                 
+SEURD        ZVR   UD011230V    N40084987E044220106                                                                                 
+SEURD        GRM   UD011340 D   N40434588E043505006                                                                                 
+SEURD        ZVR   UD011230 D   N40084987E044220106                                                                                 
+SEURER       A277        0040SVN  UDD       O                             0654     16000     19000                                  
+SEURER       B111        0040MATALUDEA      O                             0349     16000     19000                                  
+SEURER       B111        0050TABASUDEA      O                             0760     16000     19000                                  
+SEURER       B111        0060REBLOLTEA      O                             0067     14500     28500                                  
+SEURER       G482        0010GIDLAUDEA      O                                      18000     19000                                  
+SEURER       G482        0020BEDNIUGEA      O                             0331     10000     19500                                  
+SEURER       R317        0050MATALUDEA      O                             0827     16000     19000                                  
+SEURER       B140-       0020GIDLAUDEA      O                             0151     14000     19000                                  
+SEURER       B140-       0030SVN  UDD       O                             0158     14000     19000                                  
+SEURER       B232        0010TIBLOUDEA      O                                      16000     19000                                  
+SEURER       B232        0020GRM  UDD       O                             0207     17000     19000                                  
+SEURER       B232        0030TABASUDEA      O                             0064     17000     19000                                  
+SEURER       B232        0040TUNISUGEA      O                             0200     17000     19000                                  
+SEURER       B705        0010MATALUDEA      O                                      15000     19000                                  
+SEURER       B705        0020SVN  UDD       O                             0286     15000     19000                                  
+SEURER       B706        0010NEGANUDEA      O                                      13000     19500                                  
+SEURER       B706        0020NT   UBD       O                             0369     13000     19500                                  
+SEURER       B121        0010MGR  UDD       O                                      25000     60000                                  
+SEURER       B121        0020DASDAOIEA      O                             0292     25000     60000                                  
+SEURER       J45         0010ST   UDD       OH                                     13000     19000                                  
+SEURER       J45         0020SVN  UDD       OH                            0406     13000     19000                                  
+SEURER       J44         0010ST   UDD       OH                                     13000     19000                                  
+SEURER       J44         0020TUNISUGEA      OH                            0271     13000     19000                                  
+SEURER       UA277       0150SVN  UDD       O                             0654     20000     46000                                  
+SEURER       UB111       0040MATALUDEA      O                             0349     20000     46000                                  
+SEURER       UB111       0050TABASUDEA      O                             0760     20000     46000                                  
+SEURER       UB111       0060REBLOLTEA      O                             0067     28500     66000                                  
+SEURER       UG482       0030GIDLAUDEA      O                             0331     20000     46000                                  
+SEURER       UG161       0140REBGIUDEA      O                             0477     20000     46000                                  
+SEURER       UP567       0100MATALUDEA      O                                      28000     43000                                  
+SEURER       UP567       0110NETONUBEA      O                             1374     28000     43000                                  
+SEURER       UR661       0030REBGIUDEA      O                             0667     20000     46000                                  
+SEURER       UR654       0050MGR  UDD       O                             0478     28000     60000                                  
+SEURER       UR317       0050MATALUDEA      O                             0827     20000     46000                                  
+SEURER       UB140       0010SVN  UDD       O                                      14000     19000                                  
+SEURER       UB140       0020GIDLAUDEA      O                             0158     14000     19000                                  
+SEURER       UB140       0030KOTANUBEA      O                             0151     14000     19000                                  
+SEURER       UB232       0010TIBLOUDEA      O                                      20000     46000                                  
+SEURER       UB232       0020GRM  UDD       O                             0207     20000     46000                                  
+SEURER       UB232       0030TABASUDEA      O                             0064     20000     46000                                  
+SEURER       UB232       0040TUNISUGEA      O                             0200     20000     46000                                  
+SEURER       UB705       0010MATALUDEA      O                                      20000     46000                                  
+SEURER       UB705       0020SVN  UDD       O                             0286     20000     46000                                  

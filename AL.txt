@@ -1,0 +1,96 @@
+SEUREAENRT   ADDER LA           N40311510E020184600                                                                                 
+SEUREAENRT   AKIKA LA           N42320300E019361400                                                                                 
+SEUREAENRT   ALELU LA           N42284410E019510340                                                                                 
+SEUREAENRT   DOBAR LA           N41195800E0202940100                                                                                
+SEUREAENRT   GRIBA LA           N40282901E019371200                                                                                 
+SEUREAENRT   MAGGI LA           N41114810E0192250100                                                                                
+SEUREAENRT   NIKRO LA           N39395610E020071200                                                                                 
+SEUREAENRT   OVVER LA           N40320200E0200156100                                                                                
+SEUREAENRT   RETRA LA           N42134010E019200680                                                                                 
+SEUREAENRT   SKERD LA           N40034710E020300600                                                                                 
+SEUREAENRT   TR007 LA           N41342493E019394881                                                                                 
+SEUREAENRT   TR022 LA           N41253606E019430619                                                                                 
+SEUREAENRT   TRN01 LA           N41255798E019425993                                                                                 
+SEUREAENRT   TRN03 LA           N41275783E019424880                                                                                 
+SEUREAENRT   TRN05 LA           N41352726E019420695                                                                                 
+SEUREAENRT   TRN08 LA           N41170213E019443411                                                                                 
+SEUREAENRT   TRN11 LA           N41235856E019431659                                                                                 
+SEUREAENRT   TRN26 LA           N41365855E019332838                                                                                 
+SEUREAENRT   TRN33 LA           N41214174E019434209                                                                                 
+SEUREAENRT   TRN41 LA           N41382637E019375656                                                                                 
+SEUREAENRT   TRN48 LA           N41444460E019385468                                                                                 
+SEUREAENRT   TRN50 LA           N41200060E019440092                                                                                 
+SEUREAENRT   TRN53 LA           N41385699E019414737                                                                                 
+SEUREAENRT   TRN65 LA           N41312756E019422929                                                                                 
+SEUREAENRT   TRN69 LA           N41120467E019452931                                                                                 
+SEUREAENRT   TRN73 LA           N41085920E019443409                                                                                 
+SEUREAENRT   TRN80 LA           N41115817E019421129                                                                                 
+SEUREAENRT   TRN87 LA           N41120894E019400585                                                                                 
+SEUREAENRT   TUMBO LA           N40040110E020282200                                                                                 
+SEUREAENRT   UNDER LA           N41040510E019575600                                                                                 
+SEUREAENRT   VJOSA LA           N39585500E0202328100                                                                                
+SEURDB       KA    LA000380     N41220210E019434000                                                                                 
+SEURDB       A     LA000598     N41261500E0194314100                                                                                
+SEURDB       TR    LA000290     N41274763E019425092                                                                                 
+SEURD        TRN   LA011770V    N41245805E019430549                                                                                 
+SEURD        TRN   LA011770 D   N41245805E019430549                                                                                 
+SEURD        TR    LA011770 D   N41250510E019424200                                                                                 
+SEURER       W43         0040RETRALAEA      O                                      11000     28500                                  
+SEURER       W43         0050MAVARLWEA      O                             0630     11000     28500                                  
+SEURER       L604        0280RETRALAEA      O                             0102     10000     28500                                  
+SEURER       L604        0290TRN  LAD       O                             0517     11000     28500                                  
+SEURER       L604        0300UNDERLAEA      O                             0237     11000     28500                                  
+SEURER       A482        0080TRN  LAD       O                             0279     11000     28500                                  
+SEURER       W31         0080TRN  LAD       O                             0589     11000     28500                                  
+SEURER       W31         0090MAVARLWEA      O                             0395     02000     24500                                  
+SEURER       W41         0060DOBARLAEA      O                             0660     02000     24500                                  
+SEURER       W41         0070TR   LAD       O                             0360     11000     24500                                  
+SEURER       W62         0100GRIBALAEA      O                             0360     11000     28500                                  
+SEURER       W62         0110RODON  EA      O                             0636     11000     28500                                  
+SEURER       P127        0020DOBARLAEA      O                             0625     02000     24500                                  
+SEURER       P127        0030UNDERLAEA      O                             0287     11000     28500                                  
+SEURER       P127        0040GOKEL  EA      O                             0522     11000     28500                                  
+SEURER       M603        0030OVVERLAEA      O                             0473     11000     28500                                  
+SEURER       N141        0020DOBARLAEA      O                             1022     02000     24500                                  
+SEURER       P859        0010DOBARLAEA      O                                      02000     24500                                  
+SEURER       P859        0020PEP  LWD       O                             0430     02000     24500                                  
+SEURER       L611        0050MAGGILAEA      O                             0202     11000     28500                                  
+SEURER       L611        0060OVVERLAEA      O                             0496     11000     28500                                  
+SEURER       L611        0070TUMBOLAEA      O                             0345     11000     28500                                  
+SEURER       L611        0080YNN  LGD       O                             0272     11500     24500                                  
+SEURER       4E154       0020TR   LAD       O                             0252     11000     21000                                  
+SEURER       Z53         0020NIKROLAEA      O                             0135     10500     24500                                  
+SEURER       P92-U       0020MAGGILAEA      O                             0268     11000     28500                                  
+SEURER       P92-U       0030TRN  LAD       O                             0201     11000     28500                                  
+SEURER       UL604       0280RETRALAEA      O                                      28500     60000                                  
+SEURER       UL604       0290TRN  LAD       O                             0517     28500     60000                                  
+SEURER       UL604       0300UNDERLAEA      O                             0237     28500     60000                                  
+SEURER       UW33        0180TR   LAD       O                             0926     26000     46000                                  
+SEURER       UW33        0190RETRALAEA      O                             0489     26000     46000                                  
+SEURER       UW62        0240GRIBALAEA      O                             0360     25000     46000                                  
+SEURER       UW62        0250RODON  EA      O                             0636     25000     46000                                  
+SEURER       UM603       0140OVVERLAEA      O                                      28500     60000                                  
+SEURER       UM603       0150GOKEL  EA      O                             0473     19500     46000                                  
+SEURER       UL613       0130VJOSALAEA      O                             0855     28500     60000                                  
+SEURER       UL613       0140YNN  LGD       O                             0260     30500     46000                                  
+SEURER       UW43        0110RETRALAEA      O                             0630     28500     60000                                  
+SEURER       UL607       0280TRN  LAD       O                             0282     28500     60000                                  
+SEURER       UL607       0290PINDOLGEA      O                             0794     24500     46000                                  
+SEURER       UW31        0020TRN  LAD       O                             0589     28500     60000                                  
+SEURER       UW31        0030MAVARLWEA      O                             0395     24500     32500                                  
+SEURER       UR45        0040SKERDLAEA      O                             1092     31000     41000                                  
+SEURER       UN141       0020DOBARLAEA      O                             1022     26000     46000                                  
+SEURER       UP127       0020DOBARLAEA      O                             0625     24500     31500                                  
+SEURER       UP127       0030UNDERLAEA      O                             0287     28500     60000                                  
+SEURER       UP127       0040GOKEL  EA      O                             0522     28500     60000                                  
+SEURER       UW41        0020DOBARLAEA      O                             0660     24500     46000                                  
+SEURER       UW41        0030TR   LAD       O                             0360     28500     60000                                  
+SEURER       UW69        0020TR   LAD       O                             0790     31000     46000                                  
+SEURER       UL611       0050MAGGILAEA      O                             0202     28500     60000                                  
+SEURER       UL611       0060OVVERLAEA      O                             0496     28500     60000                                  
+SEURER       UL611       0070TUMBOLAEA      O                             0345     28500     60000                                  
+SEURER       UL611       0080YNN  LGD       O                             0272     24500     46000                                  
+SEURER       UZ53        0020NIKROLAEA      O                             0135     24500     46000                                  
+SEURER       UP92        0020MAGGILAEA      O                             0268     28500     60000                                  
+SEURER       UP92        0030TRN  LAD       O                             0201     28500     60000                                  
+SEURER       UL604       0020RETRALAEA      O                             0102     28500     45000                                  

@@ -1,0 +1,57 @@
+SSCAEAENRT   FLINY MY           N26395085W077531894                                                                                 
+SSCAEAENRT   HAANA MY           N26435283W077221070                                                                                 
+SSCAEAENRT   JAMAX MY           N26420430W078471870                                                                                 
+SSCAEAENRT   JAYEE MY           N24255578W077432463                                                                                 
+SSCAEAENRT   JEFRY MY           N24350203W077391066                                                                                 
+SSCAEAENRT   MRRSH MY           N26304078W077045939                                                                                 
+SSCAEAENRT   NICKO MY           N24592733W078104556                                                                                 
+SSCAEAENRT   PEKRE MY           N24441603W078054599                                                                                 
+SSCAEAENRT   PLUMA MY           N24441603W078054599                                                                                 
+SSCAEAENRT   SANNS MY           N24480256W077571741                                                                                 
+SSCAEAENRT   WOPOP MY           N26424097W078375311                                                                                 
+SSCAEAENRT   ZFP07 MY           N26330245W078423540                                                                                 
+SSCAEAENRT   ZFP24 MY           N26264493W078530547                                                                                 
+SSCAEAENRT   ZFP25 MY           N26283605W078541136                                                                                 
+SSCAEAENRT   ZFP26 MY           N26303578W078545484                                                                                 
+SSCAEAENRT   ZFP27 MY           N26321537W078443864                                                                                 
+SSCAEAENRT   ZFP34 MY           N26435075W078482239                                                                                 
+SSCAEAENRT   ZFP57 MY           N26310469W078474346                                                                                 
+SSCAEAENRT   ZFP77 MY           N26301753W078494663                                                                                 
+SSCAEAENRT   ZFPNB MY           N26310853W078462861                                                                                 
+SSCADB       NCZ   MY000245     N24421110W0774611100                                                                                
+SSCADB       ZFP   MY000209     N26310620W078463020                                                                                 
+SSCADB       BHF   MY000326     N26342480W078394870                                                                                 
+SSCADB       ZMH   MY000361     N26303910W0770436100                                                                                
+SSCAD        ZFP   MY011320V    N26331930W078415230                                                                                 
+SSCAD        ZTC   MY011290V    N26440510W077224500                                                                                 
+SSCAD        ZFP   MY011320 D   N26331930W078415230                                                                                 
+SSCAD        ZTC   MY011290 D   N26440510W077224500                                                                                 
+SSCAD        NCZ   MY011275 D   N24421110W0774611100                                                                                
+SSCAER       BR69V       0030ZFP  MYD       O                             0251     02000     60000                                  
+SSCAER       BR69V       0040JAMAXMYEA      O                             0100     03000     60000                                  
+SSCAER       BR69V       0050BENZI  EA      O                             0249     03000     60000                                  
+SSCAER       BR1L        0020BHF  MYD       O                             0717     02000     60000                                  
+SSCAER       BR1L        0030JOLTS  EA      O                             0388     02000     60000                                  
+SSCAER       BR63V       0040ZFP  MYD       O                             0100     02000     60000                                  
+SSCAER       BR62V       0030ZFP  MYD       O                             0270     04000     60000                                  
+SSCAER       BR10L       0010BHF  MYD       O                                      03000     60000                                  
+SSCAER       BR10L       0020HAANAMYEA      O                             0701     03000     60000                                  
+SSCAER       BR10L       0030ZMH  MYD       O                             0205     03000     60000                                  
+SSCAER       BR10L       0040ZGB    D       O                             0854     03000     60000                                  
+SSCAER       G437        0030JAYEEMYEA      O                             0314     05000     60000                                  
+SSCAER       G437        0040BRONO  EA      O                             0247     05000     60000                                  
+SSCAER       BR49V       0070NICKOMYEA      O                             0117     04000     60000                                  
+SSCAER       BR49V       0080ZQA    D       O                             0399     04000     60000                                  
+SSCAER       BR65V       0040ZFP  MYD       O                             0301     02000     60000                                  
+SSCAER       BR65V       0050LAUTH  EA      O                             0320     05000     60000                                  
+SSCAER       BR21V       0020ZFP  MYD       O                             0250     02000     60000                                  
+SSCAER       BR7L        0020ZFPNBMYEA      O                             0254     02000     60000                                  
+SSCAER       R628        0050PLUMAMYEA      O                             0362     08000     60000                                  
+SSCAER       R628        0060ZQANB  EA      O                             0386     06000     60000                                  
+SSCAER       BR64V       0030ZFP  MYD       O                             0170     02000     60000                                  
+SSCAER       BR66V       0020ZFP  MYD       O                             0252     02000     60000                                  
+SSCAER       BR71V       0020WOPOPMYEA      O                             0347     03000     60000                                  
+SSCAER       BR71V       0030ZFP  MYD       O                             0100     02000     60000                                  
+SSCAER       AR23        0030ZFP  MYD       O                             1811     24000     60000                                  
+SSCAER       AR24        0030ZFP  MYD       O                             2339     24000     60000                                  
+SSCAER       AR23-       0020ZFP  MYD       O                             1547     24000     60000                                  

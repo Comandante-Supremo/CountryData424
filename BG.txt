@@ -1,0 +1,327 @@
+SEUREAENRT   ALIVI LB           N43111310E0263844100                                                                                
+SEUREAENRT   AMTOV LB           N43100510E026092000                                                                                 
+SEUREAENRT   ARGES LB           N44045510E026493600                                                                                 
+SEUREAENRT   BALIK LB           N43403600E027180000                                                                                 
+SEUREAENRT   BANSO LB           N42094210E023365600                                                                                 
+SEUREAENRT   BELSI LB           N43240710E024020300                                                                                 
+SEUREAENRT   BGS11 LB           N42430078E027413092                                                                                 
+SEUREAENRT   BGS14 LB           N42352827E027323677                                                                                 
+SEUREAENRT   BGS16 LB           N42330327E027294623                                                                                 
+SEUREAENRT   BGS17 LB           N42330491E027293223                                                                                 
+SEUREAENRT   BGS23 LB           N42273516E027215174                                                                                 
+SEUREAENRT   BGS29 LB           N42321486E027282220                                                                                 
+SEUREAENRT   BGS38 LB           N42403178E027383471                                                                                 
+SEUREAENRT   BGS45 LB           N42310810E027264887                                                                                 
+SEUREAENRT   BGS57 LB           N42383405E027361571                                                                                 
+SEUREAENRT   BGS78 LB           N42254689E027250635                                                                                 
+SEUREAENRT   BGS95 LB           N42383804E027410456                                                                                 
+SEUREAENRT   BGSNB LB           N42373610E0273521100                                                                                
+SEUREAENRT   BULEN LB           N43450000E025490000                                                                                 
+SEUREAENRT   DELIN LB           N43075110E025095600                                                                                 
+SEUREAENRT   DILVO LB           N42183600E0235612100                                                                                
+SEUREAENRT   DOTAM LB           N42212400E0232424100                                                                                
+SEUREAENRT   EDADA LB           N42282810E0232402100                                                                                
+SEUREAENRT   ERDOM LB           N43310210E023172100                                                                                 
+SEUREAENRT   ERDON LB           N43264510E023175200                                                                                 
+SEUREAENRT   ESENA LB           N43013610E0265220100                                                                                
+SEUREAENRT   EVIVI LB           N41241000E023272000                                                                                 
+SEUREAENRT   GERGI LB           N42105910E0253118100                                                                                
+SEUREAENRT   GODEK LB           N43073600E0225921100                                                                                
+SEUREAENRT   GONGO LB           N43055300E0270156100                                                                                
+SEUREAENRT   INBOL LB           N43281410E0234812100                                                                                
+SEUREAENRT   KERAL LB           N42040400E0230105100                                                                                
+SEUREAENRT   LARAT LB           N42300600E0235215100                                                                                
+SEUREAENRT   LOMOS LB           N43495910E023150000                                                                                 
+SEUREAENRT   LUKOV LB           N43170410E0234821100                                                                                
+SEUREAENRT   MAVAD LB           N42031900E025133200                                                                                 
+SEUREAENRT   MOREK LB           N42173010E023190900                                                                                 
+SEUREAENRT   NAPET LB           N42171710E023002000                                                                                 
+SEUREAENRT   NISVA LB           N42582200E0224750100                                                                                
+SEUREAENRT   OGOTA LB           N43125100E023193600                                                                                 
+SEUREAENRT   OSTOV LB           N43465910E0234759100                                                                                
+SEUREAENRT   PENEV LB           N43015400E0234833100                                                                                
+SEUREAENRT   PIDOR LB           N42333800E0233921100                                                                                
+SEUREAENRT   PODIN LB           N42005610E0251333100                                                                                
+SEUREAENRT   R1830 LB           N43140040E027483540                                                                                 
+SEUREAENRT   R2525 LB           N42413873E023252359                                                                                 
+SEUREAENRT   RESLA LB           N43194210E023184600                                                                                 
+SEUREAENRT   RODOP LB           N41345910E0241059100                                                                                
+SEUREAENRT   ROVAM LB           N43090310E023482800                                                                                 
+SEUREAENRT   RULOT LB           N43384212E025340992                                                                                 
+SEUREAENRT   RUMEN LB           N42181710E024184800                                                                                 
+SEUREAENRT   SOF00 LB           N42415299E023221691                                                                                 
+SEUREAENRT   SOF01 LB           N42415298E023211181                                                                                 
+SEUREAENRT   SOF03 LB           N42415294E023194231                                                                                 
+SEUREAENRT   SOF04 LB           N42415287E023175653                                                                                 
+SEUREAENRT   SOF05 LB           N42415272E023152193                                                                                 
+SEUREAENRT   SOF06 LB           N42415614E023223337                                                                                 
+SEUREAENRT   SOF07 LB           N42411279E023333793                                                                                 
+SEUREAENRT   SOF10 LB           N42410151E023362808                                                                                 
+SEUREAENRT   SOF11 LB           N42404691E023400683                                                                                 
+SEUREAENRT   SOF12 LB           N42402877E023400308                                                                                 
+SEUREAENRT   SOF14 LB           N42333077E023462843                                                                                 
+SEUREAENRT   SOF15 LB           N42411203E023302156                                                                                 
+SEUREAENRT   SOF16 LB           N42413086E023260494                                                                                 
+SEUREAENRT   SOF18 LB           N42352043E023473222                                                                                 
+SEUREAENRT   SOF19 LB           N42344333E023471268                                                                                 
+SEUREAENRT   SOF22 LB           N42414145E023262032                                                                                 
+SEUREAENRT   SOF24 LB           N42402484E023425226                                                                                 
+SEUREAENRT   SOF32 LB           N42413618E023274137                                                                                 
+SEUREAENRT   SOF43 LB           N42413036E023291051                                                                                 
+SEUREAENRT   SOF54 LB           N42412452E023303966                                                                                 
+SEUREAENRT   SOF65 LB           N42411866E023320880                                                                                 
+SEUREAENRT   SOF76 LB           N42453083E023170333                                                                                 
+SEUREAENRT   SOF86 LB           N42410743E023345896                                                                                 
+SEUREAENRT   SOF88 LB           N42415277E023304139                                                                                 
+SEUREAENRT   SOF96 LB           N42404664E023361289                                                                                 
+SEUREAENRT   SOFNB LB           N42413110E023280000                                                                                 
+SEUREAENRT   SOMOV LB           N43420000E024510000                                                                                 
+SEUREAENRT   SUMEN LB           N43241110E0270911100                                                                                
+SEUREAENRT   SUNIB LB           N42530010E027464900                                                                                 
+SEUREAENRT   TAKAK LB           N43293910E026395600                                                                                 
+SEUREAENRT   TODRO LB           N42551200E023214600                                                                                 
+SEUREAENRT   TOTKA LB           N43122000E027070000                                                                                 
+SEUREAENRT   TUNVO LB           N43082100E025223600                                                                                 
+SEUREAENRT   USALI LB           N42180610E023384400                                                                                 
+SEUREAENRT   VANET LB           N42174010E023243700                                                                                 
+SEUREAENRT   VARNA LB           N43134535E027512387                                                                                 
+SEUREAENRT   WAK19 LB           N42312988E023445499                                                                                 
+SEUREAENRT   WAK43 LB           N42412633E023365945                                                                                 
+SEUREAENRT   WRN22 LB           N43153480E027470681                                                                                 
+SEUREAENRT   WRN24 LB           N43103805E027375054                                                                                 
+SEUREAENRT   WRN26 LB           N43103582E027361588                                                                                 
+SEUREAENRT   WRN47 LB           N43104281E027361198                                                                                 
+SEUREAENRT   WRN67 LB           N43130578E027580801                                                                                 
+SEUREAENRT   WRN76 LB           N43141177E027383832                                                                                 
+SEUREAENRT   WRN88 LB           N43151190E027370777                                                                                 
+SEUREAENRT   WRN99 LB           N43144798E027410357                                                                                 
+SEURDB       BOZ   LB000312     N42461200E0231127100                                                                                
+SEURDB       BU    LB000321     N42310800E0272645100                                                                                
+SEURDB       U     LB000465     N42351375E027321600                                                                                 
+SEURDB       BGS   LB000356     N42373610E0273521100                                                                                
+SEURDB       B     LB000335     N42331274E027293582                                                                                 
+SEURDB       DWN   LB000350     N43150000E027391500                                                                                 
+SEURDB       GO    LB000305     N43082710E025484700                                                                                 
+SEURDB       G     LB000335     N43091510E0254108100                                                                                
+SEURDB       O     LB000526     N43085186E025442676                                                                                 
+SEURDB       GRN   LB000284     N43094200E025364600                                                                                 
+SEURDB       P     LB000537     N42031675E024522572                                                                                 
+SEURDB       RUS   LB000415     N43385910E0255859100                                                                                
+SEURDB       SF    LB000529     N42421098E023181578                                                                                 
+SEURDB       S     LB000335     N42413910E023260800                                                                                 
+SEURDB       SOF   LB000350     N42413110E023280000                                                                                 
+SEURDB       F     LB000375     N42415717E023224482                                                                                 
+SEURDB       WAK   LB000490     N42353000E0234215100                                                                                
+SEURDB       W     LB000335     N43140434E027474747                                                                                 
+SEURDB       WN    LB000397     N43142845E027443226                                                                                 
+SEURDB       WR    LB000526     N43132715E027542450                                                                                 
+SEURDB       R     LB000375     N43134535E027512387                                                                                 
+SEURD        BLO   LB011750V    N42400110E023485000                                                                                 
+SEURD        BGS   LB011200V    N42341580E027311150                                                                                 
+SEURD        GOL   LB011410V    N43054110E024131400                                                                                 
+SEURD        GRN   LB011360V    N43091400E0254238100                                                                                
+SEURD        KAL   LB011450V    N42565700E022523000                                                                                 
+SEURD        PDV   LB011490V    N42031110E0245233100                                                                                
+SEURD        SOF   LB011260V    N42415478E023232202                                                                                 
+SEURD        WRN   LB011240V    N43135300E0274901100                                                                                
+SEURD        ISL   LB011070 D   N42414874E023233391                                                                                 
+SEURD        BLO   LB011750 D   N42400110E023485000                                                                                 
+SEURD        BGS   LB011200 D   N42341580E027311150                                                                                 
+SEURD        GOL   LB011410 D   N43054110E024131400                                                                                 
+SEURD        GRN   LB011360 D   N43091400E0254238100                                                                                
+SEURD        KAL   LB011450 D   N42565700E022523000                                                                                 
+SEURD        PDV   LB011490 D   N42031110E0245233100                                                                                
+SEURD        SOF   LB011260 D   N42415478E023232202                                                                                 
+SEURD        WRN   LB011240 D   N43135300E0274901100                                                                                
+SEURD        SOF   LB011260 D   N42415210E0232321100                                                                                
+SEURER       N739        0090NISVALBEA      O                                      09100     28500                                  
+SEURER       N739        0100RAVAKLYEA      O                             0667     09100     28500                                  
+SEURER       B27         0050WRN  LBD       O                             0185     04500     24500                                  
+SEURER       B27         0060TOTKALBEA      O                             0307     04500     24500                                  
+SEURER       B27         0130GOL  LBD       O                                      07500     24500                                  
+SEURER       B27         0140DELINLBEA      O                             0415     07500     24500                                  
+SEURER       B27         0150GRN  LBD       O                             0239     07500     24500                                  
+SEURER       L605        0070BULENLBEA      O                                      10500     24500                                  
+SEURER       L605        0080VALPALREA      O                             0314     10500     24500                                  
+SEURER       W10         0510PDV  LBD       O                                      08500     24500                                  
+SEURER       W10         0520MAVADLBEA      O                             0156     08500     24500                                  
+SEURER       W10         0530VADENLTEA      O                             0887     08500     24500                                  
+SEURER       N133        0010LOMOSLBEA      O                                      10500     24500                                  
+SEURER       N133        0020DIROMLREA      O                             0581     10500     24500                                  
+SEURER       N133        0260EVIVILBEA      O                                      10500     24500                                  
+SEURER       N133        0270PEREN  EA      O                             0537     10500     24500                                  
+SEURER       UP975       0010BULENLBEA      O                                      24500     60000                                  
+SEURER       UP975       0020SUMENLBEA      O                             0618     24500     60000                                  
+SEURER       UP975       0030WRN  LBD       O                             0308     24500     60000                                  
+SEURER       UP975       0040ODERO  EA      O                             1139     28500     66000                                  
+SEURER       Z117        0010BALIKLBEA      O                                      04500     24500                                  
+SEURER       Z117        0020WRN  LBD       O                             0350     04500     24500                                  
+SEURER       Y43         0040KAL  LBD       O                                      20500     24500                                  
+SEURER       Y43         0050POLANLYEA      O                             1190     20500     24500                                  
+SEURER       N131        0010BANSOLBEA      O                                      11500     24500                                  
+SEURER       N131        0020RODOPLBEA      O                             0430     11500     24500                                  
+SEURER       N131        0130NISVALBEA      O                             0481     09100     28500                                  
+SEURER       W25         0060BGS  LBD       O                                      04500     24500                                  
+SEURER       W25         0070OMORI  EA      O                             0232     04500     24500                                  
+SEURER       W27         0320EVIVILBEA      O                                      12500     24500                                  
+SEURER       W27         0330VANETLBEA      O                             0536     12500     24500                                  
+SEURER       W27         0340DOTAMLBEA      O                             0037     12500     24500                                  
+SEURER       W27         0350EDADALBEA      O                             0071     12500     24500                                  
+SEURER       W27         0360SOF  LBD       O                             0134     08500     24500                                  
+SEURER       W27         0370TODROLBEA      O                             0134     08500     24500                                  
+SEURER       W27         0380OGOTALBEA      O                             0177     08500     24500                                  
+SEURER       R35         0040EVIVILBEA      O                             0276     09500     24500                                  
+SEURER       R35         0050USALILBEA      O                             0547     11500     24500                                  
+SEURER       R35         0060WAK  LBD       O                             0176     11000     24500                                  
+SEURER       T72-T       0010BELSILBEA      RL                                     09500     24500                                  
+SEURER       T72-T       0020GOL  LBD       RL                            0202     09500     24500                                  
+SEURER       A17         0030ESENALBEA      O                                      06500     24500                                  
+SEURER       A17         0040BGS  LBD       O                             0395     06500     24500                                  
+SEURER       A17         0050MEDEM  EA      O                             0226     04500     24500                                  
+SEURER       A17         0090BULENLBEA      O                                      04500     24500                                  
+SEURER       A17         0100RUS  LBD       O                             0094     04500     24500                                  
+SEURER       B33         0010BGS  LBD       O                                      04500     24500                                  
+SEURER       B33         0020GONGOLBEA      O                             0382     04500     24500                                  
+SEURER       B33         0030TAKAKLBEA      O                             0287     04500     24500                                  
+SEURER       B33         0040KOMANLREA      O                             0352     04500     24500                                  
+SEURER       R5          0010BGS  LBD       O                                      04500     24500                                  
+SEURER       R5          0020NESAR  EA      O                             0310     04500     24500                                  
+SEURER       R39         0010BGS  LBD       O                                      04500     24500                                  
+SEURER       R39         0020SUNIBLBEA      O                             0220     04500     24500                                  
+SEURER       R39         0030WRN  LBD       O                             0209     04500     24500                                  
+SEURER       R39         0040SUMENLBEA      O                             0308     04500     24500                                  
+SEURER       R39         0050TAKAKLBEA      O                             0220               24500                                  
+SEURER       R39         0060RUS  LBD       O                             0311               24500                                  
+SEURER       A4          0040NISVALBEA      O                                      09500     24500                                  
+SEURER       A4          0050KAL  LBD       O                             0037     09500     24500                                  
+SEURER       A4          0060BOZ  LBD       O                             0176     09500     24500                                  
+SEURER       A4          0070SOF  LBD       O                             0098     09500     24500                                  
+SEURER       A4          0080PIDORLBEA      O                             0144     09500     24500                                  
+SEURER       A4          0090WAK  LBD       O                             0028     10500     24500                                  
+SEURER       A4          0100LARATLBEA      O                             0091     10500     24500                                  
+SEURER       A4          0110RUMENLBEA      O                             0229     10500     24500                                  
+SEURER       A4          0120PDV  LBD       O                             0292     08500     24500                                  
+SEURER       A4          0130PODINLBEA      O                             0158     08500     24500                                  
+SEURER       G38         0040SOMOVLBEA      O                                      16500     24500                                  
+SEURER       G38         0050GOL  LBD       O                             0455     08500     24500                                  
+SEURER       G38         0060BLO  LBD       O                             0313     08500     24500                                  
+SEURER       G38         0070WAK  LBD       O                             0066     09500     24500                                  
+SEURER       G38         0080DOTAMLBEA      O                             0193     12500     24500                                  
+SEURER       G38         0090MOREKLBEA      O                             0055     12500     24500                                  
+SEURER       G38         0100VELBALWEA      O                             0275     12500     24500                                  
+SEURER       B7          0010RODOPLBEA      O                                      12500     24500                                  
+SEURER       B7          0020DILVOLBEA      O                             0450     12500     24500                                  
+SEURER       B7          0030LARATLBEA      O                             0119     12500     24500                                  
+SEURER       B7          0040BLO  LBD       O                             0103     12500     24500                                  
+SEURER       B7          0050OGOTALBEA      O                             0392     08500     24500                                  
+SEURER       B7          0060ERDONLBEA      O                             0140     09500     24500                                  
+SEURER       B7          0070LOMOSLBEA      O                             0233     09500     24500                                  
+SEURER       M22         0010BLO  LBD       O                                      07000     24500                                  
+SEURER       M22         0020PIDORLBEA      O                             0095     07000     24500                                  
+SEURER       M22         0030EDADALBEA      O                             0124     10000     24500                                  
+SEURER       M22         0040NAPETLBEA      O                             0208     10000     24500                                  
+SEURER       M22         0050LETNILWEA      O                             0212     09500     24500                                  
+SEURER       W21         0010BLO  LBD       O                                      08500     24500                                  
+SEURER       W21         0020ROVAMLBEA      O                             0291     08500     24500                                  
+SEURER       N188        0010BLO  LBD       O                                      08500     24500                                  
+SEURER       N188        0020TODROLBEA      O                             0250     08500     24500                                  
+SEURER       N188        0030GODEKLBEA      O                             0206     09100     28500                                  
+SEURER       N188        0040OBLAKLYEA      O                             0348     09100     28500                                  
+SEURER       L614        0190NISVALBEA      O                             0418     09100     28500                                  
+SEURER       UL602       0440SUMENLBEA      O                             1147     24500     60000                                  
+SEURER       UL602       0450KOMANLREA      O                             0535     24500     60000                                  
+SEURER       V63         0040RODOPLBEA      OL                            0319     12500     24500                                  
+SEURER       Z118        0030WRN  LBD       O                             0230     04500     24500                                  
+SEURER       L606        0100SOMOVLBEA      O                             0728     10500     24500                                  
+SEURER       L863        0010EVIVILBEA      O                                      12500     24500                                  
+SEURER       L863        0020KERALLBEA      O                             0445     12500     24500                                  
+SEURER       B7-N1       0030RODOPLBEA      O                             0259     12500     24500                                  
+SEURER       UN739       0090PDV  LBD       O                                      24500     66000                                  
+SEURER       UN739       0100LARATLBEA      O                             0521     24500     66000                                  
+SEURER       UN739       0110WAK  LBD       O                             0091     24500     66000                                  
+SEURER       UN739       0120SOF  LBD       O                             0153     24500     66000                                  
+SEURER       UN739       0130NISVALBEA      O                             0308     28500     60000                                  
+SEURER       UN739       0140RAVAKLYEA      O                             0667     28500     60000                                  
+SEURER       UL620       0090BGS  LBD       O                                      24500     66000                                  
+SEURER       UL620       0100RIXEN  EA      O                             0626     24500     66000                                  
+SEURER       UL605       0090BULENLBEA      O                                      24500     66000                                  
+SEURER       UL605       0100VALPALREA      O                             0314     24500     66000                                  
+SEURER       UL867       0040SOMOVLBEA      O                             0486     24500     66000                                  
+SEURER       UP159       0080RODOPLBEA      O                                      24500     66000                                  
+SEURER       UP159       0090SOMOVLBEA      O                             1305     24500     66000                                  
+SEURER       UL852       0020BALIKLBEA      O                             0504     24500     46000                                  
+SEURER       UL852       0030UDROS  EA      O                             1548     24500     46000                                  
+SEURER       UL619       0010BALIKLBEA      O                                      24500     60000                                  
+SEURER       UL619       0020WRN  LBD       O                             0350     24500     60000                                  
+SEURER       UL619       0030MAKOL  EA      O                             0865     28500     66000                                  
+SEURER       UN131       0010RODOPLBEA      O                                      24500     66000                                  
+SEURER       UN131       0020BANSOLBEA      O                             0430     24500     66000                                  
+SEURER       UN131       0030NISVALBEA      O                             0607     24500     66000                                  
+SEURER       UN131       0040NIS  LYD       O                             0481     28500     60000                                  
+SEURER       UL610       0200LUKOVLBEA      O                                      24500     66000                                  
+SEURER       UL610       0210ERDOMLBEA      O                             0265     24500     66000                                  
+SEURER       UL610       0220UTEKALYEA      O                             0456     24500     66000                                  
+SEURER       UL858       0090PDV  LBD       O                                      24500     66000                                  
+SEURER       UL858       0100VADENLTEA      O                             1043     24500     66000                                  
+SEURER       UL615       0210RESLALBEA      O                             0239     24500     66000                                  
+SEURER       UL615       0220LUKOVLBEA      O                             0217     24500     66000                                  
+SEURER       UT72        0010GOL  LBD       O                                      24500     66000                                  
+SEURER       UT72        0020BELSILBEA      O                             0202     24500     66000                                  
+SEURER       UT72        0030OSTOVLBEA      O                             0250     24500     66000                                  
+SEURER       UN127       0100RODOPLBEA      O                             0259     24500     46000                                  
+SEURER       UN127       0110LARATLBEA      O                             0569     24500     66000                                  
+SEURER       UN127       0120BLO  LBD       O                             0103     24500     66000                                  
+SEURER       UN127       0130PENEVLBEA      O                             0219     24500     66000                                  
+SEURER       UN127       0140LUKOVLBEA      O                             0152     24500     66000                                  
+SEURER       UN127       0250OSTOVLBEA      O                             0437     24500     66000                                  
+SEURER       UM987       0070EVIVILBEA      O                                      24500     66000                                  
+SEURER       UM987       0080WAK  LBD       O                             0722     24500     66000                                  
+SEURER       UM987       0090BLO  LBD       O                             0066     24500     66000                                  
+SEURER       UM987       0100GOL  LBD       O                             0313     24500     66000                                  
+SEURER       UM987       0110SOMOVLBEA      O                             0455     24500     66000                                  
+SEURER       UN133       0010EVIVILBEA      O                                      24500     66000                                  
+SEURER       UN133       0020SOF  LBD       O                             0778     24500     66000                                  
+SEURER       UN133       0030RESLALBEA      O                             0380     24500     66000                                  
+SEURER       UN133       0040ERDOMLBEA      O                             0114     24500     66000                                  
+SEURER       UN133       0050LOMOSLBEA      O                             0190     24500     66000                                  
+SEURER       UN133       0060DIROMLREA      O                             0581     24500     66000                                  
+SEURER       UL622       0010BGS  LBD       O                                      24500     66000                                  
+SEURER       UL622       0020GONGOLBEA      O                             0382     24500     66000                                  
+SEURER       UL622       0030KOMANLREA      O                             0639     24500     66000                                  
+SEURER       UL742       0010BGS  LBD       O                                      24500     66000                                  
+SEURER       UL742       0020MAKOL  EA      O                             0759     24500     66000                                  
+SEURER       UL743       0010BGS  LBD       O                                      24500     66000                                  
+SEURER       UL743       0020MATEL  EA      O                             0632     24500     66000                                  
+SEURER       UL614       0010GERGILBEA      O                                      24500     60000                                  
+SEURER       UL614       0020BLO  LBD       O                             0811     24500     60000                                  
+SEURER       UL614       0030NISVALBEA      O                             0484     24500     60000                                  
+SEURER       UL614       0040LATSALYEA      O                             0418     28500     60000                                  
+SEURER       L605-       0010BULENLBEA      O                                      24500     60000                                  
+SEURER       L605-       0020RIXEN  EA      O                             1638     24500     60000                                  
+SEURER       UP984       0060RULOTLBEA      O                                      24500     66000                                  
+SEURER       UP984       0070SOSITLREA      O                             0276     24500     66000                                  
+SEURER       UP184       0010OSTOVLBEA      O                                      24500     66000                                  
+SEURER       UP184       0020DEDORLREA      O                             0720     24500     66000                                  
+SEURER       UR35        0040EVIVILBEA      O                             0276     24500     46000                                  
+SEURER       UZ118       0020WRN  LBD       O                             0515     24500     66000                                  
+SEURER       UL606       0130SOMOVLBEA      O                             0728     24500     66000                                  
+SEURER       UL606       0140TUNVOLBEA      O                             0408     24500     60000                                  
+SEURER       UM19        0010PENEVLBEA      O                                      24500     66000                                  
+SEURER       UM19        0020ETIDALYEA      O                             0723     28500     60000                                  
+SEURER       UL863       0010EVIVILBEA      O                                      24500     66000                                  
+SEURER       UL863       0020KERALLBEA      O                             0445     24500     66000                                  
+SEURER       UL863       0030OKANALYEA      O                             0522     24500     66000                                  
+SEURER       UL728       0010EVIVILBEA      O                                      24500     46000                                  
+SEURER       UL728       0020PEREN  EA      O                             0537     24500     46000                                  
+SEURER       UV63        0040RODOPLBEA      O                             0319     24500     46000                                  
+SEURER       UM21        0010GERGILBEA      O                                      24500     66000                                  
+SEURER       UM21        0020PENEVLBEA      O                             0912     24500     66000                                  
+SEURER       UL610       0010LUKOVLBEA      O                                      24500     66000                                  
+SEURER       UL610       0020GOL  LBD       O                             0214     24500     66000                                  
+SEURER       UL610       0030VADENLTEA      O                             1461     24500     66000                                  
+SEURER       UN605       0010GOL  LBD       O                                      24500     66000                                  
+SEURER       UN605       0020TUNVOLBEA      O                             0507     24500     66000                                  
+SEURER       UN605       0030GRN  LBD       O                             0147     24500     66000                                  
+SEURER       UN605       0080WRN  LBD       O                             0439     24500     66000                                  
+SEURER       UL860       0010LOMOSLBEA      O                                      24500     66000                                  
+SEURER       UL860       0020VADENLTEA      O                             2040     24500     66000                                  

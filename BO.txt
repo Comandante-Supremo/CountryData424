@@ -1,0 +1,363 @@
+SSAMEAENRT   ABAPO SL           S18524291W058181623                                                                                 
+SSAMEAENRT   AKSES SL           S16054560W068125781                                                                                 
+SSAMEAENRT   AROLO SL           S19054458W068304998                                                                                 
+SSAMEAENRT   AROMA SL           S17134462W067380976                                                                                 
+SSAMEAENRT   ARPIS SL           S17190862W067463879                                                                                 
+SSAMEAENRT   ARQUE SL           S17452019W066091703                                                                                 
+SSAMEAENRT   ASAGA SL           S16511366W066182453                                                                                 
+SSAMEAENRT   ASIRO SL           S19451574W063583825                                                                                 
+SSAMEAENRT   ASPER SL           S17202775W063344310                                                                                 
+SSAMEAENRT   ASUVO SL           S21032072W064274739                                                                                 
+SSAMEAENRT   ATAVI SL           S17562268W065533450                                                                                 
+SSAMEAENRT   ATEBU SL           S18564576W063215312                                                                                 
+SSAMEAENRT   ATESI SL           S21032070W064491145                                                                                 
+SSAMEAENRT   BELEN SL           S16592763W067250172                                                                                 
+SSAMEAENRT   CAMBA SL           S18234582W061221875                                                                                 
+SSAMEAENRT   CINTI SL           S21080669W065011048                                                                                 
+SSAMEAENRT   CITRA SL           S10412280W067424440                                                                                 
+SSAMEAENRT   COANI SL           S16222693W068394047                                                                                 
+SSAMEAENRT   DAKON SL           S17033862W067275973                                                                                 
+SSAMEAENRT   DAMBU SL           S17141872W064291125                                                                                 
+SSAMEAENRT   DELMA SL           S17042068W065453645                                                                                 
+SSAMEAENRT   DEXOS SL           S17082000W0685555100                                                                                
+SSAMEAENRT   DULIA SL           S17591981W061480582                                                                                 
+SSAMEAENRT   EGASO SL           S18225473W064182326                                                                                 
+SSAMEAENRT   EKARI SL           S15332669W065174732                                                                                 
+SSAMEAENRT   ELANI SL           S15354660W068111379                                                                                 
+SSAMEAENRT   EMPEX SL           S20304256W068395506                                                                                 
+SSAMEAENRT   ERIXA SL           S20051467W065461257                                                                                 
+SSAMEAENRT   ESARU SL           S16495668W065500046                                                                                 
+SSAMEAENRT   FIACA SL           S17270149W065495347                                                                                 
+SSAMEAENRT   FILHO SL           S10114260W066583840                                                                                 
+SSAMEAENRT   FLOTE SL           S10172040W067053900                                                                                 
+SSAMEAENRT   GAXOK SL           S22131271W064363646                                                                                 
+SSAMEAENRT   ILRES SL           S13092340W0622111100                                                                                
+SSAMEAENRT   INCAS SL           S21453756W068062603                                                                                 
+SSAMEAENRT   IREGO SL           S15310471W064300521                                                                                 
+SSAMEAENRT   IRIKA SL           S18454291W058290026                                                                                 
+SSAMEAENRT   IRONO SL           S17252960W068190988                                                                                 
+SSAMEAENRT   ISAMO SL           S16471680W067543420                                                                                 
+SSAMEAENRT   ISARA SL           S10363658W067404258                                                                                 
+SSAMEAENRT   ISAVA SL           S15115768W065414238                                                                                 
+SSAMEAENRT   KADAL SL           S18573977W063062007                                                                                 
+SSAMEAENRT   KIACA SL           S21444572W064131138                                                                                 
+SSAMEAENRT   KIBIL SL           S16372280W061465977                                                                                 
+SSAMEAENRT   KILAX SL           S16045463W067232368                                                                                 
+SSAMEAENRT   KIPUS SL           S16583757W069032998                                                                                 
+SSAMEAENRT   KORAN SL           S17163168W065352243                                                                                 
+SSAMEAENRT   KULPA SL           S21001561W067192387                                                                                 
+SSAMEAENRT   LAIKA SL           S18435371W064505836                                                                                 
+SSAMEAENRT   LOBAR SL           S18523375W063384216                                                                                 
+SSAMEAENRT   LONAR SL           S17221461W067535381                                                                                 
+SSAMEAENRT   MAGDA SL           S14035670W064312916                                                                                 
+SSAMEAENRT   MARIA SL           S22001277W063000618                                                                                 
+SSAMEAENRT   MATEO SL           S17255572W064315926                                                                                 
+SSAMEAENRT   MOJON SL           S17280365W066472563                                                                                 
+SSAMEAENRT   MOXOS SL           S14513967W065475339                                                                                 
+SSAMEAENRT   MURIL SL           S20212677W063033712                                                                                 
+SSAMEAENRT   NANOS SL           S16562768W065565548                                                                                 
+SSAMEAENRT   OMERO SL           S17144030W061384977                                                                                 
+SSAMEAENRT   OPURO SL           S18274167W066011955                                                                                 
+SSAMEAENRT   ORUSU SL           S18542476W063325215                                                                                 
+SSAMEAENRT   PABES SL           S16291074W063521112                                                                                 
+SSAMEAENRT   PALCA SL           S21044871W064310140                                                                                 
+SSAMEAENRT   PAMPA SL           S18340569W065320147                                                                                 
+SSAMEAENRT   PAROT SL           S17363866W066281359                                                                                 
+SSAMEAENRT   PAZ04 SL           S16304463W068133545                                                                                 
+SSAMEAENRT   PAZ05 SL           S16304169W068191269                                                                                 
+SSAMEAENRT   PAZ07 SL           S16303640W068242599                                                                                 
+SSAMEAENRT   PAZ08 SL           S16204195W068131685                                                                                 
+SSAMEAENRT   PAZ27 SL           S16301156W068242447                                                                                 
+SSAMEAENRT   PAZ30 SL           S16270709W068234366                                                                                 
+SSAMEAENRT   PAZ31 SL           S16260946W068231702                                                                                 
+SSAMEAENRT   PAZ50 SL           S16302753W068191244                                                                                 
+SSAMEAENRT   PAZ55 SL           S16305486W068081690                                                                                 
+SSAMEAENRT   PAZ57 SL           S16483748W068043210                                                                                 
+SSAMEAENRT   PAZ70 SL           S16302116W068211725                                                                                 
+SSAMEAENRT   PAZ80 SL           S16304768W068131066                                                                                 
+SSAMEAENRT   PLAZA SL           S17080362W067314974                                                                                 
+SSAMEAENRT   PUBIT SL           S18481179W062291196                                                                                 
+SSAMEAENRT   PUNAR SL           S17011968W065591549                                                                                 
+SSAMEAENRT   R2450 SL           S16304588W068123951                                                                                 
+SSAMEAENRT   RAVEL SL           S18420368W065420950                                                                                 
+SSAMEAENRT   REKAS SL           S15410065W066340954                                                                                 
+SSAMEAENRT   SACON SL           S17555881W061471281                                                                                 
+SSAMEAENRT   SALCE SL           S17203172W064305525                                                                                 
+SSAMEAENRT   SALIX SL           S17112572W064282524                                                                                 
+SSAMEAENRT   SIBUS SL           S15394159W068352486                                                                                 
+SSAMEAENRT   SIDAK SL           S19383393W058123344                                                                                 
+SSAMEAENRT   SILIC SL           S11103900W065220180                                                                                 
+SSAMEAENRT   SISER SL           S17390772W064325627                                                                                 
+SSAMEAENRT   SUDAN SL           S16185176W062544495                                                                                 
+SSAMEAENRT   TAITA SL           S16565479W061565481                                                                                 
+SSAMEAENRT   TANOR SL           S17133564W066460062                                                                                 
+SSAMEAENRT   TEPAR SL           S17062065W066413961                                                                                 
+SSAMEAENRT   TIGRE SL           S17171380W061475279                                                                                 
+SSAMEAENRT   TIRKU SL           S17394969W065365545                                                                                 
+SSAMEAENRT   TORAX SL           S16440063W067181869                                                                                 
+SSAMEAENRT   TOTAI SL           S18104981W061523383                                                                                 
+SSAMEAENRT   UBKAB SL           S16185400W058363060                                                                                 
+SSAMEAENRT   UDIPO SL           S15282666W066130447                                                                                 
+SSAMEAENRT   VAGUR SL           S17352110W069263000                                                                                 
+SSAMEAENRT   VALLE SL           S13455374W062273781                                                                                 
+SSAMEAENRT   VIR22 SL           S17393246W063074228                                                                                 
+SSAMEAENRT   VIR33 SL           S17450610W062584515                                                                                 
+SSAMEAENRT   VIR53 SL           S17480444W063015665                                                                                 
+SSAMEAENRT   VIR72 SL           S17435481W063045258                                                                                 
+SSAMEAENRT   VRONB SL           S17321376W063120404                                                                                 
+SSAMEAENRT   YOTAL SL           S19300069W065104445                                                                                 
+SSAMEAENRT   ZOZOG SL           S18052182W061264276                                                                                 
+SSAMDB       APB   SL000240     S14410759W068245980                                                                                 
+SSAMDB       ASG   SL000390     S15461676W063035896                                                                                 
+SSAMDB       FPB   SL000240     S12255160W064253180                                                                                 
+SSAMDB       CAM   SL000290     S20002300W063313310                                                                                 
+SSAMDB       CIJ   SL000230     S11022836W068465386                                                                                 
+SSAMDB       CBB   SL000320     S17244885W066103768                                                                                 
+SSAMDB       R     SL000402     S17235766W066155255                                                                                 
+SSAMDB       CRC   SL000305     S16114262W067431574                                                                                 
+SSAMDB       PVR   SL000430     S20451277W063120616                                                                                 
+SSAMDB       TCZ   SL000265     S17481371W063102459                                                                                 
+SSAMDB       LPZ   SL000350     S16302830W068100869                                                                                 
+SSAMDB       R     SL000330     S16304260W068131183                                                                                 
+SSAMDB       MGD   SL000365     S13154370W064043006                                                                                 
+SSAMDB       AGU   SL000305     S19500774W063575525                                                                                 
+SSAMDB       ORU   SL000420     S17571364W067052970                                                                                 
+SSAMDB       POI   SL000400     S19325460W065434772                                                                                 
+SSAMDB       PSZ   SL000290     S18585493W057490615                                                                                 
+SSAMDB       REY   SL000290     S14193662W067233663                                                                                 
+SSAMDB       REA   SL000370     S11005562W066061334                                                                                 
+SSAMDB       OBO   SL000325     S18195487W059455847                                                                                 
+SSAMDB       RBQ   SL000330     S14301562W067273564                                                                                 
+SSAMDB       SRJ   SL000270     S14512764W066441154                                                                                 
+SSAMDB       SNG   SL000250     S16225882W060575262                                                                                 
+SSAMDB       SJV   SL001640     S16195077W062362090                                                                                 
+SSAMDB       JOA   SL000217     S13030000W064400000                                                                                 
+SSAMDB       SMT   SL000330     S16201688W058231317                                                                                 
+SSAMDB       ANA   SL000345     S13454667W065255630                                                                                 
+SSAMDB       SRE   SL000230     S19004460W065173070                                                                                 
+SSAMDB       TJA   SL000250     S21332070W064423145                                                                                 
+SSAMDB       TDD   SL000210     S14492770W064552524                                                                                 
+SSAMDB       VTS   SL000219     S21151675W063242421                                                                                 
+SSAMDB       VVO   SL000295     S17434505W063044202                                                                                 
+SSAMDB       VRO   SL000280     S17321208W063120268                                                                                 
+SSAMDB       YAC   SL000385     S21573649W063391148                                                                                 
+SSAMD        CAL   SL011410V    S16524505W068044897                                                                                 
+SSAMD        CBA   SL011210V    S17251653W066104456                                                                                 
+SSAMD        PAZ   SL011570V    S16304337W068140041                                                                                 
+SSAMD        RBT   SL011370V    S11011462W066060534                                                                                 
+SSAMD        BOR   SL011770V    S14510765W066441154                                                                                 
+SSAMD        SUR   SL011650V    S19004070W065172970                                                                                 
+SSAMD        TAR   SL011700V    S21324470W064424645                                                                                 
+SSAMD        TRI   SL011590V    S14475670W064561824                                                                                 
+SSAMD        VIR   SL011380V    S17374252W063085963                                                                                 
+SSAMD        ILCO  SL011050 D   S17254400W0661009100                                                                                
+SSAMD        CAL   SL011410 D   S16524505W068044897                                                                                 
+SSAMD        CBA   SL011210 D   S17251653W066104456                                                                                 
+SSAMD        PAZ   SL011570 D   S16304337W068140041                                                                                 
+SSAMD        SUR   SL011650 D   S19004070W065172970                                                                                 
+SSAMD        TAR   SL011700 D   S21324470W064424645                                                                                 
+SSAMD        TRI   SL011590 D   S14475670W064561824                                                                                 
+SSAMD        VIR   SL011380 D   S17374252W063085963                                                                                 
+SSAMER       W8          0360VIR  SLD       O                                      17000     24500                                  
+SSAMER       W8          0370LOBARSLEA      O                             0800     17000     24500                                  
+SSAMER       W8          0380PALCASLEA      O                             1412     17000     24500                                  
+SSAMER       W8          0390TAR  SLD       O                             0300     17000     24500                                  
+SSAMER       W11         0080CAL  SLD       O                                      18000     24500                                  
+SSAMER       W11         0090DAKONSLEA      O                             0369     18000     24500                                  
+SSAMER       W11         0100TANORSLEA      O                             0414     19000     24500                                  
+SSAMER       W11         0110CBA  SLD       O                             0357     19000     24500                                  
+SSAMER       W11         0120TIRKUSLEA      O                             0354     18000     24500                                  
+SSAMER       W11         0130SISERSLEA      O                             0610     16000     24500                                  
+SSAMER       W11         0140VIR  SLD       O                             0801     16000     24500                                  
+SSAMER       W12         0080CAL  SLD       O                                      18000     24500                                  
+SSAMER       W12         0090BELENSLEA      O                             0387     18000     24500                                  
+SSAMER       W12         0100TEPARSLEA      O                             0421     19000     24500                                  
+SSAMER       W12         0110KORANSLEA      O                             0642     19000     24500                                  
+SSAMER       W12         0120MATEOSLEA      O                             0613     19000     24500                                  
+SSAMER       W12         0130VIR  SLD       O                             0801     19000     24500                                  
+SSAMER       W7          0430RAVELSLEA      O                                      18000     24500                                  
+SSAMER       W7          0440SUR  SLD       O                             0299     18000     24500                                  
+SSAMER       W6          0100CINTISLEA      O                                      19000     24500                                  
+SSAMER       W6          0110TAR  SLD       O                             0300     19000     24500                                  
+SSAMER       W9          0290CRC  SLD       O                                      12000     24500                                  
+SSAMER       W9          0300REKASSLEA      O                             0732     12000     24500                                  
+SSAMER       W9          0420MGD  SLD       O                                      05000     24500                                  
+SSAMER       W9          0430MAGDASLEA      O                             0549     05000     24500                                  
+SSAMER       W9          0440TRI  SLD       O                             0502     05000     24500                                  
+SSAMER       W5          0310CBA  SLD       O                                      07500     24500                                  
+SSAMER       W5          0320PUNARSLEA      O                             0264     18000     24500                                  
+SSAMER       W5          0330EKARISLEA      O                             0965     17000     24500                                  
+SSAMER       W5          0340TRI  SLD       O                             0500     17000     24500                                  
+SSAMER       A301        0140TRI  SLD       O                             3010     05000     24500                                  
+SSAMER       A301        0240PABESSLEA      O                                      05000     24500                                  
+SSAMER       A301        0250VIR  SLD       O                             0801     05000     24500                                  
+SSAMER       W3          0430SUR  SLD       O                                      17000     24500                                  
+SSAMER       W3          0440LAIKASLEA      O                             0302     17000     24500                                  
+SSAMER       W3          0450EGASOSLEA      O                             0374     17000     24500                                  
+SSAMER       W3          0460VIR  SLD       O                             0800     17000     24500                                  
+SSAMER       W3          0470TAITASLEA      O                             0801     05000     24500                                  
+SSAMER       W3          0480SNG  SLD       O                             0660     05000     24500                                  
+SSAMER       W4          0100BOR  SLD       O                                      05000     24500                                  
+SSAMER       W4          0110MOXOSSLEA      O                             0545     05000     24500                                  
+SSAMER       W4          0120TRI  SLD       O                             0500     05000     24500                                  
+SSAMER       W1          0100BOR  SLD       O                                      12000     24500                                  
+SSAMER       W1          0110CRC  SLD       O                             0987     12000     24500                                  
+SSAMER       A304        0130PSZ  SLD       O                             0090     07000     24500                                  
+SSAMER       A304        0140PAZ  SLD       O                                      23000     24500                                  
+SSAMER       A304        0150TORAXSLEA      O                             0550     23000     24500                                  
+SSAMER       A304        0160PUNARSLEA      O                             0777     23000     24500                                  
+SSAMER       A304        0170SALCESLEA      O                             0866     23000     24500                                  
+SSAMER       A304        0180VIR  SLD       O                             0801     23000     24500                                  
+SSAMER       W13         0130CAL  SLD       O                                      18000     24500                                  
+SSAMER       W13         0140PLAZASLEA      O                             0351     18000     24500                                  
+SSAMER       W13         0150MOJONSLEA      O                             0469     18000     24500                                  
+SSAMER       W13         0160PAROTSLEA      O                             0202     18000     24500                                  
+SSAMER       W13         0170CBA  SLD       O                             0202     18000     24500                                  
+SSAMER       W2          0010CIJ  SLD       O                                      05000     24500                                  
+SSAMER       W2          0020BOR  SLD       O                             2582     05000     24500                                  
+SSAMER       W2          0030REKASSLEA      O                             0508     18000     24500                                  
+SSAMER       W2          0330TAR  SLD       O                                      10000     24500                                  
+SSAMER       W2          0340KIACASLEA      O                             0300     10000     24500                                  
+SSAMER       W2          0350YAC  SLD       O                             0341     10000     24500                                  
+SSAMER       W2          0420PAMPASLEA      O                                      17000     24500                                  
+SSAMER       W2          0430SUR  SLD       O                             0300     17000     24500                                  
+SSAMER       W2          0440YOTALSLEA      O                             0300     17000     24500                                  
+SSAMER       A556        0070VIR  SLD       O                                      05000     24500                                  
+SSAMER       A556        0080PUBITSLEA      O                             0800     05000     24500                                  
+SSAMER       A556        0090GERNISGEA      O                             0760     04000     24500                                  
+SSAMER       A430        0150FLOTESLEA      O                             0536     17500     24500                                  
+SSAMER       A430        0160SILICSLEA      O                             1150     17500     24500                                  
+SSAMER       W11-W       0010CAL  SLD       O                                      18000     24500                                  
+SSAMER       W11-W       0020PAZ  SLD       O                             0237     18000     24500                                  
+SSAMER       A316        0010CAM  SLD       O                                      10000     24500                                  
+SSAMER       A316        0020YAC  SLD       O                             1175     10000     24500                                  
+SSAMER       A316        0030ORA  SAD       O                             0805     10500     24500                                  
+SSAMER       B652        0030SMT  SLD       O                             0976     06000     24500                                  
+SSAMER       B652        0040TIGRESLEA      O                             2042     06000     24500                                  
+SSAMER       B652        0050VIR  SLD       O                             0801     06000     24500                                  
+SSAMER       W1-W9       0010CRC  SLD       O                                      20000     24500                                  
+SSAMER       W1-W9       0020PAZ  SLD       O                             0351     20000     24500                                  
+SSAMER       A568        0030VAGURSLEA      O                             0270     18000     24500                                  
+SSAMER       A568        0040DEXOSSLEA      O                             0398     18000     24500                                  
+SSAMER       A568        0050PAZ  SLD       O                             0550     18000     24500                                  
+SSAMER       R558        0020ELANISLEA      O                             2978     22000     24500                                  
+SSAMER       R558        0030PAZ  SLD       O                             0550     22000     24500                                  
+SSAMER       A685        0020FILHOSLEA      O                             1062     06500     24500                                  
+SSAMER       A685        0030RBC  SBD       O                             0576     06500     24500                                  
+SSAMER       A573        0020KIPUSSLEA      O                             0379     22000     24500                                  
+SSAMER       A573        0030PAZ  SLD       O                             0550     22000     24500                                  
+SSAMER       A304-       0010OBO  SLD       O                                      07000     24500                                  
+SSAMER       A304-       0020SACONSLEA      O                             1178     07000     24500                                  
+SSAMER       A304-       0030VIR  SLD       O                             0800     07000     24500                                  
+SSAMER       UW2         0100CBA  SLD       O                                      24500     60000                                  
+SSAMER       UW2         0110SUR  SLD       O                             1081     24500     60000                                  
+SSAMER       UW2         0120TAR  SLD       O                             1556     24500     60000                                  
+SSAMER       UW10        0140CBA  SLD       O                                      24500     60000                                  
+SSAMER       UW10        0150TRI  SLD       O                             1729     24500     60000                                  
+SSAMER       UM415       0070SIDAKSLEA      O                             0437     24500     60000                                  
+SSAMER       UM415       0080CAMBASLEA      O                             1945     24500     60000                                  
+SSAMER       UM415       0090TOTAISLEA      O                             0315     24500     60000                                  
+SSAMER       UM415       0100VIR  SLD       O                             0800     24500     60000                                  
+SSAMER       UM415       0110DAMBUSLEA      O                             0801     24500     60000                                  
+SSAMER       UM415       0120ESARUSLEA      O                             0811     24500     60000                                  
+SSAMER       UA316       0090LOBARSLEA      O                                      24500     60000                                  
+SSAMER       UA316       0100VIR  SLD       O                             0800     24500     60000                                  
+SSAMER       UA316       0110SUDANSLEA      O                             0801     24500     60000                                  
+SSAMER       UA316       0120VALLESLEA      O                             1553     24500     60000                                  
+SSAMER       UM402       0120SIDAKSLEA      O                             0597     24500     60000                                  
+SSAMER       UW13        0080CAL  SLD       O                                      24500     60000                                  
+SSAMER       UW13        0090PLAZASLEA      O                             0351     24500     60000                                  
+SSAMER       UW13        0100PAROTSLEA      O                             0671     24500     60000                                  
+SSAMER       UW13        0110CBA  SLD       O                             0202     24500     60000                                  
+SSAMER       UW12        0010CAL  SLD       O                                      24500     60000                                  
+SSAMER       UW12        0020BELENSLEA      O                             0387     24500     60000                                  
+SSAMER       UW12        0030MATEOSLEA      O                             1675     24500     60000                                  
+SSAMER       UW12        0040VIR  SLD       O                             0801     24500     60000                                  
+SSAMER       UW12        0210PAZ  SLD       O                             0442     24500     60000                                  
+SSAMER       UW6         0200ERIXASLEA      O                                      24500     60000                                  
+SSAMER       UW6         0210TAR  SLD       O                             1058     24500     60000                                  
+SSAMER       UL793       0210CAMBASLEA      O                             0702     24500     60000                                  
+SSAMER       UL793       0220ZOZOGSLEA      O                             0189     24500     60000                                  
+SSAMER       UL793       0230OMEROSLEA      O                             0520     24500     60000                                  
+SSAMER       UL793       0240KIBILSLEA      O                             0381     24500     60000                                  
+SSAMER       UL793       0250VALLESLEA      O                             1760     24500     60000                                  
+SSAMER       UL793       0260UDIDISBEA      O                             0444     24500     60000                                  
+SSAMER       UR559       0050PAZ  SLD       O                                      24500     60000                                  
+SSAMER       UR559       0060SIBUSSLEA      O                             0551     24500     60000                                  
+SSAMER       UR559       0070RAXUNTUEA      O                             0784     24500     60000                                  
+SSAMER       UL404       0010MARIASLEA      O                                      24500     45000                                  
+SSAMER       UL404       0020BOKENSAEA      O                             1598     24500     45000                                  
+SSAMER       UB554       0100FLOTESLEA      O                             0536     24500     45500                                  
+SSAMER       UB554       0110SILICSLEA      O                             1150     24500     45500                                  
+SSAMER       UB554       0120UGAXOSBEA      O                             0962     24500     45500                                  
+SSAMER       UA321       0300PUBITSLEA      O                             0760     24500     60000                                  
+SSAMER       UA321       0310VIR  SLD       O                             0800     24500     60000                                  
+SSAMER       UR550       0020CITRASLEA      O                             0503     24500     60000                                  
+SSAMER       UR550       0030BOR  SLD       O                             2564     24500     60000                                  
+SSAMER       UR550       0040REKASSLEA      O                             0508     24500     60000                                  
+SSAMER       UR550       0050CBA  SLD       O                             1067     24500     60000                                  
+SSAMER       UR550       0060OPUROSLEA      O                             0631     24500     60000                                  
+SSAMER       UR550       0070ERIXASLEA      O                             0987     24500     60000                                  
+SSAMER       UR550       0080GESPASAEA      O                             1217     24500     60000                                  
+SSAMER       UL322       0060GAXOKSLEA      O                             1652     24500     60000                                  
+SSAMER       UL322       0070ORUSUSLEA      O                             2077     24500     60000                                  
+SSAMER       UL322       0080VIR  SLD       O                             0800     24500     60000                                  
+SSAMER       UL417       0050DELMASLEA      O                                      24500     60000                                  
+SSAMER       UL417       0060ESARUSLEA      O                             0150     24500     60000                                  
+SSAMER       UL417       0070UDIPOSLEA      O                             0845     24500     60000                                  
+SSAMER       UB677       0050CAL  SLD       O                             0582     24500     60000                                  
+SSAMER       UB677       0060DAKONSLEA      O                             0369     24500     60000                                  
+SSAMER       UB677       0070CBA  SLD       O                             0769     24500     60000                                  
+SSAMER       UB677       0080TIRKUSLEA      O                             0354     24500     60000                                  
+SSAMER       UB677       0090SISERSLEA      O                             0610     24500     60000                                  
+SSAMER       UB677       0100VIR  SLD       O                             0801     24500     60000                                  
+SSAMER       UA320       0010CAL  SLD       O                                      24500     60000                                  
+SSAMER       UA320       0020ELAKOTUEA      O                             0908     24500     60000                                  
+SSAMER       UA320       0030CAM  SLD       O                                      24500     60000                                  
+SSAMER       UA320       0040MURILSLEA      O                             0337     24500     60000                                  
+SSAMER       UA320       0050ESELASGEA      O                             0593     24500     60000                                  
+SSAMER       UA558       0010CAL  SLD       O                                      24500     45000                                  
+SSAMER       UA558       0020LONARSLEA      O                             0313     24500     45000                                  
+SSAMER       UA558       0030OROKOSAEA      O                             2878     24500     45000                                  
+SSAMER       UA558       0010CAL  SLD       O                                      24500     60000                                  
+SSAMER       UA558       0020PAZ  SLD       O                             0237     24500     60000                                  
+SSAMER       UL309       0080ELANISLEA      O                                      24500     60000                                  
+SSAMER       UL309       0090GRAFOSBEA      O                             2978     24500     60000                                  
+SSAMER       UL309       0100EMPEXSLEA      O                                      24500     45000                                  
+SSAMER       UL309       0110LOA  SCD       O                             1200     24500     45000                                  
+SSAMER       UB652       0030SMT  SLD       O                             1057     24500     60000                                  
+SSAMER       UB652       0040OMEROSLEA      O                             1951     24500     60000                                  
+SSAMER       UB652       0050TIGRESLEA      O                             0090     24500     60000                                  
+SSAMER       UB652       0060VIR  SLD       O                             0801     24500     60000                                  
+SSAMER       UB652       0070EGASOSLEA      O                             0800     24500     60000                                  
+SSAMER       UB652       0080SUR  SLD       O                             0676     24500     60000                                  
+SSAMER       UB652       0090KULPASLEA      O                             1657     24500     60000                                  
+SSAMER       UM664       0030VAGURSLEA      O                             0270     24500     60000                                  
+SSAMER       UM664       0040DEXOSSLEA      O                             0398     24500     60000                                  
+SSAMER       UM664       0050PAZ  SLD       O                             0550     24500     60000                                  
+SSAMER       UA304       0010ZOZOGSLEA      O                                      24500     60000                                  
+SSAMER       UA304       0020DULIASLEA      O                             0212     24500     60000                                  
+SSAMER       UA304       0030VIR  SLD       O                             0801     24500     60000                                  
+SSAMER       UA304       0040SALCESLEA      O                             0801     24500     60000                                  
+SSAMER       UA304       0050DELMASLEA      O                             0732     24500     60000                                  
+SSAMER       UA304       0060TORAXSLEA      O                             0911     24500     60000                                  
+SSAMER       UA304       0070PAZ  SLD       O                             0550     24500     60000                                  
+SSAMER       UA304       0080ELAKOTUEA      O                             0711     24500     60000                                  
+SSAMER       UL540       0140KIBILSLEA      O                             1125     24500     60000                                  
+SSAMER       UL540       0150VIR  SLD       O                             0990     24500     60000                                  
+SSAMER       UL440       0010VIR  SLD       O                                      24500     60000                                  
+SSAMER       UL440       0020KADALSLEA      O                             0800     24500     60000                                  
+SSAMER       UL440       0030MURILSLEA      O                             0839     24500     60000                                  
+SSAMER       UL440       0040MARIASLEA      O                             0989     24500     60000                                  
+SSAMER       UA568       0010PAZ  SLD       O                                      24500     60000                                  
+SSAMER       UA568       0020KILAXSLEA      O                             0550     24500     60000                                  
+SSAMER       UA568       0030REKASSLEA      O                             0531     24500     60000                                  
+SSAMER       UA568       0040UDIPOSLEA      O                             0239     24500     60000                                  
+SSAMER       UA573       0020KIPUSSLEA      O                             0379     24500     60000                                  
+SSAMER       UA573       0030PAZ  SLD       O                             0550     24500     60000                                  
+SSAMER       UA320       0010OPUROSLEA      O                                      24500     60000                                  
+SSAMER       UA320       0020SUR  SLD       O                             0531     24500     60000                                  
+SSAMER       UA301       0010VIR  SLD       O                                      24500     60000                                  
+SSAMER       UA301       0020PABESSLEA      O                             0801     24500     60000                                  
+SSAMER       UA301       0030TRI  SLD       O                             1187     24500     60000                                  
+SSAMER       UA301       0040VILUXSBEA      O                             3010     24500     60000                                  

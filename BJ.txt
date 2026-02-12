@@ -1,0 +1,40 @@
+SAFREAENRT   BATIA DB           N11000000E001271800                                                                                 
+SAFREAENRT   BIKAB DB           N06460800E0022259100                                                                                
+SAFREAENRT   KELEX DB           N07514874E002212276                                                                                 
+SAFREAENRT   LITAK DB           N11000000E0032900100                                                                                
+SAFREAENRT   NASTO DB           N09524862E003302114                                                                                 
+SAFREAENRT   SENOR DB           N11000000E0023723100                                                                                
+SAFREAENRT   TATAT DB           N11000000E0021623100                                                                                
+SAFREAENRT   VOLTI DB           N12094210E002254500                                                                                 
+SAFRDB       CO    DB000284     N06221490E0022408100                                                                                
+SAFRDB       TYK   DB000366     N11084020E002562309                                                                                 
+SAFRDB       TYN   DB000309     N10214467E001205943                                                                                 
+SAFRD        TYE   DB011330V    N06214370E002233570                                                                                 
+SAFRD        PA    DB011280V    N09221240E002370870                                                                                 
+SAFRD        ICN   DB010950 D   N06214630E002232454                                                                                 
+SAFRD        TYE   DB011330 D   N06214370E002233570                                                                                 
+SAFRER       B726F       0010BATIADBEA      O                                      04500     24500                                  
+SAFRER       B726F       0020IRNISDFEA      O                             0751     04500     24500                                  
+SAFRER       B726        0010BATIADBEA      O                                      04500     24500                                  
+SAFRER       B726        0020KILMODXEA      O                             0970     04500     24500                                  
+SAFRER       R981        0050VOLTIDBEA      O                             0804     04500     24500                                  
+SAFRER       R981        0060SENORDBEA      O                             0707     04500     24500                                  
+SAFRER       UR984       0240KELEXDBEA      O                             0363     25000     60000                                  
+SAFRER       UR984       0250KILMODXEA      O                             1254     25000     60000                                  
+SAFRER       A609        0030TYE  DBD       O                             0680     11500     24500                                  
+SAFRER       A609        0040POLTODNEA      O                             0226     05500     24500                                  
+SAFRER       UB726       0020BATIADBEA      O                             1555     24500     60000                                  
+SAFRER       UB726       0030KILMODXEA      O                             0970     24500     60000                                  
+SAFRER       UA601       0220TYE  DBD       O                             1474     24500     60000                                  
+SAFRER       UM114       0100NASTODBEA      O                             0240     24500     60000                                  
+SAFRER       UM114       0110LITAKDBEA      O                             0672     31000     46000                                  
+SAFRER       UM114       0120KILDA  EA      O                             1358     31000     46000                                  
+SAFRER       UA608       0010TYE  DBD       O                                      24500     60000                                  
+SAFRER       UA608       0020BIKABDBEA      O                             0244     24500     60000                                  
+SAFRER       UA608       0030KELEXDBEA      O                             0657     24500     60000                                  
+SAFRER       UA608       0040TATATDBEA      O                             1884     24500     60000                                  
+SAFRER       UA609       0150TYE  DBD       O                             0680     24500     60000                                  
+SAFRER       UR981       0010SENORDBEA      O                                      24500     46000                                  
+SAFRER       UR981       0020NY     D       O                             1511     24500     46000                                  
+SAFRER       UA608       0020TATATDBEA      O                             1492     24500     46000                                  
+SAFRER       UA601       0020TYE  DBD       O                             0226     25000     60000                                  

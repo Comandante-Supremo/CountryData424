@@ -1,0 +1,97 @@
+SAFREAENRT   ANIXA DF           N11002000W005222600                                                                                 
+SAFREAENRT   ARBUT DF           N13125210W0011108100                                                                                
+SAFREAENRT   BANGA DF           N13052610E000535700                                                                                 
+SAFREAENRT   BIGOM DF           N10315010W0030503100                                                                                
+SAFREAENRT   BONGO DF           N11000000W000534200                                                                                 
+SAFREAENRT   BULSA DF           N12390100W0003218100                                                                                
+SAFREAENRT   BUROM DF           N11451610W002551800                                                                                 
+SAFREAENRT   DEKAS DF           N12485000W000002900                                                                                 
+SAFREAENRT   EDKOX DF           N13225010E0005031100                                                                                
+SAFREAENRT   EPEPO DF           N14054810W0005103100                                                                                
+SAFREAENRT   FANDO DF           N13151510W0004315100                                                                                
+SAFREAENRT   GEBLU DF           N11461410W0025300100                                                                                
+SAFREAENRT   GULIM DF           N13360810W001022000                                                                                 
+SAFREAENRT   GUPOV DF           N12235200W002465300                                                                                 
+SAFREAENRT   IRNIS DF           N12115910E0014857100                                                                                
+SAFREAENRT   KILKO DF           N14005100W000253600                                                                                 
+SAFREAENRT   KOKAN DF           N12243600W003060200                                                                                 
+SAFREAENRT   LIPET DF           N13555900W000005000                                                                                 
+SAFREAENRT   NUREX DF           N13091500W0015246100                                                                                
+SAFREAENRT   ONUSI DF           N12555000W004163000                                                                                 
+SAFREAENRT   TAREN DF           N13184700W000003800                                                                                 
+SAFREAENRT   TAVOT DF           N13045900W002400900                                                                                 
+SAFREAENRT   TUMUT DF           N11000000W0015841100                                                                                
+SAFRDB       AY    DF000316     N11342336E001272444                                                                                 
+SAFRDB       BDO   DF000323     N11103120W004183730                                                                                 
+SAFRDB       DD    DF000270     N14020241W000020050                                                                                 
+SAFRDB       OUA   DF000333     N12200240W001313070                                                                                 
+SAFRD        BD    DF011470V    N11084210W004210310                                                                                 
+SAFRD        OG    DF011290V    N12204660W001304620                                                                                 
+SAFRD        OG    DF011010 D   N12204017W001311009                                                                                 
+SAFRD        BD    DF011470 D   N11084210W004210310                                                                                 
+SAFRD        OG    DF011290 D   N12204660W001304620                                                                                 
+SAFRER       G854G       0010BD   DFD       O                                      05500     24500                                  
+SAFRER       G854G       0020BUROMDFEA      O                             0917     05500     24500                                  
+SAFRER       G854G       0030OG   DFD       O                             0900     04500     24500                                  
+SAFRER       G854G       0040BULSADFEA      O                             0600     04500     24500                                  
+SAFRER       G854G       0050BANGADFEA      O                             0882     04500     24500                                  
+SAFRER       G854G       0060NY     D       O                             0799     04500     24500                                  
+SAFRER       B726F       0020IRNISDFEA      O                             0751     04500     24500                                  
+SAFRER       A601F       0020BD   DFD       O                             0998     05500     24500                                  
+SAFRER       A601F       0030EBSUDGAEA      O                             0570     05500     24500                                  
+SAFRER       A600F       0050ONUSIDFEA      O                             0655     06500     24500                                  
+SAFRER       A600F       0110FANDODFEA      O                                      06500     24500                                  
+SAFRER       A600F       0120EDKOXDFEA      O                             0917     06500     24500                                  
+SAFRER       A600F       0130NY     D       O                             0799     06500     24500                                  
+SAFRER       G860        0050KOKANDFEA      O                             0837     06500     24500                                  
+SAFRER       G860        0060OG   DFD       O                             0932     06500     24500                                  
+SAFRER       R983        0010BONGODFEA      O                                      04500     24500                                  
+SAFRER       R983        0020OG   DFD       O                             0886     04500     24500                                  
+SAFRER       UR984       0280OG   DFD       O                             1064     24500     46000                                  
+SAFRER       G859F       0040GULIMDFEA      O                             1085     04500     24500                                  
+SAFRER       G859F       0090OG   DFD       O                                      04500     24500                                  
+SAFRER       G859F       0100TUMUTDFEA      O                             0853     04500     24500                                  
+SAFRER       R984        0080OG   DFD       O                                      04500     24500                                  
+SAFRER       R984        0090OXIDUDGEA      O                             1064     04500     24500                                  
+SAFRER       R982        0010OG   DFD       O                                      04500     24500                                  
+SAFRER       R982        0020NAVONDGEA      O                             0827     04500     24500                                  
+SAFRER       UA601       0150BD   DFD       O                             0570     24500     46000                                  
+SAFRER       UA601       0160BIGOMDFEA      O                             0833     24500     46000                                  
+SAFRER       UA601       0170NANGADGEA      O                             0165     24500     46000                                  
+SAFRER       UG854       0010BD   DFD       O                                      24500     46000                                  
+SAFRER       UG854       0020GEBLUDFEA      O                             0942     24500     46000                                  
+SAFRER       UG854       0030OG   DFD       O                             0876     24500     46000                                  
+SAFRER       UG854       0040DEKASDFEA      O                             0925     24500     46000                                  
+SAFRER       UG854       0050NY     D       O                             1356     24500     46000                                  
+SAFRER       UM974       0080EPEPODFEA      O                             0949     24500     46000                                  
+SAFRER       UM974       0090KILKODFEA      O                             0252     24500     46000                                  
+SAFRER       UM974       0100LIPETDFEA      O                             0245     24500     46000                                  
+SAFRER       UM974       0110NY     D       O                             1323     24500     46000                                  
+SAFRER       UA614       0020BIGOMDFEA      O                             1685     24500     46000                                  
+SAFRER       UA614       0030GEBLUDFEA      O                             0754     24500     46000                                  
+SAFRER       UA614       0040GUPOVDFEA      O                             0381     24500     46000                                  
+SAFRER       UA614       0050TAVOTDFEA      O                             0417     24500     46000                                  
+SAFRER       UA614       0060VOLBUGAEA      O                             0802     24500     46000                                  
+SAFRER       UG859       0060TUMUTDFEA      O                             0506     24500     46000                                  
+SAFRER       UG859       0070OG   DFD       O                             0853     24500     46000                                  
+SAFRER       UG859       0080EPEPODFEA      O                                      24500     46000                                  
+SAFRER       UG859       0090GAO  GAD       O                             1371     24500     46000                                  
+SAFRER       UG860       0030GUPOVDFEA      O                             1024     24500     46000                                  
+SAFRER       UG860       0040OG   DFD       O                             0745     24500     46000                                  
+SAFRER       UR983       0010OG   DFD       O                                      24500     46000                                  
+SAFRER       UR983       0020BONGODFEA      O                             0886     24500     60000                                  
+SAFRER       UR983       0030NASIADGEA      O                             0604     24500     60000                                  
+SAFRER       UA600       0050NUREXDFEA      O                                      24500     46000                                  
+SAFRER       UA600       0060TAVOTDFEA      O                             0464     24500     46000                                  
+SAFRER       UA600       0070ONUSIDFEA      O                             0944     24500     46000                                  
+SAFRER       UA600       0080PITMAGAEA      O                             0655     24500     46000                                  
+SAFRER       UA600       0100TARENDFEA      O                             1299     24500     46000                                  
+SAFRER       UA603       0020LIPETDFEA      O                             1384     24500     46000                                  
+SAFRER       UA603       0030TARENDFEA      O                             0372     24500     46000                                  
+SAFRER       UA603       0040DEKASDFEA      O                             0300     24500     46000                                  
+SAFRER       UA603       0050PINGODGEA      O                             1089     24500     46000                                  
+SAFRER       UR982       0010OG   DFD       O                                      24500     46000                                  
+SAFRER       UR982       0020NAVONDGEA      O                             0827     24500     46000                                  
+SAFRER       UR866       0010OG   DFD       O                                      24500     46000                                  
+SAFRER       UR866       0020NUREXDFEA      O                             0531     24500     46000                                  
+SAFRER       UR866       0030VOLBUGAEA      O                             0820     24500     46000                                  

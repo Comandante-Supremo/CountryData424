@@ -1,0 +1,162 @@
+SEUREAENRT   ADEKI UB           N41174800E046445600                                                                                 
+SEUREAENRT   ADVIN UB           N41000000E046570000                                                                                 
+SEUREAENRT   BAK15 UB           N40313074E049591352                                                                                 
+SEUREAENRT   BAK19 UB           N40303406E050011316                                                                                 
+SEUREAENRT   BAK20 UB           N40304024E050011008                                                                                 
+SEUREAENRT   BAK39 UB           N40242570E050035143                                                                                 
+SEUREAENRT   BEKIR UB           N41032910E0475317100                                                                                
+SEUREAENRT   DALGA UB           N40490000E048570000                                                                                 
+SEUREAENRT   DEDIN UB           N41193000E045125400                                                                                 
+SEUREAENRT   DULAV UB           N38565672E045375374                                                                                 
+SEUREAENRT   GINET UB           N40353510E0485211100                                                                                
+SEUREAENRT   GYD25 UB           N40274393E049560832                                                                                 
+SEUREAENRT   GYD27 UB           N40291449E049555556                                                                                 
+SEUREAENRT   GYD50 UB           N40195763E050080269                                                                                 
+SEUREAENRT   GYD59 UB           N40205478E050054467                                                                                 
+SEUREAENRT   GYD63 UB           N40225748E049584429                                                                                 
+SEUREAENRT   GYD69 UB           N40190435E050041319                                                                                 
+SEUREAENRT   GYD87 UB           N40195453E050055418                                                                                 
+SEUREAENRT   GYD93 UB           N40191483E050002521                                                                                 
+SEUREAENRT   GYD98 UB           N40183275E050021631                                                                                 
+SEUREAENRT   KARAD UB           N40141710E049293000                                                                                 
+SEUREAENRT   KEDAB UB           N40360000E046015400                                                                                 
+SEUREAENRT   KOTAN UB           N40584710E045174800                                                                                 
+SEUREAENRT   LAMRI UB           N40285400E049191800                                                                                 
+SEUREAENRT   LEKBA UB           N41313600E0484417100                                                                                
+SEUREAENRT   LESGI UB           N40530510E049203500                                                                                 
+SEUREAENRT   LIMTI UB           N40442400E047234800                                                                                 
+SEUREAENRT   LUSAL UB           N40345910E047570000                                                                                 
+SEUREAENRT   MIVKO UB           N40023510E0483705100                                                                                
+SEUREAENRT   MOTEG UB           N41403600E048270000                                                                                 
+SEUREAENRT   NETON UB           N39454200E048114200                                                                                 
+SEUREAENRT   OKBUL UB           N40164800E0485953100                                                                                
+SEUREAENRT   OKTAT UB           N41252310E0483311100                                                                                
+SEUREAENRT   PARSU UB           N39374800E0480447100                                                                                
+SEUREAENRT   PEMAN UB           N40232710E0453831100                                                                                
+SEUREAENRT   R1743 UB           N40291200E0500347100                                                                                
+SEUREAENRT   R1744 UB           N40272839E0500347100                                                                                
+SEUREAENRT   R2545 UB           N40284710E0500205100                                                                                
+SEUREAENRT   R2546 UB           N40272400E050024800                                                                                 
+SEUREAENRT   SAGIL UB           N40375910E0493359100                                                                                
+SEUREAENRT   SUTUN UB           N40041800E049043000                                                                                 
+SEUREAENRT   USAGA UB           N40181500E0490302100                                                                                
+SEUREAENRT   XIMBO UB           N40233000E0491023100                                                                                
+SEURDB       AU    UB000420     N40340000E0482259100                                                                                
+SEURDB       BI    UB000470     N40305400E0500105100                                                                                
+SEURDB       BU    UB000515     N40311800E0500347100                                                                                
+SEURDB       N     UB000733     N40265310E0500259100                                                                                
+SEURDB       BN    UB000360     N40251200E0500353100                                                                                
+SEURDB       I     UB000733     N40291710E050014800                                                                                 
+SEURDB       A     UB001130     N40264200E0500347100                                                                                
+SEURDB       U     UB001130     N40293510E0500347100                                                                                
+SEURDB       K     UB000985     N40431800E0462017100                                                                                
+SEURDB       KM    UB000486     N40415310E046224800                                                                                 
+SEURDB       ZW    UB000486     N40460000E046160840                                                                                 
+SEURDB       KL    UB000320     N40211710E050120000                                                                                 
+SEURDB       MO    UB001359     N40370000E0461959100                                                                                
+SEURDB       NT    UB000680     N39133330E045245160                                                                                 
+SEURDB       NO    UB000493     N39095430E045290940                                                                                 
+SEURDB       PAD   UB000413     N39344270E047580280                                                                                 
+SEURDB       MM    UB000338     N39364410E0475116100                                                                                
+SEURDB       ED    UB000409     N40362400E0471059100                                                                                
+SEURD        GYD   UB011410V    N40282050E050030250                                                                                 
+SEURD        GYD   UB011410 D   N40282050E050030250                                                                                 
+SEURER       R794        0020GYD  UBD       O                             0248     08000     19500                                  
+SEURER       A357        0050GYD  UBD       O                             0240     08000     19500                                  
+SEURER       A357        0060BUNIS  EA      O                             0190     08000     19500                                  
+SEURER       A910        0040DEDINUBEA      O                             0063     15000     19500                                  
+SEURER       A910        0050LIMTIUBEA      O                             1049     15000     19500                                  
+SEURER       A910        0060LUSALUBEA      O                             0269     15000     19500                                  
+SEURER       B111        0010LUSALUBEA      O                                      08000     19500                                  
+SEURER       B111        0020ED   UBD       O                             0350     08000     19500                                  
+SEURER       B111        0030ZW   UBD       O                             0427     08000     19500                                  
+SEURER       B111        0040MATALUDEA      O                             0349     16000     19000                                  
+SEURER       B111        0140GINETUBEA      O                                      08000     19500                                  
+SEURER       B111        0150SAGILUBEA      O                             0318     08000     19500                                  
+SEURER       B111        0160GYD  UBD       O                             0241     08000     19500                                  
+SEURER       R315        0010BEKIRUBEA      O                                      19000     19500                                  
+SEURER       R315        0020DALGAUBEA      O                             0503     19000     19500                                  
+SEURER       R315        0030SAGILUBEA      O                             0301     09000     19500                                  
+SEURER       G161        0010PEMANUBEA      O                                      19000     19500                                  
+SEURER       G161        0020ED   UBD       O                             0715     19000     19500                                  
+SEURER       G161        0030LIMTIUBEA      O                             0126     19000     19500                                  
+SEURER       G161        0040BEKIRUBEA      O                             0294     19000     19500                                  
+SEURER       G161        0050LEKBAUBEA      O                             0475     19000     19500                                  
+SEURER       G161        0060OMAKI  EA      O                             0293     19000     19500                                  
+SEURER       G96         0010PEMANUBEA      O                                      19000     19500                                  
+SEURER       G96         0020KEDABUBEA      O                             0218     19000     19500                                  
+SEURER       G96         0030ZW   UBD       O                             0147     18000     19500                                  
+SEURER       G155        0020GYD  UBD       O                             0163     08000     19500                                  
+SEURER       B140        0010KOTANUBEA      O                                      07000     19500                                  
+SEURER       B140        0020DEDINUBEA      O                             0210     07000     19500                                  
+SEURER       B140        0030LEGVIUGEA      O                             0046     07000     19500                                  
+SEURER       A911        0010GYD  UBD       O                                      05000     19500                                  
+SEURER       A911        0020DILON  EA      O                             0272     08000     19500                                  
+SEURER       B140-       0010KOTANUBEA      O                                      14000     19000                                  
+SEURER       B140-       0020GIDLAUDEA      O                             0151     14000     19000                                  
+SEURER       A422        0010KARADUBEA      O                                      10000     19500                                  
+SEURER       A422        0020SUTUNUBEA      O                             0216     10000     19500                                  
+SEURER       A422        0030PARSUUBEA      O                             0530     10000     19500                                  
+SEURER       A422        0040PAD  UBD       O                                      22000     60000                                  
+SEURER       A422        0050DASDAOIEA      O                             0737     22000     60000                                  
+SEURER       G177        0010LUSALUBEA      O                                      15000     19500                                  
+SEURER       G177        0020MIVKOUBEA      O                             0446     15000     19500                                  
+SEURER       G177        0030NASIL  EA      O                             0840     15000     19500                                  
+SEURER       B945        0030MOTEGUBEA      O                             0265     31500     42900                                  
+SEURER       B706        0020NT   UBD       O                             0369     13000     19500                                  
+SEURER       W151        0010PAD  UBD       O                                      11000     60000                                  
+SEURER       W151        0020TUKDOOIEA      O                             0494     11000     60000                                  
+SEURER       A912        0020SAGILUBEA      O                             0888     09000     19500                                  
+SEURER       UA910       0040LIMTIUBEA      O                             1111     28000     43000                                  
+SEURER       UA910       0050LUSALUBEA      O                             0269     28000     43000                                  
+SEURER       UB111       0010LUSALUBEA      O                                      20000     43000                                  
+SEURER       UB111       0020ED   UBD       O                             0350     20000     43000                                  
+SEURER       UB111       0030ZW   UBD       O                             0427     20000     43000                                  
+SEURER       UB111       0040MATALUDEA      O                             0349     20000     46000                                  
+SEURER       UB111       0140GINETUBEA      O                                      20000     43000                                  
+SEURER       UB111       0150SAGILUBEA      O                             0318     20000     43000                                  
+SEURER       UB111       0160GYD  UBD       O                             0241     20000     43000                                  
+SEURER       UG161       0080LEKBAUBEA      O                             0293     20000     43000                                  
+SEURER       UG161       0090OKTATUBEA      O                             0104     20000     43000                                  
+SEURER       UG161       0100BEKIRUBEA      O                             0372     20000     43000                                  
+SEURER       UG161       0110LIMTIUBEA      O                             0294     20000     43000                                  
+SEURER       UG161       0120ED   UBD       O                             0126     20000     43000                                  
+SEURER       UG161       0130PEMANUBEA      O                             0715     20000     43000                                  
+SEURER       UG161       0140REBGIUDEA      O                             0477     20000     46000                                  
+SEURER       UR315       0010BEKIRUBEA      O                                      20000     43000                                  
+SEURER       UR315       0020SAGILUBEA      O                             0804     20000     43000                                  
+SEURER       UP567       0110NETONUBEA      O                             1374     28000     43000                                  
+SEURER       UP567       0120ULDUS  EA      O                             1691     28000     43000                                  
+SEURER       UG792       0020USAGAUBEA      O                             1193     28000     43000                                  
+SEURER       UG792       0030LUSALUBEA      O                             0530     28000     43000                                  
+SEURER       UR661       0040DULAVUBEA      O                                      20000     43000                                  
+SEURER       UR661       0050NT   UBD       O                             0195     20000     43000                                  
+SEURER       UA911       0020GYD  UBD       O                             0724     20000     43000                                  
+SEURER       UB702       0020XIMBOUBEA      O                             1094     28000     43000                                  
+SEURER       UB702       0030LUSALUBEA      O                             0570     28000     43000                                  
+SEURER       R661-       0010DULAVUBEA      O                                      29000     60000                                  
+SEURER       R661-       0020RABDIOIEA      O                             0162     29000     60000                                  
+SEURER       UA357       0030GYD  UBD       O                             0517     20000     43000                                  
+SEURER       UA357       0040NASAR  EA      O                             0496     20000     43000                                  
+SEURER       UB140       0030KOTANUBEA      O                             0151     14000     19000                                  
+SEURER       UB140       0040LEGVIUGEA      O                             0256     19500     28000                                  
+SEURER       UR325       0020SUTUNUBEA      O                             1127     20000     43000                                  
+SEURER       UR325       0030OKBULUBEA      O                             0130     20000     43000                                  
+SEURER       UR325       0040GINETUBEA      O                             0197     20000     43000                                  
+SEURER       UR325       0050OKTATUBEA      O                             0519     20000     43000                                  
+SEURER       UR325       0060MOTEGUBEA      O                             0159     20000     43000                                  
+SEURER       UR321       0010MOTEGUBEA      O                                      20000     43000                                  
+SEURER       UR321       0020LAMRIUBEA      O                             0819     20000     43000                                  
+SEURER       UR321       0030KARADUBEA      O                             0166     20000     43000                                  
+SEURER       UR321       0040NASAR  EA      O                             0410     20000     43000                                  
+SEURER       UA422       0010KARADUBEA      O                                      20000     43000                                  
+SEURER       UA422       0020SUTUNUBEA      O                             0216     20000     43000                                  
+SEURER       UA422       0030PARSUUBEA      O                             0530     20000     43000                                  
+SEURER       UA909       0010LESGIUBEA      O                                      28000     43000                                  
+SEURER       UA909       0020RODAR  EA      O                             1014     28000     43000                                  
+SEURER       UG177       0010LUSALUBEA      O                                      20000     43000                                  
+SEURER       UG177       0020MIVKOUBEA      O                             0446     20000     43000                                  
+SEURER       UG177       0030NASIL  EA      O                             0840     20000     43000                                  
+SEURER       UG96        0010PEMANUBEA      O                                      20000     43000                                  
+SEURER       UG96        0020ZW   UBD       O                             0364     20000     43000                                  
+SEURER       UA912       0020SAGILUBEA      O                             0888     20000     43000                                  

@@ -1,0 +1,31 @@
+SAFREAENRT   ABMGA HB           S03041111E030245712                                                                                 
+SAFREAENRT   ABMRG HB           S02533667E029175170                                                                                 
+SAFREAENRT   ABMYI HB           S03352748E030131781                                                                                 
+SAFREAENRT   EGMOL HB           S03390646E030254983                                                                                 
+SAFRDB       KW    HB000385     S03075583E029171844                                                                                 
+SAFRDB       BN    HB000255     S03145460E029182270                                                                                 
+SAFRDB       GI    HB000360     S03251064E029545277                                                                                 
+SAFRDB       DO    HB000295     S02324479E030061524                                                                                 
+SAFRDB       GA    HB000345     S02503824E030204601                                                                                 
+SAFRDB       NL    HB000375     S04204966E029354931                                                                                 
+SAFRDB       YI    HB000275     S03282911E030145344                                                                                 
+SAFRDB       RG    HB000305     S02545944E029310725                                                                                 
+SAFRD        BJA   HB011230V    S03204682E029191929                                                                                 
+SAFRD        BJA   HB011230 D   S03204682E029191929                                                                                 
+SAFRER       1E9         0010BJA  HBD       O                                      14400     60000                                  
+SAFRER       1E9         0020BKV  FZD       O                             0693     14400     60000                                  
+SAFRER       A408        0010BJA  HBD       O                                      13000     24500                                  
+SAFRER       A408        0020RG   HBD       O                             0284     13000     24500                                  
+SAFRER       A408        0030GAVDAHREA      O                             0113     08500     24500                                  
+SAFRER       B527F       0010BJA  HBD       O                                      13000     24500                                  
+SAFRER       B527F       0020TALACFZEA      O                             0385     13000     24500                                  
+SAFRER       UA408       0010BJA  HBD       O                                      24500     60000                                  
+SAFRER       UA408       0020GAVDAHREA      O                             0382     24500     60000                                  
+SAFRER       UG450       0020BJA  HBD       O                             0231     24500     46000                                  
+SAFRER       UG450       0030GETABHTEA      O                             0909     24500     60000                                  
+SAFRER       UA613       0010BJA  HBD       O                                      31000     60000                                  
+SAFRER       UA613       0020IRASAFZEA      O                             0385     31000     60000                                  
+SAFRER       UB607       0070BJA  HBD       O                             0434     24500     60000                                  
+SAFRER       UB607       0080UDMAMHTEA      O                             0690     24500     60000                                  
+SAFRER       UA408       0010BJA  HBD       O                                      24500     60000                                  
+SAFRER       UA408       0020KMI  FZD       O                             1515     24500     60000                                  

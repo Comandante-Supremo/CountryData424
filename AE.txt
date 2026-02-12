@@ -1,0 +1,120 @@
+SMESEAENRT   ALPEK OM           N22464800E0535941100                                                                                
+SMESEAENRT   ATBOR OM           N25100610E0551946100                                                                                
+SMESEAENRT   AUH01 OM           N24270375E054374924                                                                                 
+SMESEAENRT   AUH02 OM           N24251187E054402188                                                                                 
+SMESEAENRT   AUH03 OM           N24280025E054355310                                                                                 
+SMESEAENRT   AUH05 OM           N24230638E054424368                                                                                 
+SMESEAENRT   AUH10 OM           N24333342E054305389                                                                                 
+SMESEAENRT   AUH12 OM           N24193056E054492504                                                                                 
+SMESEAENRT   AUH16 OM           N24211840E054503597                                                                                 
+SMESEAENRT   AUH17 OM           N24343951E054303351                                                                                 
+SMESEAENRT   AUH26 OM           N24354426E054320237                                                                                 
+SMESEAENRT   AUH30 OM           N24332284E054291685                                                                                 
+SMESEAENRT   AUH31 OM           N24343155E054302435                                                                                 
+SMESEAENRT   AUH89 OM           N24312935E054312181                                                                                 
+SMESEAENRT   AUH92 OM           N24323749E054300177                                                                                 
+SMESEAENRT   AUH93 OM           N24233317E054422698                                                                                 
+SMESEAENRT   AUH94 OM           N24204488E054501686                                                                                 
+SMESEAENRT   AUH95 OM           N24215260E054482749                                                                                 
+SMESEAENRT   AUH96 OM           N24223983E054511295                                                                                 
+SMESEAENRT   AUH97 OM           N24203210E0544731100                                                                                
+SMESEAENRT   AUH99 OM           N24282429E054354127                                                                                 
+SMESEAENRT   AVAMI OM           N25055310E055564700                                                                                 
+SMESEAENRT   BUBIN OM           N24574110E056064200                                                                                 
+SMESEAENRT   BUBOK OM           N25122000E0553719100                                                                                
+SMESEAENRT   DBW04 OM           N25134178E055243048                                                                                 
+SMESEAENRT   DERLA OM           N25075000E0553342100                                                                                
+SMESEAENRT   DUB01 OM           N25144168E055225084                                                                                 
+SMESEAENRT   DUB02 OM           N25144703E055225452                                                                                 
+SMESEAENRT   DUB03 OM           N25154450E055205812                                                                                 
+SMESEAENRT   DUB05 OM           N25122344E055262774                                                                                 
+SMESEAENRT   DUB06 OM           N25173752E055170414                                                                                 
+SMESEAENRT   DUB30 OM           N25180455E055172198                                                                                 
+SMESEAENRT   DUB31 OM           N25154991E055210169                                                                                 
+SMESEAENRT   DUB50 OM           N25125016E055264612                                                                                 
+SMESEAENRT   ELUDA OM           N23510610E0552904100                                                                                
+SMESEAENRT   EMERU OM           N24482900E0550302100                                                                                
+SMESEAENRT   GEVOS OM           N24314618E054280783                                                                                 
+SMESEAENRT   GIDOX OM           N25082961E055335923                                                                                 
+SMESEAENRT   GIRBA OM           N24332605E054291897                                                                                 
+SMESEAENRT   GIVDI OM           N24214251E054441839                                                                                 
+SMESEAENRT   GONDI OM           N24395000E054532600                                                                                 
+SMESEAENRT   IMSEN OM           N24292505E054325861                                                                                 
+SMESEAENRT   IMTEN OM           N25531700E0555448100                                                                                
+SMESEAENRT   ITOMA OM           N24304055E054331057                                                                                 
+SMESEAENRT   ITRAX OM           N24124710E0554748100                                                                                
+SMESEAENRT   IVEDA OM           N25104162E055291097                                                                                 
+SMESEAENRT   KANIP OM           N24104000E0552041100                                                                                
+SMESEAENRT   KAROX OM           N24213910E054325299                                                                                 
+SMESEAENRT   KAXAM OM           N24181310E054481463                                                                                 
+SMESEAENRT   KISIT OM           N24212110E0550620100                                                                                
+SMESEAENRT   LABRI OM           N24034310E055384200                                                                                 
+SMESEAENRT   LUDER OM           N24573300E055051100                                                                                 
+SMESEAENRT   MIADA OM           N24511110E054573600                                                                                 
+SMESEAENRT   MISOD OM           N24190000E0544359100                                                                                
+SMESEAENRT   NADNI OM           N25191410E0555658100                                                                                
+SMESEAENRT   NALTA OM           N25024200E055395500                                                                                 
+SMESEAENRT   NOBTO OM           N23552410E0551839100                                                                                
+SMESEAENRT   OBNEL OM           N25085810E055343000                                                                                 
+SMESEAENRT   ODKOS OM           N24211478E054453855                                                                                 
+SMESEAENRT   ORDEB OM           N25112492E055294042                                                                                 
+SMESEAENRT   OSTIN OM           N25072010E055360000                                                                                 
+SMESEAENRT   R1750 OM           N24263980E054380674                                                                                 
+SMESEAENRT   R1751 OM           N24251815E054400177                                                                                 
+SMESEAENRT   R1800 OM           N25154168E055205495                                                                                 
+SMESEAENRT   R1801 OM           N25145118E055222600                                                                                 
+SMESEAENRT   R1802 OM           N25062037E056202905                                                                                 
+SMESEAENRT   RETIN OM           N24445700E054460000                                                                                 
+SMESEAENRT   RIDEX OM           N24190846E054490493                                                                                 
+SMESEAENRT   ROVOS OM           N24182410E0552142100                                                                                
+SMESEAENRT   SINTU OM           N24181500E054365300                                                                                 
+SMESEAENRT   TAGPA OM           N25113268E055282954                                                                                 
+SMESEAENRT   TALKU OM           N24354410E054454500                                                                                 
+SMESEAENRT   TANSU OM           N22413510E0542827100                                                                                
+SMESEAENRT   TUKLA OM           N25193600E0554009100                                                                                
+SMESDB       AIN   OM000399     N24145410E055361540                                                                                 
+SMESDB       AD    OM000392     N24253949E054272118                                                                                 
+SMESDB       BH    OM000309     N23370000E0532259100                                                                                
+SMESDB       FUJ   OM000400     N25060710E056210210                                                                                 
+SMESD        AUH   OM011300V    N24263550E054384730                                                                                 
+SMESD        ALN   OM011260V    N24153510E055362290                                                                                 
+SMESD        MA    OM011490V    N24144850E054324346                                                                                 
+SMESD        VAD   OM011400V    N24253876E054275478                                                                                 
+SMESD        DUB   OM011570V    N25151623E055215660                                                                                 
+SMESD        FJR   OM011470V    N25060610E0562106100                                                                                
+SMESD        RAV   OM011360V    N25351835E055564677                                                                                 
+SMESD        SHJ   OM011230V    N25194857E055311354                                                                                 
+SMESD        IAE   OM010890 D   N24263710E054382000                                                                                 
+SMESD        IAW   OM010930 D   N24252660E054395350                                                                                 
+SMESD        IDBL  OM011010 D   N25155060E055211330                                                                                 
+SMESD        IDBW  OM011130 D   N25144680E055224230                                                                                 
+SMESD        IDBR  OM011090 D   N25150080E0552242100                                                                                
+SMESD        AUH   OM011300 D   N24263550E054384730                                                                                 
+SMESD        ALN   OM011260 D   N24153510E055362290                                                                                 
+SMESD        MA    OM011490 D   N24144850E054324346                                                                                 
+SMESD        VAD   OM011400 D   N24253876E054275478                                                                                 
+SMESD        DUB   OM011570 D   N25151623E055215660                                                                                 
+SMESD        FJR   OM011470 D   N25060610E0562106100                                                                                
+SMESD        RAV   OM011360 D   N25351835E055564677                                                                                 
+SMESD        SHJ   OM011230 D   N25194857E055311354                                                                                 
+SMESER       G462        0080TALKUOMEA      O                             0359     16000     60000                                  
+SMESER       G462        0090KISITOMEA      O                             0236     16000     60000                                  
+SMESER       B457        0060LABRIOMEA      O                             0235     10500     60000                                  
+SMESER       B457        0070KANIPOMEA      O                             0178     10500     60000                                  
+SMESER       P574        0010BUBINOMEA      O                                      14500     60000                                  
+SMESER       P574        0020GISMOOOEA      O                             0176     14500     60000                                  
+SMESER       P574        0110TUKLAOMEA      O                             0304     14500     60000                                  
+SMESER       A419        0040MIADAOMEA      O                             0316     04500     60000                                  
+SMESER       A419        0050LUDEROMEA      O                             0094     04500     60000                                  
+SMESER       B540        0070BUBINOMEA      O                             0192     06500     26500                                  
+SMESER       M762        0050BUBINOMEA      O                             0179     06500     26500                                  
+SMESER       T509        0010FJR  OMD       RL                                     03500     13000                                  
+SMESER       T509        0020MENSA  EA      RL                            0135     03500     13000                                  
+SMESER       L519        0010EMERUOMEA      O                                      04500     60000                                  
+SMESER       L519        0020GONDIOMEA      O                             0123     04500     60000                                  
+SMESER       G783        0010BUBINOMEA      O                                      14500     60000                                  
+SMESER       G783        0020GIDISOOEA      O                             0238     14500     60000                                  
+SMESER       G783        0030ELUDAOMEA      O                                      14500     60000                                  
+SMESER       G783        0040NIGELOOEA      O                             0510     14500     60000                                  
+SMESER       G783        0050TANSUOMEA      O                             0471     14500     33000                                  
+SMESER       UG783       0020TANSUOMEA      O                             2121     15000     46000                                  

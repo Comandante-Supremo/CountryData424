@@ -1,0 +1,222 @@
+SEUREAENRT   ACTUS LQ           N44413059E018234686                                                                                 
+SEUREAENRT   BARIT LQ           N43153910E0175120100                                                                                
+SEUREAENRT   BATRU LQ           N44110600E0192153100                                                                                
+SEUREAENRT   BILLS LQ           N44294193E018160023                                                                                 
+SEUREAENRT   BOSNA LQ           N44221400E0174534100                                                                                
+SEUREAENRT   CURRT LQ           N43073435E017492271                                                                                 
+SEUREAENRT   DELTA LQ           N44285101E018271260                                                                                 
+SEUREAENRT   DEPET LQ           N44404400E0155809100                                                                                
+SEUREAENRT   DOBOT LQ           N44462600E0175408100                                                                                
+SEUREAENRT   DONJI LQ           N44085169E017242390                                                                                 
+SEUREAENRT   DRVAR LQ           N44210610E016353800                                                                                 
+SEUREAENRT   EDALA LQ           N44133000E017292900                                                                                 
+SEUREAENRT   GILUK LQ           N43515736E018061684                                                                                 
+SEUREAENRT   GUBOK LQ           N45024010E017514200                                                                                 
+SEUREAENRT   HANDY LQ           N44040330E018154320                                                                                 
+SEUREAENRT   IDASI LQ           N44281300E017061900                                                                                 
+SEUREAENRT   KOMAR LQ           N44572901E016481500                                                                                 
+SEUREAENRT   KUSIB LQ           N45085300E016281800                                                                                 
+SEUREAENRT   KUTAK LQ           N43150100E0183236100                                                                                
+SEUREAENRT   LOKSI LQ           N44341800E0191047100                                                                                
+SEUREAENRT   LURID LQ           N45080510E017235800                                                                                 
+SEUREAENRT   MARIL LQ           N44375910E0171959100                                                                                
+SEUREAENRT   MITNO LQ           N43462310E019143000                                                                                 
+SEUREAENRT   MONID LQ           N44580300E0161820100                                                                                
+SEUREAENRT   NEPSI LQ           N43173500E0184539100                                                                                
+SEUREAENRT   NESUX LQ           N43585510E019332400                                                                                 
+SEUREAENRT   NOVLO LQ           N45134510E016571100                                                                                 
+SEUREAENRT   PODOB LQ           N43315400E0190839100                                                                                
+SEUREAENRT   R1808 LQ           N44273540E018423360                                                                                 
+SEUREAENRT   ROBBY LQ           N43474264E017592843                                                                                 
+SEUREAENRT   RUDAR LQ           N43385410E018292100                                                                                 
+SEUREAENRT   RUDIK LQ           N44594710E0161817100                                                                                
+SEUREAENRT   SCRIB LQ           N44411953E018233950                                                                                 
+SEUREAENRT   SOLGU LQ           N44070000E017400000                                                                                 
+SEUREAENRT   SOMUN LQ           N44354700E019061800                                                                                 
+SEUREAENRT   SONIK LQ           N44265400E0160835100                                                                                
+SEUREAENRT   STEFY LQ           N43444160E018285119                                                                                 
+SEUREAENRT   SUDIM LQ           N44400110E016182000                                                                                 
+SEUREAENRT   TABAV LQ           N44245000E016182000                                                                                 
+SEUREAENRT   TEBLI LQ           N45120500E0164032100                                                                                
+SEUREAENRT   TROFT LQ           N44482785E018134111                                                                                 
+SEUREAENRT   TU094 LQ           N44273570E018423591                                                                                 
+SEUREAENRT   TUZ03 LQ           N44260649E018473243                                                                                 
+SEUREAENRT   TUZ06 LQ           N44280286E018352618                                                                                 
+SEUREAENRT   TUZ09 LQ           N44282921E018311564                                                                                 
+SEUREAENRT   TUZ13 LQ           N44285567E018254120                                                                                 
+SEUREAENRT   TUZ14 LQ           N44273899E018415039                                                                                 
+SEUREAENRT   TUZ28 LQ           N44313189E018162463                                                                                 
+SEUREAENRT   TUZ30 LQ           N44483523E018135741                                                                                 
+SEUREAENRT   TUZ31 LQ           N44284567E018254227                                                                                 
+SEUREAENRT   TUZ60 LQ           N44280937E018352620                                                                                 
+SEUREAENRT   TUZ91 LQ           N44273428E018414976                                                                                 
+SEUREAENRT   TUZ94 LQ           N44282131E018311596                                                                                 
+SEUREAENRT   UNIPA LQ           N44014510E016285800                                                                                 
+SEUREAENRT   VEBAR LQ           N44080891E019104592                                                                                 
+SEUREAENRT   VINCE LQ           N44075150E018010120                                                                                 
+SEUREAENRT   VITEZ LQ           N44171311E017494716                                                                                 
+SEUREAENRT   VRANA LQ           N43451210E017321600                                                                                 
+SEUREAENRT   XAPAN LQ           N44571210E0184713100                                                                                
+SEUREAENRT   ZAVID LQ           N44242167E018144215                                                                                 
+SEUREAENRT   ZENIC LQ           N44200711E018014151                                                                                 
+SEURDB       BLK   LQ000340     N45054294E017152859                                                                                 
+SEURDB       NA    LQ000383     N44551960E017180901                                                                                 
+SEURDB       LU    LQ000397     N44573975E017173246                                                                                 
+SEURDB       GAC   LQ000370     N43083450E018332990                                                                                 
+SEURDB       KG    LQ000357     N43525308E018103723                                                                                 
+SEURDB       MGV   LQ000375     N44511219E018450198                                                                                 
+SEURDB       DNC   LQ000425     N43081484E017505054                                                                                 
+SEURDB       IL    LQ000436     N43492805E018200253                                                                                 
+SEURDB       TU    LQ000445     N44283818E018285888                                                                                 
+SEURD        LAK   LQ011590V    N44563000E0171744100                                                                                
+SEURD        DER   LQ011240V    N44590290E0175809100                                                                                
+SEURD        MSR   LQ011690V    N43154088E017512063                                                                                 
+SEURD        OMA   LQ011790V    N44572510E016482900                                                                                 
+SEURD        KEB   LQ011670V    N43560189E018265934                                                                                 
+SEURD        SAR   LQ010885V    N43492929E018200273                                                                                 
+SEURD        BHS   LQ011070 D   N43494510E018191800                                                                                 
+SEURD        LAK   LQ011590 D   N44563000E0171744100                                                                                
+SEURD        DER   LQ011240 D   N44590290E0175809100                                                                                
+SEURD        MSR   LQ011690 D   N43154088E017512063                                                                                 
+SEURD        OMA   LQ011790 D   N44572510E016482900                                                                                 
+SEURD        KEB   LQ011670 D   N43560189E018265934                                                                                 
+SEURD        SAR   LQ010885 D   N43492929E018200273                                                                                 
+SEURD        OTJ   LQ011490 D   N43162906E017511038                                                                                 
+SEURD        TUZ   LQ010970 D   N44272551E018434648                                                                                 
+SEURER       L604        0220KEB  LQD       O                                      10000     28500                                  
+SEURER       L604        0230RUDARLQEA      O                             0172     10000     28500                                  
+SEURER       L604        0240KUTAKLQEA      O                             0240     10000     28500                                  
+SEURER       L604        0250NOVLOLQEA      O                                      06000     28500                                  
+SEURER       L604        0260ZAG  LDD       O                             0483     06000     28500                                  
+SEURER       P11         0080KOMARLQEA      O                             0451     07000     28500                                  
+SEURER       P11         0090DER  LQD       O                             0495     07000     28500                                  
+SEURER       P11         0100VIBOPLDEA      O                             0322     07000     28500                                  
+SEURER       Q571        0050GUBOKLQEA      RH                            0261     05500     09500                                  
+SEURER       T392        0010BARITLQEA      RL                                     10000     28500                                  
+SEURER       T392        0020EDALALQEA      RL                            0600     10000     28500                                  
+SEURER       T392        0030MARILLQEA      RL                            0254     10000     28500                                  
+SEURER       P37         0010KEB  LQD       O                                      10000     28500                                  
+SEURER       P37         0020BARITLQEA      O                             0479     10000     28500                                  
+SEURER       P37         0030NETKOLDEA      O                             0157     10000     28500                                  
+SEURER       B92-L       0010VRANALQEA      O                                      10000     28500                                  
+SEURER       B92-L       0020BARITLQEA      O                             0327     10000     28500                                  
+SEURER       B92-L       0030MADOSLDEA      O                             0432     10000     28500                                  
+SEURER       B92-L       0050KOMARLQEA      O                                      08000     28500                                  
+SEURER       B92-L       0060TEBLILQEA      O                             0156     08000     28500                                  
+SEURER       B92-L       0070ZAG  LDD       O                             0445     05500     28500                                  
+SEURER       P35         0010BARITLQEA      O                                      10000     28500                                  
+SEURER       P35         0020VELITLDEA      O                             0259     10000     28500                                  
+SEURER       L5          0070BATRULQEA      O                             0235     08000     28500                                  
+SEURER       L5          0080VEBARLQEA      O                             0085     08000     28500                                  
+SEURER       L5          0090KEB  LQD       O                             0337     10000     28500                                  
+SEURER       L5          0100GILUKLQEA      O                             0155     10000     28500                                  
+SEURER       L5          0110VRANALQEA      O                             0255     10000     28500                                  
+SEURER       L5          0120KENEMLDEA      O                             0267     08000     28500                                  
+SEURER       L608        0140PODOBLQEA      O                             0205     10000     28500                                  
+SEURER       L608        0150KEB  LQD       O                             0386     10000     28500                                  
+SEURER       L608        0160BOSNALQEA      O                             0396     10000     28500                                  
+SEURER       L608        0170MARILLQEA      O                             0241     10000     28500                                  
+SEURER       L608        0180KOMARLQEA      O                             0298     10000     28500                                  
+SEURER       M725        0370RUDIKLQEA      O                             0540     10000     28500                                  
+SEURER       M725        0380MONIDLQEA      O                             0018     10000     28500                                  
+SEURER       M725        0390TABAVLQEA      O                             0332     10000     28500                                  
+SEURER       M725        0400SIRMILDEA      O                             0158     09000     28500                                  
+SEURER       L603        0140DER  LQD       O                                      10000     28500                                  
+SEURER       L603        0150GUBOKLQEA      O                             0058     10000     28500                                  
+SEURER       L603        0160ZAG  LDD       O                             0830     06000     28500                                  
+SEURER       L603        0390SOMUNLQEA      O                                      10000     28500                                  
+SEURER       L603        0400LOKSILQEA      O                             0035     10000     28500                                  
+SEURER       L603        0410VAL  LYD       O                             0333     10000     28500                                  
+SEURER       L615        0090VEBARLQEA      O                             0169     10000     28500                                  
+SEURER       L614        0070SONIKLQEA      O                             0272     10000     28500                                  
+SEURER       L614        0080TABAVLQEA      O                             0073     10000     28500                                  
+SEURER       L614        0090DRVARLQEA      O                             0129     10000     28500                                  
+SEURER       L614        0100SOLGULQEA      O                             0483     10000     28500                                  
+SEURER       L614        0110KEB  LQD       O                             0355     10000     28500                                  
+SEURER       L614        0120MITNOLQEA      O                             0356     10000     28500                                  
+SEURER       L614        0130PESAKLYEA      O                             0119     10000     28500                                  
+SEURER       N748        0050DEPETLQEA      O                             0216     09000     28500                                  
+SEURER       N748        0060RUDIKLQEA      O                             0238     10000     28500                                  
+SEURER       N748        0070PIXALLDEA      O                             0172     10000     28500                                  
+SEURER       B5-L6       0010DER  LQD       O                                      07000     28500                                  
+SEURER       B5-L6       0020SOMUNLQEA      O                             0537     07000     28500                                  
+SEURER       L608-       0020KOMARLQEA      O                             0186     10000     28500                                  
+SEURER       M867        0070RUDARLQEA      O                             0328     10000     28500                                  
+SEURER       M867        0080GILUKLQEA      O                             0212     10000     28500                                  
+SEURER       M867        0090SOLGULQEA      O                             0242     10000     28500                                  
+SEURER       M867        0100EDALALQEA      O                             0100     10000     28500                                  
+SEURER       M867        0110IDASILQEA      O                             0222     10000     28500                                  
+SEURER       L196        0040NOVLOLQEA      O                             0322     05000     28500                                  
+SEURER       L196        0050KOMARLQEA      O                             0175     10000     28500                                  
+SEURER       L196        0060DRVARLQEA      O                             0375     10000     28500                                  
+SEURER       L196        0070UNIPALQEA      O                             0199     10000     28500                                  
+SEURER       L196        0080SPL  LDD       O                             0329     09000     28500                                  
+SEURER       G16-L       0010KUTAKLQEA      O                                      10000     28500                                  
+SEURER       G16-L       0020GAC  LQD       O                             0065     10000     28500                                  
+SEURER       G16-L       0030PERAN  EA      O                             0081     10000     28500                                  
+SEURER       G16         0010KEB  LQD       O                                      10000     28500                                  
+SEURER       G16         0020KUTAKLQEA      O                             0412     10000     28500                                  
+SEURER       P10         0010KEB  LQD       O                                      10000     28500                                  
+SEURER       P10         0020VIBOPLDEA      O                             0650     10000     28500                                  
+SEURER       B92         0010KOMARLQEA      O                                      10000     28500                                  
+SEURER       B92         0020VRANALQEA      O                             0789     10000     28500                                  
+SEURER       UL604       0230GAC  LQD       O                             0273     29000     46000                                  
+SEURER       UL604       0240GILUKLQEA      O                             0477     29000     46000                                  
+SEURER       UL604       0250BOSNALQEA      O                             0337     29000     46000                                  
+SEURER       UL604       0260NOVLOLQEA      O                             0620     28500     46000                                  
+SEURER       UL604       0270ZAG  LDD       O                             0483     28500     46000                                  
+SEURER       UB25        0010BARITLQEA      O                                      28500     46000                                  
+SEURER       UB25        0020VELITLDEA      O                             0259     28500     46000                                  
+SEURER       UL603       0340LOKSILQEA      O                             0333     29000     46000                                  
+SEURER       UL603       0350DER  LQD       O                             0572     28500     46000                                  
+SEURER       UL603       0360GUBOKLQEA      O                             0058     28500     46000                                  
+SEURER       UL603       0370LIPNALDEA      O                             0375     28500     46000                                  
+SEURER       UL5         0060BATRULQEA      O                             0235     28500     60000                                  
+SEURER       UL5         0070VEBARLQEA      O                             0085     29000     46000                                  
+SEURER       UL5         0080KEB  LQD       O                             0337     29000     46000                                  
+SEURER       UL5         0090GILUKLQEA      O                             0155     29000     46000                                  
+SEURER       UL5         0100VRANALQEA      O                             0255     29000     46000                                  
+SEURER       UL5         0110KENEMLDEA      O                             0267     28500     46000                                  
+SEURER       UL608       0010BOSNALQEA      O                                      29000     46000                                  
+SEURER       UL608       0020KEB  LQD       O                             0396     29000     46000                                  
+SEURER       UL608       0030PODOBLQEA      O                             0386     29000     46000                                  
+SEURER       UL608       0040BEDAKLYEA      O                             0278     28500     60000                                  
+SEURER       UL615       0070VEBARLQEA      O                             0169     29000     46000                                  
+SEURER       UL615       0080BOSNALQEA      O                             0627     28500     46000                                  
+SEURER       UL615       0090SUDIMLQEA      O                             0647     28500     46000                                  
+SEURER       UL615       0100KOREXLDEA      O                             0237     28500     46000                                  
+SEURER       UM725       0540TABAVLQEA      O                             0158     28500     46000                                  
+SEURER       UM725       0550SUDIMLQEA      O                             0152     28500     46000                                  
+SEURER       UM725       0560MONIDLQEA      O                             0180     28500     46000                                  
+SEURER       UM725       0570RUDIKLQEA      O                             0018     28500     46000                                  
+SEURER       UM725       0580SIRMALDEA      O                             0148     28500     46000                                  
+SEURER       UL614       0100KEB  LQD       O                             0475     29000     46000                                  
+SEURER       UL614       0110SOLGULQEA      O                             0355     28500     46000                                  
+SEURER       UL614       0120DRVARLQEA      O                             0483     28500     46000                                  
+SEURER       UL614       0130TABAVLQEA      O                             0129     28500     46000                                  
+SEURER       UL614       0140SONIKLQEA      O                             0073     28500     46000                                  
+SEURER       UL614       0150PALEZLDEA      O                             0272     28500     46000                                  
+SEURER       UB1-U       0010BOSNALQEA      O                                      28500     46000                                  
+SEURER       UB1-U       0020KOMARLQEA      O                             0539     28500     46000                                  
+SEURER       UB1-U       0030KUSIBLQEA      O                             0181     28500     46000                                  
+SEURER       UB1-U       0040SIRMALDEA      O                             0090     28500     46000                                  
+SEURER       UN748       0050DEPETLQEA      O                             0436     28500     46000                                  
+SEURER       UN748       0060RUDIKLQEA      O                             0238     28500     46000                                  
+SEURER       UN748       0070KUSIBLQEA      O                             0115     28500     46000                                  
+SEURER       UN748       0080PIXALLDEA      O                             0056     28500     46000                                  
+SEURER       UP738       0010DER  LQD       O                                      29000     46000                                  
+SEURER       UP738       0020KOSIVLYEA      O                             0975     29000     46000                                  
+SEURER       UM867       0050GILUKLQEA      O                             0540     29000     46000                                  
+SEURER       UM867       0060SOLGULQEA      O                             0242     29000     46000                                  
+SEURER       UM867       0070MONIDLQEA      O                             0775     28500     46000                                  
+SEURER       UM867       0080TUPUSLDEA      O                             0233     28500     46000                                  
+SEURER       UL196       0040NOVLOLQEA      O                             0322     28500     46000                                  
+SEURER       UL196       0050KOMARLQEA      O                             0175     28500     46000                                  
+SEURER       UL196       0060DRVARLQEA      O                             0375     28500     46000                                  
+SEURER       UL196       0070UNIPALQEA      O                             0199     28500     46000                                  
+SEURER       UL196       0080SPL  LDD       O                             0329     28500     46000                                  
+SEURER       UL863       0100XAPANLQEA      O                             0107     28500     46000                                  
+SEURER       UL863       0110SIVLALDEA      O                             0194     28500     46000                                  
+SEURER       UL187       0010KOMARLQEA      O                                      28500     46000                                  
+SEURER       UL187       0020TEBLILQEA      O                             0156     28500     46000                                  
+SEURER       UL187       0030ZAG  LDD       O                             0445     28500     46000                                  
