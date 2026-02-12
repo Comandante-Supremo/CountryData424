@@ -1,0 +1,1451 @@
+SEUREAENRT   ADA03 LT           N36581384E035153550                                                                                 
+SEUREAENRT   ADA05 LT           N36532921E035073424                                                                                 
+SEUREAENRT   ADA08 LT           N36501740E035061238                                                                                 
+SEUREAENRT   ADA20 LT           N36491739E035080541                                                                                 
+SEUREAENRT   ADA23 LT           N36514303E035043277                                                                                 
+SEUREAENRT   ADA30 LT           N36581197E035153884                                                                                 
+SEUREAENRT   ADA38 LT           N36562830E035123392                                                                                 
+SEUREAENRT   ADA39 LT           N36540961E035083764                                                                                 
+SEUREAENRT   ADA51 LT           N37021893E035224369                                                                                 
+SEUREAENRT   ADA80 LT           N36513629E035043899                                                                                 
+SEUREAENRT   ADANB LT           N36581410E035154200                                                                                 
+SEUREAENRT   ADASU LT           N36450310E031232000                                                                                 
+SEUREAENRT   ADORU LT           N41521800E0263405100                                                                                
+SEUREAENRT   ADRES LT           N37101700E0372000100                                                                                
+SEUREAENRT   AGINA LT           N39192310E044051200                                                                                 
+SEUREAENRT   AKBUK LT           N37245110E027302800                                                                                 
+SEUREAENRT   AKSEK LT           N36552600E0281327100                                                                                
+SEUREAENRT   ALMUS LT           N40462700E036395600                                                                                 
+SEUREAENRT   ALPAY LT           N36495510E0295957100                                                                                
+SEUREAENRT   ALPER LT           N39573942E032560965                                                                                 
+SEUREAENRT   ALPHA LT           N39471980E030130180                                                                                 
+SEUREAENRT   ALTIN LT           N36460000E0292359100                                                                                
+SEUREAENRT   ALVAR LT           N39595600E0414458100                                                                                
+SEUREAENRT   AMANI LT           N39195510E0262957100                                                                                
+SEUREAENRT   ANK05 LT           N40062626E032583108                                                                                 
+SEUREAENRT   ANK07 LT           N39582868E032504031                                                                                 
+SEUREAENRT   ANK08 LT           N40021643E032541996                                                                                 
+SEUREAENRT   ANK09 LT           N40035134E032555165                                                                                 
+SEUREAENRT   ANK11 LT           N40063777E032583265                                                                                 
+SEUREAENRT   ANK60 LT           N39563642E032415474                                                                                 
+SEUREAENRT   ANK80 LT           N40034339E032554950                                                                                 
+SEUREAENRT   ANK83 LT           N40020168E032540873                                                                                 
+SEUREAENRT   ARKIN LT           N39554610E040000200                                                                                 
+SEUREAENRT   ARPUT LT           N38504400E038562600                                                                                 
+SEUREAENRT   ASKER LT           N38162600E0384628100                                                                                
+SEUREAENRT   ASTAL LT           N40442600E0330727100                                                                                
+SEUREAENRT   ATKAN LT           N39311200E0275057100                                                                                
+SEUREAENRT   AZBUL LT           N39225510E0332142100                                                                                
+SEUREAENRT   BADOX LT           N39195410E033583100                                                                                 
+SEUREAENRT   BAFRA LT           N41303010E035575900                                                                                 
+SEUREAENRT   BAG07 LT           N39581744E032433966                                                                                 
+SEUREAENRT   BAG09 LT           N39563659E032421475                                                                                 
+SEUREAENRT   BAG11 LT           N39543050E032402871                                                                                 
+SEUREAENRT   BAG15 LT           N39513392E032380043                                                                                 
+SEUREAENRT   BAGLU LT           N38041510E029193100                                                                                 
+SEUREAENRT   BAKIR LT           N39261600E0331927100                                                                                
+SEUREAENRT   BALIM LT           N38254610E041072700                                                                                 
+SEUREAENRT   BALON LT           N40053000E0393629100                                                                                
+SEUREAENRT   BALSU LT           N37272910E0292524100                                                                                
+SEUREAENRT   BANAZ LT           N40020910E0365018100                                                                                
+SEUREAENRT   BATUK LT           N37150000E028084800                                                                                 
+SEUREAENRT   BAYGA LT           N40365710E0424655100                                                                                
+SEUREAENRT   BAYIR LT           N38354010E041241400                                                                                 
+SEUREAENRT   BDR05 LT           N37162293E027340355                                                                                 
+SEUREAENRT   BDR07 LT           N37165121E027313732                                                                                 
+SEUREAENRT   BDR09 LT           N37171944E027291106                                                                                 
+SEUREAENRT   BDR12 LT           N37110645E027542951                                                                                 
+SEUREAENRT   BDR13 LT           N37104925E027553362                                                                                 
+SEUREAENRT   BDR14 LT           N37103013E027564485                                                                                 
+SEUREAENRT   BDR16 LT           N37095186E027590728                                                                                 
+SEUREAENRT   BDR27 LT           N37162823E027235588                                                                                 
+SEUREAENRT   BDR31 LT           N37181576E027241845                                                                                 
+SEUREAENRT   BDR35 LT           N37160168E027355321                                                                                 
+SEUREAENRT   BDR50 LT           N37133558E027460508                                                                                 
+SEUREAENRT   BDR61 LT           N37074387E027575280                                                                                 
+SEUREAENRT   BELSU LT           N39075010E034171100                                                                                 
+SEUREAENRT   BERGO LT           N38595600E027075800                                                                                 
+SEUREAENRT   BERNE LT           N40280500E042473500                                                                                 
+SEUREAENRT   BETHY LT           N36592397E034554196                                                                                 
+SEUREAENRT   BEYAZ LT           N38305600E0424758100                                                                                
+SEUREAENRT   BOYAT LT           N37071410E0371435100                                                                                
+SEUREAENRT   BRAVO LT           N37154286E035520727                                                                                 
+SEUREAENRT   BRONZ LT           N37161010E0302057100                                                                                
+SEUREAENRT   BUDAK LT           N39544700E039342200                                                                                 
+SEUREAENRT   BUK07 LT           N40111997E033032759                                                                                 
+SEUREAENRT   BUK08 LT           N40085697E033010518                                                                                 
+SEUREAENRT   BUK17 LT           N40112866E0330316100                                                                                
+SEUREAENRT   BUK18 LT           N40090264E033005532                                                                                 
+SEUREAENRT   BUKET LT           N37441680E040103720                                                                                 
+SEUREAENRT   BULUT LT           N38453410E038540200                                                                                 
+SEUREAENRT   BUMOM LT           N38005110E0331346100                                                                                
+SEUREAENRT   CENGO LT           N37035600E0280527100                                                                                
+SEUREAENRT   CHRLE LT           N37094847E035420014                                                                                 
+SEUREAENRT   DAL02 LT           N36392478E028462391                                                                                 
+SEUREAENRT   DAL05 LT           N36461405E028482533                                                                                 
+SEUREAENRT   DAL11 LT           N36520922E028440381                                                                                 
+SEUREAENRT   DAL29 LT           N36463225E028344909                                                                                 
+SEUREAENRT   DAL31 LT           N36463499E028410489                                                                                 
+SEUREAENRT   DAL32 LT           N36493349E028374450                                                                                 
+SEUREAENRT   DAL34 LT           N36491282E028445056                                                                                 
+SEUREAENRT   DAL60 LT           N36471762E028481282                                                                                 
+SEUREAENRT   DAL70 LT           N36443971E028391322                                                                                 
+SEUREAENRT   DALNB LT           N36412239E028465494                                                                                 
+SEUREAENRT   DAMAT LT           N39563510E040395900                                                                                 
+SEUREAENRT   DAMLA LT           N37214100E0310527100                                                                                
+SEUREAENRT   DAN21 LT           N36501764E035133960                                                                                 
+SEUREAENRT   DAN27 LT           N36590807E035235303                                                                                 
+SEUREAENRT   DAN28 LT           N36554679E035181704                                                                                 
+SEUREAENRT   DAN30 LT           N36590753E035235349                                                                                 
+SEUREAENRT   DAN41 LT           N37113292E035400993                                                                                 
+SEUREAENRT   DAN52 LT           N37035260E035315637                                                                                 
+SEUREAENRT   DAN53 LT           N37014903E035282391                                                                                 
+SEUREAENRT   DAN54 LT           N37011370E035272325                                                                                 
+SEUREAENRT   DAN56 LT           N37035582E035315307                                                                                 
+SEUREAENRT   DAN57 LT           N37014993E035282297                                                                                 
+SEUREAENRT   DAN59 LT           N37005531E035265309                                                                                 
+SEUREAENRT   DAN86 LT           N36554479E035181895                                                                                 
+SEUREAENRT   DASIS LT           N38543010E044122900                                                                                 
+SEUREAENRT   DEDIM LT           N39234910E0291606100                                                                                
+SEUREAENRT   DELEL LT           N40575400E040532500                                                                                 
+SEUREAENRT   DELTA LT           N36455704E035253478                                                                                 
+SEUREAENRT   DEREL LT           N40425000E0321135100                                                                                
+SEUREAENRT   DESEM LT           N38090710E0300006100                                                                                
+SEUREAENRT   DICLE LT           N37395382E040591764                                                                                 
+SEUREAENRT   DOGAN LT           N39471560E032341320                                                                                 
+SEUREAENRT   DONDU LT           N37351100E037032900                                                                                 
+SEUREAENRT   DORUK LT           N39173000E0421029100                                                                                
+SEUREAENRT   DUGLA LT           N39295600E0271327100                                                                                
+SEUREAENRT   DUREN LT           N39495700E032295940                                                                                 
+SEUREAENRT   EBEDI LT           N39433000E0390724100                                                                                
+SEUREAENRT   EDASA LT           N39273263E030072628                                                                                 
+SEUREAENRT   EDISI LT           N36505700E030084700                                                                                 
+SEUREAENRT   EKSEN LT           N37532600E030401300                                                                                 
+SEUREAENRT   EKTES LT           N40590700E0401215100                                                                                
+SEUREAENRT   ELDEN LT           N39543410E035254500                                                                                 
+SEUREAENRT   ELMAS LT           N37345910E0304229100                                                                                
+SEUREAENRT   ENFOR LT           N39522600E0361628100                                                                                
+SEUREAENRT   ERCAN LT           N40462600E040052900                                                                                 
+SEUREAENRT   ERCIS LT           N38161300E0345636100                                                                                
+SEUREAENRT   ERGAN LT           N38310110E0390132100                                                                                
+SEUREAENRT   ERGIN LT           N37134710E0295957100                                                                                
+SEUREAENRT   ERGUN LT           N40444700E034442000                                                                                 
+SEUREAENRT   ERHAN LT           N38312600E035134400                                                                                 
+SEUREAENRT   ERN01 LT           N39391372E039440002                                                                                 
+SEUREAENRT   ERN05 LT           N39444626E039255822                                                                                 
+SEUREAENRT   ERN10 LT           N39470222E039201105                                                                                 
+SEUREAENRT   ERNNB LT           N39422910E039314500                                                                                 
+SEUREAENRT   ERSEN LT           N40515600E0303957100                                                                                
+SEUREAENRT   ERTEK LT           N38572300E0391757100                                                                                
+SEUREAENRT   ESENK LT           N38452510E042562900                                                                                 
+SEUREAENRT   ESK02 LT           N39470157E030363828                                                                                 
+SEUREAENRT   ESK03 LT           N39470653E030401626                                                                                 
+SEUREAENRT   ESK05 LT           N39471302E030295358                                                                                 
+SEUREAENRT   ESK06 LT           N39471172E030440982                                                                                 
+SEUREAENRT   ESK08 LT           N39471993E030260009                                                                                 
+SEUREAENRT   ESK10 LT           N39472447E030232442                                                                                 
+SEUREAENRT   ESK25 LT           N39470716E030330815                                                                                 
+SEUREAENRT   ESK26 LT           N39453001E030130606                                                                                 
+SEUREAENRT   ESK50 LT           N39465205E030295348                                                                                 
+SEUREAENRT   ESK80 LT           N39471511E030464553                                                                                 
+SEUREAENRT   ESK88 LT           N39463651E030492085                                                                                 
+SEUREAENRT   ESKIN LT           N39025910E028235300                                                                                 
+SEUREAENRT   EZS02 LT           N38403606E039143280                                                                                 
+SEUREAENRT   EZS05 LT           N38375262E039160991                                                                                 
+SEUREAENRT   EZS06 LT           N38475177E039101326                                                                                 
+SEUREAENRT   EZS60 LT           N38461664E039073514                                                                                 
+SEUREAENRT   FATIH LT           N41134100E0284757100                                                                                
+SEUREAENRT   FENER LT           N41171100E028212800                                                                                 
+SEUREAENRT   FILIZ LT           N38515710E0392800100                                                                                
+SEUREAENRT   FIRAT LT           N37082000E037391500                                                                                 
+SEUREAENRT   FOXTT LT           N36594289E035015594                                                                                 
+SEUREAENRT   FXTRT LT           N38145346E032441718                                                                                 
+SEUREAENRT   GAYEM LT           N41024810E0293742100                                                                                
+SEUREAENRT   GAZ03 LT           N36560522E037315767                                                                                 
+SEUREAENRT   GAZ07 LT           N36542991E037363324                                                                                 
+SEUREAENRT   GAZ08 LT           N36543200E037375360                                                                                 
+SEUREAENRT   GAZ12 LT           N36523876E037364608                                                                                 
+SEUREAENRT   GAZ13 LT           N36513277E037354173                                                                                 
+SEUREAENRT   GAZ29 LT           N37031249E037241751                                                                                 
+SEUREAENRT   GAZ30 LT           N37013131E037214194                                                                                 
+SEUREAENRT   GAZ36 LT           N37022791E037335436                                                                                 
+SEUREAENRT   GAZ60 LT           N36575097E037205887                                                                                 
+SEUREAENRT   GAZ66 LT           N36565333E037193976                                                                                 
+SEUREAENRT   GAZ77 LT           N36581376E037194750                                                                                 
+SEUREAENRT   GAZ78 LT           N36580652E0373701100                                                                                
+SEUREAENRT   GAZ92 LT           N36501449E037260849                                                                                 
+SEUREAENRT   GELIN LT           N39414510E040465900                                                                                 
+SEUREAENRT   GELSU LT           N39332910E0403324100                                                                                
+SEUREAENRT   GERZE LT           N41495910E035100000                                                                                 
+SEUREAENRT   GML02 LT           N37165232E027332088                                                                                 
+SEUREAENRT   GML09 LT           N37194108E027223051                                                                                 
+SEUREAENRT   GML10 LT           N37193573E027210723                                                                                 
+SEUREAENRT   GML27 LT           N37171181E027203318                                                                                 
+SEUREAENRT   GOKCE LT           N38094710E033053000                                                                                 
+SEUREAENRT   GOKSU LT           N39293110E0415309100                                                                                
+SEUREAENRT   GOLDO LT           N40525510E0261457100                                                                                
+SEUREAENRT   GOTAN LT           N41081100E028230300                                                                                 
+SEUREAENRT   GURBU LT           N40101000E0334959100                                                                                
+SEUREAENRT   HAFIK LT           N39483600E0371256100                                                                                
+SEUREAENRT   HALIL LT           N39232600E032212800                                                                                 
+SEUREAENRT   HANKO LT           N39295600E0301557100                                                                                
+SEUREAENRT   HAVZA LT           N41053300E0355542100                                                                                
+SEUREAENRT   HAZAN LT           N40565410E0401158100                                                                                
+SEUREAENRT   HAZAR LT           N38320810E0392546100                                                                                
+SEUREAENRT   HISAR LT           N38065600E0313227100                                                                                
+SEUREAENRT   HOCAM LT           N40144510E040485900                                                                                 
+SEUREAENRT   ILHAN LT           N40264200E0334214100                                                                                
+SEUREAENRT   INBAT LT           N39430910E042420500                                                                                 
+SEUREAENRT   INDAS LT           N39440000E032440000                                                                                 
+SEUREAENRT   INDUR LT           N40065600E0433952100                                                                                
+SEUREAENRT   IST07 LT           N41044527E028481561                                                                                 
+SEUREAENRT   IST10 LT           N41093598E028515498                                                                                 
+SEUREAENRT   IST11 LT           N41082634E028481603                                                                                 
+SEUREAENRT   IST30 LT           N41081068E028411481                                                                                 
+SEUREAENRT   IST39 LT           N41094626E028430632                                                                                 
+SEUREAENRT   KAMAN LT           N39370910E036393200                                                                                 
+SEUREAENRT   KANGU LT           N39595700E032365940                                                                                 
+SEUREAENRT   KARGI LT           N39254500E0300315100                                                                                
+SEUREAENRT   KAVAK LT           N37212510E028435800                                                                                 
+SEUREAENRT   KEBAN LT           N38373600E039302700                                                                                 
+SEUREAENRT   KEKIK LT           N37044400E028220000                                                                                 
+SEUREAENRT   KEMER LT           N37360180E034431980                                                                                 
+SEUREAENRT   KEPES LT           N38082400E036422700                                                                                 
+SEUREAENRT   KESIR LT           N39185500E041270500                                                                                 
+SEUREAENRT   KETEK LT           N36531600E0322841100                                                                                
+SEUREAENRT   KINIK LT           N38435510E0295957100                                                                                
+SEUREAENRT   KISLA LT           N39063510E0341959100                                                                                
+SEUREAENRT   KIZIK LT           N40250510E0320857100                                                                                
+SEUREAENRT   KONAK LT           N36534010E0312457100                                                                                
+SEUREAENRT   KONEN LT           N39484200E0271637100                                                                                
+SEUREAENRT   KONUK LT           N39304200E039280500                                                                                 
+SEUREAENRT   KOZAN LT           N36571500E037091500                                                                                 
+SEUREAENRT   KOZLU LT           N37294910E0300427100                                                                                
+SEUREAENRT   KUBER LT           N39495910E0333639100                                                                                
+SEUREAENRT   KUDAK LT           N39175600E028163600                                                                                 
+SEUREAENRT   KULAR LT           N38345510E028375800                                                                                 
+SEUREAENRT   KUMAN LT           N38015400E027495800                                                                                 
+SEUREAENRT   KUMRU LT           N37245600E030435800                                                                                 
+SEUREAENRT   KUTAY LT           N39274200E0293718100                                                                                
+SEUREAENRT   LAGOL LT           N39363910E0325819100                                                                                
+SEUREAENRT   LAMSA LT           N37063810E029552200                                                                                 
+SEUREAENRT   LANSA LT           N39251410E041245000                                                                                 
+SEUREAENRT   LASET LT           N40412210E0432227100                                                                                
+SEUREAENRT   LAVTA LT           N37431800E0284211100                                                                                
+SEUREAENRT   LEMDA LT           N37585510E0303924100                                                                                
+SEUREAENRT   LOKUM LT           N37124577E035470351                                                                                 
+SEUREAENRT   LUTFU LT           N39562110E0281059100                                                                                
+SEUREAENRT   MANAV LT           N36415600E031212800                                                                                 
+SEUREAENRT   MANAZ LT           N36543180E034242460                                                                                 
+SEUREAENRT   MARIS LT           N36535910E0281659100                                                                                
+SEUREAENRT   MARTI LT           N39240600E035105800                                                                                 
+SEUREAENRT   MEN03 LT           N38203994E027083270                                                                                 
+SEUREAENRT   MEN06 LT           N38224035E027050847                                                                                 
+SEUREAENRT   MEN07 LT           N38243185E027071218                                                                                 
+SEUREAENRT   MEN09 LT           N38262780E027063187                                                                                 
+SEUREAENRT   MEN16 LT           N38114912E027103873                                                                                 
+SEUREAENRT   MEN21 LT           N38250745E027025599                                                                                 
+SEUREAENRT   MEN60 LT           N38233387E027073233                                                                                 
+SEUREAENRT   MILAS LT           N37100400E0273830100                                                                                
+SEUREAENRT   MILBA LT           N36570500E0362845100                                                                                
+SEUREAENRT   MIMTO LT           N41504810E033024800                                                                                 
+SEUREAENRT   MOSAR LT           N41135510E0280957100                                                                                
+SEUREAENRT   NAMAN LT           N40595600E0305957100                                                                                
+SEUREAENRT   NAREN LT           N38375000E040493000                                                                                 
+SEUREAENRT   NARLI LT           N37485600E0431458100                                                                                
+SEUREAENRT   NASIM LT           N40341910E0321959100                                                                                
+SEUREAENRT   NEGOL LT           N39283500E041044500                                                                                 
+SEUREAENRT   NENDO LT           N41193100E0341445100                                                                                
+SEUREAENRT   NERSU LT           N40383400E042352600                                                                                 
+SEUREAENRT   NESET LT           N38375300E0290710100                                                                                
+SEUREAENRT   NESIL LT           N37203500E029432300                                                                                 
+SEUREAENRT   NILER LT           N39050200E0275210100                                                                                
+SEUREAENRT   NISAP LT           N36470310E036382900                                                                                 
+SEUREAENRT   NIZIP LT           N36590410E037460000                                                                                 
+SEUREAENRT   OBRUK LT           N38012600E033070800                                                                                 
+SEUREAENRT   ODALI LT           N40194000E0380859100                                                                                
+SEUREAENRT   OKESA LT           N37364710E027231200                                                                                 
+SEUREAENRT   OKLAM LT           N38052610E031345800                                                                                 
+SEUREAENRT   OKUDA LT           N40072810E0440222100                                                                                
+SEUREAENRT   ORGUN LT           N40345783E033311960                                                                                 
+SEUREAENRT   ORKAN LT           N39593010E0352139100                                                                                
+SEUREAENRT   ORMAN LT           N41172600E0332442100                                                                                
+SEUREAENRT   ORTAK LT           N40395600E039425900                                                                                 
+SEUREAENRT   OVACI LT           N39472000E029091500                                                                                 
+SEUREAENRT   OZBEY LT           N37143000E0390539100                                                                                
+SEUREAENRT   OZYAK LT           N37075910E029083000                                                                                 
+SEUREAENRT   PALUT LT           N38414810E039314400                                                                                 
+SEUREAENRT   PELIL LT           N37502210E030135800                                                                                 
+SEUREAENRT   PETAR LT           N40101910E0320454100                                                                                
+SEUREAENRT   POGEN LT           N37301100E0364136100                                                                                
+SEUREAENRT   R2281 LT           N37151788E027385717                                                                                 
+SEUREAENRT   R2282 LT           N37145015E027405335                                                                                 
+SEUREAENRT   R2288 LT           N40070376E032590114                                                                                 
+SEUREAENRT   R2289 LT           N40065060E032590180                                                                                 
+SEUREAENRT   R2290 LT           N40082930E033003320                                                                                 
+SEUREAENRT   R2291 LT           N38164154E027094035                                                                                 
+SEUREAENRT   R2484 LT           N36582934E035160487                                                                                 
+SEUREAENRT   R2486 LT           N40533385E029173635                                                                                 
+SEUREAENRT   R2487 LT           N40541572E029193004                                                                                 
+SEUREAENRT   R2495 LT           N40083280E033002640                                                                                 
+SEUREAENRT   R2841 LT           N36593740E035244376                                                                                 
+SEUREAENRT   R2842 LT           N37003706E035262207                                                                                 
+SEUREAENRT   R2897 LT           N40595835E039463088                                                                                 
+SEUREAENRT   RAGUZ LT           N39500800E0363432100                                                                                
+SEUREAENRT   RATSI LT           N37501310E036131300                                                                                 
+SEUREAENRT   RAVLI LT           N39283610E0412331100                                                                                
+SEUREAENRT   REBLO LT           N40502400E043410600                                                                                 
+SEUREAENRT   RENGI LT           N38275000E0410447100                                                                                
+SEUREAENRT   RESLI LT           N38173910E0300710100                                                                                
+SEUREAENRT   ROLAT LT           N37491410E0315757100                                                                                
+SEUREAENRT   SALDA LT           N37331900E030000000                                                                                 
+SEUREAENRT   SALGO LT           N40282999E032120000                                                                                 
+SEUREAENRT   SARIZ LT           N39022710E0352242100                                                                                
+SEUREAENRT   SEHER LT           N40302110E0383424100                                                                                
+SEUREAENRT   SEHIR LT           N37390600E0321212100                                                                                
+SEUREAENRT   SELVI LT           N37535600E0342957100                                                                                
+SEUREAENRT   SERCE LT           N41355600E027182800                                                                                 
+SEUREAENRT   SEREN LT           N40131746E032491502                                                                                 
+SEUREAENRT   SEZER LT           N38005741E041221942                                                                                 
+SEUREAENRT   SIMAY LT           N37312910E0330935100                                                                                
+SEUREAENRT   SIVLI LT           N41005655E027475729                                                                                 
+SEUREAENRT   SIVNB LT           N39472110E0365335100                                                                                
+SEUREAENRT   SOLSA LT           N38084400E035464400                                                                                 
+SEUREAENRT   SONAD LT           N40250500E039403500                                                                                 
+SEUREAENRT   SONAN LT           N40382500E038541000                                                                                 
+SEUREAENRT   SONEN LT           N37091610E028170700                                                                                 
+SEUREAENRT   SONLU LT           N39045900E0284758100                                                                                
+SEUREAENRT   SONSU LT           N37525410E0382420100                                                                                
+SEUREAENRT   SUDES LT           N39460910E0265335100                                                                                
+SEUREAENRT   SULAK LT           N37533900E036171200                                                                                 
+SEUREAENRT   SULTA LT           N40024400E0294422100                                                                                
+SEUREAENRT   SUNAT LT           N37150610E0291458100                                                                                
+SEUREAENRT   SUREL LT           N40520110E0405237100                                                                                
+SEUREAENRT   SURUC LT           N37040000E038323000                                                                                 
+SEUREAENRT   SUSUZ LT           N39405510E041364700                                                                                 
+SEUREAENRT   TALIL LT           N39112000E0395819100                                                                                
+SEUREAENRT   TAMER LT           N38142600E040485900                                                                                 
+SEUREAENRT   TAMMY LT           N39362302E030173229                                                                                 
+SEUREAENRT   TAVAS LT           N37351810E0291436100                                                                                
+SEUREAENRT   TAVUS LT           N39521010E041441100                                                                                 
+SEUREAENRT   TBN04 LT           N41005315E039424060                                                                                 
+SEUREAENRT   TBN07 LT           N41014561E039385294                                                                                 
+SEUREAENRT   TBN09 LT           N41022052E039362110                                                                                 
+SEUREAENRT   TBN11 LT           N41025537E039334923                                                                                 
+SEUREAENRT   TBN12 LT           N41032053E039340002                                                                                 
+SEUREAENRT   TBN30 LT           N41045271E039375867                                                                                 
+SEUREAENRT   TBN40 LT           N41010229E039424455                                                                                 
+SEUREAENRT   TBN70 LT           N41020162E039385983                                                                                 
+SEUREAENRT   TBN89 LT           N41042102E039373159                                                                                 
+SEUREAENRT   TBN90 LT           N41031997E039360445                                                                                 
+SEUREAENRT   TBN91 LT           N41030831E039364099                                                                                 
+SEUREAENRT   TBN92 LT           N41013416E039413535                                                                                 
+SEUREAENRT   TBN93 LT           N41000989E039455811                                                                                 
+SEUREAENRT   TBN99 LT           N41024110E039362995                                                                                 
+SEUREAENRT   TBNNB LT           N40594300E039474400                                                                                 
+SEUREAENRT   TEKDO LT           N38201710E0300924100                                                                                
+SEUREAENRT   TELVO LT           N39222000E0325519100                                                                                
+SEUREAENRT   TENSU LT           N36571400E036271900                                                                                 
+SEUREAENRT   TEPKI LT           N41271110E032593400                                                                                 
+SEUREAENRT   TERME LT           N41125110E0371328100                                                                                
+SEUREAENRT   TEVDA LT           N38222200E035040000                                                                                 
+SEUREAENRT   TIRMA LT           N38563110E035455400                                                                                 
+SEUREAENRT   TOKER LT           N40184710E0304619100                                                                                
+SEUREAENRT   TUMER LT           N38395600E029281300                                                                                 
+SEUREAENRT   TURNA LT           N39332510E0412133100                                                                                
+SEUREAENRT   ULGAN LT           N39383000E040413300                                                                                 
+SEUREAENRT   ULKAN LT           N37180900E0280732100                                                                                
+SEUREAENRT   ULKEM LT           N38063800E0432152100                                                                                
+SEUREAENRT   ULMAR LT           N41123910E0271112100                                                                                
+SEUREAENRT   URGUP LT           N38311510E034014800                                                                                 
+SEUREAENRT   VABEL LT           N39531500E0385201100                                                                                
+SEUREAENRT   VADEN LT           N42035600E0271257100                                                                                
+SEUREAENRT   VANNB LT           N38280256E043200817                                                                                 
+SEUREAENRT   VARTO LT           N39035710E041324200                                                                                 
+SEUREAENRT   VIRAN LT           N40071010E0414220100                                                                                
+SEUREAENRT   VURAL LT           N41054410E028484500                                                                                 
+SEUREAENRT   YAANB LT           N40335210E029221800                                                                                 
+SEUREAENRT   YASEN LT           N41115600E0293057100                                                                                
+SEUREAENRT   YAVRU LT           N40345510E031495800                                                                                 
+SEUREAENRT   YAVUZ LT           N40023910E0422559100                                                                                
+SEUREAENRT   YAYLA LT           N39515600E027594300                                                                                 
+SEUREAENRT   YUCEL LT           N39344801E033350901                                                                                 
+SEUREAENRT   YUNUS LT           N36422510E027525800                                                                                 
+SEUREAENRT   ZELSU LT           N38155600E043465900                                                                                 
+SEURDB       ADA   LT000395     N36581410E035154200                                                                                 
+SEURDB       KHD   LT000381     N37432700E038273300                                                                                 
+SEURDB       KFK   LT000324     N38481400E0303248100                                                                                
+SEURDB       ARI   LT000289     N39400893E043011938                                                                                 
+SEURDB       ANK   LT000356     N39571100E032494100                                                                                 
+SEURDB       GEY   LT000413     N36523418E030271884                                                                                 
+SEURDB       YT    LT000302     N36523417E030472084                                                                                 
+SEURDB       BAT   LT000470     N37561500E0410710100                                                                                
+SEURDB       BEY   LT000487     N40093510E0315546100                                                                                
+SEURDB       CRD   LT000433     N37472210E029421500                                                                                 
+SEURDB       CRM   LT000325     N41155583E036325653                                                                                 
+SEURDB       CAY   LT000292     N41302700E032051700                                                                                 
+SEURDB       CIG   LT000363     N38315010E0270101100                                                                                
+SEURDB       CRL   LT000426     N41090710E0275617100                                                                                
+SEURDB       BUK   LT000425     N40143000E0330616100                                                                                
+SEURDB       DAL   LT000346     N36412239E028465494                                                                                 
+SEURDB       DYB   LT000330     N37521410E0401230100                                                                                
+SEURDB       EDR   LT000368     N39330210E027001900                                                                                 
+SEURDB       SEL   LT000424     N37565710E027202100                                                                                 
+SEURDB       EZS   LT000338     N38362348E039175584                                                                                 
+SEURDB       ERH   LT000421     N38274710E0380643100                                                                                
+SEURDB       ERN   LT000430     N39422910E039314500                                                                                 
+SEURDB       ERZ   LT000354     N39572300E0411224100                                                                                
+SEURDB       ER    LT000434     N39573600E0411740100                                                                                
+SEURDB       ESR   LT000372     N39484700E0303115100                                                                                
+SEURDB       GBI   LT000315     N39424410E032491200                                                                                 
+SEURDB       HAY   LT000350     N39261500E0323034100                                                                                
+SEURDB       ISK   LT000434     N36343310E0360935100                                                                                
+SEURDB       IPT   LT000349     N37511110E0302129100                                                                                
+SEURDB       IS    LT000396     N41032510E028482300                                                                                 
+SEURDB       KAD   LT000330     N38244810E0270853100                                                                                
+SEURDB       KHM   LT000374     N37321700E0365712100                                                                                
+SEURDB       KAR   LT000431     N40340300E043072700                                                                                 
+SEURDB       KNY   LT000390     N37594800E0323351100                                                                                
+SEURDB       MRD   LT000403     N37133989E040381907                                                                                 
+SEURDB       ME    LT000405     N38120000E0271047100                                                                                
+SEURDB       EN    LT000315     N38160000E027094200                                                                                 
+SEURDB       BDR   LT000389     N37151110E027400900                                                                                 
+SEURDB       MUS   LT000319     N38445300E0413939100                                                                                
+SEURDB       MUT   LT000334     N36515000E033173500                                                                                 
+SEURDB       GAZ   LT000432     N36570100E0372823100                                                                                
+SEURDB       SAB   LT000347     N40535710E029191300                                                                                 
+SEURDB       URF   LT000415     N37053800E0385040100                                                                                
+SEURDB       SRT   LT000409     N37583610E0415036100                                                                                
+SEURDB       SIN   LT000465     N42011910E035043600                                                                                 
+SEURDB       SIV   LT000310     N39472110E0365335100                                                                                
+SEURDB       TKT   LT000403     N40182010E0362200100                                                                                
+SEURDB       ARF   LT000383     N40435800E0300503100                                                                                
+SEURDB       TBN   LT000371     N40594300E039474400                                                                                 
+SEURDB       AKC   LT000392     N41052187E039280913                                                                                 
+SEURDB       TZK   LT000371     N38460210E0343226100                                                                                
+SEURDB       USK   LT000414     N38404661E029284842                                                                                 
+SEURDB       VAN   LT000397     N38280256E043200817                                                                                 
+SEURDB       YAA   LT000305     N40335210E029221800                                                                                 
+SEURDB       BRY   LT000352     N40154511E029353851                                                                                 
+SEURD        ADA   LT011270V    N36562600E035123700                                                                                 
+SEURD        KHD   LT011360V    N37432700E038273300                                                                                 
+SEURD        KFK   LT011220V    N38481400E0303248100                                                                                
+SEURD        ARI   LT011670V    N39401800E043011400                                                                                 
+SEURD        AYT   LT011400V    N36551700E0304748100                                                                                
+SEURD        BAG   LT011310V    N40041030E032483740                                                                                 
+SEURD        BAT   LT011620V    N37561500E0410710100                                                                                
+SEURD        BIG   LT011690V    N40170700E0272156100                                                                                
+SEURD        CRD   LT011200V    N37472210E029421500                                                                                 
+SEURD        CRM   LT011280V    N41155579E036325593                                                                                 
+SEURD        CRL   LT011480V    N41090710E0275617100                                                                                
+SEURD        BUK   LT011430V    N40143000E0330616100                                                                                
+SEURD        DAL   LT011470V    N36412239E028465494                                                                                 
+SEURD        DYB   LT010940V    N37521410E0401230100                                                                                
+SEURD        EDR   LT010940V    N39330210E027001900                                                                                 
+SEURD        EZS   LT011470V    N38422410E0391327100                                                                                
+SEURD        ERN   LT011270V    N39422910E039314500                                                                                 
+SEURD        ERZ   LT011550V    N39572700E0411225100                                                                                
+SEURD        ESR   LT010820V    N39484700E0303034100                                                                                
+SEURD        GAZ   LT011670V    N36570100E0372823100                                                                                
+SEURD        GEM   LT011510V    N39091900E036014500                                                                                 
+SEURD        INB   LT011330V    N41570500E0334221100                                                                                
+SEURD        IPT   LT011750V    N37510310E0302129100                                                                                
+SEURD        IMR   LT011370V    N38190110E0270025100                                                                                
+SEURD        KHM   LT011390V    N37321700E0365712100                                                                                
+SEURD        KAR   LT011380V    N40340300E043072700                                                                                 
+SEURD        KSR   LT011630V    N38463212E035311805                                                                                 
+SEURD        GML   LT011390V    N37163310E0273303100                                                                                
+SEURD        KNY   LT011120V    N37594800E0323351100                                                                                
+SEURD        LRA   LT011360V    N36524400E0304824100                                                                                
+SEURD        ERH   LT011200V    N38274710E0380643100                                                                                
+SEURD        MRD   LT011690V    N37133989E040381907                                                                                 
+SEURD        MEN   LT011790V    N38174510E027093300                                                                                 
+SEURD        BDR   LT011670V    N37151110E027400900                                                                                 
+SEURD        MUS   LT011120V    N38445300E0413939100                                                                                
+SEURD        MUT   LT011230V    N36515100E0331731100                                                                                
+SEURD        SBH   LT010880V    N40535878E029191338                                                                                 
+SEURD        URF   LT011770V    N37053800E0385040100                                                                                
+SEURD        SRT   LT011430V    N37543310E0415255100                                                                                
+SEURD        SIN   LT011400V    N42011910E035043600                                                                                 
+SEURD        SIV   LT011420V    N39472110E0365335100                                                                                
+SEURD        EKI   LT011630V    N40570610E027253600                                                                                 
+SEURD        TBN   LT011490V    N40594300E039474400                                                                                 
+SEURD        TZK   LT011530V    N38460210E0343226100                                                                                
+SEURD        VAN   LT011520V    N38275469E043193028                                                                                 
+SEURD        YAA   LT011770V    N40283000E0291226100                                                                                
+SEURD        BRY   LT011530V    N40154511E029353851                                                                                 
+SEURD        IAYT  LT011030 D   N36531600E0304731100                                                                                
+SEURD        ITBZ  LT010910 D   N40595700E039464400                                                                                 
+SEURD        IMUS  LT010850 D   N38443225E041403848                                                                                 
+SEURD        ISAB  LT010990 D   N40533400E029174948                                                                                 
+SEURD        ISBH  LT011090 D   N40540727E029192128                                                                                 
+SEURD        ADA   LT011270 D   N36562600E035123700                                                                                 
+SEURD        KHD   LT011360 D   N37432700E038273300                                                                                 
+SEURD        KFK   LT011220 D   N38481400E0303248100                                                                                
+SEURD        ARI   LT011670 D   N39401800E043011400                                                                                 
+SEURD        AYT   LT011400 D   N36551700E0304748100                                                                                
+SEURD        BAG   LT011310 D   N40041030E032483740                                                                                 
+SEURD        BAT   LT011620 D   N37561500E0410710100                                                                                
+SEURD        BIG   LT011690 D   N40170700E0272156100                                                                                
+SEURD        CRD   LT011200 D   N37472210E029421500                                                                                 
+SEURD        CRM   LT011280 D   N41155579E036325593                                                                                 
+SEURD        CRL   LT011480 D   N41090710E0275617100                                                                                
+SEURD        BUK   LT011430 D   N40143000E0330616100                                                                                
+SEURD        DAL   LT011470 D   N36412239E028465494                                                                                 
+SEURD        DYB   LT010940 D   N37521410E0401230100                                                                                
+SEURD        EDR   LT010940 D   N39330210E027001900                                                                                 
+SEURD        EZS   LT011470 D   N38422410E0391327100                                                                                
+SEURD        ERN   LT011270 D   N39422910E039314500                                                                                 
+SEURD        ERZ   LT011550 D   N39572700E0411225100                                                                                
+SEURD        ESR   LT010820 D   N39484700E0303034100                                                                                
+SEURD        GAZ   LT011670 D   N36570100E0372823100                                                                                
+SEURD        GEM   LT011510 D   N39091900E036014500                                                                                 
+SEURD        INB   LT011330 D   N41570500E0334221100                                                                                
+SEURD        IPT   LT011750 D   N37510310E0302129100                                                                                
+SEURD        IMR   LT011370 D   N38190110E0270025100                                                                                
+SEURD        KHM   LT011390 D   N37321700E0365712100                                                                                
+SEURD        KAR   LT011380 D   N40340300E043072700                                                                                 
+SEURD        KSR   LT011630 D   N38463212E035311805                                                                                 
+SEURD        GML   LT011390 D   N37163310E0273303100                                                                                
+SEURD        KNY   LT011120 D   N37594800E0323351100                                                                                
+SEURD        LRA   LT011360 D   N36524400E0304824100                                                                                
+SEURD        MRD   LT011690 D   N37133989E040381907                                                                                 
+SEURD        MEN   LT011790 D   N38174510E027093300                                                                                 
+SEURD        BDR   LT011670 D   N37151110E027400900                                                                                 
+SEURD        MUS   LT011120 D   N38445300E0413939100                                                                                
+SEURD        MUT   LT011230 D   N36515100E0331731100                                                                                
+SEURD        SBH   LT010880 D   N40535878E029191338                                                                                 
+SEURD        URF   LT011770 D   N37053800E0385040100                                                                                
+SEURD        SRT   LT011430 D   N37543310E0415255100                                                                                
+SEURD        SIN   LT011400 D   N42011910E035043600                                                                                 
+SEURD        SIV   LT011420 D   N39472110E0365335100                                                                                
+SEURD        EKI   LT011630 D   N40570610E027253600                                                                                 
+SEURD        TBN   LT011490 D   N40594300E039474400                                                                                 
+SEURD        TZK   LT011530 D   N38460210E0343226100                                                                                
+SEURD        VAN   LT011520 D   N38275469E043193028                                                                                 
+SEURD        YAA   LT011770 D   N40283000E0291226100                                                                                
+SEURD        BRY   LT011530 D   N40154511E029353851                                                                                 
+SEURD        KFK   LT011520 D   N38430347E030370350                                                                                 
+SEURD        AKI   LT011020 D   N38491022E027493804                                                                                 
+SEURD        ZIR   LT011450 D   N40051034E032343364                                                                                 
+SEURD        ANK   LT011490 D   N39571100E032494100                                                                                 
+SEURD        ANT   LT010910 D   N36523200E030472100                                                                                 
+SEURD        AYT   LT011550 D   N36545600E030465800                                                                                 
+SEURD        BRI   LT011060 D   N39360211E027554613                                                                                 
+SEURD        BDM   LT011100 D   N40180466E027584206                                                                                 
+SEURD        BAT   LT011160 D   N37545530E041061993                                                                                 
+SEURD        CAY   LT010960 D   N41302700E032051700                                                                                 
+SEURD        CIG   LT011360 D   N38294181E027003260                                                                                 
+SEURD        CLU   LT011590 D   N41075410E027540600                                                                                 
+SEURD        DAL   LT011530 D   N36424622E028472019                                                                                 
+SEURD        DIY   LT011000 D   N37541076E040113246                                                                                 
+SEURD        ERH   LT011350 D   N38262993E038051024                                                                                 
+SEURD        ERZ   LT011140 D   N39573171E041091120                                                                                 
+SEURD        ESK   LT011440 D   N39470121E030362271                                                                                 
+SEURD        ETI   LT011660 D   N39572700E032402874                                                                                 
+SEURD        HAY   LT011180 D   N39261500E0323034100                                                                                
+SEURD        DAN   LT010840 D   N37005603E035265292                                                                                 
+SEURD        KLC   LT011680 D   N38305036E026582581                                                                                 
+SEURD        KSR   LT011690 D   N38454887E035283910                                                                                 
+SEURD        KON   LT011410 D   N37595600E0323357100                                                                                
+SEURD        KUT   LT011090 D   N39254776E030004658                                                                                 
+SEURD        MEN   LT011510 D   N38175310E027092900                                                                                 
+SEURD        MNI   LT010930 D   N40500808E035322297                                                                                 
+SEURD        SYT   LT010920 D   N39264517E031222674                                                                                 
+SEURD        TKT   LT011500 D   N40182010E0362200100                                                                                
+SEURD        ARF   LT011390 D   N40435510E0300352100                                                                                
+SEURD        YEN   LT011320 D   N40153645E029342814                                                                                 
+SEURER       UL851       0300TBN  LTD       O                             0499     28500     66000                                  
+SEURER       L621        0020BUK  LTD       O                             1876     19500     28500                                  
+SEURER       L621        0030BUMOMLTEA      O                             1339     19500     28500                                  
+SEURER       L621        0040MUT  LTD       O                             0691     19500     28500                                  
+SEURER       L851        0130TBN  LTD       O                             0499     08500     28500                                  
+SEURER       M854        0200GEM  LTD       O                                      19500     28500                                  
+SEURER       M854        0210ELDENLTEA      O                             0531     19500     28500                                  
+SEURER       M854        0220ORKANLTEA      O                             0058     19500     28500                                  
+SEURER       M854        0230ERGUNLTEA      O                             0535     19500     28500                                  
+SEURER       M854        0240INB  LTD       O                             0860     19500     28500                                  
+SEURER       L605        0010BELSULTEA      O                                      24500     28500                                  
+SEURER       L605        0020BADOXLTEA      O                             0188     24500     28500                                  
+SEURER       L605        0030YUCELLTEA      O                             0234     12500     28500                                  
+SEURER       L605        0040BOYATLTEA      O                                      10500     28500                                  
+SEURER       L605        0050POGENLTEA      O                             0349     10500     28500                                  
+SEURER       L605        0060RATSILTEA      O                             0301     24500     28500                                  
+SEURER       W86         0010CRM  LTD       O                                      09500     28500                                  
+SEURER       W86         0020BAFRALTEA      O                             0300     09500     28500                                  
+SEURER       W86         0030GERZELTEA      O                             0408     09500     28500                                  
+SEURER       W86         0040SIN  LTD       O                             0120     09500     28500                                  
+SEURER       L601-       0010BAG  LTD       O                                      16500     28500                                  
+SEURER       L601-       0020BAKIRLTEA      O                             0447     16500     28500                                  
+SEURER       L601-       0030KEMERLTEA      O                                      16500     28500                                  
+SEURER       L601-       0040SELVILTEA      O                             0208     16500     28500                                  
+SEURER       L601-       0050URGUPLTEA      O                             0434     16500     28500                                  
+SEURER       W71         0010BAG  LTD       O                                      06500     28500                                  
+SEURER       W71         0020BUK  LTD       O                             0170     06500     28500                                  
+SEURER       W71         0030ILHANLTEA      O                             0300     09500     28500                                  
+SEURER       W71         0040ERGUNLTEA      O                             0505     09500     28500                                  
+SEURER       W71         0050HAVZALTEA      O                             0578     09500     28500                                  
+SEURER       W71         0060CRM  LTD       O                             0299     09500     28500                                  
+SEURER       W71         0070TERMELTEA      O                             0307     09500     28500                                  
+SEURER       W71         0080TEMEL  EA      O                             0870     09500     28500                                  
+SEURER       W71         0090TBN  LTD       O                             0301     09500     28500                                  
+SEURER       W71         0160ERZ  LTD       O                                      14500     28500                                  
+SEURER       W71         0170TURNALTEA      O                             0250     14500     28500                                  
+SEURER       W71         0180RAVLILTEA      O                             0051     14500     28500                                  
+SEURER       W71         0190LANSALTEA      O                             0035     14500     28500                                  
+SEURER       W71         0200KESIRLTEA      O                             0066     14500     28500                                  
+SEURER       W71         0210VARTOLTEA      O                             0156     10500     28500                                  
+SEURER       T31         0010BAG  LTD       RL                                     19500     28500                                  
+SEURER       T31         0020ELDENLTEA      RL                            1208     19500     28500                                  
+SEURER       T31         0030SIV  LTD       RL                            0679     19500     28500                                  
+SEURER       T31         0040EBEDILTEA      RL                            1030     19500     28500                                  
+SEURER       T31         0050ERN  LTD       RL                            0188     19500     28500                                  
+SEURER       T31         0060GELSULTEA      RL                            0484     19500     28500                                  
+SEURER       T31         0070NEGOLLTEA      RL                            0247     19500     28500                                  
+SEURER       T31         0080LANSALTEA      RL                            0159     19500     28500                                  
+SEURER       T31         0090DORUKLTEA      RL                            0362     19500     28500                                  
+SEURER       T31         0100DASISLTEA      RL                            0975     19500     28500                                  
+SEURER       P29-W       0010BAG  LTD       O                                      20000     28500                                  
+SEURER       P29-W       0020HALILLTEA      O                             0458     20000     28500                                  
+SEURER       P29-W       0030HISARLTEA      O                             0856     11500     28500                                  
+SEURER       P29-W       0040DAMLALTEA      O                             0501     11500     28500                                  
+SEURER       R32         0010BAG  LTD       O                                      08500     28500                                  
+SEURER       R32         0020HAY  LTD       O                             0404     08500     28500                                  
+SEURER       R32         0030HALILLTEA      O                             0076     09500     28500                                  
+SEURER       R32         0040KFK  LTD       O                             0914     09500     28500                                  
+SEURER       R32         0050KINIKLTEA      O                             0260     09500     28500                                  
+SEURER       R32         0060TUMERLTEA      O                             0251     09500     28500                                  
+SEURER       R32         0070NESETLTEA      O                             0166     09500     28500                                  
+SEURER       R32         0080KULARLTEA      O                             0230     09500     28500                                  
+SEURER       A17-L       0010YUCELLTEA      O                                      12500     28500                                  
+SEURER       A17-L       0020BAG  LTD       O                             0463     14500     28500                                  
+SEURER       A17-L       0030KIZIKLTEA      O                             0368     14500     28500                                  
+SEURER       A17-L       0040YAVRULTEA      O                             0175     14500     28500                                  
+SEURER       A17-L       0050NAMANLTEA      O                             0454     26500     28500                                  
+SEURER       A17-L       0060RIXEN  EA      O                             1196     26500     28500                                  
+SEURER       A17-L       0070BELSULTEA      O                                      24500     28500                                  
+SEURER       A17-L       0080KISLALTEA      O                             0025     24500     28500                                  
+SEURER       A17-L       0090ERHANLTEA      O                             0547     24500     28500                                  
+SEURER       A17-L       0100SOLSALTEA      O                             0345     24500     28500                                  
+SEURER       A17-L       0110RATSILTEA      O                             0279     24500     28500                                  
+SEURER       A17-L       0120BOYATLTEA      O                                      24500     28500                                  
+SEURER       A17-L       0130GAZ  LTD       O                             0150     24500     28500                                  
+SEURER       G8-L6       0010SRT  LTD       O                                      10500     28500                                  
+SEURER       G8-L6       0020TAMERLTEA      O                             0542     10500     28500                                  
+SEURER       G8-L6       0030KEBANLTEA      O                             0658     10500     28500                                  
+SEURER       G8-L6       0040EZS  LTD       O                             0141     14500     28500                                  
+SEURER       G8-L6       0050BULUTLTEA      O                             0155     14500     28500                                  
+SEURER       G8-L6       0060GEM  LTD       O                             1361     10500     28500                                  
+SEURER       G8-L6       0070MARTILTEA      O                             0420     13500     28500                                  
+SEURER       G8-L6       0080KUBERLTEA      O                             0772     13500     28500                                  
+SEURER       G8-L6       0090BAG  LTD       O                             0395     13500     28500                                  
+SEURER       G8-L6       0100PETARLTEA      O                             0340     08500     28500                                  
+SEURER       G8-L6       0110TOKERLTEA      O                             0606     08500     28500                                  
+SEURER       G8-L6       0120YAA  LTD       O                             0722     08500     28500                                  
+SEURER       W10         0530VADENLTEA      O                             0887     08500     24500                                  
+SEURER       A28-M       0010BAG  LTD       O                                      08500     28500                                  
+SEURER       A28-M       0020TELVOLTEA      O                             0422     08500     28500                                  
+SEURER       A28-M       0030OBRUKLTEA      O                             0815     10500     28500                                  
+SEURER       A28-M       0040MUT  LTD       O                             0701     10500     28500                                  
+SEURER       P29         0010BAG  LTD       O                                      19500     28500                                  
+SEURER       P29         0020TEPKILTEA      O                             0835     19500     28500                                  
+SEURER       P29         0030MIMTOLTEA      O                             0238     19500     28500                                  
+SEURER       P29         0040SUMOL  EA      O                             0575     14000     27000                                  
+SEURER       T40         0040CRD  LTD       RL                                     19500     28500                                  
+SEURER       T40         0050NESETLTEA      RL                            0576     19500     28500                                  
+SEURER       T40         0060SONLULTEA      RL                            0310     24500     28500                                  
+SEURER       G261        0070TBN  LTD       O                             1461     24500     28500                                  
+SEURER       L854-       0010KULARLTEA      O                                      10500     28500                                  
+SEURER       L854-       0020BAGLULTEA      O                             0448     10500     28500                                  
+SEURER       L854-       0030CRD  LTD       O                             0246     10500     28500                                  
+SEURER       L854-       0040SALDALTEA      O                             0199     10500     28500                                  
+SEURER       L854-       0050KOZLULTEA      O                             0050     10500     28500                                  
+SEURER       L854-       0060BRONZLTEA      O                             0189     10500     28500                                  
+SEURER       UP975       0060TEPKILTEA      O                             0351     28500     66000                                  
+SEURER       UP975       0070ORMANLTEA      O                             0213     28500     66000                                  
+SEURER       UP975       0080ERGUNLTEA      O                             0684     28500     66000                                  
+SEURER       UP975       0090SIV  LTD       O                             1142     28500     66000                                  
+SEURER       UP975       0190DYB  LTD       O                             0683     28500     66000                                  
+SEURER       UP975       0200EZS  LTD       O                             0683     28500     66000                                  
+SEURER       N604        0100BIG  LTD       O                                      19500     28500                                  
+SEURER       N604        0110BKZ    D       O                             0954     19500     28500                                  
+SEURER       W73         0010BAYIRLTEA      O                                      12500     28500                                  
+SEURER       W73         0020BALIMLTEA      O                             0165     12500     28500                                  
+SEURER       W73         0030TAMERLTEA      O                             0184     13500     28500                                  
+SEURER       W73         0040DYB  LTD       O                             0363     12500     28500                                  
+SEURER       W73         0050ERH  LTD       O                                      11500     28500                                  
+SEURER       W73         0060GEM  LTD       O                             1059     11500     28500                                  
+SEURER       W88         0010EZS  LTD       O                                      22500     28500                                  
+SEURER       W88         0020ERTEKLTEA      O                             0154     22500     28500                                  
+SEURER       W88         0030KONUKLTEA      O                             0342     17500     28500                                  
+SEURER       W88         0040ERN  LTD       O                             0121     21500     28500                                  
+SEURER       W88         0050BUDAKLTEA      O                             0125     21500     28500                                  
+SEURER       W88         0060BALONLTEA      O                             0108     21500     28500                                  
+SEURER       W88         0070SONADLTEA      O                             0198     26500     28500                                  
+SEURER       W88         0080ORTAKLTEA      O                             0150     26500     28500                                  
+SEURER       W88         0090TBN  LTD       O                             0201     26500     28500                                  
+SEURER       L852        0010BALONLTEA      O                                      19500     28500                                  
+SEURER       L852        0020SEHERLTEA      O                             0535     19500     28500                                  
+SEURER       L852        0030CRM  LTD       O                             1026     19500     28500                                  
+SEURER       L852        0040INB  LTD       O                             1341     19500     28500                                  
+SEURER       L852        0050VAN  LTD       O                                      19500     28500                                  
+SEURER       L852        0060KESIRLTEA      O                             1013     19500     28500                                  
+SEURER       L852        0070NEGOLLTEA      O                             0198     19500     28500                                  
+SEURER       L852        0080ULGANLTEA      O                             0205     19500     28500                                  
+SEURER       W78         0010DAL  LTD       O                                      11500     28500                                  
+SEURER       W78         0020OZYAKLTEA      O                             0318     11500     28500                                  
+SEURER       W78         0030SUNATLTEA      O                             0088     11500     28500                                  
+SEURER       W78         0040BALSULTEA      O                             0149     11500     28500                                  
+SEURER       W78         0050CRD  LTD       O                             0240     11500     28500                                  
+SEURER       W78         0060DESEMLTEA      O                             0259     11500     28500                                  
+SEURER       W78         0070RESLILTEA      O                             0102     17500     28500                                  
+SEURER       W78         0080KFK  LTD       O                             0366     17500     28500                                  
+SEURER       N135        0010ERGINLTEA      O                                      12500     28500                                  
+SEURER       N135        0020NESILLTEA      O                             0148     12500     28500                                  
+SEURER       N135        0030BALSULTEA      O                             0159     12500     28500                                  
+SEURER       N135        0040LAVTALTEA      O                             0377     12500     28500                                  
+SEURER       N135        0050KUMANLTEA      O                             0453     23500     28500                                  
+SEURER       G901        0030CRM  LTD       O                             0443     15500     28500                                  
+SEURER       W103        0160ERH  LTD       O                                      10500     28500                                  
+SEURER       W103        0170SONSULTEA      O                             0376     10500     28500                                  
+SEURER       W103        0180KHD  LTD       O                             0098     10500     28500                                  
+SEURER       G80-N       0030YUNUSLTEA      O                             0139     10500     28500                                  
+SEURER       G80-N       0040MILASLTEA      O                             0300     10500     28500                                  
+SEURER       N131        0060SUDESLTEA      O                             0307     13500     28500                                  
+SEURER       N131        0070DUGLALTEA      O                             0223     13500     28500                                  
+SEURER       N131        0080NILERLTEA      O                             0390     13500     28500                                  
+SEURER       N131        0090KULARLTEA      O                             0467     24500     28500                                  
+SEURER       W92         0100BIG  LTD       O                                      05500     28500                                  
+SEURER       W92         0110CNK    D       O                             0439     05500     28500                                  
+SEURER       L619        0280GAYEMLTEA      O                             0709     24500     28500                                  
+SEURER       L619        0290HANKOLTEA      O                             0974     24500     28500                                  
+SEURER       L619        0300KFK  LTD       O                             0437     24500     28500                                  
+SEURER       W27         0090KAR  LTD       O                                      13500     28500                                  
+SEURER       W27         0100BERNELTEA      O                             0162     13500     28500                                  
+SEURER       W27         0110VIRANLTEA      O                             0540     13500     28500                                  
+SEURER       W27         0120ERZ  LTD       O                             0249     13500     28500                                  
+SEURER       G67         0060TBN  LTD       O                             0190     09500     28500                                  
+SEURER       Z713        0010DUGLALTEA      O                                      23500     28500                                  
+SEURER       Z713        0020KUMANLTEA      O                             0926     23500     28500                                  
+SEURER       Z713        0030ULKANLTEA      O                             0459     12500     28500                                  
+SEURER       Z713        0040BATUKLTEA      O                             0033     12500     28500                                  
+SEURER       Z713        0050MARISLTEA      O                             0220     12500     28500                                  
+SEURER       Z713        0060PIROX  EA      O                             0274     12500     28500                                  
+SEURER       B111        0060REBLOLTEA      O                             0067     14500     28500                                  
+SEURER       B111        0070LASETLTEA      O                             0168     14500     28500                                  
+SEURER       B111        0080KAR  LTD       O                             0136     14500     28500                                  
+SEURER       B111        0090BAYGALTEA      O                             0159     14500     28500                                  
+SEURER       B111        0100NERSULTEA      O                             0089     18500     28500                                  
+SEURER       B111        0110SURELLTEA      O                             0791     15500     28500                                  
+SEURER       B111        0120HAZANLTEA      O                             0311     15500     28500                                  
+SEURER       B111        0130TBN  LTD       O                             0185     15500     28500                                  
+SEURER       G81-L       0020ZELSULTEA      O                             0276     14500     28500                                  
+SEURER       G81-L       0030VAN  LTD       O                             0247     13500     28500                                  
+SEURER       G81-L       0040BEYAZLTEA      O                             0249     16500     28500                                  
+SEURER       G81-L       0050BAYIRLTEA      O                             0657     16500     28500                                  
+SEURER       G81-L       0060NARENLTEA      O                             0272     16500     28500                                  
+SEURER       G81-L       0070PALUTLTEA      O                             0609     13500     28500                                  
+SEURER       G81-L       0080EZS  LTD       O                             0143     13500     28500                                  
+SEURER       UW73-       0010BAYIRLTEA      O                                      12500     28500                                  
+SEURER       UW73-       0020MUS  LTD       O                             0152     12500     28500                                  
+SEURER       W74         0030DYB  LTD       O                                      09500     28500                                  
+SEURER       W74         0040OZBEYLTEA      O                             0651     09500     28500                                  
+SEURER       W74         0050URF  LTD       O                             0149     09500     28500                                  
+SEURER       W74         0060SURUCLTEA      O                             0146     09500     28500                                  
+SEURER       W74         0070NIZIPLTEA      O                             0375     09500     28500                                  
+SEURER       W74         0080GAZ  LTD       O                             0142     11500     28500                                  
+SEURER       W74         0090KOZANLTEA      O                             0153     11500     28500                                  
+SEURER       W74         0100MILBALTEA      O                             0324     11500     28500                                  
+SEURER       W74         0110MANAZLTEA      O                                      12500     28500                                  
+SEURER       W74         0120MUT  LTD       O                             0536     12500     28500                                  
+SEURER       W95         0010BDR  LTD       O                                      08500     28500                                  
+SEURER       W95         0020CENGOLTEA      O                             0231     08500     28500                                  
+SEURER       W95         0030SONENLTEA      O                             0107     10500     28500                                  
+SEURER       W95         0040KAVAKLTEA      O                             0246     10500     28500                                  
+SEURER       W95         0050TAVASLTEA      O                             0280     10500     28500                                  
+SEURER       A17         0010BELSULTEA      O                                      24500     28500                                  
+SEURER       A17         0020YUCELLTEA      O                             0422     24500     28500                                  
+SEURER       A17         0070BOYATLTEA      O                                      24500     28500                                  
+SEURER       A17         0080RATSILTEA      O                             0650     24500     28500                                  
+SEURER       N127        0030DAL  LTD       O                             0399     13500     28500                                  
+SEURER       N127        0040KEKIKLTEA      O                             0307     13500     28500                                  
+SEURER       N127        0050SONENLTEA      O                             0060     13500     28500                                  
+SEURER       N127        0060ULKANLTEA      O                             0117     13500     28500                                  
+SEURER       L602        0060DERELLTEA      O                                      19500     28500                                  
+SEURER       L602        0070BUK  LTD       O                             0504     19500     28500                                  
+SEURER       L602        0080SULAKLTEA      O                             2046     20500     28500                                  
+SEURER       L602        0090GAZ  LTD       O                             0801     20500     28500                                  
+SEURER       G80-N       0010IMR  LTD       O                                      06500     28500                                  
+SEURER       G80-N       0020BERGOLTEA      O                             0413     08500     28500                                  
+SEURER       G80-N       0030DUGLALTEA      O                             0303     08500     28500                                  
+SEURER       G80-N       0040KONENLTEA      O                             0189     08500     28500                                  
+SEURER       G80-N       0050BIG  LTD       O                             0287     07500     28500                                  
+SEURER       G80-N       0060EKI  LTD       O                             0401     07500     28500                                  
+SEURER       G12-M       0030EKI  LTD       O                                      07500     28500                                  
+SEURER       G12-M       0040GOLDOLTEA      O                             0536     07500     28500                                  
+SEURER       G8          0010BIG  LTD       O                                      07500     28500                                  
+SEURER       G8          0020DENIZ  EA      O                             0444     07500     28500                                  
+SEURER       G8          0030GOTANLTEA      O                             0246     07500     28500                                  
+SEURER       G8          0040IST    D       O                             0219     07500     28500                                  
+SEURER       G8          0110NARLILTEA      O                             0555     16500     28500                                  
+SEURER       G8          0120SRT  LTD       O                             0651     16500     28500                                  
+SEURER       G8-N6       0010BIG  LTD       O                                      08500     28500                                  
+SEURER       G8-N6       0020SUDESLTEA      O                             0378     08500     28500                                  
+SEURER       W715        0020BRY  LTD       O                             0558     10500     28500                                  
+SEURER       A4-L6       0020GAYEMLTEA      O                             0225     11500     28500                                  
+SEURER       A4-L6       0030ERSENLTEA      O                             0483     14500     28500                                  
+SEURER       A4-L6       0040YAVRULTEA      O                             0557     14500     28500                                  
+SEURER       A4-L6       0050SALGOLTEA      O                             0180     14500     28500                                  
+SEURER       A4-L6       0060BUK  LTD       O                             0437     09500     28500                                  
+SEURER       A4-L6       0070GURBULTEA      O                             0337     09500     28500                                  
+SEURER       A4-L6       0080ORKANLTEA      O                             0710     09500     28500                                  
+SEURER       A4-L6       0090ENFORLTEA      O                             0427     09500     28500                                  
+SEURER       A4-L6       0100RAGUZLTEA      O                             0141     09500     28500                                  
+SEURER       A4-L6       0110SIV  LTD       O                             0149     14500     28500                                  
+SEURER       A4-L6       0120HAFIKLTEA      O                             0149     14500     28500                                  
+SEURER       A4-L6       0130VABELLTEA      O                             0763     14500     28500                                  
+SEURER       A4-L6       0140BUDAKLTEA      O                             0325     14500     28500                                  
+SEURER       A4-L6       0150DAMATLTEA      O                                      14500     28500                                  
+SEURER       A4-L6       0160ERZ  LTD       O                             0249     14500     28500                                  
+SEURER       A4          0020GOTANLTEA      O                             0343     14500     28500                                  
+SEURER       A4          0030SERCELTEA      O                             0559     17500     28500                                  
+SEURER       L615        0020VADENLTEA      O                             1032     19500     28500                                  
+SEURER       G123-       0020YAA  LTD       O                             0393     10500     28500                                  
+SEURER       W702        0020YASENLTEA      O                             0174     12000     28500                                  
+SEURER       W702        0030PAZAR  EA      O                             0226     26500     28500                                  
+SEURER       W702        0060MIMTOLTEA      O                             0343     26500     28500                                  
+SEURER       W89         0010KAVAKLTEA      O                                      19500     28500                                  
+SEURER       W89         0020SUNATLTEA      O                             0255     19500     28500                                  
+SEURER       W89         0030LAMSALTEA      O                             0333     14500     28500                                  
+SEURER       W87         0010DAL  LTD       O                                      09500     28500                                  
+SEURER       W87         0020KAVAKLTEA      O                             0402     09500     28500                                  
+SEURER       W87         0030LAVTALTEA      O                             0219     14500     28500                                  
+SEURER       W87         0040KULARLTEA      O                             0518     14500     28500                                  
+SEURER       W96         0050SIN  LTD       O                             0914     15500     28500                                  
+SEURER       W76         0050KSR  LTD       O                                      09500     28500                                  
+SEURER       W76         0060SARIZLTEA      O                             0173     09500     28500                                  
+SEURER       W76         0070MARTILTEA      O                             0235     09500     28500                                  
+SEURER       W110        0010CRD  LTD       O                                      09500     28500                                  
+SEURER       W110        0020PELILLTEA      O                             0253     09500     28500                                  
+SEURER       W110        0030EKSENLTEA      O                                      09500     28500                                  
+SEURER       W110        0040IPT  LTD       O                             0150     09500     28500                                  
+SEURER       M603        0080EKI  LTD       O                                      19500     28500                                  
+SEURER       M603        0090IST    D       O                             0627     19500     28500                                  
+SEURER       W714-       0010BRY  LTD       O                                      12500     28500                                  
+SEURER       W714-       0020SULTALTEA      O                             0146     12500     28500                                  
+SEURER       W714-       0030EDASALTEA      O                             0394     12500     28500                                  
+SEURER       W714-       0040KFK  LTD       O                             0440     12500     28500                                  
+SEURER       W714        0010BRY  LTD       O                                      10500     28500                                  
+SEURER       W714        0020YAA  LTD       O                             0218     10500     28500                                  
+SEURER       T32         0010BUK  LTD       RL                                     19500     28500                                  
+SEURER       T32         0020GEM  LTD       RL                            1500     19500     28500                                  
+SEURER       M853        0010INB  LTD       O                                      19500     28500                                  
+SEURER       M853        0020BUK  LTD       O                             1062     19500     28500                                  
+SEURER       M853        0030OKLAMLTEA      O                             1473     19500     28500                                  
+SEURER       A28         0140MUT  LTD       O                             0427     09500     28500                                  
+SEURER       W107        0010CAY  LTD       O                                      16500     28500                                  
+SEURER       W107        0020GUMRU  EA      O                             0333     16500     28500                                  
+SEURER       W80         0050KARGILTEA      O                                      06500     28500                                  
+SEURER       W80         0060ESR  LTD       O                             0312     06500     28500                                  
+SEURER       W80         0070TOKERLTEA      O                             0324     11500     28500                                  
+SEURER       UW95-       0010CRD  LTD       O                                      10500     28500                                  
+SEURER       UW95-       0020TAVASLTEA      O                             0250     10500     28500                                  
+SEURER       N616-       0010CRD  LTD       O                                      14500     28500                                  
+SEURER       N616-       0020TUMERLTEA      O                             0537     14500     28500                                  
+SEURER       N616-       0030DEDIMLTEA      O                             0449     19500     28500                                  
+SEURER       N616-       0040OVACILTEA      O                             0241     19500     28500                                  
+SEURER       W99         0010CRM  LTD       O                                      15500     28500                                  
+SEURER       W99         0020DETOS  EA      O                             0301     15500     28500                                  
+SEURER       N618-       0010DAL  LTD       O                                      09500     28500                                  
+SEURER       N618-       0020MARISLTEA      O                             0271     09500     28500                                  
+SEURER       N136        0010DAL  LTD       O                                      13000     28500                                  
+SEURER       N136        0020SOTIV  EA      O                             0167     13000     28500                                  
+SEURER       R660        0010ERZ  LTD       O                                      23500     28500                                  
+SEURER       R660        0020DASISLTEA      O                             1527     23500     28500                                  
+SEURER       R660        0030BORESOIEA      O                             0656     24000     28000                                  
+SEURER       A16-M       0040KUMRULTEA      O                                      08500     28500                                  
+SEURER       A16-M       0050ELMASLTEA      O                             0101     11500     28500                                  
+SEURER       A16-M       0060EKSENLTEA      O                             0185     11500     28500                                  
+SEURER       A16-M       0070LEMDALTEA      O                             0055     11500     28500                                  
+SEURER       A16-M       0080KFK  LTD       O                             0496     11500     28500                                  
+SEURER       UL602       0210DERELLTEA      O                                      28500     66000                                  
+SEURER       UL602       0220BUK  LTD       O                             0504     28500     66000                                  
+SEURER       UL602       0230SULAKLTEA      O                             2046     28500     66000                                  
+SEURER       UL602       0240GAZ  LTD       O                             0801     28500     66000                                  
+SEURER       R317        0010TBN  LTD       O                                      15500     28500                                  
+SEURER       R317        0020EKTESLTEA      O                             0185     15500     28500                                  
+SEURER       R317        0030DELELLTEA      O                             0311     15500     28500                                  
+SEURER       R317        0040REBLOLTEA      O                             1270     18500     28500                                  
+SEURER       R317        0050MATALUDEA      O                             0827     16000     19000                                  
+SEURER       P975        0040SIV  LTD       O                                      19500     28500                                  
+SEURER       P975        0050ERGUNLTEA      O                             1142     19500     28500                                  
+SEURER       P975        0060ORMANLTEA      O                             0684     19500     28500                                  
+SEURER       P975        0070TEPKILTEA      O                             0213     19500     28500                                  
+SEURER       P975        0080HAKAN  EA      O                             0351     19500     28500                                  
+SEURER       T36         0020ULKEMLTEA      RL                            0546     20500     28500                                  
+SEURER       T36         0030RENGILTEA      RL                            1097     20000     28500                                  
+SEURER       T36         0040EZS  LTD       RL                            0883     20000     28500                                  
+SEURER       B36-M       0010DONDULTEA      O                                      12500     28500                                  
+SEURER       B36-M       0020KEPESLTEA      O                             0372     12500     28500                                  
+SEURER       B36-M       0030GEM  LTD       O                             0688     12500     28500                                  
+SEURER       N129        0010DUGLALTEA      O                                      12500     28500                                  
+SEURER       N129        0020PIROX  EA      O                             1852     12500     28500                                  
+SEURER       N131-       0030MANAVLTEA      O                             0304     06500     28500                                  
+SEURER       A4-L6       0010ERZ  LTD       O                                      16500     28500                                  
+SEURER       A4-L6       0020SUSUZLTEA      O                             0250     16500     28500                                  
+SEURER       A4-L6       0030GOKSULTEA      O                             0170     19500     28500                                  
+SEURER       A4-L6       0040DORUKLTEA      O                             0180     19500     28500                                  
+SEURER       A4-L6       0050ESENKLTEA      O                             0480     19500     28500                                  
+SEURER       A4-L6       0060VAN  LTD       O                             0251     19500     28500                                  
+SEURER       G12         0060EKI  LTD       O                                      07500     28500                                  
+SEURER       G12         0070YAA  LTD       O                             0860     07500     28500                                  
+SEURER       W104        0010DYB  LTD       O                                      10500     28500                                  
+SEURER       W104        0020HAZARLTEA      O                             0543     10500     28500                                  
+SEURER       W104        0030EZS  LTD       O                             0141     10500     28500                                  
+SEURER       W109        0010DYB  LTD       O                                      28500     66000                                  
+SEURER       W109        0020MRD  LTD       O                             0437     28500     66000                                  
+SEURER       N618-       0010EKI  LTD       O                                      13500     28500                                  
+SEURER       N618-       0020SERCELTEA      O                             0392     13500     28500                                  
+SEURER       G80-L       0010EKI  LTD       O                                      07500     28500                                  
+SEURER       G80-L       0020ULMARLTEA      O                             0190     07500     28500                                  
+SEURER       L854-       0010EKI  LTD       O                                      19500     28500                                  
+SEURER       L854-       0020YAYLALTEA      O                             0702     19500     28500                                  
+SEURER       L854-       0030KUDAKLTEA      O                             0364     19500     28500                                  
+SEURER       L854-       0040ESKINLTEA      O                             0160     19500     28500                                  
+SEURER       L854-       0050KULARLTEA      O                             0302     24500     28500                                  
+SEURER       W711        0010ENFORLTEA      O                                      09500     28500                                  
+SEURER       W711        0020TKT  LTD       O                             0263     09500     28500                                  
+SEURER       L851-       0010TBN  LTD       O                                      14500     28500                                  
+SEURER       L851-       0020ERCANLTEA      O                             0189     14500     28500                                  
+SEURER       L851-       0030HOCAMLTEA      O                             0458     14500     28500                                  
+SEURER       L851-       0040ERZ  LTD       O                             0249     14500     28500                                  
+SEURER       A285        0010SIV  LTD       O                                      10500     28500                                  
+SEURER       A285        0020KAMANLTEA      O                             0149     10500     28500                                  
+SEURER       A285        0030GEM  LTD       O                             0404     10500     28500                                  
+SEURER       A285        0040TIRMALTEA      O                             0178     15500     28500                                  
+SEURER       A285        0050ERHANLTEA      O                             0355     15500     28500                                  
+SEURER       A285        0060TEVDALTEA      O                             0119     15500     28500                                  
+SEURER       A285        0070ERCISLTEA      O                             0085     15500     28500                                  
+SEURER       A285        0080SELVILTEA      O                             0306     15500     28500                                  
+SEURER       A285        0090MUT  LTD       O                             0847     15500     28500                                  
+SEURER       W701        0010ERGANLTEA      O                                      25500     28500                                  
+SEURER       W701        0020EZS  LTD       O                             0147     25500     28500                                  
+SEURER       W701        0030FILIZLTEA      O                             0148     23500     28500                                  
+SEURER       W701        0040TALILLTEA      O                             0305     22000     28500                                  
+SEURER       W701        0050GELSULTEA      O                             0351     22000     28500                                  
+SEURER       W701        0060ULGANLTEA      O                             0080     21500     28500                                  
+SEURER       W701        0070GELINLTEA      O                             0053     22000     28500                                  
+SEURER       W701        0080ERZ  LTD       O                             0251     22000     28500                                  
+SEURER       W94         0010ERZ  LTD       O                                      14500     28500                                  
+SEURER       W94         0020TAVUSLTEA      O                             0249     14500     28500                                  
+SEURER       G1-L6       0020FATIHLTEA      O                             0160     06500     28500                                  
+SEURER       G1-L6       0030UNSAV  EA      O                             0150     06500     28500                                  
+SEURER       A16-L       0020FENERLTEA      O                             0282     09500     28500                                  
+SEURER       A16-L       0030VADENLTEA      O                             0694     09500     28500                                  
+SEURER       B36         0010GAZ  LTD       O                                      12500     28500                                  
+SEURER       B36         0020KILISOSEA      O                             0152     12500     28500                                  
+SEURER       W705        0010GEM  LTD       O                                      19500     28500                                  
+SEURER       W705        0020HAY  LTD       O                             1644     19500     28500                                  
+SEURER       W106        0090TZK  LTD       O                                      09500     28500                                  
+SEURER       W106        0100URGUPLTEA      O                             0282     09500     28500                                  
+SEURER       R114        0010TBN  LTD       O                                      05500     28500                                  
+SEURER       R114        0020HAMSI  EA      O                             0207     05500     28500                                  
+SEURER       B545        0010KFK  LTD       O                                      13500     28500                                  
+SEURER       B545        0020HISARLTEA      O                             0624     13500     28500                                  
+SEURER       B545        0030OKLAMLTEA      O                             0025     13500     28500                                  
+SEURER       B545        0040SEHIRLTEA      O                             0395     13500     28500                                  
+SEURER       B545        0050MUT  LTD       O                             0703     13500     28500                                  
+SEURER       R21-T       0020SRT  LTD       O                             0539     14500     28500                                  
+SEURER       N644-       0020SIN  LTD       O                             0882     24500     28500                                  
+SEURER       A16-L       0010KFK  LTD       O                                      10500     28500                                  
+SEURER       A16-L       0020KARGILTEA      O                             0440     10500     28500                                  
+SEURER       A16-L       0030YAA  LTD       O                             0739     12500     28500                                  
+SEURER       R55         0010KONAKLTEA      O                                      12500     28500                                  
+SEURER       R55         0020KETEKLTEA      O                             0510     12500     28500                                  
+SEURER       R55         0030MUT  LTD       O                             0391     12500     28500                                  
+SEURER       L619-       0010KFK  LTD       O                                      19500     28500                                  
+SEURER       L619-       0020OKLAMLTEA      O                             0648     19500     28500                                  
+SEURER       L619-       0030MUT  LTD       O                             1098     19500     28500                                  
+SEURER       T39         0010KULARLTEA      RL                                     12500     28500                                  
+SEURER       T39         0020NESILLTEA      RL                            0905     12500     28500                                  
+SEURER       T39         0030LAMSALTEA      RL                            0169     12500     28500                                  
+SEURER       T35         0010KUTAYLTEA      RL                                     19500     28500                                  
+SEURER       T35         0020TEKDOLTEA      RL                            0719     19500     28500                                  
+SEURER       T333        0020SRT  LTD       RL                            0591     23000     28500                                  
+SEURER       W108        0010MRD  LTD       O                                      08500     28500                                  
+SEURER       W108        0020URF  LTD       O                             0862     08500     28500                                  
+SEURER       UW71-       0010MUS  LTD       O                                      10500     28500                                  
+SEURER       UW71-       0020VARTOLTEA      O                             0199     10500     28500                                  
+SEURER       B545-       0010MUT  LTD       O                                      09500     28500                                  
+SEURER       B545-       0020VESAR  EA      O                             0668     09500     28500                                  
+SEURER       N618        0010SERCELTEA      O                                      19500     28500                                  
+SEURER       N618        0020VADENLTEA      O                             0283     19500     28500                                  
+SEURER       P146        0010TBN  LTD       O                                      19500     28500                                  
+SEURER       P146        0020YAVUZLTEA      O                             1332     19500     28500                                  
+SEURER       UL621       0010MUT  LTD       O                                      28500     66000                                  
+SEURER       UL621       0020BUMOMLTEA      O                             0691     28500     66000                                  
+SEURER       UL621       0030BUK  LTD       O                             1339     28500     66000                                  
+SEURER       UL621       0040UDROS  EA      O                             1876     28500     66000                                  
+SEURER       UM861       0090BUK  LTD       O                             1622     28500     66000                                  
+SEURER       UM861       0100BELSULTEA      O                             0862     28500     66000                                  
+SEURER       UM861       0110TEVDALTEA      O                             0584     28500     66000                                  
+SEURER       UM861       0120MILBALTEA      O                             1086     28500     66000                                  
+SEURER       UM861       0130NISAPLTEA      O                             0127     28500     66000                                  
+SEURER       UL605       0010BELSULTEA      O                                      28500     66000                                  
+SEURER       UL605       0020BADOXLTEA      O                             0188     28500     66000                                  
+SEURER       UL605       0030YUCELLTEA      O                             0234     28500     66000                                  
+SEURER       UL605       0060BOYATLTEA      O                                      28500     66000                                  
+SEURER       UL605       0070POGENLTEA      O                             0349     28500     66000                                  
+SEURER       UL605       0080RATSILTEA      O                             0301     28500     66000                                  
+SEURER       UW86        0010CRM  LTD       O                                      28500     66000                                  
+SEURER       UW86        0020BAFRALTEA      O                             0300     28500     66000                                  
+SEURER       UW86        0030GERZELTEA      O                             0408     28500     66000                                  
+SEURER       UW86        0040SIN  LTD       O                             0120     28500     66000                                  
+SEURER       UL601       0010BAKIRLTEA      O                                      28500     66000                                  
+SEURER       UL601       0020BAG  LTD       O                             0447     28500     66000                                  
+SEURER       UL601       0030NASIMLTEA      O                             0373     28500     66000                                  
+SEURER       UL601       0040DERELLTEA      O                             0106     28500     66000                                  
+SEURER       UL601       0050KEMERLTEA      O                                      28500     66000                                  
+SEURER       UL601       0060SELVILTEA      O                             0208     28500     66000                                  
+SEURER       UL601       0070URGUPLTEA      O                             0434     28500     66000                                  
+SEURER       UW71        0010BAG  LTD       O                                      28500     66000                                  
+SEURER       UW71        0020BUK  LTD       O                             0170     28500     66000                                  
+SEURER       UW71        0030ILHANLTEA      O                             0300     28500     66000                                  
+SEURER       UW71        0040ERGUNLTEA      O                             0505     28500     66000                                  
+SEURER       UW71        0050HAVZALTEA      O                             0578     28500     66000                                  
+SEURER       UW71        0060CRM  LTD       O                             0299     28500     66000                                  
+SEURER       UW71        0070TERMELTEA      O                             0307     28500     66000                                  
+SEURER       UW71        0080TEMEL  EA      O                             0870     28500     66000                                  
+SEURER       UW71        0090TBN  LTD       O                             0301     28500     66000                                  
+SEURER       UW71        0100ERZ  LTD       O                                      28500     66000                                  
+SEURER       UW71        0110TURNALTEA      O                             0250     28500     66000                                  
+SEURER       UW71        0120RAVLILTEA      O                             0051     28500     66000                                  
+SEURER       UW71        0130LANSALTEA      O                             0035     28500     66000                                  
+SEURER       UW71        0140KESIRLTEA      O                             0066     28500     66000                                  
+SEURER       UW71        0150VARTOLTEA      O                             0156     28500     66000                                  
+SEURER       UW71        0160MUS  LTD       O                             0199     28500     66000                                  
+SEURER       UT31        0010BAG  LTD       O                                      28500     66000                                  
+SEURER       UT31        0020ELDENLTEA      O                             1208     28500     66000                                  
+SEURER       UT31        0030SIV  LTD       O                             0679     28500     66000                                  
+SEURER       UT31        0040EBEDILTEA      O                             1030     28500     66000                                  
+SEURER       UT31        0050ERN  LTD       O                             0188     28500     66000                                  
+SEURER       UT31        0060GELSULTEA      O                             0484     28500     66000                                  
+SEURER       UT31        0070NEGOLLTEA      O                             0247     28500     66000                                  
+SEURER       UT31        0080LANSALTEA      O                             0159     28500     66000                                  
+SEURER       UT31        0090DORUKLTEA      O                             0362     28500     66000                                  
+SEURER       UT31        0100DASISLTEA      O                             0975     28500     66000                                  
+SEURER       UM856       0010BAG  LTD       O                                      28500     66000                                  
+SEURER       UM856       0020HAKAN  EA      O                             1020     28500     66000                                  
+SEURER       UP29-       0010BAG  LTD       O                                      28500     66000                                  
+SEURER       UP29-       0020HALILLTEA      O                             0458     28500     66000                                  
+SEURER       UP29-       0030HISARLTEA      O                             0856     28500     66000                                  
+SEURER       UP29-       0040DAMLALTEA      O                             0501     28500     66000                                  
+SEURER       UR32        0010BAG  LTD       O                                      28500     66000                                  
+SEURER       UR32        0020HAY  LTD       O                             0404     28500     66000                                  
+SEURER       UR32        0030HALILLTEA      O                             0076     28500     66000                                  
+SEURER       UR32        0040KFK  LTD       O                             0914     28500     66000                                  
+SEURER       UR32        0050KINIKLTEA      O                             0260     28500     66000                                  
+SEURER       UR32        0060TUMERLTEA      O                             0251     28500     66000                                  
+SEURER       UR32        0070NESETLTEA      O                             0166     28500     66000                                  
+SEURER       UR32        0080KULARLTEA      O                             0230     28500     66000                                  
+SEURER       UA17-       0010YUCELLTEA      O                                      28500     66000                                  
+SEURER       UA17-       0020BAG  LTD       O                             0463     28500     66000                                  
+SEURER       UA17-       0030KIZIKLTEA      O                             0368     28500     66000                                  
+SEURER       UA17-       0040YAVRULTEA      O                             0175     28500     66000                                  
+SEURER       UA17-       0050NAMANLTEA      O                             0454     28500     66000                                  
+SEURER       UA17-       0060RIXEN  EA      O                             1196     28500     66000                                  
+SEURER       UA17-       0070BELSULTEA      O                                      28500     66000                                  
+SEURER       UA17-       0080KISLALTEA      O                             0025     28500     66000                                  
+SEURER       UA17-       0090ERHANLTEA      O                             0547     28500     66000                                  
+SEURER       UA17-       0100SOLSALTEA      O                             0345     28500     66000                                  
+SEURER       UA17-       0110RATSILTEA      O                             0279     28500     66000                                  
+SEURER       UA17-       0120BOYATLTEA      O                                      28500     66000                                  
+SEURER       UA17-       0130GAZ  LTD       O                             0150     28500     66000                                  
+SEURER       UG8-U       0010SRT  LTD       O                                      28500     66000                                  
+SEURER       UG8-U       0020TAMERLTEA      O                             0542     28500     66000                                  
+SEURER       UG8-U       0030KEBANLTEA      O                             0658     28500     66000                                  
+SEURER       UG8-U       0040EZS  LTD       O                             0141     28500     66000                                  
+SEURER       UG8-U       0050BULUTLTEA      O                             0155     28500     66000                                  
+SEURER       UG8-U       0060GEM  LTD       O                             1361     28500     66000                                  
+SEURER       UG8-U       0070MARTILTEA      O                             0420     28500     66000                                  
+SEURER       UG8-U       0080KUBERLTEA      O                             0772     28500     66000                                  
+SEURER       UG8-U       0090BAG  LTD       O                             0395     28500     66000                                  
+SEURER       UG8-U       0100PETARLTEA      O                             0340     28500     66000                                  
+SEURER       UG8-U       0110TOKERLTEA      O                             0606     28500     66000                                  
+SEURER       UG8-U       0120YAA  LTD       O                             0722     28500     66000                                  
+SEURER       UT61        0010BAG  LTD       O                                      28500     66000                                  
+SEURER       UT61        0020NENDOLTEA      O                             0998     28500     66000                                  
+SEURER       UT61        0030SIN  LTD       O                             0560     28500     66000                                  
+SEURER       UA28-       0010BAG  LTD       O                                      28500     66000                                  
+SEURER       UA28-       0020TELVOLTEA      O                             0422     28500     66000                                  
+SEURER       UA28-       0030OBRUKLTEA      O                             0815     28500     66000                                  
+SEURER       UA28-       0040MUT  LTD       O                             0701     28500     66000                                  
+SEURER       UP29        0010BAG  LTD       O                                      28500     66000                                  
+SEURER       UP29        0020TEPKILTEA      O                             0835     28500     66000                                  
+SEURER       UP29        0030MIMTOLTEA      O                             0238     28500     66000                                  
+SEURER       UP29        0040SUMOL  EA      O                             0575     28000     66000                                  
+SEURER       UG261       0070TBN  LTD       O                             1461     28500     66000                                  
+SEURER       UL854       0010CRD  LTD       O                                      28500     66000                                  
+SEURER       UL854       0020BAGLULTEA      O                             0246     28500     66000                                  
+SEURER       UL854       0030KULARLTEA      O                             0448     28500     66000                                  
+SEURER       UL854       0040BRONZLTEA      O                                      28500     66000                                  
+SEURER       UL854       0050KOZLULTEA      O                             0189     28500     66000                                  
+SEURER       UL854       0060SALDALTEA      O                             0050     28500     66000                                  
+SEURER       UN604       0010BIG  LTD       O                                      28500     66000                                  
+SEURER       UN604       0020BKZ    D       O                             0954     28500     66000                                  
+SEURER       UL852       0040BALONLTEA      O                                      28500     66000                                  
+SEURER       UL852       0050SEHERLTEA      O                             0535     28500     66000                                  
+SEURER       UL852       0060CRM  LTD       O                             1026     28500     66000                                  
+SEURER       UL852       0070INB  LTD       O                             1341     28500     66000                                  
+SEURER       UL852       0080VAN  LTD       O                                      28500     66000                                  
+SEURER       UL852       0090KESIRLTEA      O                             1013     28500     66000                                  
+SEURER       UL852       0100NEGOLLTEA      O                             0198     28500     66000                                  
+SEURER       UL852       0110ULGANLTEA      O                             0205     28500     66000                                  
+SEURER       UL619       0040GAYEMLTEA      O                             0709     28500     66000                                  
+SEURER       UL619       0050HANKOLTEA      O                             0974     28500     66000                                  
+SEURER       UL619       0060KFK  LTD       O                             0437     28500     66000                                  
+SEURER       UW73        0010MUS  LTD       O                                      28500     66000                                  
+SEURER       UW73        0020BAYIRLTEA      O                             0152     28500     66000                                  
+SEURER       UW73        0030BALIMLTEA      O                             0165     28500     66000                                  
+SEURER       UW73        0040TAMERLTEA      O                             0184     28500     66000                                  
+SEURER       UW73        0050DYB  LTD       O                             0363     28500     66000                                  
+SEURER       UW73        0060ERH  LTD       O                                      28500     66000                                  
+SEURER       UW73        0070GEM  LTD       O                             1059     28500     66000                                  
+SEURER       UW88        0010EZS  LTD       O                                      28500     66000                                  
+SEURER       UW88        0020ERTEKLTEA      O                             0154     28500     66000                                  
+SEURER       UW88        0030KONUKLTEA      O                             0342     28500     66000                                  
+SEURER       UW88        0040ERN  LTD       O                             0121     28500     66000                                  
+SEURER       UW88        0050BUDAKLTEA      O                             0125     28500     66000                                  
+SEURER       UW88        0060BALONLTEA      O                             0108     28500     66000                                  
+SEURER       UW88        0070SONADLTEA      O                             0198     28500     66000                                  
+SEURER       UW88        0080ORTAKLTEA      O                             0150     28500     66000                                  
+SEURER       UW88        0090TBN  LTD       O                             0201     28500     66000                                  
+SEURER       UW78        0010DAL  LTD       O                                      28500     66000                                  
+SEURER       UW78        0020OZYAKLTEA      O                             0318     28500     66000                                  
+SEURER       UW78        0030SUNATLTEA      O                             0088     28500     66000                                  
+SEURER       UW78        0040BALSULTEA      O                             0149     28500     66000                                  
+SEURER       UW78        0050CRD  LTD       O                             0240     28500     66000                                  
+SEURER       UW78        0060DESEMLTEA      O                             0259     28500     66000                                  
+SEURER       UW78        0070RESLILTEA      O                             0102     28500     66000                                  
+SEURER       UW78        0080KFK  LTD       O                             0366     28500     66000                                  
+SEURER       UN135       0010ERGINLTEA      O                                      28500     66000                                  
+SEURER       UN135       0020NESILLTEA      O                             0148     28500     66000                                  
+SEURER       UN135       0030BALSULTEA      O                             0159     28500     66000                                  
+SEURER       UN135       0040LAVTALTEA      O                             0377     28500     66000                                  
+SEURER       UN135       0050KUMANLTEA      O                             0453     28500     66000                                  
+SEURER       G901-       0030CRM  LTD       O                             0443     28500     66000                                  
+SEURER       UW72-       0010BANAZLTEA      O                                      28500     66000                                  
+SEURER       UW72-       0020SIV  LTD       O                             0150     28500     66000                                  
+SEURER       UG80-       0020YUNUSLTEA      O                             0139     28500     66000                                  
+SEURER       UG80-       0030MILASLTEA      O                             0300     28500     66000                                  
+SEURER       UN131       0100SUDESLTEA      O                             0307     28500     66000                                  
+SEURER       UN131       0110DUGLALTEA      O                             0223     28500     66000                                  
+SEURER       UN131       0120NILERLTEA      O                             0390     28500     66000                                  
+SEURER       UN131       0130KULARLTEA      O                             0467     28500     66000                                  
+SEURER       UN131       0140CRD  LTD       O                             0694     28500     66000                                  
+SEURER       UN131       0150BRONZLTEA      O                                      28500     66000                                  
+SEURER       UN131       0160SALDALTEA      O                             0239     28500     66000                                  
+SEURER       UW103       0040ERH  LTD       O                                      28500     66000                                  
+SEURER       UW103       0050SONSULTEA      O                             0376     28500     66000                                  
+SEURER       UW103       0060KHD  LTD       O                             0098     28500     66000                                  
+SEURER       UG67        0070TBN  LTD       O                             0190     28500     66000                                  
+SEURER       UZ713       0010DUGLALTEA      O                                      28500     66000                                  
+SEURER       UZ713       0020KUMANLTEA      O                             0926     28500     66000                                  
+SEURER       UZ713       0030ULKANLTEA      O                             0459     28500     66000                                  
+SEURER       UZ713       0040BATUKLTEA      O                             0033     28500     66000                                  
+SEURER       UZ713       0050MARISLTEA      O                             0220     28500     66000                                  
+SEURER       UZ713       0060PIROX  EA      O                             0274     28500     66000                                  
+SEURER       UL858       0100VADENLTEA      O                             1043     24500     66000                                  
+SEURER       UB111       0060REBLOLTEA      O                             0067     28500     66000                                  
+SEURER       UB111       0070LASETLTEA      O                             0168     28500     66000                                  
+SEURER       UB111       0080KAR  LTD       O                             0136     28500     66000                                  
+SEURER       UB111       0090BAYGALTEA      O                             0159     28500     66000                                  
+SEURER       UB111       0100NERSULTEA      O                             0089     28500     66000                                  
+SEURER       UB111       0110SURELLTEA      O                             0791     28500     66000                                  
+SEURER       UB111       0120HAZANLTEA      O                             0311     28500     66000                                  
+SEURER       UB111       0130TBN  LTD       O                             0185     28500     66000                                  
+SEURER       UG81-       0020ZELSULTEA      O                             0276     28500     66000                                  
+SEURER       UG81-       0030VAN  LTD       O                             0247     28500     66000                                  
+SEURER       UG81-       0040BEYAZLTEA      O                             0249     28500     66000                                  
+SEURER       UG81-       0050BAYIRLTEA      O                             0657     28500     66000                                  
+SEURER       UG81-       0060NARENLTEA      O                             0272     28500     66000                                  
+SEURER       UG81-       0070PALUTLTEA      O                             0609     28500     66000                                  
+SEURER       UG81-       0080EZS  LTD       O                             0143     28500     66000                                  
+SEURER       UW74        0030DYB  LTD       O                                      28500     66000                                  
+SEURER       UW74        0040OZBEYLTEA      O                             0651     28500     66000                                  
+SEURER       UW74        0050URF  LTD       O                             0149     28500     66000                                  
+SEURER       UW74        0060SURUCLTEA      O                             0146     28500     66000                                  
+SEURER       UW74        0070NIZIPLTEA      O                             0375     28500     66000                                  
+SEURER       UW74        0080GAZ  LTD       O                             0142     28500     66000                                  
+SEURER       UW74        0090KOZANLTEA      O                             0153     28500     66000                                  
+SEURER       UW74        0100MILBALTEA      O                             0324     28500     66000                                  
+SEURER       UW74        0110MANAZLTEA      O                                      28500     66000                                  
+SEURER       UW74        0120MUT  LTD       O                             0536     28500     66000                                  
+SEURER       UT38        0020KONENLTEA      O                             0762     28500     66000                                  
+SEURER       UT38        0040KETEKLTEA      O                             0945     28500     66000                                  
+SEURER       UT38        0050LEMDALTEA      O                             1089     28500     66000                                  
+SEURER       UT38        0060RESLILTEA      O                             0315     28500     66000                                  
+SEURER       UT38        0070TUMERLTEA      O                             0378     28500     66000                                  
+SEURER       UT38        0080KUDAKLTEA      O                             0674     28500     66000                                  
+SEURER       UL615       0150VADENLTEA      O                             1032     28500     66000                                  
+SEURER       UA17        0010BELSULTEA      O                                      28500     66000                                  
+SEURER       UA17        0020YUCELLTEA      O                             0422     28500     66000                                  
+SEURER       UA17        0030BOYATLTEA      O                                      28500     66000                                  
+SEURER       UA17        0040RATSILTEA      O                             0650     28500     66000                                  
+SEURER       UN127       0030DAL  LTD       O                             0399     28500     66000                                  
+SEURER       UN127       0040KEKIKLTEA      O                             0307     28500     66000                                  
+SEURER       UN127       0050SONENLTEA      O                             0060     28500     66000                                  
+SEURER       UN127       0060ULKANLTEA      O                             0117     28500     66000                                  
+SEURER       UG80-       0010IMR  LTD       O                                      28500     66000                                  
+SEURER       UG80-       0020BERGOLTEA      O                             0413     28500     66000                                  
+SEURER       UG80-       0030DUGLALTEA      O                             0303     28500     66000                                  
+SEURER       UG80-       0040KONENLTEA      O                             0189     28500     66000                                  
+SEURER       UG80-       0050BIG  LTD       O                             0287     28500     66000                                  
+SEURER       UG80-       0060EKI  LTD       O                             0401     28500     66000                                  
+SEURER       UM603       0120EKI  LTD       O                                      28500     66000                                  
+SEURER       UM603       0130IST    D       O                             0627     28500     66000                                  
+SEURER       UW27        0010KAR  LTD       O                                      28500     66000                                  
+SEURER       UW27        0020BERNELTEA      O                             0162     28500     66000                                  
+SEURER       UW27        0030VIRANLTEA      O                             0540     28500     66000                                  
+SEURER       UW27        0040ERZ  LTD       O                             0249     28500     66000                                  
+SEURER       UW705       0040GEM  LTD       O                                      28500     66000                                  
+SEURER       UW705       0050HAY  LTD       O                             1644     28500     66000                                  
+SEURER       UW92        0010BIG  LTD       O                                      28500     66000                                  
+SEURER       UW92        0020CNK    D       O                             0439     28500     66000                                  
+SEURER       UG8         0010BIG  LTD       O                                      28500     66000                                  
+SEURER       UG8         0020DENIZ  EA      O                             0444     28500     66000                                  
+SEURER       UG8         0030GOTANLTEA      O                             0246     28500     66000                                  
+SEURER       UG8         0040IST    D       O                             0219     28500     66000                                  
+SEURER       UG8         0060NARLILTEA      O                             0555     28500     66000                                  
+SEURER       UG8         0070SRT  LTD       O                             0651     28500     66000                                  
+SEURER       UG8-U       0010BIG  LTD       O                                      28500     66000                                  
+SEURER       UG8-U       0020SUDESLTEA      O                             0378     28500     66000                                  
+SEURER       UW715       0020BRY  LTD       O                             0558     28500     66000                                  
+SEURER       UA4-U       0020GAYEMLTEA      O                             0225     28500     66000                                  
+SEURER       UA4-U       0030ERSENLTEA      O                             0483     28500     66000                                  
+SEURER       UA4-U       0040YAVRULTEA      O                             0557     28500     66000                                  
+SEURER       UA4-U       0050SALGOLTEA      O                             0180     28500     66000                                  
+SEURER       UA4-U       0060BUK  LTD       O                             0437     28500     66000                                  
+SEURER       UA4-U       0070GURBULTEA      O                             0337     28500     66000                                  
+SEURER       UA4-U       0080ORKANLTEA      O                             0710     28500     66000                                  
+SEURER       UA4-U       0090ENFORLTEA      O                             0427     28500     66000                                  
+SEURER       UA4-U       0100RAGUZLTEA      O                             0141     28500     66000                                  
+SEURER       UA4-U       0110SIV  LTD       O                             0149     28500     66000                                  
+SEURER       UA4-U       0120HAFIKLTEA      O                             0149     28500     66000                                  
+SEURER       UA4-U       0130VABELLTEA      O                             0763     28500     66000                                  
+SEURER       UA4-U       0140BUDAKLTEA      O                             0325     28500     66000                                  
+SEURER       UA4-U       0150DAMATLTEA      O                                      28500     66000                                  
+SEURER       UA4-U       0160ERZ  LTD       O                             0249     28500     66000                                  
+SEURER       UA4         0020GOTANLTEA      O                             0343     28500     66000                                  
+SEURER       UA4         0030SERCELTEA      O                             0559     28500     66000                                  
+SEURER       UG123       0020YAA  LTD       O                             0393     28500     66000                                  
+SEURER       UW702       0020YASENLTEA      O                             0174     28500     66000                                  
+SEURER       UW702       0030PAZAR  EA      O                             0226     28500     66000                                  
+SEURER       UW702       0060MIMTOLTEA      O                             0343     28500     66000                                  
+SEURER       UW95        0050CENGOLTEA      O                                      28500     66000                                  
+SEURER       UW95        0060SONENLTEA      O                             0107     28500     66000                                  
+SEURER       UW95        0070KAVAKLTEA      O                             0246     28500     66000                                  
+SEURER       UW95        0080TAVASLTEA      O                             0280     28500     66000                                  
+SEURER       UW95        0090CRD  LTD       O                             0250     28500     66000                                  
+SEURER       UW96        0090SIN  LTD       O                             0914     28500     66000                                  
+SEURER       UW714       0010BRY  LTD       O                                      28500     66000                                  
+SEURER       UW714       0020SULTALTEA      O                             0146     28500     66000                                  
+SEURER       UW714       0030EDASALTEA      O                             0394     28500     66000                                  
+SEURER       UW714       0040KFK  LTD       O                             0440     28500     66000                                  
+SEURER       UW714       0010BRY  LTD       O                                      28500     66000                                  
+SEURER       UW714       0020YAA  LTD       O                             0218     28500     66000                                  
+SEURER       UT32        0010BUK  LTD       O                                      28500     66000                                  
+SEURER       UT32        0020GEM  LTD       O                             1500     28500     66000                                  
+SEURER       UM853       0010BUK  LTD       O                                      28500     66000                                  
+SEURER       UM853       0020INB  LTD       O                             1062     28500     66000                                  
+SEURER       UM853       0010BUK  LTD       O                                      28500     66000                                  
+SEURER       UM853       0020OKLAMLTEA      O                             1473     28500     66000                                  
+SEURER       UW107       0010CAY  LTD       O                                      28500     66000                                  
+SEURER       UW107       0020GUMRU  EA      O                             0333     28500     66000                                  
+SEURER       UT35        0030KUTAYLTEA      O                                      28500     66000                                  
+SEURER       UT35        0040TEKDOLTEA      O                             0719     28500     66000                                  
+SEURER       UT40        0010CRD  LTD       O                                      28500     66000                                  
+SEURER       UT40        0020NESETLTEA      O                             0576     28500     66000                                  
+SEURER       UT40        0030SONLULTEA      O                             0310     28500     66000                                  
+SEURER       UT40        0040LUTFULTEA      O                             0588     28500     66000                                  
+SEURER       UT40        0050EKI  LTD       O                             0699     28500     66000                                  
+SEURER       UW110       0010CRD  LTD       O                                      28500     66000                                  
+SEURER       UW110       0020PELILLTEA      O                             0253     28500     66000                                  
+SEURER       UW110       0030EKSENLTEA      O                                      28500     66000                                  
+SEURER       UW110       0040IPT  LTD       O                             0150     28500     66000                                  
+SEURER       UL854       0010CRD  LTD       O                                      28500     66000                                  
+SEURER       UL854       0020SALDALTEA      O                             0199     28500     66000                                  
+SEURER       UN616       0010CRD  LTD       O                                      28500     66000                                  
+SEURER       UN616       0020TUMERLTEA      O                             0537     28500     66000                                  
+SEURER       UN616       0030DEDIMLTEA      O                             0449     28500     66000                                  
+SEURER       UN616       0040OVACILTEA      O                             0241     28500     66000                                  
+SEURER       UW99        0010CRM  LTD       O                                      28500     66000                                  
+SEURER       UW99        0020DETOS  EA      O                             0301     28500     66000                                  
+SEURER       UT34        0010CRM  LTD       O                                      28500     66000                                  
+SEURER       UT34        0020ODALILTEA      O                             0920     28500     66000                                  
+SEURER       UT34        0030VABELLTEA      O                             0422     28500     66000                                  
+SEURER       UT34        0040EBEDILTEA      O                             0153     28500     66000                                  
+SEURER       UT34        0050KONUKLTEA      O                             0204     28500     66000                                  
+SEURER       UT34        0060TALILLTEA      O                             0304     28500     66000                                  
+SEURER       UT34        0070NARENLTEA      O                             0521     28500     66000                                  
+SEURER       UT34        0080RENGILTEA      O                             0156     28500     66000                                  
+SEURER       UT34        0090SRT  LTD       O                             0504     28500     66000                                  
+SEURER       UT33-       0010CRM  LTD       O                                      28500     66000                                  
+SEURER       UT33-       0020SIN  LTD       O                             0802     28500     66000                                  
+SEURER       UT33-       0030KUGOS  EA      O                             0632     28500     66000                                  
+SEURER       UW704       0010CRM  LTD       O                                      28500     66000                                  
+SEURER       UW704       0020SONANLTEA      O                             1131     28500     66000                                  
+SEURER       UW704       0030SONADLTEA      O                             0377     28500     66000                                  
+SEURER       UW704       0040ERZ  LTD       O                             0755     28500     66000                                  
+SEURER       UW87        0010DAL  LTD       O                                      28500     66000                                  
+SEURER       UW87        0020KAVAKLTEA      O                             0402     28500     66000                                  
+SEURER       UW87        0030LAVTALTEA      O                             0219     28500     66000                                  
+SEURER       UW87        0040KULARLTEA      O                             0518     28500     66000                                  
+SEURER       UW79        0010DAL  LTD       O                                      28500     66000                                  
+SEURER       UW79        0020MARISLTEA      O                             0271     28500     66000                                  
+SEURER       UN136       0010DAL  LTD       O                                      28500     66000                                  
+SEURER       UN136       0020SOTIV  EA      O                             0167     28500     66000                                  
+SEURER       UL223       0050DASISLTEA      O                                      28000     60000                                  
+SEURER       UL223       0060UMH  OID       O                             0842     28000     60000                                  
+SEURER       UR660       0010DASISLTEA      O                                      28500     66000                                  
+SEURER       UR660       0020ERZ  LTD       O                             1527     28500     66000                                  
+SEURER       UL333       0010DASISLTEA      O                                      29000     60000                                  
+SEURER       UL333       0020TBZ  OID       O                             1057     29000     60000                                  
+SEURER       UA16-       0040KUMRULTEA      O                                      28500     66000                                  
+SEURER       UA16-       0050ELMASLTEA      O                             0101     28500     66000                                  
+SEURER       UA16-       0060EKSENLTEA      O                             0185     28500     66000                                  
+SEURER       UA16-       0070LEMDALTEA      O                             0055     28500     66000                                  
+SEURER       UA16-       0080KFK  LTD       O                             0496     28500     66000                                  
+SEURER       UR317       0010TBN  LTD       O                                      28500     66000                                  
+SEURER       UR317       0020EKTESLTEA      O                             0185     28500     66000                                  
+SEURER       UR317       0030DELELLTEA      O                             0311     28500     66000                                  
+SEURER       UR317       0040REBLOLTEA      O                             1270     28500     66000                                  
+SEURER       UR317       0050MATALUDEA      O                             0827     20000     46000                                  
+SEURER       UL601       0010DERELLTEA      O                                      28500     66000                                  
+SEURER       UL601       0020GUMRU  EA      O                             0630     28500     66000                                  
+SEURER       UT36        0020ULKEMLTEA      O                             0546     28500     66000                                  
+SEURER       UT36        0030RENGILTEA      O                             1097     28500     66000                                  
+SEURER       UT36        0040EZS  LTD       O                             0883     28500     66000                                  
+SEURER       UB36-       0010DONDULTEA      O                                      28500     66000                                  
+SEURER       UB36-       0020KEPESLTEA      O                             0372     28500     66000                                  
+SEURER       UB36-       0030GEM  LTD       O                             0688     28500     66000                                  
+SEURER       UN129       0010DUGLALTEA      O                                      28500     66000                                  
+SEURER       UN129       0020PIROX  EA      O                             1852     28500     66000                                  
+SEURER       UA28        0050MUT  LTD       O                             0427     28500     66000                                  
+SEURER       UN131       0030MANAVLTEA      O                             0304     28500     66000                                  
+SEURER       UA4-U       0010ERZ  LTD       O                                      28500     66000                                  
+SEURER       UA4-U       0020SUSUZLTEA      O                             0250     28500     66000                                  
+SEURER       UA4-U       0030GOKSULTEA      O                             0170     28500     66000                                  
+SEURER       UA4-U       0040DORUKLTEA      O                             0180     28500     66000                                  
+SEURER       UA4-U       0050ESENKLTEA      O                             0480     28500     66000                                  
+SEURER       UA4-U       0060VAN  LTD       O                             0251     28500     66000                                  
+SEURER       UL606       0010EKI  LTD       O                                      28500     66000                                  
+SEURER       UL606       0020OVACILTEA      O                             1055     28500     66000                                  
+SEURER       UL606       0030KUTAYLTEA      O                             0292     28500     66000                                  
+SEURER       UL606       0040KFK  LTD       O                             0584     28500     66000                                  
+SEURER       UW104       0010DYB  LTD       O                                      28500     66000                                  
+SEURER       UW104       0020HAZARLTEA      O                             0543     28500     66000                                  
+SEURER       UW104       0030EZS  LTD       O                             0141     28500     66000                                  
+SEURER       UT39        0020EDISILTEA      O                             0586     28500     66000                                  
+SEURER       UT39        0030LAMSALTEA      O                             0190     28500     66000                                  
+SEURER       UT39        0040NESILLTEA      O                             0169     28500     66000                                  
+SEURER       UT39        0050KULARLTEA      O                             0905     28500     66000                                  
+SEURER       UG12-       0010EKI  LTD       O                                      28500     66000                                  
+SEURER       UG12-       0020GOLDOLTEA      O                             0536     28500     66000                                  
+SEURER       UN618       0010EKI  LTD       O                                      28500     66000                                  
+SEURER       UN618       0020SERCELTEA      O                             0392     28500     66000                                  
+SEURER       UG80-       0010EKI  LTD       O                                      28500     66000                                  
+SEURER       UG80-       0020ULMARLTEA      O                             0190     28500     66000                                  
+SEURER       UG12        0010EKI  LTD       O                                      28500     66000                                  
+SEURER       UG12        0020YAA  LTD       O                             0860     28500     66000                                  
+SEURER       UL854       0010EKI  LTD       O                                      28500     66000                                  
+SEURER       UL854       0020YAYLALTEA      O                             0702     28500     66000                                  
+SEURER       UL854       0030KUDAKLTEA      O                             0364     28500     66000                                  
+SEURER       UL854       0040ESKINLTEA      O                             0160     28500     66000                                  
+SEURER       UL854       0050KULARLTEA      O                             0302     28500     66000                                  
+SEURER       UM854       0010GEM  LTD       O                                      28500     66000                                  
+SEURER       UM854       0020ELDENLTEA      O                             0531     28500     66000                                  
+SEURER       UM854       0030ORKANLTEA      O                             0058     28500     66000                                  
+SEURER       UM854       0040ERGUNLTEA      O                             0535     28500     66000                                  
+SEURER       UM854       0050NENDOLTEA      O                             0413     28500     66000                                  
+SEURER       UW94        0030ERZ  LTD       O                                      28500     66000                                  
+SEURER       UW94        0040TAVUSLTEA      O                             0249     28500     66000                                  
+SEURER       UW711       0010ENFORLTEA      O                                      28500     66000                                  
+SEURER       UW711       0020TKT  LTD       O                             0263     28500     66000                                  
+SEURER       UL851       0010TBN  LTD       O                                      28500     66000                                  
+SEURER       UL851       0020ERCANLTEA      O                             0189     28500     66000                                  
+SEURER       UL851       0030HOCAMLTEA      O                             0458     28500     66000                                  
+SEURER       UL851       0040ERZ  LTD       O                             0249     28500     66000                                  
+SEURER       UA285       0010SIV  LTD       O                                      28500     66000                                  
+SEURER       UA285       0020KAMANLTEA      O                             0149     28500     66000                                  
+SEURER       UA285       0030GEM  LTD       O                             0404     28500     66000                                  
+SEURER       UA285       0040TIRMALTEA      O                             0178     28500     66000                                  
+SEURER       UA285       0050ERHANLTEA      O                             0355     28500     66000                                  
+SEURER       UA285       0060TEVDALTEA      O                             0119     28500     66000                                  
+SEURER       UA285       0070ERCISLTEA      O                             0085     28500     66000                                  
+SEURER       UA285       0080SELVILTEA      O                             0306     28500     66000                                  
+SEURER       UA285       0090MUT  LTD       O                             0847     28500     66000                                  
+SEURER       UW701       0010ERGANLTEA      O                                      28500     66000                                  
+SEURER       UW701       0020EZS  LTD       O                             0147     28500     66000                                  
+SEURER       UW701       0030FILIZLTEA      O                             0148     28500     66000                                  
+SEURER       UW701       0040TALILLTEA      O                             0305     28500     66000                                  
+SEURER       UW701       0050GELSULTEA      O                             0351     28500     66000                                  
+SEURER       UW701       0060ULGANLTEA      O                             0080     28500     66000                                  
+SEURER       UW701       0070GELINLTEA      O                             0053     28500     66000                                  
+SEURER       UW701       0080ERZ  LTD       O                             0251     28500     66000                                  
+SEURER       UW80        0010KARGILTEA      O                                      28500     66000                                  
+SEURER       UW80        0020ESR  LTD       O                             0312     28500     66000                                  
+SEURER       UW80        0030TOKERLTEA      O                             0324     28500     66000                                  
+SEURER       UG1-U       0010FATIHLTEA      O                                      28500     66000                                  
+SEURER       UG1-U       0020IST    D       O                             0160     28500     66000                                  
+SEURER       UG1-U       0010FATIHLTEA      O                                      28500     66000                                  
+SEURER       UG1-U       0020UNSAV  EA      O                             0150     28500     66000                                  
+SEURER       UA16-       0020FENERLTEA      O                             0282     28500     66000                                  
+SEURER       UA16-       0030VADENLTEA      O                             0694     28500     66000                                  
+SEURER       UW706       0030SIV  LTD       O                                      28500     66000                                  
+SEURER       UW706       0040ODALILTEA      O                             0662     28500     66000                                  
+SEURER       UW706       0050SEHERLTEA      O                             0221     28500     66000                                  
+SEURER       UW706       0060SONANLTEA      O                             0170     28500     66000                                  
+SEURER       UW706       0070TBN  LTD       O                             0458     28500     66000                                  
+SEURER       UP146       0040TBN  LTD       O                                      28500     66000                                  
+SEURER       UP146       0050YAVUZLTEA      O                             1332     28500     66000                                  
+SEURER       UB36        0010GAZ  LTD       O                                      28500     66000                                  
+SEURER       UB36        0020KILISOSEA      O                             0152     28500     66000                                  
+SEURER       UL610       0030VADENLTEA      O                             1461     24500     66000                                  
+SEURER       UR114       0010TBN  LTD       O                                      28500     66000                                  
+SEURER       UR114       0020HAMSI  EA      O                             0207     28500     66000                                  
+SEURER       UB545       0010KFK  LTD       O                                      28500     66000                                  
+SEURER       UB545       0020HISARLTEA      O                             0624     28500     66000                                  
+SEURER       UB545       0030OKLAMLTEA      O                             0025     28500     66000                                  
+SEURER       UB545       0040SEHIRLTEA      O                             0395     28500     66000                                  
+SEURER       UB545       0050MUT  LTD       O                             0703     28500     66000                                  
+SEURER       UR21-       0020SRT  LTD       O                             0539     28500     66000                                  
+SEURER       UN644       0020SIN  LTD       O                             0882     28500     66000                                  
+SEURER       UA16-       0010KFK  LTD       O                                      28500     66000                                  
+SEURER       UA16-       0020KARGILTEA      O                             0440     28500     66000                                  
+SEURER       UA16-       0030YAA  LTD       O                             0739     28500     66000                                  
+SEURER       UW89        0010KAVAKLTEA      O                                      28500     66000                                  
+SEURER       UW89        0020SUNATLTEA      O                             0255     28500     66000                                  
+SEURER       UW89        0030LAMSALTEA      O                             0333     28500     66000                                  
+SEURER       UR55        0010KONAKLTEA      O                                      28500     66000                                  
+SEURER       UR55        0020KETEKLTEA      O                             0510     28500     66000                                  
+SEURER       UR55        0030MUT  LTD       O                             0391     28500     66000                                  
+SEURER       UL619       0010KFK  LTD       O                                      28500     66000                                  
+SEURER       UL619       0020OKLAMLTEA      O                             0648     28500     66000                                  
+SEURER       UL619       0030MUT  LTD       O                             1098     28500     66000                                  
+SEURER       UT62        0010KONAKLTEA      O                                      28500     66000                                  
+SEURER       UT62        0020ROLATLTEA      O                             0615     28500     66000                                  
+SEURER       UT62        0030TELVOLTEA      O                             1034     28500     66000                                  
+SEURER       UW76        0010KSR  LTD       O                                      28500     66000                                  
+SEURER       UW76        0020SARIZLTEA      O                             0173     28500     66000                                  
+SEURER       UW76        0030MARTILTEA      O                             0235     28500     66000                                  
+SEURER       UT333       0020SRT  LTD       O                             0591     28500     66000                                  
+SEURER       UL860       0020VADENLTEA      O                             2040     24500     66000                                  
+SEURER       UW106       0040TZK  LTD       O                                      28500     66000                                  
+SEURER       UW106       0050URGUPLTEA      O                             0282     28500     66000                                  
+SEURER       UW108       0010MRD  LTD       O                                      28500     66000                                  
+SEURER       UW108       0020URF  LTD       O                             0862     28500     66000                                  
+SEURER       UB545       0010MUT  LTD       O                                      28500     66000                                  
+SEURER       UB545       0020VESAR  EA      O                             0668     28500     66000                                  
+SEURER       UN618       0010SERCELTEA      O                                      28500     66000                                  
+SEURER       UN618       0020VADENLTEA      O                             0283     28500     66000                                  

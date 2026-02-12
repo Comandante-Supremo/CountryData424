@@ -1,0 +1,380 @@
+SEUREAENRT   ALTUS LY           N44572330E019594660                                                                                 
+SEUREAENRT   AMEBA LY           N44222310E020561570                                                                                 
+SEUREAENRT   BABIT LY           N45555391E018554430                                                                                 
+SEUREAENRT   BEDAK LY           N43142210E019381810                                                                                 
+SEUREAENRT   BELOG LY           N43302000E0223204100                                                                                
+SEUREAENRT   BEO06 LY           N44424490E020225016                                                                                 
+SEUREAENRT   BEO07 LY           N44582517E020023988                                                                                 
+SEUREAENRT   BEO12 LY           N44462309E020322491                                                                                 
+SEUREAENRT   BEO13 LY           N44384095E020341216                                                                                 
+SEUREAENRT   BEO15 LY           N44575272E020022648                                                                                 
+SEUREAENRT   BEO19 LY           N44470796E020230645                                                                                 
+SEUREAENRT   BEO23 LY           N44363076E020474275                                                                                 
+SEUREAENRT   BEO25 LY           N44494256E020170501                                                                                 
+SEUREAENRT   BEO35 LY           N45061966E019374256                                                                                 
+SEUREAENRT   BEO86 LY           N44532460E019582102                                                                                 
+SEUREAENRT   BEO90 LY           N44552014E019584490                                                                                 
+SEUREAENRT   BESKO LY           N45014491E019483906                                                                                 
+SEUREAENRT   BOGGY LY           N44414225E020354373                                                                                 
+SEUREAENRT   DEREG LY           N44270710E021100880                                                                                 
+SEUREAENRT   DOLAP LY           N43222700E0224605100                                                                                
+SEUREAENRT   DOLEV LY           N42500200E020184100                                                                                 
+SEUREAENRT   ETIDA LY           N43410810E022250400                                                                                 
+SEUREAENRT   EVINA LY           N43325630E020175700                                                                                 
+SEUREAENRT   FRUGO LY           N45065921E019354384                                                                                 
+SEUREAENRT   GENDU LY           N44234440E020403030                                                                                 
+SEUREAENRT   GOLIP LY           N44325720E020414140                                                                                 
+SEUREAENRT   GONAR LY           N43511680E020451120                                                                                 
+SEUREAENRT   IBISI LY           N44352490E020504970                                                                                 
+SEUREAENRT   KOLAR LY           N44354137E020493689                                                                                 
+SEUREAENRT   KOLIV LY           N44243870E020111530                                                                                 
+SEUREAENRT   KOPUK LY           N44485780E019494330                                                                                 
+SEUREAENRT   KOSIV LY           N44013670E019483270                                                                                 
+SEUREAENRT   KOTUS LY           N45190430E019561580                                                                                 
+SEUREAENRT   KUKUN LY           N44041410E019333700                                                                                 
+SEUREAENRT   KUPIN LY           N44404572E020043391                                                                                 
+SEUREAENRT   LABUD LY           N44550619E020042424                                                                                 
+SEUREAENRT   LATSA LY           N43112210E021532710                                                                                 
+SEUREAENRT   LEBAN LY           N42543010E021481640                                                                                 
+SEUREAENRT   LINDU LY           N43290730E020352210                                                                                 
+SEUREAENRT   LOGAR LY           N44470760E019574730                                                                                 
+SEUREAENRT   LULIK LY           N45313590E019263940                                                                                 
+SEUREAENRT   MAVIT LY           N45142480E021181410                                                                                 
+SEUREAENRT   MEKEN LY           N43044030E020200920                                                                                 
+SEUREAENRT   NEKAD LY           N43180230E021243950                                                                                 
+SEUREAENRT   NENAD LY           N44313250E020070950                                                                                 
+SEUREAENRT   NEPOS LY           N44002240E021261540                                                                                 
+SEUREAENRT   NERTA LY           N44411730E021125310                                                                                 
+SEUREAENRT   NEVAK LY           N44124340E020360960                                                                                 
+SEUREAENRT   NIVIS LY           N45150810E019471410                                                                                 
+SEUREAENRT   OBLAK LY           N43291260E022215020                                                                                 
+SEUREAENRT   OKANA LY           N42504700E022293500                                                                                 
+SEUREAENRT   OKLOP LY           N44105910E0211908100                                                                                
+SEUREAENRT   OLAMA LY           N44384150E021030540                                                                                 
+SEUREAENRT   OMAKA LY           N44533000E019402580                                                                                 
+SEUREAENRT   ORVAN LY           N44293080E0202859100                                                                                
+SEUREAENRT   PA123 LY           N44403417E021025582                                                                                 
+SEUREAENRT   PA304 LY           N45065781E020133359                                                                                 
+SEUREAENRT   PANOL LY           N44273260E020214810                                                                                 
+SEUREAENRT   PELOV LY           N44571470E020514030                                                                                 
+SEUREAENRT   PESAK LY           N43430610E019301500                                                                                 
+SEUREAENRT   PISAR LY           N44345520E019552630                                                                                 
+SEUREAENRT   POLAN LY           N44321960E021141670                                                                                 
+SEUREAENRT   R2333 LY           N44493547E020172749                                                                                 
+SEUREAENRT   R2334 LY           N44484407E020192339                                                                                 
+SEUREAENRT   RAMAP LY           N43250610E0205327100                                                                                
+SEUREAENRT   RAVAK LY           N43411470E021373710                                                                                 
+SEUREAENRT   RELDA LY           N44383780E020104240                                                                                 
+SEUREAENRT   RETKI LY           N43285140E019412470                                                                                 
+SEUREAENRT   RIBAR LY           N43270070E021335840                                                                                 
+SEUREAENRT   RIPAN LY           N44375000E020281760                                                                                 
+SEUREAENRT   RITMI LY           N44512166E019441705                                                                                 
+SEUREAENRT   RUBEN LY           N44293330E020053550                                                                                 
+SEUREAENRT   SILAG LY           N43285470E021291040                                                                                 
+SEUREAENRT   SMI46 LY           N44351818E020194992                                                                                 
+SEUREAENRT   SMI53 LY           N44312527E020275870                                                                                 
+SEUREAENRT   STALA LY           N43380060E021191040                                                                                 
+SEUREAENRT   STEPA LY           N44315080E020163350                                                                                 
+SEUREAENRT   TADAM LY           N45144960E019324580                                                                                 
+SEUREAENRT   TADIL LY           N44291040E020014220                                                                                 
+SEUREAENRT   TESLU LY           N44470610E021134900                                                                                 
+SEUREAENRT   TIKVU LY           N45015340E020070140                                                                                 
+SEUREAENRT   TISAK LY           N45251940E020133830                                                                                 
+SEUREAENRT   TITEL LY           N45173490E020101050                                                                                 
+SEUREAENRT   TOMPA LY           N46060207E019283865                                                                                 
+SEUREAENRT   TONDO LY           N46025033E019212134                                                                                 
+SEUREAENRT   TORTO LY           N43401510E019435270                                                                                 
+SEUREAENRT   TPL12 LY           N44194447E020382399                                                                                 
+SEUREAENRT   TPL42 LY           N44342811E020115978                                                                                 
+SEUREAENRT   TRIBY LY           N44394740E021071360                                                                                 
+SEUREAENRT   TUPKO LY           N44434650E020305552                                                                                 
+SEUREAENRT   UTEKA LY           N43544310E0222331100                                                                                
+SEUREAENRT   VAGEN LY           N42432850E022044010                                                                                 
+SEUREAENRT   VAL12 LY           N44303385E019584607                                                                                 
+SEUREAENRT   VAL20 LY           N44303340E019584581                                                                                 
+SEUREAENRT   VAL25 LY           N44375906E020155543                                                                                 
+SEUREAENRT   VAL59 LY           N44410645E021090963                                                                                 
+SEUREAENRT   VAL60 LY           N44412892E021103127                                                                                 
+SEUREAENRT   VASER LY           N44320080E020381270                                                                                 
+SEUREAENRT   VELIP LY           N44461842E021315999                                                                                 
+SEUREAENRT   VILOV LY           N45154920E020025260                                                                                 
+SEUREAENRT   ZALOG LY           N43410060E021184040                                                                                 
+SEURDB       JA    LY000316     N44443450E020283110                                                                                 
+SEURDB       KN    LY000380     N44534070E020081010                                                                                 
+SEURDB       OBR   LY000355     N44383470E0200818100                                                                                
+SEURDB       BLC   LY000377     N43144820E021214380                                                                                 
+SEURDB       DAK   LY000412     N45251410E0202538100                                                                                
+SEURDB       VEG   LY000324     N44452620E021305340                                                                                 
+SEURDB       IA    LY000485     N45023510E020042320                                                                                 
+SEURDB       JST   LY000405     N43252860E021375270                                                                                 
+SEURDB       VTN   LY000468     N43430330E020483720                                                                                 
+SEURDB       SMR   LY000328     N44595780E019363490                                                                                 
+SEURDB       ZO    LY000423     N43110110E021432870                                                                                 
+SEURDB       PA    LY000495     N44533020E0203827100                                                                                
+SEURDB       POZ   LY000416     N44371470E021085180                                                                                 
+SEURDB       TPL   LY000348     N44082320E020444440                                                                                 
+SEURDB       VAL   LY000390     N44191630E019523020                                                                                 
+SEURDB       VRN   LY000337     N42331930E021544120                                                                                 
+SEURDB       VRA   LY000294     N45051580E021172840                                                                                 
+SEURD        BEO   LY011230V    N44482530E020200580                                                                                 
+SEURD        BLC   LY011610V    N43145530E021214190                                                                                 
+SEURD        SMI   LY011700V    N45003410E019255080                                                                                 
+SEURD        NIS   LY011390V    N43204730E021493740                                                                                 
+SEURD        TPL   LY011680V    N44083660E0204439100                                                                                
+SEURD        VAL   LY011660V    N44192600E019522890                                                                                 
+SEURD        VAC   LY011560V    N45081296E021182147                                                                                 
+SEURD        BEO   LY011230 D   N44482530E020200580                                                                                 
+SEURD        BLC   LY011610 D   N43145530E021214190                                                                                 
+SEURD        SMI   LY011700 D   N45003410E019255080                                                                                 
+SEURD        NIS   LY011390 D   N43204730E021493740                                                                                 
+SEURD        TPL   LY011680 D   N44083660E0204439100                                                                                
+SEURD        VAL   LY011660 D   N44192600E019522890                                                                                 
+SEURER       L617        0080NEPOSLYEA      O                                      08100     28500                                  
+SEURER       L617        0090DEREGLYEA      O                             0291     08100     28500                                  
+SEURER       L617        0100PELOVLYEA      O                             0329     08100     28500                                  
+SEURER       L617        0110PARAKLHEA      O                             0795     05000     24500                                  
+SEURER       L617        0220VAGENLYEA      O                                      09100     28500                                  
+SEURER       L617        0230LATSALYEA      O                             0291     09100     28500                                  
+SEURER       L617        0240NIS  LYD       O                             0098     09100     28500                                  
+SEURER       L617        0250RAVAKLYEA      O                             0222     07100     28500                                  
+SEURER       T23         0010BABITLYEA      RL                                     04000     24500                                  
+SEURER       T23         0020DIMLOLJEA      RL                            1133     04000     24500                                  
+SEURER       N739        0010GOLIPLYEA      O                                      06100     28500                                  
+SEURER       N739        0020BEO  LYD       O                             0218     06100     28500                                  
+SEURER       N739        0030NIVISLYEA      O                             0354     06100     28500                                  
+SEURER       N739        0040LULIKLYEA      O                             0219     07100     28500                                  
+SEURER       N739        0050BABITLYEA      O                             0325     04000     24500                                  
+SEURER       N739        0060GOTARLOEA      O                             1289     04000     24500                                  
+SEURER       N739        0100RAVAKLYEA      O                             0667     09100     28500                                  
+SEURER       Y55         0010BABITLYEA      O                                      04000     24500                                  
+SEURER       Y55         0020OKORALHEA      O                             0552     04000     24500                                  
+SEURER       Y571        0010BABITLYEA      O                                      04000     24500                                  
+SEURER       Y571        0020SOGMOLHEA      O                             0658     04000     24500                                  
+SEURER       Y586        0010BABITLYEA      O                                      04000     24500                                  
+SEURER       Y586        0020SUNORLHEA      O                             0754     04000     24500                                  
+SEURER       Y43         0030TONDOLYEA      O                             0771     04000     24500                                  
+SEURER       Y43         0050POLANLYEA      O                             1190     20500     24500                                  
+SEURER       N131        0100VAL  LYD       O                                      07100     28500                                  
+SEURER       N131        0110GONARLYEA      O                             0472     07100     28500                                  
+SEURER       N131        0120NIS  LYD       O                             0558     07100     28500                                  
+SEURER       N131        0130NISVALBEA      O                             0481     09100     28500                                  
+SEURER       L5          0030IBISILYEA      O                                      06100     28500                                  
+SEURER       L5          0040GOLIPLYEA      O                             0070     06100     28500                                  
+SEURER       L5          0050ORVANLYEA      O                             0097     06100     28500                                  
+SEURER       L5          0060VAL  LYD       O                             0280     08000     28500                                  
+SEURER       L5          0070BATRULQEA      O                             0235     08000     28500                                  
+SEURER       L5          0180VELIPLYEA      O                             0556     10500     24500                                  
+SEURER       L5          0190NERTALYEA      O                             0145     06100     28500                                  
+SEURER       W32         0010BEDAKLYEA      O                                      08100     28500                                  
+SEURER       W32         0020MODRA  EA      O                             0141     08100     28500                                  
+SEURER       L608        0110DOLEVLYEA      O                             0629     11000     28500                                  
+SEURER       L608        0120BEDAKLYEA      O                             0383     11000     28500                                  
+SEURER       L608        0130RAKOR  EA      O                             0073     09100     28500                                  
+SEURER       M127-       0010BEDAKLYEA      O                                      08100     28500                                  
+SEURER       M127-       0020RETKILYEA      O                             0147     08100     28500                                  
+SEURER       M127-       0030TORTOLYEA      O                             0115     08100     28500                                  
+SEURER       M127-       0040KOSIVLYEA      O                             0216     08100     28500                                  
+SEURER       M127-       0050VAL  LYD       O                             0181     08100     28500                                  
+SEURER       M749        0080TONDOLYEA      O                             1239     08100     28500                                  
+SEURER       M749        0090KOTUSLYEA      O                             0501     08100     28500                                  
+SEURER       M749        0100BEO  LYD       O                             0350     08100     28500                                  
+SEURER       M749        0110ORVANLYEA      O                             0200     06100     28500                                  
+SEURER       M749        0120NEVAKLYEA      O                             0176     06100     28500                                  
+SEURER       M749        0130GONARLYEA      O                             0224     06100     28500                                  
+SEURER       M749        0140VTN  LYD       O                             0086     06100     28500                                  
+SEURER       M749        0150LONTALWEA      O                             0970     11000     24500                                  
+SEURER       W20         0010BEO  LYD       O                                      08100     28500                                  
+SEURER       W20         0020IBISILYEA      O                             0254     08100     28500                                  
+SEURER       W20         0030DEREGLYEA      O                             0161     08100     28500                                  
+SEURER       W20         0040UTEKALYEA      O                             0618     08100     28500                                  
+SEURER       M173        0010BEO  LYD       O                                      10100     28500                                  
+SEURER       M173        0020RELDALYEA      O                             0119     10100     28500                                  
+SEURER       M173        0030VAL  LYD       O                             0232     10100     28500                                  
+SEURER       M173-       0010BEO  LYD       O                                      06100     28500                                  
+SEURER       M173-       0020TISAKLYEA      O                             0372     06100     28500                                  
+SEURER       M173-       0030PARAKLHEA      O                             0449     07100     28500                                  
+SEURER       L603        0410VAL  LYD       O                             0333     10000     28500                                  
+SEURER       L615        0030DOLAPLYEA      O                                      10100     28500                                  
+SEURER       L615        0040OBLAKLYEA      O                             0189     10100     28500                                  
+SEURER       L615        0050RAVAKLYEA      O                             0342     07100     28500                                  
+SEURER       L615        0060GONARLYEA      O                             0392     07100     28500                                  
+SEURER       L615        0070KOSIVLYEA      O                             0421     07100     28500                                  
+SEURER       L615        0080KUKUNLYEA      O                             0111     10000     28500                                  
+SEURER       L615        0090VEBARLQEA      O                             0169     10000     28500                                  
+SEURER       N188        0040OBLAKLYEA      O                             0348     09100     28500                                  
+SEURER       N188        0050NEPOSLYEA      O                             0509     08100     28500                                  
+SEURER       L610        0260UTEKALYEA      O                                      08100     28500                                  
+SEURER       L610        0270NERTALYEA      O                             0688     08100     28500                                  
+SEURER       L610        0280PELOVLYEA      O                             0219     08100     28500                                  
+SEURER       L610        0290TISAKLYEA      O                             0388     08100     28500                                  
+SEURER       L610        0300TONDOLYEA      O                             0524     04000     24500                                  
+SEURER       L610        0310SUBESLHEA      O                             1145     04000     24500                                  
+SEURER       P735        0090TADAMLYEA      O                             0243     15000     28500                                  
+SEURER       L614        0130PESAKLYEA      O                             0119     10000     28500                                  
+SEURER       L614        0140TORTOLYEA      O                             0103     08100     28500                                  
+SEURER       L614        0150EVINALYEA      O                             0257     08100     28500                                  
+SEURER       L614        0160LINDULYEA      O                             0132     08100     28500                                  
+SEURER       L614        0170NEKADLYEA      O                             0375     09100     28500                                  
+SEURER       L614        0180LATSALYEA      O                             0220     09100     28500                                  
+SEURER       L614        0190NISVALBEA      O                             0418     09100     28500                                  
+SEURER       L616        0090EVINALYEA      O                             0925     15000     28500                                  
+SEURER       L616        0100VAL  LYD       O                             0500     07100     28500                                  
+SEURER       L616        0110KOPUKLYEA      O                             0296     10100     28500                                  
+SEURER       L616        0120NIVISLYEA      O                             0263     10100     28500                                  
+SEURER       L616        0130KEROPLHEA      O                             0561     10100     28500                                  
+SEURER       M19         0010ETIDALYEA      O                                      07100     28500                                  
+SEURER       M19         0020NEPOSLYEA      O                             0466     07100     28500                                  
+SEURER       M19         0030ORVANLYEA      O                             0503     06100     28500                                  
+SEURER       M19         0040RELDALYEA      O                             0159     06100     28500                                  
+SEURER       M19         0050KOPUKLYEA      O                             0182     06100     28500                                  
+SEURER       M19         0060OMAKALYEA      O                             0080     06100     28500                                  
+SEURER       M19         0070SMI  LYD       O                             0125     06100     28500                                  
+SEURER       M19         0080TUVARLDEA      O                             0166     06100     28500                                  
+SEURER       L863        0030NEVAKLYEA      O                                      06100     28500                                  
+SEURER       L863        0040TPL  LYD       O                             0074     06100     28500                                  
+SEURER       L863        0050RAVAKLYEA      O                             0470     09100     28500                                  
+SEURER       L863        0060OKANALYEA      O                             0631     09100     28500                                  
+SEURER       N128        0050GONARLYEA      O                                      07100     28500                                  
+SEURER       N128        0060NEKADLYEA      O                             0439     07100     28500                                  
+SEURER       N128        0070VAGENLYEA      O                             0453     07100     28500                                  
+SEURER       P192        0020TISAKLYEA      O                             0509     07100     28500                                  
+SEURER       P192        0030NEPOSLYEA      O                             0995     07100     28500                                  
+SEURER       M127        0010TONDOLYEA      O                                      06100     28500                                  
+SEURER       M127        0020LULIKLYEA      O                             0315     05000     28500                                  
+SEURER       M127        0030TADAMLYEA      O                             0173     05000     28500                                  
+SEURER       M127        0040OMAKALYEA      O                             0220     05000     28500                                  
+SEURER       M127        0050VAL  LYD       O                             0352     05000     28500                                  
+SEURER       B48         0040MAVITLYEA      O                             0208     04500     24500                                  
+SEURER       B48         0050TESLULYEA      O                             0275     05000     28500                                  
+SEURER       B48         0060NERTALYEA      O                             0059     05000     28500                                  
+SEURER       L617-       0010NEPOSLYEA      O                                      06100     28500                                  
+SEURER       L617-       0020RAVAKLYEA      O                             0208     06100     28500                                  
+SEURER       V100        0040RETKILYEA      OL                            0126     09100     28500                                  
+SEURER       L617-       0010VAGENLYEA      O                                      09100     28500                                  
+SEURER       L617-       0020RAXADLWEA      O                             0261     09000     24500                                  
+SEURER       UL617       0080NEPOSLYEA      O                                      24500     45000                                  
+SEURER       UL617       0090DEREGLYEA      O                             0291     24500     45000                                  
+SEURER       UL617       0100OLAMALYEA      O                             0126     28500     45000                                  
+SEURER       UL617       0110PELOVLYEA      O                             0203     28500     45000                                  
+SEURER       UL617       0120PARAKLHEA      O                             0795     24500     66000                                  
+SEURER       UL617       0280VAGENLYEA      O                                      28500     60000                                  
+SEURER       UL617       0290LATSALYEA      O                             0291     28500     60000                                  
+SEURER       UL617       0300NIS  LYD       O                             0098     28500     60000                                  
+SEURER       UL617       0310RAVAKLYEA      O                             0222     24500     45000                                  
+SEURER       UT23        0010BABITLYEA      O                                      24500     66000                                  
+SEURER       UT23        0020DIMLOLJEA      O                             1133     24500     66000                                  
+SEURER       UN739       0010NEPOSLYEA      O                                      28500     45000                                  
+SEURER       UN739       0020GOLIPLYEA      O                             0456     28500     45000                                  
+SEURER       UN739       0030BEO  LYD       O                             0218     28500     45000                                  
+SEURER       UN739       0040NIVISLYEA      O                             0354     28500     45000                                  
+SEURER       UN739       0050LULIKLYEA      O                             0219     28500     45000                                  
+SEURER       UN739       0060BABITLYEA      O                             0325     24500     66000                                  
+SEURER       UN739       0070GOTARLOEA      O                             1289     24500     66000                                  
+SEURER       UN739       0140RAVAKLYEA      O                             0667     28500     60000                                  
+SEURER       UY55        0010BABITLYEA      O                                      24500     66000                                  
+SEURER       UY55        0020OKORALHEA      O                             0552     24500     66000                                  
+SEURER       UY571       0010BABITLYEA      O                                      24500     66000                                  
+SEURER       UY571       0020SOGMOLHEA      O                             0658     24500     66000                                  
+SEURER       UN128       0030KOLIVLYEA      O                                      28500     60000                                  
+SEURER       UN128       0040GONARLYEA      O                             0413     28500     60000                                  
+SEURER       UN128       0050NEKADLYEA      O                             0439     28500     60000                                  
+SEURER       UN128       0060VAGENLYEA      O                             0453     28500     60000                                  
+SEURER       UN131       0040NIS  LYD       O                             0481     28500     60000                                  
+SEURER       UN131       0050GONARLYEA      O                             0558     28500     60000                                  
+SEURER       UN131       0060VAL  LYD       O                             0472     28500     60000                                  
+SEURER       UL603       0330VAL  LYD       O                                      29000     46000                                  
+SEURER       UL603       0340LOKSILQEA      O                             0333     29000     46000                                  
+SEURER       UL5         0010IBISILYEA      O                                      28500     60000                                  
+SEURER       UL5         0020GOLIPLYEA      O                             0070     28500     60000                                  
+SEURER       UL5         0030ORVANLYEA      O                             0097     28500     60000                                  
+SEURER       UL5         0040KOLIVLYEA      O                             0136     28500     60000                                  
+SEURER       UL5         0050VAL  LYD       O                             0144     28500     60000                                  
+SEURER       UL5         0060BATRULQEA      O                             0235     28500     60000                                  
+SEURER       UL5         0270OLAMALYEA      O                                      28500     60000                                  
+SEURER       UL5         0280NERTALYEA      O                             0074     28500     60000                                  
+SEURER       UL5         0290VELIPLYEA      O                             0145     24500     66000                                  
+SEURER       UL5         0300MOKRULREA      O                             0556     24500     66000                                  
+SEURER       UL610       0220UTEKALYEA      O                             0456     24500     66000                                  
+SEURER       UL610       0230NERTALYEA      O                             0688     28500     60000                                  
+SEURER       UL610       0240PELOVLYEA      O                             0219     28500     60000                                  
+SEURER       UL610       0250TISAKLYEA      O                             0388     28500     60000                                  
+SEURER       UL610       0260TONDOLYEA      O                             0524     24500     66000                                  
+SEURER       UL610       0270SUBESLHEA      O                             1145     24500     66000                                  
+SEURER       UL608       0040BEDAKLYEA      O                             0278     28500     60000                                  
+SEURER       UL608       0050LONTALWEA      O                             1011     28500     60000                                  
+SEURER       UW32        0010BEDAKLYEA      O                                      28500     60000                                  
+SEURER       UW32        0020MODRA  EA      O                             0141     28500     60000                                  
+SEURER       UM127       0010BEDAKLYEA      O                                      28500     60000                                  
+SEURER       UM127       0020TORTOLYEA      O                             0262     28500     60000                                  
+SEURER       UM127       0030KOSIVLYEA      O                             0216     28500     60000                                  
+SEURER       UM127       0040VAL  LYD       O                             0181     28500     60000                                  
+SEURER       UM749       0050TONDOLYEA      O                             1239     28500     60000                                  
+SEURER       UM749       0060BEO  LYD       O                             0851     28500     60000                                  
+SEURER       UM749       0070ORVANLYEA      O                             0200     28500     60000                                  
+SEURER       UM749       0080NEVAKLYEA      O                             0176     28500     60000                                  
+SEURER       UM749       0090GONARLYEA      O                             0224     28500     60000                                  
+SEURER       UM749       0100VTN  LYD       O                             0086     28500     60000                                  
+SEURER       UM749       0110LONTALWEA      O                             0970     24500     46000                                  
+SEURER       UL615       0010BELOGLYEA      O                                      28500     60000                                  
+SEURER       UL615       0020OBLAKLYEA      O                             0075     28500     60000                                  
+SEURER       UL615       0030RAVAKLYEA      O                             0342     28500     60000                                  
+SEURER       UL615       0040GONARLYEA      O                             0392     28500     60000                                  
+SEURER       UL615       0050KOSIVLYEA      O                             0421     28500     60000                                  
+SEURER       UL615       0060KUKUNLYEA      O                             0111     28500     60000                                  
+SEURER       UL615       0070VEBARLQEA      O                             0169     29000     46000                                  
+SEURER       UL615       0200DOLAPLYEA      O                                      24500     66000                                  
+SEURER       UL615       0210RESLALBEA      O                             0239     24500     66000                                  
+SEURER       UW20        0010BEO  LYD       O                                      28500     60000                                  
+SEURER       UW20        0020IBISILYEA      O                             0254     28500     60000                                  
+SEURER       UW20        0030DEREGLYEA      O                             0161     28500     60000                                  
+SEURER       UW20        0040UTEKALYEA      O                             0618     28500     60000                                  
+SEURER       UM173       0010BEO  LYD       O                                      28500     45000                                  
+SEURER       UM173       0020RELDALYEA      O                             0119     28500     45000                                  
+SEURER       UM173       0030TADILLYEA      O                             0114     28500     45000                                  
+SEURER       UM173       0040VAL  LYD       O                             0118     28500     45000                                  
+SEURER       UM173       0010BEO  LYD       O                                      28500     60000                                  
+SEURER       UM173       0020TISAKLYEA      O                             0372     28500     60000                                  
+SEURER       UM173       0030PARAKLHEA      O                             0449     28500     60000                                  
+SEURER       UL614       0040LATSALYEA      O                             0418     28500     60000                                  
+SEURER       UL614       0050NEKADLYEA      O                             0220     28500     60000                                  
+SEURER       UL614       0060LINDULYEA      O                             0375     28500     60000                                  
+SEURER       UL614       0070EVINALYEA      O                             0132     28500     60000                                  
+SEURER       UL614       0080TORTOLYEA      O                             0257     28500     60000                                  
+SEURER       UL614       0090PESAKLYEA      O                             0103     29000     46000                                  
+SEURER       UL614       0100KEB  LQD       O                             0475     29000     46000                                  
+SEURER       UP738       0020KOSIVLYEA      O                             0975     29000     46000                                  
+SEURER       UP738       0030NEKADLYEA      O                             0821     28500     60000                                  
+SEURER       UL616       0130EVINALYEA      O                             0925     28500     60000                                  
+SEURER       UL616       0140VAL  LYD       O                             0500     28500     60000                                  
+SEURER       UL616       0150KOPUKLYEA      O                             0296     28500     60000                                  
+SEURER       UL616       0160NIVISLYEA      O                             0263     28500     66000                                  
+SEURER       UL616       0170KEROPLHEA      O                             0561     28500     66000                                  
+SEURER       UN188       0060NEPOSLYEA      O                                      28500     60000                                  
+SEURER       UN188       0070OBLAKLYEA      O                             0509     28500     60000                                  
+SEURER       UM19        0020ETIDALYEA      O                             0723     28500     60000                                  
+SEURER       UM19        0030NEPOSLYEA      O                             0466     28500     60000                                  
+SEURER       UM19        0040ORVANLYEA      O                             0503     28500     45000                                  
+SEURER       UM19        0050RELDALYEA      O                             0159     28500     45000                                  
+SEURER       UM19        0060KOPUKLYEA      O                             0182     28500     45000                                  
+SEURER       UM19        0070OMAKALYEA      O                             0080     28500     45000                                  
+SEURER       UM19        0080SMI  LYD       O                             0125     28500     45000                                  
+SEURER       UM19        0090TUVARLDEA      O                             0166     28500     46000                                  
+SEURER       UL863       0030OKANALYEA      O                             0522     24500     66000                                  
+SEURER       UL863       0040RAVAKLYEA      O                             0631     28500     60000                                  
+SEURER       UL863       0050TPL  LYD       O                             0470     28500     45000                                  
+SEURER       UL863       0060NEVAKLYEA      O                             0074     28500     45000                                  
+SEURER       UL863       0070KOLIVLYEA      O                             0215     28500     45000                                  
+SEURER       UL863       0080TADILLYEA      O                             0082     28500     45000                                  
+SEURER       UL863       0090RAKIVLDEA      O                             0493     28500     46000                                  
+SEURER       UY43        0030TONDOLYEA      O                             0771     24500     66000                                  
+SEURER       UP192       0020TISAKLYEA      O                             0509     28500     60000                                  
+SEURER       UP192       0030NEPOSLYEA      O                             0995     28500     60000                                  
+SEURER       UL603       0020LINDULYEA      O                             0879     28500     60000                                  
+SEURER       UL603       0030VAL  LYD       O                             0591     28500     60000                                  
+SEURER       UM127       0010TONDOLYEA      O                                      28500     60000                                  
+SEURER       UM127       0020LULIKLYEA      O                             0315     28500     60000                                  
+SEURER       UM127       0030OMAKALYEA      O                             0393     28500     60000                                  
+SEURER       UM127       0040VAL  LYD       O                             0352     28500     60000                                  
+SEURER       UL617       0010NEPOSLYEA      O                                      28500     60000                                  
+SEURER       UL617       0020RAVAKLYEA      O                             0208     28500     60000                                  
+SEURER       UL617       0020VAGENLYEA      O                             0261     28500     60000                                  

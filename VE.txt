@@ -1,0 +1,688 @@
+SSAMEAENRT   ABAPO SV           N03561100W067211920                                                                                 
+SSAMEAENRT   AKTAK SV           N04204410W0662832100                                                                                
+SSAMEAENRT   ALBAN SV           N10133910W068240120                                                                                 
+SSAMEAENRT   ALBOG SV           N07523500W064510720                                                                                 
+SSAMEAENRT   ALTOS SV           N10233510W067023130                                                                                 
+SSAMEAENRT   ANGEL SV           N10012910W066153730                                                                                 
+SSAMEAENRT   ASEMA SV           N10514710W071230130                                                                                 
+SSAMEAENRT   ASULI SV           N09394710W070523730                                                                                 
+SSAMEAENRT   ASUPO SV           N09282910W069420130                                                                                 
+SSAMEAENRT   ATABA SV           N04292900W0674906100                                                                                
+SSAMEAENRT   ATAMU SV           N09594110W067521330                                                                                 
+SSAMEAENRT   ATIGA SV           N10361000W069421900                                                                                 
+SSAMEAENRT   BIVAP SV           N07505410W067153700                                                                                 
+SSAMEAENRT   BODIS SV           N09494710W071013730                                                                                 
+SSAMEAENRT   BRM40 SV           N10224500W0695622100                                                                                
+SSAMEAENRT   BRM45 SV           N10163310W0684256100                                                                                
+SSAMEAENRT   BURGA SV           N10195910W070411930                                                                                 
+SSAMEAENRT   CAIPE SV           N08335900W070030130                                                                                 
+SSAMEAENRT   CANAL SV           N10493480W071384577                                                                                 
+SSAMEAENRT   CAURA SV           N07060500W064555520                                                                                 
+SSAMEAENRT   CBC53 SV           N09592610W0652228100                                                                                
+SSAMEAENRT   CHAPA SV           N08452300W070074330                                                                                 
+SSAMEAENRT   CINAR SV           N06311010W067275530                                                                                 
+SSAMEAENRT   COLON SV           N09554710W066041920                                                                                 
+SSAMEAENRT   COZAL SV           N11200510W069163130                                                                                 
+SSAMEAENRT   DAKAS SV           N10474710W071145530                                                                                 
+SSAMEAENRT   DANVO SV           N10031610W069195000                                                                                 
+SSAMEAENRT   DAVEX SV           N08212400W067221700                                                                                 
+SSAMEAENRT   DIAMA SV           N06262900W065494920                                                                                 
+SSAMEAENRT   DIMAN SV           N09432910W065400720                                                                                 
+SSAMEAENRT   DOLPO SV           N11033810W0700110100                                                                                
+SSAMEAENRT   EDPAL SV           N09591310W067440300                                                                                 
+SSAMEAENRT   EDRIN SV           N07321700W069173130                                                                                 
+SSAMEAENRT   EKUNA SV           N07190210W067284800                                                                                 
+SSAMEAENRT   ELOYS SV           N08274700W070084930                                                                                 
+SSAMEAENRT   ENPUT SV           N08122300W0722224100                                                                                
+SSAMEAENRT   EPANA SV           N07475910W062463120                                                                                 
+SSAMEAENRT   ERICA SV           N08300060W070203000                                                                                 
+SSAMEAENRT   ERIPA SV           N10035910W065401329                                                                                 
+SSAMEAENRT   ERIXO SV           N09285910W070431330                                                                                 
+SSAMEAENRT   ESANA SV           N10293510W066440130                                                                                 
+SSAMEAENRT   ESKIT SV           N08173500W068584330                                                                                 
+SSAMEAENRT   GANAO SV           N08433480W070053770                                                                                 
+SSAMEAENRT   GARCI SV           N06513910W069581300                                                                                 
+SSAMEAENRT   GATUG SV           N10282910W067503500                                                                                 
+SSAMEAENRT   GAVIS SV           N10401710W072124330                                                                                 
+SSAMEAENRT   GEBAL SV           N09264710W064433120                                                                                 
+SSAMEAENRT   GELEM SV           N09424110W069561330                                                                                 
+SSAMEAENRT   GEMAP SV           N10045310W065280120                                                                                 
+SSAMEAENRT   GIDOX SV           N10270510W071100130                                                                                 
+SSAMEAENRT   GOLFO SV           N11011710W071114930                                                                                 
+SSAMEAENRT   GUADA SV           N10351710W069291930                                                                                 
+SSAMEAENRT   GUARO SV           N10004080W069343174                                                                                 
+SSAMEAENRT   GUAYA SV           N08475810W071270130                                                                                 
+SSAMEAENRT   GUERO SV           N11003510W072000730                                                                                 
+SSAMEAENRT   GUERO SV           N10585910W0715859100                                                                                
+SSAMEAENRT   ICIOM SV           N09225910W069243120                                                                                 
+SSAMEAENRT   ICION SV           N09225910W069243730                                                                                 
+SSAMEAENRT   ILPUN SV           N07045597W070501594                                                                                 
+SSAMEAENRT   INOCO SV           N03225300W066373120                                                                                 
+SSAMEAENRT   ITAMA SV           N08572310W063201920                                                                                 
+SSAMEAENRT   JENDE SV           N09364110W070250130                                                                                 
+SSAMEAENRT   KAMUT SV           N10032310W065490120                                                                                 
+SSAMEAENRT   KERON SV           N10153530W068355450                                                                                 
+SSAMEAENRT   KIKAS SV           N07005900W0715800100                                                                                
+SSAMEAENRT   KODRA SV           N09511110W069182530                                                                                 
+SSAMEAENRT   KOKRY SV           N10142310W069410130                                                                                 
+SSAMEAENRT   LENOS SV           N09131110W066055520                                                                                 
+SSAMEAENRT   LIMAS SV           N10021710W066040720                                                                                 
+SSAMEAENRT   LIXIL SV           N10325910W068570130                                                                                 
+SSAMEAENRT   LODIR SV           N08002910W064093720                                                                                 
+SSAMEAENRT   LOGON SV           N06332110W066581800                                                                                 
+SSAMEAENRT   LUCHA SV           N08081100W072211900                                                                                 
+SSAMEAENRT   MADNO SV           N10385910W070240130                                                                                 
+SSAMEAENRT   MAICA SV           N10554110W071480730                                                                                 
+SSAMEAENRT   MAMON SV           N11112910W070063130                                                                                 
+SSAMEAENRT   MAROA SV           N02504700W067113720                                                                                 
+SSAMEAENRT   MAVAC SV           N04464100W067285520                                                                                 
+SSAMEAENRT   METAS SV           N06165610W067513700                                                                                 
+SSAMEAENRT   MIGED SV           N08362910W063250720                                                                                 
+SSAMEAENRT   MIMET SV           N09421110W069333730                                                                                 
+SSAMEAENRT   MULCA SV           N10194710W069050730                                                                                 
+SSAMEAENRT   MUNIN SV           N10232310W068414330                                                                                 
+SSAMEAENRT   NEDEX SV           N10014350W068361520                                                                                 
+SSAMEAENRT   NOSCA SV           N10004710W068152530                                                                                 
+SSAMEAENRT   OCINA SV           N06333410W068501330                                                                                 
+SSAMEAENRT   ORONA SV           N07413510W062314320                                                                                 
+SSAMEAENRT   OSAMO SV           N09314710W064251320                                                                                 
+SSAMEAENRT   PADOS SV           N10292910W071194930                                                                                 
+SSAMEAENRT   PAGUA SV           N06022900W066414920                                                                                 
+SSAMEAENRT   PAKON SV           N04285110W0611802100                                                                                
+SSAMEAENRT   PARDU SV           N09581710W064025520                                                                                 
+SSAMEAENRT   PAUJI SV           N10251710W066274930                                                                                 
+SSAMEAENRT   PB11A SV           N10324966W067541014                                                                                 
+SSAMEAENRT   PBL11 SV           N10283600W067532400                                                                                 
+SSAMEAENRT   PEDRI SV           N10015910W064180720                                                                                 
+SSAMEAENRT   PETCO SV           N06441100W062102520                                                                                 
+SSAMEAENRT   PILAR SV           N10221110W063344920                                                                                 
+SSAMEAENRT   RAVIE SV           N07061610W062483120                                                                                 
+SSAMEAENRT   RIECI SV           N06405900W069184930                                                                                 
+SSAMEAENRT   RITAS SV           N07005110W0701515100                                                                                
+SSAMEAENRT   RODOL SV           N09472910W069583730                                                                                 
+SSAMEAENRT   RODOX SV           N10194710W069505530                                                                                 
+SSAMEAENRT   RONER SV           N09311710W065161320                                                                                 
+SSAMEAENRT   SANTO SV           N10004110W068403130                                                                                 
+SSAMEAENRT   SIDOS SV           N09320810W073065500                                                                                 
+SSAMEAENRT   SILED SV           N10332310W063423720                                                                                 
+SSAMEAENRT   SUBMA SV           N09034600W0683921100                                                                                
+SSAMEAENRT   TABLA SV           N08291700W072093730                                                                                 
+SSAMEAENRT   TABOR SV           N10281710W066541330                                                                                 
+SSAMEAENRT   TERSI SV           N06210500W062170120                                                                                 
+SSAMEAENRT   TESAM SV           N07113404W070542764                                                                                 
+SSAMEAENRT   TIGRE SV           N08455900W070180130                                                                                 
+SSAMEAENRT   TOMAX SV           N09382610W0690254100                                                                                
+SSAMEAENRT   TOSAL SV           N09191110W068325530                                                                                 
+SSAMEAENRT   TUY19 SV           N10041910W067020200                                                                                 
+SSAMEAENRT   UGAGA SV           N00484200W065420000                                                                                 
+SSAMEAENRT   UGIRO SV           N10375910W063460120                                                                                 
+SSAMEAENRT   UGOSI SV           N10164710W069243730                                                                                 
+SSAMEAENRT   UPUNI SV           N07082657W070304776                                                                                 
+SSAMEAENRT   USELA SV           N07053544W070551510                                                                                 
+SSAMEAENRT   VAGAN SV           N03490900W063050180                                                                                 
+SSAMEAENRT   VARAS SV           N06095210W068191330                                                                                 
+SSAMEAENRT   VASOT SV           N10015030W068384400                                                                                 
+SSAMEAENRT   VENTA SV           N06121100W0690406100                                                                                
+SSAMEAENRT   VIGIA SV           N08372810W071405530                                                                                 
+SSAMEAENRT   VUARI SV           N04171700W066211920                                                                                 
+SSAMEAENRT   VUMPI SV           N01592210W0635654100                                                                                
+SSAMDB       AGV   SV000225     N09330610W069135830                                                                                 
+SSAMDB       ADA   SV000323     N10370000W0691659100                                                                                
+SSAMDB       BCO   SV000370     N10000000W071040000                                                                                 
+SSAMDB       BNS   SV000220     N08372600W070125730                                                                                 
+SSAMDB       CDO   SV000341     N07375010W066101020                                                                                 
+SSAMDB       CZO   SV000215     N08554810W067245330                                                                                 
+SSAMDB       COR   SV000358     N10104900W0700353100                                                                                
+SSAMDB       CUP   SV000270     N10392990W063153410                                                                                 
+SSAMDB       CBL   SV000278     N08070960W063320290                                                                                 
+SSAMDB       ELO   SV000325     N06435900W061350120                                                                                 
+SSAMDB       EPL   SV000237     N07310810W071574890                                                                                 
+SSAMDB       EVG   SV000393     N08372100W071395230                                                                                 
+SSAMDB       EZA   SV000240     N07032910W069293130                                                                                 
+SSAMDB       GRE   SV000318     N09020210W069450930                                                                                 
+SSAMDB       GTO   SV000250     N07135900W070480130                                                                                 
+SSAMDB       GNA   SV000317     N08175910W062440120                                                                                 
+SSAMDB       GUI   SV000370     N10341620W062183920                                                                                 
+SSAMDB       HOT   SV000353     N10280010W066054420                                                                                 
+SSAMDB       ICA   SV000318     N04195910W061441700                                                                                 
+SSAMDB       KAV   SV000398     N05351310W061450720                                                                                 
+SSAMDB       LDP   SV000245     N04415010W061014020                                                                                 
+SSAMDB       PIJ   SV000310     N06340610W066481020                                                                                 
+SSAMDB       LEA   SV000286     N05490000W0612859100                                                                                
+SSAMDB       MUN   SV000230     N09451210W063092420                                                                                 
+SSAMDB       MOI   SV000300     N08491710W063053120                                                                                 
+SSAMDB       OMO   SV000360     N02465900W065125900                                                                                 
+SSAMDB       PRG   SV000385     N11463670W070082120                                                                                 
+SSAMDB       PRM   SV000310     N07481100W072115920                                                                                 
+SSAMDB       SRN   SV000395     N01552200W067032720                                                                                 
+SSAMDB       SPE   SV000230     N10170510W068451430                                                                                 
+SSAMDB       SFD   SV000333     N07530200W067263530                                                                                 
+SSAMDB       SJM   SV000265     N05190800W066025820                                                                                 
+SSAMDB       SSB   SV000318     N09573310W067090330                                                                                 
+SSAMDB       SOM   SV000220     N08570810W064083620                                                                                 
+SSAMDB       SBB   SV000336     N07482810W071095430                                                                                 
+SSAMDB       STB   SV000218     N08590010W071561930                                                                                 
+SSAMDB       GRI   SV000255     N07450310W063050820                                                                                 
+SSAMDB       TUC   SV000225     N09050910W062055420                                                                                 
+SSAMDB       TMO   SV000215     N07152110W061305820                                                                                 
+SSAMDB       KEM   SV000272     N05135910W061460000                                                                                 
+SSAMDB       URC   SV000330     N09421310W063595920                                                                                 
+SSAMDB       URM   SV000220     N05195900W062460120                                                                                 
+SSAMDB       VLC   SV000380     N10090730W067563250                                                                                 
+SSAMDB       VRA   SV000278     N09202510W070350530                                                                                 
+SSAMDB       YAR   SV000260     N10025910W069044230                                                                                 
+SSAMD        AGV   SV011340V    N09330750W069141650                                                                                 
+SSAMD        BNA   SV011590V    N10074030W064421840                                                                                 
+SSAMD        BNS   SV011750V    N08370210W070131390                                                                                 
+SSAMD        BRM   SV011220V    N10023310W069210710                                                                                 
+SSAMD        CDO   SV011230V    N07374110W066092820                                                                                 
+SSAMD        CZO   SV011630V    N08552580W067243890                                                                                 
+SSAMD        CMA   SV011750V    N06150090W062512720                                                                                 
+SSAMD        COR   SV011270V    N10103440W070040170                                                                                 
+SSAMD        TUY   SV011520V    N10173110W066475540                                                                                 
+SSAMD        CBL   SV011510V    N08071660W063315840                                                                                 
+SSAMD        CRO   SV011730V    N11244010W069413830                                                                                 
+SSAMD        CUM   SV011330V    N10264130W064082120                                                                                 
+SSAMD        CTN   SV011600V    N07310000W071264530                                                                                 
+SSAMD        BAL   SV011390V    N10111010W067324930                                                                                 
+SSAMD        GNA   SV011470V    N08173580W062451080                                                                                 
+SSAMD        LDP   SV011770V    N04413400W061013920                                                                                 
+SSAMD        LFA   SV011300V    N08143060W072161180                                                                                 
+SSAMD        MAR   SV011570V    N10345290W071425290                                                                                 
+SSAMD        MUN   SV011530V    N09443640W063091140                                                                                 
+SSAMD        MAU   SV011790V    N10411740W071023060                                                                                 
+SSAMD        NOL   SV011610V    N10262310W067093230                                                                                 
+SSAMD        PRG   SV011360V    N11465050W070080650                                                                                 
+SSAMD        PBL   SV011770V    N10290310W068044010                                                                                 
+SSAMD        PTC   SV011290V    N06105410W067294571                                                                                 
+SSAMD        SFD   SV011210V    N07525790W067262040                                                                                 
+SSAMD        SOM   SV011650V    N08562780W064092790                                                                                 
+SSAMD        STB   SV011490V    N08585090W071562490                                                                                 
+SSAMD        TMO   SV011440V    N07150210W061310120                                                                                 
+SSAMD        VAL   SV011740V    N10085230W067552190                                                                                 
+SSAMD        VRA   SV011440V    N09253910W070332530                                                                                 
+SSAMD        VPA   SV011780V    N09134410W065590220                                                                                 
+SSAMD        AGV   SV011340 D   N09330750W069141650                                                                                 
+SSAMD        BNA   SV011590 D   N10074030W064421840                                                                                 
+SSAMD        BNS   SV011750 D   N08370210W070131390                                                                                 
+SSAMD        BRM   SV011220 D   N10023310W069210710                                                                                 
+SSAMD        CDO   SV011230 D   N07374110W066092820                                                                                 
+SSAMD        CZO   SV011630 D   N08552580W067243890                                                                                 
+SSAMD        CMA   SV011750 D   N06150090W062512720                                                                                 
+SSAMD        COR   SV011270 D   N10103440W070040170                                                                                 
+SSAMD        TUY   SV011520 D   N10173110W066475540                                                                                 
+SSAMD        CBL   SV011510 D   N08071660W063315840                                                                                 
+SSAMD        CRO   SV011730 D   N11244010W069413830                                                                                 
+SSAMD        CUM   SV011330 D   N10264130W064082120                                                                                 
+SSAMD        CTN   SV011600 D   N07310000W071264530                                                                                 
+SSAMD        BAL   SV011390 D   N10111010W067324930                                                                                 
+SSAMD        GNA   SV011470 D   N08173580W062451080                                                                                 
+SSAMD        LDP   SV011770 D   N04413400W061013920                                                                                 
+SSAMD        LFA   SV011300 D   N08143060W072161180                                                                                 
+SSAMD        MAR   SV011570 D   N10345290W071425290                                                                                 
+SSAMD        MUN   SV011530 D   N09443640W063091140                                                                                 
+SSAMD        MAU   SV011790 D   N10411740W071023060                                                                                 
+SSAMD        NOL   SV011610 D   N10262310W067093230                                                                                 
+SSAMD        PRG   SV011360 D   N11465050W070080650                                                                                 
+SSAMD        PBL   SV011770 D   N10290310W068044010                                                                                 
+SSAMD        PTC   SV011290 D   N06105410W067294571                                                                                 
+SSAMD        SFD   SV011210 D   N07525790W067262040                                                                                 
+SSAMD        SOM   SV011650 D   N08562780W064092790                                                                                 
+SSAMD        STB   SV011490 D   N08585090W071562490                                                                                 
+SSAMD        TMO   SV011440 D   N07150210W061310120                                                                                 
+SSAMD        VAL   SV011740 D   N10085230W067552190                                                                                 
+SSAMD        VRA   SV011440 D   N09253910W070332530                                                                                 
+SSAMD        VPA   SV011780 D   N09134410W065590220                                                                                 
+SSAMD        STD   SV011530 D   N07341010W072010730                                                                                 
+SSAMER       W8          0130BRM  SVD       O                                      11000     24500                                  
+SSAMER       W8          0140GELEMSVEA      O                             0401     11000     24500                                  
+SSAMER       W8          0150VRA  SVD       O                             0444     15000     24500                                  
+SSAMER       W8          0160VIGIASVEA      O                             0780     09000     24500                                  
+SSAMER       W8          0170LFA  SVD       O                             0416     09000     24500                                  
+SSAMER       A552        0110CUP  SVD       O                                      05000     24500                                  
+SSAMER       A552        0120SILEDSVEA      O                             0274     05000     24500                                  
+SSAMER       A552        0130CUM  SVD       O                             0261     04000     24500                                  
+SSAMER       A552        0140PORGA  EA      O                             0246     04000     24500                                  
+SSAMER       A552        0180TABORSVEA      O                             0509     12000     24500                                  
+SSAMER       A552        0190NOL  SVD       O                             0152     12000     24500                                  
+SSAMER       A552        0390PBL  SVD       O                                      08000     24500                                  
+SSAMER       A552        0400LIXILSVEA      O                             0517     08000     24500                                  
+SSAMER       A552        0410GUADASVEA      O                             0319     08000     24500                                  
+SSAMER       A552        0420MADNOSVEA      O                             0539     08000     24500                                  
+SSAMER       A552        0430MAU  SVD       O                             0378     08000     24500                                  
+SSAMER       A552        0440MAR  SVD       O                             0402     07000     24500                                  
+SSAMER       G300        0010CTN  SVD       O                                      13000     24500                                  
+SSAMER       G300        0020BABORSKEA      O                             0658     13000     24500                                  
+SSAMER       W11         0250GUADASVEA      O                                      05000     24500                                  
+SSAMER       W11         0260RODOXSVEA      O                             0263     05000     24500                                  
+SSAMER       W11         0270COR  SVD       O                             0157     10000     24500                                  
+SSAMER       W11         0280JENDESVEA      O                             0399     10000     24500                                  
+SSAMER       W11         0290VRA  SVD       O                             0191     10000     24500                                  
+SSAMER       W12         0140BNA  SVD       O                                      06000     24500                                  
+SSAMER       W12         0150CUM  SVD       O                             0385     06000     24500                                  
+SSAMER       W12         0160MTA    D       O                             0304     06000     24500                                  
+SSAMER       W43         0010MAR  SVD       O                                      05000     24500                                  
+SSAMER       W43         0020GAVISSVEA      O                             0299     05000     24500                                  
+SSAMER       W43         0030ORTIZSKEA      O                             0289     09000     24500                                  
+SSAMER       W7          0210GNA  SVD       O                                      04000     24500                                  
+SSAMER       W7          0220CBL  SVD       O                             0475     04000     24500                                  
+SSAMER       W7          0230LODIRSVEA      O                             0380     04000     24500                                  
+SSAMER       W7          0240CDO  SVD       O                                      03000     24500                                  
+SSAMER       W7          0250SFD  SVD       O                             0777     03000     24500                                  
+SSAMER       W7          0260ESKITSVEA      O                             0948     03000     24500                                  
+SSAMER       W7          0270CAIPESVEA      O                             0657     03000     24500                                  
+SSAMER       W7          0280BNS  SVD       O                             0104     03000     24500                                  
+SSAMER       W7          0290TIGRESVEA      O                             0103     16000     24500                                  
+SSAMER       W7          0300VRA  SVD       O                             0384     09000     24500                                  
+SSAMER       W7          0310ERIXOSVEA      O                             0117     09000     24500                                  
+SSAMER       W7          0420MAR  SVD       O                             0345     05000     24500                                  
+SSAMER       W14         0260LIMASSVEA      O                                      08000     24500                                  
+SSAMER       W14         0270GEMAPSVEA      O                             0357     08000     24500                                  
+SSAMER       W14         0280BNA  SVD       O                             0451     08000     24500                                  
+SSAMER       W14         0290PORGA  EA      O                             0223     05000     24500                                  
+SSAMER       W14         0390NOSCASVEA      O                                      09000     24500                                  
+SSAMER       W14         0400VASOTSVEA      O                             0230     09000     24500                                  
+SSAMER       W14         0410YAR  SVD       O                             0256     09000     24500                                  
+SSAMER       W10         0130CBL  SVD       O                                      04000     24500                                  
+SSAMER       W10         0140MIGEDSVEA      O                             0298     04000     24500                                  
+SSAMER       W10         0340CUP  SVD       O                                      07000     24500                                  
+SSAMER       W10         0350MUN  SVD       O                             0552     07000     24500                                  
+SSAMER       W46         0100GUEROSVEA      O                             0233     04000     24500                                  
+SSAMER       W46         0110MAICASVEA      O                             0128     04000     24500                                  
+SSAMER       W46         0120MAR  SVD       O                             0213     04000     24500                                  
+SSAMER       A300        0010KAV  SVD       O                                      13000     24500                                  
+SSAMER       A300        0020PETCOSVEA      O                             0734     13000     24500                                  
+SSAMER       A300        0030ORONASVEA      O                             0612     06000     24500                                  
+SSAMER       A300        0040GNA  SVD       O                             0386     05000     24500                                  
+SSAMER       A300        0050MUN  SVD       O                             0903     05000     24500                                  
+SSAMER       A300        0060PILARSVEA      O                             0451     10000     24500                                  
+SSAMER       A300        0070SILEDSVEA      O                             0136     05000     24500                                  
+SSAMER       A300        0080MTA    D       O                             0265     05000     24500                                  
+SSAMER       W17         0110SSB  SVD       O                                      05000     24500                                  
+SSAMER       W17         0120CZO  SVD       O                             0639     03000     24500                                  
+SSAMER       W17         0130SFD  SVD       O                             0625     03000     24500                                  
+SSAMER       W17         0140CINARSVEA      O                             0820     03000     24500                                  
+SSAMER       W17         0150PCR  SVEA      O                             0204     03000     24500                                  
+SSAMER       W17         0160PAY  SKD       O                             0345     05000     24500                                  
+SSAMER       W6          0320NOL  SVD       O                                      10000     24500                                  
+SSAMER       W6          0330ORITO  EA      O                             0143     10000     24500                                  
+SSAMER       W9          0230COR  SVD       O                                      06000     24500                                  
+SSAMER       W9          0240KOKRYSVEA      O                             0228     06000     24500                                  
+SSAMER       W9          0250UGOSISVEA      O                             0163     06000     24500                                  
+SSAMER       W9          0260MULCASVEA      O                             0194     09000     24500                                  
+SSAMER       W9          0270MUNINSVEA      O                             0233     09000     24500                                  
+SSAMER       W9          0280PBL  SVD       O                             0370     10000     24500                                  
+SSAMER       W9          0540STB  SVD       O                             0192     04000     24500                                  
+SSAMER       W40         0030BRM  SVD       O                                      11000     24500                                  
+SSAMER       W40         0040RODOLSVEA      O                             0401     11000     24500                                  
+SSAMER       W40         0050JENDESVEA      O                             0282     17000     24500                                  
+SSAMER       W40         0060ERIXOSVEA      O                             0195     17000     24500                                  
+SSAMER       W40         0070STAVO  EA      O                             0592     08000     24500                                  
+SSAMER       W40         0080STB  SVD       O                             0190     04000     24500                                  
+SSAMER       W5          0190BRM  SVD       O                                      07000     24500                                  
+SSAMER       W5          0200COR  SVD       O                             0429     07000     24500                                  
+SSAMER       W5          0210GIDOXSVEA      O                             0671     09000     24500                                  
+SSAMER       W5          0220PADOSSVEA      O                             0099     07000     24500                                  
+SSAMER       W5          0230MAR  SVD       O                             0233     05000     24500                                  
+SSAMER       W5          0550YAR  SVD       O                                      07000     24500                                  
+SSAMER       W5          0560KERONSVEA      O                             0310     09000     24500                                  
+SSAMER       W5          0570PBL  SVD       O                             0337     09000     24500                                  
+SSAMER       W5          0580PB11ASVEA      O                             0109     07000     24500                                  
+SSAMER       W5          0590TORIM  EA      O                             0210     07000     24500                                  
+SSAMER       W41         0080ERIXOSVEA      O                                      07000     24500                                  
+SSAMER       W41         0090GUAYASVEA      O                             0596     07000     24500                                  
+SSAMER       W41         0100VIGIASVEA      O                             0173     07000     24500                                  
+SSAMER       W26         0370METASSVEA      O                                      04500     24500                                  
+SSAMER       W26         0380PTC  SVD       O                             0226     04500     24500                                  
+SSAMER       W26         0390PAY  SKD       O                             0345     04500     19500                                  
+SSAMER       W34         0080LFA  SVD       O                                      07000     24500                                  
+SSAMER       W34         0090LUCHASVEA      O                             0083     07500     24500                                  
+SSAMER       W34         0100CUC  SKD       O                             0154     07500     24500                                  
+SSAMER       W3          0040KODRASVEA      O                                      10000     24500                                  
+SSAMER       W3          0050BRM  SVD       O                             0120     10000     24500                                  
+SSAMER       W3          0060UGOSISVEA      O                             0144     07000     24500                                  
+SSAMER       W3          0070GUADASVEA      O                             0191     08000     24500                                  
+SSAMER       W3          0080CRO  SVD       O                             0510     08000     24500                                  
+SSAMER       W27         0130COLONSVEA      O                                      08000     24500                                  
+SSAMER       W27         0140SOM  SVD       O                             1280     08000     24500                                  
+SSAMER       W27         0150MIGEDSVEA      O                             0482     04000     24500                                  
+SSAMER       W27         0160GNA  SVD       O                             0438     04000     24500                                  
+SSAMER       W27         0470NOL  SVD       O                                      10000     24500                                  
+SSAMER       W27         0480TORIM  EA      O                             0285     10000     24500                                  
+SSAMER       W4          0170GNA  SVD       O                                      04000     24500                                  
+SSAMER       W4          0180ITAMASVEA      O                             0528     04000     24500                                  
+SSAMER       W4          0250PEDRISVEA      O                                      09000     24500                                  
+SSAMER       W4          0260URC  SVD       O                             0267     09000     24500                                  
+SSAMER       W1          0070MAR  SVD       O                                      05000     24500                                  
+SSAMER       W1          0080BOBAT  EA      O                             0403     05000     24500                                  
+SSAMER       W1          0090STB  SVD       O                             0568     07000     24500                                  
+SSAMER       W1          0180GOLFOSVEA      O                                      06000     24500                                  
+SSAMER       W1          0190CAUCA  EA      O                             0458     06000     24500                                  
+SSAMER       W1          0200PRG  SVD       O                             0317     06000     24500                                  
+SSAMER       W1          0210CRO  SVD       O                             0341     06000     24500                                  
+SSAMER       W1          0220COZALSVEA      O                             0250     06000     24500                                  
+SSAMER       W1          0230VSJ    D       O                             0515     06000     24500                                  
+SSAMER       A567-       0010ENPUTSVEA      O                                      01500     24500                                  
+SSAMER       A567-       0020STB  SVD       O                             0533     07000     24500                                  
+SSAMER       A567-       0030BATEY  EA      O                             0675     07000     24500                                  
+SSAMER       A567-       0050GIDOXSVEA      O                             0200     07000     24500                                  
+SSAMER       A567-       0060MAU  SVD       O                             0162     07000     24500                                  
+SSAMER       W22         0040BNS  SVD       O                                      12000     24500                                  
+SSAMER       W22         0050CHAPASVEA      O                             0101     12000     24500                                  
+SSAMER       W22         0060BRM  SVD       O                                      12000     24500                                  
+SSAMER       W22         0070MIMETSVEA      O                             0241     12000     24500                                  
+SSAMER       W18         0160CDO  SVD       O                                      04000     24500                                  
+SSAMER       W18         0170LENOSSVEA      O                             0956     04000     24500                                  
+SSAMER       W18         0180COLONSVEA      O                             0427     04000     24500                                  
+SSAMER       W18         0190LIMASSVEA      O                             0065     06000     24500                                  
+SSAMER       W18         0200CBC    D       O                             0324     06000     24500                                  
+SSAMER       G431        0140CRO  SVD       O                                      06000     24500                                  
+SSAMER       G431        0150MAMONSVEA      O                             0279     06000     24500                                  
+SSAMER       G431        0160MAU  SVD       O                             0626     06000     24500                                  
+SSAMER       A563        0100CUP  SVD       O                             0444     05000     24500                                  
+SSAMER       W15         0350VAL  SVD       O                                      08000     24500                                  
+SSAMER       W15         0360PBL  SVD       O                             0223     08000     24500                                  
+SSAMER       W15         0370VSJ    D       O                             0457     08000     24500                                  
+SSAMER       W20G        0050CBL  SVD       O                                      07000     24500                                  
+SSAMER       W20G        0060CMA  SVEA      O                             1225     07000     24500                                  
+SSAMER       W20G        0070LDP  SVD       O                             1416     13000     24500                                  
+SSAMER       A567        0060MAU  SVD       O                                      07000     24500                                  
+SSAMER       A567        0070CAUCA  EA      O                             0544     07000     24500                                  
+SSAMER       W2          0360MUN  SVD       O                                      05000     24500                                  
+SSAMER       W2          0370URC  SVD       O                             0502     06000     24500                                  
+SSAMER       W2          0380BNA  SVD       O                             0491     05000     24500                                  
+SSAMER       W2          0390MEXOT  EA      O                             0278     05000     24500                                  
+SSAMER       W16         0040BNA  SVD       O                                      05000     24500                                  
+SSAMER       W16         0050OSAMOSVEA      O                             0400     05000     24500                                  
+SSAMER       W16         0060SOM  SVD       O                             0385     05000     24500                                  
+SSAMER       W12A        0010BNA  SVD       O                                      05000     24500                                  
+SSAMER       W12A        0020GEBALSVEA      O                             0412     05000     24500                                  
+SSAMER       G443        0040BNA  SVD       O                             0400     05000     24500                                  
+SSAMER       G443        0050PEDRISVEA      O                             0246     08000     24500                                  
+SSAMER       G443        0060PARDUSVEA      O                             0154     11000     24500                                  
+SSAMER       G443        0070MUN  SVD       O                             0547     11000     24500                                  
+SSAMER       W29G        0010BNS  SVD       O                                      04000     24500                                  
+SSAMER       W29G        0020ELOYSSVEA      O                             0100     04000     24500                                  
+SSAMER       W29G        0030EZA  SVD       O                             0929     04000     24500                                  
+SSAMER       W29G        0040OCINASVEA      O                             0492     05000     24500                                  
+SSAMER       W29G        0050VARASSVEA      O                             0389     05000     24500                                  
+SSAMER       W29G        0060PAY  SKD       O                             0537     10000     24500                                  
+SSAMER       W29G        0070SJM  SVD       O                             0949     10000     24500                                  
+SSAMER       A550        0010EPL  SVD       O                                      05000     24500                                  
+SSAMER       A550        0020CTN  SVD       O                             0308     05000     24500                                  
+SSAMER       A550        0030ERICASVEA      O                             0883     10000     24500                                  
+SSAMER       A550        0040BNS  SVD       O                             0100     10000     24500                                  
+SSAMER       A550        0050GANAOSVEA      O                             0100     09000     24500                                  
+SSAMER       A550        0060GRE  SVD       O                             0274     09000     24500                                  
+SSAMER       A550        0070ICIONSVEA      O                             0292     09000     24500                                  
+SSAMER       A550        0180NOL  SVD       O                             0143     10000     24500                                  
+SSAMER       A550        0190SANTOSVEA      O                                      09000     24500                                  
+SSAMER       A550        0200VASOTSVEA      O                             0021     09000     24500                                  
+SSAMER       W1A         0030MAR  SVD       O                             0274     05000     24500                                  
+SSAMER       W38         0040VENTASVEA      O                             0189     07500     24500                                  
+SSAMER       W30         0150PAUJISVEA      O                             0262     08000     24500                                  
+SSAMER       W30         0160TUY  SVD       O                             0211     06000     24500                                  
+SSAMER       G678        0080CBL  SVD       O                                      06000     24500                                  
+SSAMER       G678        0090RAVIESVEA      O                             0748     06000     24500                                  
+SSAMER       G678        0100TERSISVEA      O                             0550     13000     24500                                  
+SSAMER       G678        0110KAV  SVD       O                             0558     12000     24500                                  
+SSAMER       G678        0120LDP  SVD       O                             0690     12000     24500                                  
+SSAMER       W24         0010MADNOSVEA      O                                      06000     24500                                  
+SSAMER       W24         0020BRM40SVEA      O                             0317     06000     24500                                  
+SSAMER       W24         0030RODOXSVEA      O                             0061     06000     24500                                  
+SSAMER       W24         0040KOKRYSVEA      O                             0111     06000     24500                                  
+SSAMER       W24         0050BRM  SVD       O                             0228     06000     24500                                  
+SSAMER       W24         0060MULCASVEA      O                             0231     08000     24500                                  
+SSAMER       W24         0070BRM45SVEA      O                             0221     08000     24500                                  
+SSAMER       W24         0080KERONSVEA      O                             0070     08000     24500                                  
+SSAMER       W24         0410PTC  SVD       O                             0859     05500     24500                                  
+SSAMER       W14-W       0010BRM  SVD       O                                      05000     24500                                  
+SSAMER       W14-W       0020YAR  SVD       O                             0162     05000     24500                                  
+SSAMER       W10G        0110CBL  SVD       O                                      05000     24500                                  
+SSAMER       W10G        0120EPANASVEA      O                             0490     05000     24500                                  
+SSAMER       W10G        0130ORONASVEA      O                             0160     06000     24500                                  
+SSAMER       W10G        0140TMO  SVD       O                             0657     06000     24500                                  
+SSAMER       W10G        0150ELO  SVD       O                             0317     12000     24500                                  
+SSAMER       W10G        0160KAV  SVD       O                             0695     12000     24500                                  
+SSAMER       W25G        0010CBL  SVD       O                                      08000     24500                                  
+SSAMER       W25G        0020CAURASVEA      O                             1035     08000     24500                                  
+SSAMER       W25G        0030DIAMASVEA      O                             0666     10000     24500                                  
+SSAMER       W25G        0040PAGUASVEA      O                             0570     10000     24500                                  
+SSAMER       W25G        0050PAY  SKD       O                             0601     08000     24500                                  
+SSAMER       G678-       0020GEMAPSVEA      O                             0454     06000     24500                                  
+SSAMER       G678-       0030CBC53SVEA      O                             0077     04000     24500                                  
+SSAMER       G678-       0040GEBALSVEA      O                             0505     04000     24500                                  
+SSAMER       G678-       0050SOM  SVD       O                             0452     04000     24500                                  
+SSAMER       G678-       0060CBL  SVD       O                             0616     04000     24500                                  
+SSAMER       W18G        0010CDO  SVD       O                                      10000     24500                                  
+SSAMER       W18G        0020DIAMASVEA      O                             0739     10000     24500                                  
+SSAMER       W18G        0030SJM  SVD       O                             0687     10000     24500                                  
+SSAMER       W18G        0040VUARISVEA      O                             0645     10000     24500                                  
+SSAMER       W13G-       0010CDO  SVD       O                                      08000     24500                                  
+SSAMER       W13G-       0020PIJ  SVD       O                             0743     08000     24500                                  
+SSAMER       W13G-       0030PAY  SKD       O                             0746     08000     24500                                  
+SSAMER       W4G         0010CMA  SVEA      O                                      07000     24500                                  
+SSAMER       W4G         0020RAVIESVEA      O                             0544     07000     24500                                  
+SSAMER       W4G         0030EPANASVEA      O                             0418     07000     24500                                  
+SSAMER       W4G         0040GNA  SVD       O                             0298     07000     24500                                  
+SSAMER       W17G        0030MAROASVEA      O                                      09000     24500                                  
+SSAMER       W17G        0040SRN  SVD       O                             0561     09000     24500                                  
+SSAMER       W17G        0050MAVACSVEA      O                                      10000     24500                                  
+SSAMER       W17G        0060PAY  SKD       O                             0511     10000     24500                                  
+SSAMER       W5A         0010COR  SVD       O                                      05000     24500                                  
+SSAMER       W5A         0020GUAROSVEA      O                             0307     05000     24500                                  
+SSAMER       W1-W9       0030LFA  SVD       O                                      07000     24500                                  
+SSAMER       W1-W9       0040TABLASVEA      O                             0160     07000     24500                                  
+SSAMER       W1-W9       0050STB  SVD       O                             0325     07000     24500                                  
+SSAMER       W23G        0010CTN  SVD       O                                      04000     24500                                  
+SSAMER       W23G        0020GTO  SVD       O                             0420     04000     24500                                  
+SSAMER       W23G        0030EZA  SVD       O                             0786     04000     24500                                  
+SSAMER       W23G        0040SFD  SVD       O                             1320     04000     24500                                  
+SSAMER       A567-       0020ENPUTSVEA      O                             0184     06500     24500                                  
+SSAMER       W12B        0010CUM  SVD       O                                      03000     24500                                  
+SSAMER       W12B        0020ISAPO  EA      O                             0183     03000     24500                                  
+SSAMER       A552-       0010CUP  SVD       O                                      07000     24500                                  
+SSAMER       A552-       0020MEGIR  EA      O                             0820     07000     24500                                  
+SSAMER       R640        0080MAR  SVD       O                                      05000     24500                                  
+SSAMER       R640        0090GUEROSVEA      O                             0307     05000     24500                                  
+SSAMER       R640        0100URIBISKEA      O                             0174     08000     24500                                  
+SSAMER       W1B         0010DAKASSVEA      O                                      05000     24500                                  
+SSAMER       W1B         0020MAR  SVD       O                             0302     05000     24500                                  
+SSAMER       B553        0010DAKASSVEA      O                                      08000     24500                                  
+SSAMER       B553        0020MAU  SVD       O                             0138     08000     24500                                  
+SSAMER       G427        0010EZA  SVD       O                                      05000     24500                                  
+SSAMER       G427        0020ESKITSVEA      O                             0802     05000     24500                                  
+SSAMER       G427        0030TOSALSVEA      O                             0667     05000     24500                                  
+SSAMER       G427        0040NOSCASVEA      O                             0451     09000     24500                                  
+SSAMER       G427        0050PBL  SVD       O                             0304     08000     24500                                  
+SSAMER       G427        0060KOTUL  EA      O                             0264     08000     24500                                  
+SSAMER       W38G        0010EZA  SVD       O                                      05000     24500                                  
+SSAMER       W38G        0020RIECISVEA      O                             0249     05000     24500                                  
+SSAMER       W38G        0030VENTASVEA      O                             0323     05000     24500                                  
+SSAMER       W38G        0050SRN  SVD       O                             0770     06000     24500                                  
+SSAMER       W26G        0010GARCISVEA      O                                      05000     24500                                  
+SSAMER       W26G        0020RIECISVEA      O                             0406     05000     24500                                  
+SSAMER       W26G        0030OCINASVEA      O                             0294     04500     24500                                  
+SSAMER       W26G        0040METASSVEA      O                             0606     04500     24500                                  
+SSAMER       UG443       0010MUN  SVD       O                                      24500     60000                                  
+SSAMER       UG443       0020BNA  SVD       O                             0947     24500     60000                                  
+SSAMER       UG443       0030CBC    D       O                             0837     24500     60000                                  
+SSAMER       W27G        0010GNA  SVD       O                                      05000     24500                                  
+SSAMER       W27G        0020TMO  SVD       O                             0964     05000     24500                                  
+SSAMER       W7G         0010GNA  SVD       O                                      04000     24500                                  
+SSAMER       W7G         0020TUC  SVD       O                             0613     04000     24500                                  
+SSAMER       UW14        0120BNA  SVD       O                                      24500     60000                                  
+SSAMER       UW14        0130GEMAPSVEA      O                             0451     24500     60000                                  
+SSAMER       UW14        0140ERIPASVEA      O                             0121     24500     60000                                  
+SSAMER       UW14        0150KAMUTSVEA      O                             0087     24500     60000                                  
+SSAMER       UW14        0190SSB  SVD       O                                      24500     60000                                  
+SSAMER       UW14        0200EDPALSVEA      O                             0345     24500     60000                                  
+SSAMER       UW14        0210NOSCASVEA      O                             0310     24500     60000                                  
+SSAMER       UW14        0220NEDEXSVEA      O                             0205     24500     60000                                  
+SSAMER       UW14        0230YAR  SVD       O                             0281     24500     60000                                  
+SSAMER       A552-       0010MAR  SVD       O                                      01500     24500                                  
+SSAMER       A552-       0020OSAKASKEA      O                             0512     01500     24500                                  
+SSAMER       W5C         0010MAU  SVD       O                                      07000     24500                                  
+SSAMER       W5C         0020PADOSSVEA      O                             0209     07000     24500                                  
+SSAMER       R568        0010MAU  SVD       O                                      07000     24500                                  
+SSAMER       R568        0020PUNTA  EA      O                             0546     07000     24500                                  
+SSAMER       R568        0030PRG  SVD       O                             0300     07000     24500                                  
+SSAMER       W17A        0020TABORSVEA      O                             0097     12000     24500                                  
+SSAMER       W17A        0030TUY  SVD       O                             0123     12000     24500                                  
+SSAMER       W17A        0040TUY19SVEA      O                             0193     07000     24500                                  
+SSAMER       W17A        0050SSB  SVD       O                             0097     07000     24500                                  
+SSAMER       A562        0010MUN  SVD       O                                      05000     24500                                  
+SSAMER       A562        0020PARIA  EA      O                             0738     05000     24500                                  
+SSAMER       G443-       0010MUN  SVD       O                                      05000     24500                                  
+SSAMER       G443-       0020TUC  SVD       O                             0740     05000     24500                                  
+SSAMER       A550-       0010NOL  SVD       O                                      11000     24500                                  
+SSAMER       A550-       0020PBL11SVEA      O                             0432     11000     24500                                  
+SSAMER       A550-       0030PBL  SVD       O                             0110     11000     24500                                  
+SSAMER       W14A        0010NOSCASVEA      O                                      07000     24500                                  
+SSAMER       W14A        0020VAL  SVD       O                             0214     07000     24500                                  
+SSAMER       UA552       0090MAU  SVD       O                             0977     24500     60000                                  
+SSAMER       UA552       0100MADNOSVEA      O                             0378     24500     60000                                  
+SSAMER       UA552       0110CUP  SVD       O                                      24500     60000                                  
+SSAMER       UA552       0120UGIROSVEA      O                             0301     24500     60000                                  
+SSAMER       UA552       0130CBC    D       O                             1347     24500     60000                                  
+SSAMER       UA552       0140ESANASVEA      O                             0408     24500     60000                                  
+SSAMER       UA552       0150NOL  SVD       O                             0253     24500     60000                                  
+SSAMER       UA552       0360LIXILSVEA      O                                      24500     60000                                  
+SSAMER       UA552       0370PBL  SVD       O                             0517     24500     60000                                  
+SSAMER       UW5         0130BRM  SVD       O                                      24500     60000                                  
+SSAMER       UW5         0140COR  SVD       O                             0429     24500     60000                                  
+SSAMER       UW5         0150BURGASVEA      O                             0380     24500     60000                                  
+SSAMER       UW5         0160GIDOXSVEA      O                             0291     24500     60000                                  
+SSAMER       UW5         0170MAR  SVD       O                             0332     24500     60000                                  
+SSAMER       UW5         0390PBL  SVD       O                                      24500     60000                                  
+SSAMER       UW5         0400YAR  SVD       O                             0648     24500     60000                                  
+SSAMER       UW34        0070LFA  SVD       O                             0237     24500     60000                                  
+SSAMER       UL795       0090VUMPISVEA      O                             1794     24500     60000                                  
+SSAMER       UL795       0100LOGONSVEA      O                             3285     24500     60000                                  
+SSAMER       UL795       0110EKUNASVEA      O                             0548     24500     60000                                  
+SSAMER       UL795       0120SUBMASVEA      O                             1260     24500     60000                                  
+SSAMER       UL795       0130TOMAXSVEA      O                             0418     24500     60000                                  
+SSAMER       UL795       0140DANVOSVEA      O                             0299     24500     60000                                  
+SSAMER       UL795       0150DOLPOSVEA      O                                      24500     60000                                  
+SSAMER       UL795       0160LOKUR  EA      O                             0396     24500     60000                                  
+SSAMER       UW7         0080CDO  SVD       O                                      24500     60000                                  
+SSAMER       UW7         0090BIVAPSVEA      O                             0669     24500     60000                                  
+SSAMER       UW7         0100SFD  SVD       O                             0108     24500     60000                                  
+SSAMER       UW7         0110ESKITSVEA      O                             0948     24500     60000                                  
+SSAMER       UW7         0120BNS  SVD       O                             0761     24500     60000                                  
+SSAMER       UW7         0130GNA  SVD       O                                      24500     60000                                  
+SSAMER       UW7         0140CBL  SVD       O                             0475     24500     60000                                  
+SSAMER       UW7         0150LODIRSVEA      O                             0380     24500     60000                                  
+SSAMER       UL304       0170CMA  SVEA      O                             1392     24500     60000                                  
+SSAMER       UL304       0180LODIRSVEA      O                             1337     24500     60000                                  
+SSAMER       UL304       0190RONERSVEA      O                             1122     24500     60000                                  
+SSAMER       UL304       0200ERIPASVEA      O                             0404     24500     60000                                  
+SSAMER       UL304       0210CBC    D       O                             0379     24500     60000                                  
+SSAMER       UA563       0090CUP  SVD       O                             0444     24500     60000                                  
+SSAMER       UW20        0060GEMAPSVEA      O                             0454     24500     60000                                  
+SSAMER       UW20        0070SOM  SVD       O                             1034     24500     60000                                  
+SSAMER       UW20        0080CBL  SVD       O                             0616     24500     60000                                  
+SSAMER       UW20        0090CMA  SVEA      O                             1225     24500     60000                                  
+SSAMER       UW27        0050DIMANSVEA      O                                      24500     60000                                  
+SSAMER       UW27        0060RONERSVEA      O                             0266     24500     60000                                  
+SSAMER       UW27        0070SOM  SVD       O                             0746     24500     60000                                  
+SSAMER       UW27        0080GNA  SVD       O                             0920     24500     60000                                  
+SSAMER       UA567       0100STB  SVD       O                                      24500     60000                                  
+SSAMER       UA567       0110EKERI  EA      O                             0526     24500     60000                                  
+SSAMER       UA567       0130GIDOXSVEA      O                             0200     24500     60000                                  
+SSAMER       UA567       0140MAU  SVD       O                             0162     24500     60000                                  
+SSAMER       UA567       0150CAUCA  EA      O                             0544     24500     60000                                  
+SSAMER       UG431       0100BURGASVEA      O                             0356     24500     60000                                  
+SSAMER       UG431       0110MADNOSVEA      O                             0255     24500     60000                                  
+SSAMER       UG431       0120DOLPOSVEA      O                             0334     24500     60000                                  
+SSAMER       UG431       0130CRO  SVD       O                             0287     24500     60000                                  
+SSAMER       UZ21        0060VUMPISVEA      O                             1247     26000     60000                                  
+SSAMER       UW8         0070BRM  SVD       O                                      24500     60000                                  
+SSAMER       UW8         0080VRA  SVD       O                             0844     24500     60000                                  
+SSAMER       UW8         0090LFA  SVD       O                             1196     24500     60000                                  
+SSAMER       UL793       0010LOGONSVEA      O                                      24500     60000                                  
+SSAMER       UL793       0020BIVAPSVEA      O                             0795     24500     60000                                  
+SSAMER       UL793       0030DAVEXSVEA      O                             0312     24500     60000                                  
+SSAMER       UL793       0040EDPALSVEA      O                             1002     24500     60000                                  
+SSAMER       UL793       0050GATUGSVEA      O                             0300     24500     60000                                  
+SSAMER       UL793       0060IMBAT  EA      O                             0110     24500     60000                                  
+SSAMER       UR640       0040BNS  SVD       O                                      24500     60000                                  
+SSAMER       UR640       0050EDRINSVEA      O                             0849     24500     60000                                  
+SSAMER       UR640       0190MAR  SVD       O                             0482     24500     60000                                  
+SSAMER       UW4         0010BNA  SVD       O                                      24500     60000                                  
+SSAMER       UW4         0020URC  SVD       O                             0491     24500     60000                                  
+SSAMER       UW4         0030GNA  SVD       O                             1123     24500     60000                                  
+SSAMER       UA550       0010KIKASSVEA      O                                      24500     60000                                  
+SSAMER       UA550       0020CTN  SVD       O                             0432     24500     60000                                  
+SSAMER       UA550       0030BNS  SVD       O                             0983     24500     60000                                  
+SSAMER       UA550       0040TOMAXSVEA      O                             0928     24500     60000                                  
+SSAMER       UA550       0050NEDEXSVEA      O                             0351     24500     60000                                  
+SSAMER       UA550       0060PBL  SVD       O                             0416     24500     60000                                  
+SSAMER       UA550       0130NOL  SVD       O                             0143     24500     60000                                  
+SSAMER       UR640       0010BNS  SVD       O                                      24500     60000                                  
+SSAMER       UR640       0020VRA  SVD       O                             0487     24500     60000                                  
+SSAMER       UR640       0030ERIXOSVEA      O                             0117     24500     60000                                  
+SSAMER       UR640       0040BODISSVEA      O                             0276     24500     60000                                  
+SSAMER       UR640       0050MISOA  EA      O                             0056     24500     60000                                  
+SSAMER       UR640       0070MAR  SVD       O                             0345     24500     60000                                  
+SSAMER       UA553       0010BRM  SVD       O                                      24500     60000                                  
+SSAMER       UA553       0020BODISSVEA      O                             0999     24500     60000                                  
+SSAMER       UA553       0030IROSA  EA      O                             0093     24500     60000                                  
+SSAMER       UA553       0060SIDOSSVEA      O                             0766     24500     60000                                  
+SSAMER       UA553       0070UGOTASKEA      O                             0472     24500     60000                                  
+SSAMER       UQ104       0030KIKASSVEA      O                             1932     24500     60000                                  
+SSAMER       UM414       0040EZA  SVD       O                                      25000     60000                                  
+SSAMER       UM414       0050OPRUSSKEA      O                             0373     25000     60000                                  
+SSAMER       UW40        0010BRM  SVD       O                                      24500     60000                                  
+SSAMER       UW40        0020ERIXOSVEA      O                             0878     24500     60000                                  
+SSAMER       UW40        0030STB  SVD       O                             0782     24500     60000                                  
+SSAMER       UW40        0060KIKASSVEA      O                             0704     24500     60000                                  
+SSAMER       UA553       0010BRM  SVD       O                                      24500     60000                                  
+SSAMER       UA553       0020PBL  SVD       O                             0798     24500     60000                                  
+SSAMER       UW14-       0010BRM  SVD       O                                      24500     60000                                  
+SSAMER       UW14-       0020YAR  SVD       O                             0162     24500     60000                                  
+SSAMER       UW1         0120CRO  SVD       O                             0765     24500     60000                                  
+SSAMER       UW1         0130PRG  SVD       O                             0341     24500     60000                                  
+SSAMER       UW1         0140CAUCA  EA      O                             0317     24500     60000                                  
+SSAMER       UW1         0150GOLFOSVEA      O                             0458     24500     60000                                  
+SSAMER       UW1         0160MAR  SVD       O                             0402     24500     60000                                  
+SSAMER       UW1         0170DALEX  EA      O                             0523     24500     60000                                  
+SSAMER       UW1         0180STB  SVD       O                             0447     24500     60000                                  
+SSAMER       UA300       0020PAKONSVEA      O                             1045     24500     60000                                  
+SSAMER       UA300       0030GNA  SVD       O                             2449     24500     60000                                  
+SSAMER       UA300       0040MUN  SVD       O                             0903     24500     60000                                  
+SSAMER       UA300       0050UGIROSVEA      O                             0644     24500     60000                                  
+SSAMER       UA300       0060MTA    D       O                             0209     24500     60000                                  
+SSAMER       UW42        0020KAMUTSVEA      O                             0341     24500     60000                                  
+SSAMER       UM787       0010CRO  SVD       O                                      24500     60000                                  
+SSAMER       UM787       0020LOKUR  EA      O                             0431     24500     60000                                  
+SSAMER       UA567       0020ENPUTSVEA      O                             0184     24500     60000                                  
+SSAMER       UA567       0030STB  SVD       O                             0533     24500     60000                                  
+SSAMER       UA552       0010CUP  SVD       O                                      24500     60000                                  
+SSAMER       UA552       0020MEGIR  EA      O                             0820     24500     60000                                  
+SSAMER       UL216       0010SSB  SVD       O                                      24500     60000                                  
+SSAMER       UL216       0020DAVEXSVEA      O                             0971     24500     60000                                  
+SSAMER       UL216       0030SFD  SVD       O                             0286     24500     60000                                  
+SSAMER       UL216       0040EKUNASVEA      O                             0342     24500     60000                                  
+SSAMER       UL216       0050PAY  SKD       O                             1023     24500     60000                                  
+SSAMER       UA315       0010DIMANSVEA      O                                      24500     60000                                  
+SSAMER       UA315       0020KAMUTSVEA      O                             0218     24500     60000                                  
+SSAMER       UA315       0030ESANASVEA      O                             0602     24500     60000                                  
+SSAMER       UA315       0040MIQ    D       O                             0166     24500     60000                                  
+SSAMER       UA315       0100VAGANSVEA      O                             2497     24500     60000                                  
+SSAMER       UG427       0070EZA  SVD       O                             0337     24500     60000                                  
+SSAMER       UG427       0080EDRINSVEA      O                             0312     24500     60000                                  
+SSAMER       UG427       0090ESKITSVEA      O                             0490     24500     60000                                  
+SSAMER       UG427       0100SUBMASVEA      O                             0500     24500     60000                                  
+SSAMER       UG427       0110TOSALSVEA      O                             0167     24500     60000                                  
+SSAMER       UG427       0120NOSCASVEA      O                             0451     24500     60000                                  
+SSAMER       UG427       0130PBL  SVD       O                             0304     24500     60000                                  
+SSAMER       UA550       0010NOL  SVD       O                                      24500     60000                                  
+SSAMER       UA550       0020GATUGSVEA      O                             0404     24500     60000                                  
+SSAMER       UA550       0030PBL  SVD       O                             0138     24500     60000                                  
+SSAMER       UW1-U       0010LFA  SVD       O                                      24500     60000                                  
+SSAMER       UW1-U       0020STB  SVD       O                             0485     24500     60000                                  
+SSAMER       UM796       0030MAR  SVD       O                                      25000     60000                                  
+SSAMER       UM796       0040MAU  SVD       O                             0402     25000     60000                                  
+SSAMER       UA562       0010MUN  SVD       O                                      24500     60000                                  
+SSAMER       UA562       0020PARIA  EA      O                             0738     24500     60000                                  

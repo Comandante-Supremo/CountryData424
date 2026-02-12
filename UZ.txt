@@ -1,0 +1,291 @@
+SEUREAENRT   ABANI UT           N41121710E064551200                                                                                 
+SEUREAENRT   AGANI UT           N42220000E063504800                                                                                 
+SEUREAENRT   AGART UT           N38085910E0660259100                                                                                
+SEUREAENRT   AKALI UT           N44082900E0611936100                                                                                
+SEUREAENRT   ALABU UT           N39291710E066220000                                                                                 
+SEUREAENRT   ANVAR UT           N38000000E0675059100                                                                                
+SEUREAENRT   ASHGA UT           N39315400E063193600                                                                                 
+SEUREAENRT   BABIR UT           N42031710E0623353100                                                                                
+SEUREAENRT   BIBON UT           N39000000E067270000                                                                                 
+SEUREAENRT   BIGSO UT           N40165910E067570000                                                                                 
+SEUREAENRT   BODAN UT           N40561710E070212400                                                                                 
+SEUREAENRT   BOLNA UT           N43371110E0625811100                                                                                
+SEUREAENRT   BUGEB UT           N41082400E0670835100                                                                                
+SEUREAENRT   BUTRA UT           N39210000E0672859100                                                                                
+SEUREAENRT   CHARD UT           N39152910E0634923100                                                                                
+SEUREAENRT   DAKLI UT           N40143510E0661911100                                                                                
+SEUREAENRT   DARVA UT           N41182400E0602541100                                                                                
+SEUREAENRT   DERKI UT           N38315400E065062400                                                                                 
+SEUREAENRT   DIDOP UT           N43394200E0633029100                                                                                
+SEUREAENRT   DIKIN UT           N38562310E0671529100                                                                                
+SEUREAENRT   DY262 UT           N39462675E066552736                                                                                 
+SEUREAENRT   GETLI UT           N38420000E0681023100                                                                                
+SEUREAENRT   GILAT UT           N41570610E066000000                                                                                 
+SEUREAENRT   GONAK UT           N37430000E0663635100                                                                                
+SEUREAENRT   GURUD UT           N38325910E0674247100                                                                                
+SEUREAENRT   IRBIN UT           N39141200E067000600                                                                                 
+SEUREAENRT   IRINA UT           N42030600E0635135100                                                                                
+SEUREAENRT   KASAN UT           N39025910E0653505100                                                                                
+SEUREAENRT   KORAG UT           N43520000E056000000                                                                                 
+SEUREAENRT   KULAN UT           N40072310E0662735100                                                                                
+SEUREAENRT   KUNAS UT           N43092400E056000000                                                                                 
+SEUREAENRT   KURAB UT           N44231200E061034200                                                                                 
+SEUREAENRT   MAMAL UT           N41073600E0651947100                                                                                
+SEUREAENRT   MANAT UT           N39044110E064084800                                                                                 
+SEUREAENRT   MIMRI UT           N43380800E0634821100                                                                                
+SEUREAENRT   MOMUL UT           N41152400E0664023100                                                                                
+SEUREAENRT   MOROV UT           N41165910E0643359100                                                                                
+SEUREAENRT   MZ001 UT           N39460458E066553891                                                                                 
+SEUREAENRT   MZ006 UT           N39425752E066472753                                                                                 
+SEUREAENRT   MZ007 UT           N39423600E0665129100                                                                                
+SEUREAENRT   MZ016 UT           N39415530E067021436                                                                                 
+SEUREAENRT   MZ043 UT           N39431925E067073052                                                                                 
+SEUREAENRT   MZ271 UT           N39424623E066483445                                                                                 
+SEUREAENRT   MZ276 UT           N39432310E0664753100                                                                                
+SEUREAENRT   MZ301 UT           N39464110E066471200                                                                                 
+SEUREAENRT   MZ303 UT           N39462910E066474800                                                                                 
+SEUREAENRT   NABAT UT           N40420000E066364200                                                                                 
+SEUREAENRT   NAGEN UT           N40535910E062570000                                                                                 
+SEUREAENRT   NEPAL UT           N41155400E0690159100                                                                                
+SEUREAENRT   NEPAN UT           N38450600E0664547100                                                                                
+SEUREAENRT   NETAT UT           N40365210E0682412100                                                                                
+SEUREAENRT   NIMBA UT           N41100000E065110000                                                                                 
+SEUREAENRT   NITNA UT           N43303200E063360100                                                                                 
+SEUREAENRT   ODIVA UT           N42353000E064084800                                                                                 
+SEUREAENRT   OGODA UT           N40400000E0723459100                                                                                
+SEUREAENRT   OGOLI UT           N41285800E066363200                                                                                 
+SEUREAENRT   OGRIP UT           N40545310E0680459100                                                                                
+SEUREAENRT   OKDOR UT           N38343000E0671341100                                                                                
+SEUREAENRT   OTBOR UT           N41281800E0601153100                                                                                
+SEUREAENRT   OTGIB UT           N42035310E0571359100                                                                                
+SEUREAENRT   PINUD UT           N38331110E067413000                                                                                 
+SEUREAENRT   POGON UT           N39503510E0624453100                                                                                
+SEUREAENRT   R2539 UT           N39420697E066575678                                                                                 
+SEUREAENRT   R2541 UT           N41152489E069155267                                                                                 
+SEUREAENRT   R2542 UT           N41153511E069175533                                                                                 
+SEUREAENRT   R2543 UT           N41151301E069155040                                                                                 
+SEUREAENRT   R2547 UT           N37172310E067193000                                                                                 
+SEUREAENRT   RAPAT UT           N38100000E0675259100                                                                                
+SEUREAENRT   RASID UT           N38150000E067420000                                                                                 
+SEUREAENRT   RATAR UT           N38011800E066460000                                                                                 
+SEUREAENRT   RAVEN UT           N40270000E0670759100                                                                                
+SEUREAENRT   REBNA UT           N38353000E0665005100                                                                                
+SEUREAENRT   REDKA UT           N41435910E0635259100                                                                                
+SEUREAENRT   RIMDO UT           N43194000E063183700                                                                                 
+SEUREAENRT   ROBRA UT           N38332910E067305400                                                                                 
+SEUREAENRT   RODRO UT           N41143210E0690033100                                                                                
+SEUREAENRT   ROGAV UT           N41525910E063520000                                                                                 
+SEUREAENRT   SAGIR UT           N40475910E066240000                                                                                 
+SEUREAENRT   SOVOD UT           N41420600E060064200                                                                                 
+SEUREAENRT   TADEN UT           N40325310E066551800                                                                                 
+SEUREAENRT   TAHIR UT           N42271710E064133600                                                                                 
+SEUREAENRT   TARAM UT           N43475910E056400000                                                                                 
+SEUREAENRT   TIGTA UT           N43272910E0620447100                                                                                
+SEUREAENRT   TISIB UT           N41074800E070191800                                                                                 
+SEUREAENRT   TKT01 UT           N41142400E069064200                                                                                 
+SEUREAENRT   TKT08 UT           N41141898E069071465                                                                                 
+SEUREAENRT   TKT11 UT           N41074020E069071690                                                                                 
+SEUREAENRT   TKT18 UT           N41073228E069072798                                                                                 
+SEUREAENRT   TKT24 UT           N41124505E069281948                                                                                 
+SEUREAENRT   TKT25 UT           N41162910E069272400                                                                                 
+SEUREAENRT   TKT34 UT           N41150489E069125666                                                                                 
+SEUREAENRT   TKT37 UT           N41100521E069034273                                                                                 
+SEUREAENRT   TKT47 UT           N41114475E069014606                                                                                 
+SEUREAENRT   TKT57 UT           N41142609E069062985                                                                                 
+SEUREAENRT   TKT65 UT           N41153506E069024032                                                                                 
+SEUREAENRT   TKT73 UT           N41163265E069265996                                                                                 
+SEUREAENRT   TKT76 UT           N41142354E069060622                                                                                 
+SEUREAENRT   TKT77 UT           N41164734E069284220                                                                                 
+SEUREAENRT   TKT86 UT           N41152281E069324730                                                                                 
+SEUREAENRT   TKT98 UT           N41130784E069312899                                                                                 
+SEUREAENRT   TOKSO UT           N38251200E0681423100                                                                                
+SEUREAENRT   TRZ02 UT           N37183028E067241887                                                                                 
+SEUREAENRT   TRZ11 UT           N37215491E067312215                                                                                 
+SEUREAENRT   TRZ17 UT           N37214278E067203022                                                                                 
+SEUREAENRT   TRZ18 UT           N37275166E067165886                                                                                 
+SEUREAENRT   TRZ43 UT           N37212351E067185223                                                                                 
+SEUREAENRT   TRZ48 UT           N37242430E067294333                                                                                 
+SEUREAENRT   TUDLI UT           N39183600E0651141100                                                                                
+SEUREAENRT   TUKRI UT           N40021200E0653205100                                                                                
+SEUREAENRT   TULGA UT           N41534700E0701203100                                                                                
+SEUREAENRT   UBAGU UT           N43023000E0625117100                                                                                
+SEUREAENRT   UBENA UT           N40110000E0660159100                                                                                
+SEUREAENRT   URASA UT           N44084800E056000000                                                                                 
+SEUREAENRT   UVASU UT           N40423600E0681305100                                                                                
+SEUREAENRT   VADNA UT           N39034200E0650611100                                                                                
+SEUREAENRT   VAMUK UT           N40340000E068343000                                                                                 
+SEUREAENRT   ZUHRA UT           N40420000E062353000                                                                                 
+SEUREAENRT   ZULAT UT           N39140000E067260000                                                                                 
+SEURDB       AD    UT000422     N40435910E0721759100                                                                                
+SEURDB       AN    UT000422     N40415310E072150000                                                                                 
+SEURDB       BR    UT000795     N39492310E064294200                                                                                 
+SEURDB       U     UT000390     N39451110E0642841100                                                                                
+SEURDB       UH    UT000795     N39434110E064281800                                                                                 
+SEURDB       PD    UT000405     N39450000E067160000                                                                                 
+SEURDB       KA    UT000480     N40165910E067570000                                                                                 
+SEURDB       ZU    UT000625     N40243510E071450000                                                                                 
+SEURDB       GR    UT000592     N38370510E0661417100                                                                                
+SEURDB       GZ    UT000205     N37342310E067294200                                                                                 
+SEURDB       TD    UT000205     N37394710E067322400                                                                                 
+SEURDB       SW    UT000490     N40550000E0694759100                                                                                
+SEURDB       YU    UT000365     N39025910E0653505100                                                                                
+SEURDB       UP    UT000349     N40274710E071024200                                                                                 
+SEURDB       SO    UT000453     N43460000E0590159100                                                                                
+SEURDB       DY    UT000598     N39443510E066241800                                                                                 
+SEURDB       SA    UT000329     N40580510E071371800                                                                                 
+SEURDB       NS    UT000691     N41100000E072100000                                                                                 
+SEURDB       HK    UT000470     N40340000E065420000                                                                                 
+SEURDB       MZ    UT000355     N39422400E066551200                                                                                 
+SEURDB       M     UT000520     N39421000E0665720100                                                                                
+SEURDB       SR    UT000743     N41105910E069120000                                                                                 
+SEURDB       HA    UT000340     N37405910E0670159100                                                                                
+SEURDB       ST    UT001010     N41450000E0643759100                                                                                
+SEURDB       ZW    UT000340     N41150000E0691305100                                                                                
+SEURDB       NG    UT000285     N41150600E069125400                                                                                 
+SEURDB       FD    UT000285     N41155243E069203737                                                                                 
+SEURDB       N     UT000198     N37173510E067201200                                                                                 
+SEURDB       NO    UT000398     N37175910E0672153100                                                                                
+SEURDB       UA    UT000725     N40585910E0692259100                                                                                
+SEURDB       PF    UT000385     N40025910E068570000                                                                                 
+SEURDB       NU    UT000485     N41323510E0604117100                                                                                
+SEURDB       RG    UT000983     N41371110E060360600                                                                                 
+SEURDB       DS    UT000635     N39254110E0671435100                                                                                
+SEURDB       Z     UT000259     N41150990E069145260                                                                                 
+SEURDB       F     UT000588     N41154120E069183690                                                                                 
+SEURD        TMD   UT011400V    N41450000E0643759100                                                                                
+SEURD        TKT   UT011320V    N41153510E069172400                                                                                 
+SEURD        URG   UT011420V    N41345910E0603859100                                                                                
+SEURD        TMD   UT011400 D   N41450000E0643759100                                                                                
+SEURD        TKT   UT011320 D   N41153510E069172400                                                                                 
+SEURD        URG   UT011420 D   N41345910E0603859100                                                                                
+SEURD        UTV   UT011440 D   N38494552E065544802                                                                                 
+SEURER       B363        0010BABIRUTEA      O                                      06900     49500                                  
+SEURER       B363        0020ROGAVUTEA      O                             0590     06900     49500                                  
+SEURER       A480        0010BABIRUTEA      O                                      06900     49500                                  
+SEURER       A480        0020URG  UTD       O                             0902     06900     49500                                  
+SEURER       A480        0030OTBORUTEA      O                             0214     06900     49500                                  
+SEURER       B143B       0060DARVAUTEA      O                             0618     03900     43000                                  
+SEURER       B106        0010BIBONUTEA      O                                      17700     49500                                  
+SEURER       B106        0020DS   UTD       O                             0275     17700     49500                                  
+SEURER       B116        0010BIGSOUTEA      O                                      13800     49500                                  
+SEURER       B116        0020DS   UTD       O                             0608     13800     49500                                  
+SEURER       B116        0030IRBINUTEA      O                             0161     11800     49500                                  
+SEURER       B116        0040GR   UTD       O                             0515     11800     49500                                  
+SEURER       B713        0010BIGSOUTEA      O                                      09800     49500                                  
+SEURER       B713        0020DY   UTD       O                             0781     09800     49500                                  
+SEURER       B713        0030KASANUTEA      O                             0564     16700     43000                                  
+SEURER       B713        0040DERKIUTEA      O                             0383     16700     39700                                  
+SEURER       B713        0050GIPUN  EA      O                             0268     16700     39700                                  
+SEURER       A117        0010BIGSOUTEA      O                                      06900     49500                                  
+SEURER       A117        0020NETATUTEA      O                             0287     06900     49500                                  
+SEURER       W75         0010BIGSOUTEA      O                                      09800     49500                                  
+SEURER       W75         0020PF   UTD       O                             0480     09800     49500                                  
+SEURER       W75         0030UTDL   EA      O                             0357     09800     49500                                  
+SEURER       W75         0050UP   UTD       O                             0294     07900     49500                                  
+SEURER       W75         0060SA   UTD       O                             0401     08900     49500                                  
+SEURER       W75         0070NS   UTD       O                             0274     08900     49500                                  
+SEURER       B351        0060NS   UTD       O                             0789     17700     39700                                  
+SEURER       G134        0010OGODAUTEA      O                                      07900     39700                                  
+SEURER       G134        0020OSH  UCEA      O                             0075     07900     39700                                  
+SEURER       A477        0030TISIBUTEA      O                             0338     17700     49500                                  
+SEURER       A477        0040SW   UTD       O                             0269     11800     49500                                  
+SEURER       A477        0050CV   UAD       O                             0511     11800     49500                                  
+SEURER       A477        0070UVASUUTEA      O                             0162     09800     49500                                  
+SEURER       A477        0080RAVENUTEA      O                             0519     10800     49500                                  
+SEURER       A477        0090DAKLIUTEA      O                             0392     10800     49500                                  
+SEURER       A477        0100UBENAUTEA      O                             0136     10800     49500                                  
+SEURER       A477        0110TUKRIUTEA      O                             0245     10800     49500                                  
+SEURER       A477        0120UTSB UTEA      O                             0509     06900     49500                                  
+SEURER       A477        0130POGONUTEA      O                             0801     06900     49500                                  
+SEURER       B370        0010BUGEBUTEA      O                                      06900     39700                                  
+SEURER       B370        0020MOMULUTEA      O                             0224     06900     39700                                  
+SEURER       B370        0030TMD  UTD       O                             0964     06900     49500                                  
+SEURER       W681        0050CHARDUTEA      O                             0141     03900     43000                                  
+SEURER       G500        0040BUTRAUTEA      O                             0702     14800     49500                                  
+SEURER       G500        0050DS   UTD       O                             0121     14800     49500                                  
+SEURER       W681-       0010CHARDUTEA      O                                      06900     49500                                  
+SEURER       W681-       0020UTSB UTEA      O                             0436     06900     49500                                  
+SEURER       V878        0020PF   UTD       OL                            0476     07900     49500                                  
+SEURER       V878        0030ZENAL  EA      OL                            0415     19700     39700                                  
+SEURER       A66         0010DAKLIUTEA      O                                      09800     49500                                  
+SEURER       A66         0020MAMALUTEA      O                             0696     09800     49500                                  
+SEURER       A66         0030TMD  UTD       O                             0488     09800     49500                                  
+SEURER       A66         0040TAHIRUTEA      O                             0460     14700     49500                                  
+SEURER       A66         0050ODIVAUTEA      O                             0089     14800     49500                                  
+SEURER       A66         0060NITNAUTEA      O                             0601     14800     49500                                  
+SEURER       A66         0070DIDOPUTEA      O                             0100     14800     49500                                  
+SEURER       A66         0080TIPENUAEA      O                             0173     03900     39700                                  
+SEURER       A114        0020RASIDUTEA      O                             0768     21700     39700                                  
+SEURER       A114        0030TRZ  OAD       O                             0609     15700     49500                                  
+SEURER       G249        0010DERKIUTEA      O                                      15700     49500                                  
+SEURER       G249        0020GR   UTD       O                             0534     15700     49500                                  
+SEURER       G668        0020DERKIUTEA      O                             0696     15700     49500                                  
+SEURER       G668        0030UTSB UTEA      O                             0801     15700     49500                                  
+SEURER       G668        0040MOROVUTEA      O                             0906     06900     49500                                  
+SEURER       G668        0050TMD  UTD       O                             0282     06900     49500                                  
+SEURER       A121-       0020OGRIPUTEA      O                             0429     05900     39700                                  
+SEURER       W82B        0010DS   UTD       O                                      10800     33100                                  
+SEURER       W82B        0020GR   UTD       O                             0675     10800     33100                                  
+SEURER       G555        0040GETLIUTEA      O                             0147     18700     39700                                  
+SEURER       G555        0050ZULATUTEA      O                             0471     17700     49500                                  
+SEURER       G555        0060DS   UTD       O                             0147     17700     49500                                  
+SEURER       B275        0010DY   UTD       O                                      13800     49500                                  
+SEURER       B275        0020NEPANUTEA      O                             0618     13800     49500                                  
+SEURER       B275        0030REBNAUTEA      O                             0102     13800     49500                                  
+SEURER       B275        0040TRZ  OAD       O                             0816     13800     49500                                  
+SEURER       G248        0020SW   UTD       O                             0389     11800     49500                                  
+SEURER       P206        0020TULGAUTEA      O                             0383     17700     49500                                  
+SEURER       B163        0010GILATUTEA      O                                      03900     39700                                  
+SEURER       B163        0020TONLAUAEA      O                             1016     03900     39700                                  
+SEURER       W17B        0030POGONUTEA      O                             0604     16700     43000                                  
+SEURER       W17B        0040MEGIL  EA      O                             0503     16700     43000                                  
+SEURER       W17B        0060URG  UTD       O                             0313     06900     49500                                  
+SEURER       W82         0010GR   UTD       O                                      17700     49500                                  
+SEURER       W82         0020REBNAUTEA      O                             0280     17700     49500                                  
+SEURER       W82         0030OKDORUTEA      O                             0185     17700     49500                                  
+SEURER       W82         0040ROBRAUTEA      O                             0135     17700     49500                                  
+SEURER       W82         0050GURUDUTEA      O                             0093     17700     49500                                  
+SEURER       W82         0060PR     D       O                             0323     17700     49500                                  
+SEURER       G225        0010HK   UTD       O                                      10800     49500                                  
+SEURER       G225        0020NABATUTEA      O                             0423     10800     49500                                  
+SEURER       G225        0030OGRIPUTEA      O                             0681     10800     49500                                  
+SEURER       A107        0010KASANUTEA      O                                      06900     49500                                  
+SEURER       A107        0020TUDLIUTEA      O                             0239     06900     49500                                  
+SEURER       A107        0030UTSB UTEA      O                             0432     06900     49500                                  
+SEURER       A107        0040ZUHRAUTEA      O                             1030     06900     49500                                  
+SEURER       A107        0050URG  UTD       O                             1026     06900     49500                                  
+SEURER       A107        0060UTNN UTEA      O                             0711     06900     49500                                  
+SEURER       A107        0070TARAMUTEA      O                             1516     06900     49500                                  
+SEURER       A107        0080URASAUTEA      O                             0355     06900     49500                                  
+SEURER       A248        0020UA   UTD       O                             0606     12800     49500                                  
+SEURER       B440        0010KUNASUTEA      O                                      06900     49500                                  
+SEURER       B440        0020TABUN  EA      O                             1027     06900     49500                                  
+SEURER       B363-       0010KUNASUTEA      O                                      06900     33100                                  
+SEURER       B363-       0020UTNN UTEA      O                             1645     06900     33100                                  
+SEURER       P122        0010KURABUTEA      O                                      03000     39700                                  
+SEURER       P122        0020LATNUUAEA      O                             0350     03000     39700                                  
+SEURER       B711        0030UTNN UTEA      O                             0126     15700     49500                                  
+SEURER       B712        0030SOVODUTEA      O                             0133     03900     43000                                  
+SEURER       B62         0020SW   UTD       O                             0294     15700     49500                                  
+SEURER       A352-       0010NS   UTD       O                                      06900     39700                                  
+SEURER       A352-       0020OSH  UCEA      O                             0412     06900     39700                                  
+SEURER       A127        0010OGRIPUTEA      O                                      10800     49500                                  
+SEURER       A127        0020TADENUTEA      O                             0573     10800     49500                                  
+SEURER       A127        0030UTSB UTEA      O                             1211     10800     49500                                  
+SEURER       A103        0010PF   UTD       O                                      16700     33100                                  
+SEURER       A103        0020TKT  UTD       O                             0743     16700     33100                                  
+SEURER       A107-       0020ROBRAUTEA      O                             0417     18700     39700                                  
+SEURER       B370-       0010REDKAUTEA      O                                      05900     33100                                  
+SEURER       B370-       0020TMD  UTD       O                             0336     05900     33100                                  
+SEURER       B434-       0010SO   UTD       O                                      05900     09800                                  
+SEURER       B434-       0020UTNN UTEA      O                             0810     05900     09800                                  
+SEURER       B351-       0060NS   UTD       O                             0789     17700     39700                                  
+SEURER       B824        0010BOLNAUTEA      O                                      19700     39700                                  
+SEURER       B824        0020RIMDOUTEA      O                             0230     19700     39700                                  
+SEURER       B824        0030ODIVAUTEA      O                             0575     19700     39700                                  
+SEURER       UB358       0040NS   UTD       O                             0834     24600     39700                                  
+SEURER       G91         0020PF   UTD       O                             0543     21700     49500                                  
+SEURER       A352-       0010NS   UTD       O                                      06900     39700                                  
+SEURER       A352-       0020OSH  UCEA      O                             0412     06900     39700                                  
+SEURER       G134-       0010OGODAUTEA      O                                      07900     39700                                  
+SEURER       G134-       0020OSH  UCEA      O                             0075     07900     39700                                  

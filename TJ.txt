@@ -1,0 +1,82 @@
+SMESEAENRT   DARMA              N39290000E0680759100                                                                                
+SASIEAENRT   GIKOD              N40524800E070204200                                                                                 
+SASIEAENRT   IVNAR              N39150000E070280000                                                                                 
+SASIEAENRT   KEGIB              N40210000E070251200                                                                                 
+SMESEAENRT   KURUT              N37501710E0684659100                                                                                
+SASIEAENRT   MADON              N40405910E0702205100                                                                                
+SMESEAENRT   MIRZO              N39315910E069550000                                                                                 
+SMESEAENRT   OKTAB              N38105400E0685335100                                                                                
+SMESEAENRT   PINAX              N37150000E0690559100                                                                                
+SASIEAENRT   PRONA              N39305910E0705247100                                                                                
+SMESEAENRT   RAMAN              N37370000E069540000                                                                                 
+SASIEAENRT   TOPAZ              N38345910E0713759100                                                                                
+SMESEAENRT   TUVAN              N38203000E068511800                                                                                 
+SMESEAENRT   VEVAN              N38382400E0684911100                                                                                
+SMESEAENRT   ZENAL              N39221110E069070000                                                                                 
+SMESEAENRT   ZUREN              N39195910E0685259100                                                                                
+SMESDB       FC      000955     N40235910E0691659100                                                                                
+SMESDB       HU      001000     N38045910E0691959100                                                                                
+SMESDB       FN      000372     N38323510E0684517100                                                                                
+SMESDB       WG      000420     N38323510E068530600                                                                                 
+SMESDB       JD      000475     N38323510E0691847100                                                                                
+SMESDB       HV      000655     N40131800E0694529100                                                                                
+SMESDB       HD      000655     N40122910E069381200                                                                                 
+SMESDB       CG      000298     N37563000E069472400                                                                                 
+SMESDB       PR      000310     N38315910E068240600                                                                                 
+SMESDB       SX      000505     N38503510E068502400                                                                                 
+SMESD        DNB     011360V    N38323000E068484200                                                                                 
+SMESD        DNB     011360 D   N38323000E068484200                                                                                 
+SMESER       B156        0010PINAX  EA      O                                      19700     39700                                  
+SMESER       B156        0020OKTAB  EA      O                             0568     11800     39700                                  
+SMESER       B156        0030DNB    D       O                             0220     14700     33100                                  
+SMESER       B156        0040JD     D       O                             0236     14700     33100                                  
+SMESER       W75         0030UTDL   EA      O                             0357     09800     49500                                  
+SASIER       W75         0040KEGIB  EA      O                             0341     07900     49500                                  
+SASIER       W75         0050UP   UTD       O                             0294     07900     49500                                  
+SASIER       B350        0030PRONA  EA      O                             0714     21700     39700                                  
+SASIER       G500        0010TOPAZ  EA      O                                      29800     43000                                  
+SMESER       G500        0020JD     D       O                             1089     29800     43000                                  
+SMESER       G500        0030SX     D       O                             0286     21600     49500                                  
+SMESER       G500        0040BUTRAUTEA      O                             0702     14800     49500                                  
+SMESER       V848        0020PINAX  EA      OL                            0304     21100     29500                                  
+SMESER       W72         0020FC     D       O                             0371     07900     49500                                  
+SMESER       W72         0030UTDL   EA      O                             0219     08900     49500                                  
+SMESER       V878        0030ZENAL  EA      OL                            0415     19700     39700                                  
+SMESER       V878        0040JD     D       OL                            0505     11800     39700                                  
+SMESER       V878        0050UTDK   EA      OL                            0406     11800     39700                                  
+SMESER       V878        0060RAMAN  EA      OL                            0228     11800     39700                                  
+SMESER       A114        0010DARMA  EA      O                                      21700     39700                                  
+SMESER       A114        0020RASIDUTEA      O                             0768     21700     39700                                  
+SMESER       A107-       0010DNB    D       O                                      11800     23600                                  
+SMESER       A107-       0020HU     D       O                             0369     11800     23600                                  
+SMESER       A107-       0030UTDK   EA      O                             0231     11800     23600                                  
+SMESER       A107-       0010DNB    D       O                                      11800     39700                                  
+SMESER       A107-       0020PR     D       O                             0193     11800     39700                                  
+SMESER       A237        0030MIRZO  EA      O                             1096     21700     49500                                  
+SMESER       G555        0010PINAX  EA      O                                      11800     39700                                  
+SMESER       G555        0020KURUT  EA      O                             0384     11800     39700                                  
+SMESER       G555        0030PR     D       O                             0454     11800     39700                                  
+SMESER       G555        0040GETLIUTEA      O                             0147     18700     39700                                  
+SASIER       V876        0030IVNAR  EA      OL                            0516     28200     39700                                  
+SMESER       G248        0010FC     D       O                                      11800     49500                                  
+SMESER       G248        0020SW   UTD       O                             0389     11800     49500                                  
+SMESER       W82         0060PR     D       O                             0323     17700     49500                                  
+SASIER       A248        0010KEGIB  EA      O                                      12800     49500                                  
+SMESER       A248        0020UA   UTD       O                             0606     12800     49500                                  
+SASIER       B62         0010MADON  EA      O                                      15700     49500                                  
+SMESER       B62         0020SW   UTD       O                             0294     15700     49500                                  
+SMESER       A107-       0010PR     D       O                                      18700     39700                                  
+SMESER       A107-       0020ROBRAUTEA      O                             0417     18700     39700                                  
+SMESER       G3B         0010PR     D       O                                      17700     39700                                  
+SMESER       G3B         0020SX     D       O                             0277     17700     39700                                  
+SASIER       B350-       0070PRONA  EA      O                             0714     21700     39700                                  
+SMESER       A238        0010MIRZO  EA      O                                      20700     39700                                  
+SMESER       A238        0020CV   UAD       O                             0956     20700     39700                                  
+SASIER       G500-       0020TOPAZ  EA      O                             1151     29800     43000                                  
+SMESER       G3V-U       0010JD     D       O                                      24600     39700                                  
+SMESER       G3V-U       0020PINAX  EA      O                             0783     24600     39700                                  
+SMESER       G3B-G       0010PINAX  EA      O                                      19700     39700                                  
+SMESER       G3B-G       0020KURUT  EA      O                             0384     19700     39700                                  
+SMESER       G3B-G       0030PR     D       O                             0454     19700     39700                                  
+SMESER       G91         0010MIRZO  EA      O                                      21700     49500                                  
+SMESER       G91         0020PF   UTD       O                             0543     21700     49500                                  

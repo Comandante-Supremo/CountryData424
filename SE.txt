@@ -1,0 +1,809 @@
+SEUREAENRT   ABALA ES           N66392950E023000000                                                                                 
+SEUREAENRT   ABAMA ES           N57591190E015341060                                                                                 
+SEUREAENRT   ABAXI ES           N66470510E0155232100                                                                                
+SEUREAENRT   ABENI ES           N59141630E017051960                                                                                 
+SEUREAENRT   ACBAR ES           N64000901E019512000                                                                                 
+SEUREAENRT   AKIBA ES           N59125110E0114718100                                                                                
+SEUREAENRT   ARS13 ES           N59272018E016592274                                                                                 
+SEUREAENRT   ARS22 ES           N59285110E017212767                                                                                 
+SEUREAENRT   ARS41 ES           N59101694E017424144                                                                                 
+SEUREAENRT   ASKEB ES           N66242230E023165760                                                                                 
+SEUREAENRT   ASTOS ES           N56071370E012574050                                                                                 
+SEUREAENRT   BABSI ES           N55554710E013115800                                                                                 
+SEUREAENRT   BAKIL ES           N62581910E017561240                                                                                 
+SEUREAENRT   BALVI ES           N59444410E017352500                                                                                 
+SEUREAENRT   BEDLA ES           N59374420E016133010                                                                                 
+SEUREAENRT   BEDOS ES           N57213530E015075030                                                                                 
+SEUREAENRT   BENGI ES           N57491999E0144821100                                                                                
+SEUREAENRT   BESLA ES           N65512710E022183690                                                                                 
+SEUREAENRT   BESLO ES           N64033010E013360200                                                                                 
+SEUREAENRT   CH361 ES           N55444400E0125115100                                                                                
+SEUREAENRT   CH362 ES           N55405410E0125900100                                                                                
+SEUREAENRT   CH383 ES           N55254500E0130235100                                                                                
+SEUREAENRT   CH389 ES           N55475910E0125210100                                                                                
+SEUREAENRT   CH390 ES           N55511900E012530800                                                                                 
+SEUREAENRT   CH392 ES           N55514600E0130213100                                                                                
+SEUREAENRT   CH552 ES           N55223054E012571878                                                                                 
+SEUREAENRT   CH881 ES           N55480472E012563213                                                                                 
+SEUREAENRT   CH882 ES           N55504646E012480837                                                                                 
+SEUREAENRT   CH991 ES           N55432985E013010832                                                                                 
+SEUREAENRT   CINDY ES           N57384200E0124821100                                                                                
+SEUREAENRT   DEGAV ES           N57434100E012202480                                                                                 
+SEUREAENRT   DEMOR ES           N59574050E015144350                                                                                 
+SEUREAENRT   DEPEX ES           N59113010E015012090                                                                                 
+SEUREAENRT   DERAX ES           N56404150E015230170                                                                                 
+SEUREAENRT   DESAS ES           N55364700E013093800                                                                                 
+SEUREAENRT   DETMO ES           N62134710E016582740                                                                                 
+SEUREAENRT   DETSO ES           N58360000E014155170                                                                                 
+SEUREAENRT   DEVNI ES           N57130000E013553600                                                                                 
+SEUREAENRT   DIGLI ES           N59065790E017182220                                                                                 
+SEUREAENRT   ELPAX ES           N58054370E015162410                                                                                 
+SEUREAENRT   ELTOK ES           N59492710E017000000                                                                                 
+SEUREAENRT   ELVIX ES           N55244270E014053920                                                                                 
+SEUREAENRT   GALNU ES           N58591559E017294257                                                                                 
+SEUREAENRT   GAMVI ES           N56343000E013335800                                                                                 
+SEUREAENRT   GELMA ES           N57022260E014121320                                                                                 
+SEUREAENRT   GIKAV ES           N64020300E013473800                                                                                 
+SEUREAENRT   GORAX ES           N55482110E013022600                                                                                 
+SEUREAENRT   INTAR ES           N55230410E013002300                                                                                 
+SEUREAENRT   KELIN ES           N58143690E012031500                                                                                 
+SEUREAENRT   KEMAX ES           N56073520E013271380                                                                                 
+SEUREAENRT   KESUN ES           N67350010E023323800                                                                                 
+SEUREAENRT   KOGAV ES           N60045110E017134660                                                                                 
+SEUREAENRT   LABAN ES           N58100980E013173950                                                                                 
+SEUREAENRT   LAGIS ES           N56331780E015561320                                                                                 
+SEUREAENRT   LALIL ES           N57462450E012103790                                                                                 
+SEUREAENRT   LAMOX ES           N55451259E012520217                                                                                 
+SEUREAENRT   LAPSI ES           N58551390E014181970                                                                                 
+SEUREAENRT   LEBNI ES           N59264910E0114535100                                                                                
+SEUREAENRT   LF038 ES           N56152733E015155325                                                                                 
+SEUREAENRT   LIDNA ES           N66195110E0152738100                                                                                
+SEUREAENRT   LINSA ES           N59432830E017244210                                                                                 
+SEUREAENRT   LP016 ES           N56360735E015220988                                                                                 
+SEUREAENRT   LP032 ES           N56171370E015161513                                                                                 
+SEUREAENRT   LP038 ES           N56163828E015160606                                                                                 
+SEUREAENRT   LUMAX ES           N60190384E018003079                                                                                 
+SEUREAENRT   MADDE ES           N56350540E015530410                                                                                 
+SEUREAENRT   MAXUM ES           N55394050E013361440                                                                                 
+SEUREAENRT   MEGEN ES           N60010510E014243080                                                                                 
+SEUREAENRT   MIKNA ES           N57542530E015551910                                                                                 
+SEUREAENRT   MISMA ES           N56382850E013121010                                                                                 
+SEUREAENRT   MOGLU ES           N59073000E011460900                                                                                 
+SEUREAENRT   MOKNI ES           N57384670E015040500                                                                                 
+SEUREAENRT   MOSUL ES           N64570900E0134936100                                                                                
+SEUREAENRT   MOXAM ES           N58315290E013185010                                                                                 
+SEUREAENRT   NARIT ES           N59504420E016442060                                                                                 
+SEUREAENRT   NB005 ES           N59265955E017405520                                                                                 
+SEUREAENRT   NB122 ES           N59212743E017554669                                                                                 
+SEUREAENRT   NEBUR ES           N65332800E0143029100                                                                                
+SEUREAENRT   NEGAS ES           N58021599E0145334100                                                                                
+SEUREAENRT   NEGIL ES           N58150480E012373120                                                                                 
+SEUREAENRT   NESLI ES           N57130970E016205010                                                                                 
+SEUREAENRT   NEXIL ES           N56202090E013435920                                                                                 
+SEUREAENRT   NILEN ES           N56434430E013191860                                                                                 
+SEUREAENRT   NOGBO ES           N64274500E014065000                                                                                 
+SEUREAENRT   NOSLI ES           N59042200E017152920                                                                                 
+SEUREAENRT   OBIVO ES           N61432600E012081600                                                                                 
+SEUREAENRT   OGLAV ES           N68495900E021102200                                                                                 
+SEUREAENRT   OGRIN ES           N67435750E019180920                                                                                 
+SEUREAENRT   OSLAV ES           N62433490E015105990                                                                                 
+SEUREAENRT   OSLOB ES           N59053910E011492260                                                                                 
+SEUREAENRT   OTGIL ES           N58080630E011414250                                                                                 
+SEUREAENRT   OU302 ES           N59210371E017571706                                                                                 
+SEUREAENRT   PELIT ES           N59120150E015411610                                                                                 
+SEUREAENRT   PELOX ES           N57041610E0132804100                                                                                
+SEUREAENRT   PELUP ES           N58164380E016284050                                                                                 
+SEUREAENRT   PENAX ES           N66380910E0154033100                                                                                
+SEUREAENRT   PEPIL ES           N59465430E014334990                                                                                 
+SEUREAENRT   PERAX ES           N60043310E016225300                                                                                 
+SEUREAENRT   PERRY ES           N55463640E013574620                                                                                 
+SEUREAENRT   PETAS ES           N57194610E012010970                                                                                 
+SEUREAENRT   R2272 ES           N56163945E015160563                                                                                 
+SEUREAENRT   R2273 ES           N59213121E017554671                                                                                 
+SEUREAENRT   R2970 ES           N56152495E015154517                                                                                 
+SEUREAENRT   RANAV ES           N57110850E012200350                                                                                 
+SEUREAENRT   RASEN ES           N63484250E019055120                                                                                 
+SEUREAENRT   RASMU ES           N56453020E013485500                                                                                 
+SEUREAENRT   REGMA ES           N59063200E0112057100                                                                                
+SEUREAENRT   REKMI ES           N65105870E019282120                                                                                 
+SEUREAENRT   REKMO ES           N55592110E0124723100                                                                                
+SEUREAENRT   REPRO ES           N55230391E013061769                                                                                 
+SEUREAENRT   RESNA ES           N60220010E018012940                                                                                 
+SEUREAENRT   RIGNA ES           N62082000E0121542100                                                                                
+SEUREAENRT   RISEM ES           N65130860E021143160                                                                                 
+SEUREAENRT   RIXAN ES           N66443000E019565780                                                                                 
+SEUREAENRT   RIXEM ES           N68472900E0201927100                                                                                
+SEUREAENRT   ROKNI ES           N59350390E016445520                                                                                 
+SEUREAENRT   ROXEN ES           N56335230E0140159100                                                                                
+SEUREAENRT   RYG12 ES           N59145228E011223913                                                                                 
+SEUREAENRT   RYG91 ES           N59223937E011255396                                                                                 
+SEUREAENRT   SA401 ES           N59440558E017565499                                                                                 
+SEUREAENRT   SA402 ES           N59451020E018085818                                                                                 
+SEUREAENRT   SA403 ES           N59505428E017574351                                                                                 
+SEUREAENRT   SA404 ES           N59401182E017575957                                                                                 
+SEUREAENRT   SA405 ES           N59421670E018093184                                                                                 
+SEUREAENRT   SA406 ES           N59432696E018250129                                                                                 
+SEUREAENRT   SA407 ES           N59455736E018000649                                                                                 
+SEUREAENRT   SA408 ES           N59480258E018005268                                                                                 
+SEUREAENRT   SA409 ES           N60014090E018055699                                                                                 
+SEUREAENRT   SA410 ES           N59412230E018265837                                                                                 
+SEUREAENRT   SA411 ES           N59405382E018254398                                                                                 
+SEUREAENRT   SA412 ES           N59401378E018015239                                                                                 
+SEUREAENRT   SA413 ES           N59431288E018040244                                                                                 
+SEUREAENRT   SA414 ES           N59422359E017554167                                                                                 
+SEUREAENRT   SA415 ES           N59460290E018021376                                                                                 
+SEUREAENRT   SA416 ES           N59424337E018244044                                                                                 
+SEUREAENRT   SA417 ES           N60013982E018054916                                                                                 
+SEUREAENRT   SA418 ES           N59400638E018005395                                                                                 
+SEUREAENRT   SA419 ES           N59452565E017595207                                                                                 
+SEUREAENRT   SA420 ES           N59502548E017551917                                                                                 
+SEUREAENRT   SA421 ES           N59402696E017553567                                                                                 
+SEUREAENRT   SA422 ES           N59450651E018260277                                                                                 
+SEUREAENRT   SA451 ES           N59485331E018182451                                                                                 
+SEUREAENRT   SA452 ES           N59480890E017582360                                                                                 
+SEUREAENRT   SA453 ES           N59503150E017591570                                                                                 
+SEUREAENRT   SA454 ES           N59533051E018002130                                                                                 
+SEUREAENRT   SA455 ES           N59580910E018045650                                                                                 
+SEUREAENRT   SA456 ES           N60051990E018120270                                                                                 
+SEUREAENRT   SA457 ES           N59534051E018122110                                                                                 
+SEUREAENRT   SA458 ES           N59453680E018132450                                                                                 
+SEUREAENRT   SA459 ES           N59414470E018135470                                                                                 
+SEUREAENRT   SA461 ES           N59415001E018143730                                                                                 
+SEUREAENRT   SA462 ES           N59422240E018185740                                                                                 
+SEUREAENRT   SA465 ES           N59471539E018184980                                                                                 
+SEUREAENRT   SA466 ES           N59520050E018193430                                                                                 
+SEUREAENRT   SA467 ES           N59585920E018204010                                                                                 
+SEUREAENRT   SA468 ES           N60075721E018220530                                                                                 
+SEUREAENRT   SA469 ES           N59470770E018093330                                                                                 
+SEUREAENRT   SA471 ES           N59440960E018245380                                                                                 
+SEUREAENRT   SA472 ES           N59480010E018203420                                                                                 
+SEUREAENRT   SA473 ES           N59500660E017590660                                                                                 
+SEUREAENRT   SA474 ES           N59532440E017564950                                                                                 
+SEUREAENRT   SA475 ES           N59534310E018002590                                                                                 
+SEUREAENRT   SA476 ES           N59524690E018033480                                                                                 
+SEUREAENRT   SA477 ES           N59514840E018080970                                                                                 
+SEUREAENRT   SA478 ES           N59503770E018134280                                                                                 
+SEUREAENRT   SA479 ES           N59422710E018152180                                                                                 
+SEUREAENRT   SA480 ES           N59501520E018152810                                                                                 
+SEUREAENRT   SA483 ES           N59590460E018054450                                                                                 
+SEUREAENRT   SA484 ES           N60085340E018153310                                                                                 
+SEUREAENRT   SA485 ES           N60150780E018215070                                                                                 
+SEUREAENRT   SA486 ES           N59421870E018182730                                                                                 
+SEUREAENRT   SA488 ES           N59502270E018243790                                                                                 
+SEUREAENRT   SA489 ES           N60012080E018240980                                                                                 
+SEUREAENRT   SA490 ES           N59480740E018151370                                                                                 
+SEUREAENRT   SA491 ES           N59483410E017532820                                                                                 
+SEUREAENRT   SA492 ES           N59424720E018221730                                                                                 
+SEUREAENRT   SA495 ES           N59411440E018254550                                                                                 
+SEUREAENRT   SA496 ES           N60091940E018234910                                                                                 
+SEUREAENRT   SA499 ES           N59403590E018152190                                                                                 
+SEUREAENRT   SA550 ES           N59370204E018043347                                                                                 
+SEUREAENRT   SA551 ES           N59365935E017565174                                                                                 
+SEUREAENRT   SA552 ES           N59373078E018091360                                                                                 
+SEUREAENRT   SA557 ES           N59355502E017583158                                                                                 
+SEUREAENRT   SA558 ES           N59380190E017572022                                                                                 
+SEUREAENRT   SA559 ES           N59344699E017552984                                                                                 
+SEUREAENRT   SA561 ES           N59334768E018004591                                                                                 
+SEUREAENRT   SA562 ES           N59300890E017593203                                                                                 
+SEUREAENRT   SA563 ES           N59290284E017590978                                                                                 
+SEUREAENRT   SA564 ES           N59342710E017551799                                                                                 
+SEUREAENRT   SA566 ES           N59290000E017593900                                                                                 
+SEUREAENRT   SA567 ES           N59281200E017592800                                                                                 
+SEUREAENRT   SA602 ES           N59372479E018141220                                                                                 
+SEUREAENRT   SA604 ES           N59303330E018080930                                                                                 
+SEUREAENRT   SA605 ES           N59272520E017584670                                                                                 
+SEUREAENRT   SA606 ES           N59383820E018223460                                                                                 
+SEUREAENRT   SA607 ES           N59345270E018164650                                                                                 
+SEUREAENRT   SA608 ES           N59271180E018114240                                                                                 
+SEUREAENRT   SA614 ES           N59303410E018121380                                                                                 
+SEUREAENRT   SA620 ES           N59264250E018114280                                                                                 
+SEUREAENRT   SA621 ES           N59200480E018030010                                                                                 
+SEUREAENRT   SA700 ES           N59381271E017273702                                                                                 
+SEUREAENRT   SA701 ES           N59374812E017250517                                                                                 
+SEUREAENRT   SA702 ES           N59332548E017350307                                                                                 
+SEUREAENRT   SA703 ES           N59300843E017465651                                                                                 
+SEUREAENRT   SA704 ES           N59373049E017240995                                                                                 
+SEUREAENRT   SA705 ES           N59372523E017542989                                                                                 
+SEUREAENRT   SA706 ES           N59340157E017442160                                                                                 
+SEUREAENRT   SA707 ES           N59352940E017495920                                                                                 
+SEUREAENRT   SA708 ES           N59163759E017271313                                                                                 
+SEUREAENRT   SA709 ES           N59323617E017472879                                                                                 
+SEUREAENRT   SA710 ES           N59350905E017394384                                                                                 
+SEUREAENRT   SA712 ES           N59285808E017281222                                                                                 
+SEUREAENRT   SA713 ES           N59230720E017362021                                                                                 
+SEUREAENRT   SA714 ES           N59150952E017272586                                                                                 
+SEUREAENRT   SA715 ES           N59374184E017241140                                                                                 
+SEUREAENRT   SA716 ES           N59330228E017511871                                                                                 
+SEUREAENRT   SA717 ES           N59301410E017441937                                                                                 
+SEUREAENRT   SA718 ES           N59151035E017272574                                                                                 
+SEUREAENRT   SA719 ES           N59193026E017253632                                                                                 
+SEUREAENRT   SA721 ES           N59302944E017440245                                                                                 
+SEUREAENRT   SA722 ES           N59340504E017402901                                                                                 
+SEUREAENRT   SA723 ES           N59365200E017330100                                                                                 
+SEUREAENRT   SA724 ES           N59312200E017334800                                                                                 
+SEUREAENRT   SA726 ES           N59282510E017281300                                                                                 
+SEUREAENRT   SA727 ES           N59301301E0174059100                                                                                
+SEUREAENRT   SA728 ES           N59242801E017354700                                                                                 
+SEUREAENRT   SA729 ES           N59155810E017271900                                                                                 
+SEUREAENRT   SA801 ES           N59300150E017515030                                                                                 
+SEUREAENRT   SA802 ES           N59280780E017510960                                                                                 
+SEUREAENRT   SA803 ES           N59251080E017431660                                                                                 
+SEUREAENRT   SA804 ES           N59202190E017424920                                                                                 
+SEUREAENRT   SA805 ES           N59122121E017420380                                                                                 
+SEUREAENRT   SA806 ES           N59085800E017414470                                                                                 
+SEUREAENRT   SA807 ES           N59010800E017343360                                                                                 
+SEUREAENRT   SA808 ES           N59275230E017335160                                                                                 
+SEUREAENRT   SA809 ES           N58595170E017365070                                                                                 
+SEUREAENRT   SA810 ES           N59361490E017190430                                                                                 
+SEUREAENRT   SA811 ES           N59193540E017480710                                                                                 
+SEUREAENRT   SA812 ES           N59084760E017441860                                                                                 
+SEUREAENRT   SA813 ES           N59025580E017421550                                                                                 
+SEUREAENRT   SA814 ES           N59012720E017393350                                                                                 
+SEUREAENRT   SA815 ES           N59321650E017245520                                                                                 
+SEUREAENRT   SA816 ES           N59280070E017425480                                                                                 
+SEUREAENRT   SA850 ES           N59411659E017464477                                                                                 
+SEUREAENRT   SA851 ES           N59400373E017390755                                                                                 
+SEUREAENRT   SA852 ES           N59411370E017425297                                                                                 
+SEUREAENRT   SA853 ES           N59461597E017392904                                                                                 
+SEUREAENRT   SA854 ES           N59414720E017144130                                                                                 
+SEUREAENRT   SA855 ES           N59484584E017423575                                                                                 
+SEUREAENRT   SA857 ES           N59413799E017513781                                                                                 
+SEUREAENRT   SA858 ES           N59473502E017410689                                                                                 
+SEUREAENRT   SA859 ES           N59423982E017160708                                                                                 
+SEUREAENRT   SA860 ES           N59484584E017503948                                                                                 
+SEUREAENRT   SA861 ES           N59393070E017391350                                                                                 
+SEUREAENRT   SA862 ES           N59462194E017543109                                                                                 
+SEUREAENRT   SA863 ES           N59412901E017464200                                                                                 
+SEUREAENRT   SA901 ES           N59424720E017080420                                                                                 
+SEUREAENRT   SA902 ES           N59534440E017432170                                                                                 
+SEUREAENRT   SA903 ES           N59550040E017370250                                                                                 
+SEUREAENRT   SA904 ES           N59534331E017281090                                                                                 
+SEUREAENRT   SA905 ES           N59502130E017052019                                                                                 
+SEUREAENRT   SA906 ES           N59465310E017534290                                                                                 
+SEUREAENRT   SA907 ES           N59463500E017362700                                                                                 
+SEUREAENRT   SA908 ES           N59523330E017435190                                                                                 
+SEUREAENRT   SA909 ES           N59510520E017221470                                                                                 
+SEUREAENRT   SA910 ES           N59495880E017063260                                                                                 
+SEUREAENRT   SA911 ES           N59485280E017373840                                                                                 
+SEUREAENRT   SA912 ES           N59423800E017093650                                                                                 
+SEUREAENRT   SABAK ES           N58103560E011383380                                                                                 
+SEUREAENRT   SIPSI ES           N58552510E012572800                                                                                 
+SEUREAENRT   SONIN ES           N65585498E0214821100                                                                                
+SEUREAENRT   SOPLI ES           N64140350E020442580                                                                                 
+SEUREAENRT   SOVIL ES           N64300200E013561200                                                                                 
+SEUREAENRT   SUMAK ES           N59571400E0121825100                                                                                
+SEUREAENRT   SUTOK ES           N60073810E012304600                                                                                 
+SEUREAENRT   SUVAR ES           N61092367E012422809                                                                                 
+SEUREAENRT   TABUT ES           N59310900E015550150                                                                                 
+SEUREAENRT   TALEK ES           N60025469E017181847                                                                                 
+SEUREAENRT   TEB19 ES           N59260755E017353958                                                                                 
+SEUREAENRT   TEB36 ES           N59123799E017124622                                                                                 
+SEUREAENRT   TEB50 ES           N59124099E0164156100                                                                                
+SEUREAENRT   TEB92 ES           N59114974E017135224                                                                                 
+SEUREAENRT   TERPA ES           N67214997E020415199                                                                                 
+SEUREAENRT   TESDI ES           N59431301E014145000                                                                                 
+SEUREAENRT   TIGBA ES           N62561310E012073100                                                                                 
+SEUREAENRT   TILSA ES           N56460201E015520200                                                                                 
+SEUREAENRT   TINDO ES           N63372510E0191849100                                                                                
+SEUREAENRT   TINKA ES           N59121870E016174700                                                                                 
+SEUREAENRT   TIPEL ES           N67154210E0161947100                                                                                
+SEUREAENRT   TODDY ES           N57454780E012513240                                                                                 
+SEUREAENRT   TOKSI ES           N57092010E013543970                                                                                 
+SEUREAENRT   TONSA ES           N58363290E016311290                                                                                 
+SEUREAENRT   TOPLA ES           N57080910E012202020                                                                                 
+SEUREAENRT   TORGA ES           N62000000E0121018100                                                                                
+SEUREAENRT   TORVA ES           N59244480E016124310                                                                                 
+SEUREAENRT   TRS22 ES           N59123253E017584723                                                                                 
+SEUREAENRT   TRS27 ES           N59231255E017281738                                                                                 
+SEUREAENRT   TRS48 ES           N59002112E017395447                                                                                 
+SEUREAENRT   TRS65 ES           N59024556E017294163                                                                                 
+SEUREAENRT   USIKI ES           N66152610E0152341100                                                                                
+SEUREAENRT   VAGAS ES           N67205720E020090770                                                                                 
+SEUREAENRT   VALTI ES           N55263013E013070761                                                                                 
+SEUREAENRT   VENOM ES           N55290510E0130745100                                                                                
+SEUREAENRT   VIBAR ES           N57344130E016232630                                                                                 
+SEUREAENRT   XELVI ES           N61295810E012400500                                                                                 
+SEURDB       LB    ES000370     N56204760E012455910                                                                                 
+SEURDB       AH    ES000417     N56155710E012540260                                                                                 
+SEURDB       CG    ES000352     N59322020E017551540                                                                                 
+SEURDB       EA    ES000339     N59404760E018061230                                                                                 
+SEURDB       DL    ES000360     N59423080E017585060                                                                                 
+SEURDB       WA    ES000348     N59392076E017545553                                                                                 
+SEURDB       OHT   ES000370     N59342620E017532510                                                                                 
+SEURDB       LA    ES000404     N59434630E017564820                                                                                 
+SEURDB       AN    ES000381     N65380210E019083490                                                                                 
+SEURDB       AS    ES000358     N65334382E019220339                                                                                 
+SEURDB       R     ES000416     N59394711E012381563                                                                                 
+SEURDB       LV    ES000390     N59373012E012375711                                                                                 
+SEURDB       BCS   ES000416     N62341340E017024280                                                                                 
+SEURDB       BL    ES000421     N60281317E015242989                                                                                 
+SEURDB       LM    ES000397     N60232370E015350487                                                                                 
+SEURDB       OU    ES000322     N59185990E018024810                                                                                 
+SEURDB       NB    ES000394     N59240310E017485000                                                                                 
+SEURDB       COR   ES000388     N59154100E017290270                                                                                 
+SEURDB       ERK   ES000383     N59534640E018201280                                                                                 
+SEURDB       LX    ES000402     N59163169E016424731                                                                                 
+SEURDB       NN    ES000362     N59233671E016421981                                                                                 
+SEURDB       F     ES000380     N58104892E013360169                                                                                 
+SEURDB       SF    ES000366     N58082992E013331479                                                                                 
+SEURDB       NF    ES000397     N58131161E013385729                                                                                 
+SEURDB       A     ES000310     N67072989E020505769                                                                                 
+SEURDB       TG    ES000346     N67084671E020443762                                                                                 
+SEURDB       OG    ES000325     N67061410E020570730                                                                                 
+SEURDB       GS    ES000346     N60330920E016565370                                                                                 
+SEURDB       R     ES000417     N60364480E016570670                                                                                 
+SEURDB       AB    ES000393     N59570150E0133508100                                                                                
+SEURDB       HT    ES000345     N60063460E013340300                                                                                 
+SEURDB       MF    ES000421     N56390910E012482980                                                                                 
+SEURDB       LT    ES000336     N56474910E0125031100                                                                                
+SEURDB       NUT   ES000325     N65500943E015024170                                                                                 
+SEURDB       SUT   ES000342     N65423929E015130618                                                                                 
+SEURDB       UT    ES000331     N65433519E015161122                                                                                 
+SEURDB       HU    ES000351     N61450770E0170736100                                                                                
+SEURDB       LN    ES000376     N57294250E015562960                                                                                 
+SEURDB       AC    ES000335     N57315470E015480210                                                                                 
+SEURDB       UE    ES000393     N61502896E012461380                                                                                 
+SEURDB       JKK   ES000368     N66255099E020154998                                                                                 
+SEURDB       OJ    ES000403     N57414610E014015208                                                                                 
+SEURDB       OA    ES000338     N57493743E014064422                                                                                 
+SEURDB       KM    ES000366     N56445073E016134010                                                                                 
+SEURDB       KBG   ES000312     N58285980E014225030                                                                                 
+SEURDB       KK    ES000326     N59241860E014323960                                                                                 
+SEURDB       KA    ES000407     N59190180E014282650                                                                                 
+SEURDB       NKS   ES000341     N59315544E013251201                                                                                 
+SEURDB       SKS   ES000330     N59223742E013162539                                                                                 
+SEURDB       OP    ES000360     N67531490E020270990                                                                                 
+SEURDB       KG    ES000326     N63072250E017443170                                                                                 
+SEURDB       KD    ES000375     N55521640E014044150                                                                                 
+SEURDB       SL    ES000342     N57354159E012131318                                                                                 
+SEURDB       NL    ES000369     N57435007E012203920                                                                                 
+SEURDB       LNA   ES000330     N59322030E0172129100                                                                                
+SEURDB       LK    ES000359     N58270199E013071008                                                                                 
+SEURDB       SC    ES000300     N58255740E015330860                                                                                 
+SEURDB       T     ES000421     N58234490E015434020                                                                                 
+SEURDB       OL    ES000415     N58224560E015481380                                                                                 
+SEURDB       OF    ES000359     N57005610E013572810                                                                                 
+SEURDB       F     ES000325     N56575260E013554640                                                                                 
+SEURDB       LH    ES000295     N60090500E0150724100                                                                                
+SEURDB       N     ES000415     N60062000E015062000                                                                                 
+SEURDB       OL    ES000377     N65363422E021595530                                                                                 
+SEURDB       LUE   ES000427     N62524860E017493620                                                                                 
+SEURDB       L     ES000370     N64321150E018441280                                                                                 
+SEURDB       OL    ES000320     N64295340E018480980                                                                                 
+SEURDB       DD    ES000333     N64355970E018373210                                                                                 
+SEURDB       SM    ES000377     N60530930E014334340                                                                                 
+SEURDB       KN    ES000377     N58351140E016081100                                                                                 
+SEURDB       ON    ES000324     N58350410E016225530                                                                                 
+SEURDB       OO    ES000369     N63221370E019075650                                                                                 
+SEURDB       OD    ES000322     N63261330E018531360                                                                                 
+SEURDB       DC    ES000370     N57245110E016303020                                                                                 
+SEURDB       DH    ES000325     N57181310E016292340                                                                                 
+SEURDB       DJ    ES000312     N63104140E014350350                                                                                 
+SEURDB       F     ES000338     N63121130E014273030                                                                                 
+SEURDB       PAJ   ES000390     N67160380E022563380                                                                                 
+SEURDB       LP    ES000318     N56202320E015170970                                                                                 
+SEURDB       LF    ES000380     N56114240E015144980                                                                                 
+SEURDB       SG    ES000409     N58225010E012421940                                                                                 
+SEURDB       LG    ES000309     N58271400E012425510                                                                                 
+SEURDB       OS    ES000360     N57484207E011524441                                                                                 
+SEURDB       AV    ES000405     N57442152E011515501                                                                                 
+SEURDB       NW    ES000364     N58470370E016464640                                                                                 
+SEURDB       PEO   ES000398     N58474590E017023940                                                                                 
+SEURDB       OS    ES000369     N64361980E021141740                                                                                 
+SEURDB       SS    ES000390     N58193600E013541680                                                                                 
+SEURDB       NS    ES000384     N58303200E0135959100                                                                                
+SEURDB       WS    ES000365     N61193820E016553750                                                                                 
+SEURDB       GUN   ES000348     N64535670E017462860                                                                                 
+SEURDB       OS    ES000378     N62273600E017290740                                                                                 
+SEURDB       OY    ES000368     N62024350E0141933100                                                                                
+SEURDB       Y     ES000327     N62025020E014240540                                                                                 
+SEURDB       TY    ES000384     N60055410E013002860                                                                                 
+SEURDB       F     ES000402     N60115690E012540500                                                                                 
+SEURDB       PG    ES000325     N58154758E012245210                                                                                 
+SEURDB       FM    ES000399     N58213911E012172399                                                                                 
+SEURDB       OU    ES000425     N63503890E020103120                                                                                 
+SEURDB       UP    ES000366     N59585000E0174159100                                                                                
+SEURDB       VNA   ES000364     N63495760E019505270                                                                                 
+SEURDB       RD    ES000276     N59310310E016361630                                                                                 
+SEURDB       LE    ES000333     N59395000E0164001100                                                                                
+SEURDB       NV    ES000406     N64333650E017015620                                                                                 
+SEURDB       DK    ES000328     N64352802E016431971                                                                                 
+SEURD        ALM   ES011640V    N55244070E013332710                                                                                 
+SEURD        ARL   ES011600V    N59391240E017545190                                                                                 
+SEURD        ARS   ES011280V    N59351030E016390140                                                                                 
+SEURD        BAK   ES011270V    N57331860E011583670                                                                                 
+SEURD        BOR   ES011760V    N60251740E015310910                                                                                 
+SEURD        DKR   ES011680V    N59122580E017004350                                                                                 
+SEURD        HMR   ES011260V    N60164550E018232970                                                                                 
+SEURD        HAR   ES011750V    N57493000E012413680                                                                                 
+SEURD        JON   ES011580V    N57453760E014035560                                                                                 
+SEURD        KSD   ES011780V    N59263280E013195360                                                                                 
+SEURD        KRA   ES011520V    N67490920E0202014100                                                                                
+SEURD        LAV   ES011460V    N57392110E012172350                                                                                 
+SEURD        LJU   ES011340V    N56045910E0131203100                                                                                
+SEURD        NAT   ES011300V    N66444740E021192080                                                                                 
+SEURD        NOL   ES011320V    N57462380E011492230                                                                                 
+SEURD        OSK   ES011500V    N63242180E018593680                                                                                 
+SEURD        OSS   ES011465V    N63115840E014291520                                                                                 
+SEURD        SKA   ES011340V    N64373600E021044540                                                                                 
+SEURD        SUM   ES011630V    N64571960E017422970                                                                                 
+SEURD        SUP   ES011300V    N55320430E013224620                                                                                 
+SEURD        SUN   ES011310V    N62314240E017265540                                                                                 
+SEURD        TEB   ES011710V    N59315410E0181211100                                                                                
+SEURD        TRS   ES011430V    N58561650E0173007100                                                                                
+SEURD        VSN   ES011525V    N58181130E015423520                                                                                 
+SEURD        VEY   ES011690V    N56085310E013125920                                                                                 
+SEURD        CFB   ES011010 D   N58241150E015312810                                                                                 
+SEURD        EGL   ES011130 D   N58280310E013110930                                                                                 
+SEURD        GP    ES010810 D   N57463150E011520020                                                                                 
+SEURD        SY    ES010830 D   N58272450E013581030                                                                                 
+SEURD        IBC   ES010950 D   N58260860E012425190                                                                                 
+SEURD        NMO   ES011115 D   N57202530E016294450                                                                                 
+SEURD        SMS   ES010810 D   N55330220E013222370                                                                                 
+SEURD        MX    ES010970 D   N56560700E014435770                                                                                 
+SEURD        NG    ES010810 D   N67080540E020484540                                                                                 
+SEURD        NL    ES011050 D   N64324880E018425810                                                                                 
+SEURD        NO    ES011010 D   N63244920E018583750                                                                                 
+SEURD        INV   ES010990 D   N64345110E016495480                                                                                 
+SEURD        ARV   ES010935 D   N65355200E019154630                                                                                 
+SEURD        NX    ES011150 D   N65353020E019170140                                                                                 
+SEURD        SOE   ES010910 D   N59134940E015023450                                                                                 
+SEURD        SCD   ES010830 D   N59355410E016380700                                                                                 
+SEURD        SF    ES011190 D   N57311710E015495880                                                                                 
+SEURD        NST   ES010870 D   N60092750E012593390                                                                                 
+SEURD        SU    ES011090 D   N59204180E016424030                                                                                 
+SEURD        IUP   ES011150 D   N67142430E023054810                                                                                 
+SEURD        IUT   ES011010 D   N65480850E015050440                                                                                 
+SEURD        ARL   ES011600 D   N59391240E017545190                                                                                 
+SEURD        ARS   ES011280 D   N59351030E016390140                                                                                 
+SEURD        BAK   ES011270 D   N57331860E011583670                                                                                 
+SEURD        BOR   ES011760 D   N60251740E015310910                                                                                 
+SEURD        HMR   ES011260 D   N60164550E018232970                                                                                 
+SEURD        JON   ES011580 D   N57453760E014035560                                                                                 
+SEURD        KSD   ES011780 D   N59263280E013195360                                                                                 
+SEURD        KRA   ES011520 D   N67490920E0202014100                                                                                
+SEURD        LAV   ES011460 D   N57392110E012172350                                                                                 
+SEURD        LJU   ES011340 D   N56045910E0131203100                                                                                
+SEURD        NAT   ES011300 D   N66444740E021192080                                                                                 
+SEURD        OSK   ES011500 D   N63242180E018593680                                                                                 
+SEURD        OSS   ES011465 D   N63115840E014291520                                                                                 
+SEURD        SKA   ES011340 D   N64373600E021044540                                                                                 
+SEURD        SUM   ES011630 D   N64571960E017422970                                                                                 
+SEURD        SUP   ES011300 D   N55320430E013224620                                                                                 
+SEURD        SUN   ES011310 D   N62314240E017265540                                                                                 
+SEURD        TEB   ES011710 D   N59315410E0181211100                                                                                
+SEURD        TRS   ES011430 D   N58561650E0173007100                                                                                
+SEURD        VSN   ES011525 D   N58181130E015423520                                                                                 
+SEURD        DB    ES011130 D   N56174913E012504836                                                                                 
+SEURD        ANE   ES011330 D   N59413830E018033560                                                                                 
+SEURD        ANW   ES011205 D   N59424780E017510920                                                                                 
+SEURD        ASW   ES011375 D   N59351570E017491090                                                                                 
+SEURD        RON   ES010920 D   N56150924E015152934                                                                                 
+SEURER       P607        0040SUTOKESEA      O                             0431     10000     24500                                  
+SEURER       P607        0050MEGENESEA      O                             0572     09500     28500                                  
+SEURER       P607        0060DEMORESEA      O                             0254     09500     28500                                  
+SEURER       P607        0070NARITESEA      O                             0455     09500     28500                                  
+SEURER       P607        0080ELTOKESEA      O                             0080     09500     28500                                  
+SEURER       P607        0090LINSAESEA      O                             0138     09500     28500                                  
+SEURER       P607        0100TEB  ESD       O                             0267     09500     28500                                  
+SEURER       P607        0110BABAP  EA      O                             0167     09500     28500                                  
+SEURER       Z32         0080MISMAESEA      O                             0357     09500     28500                                  
+SEURER       P609        0040BEDLAESEA      O                                      09500     28500                                  
+SEURER       P609        0050NARITESEA      O                             0203     09500     28500                                  
+SEURER       P609        0060RESNAESEA      O                             0496     09500     28500                                  
+SEURER       P609        0070SIPRI  EA      O                             0358     09500     28500                                  
+SEURER       T31         0110BESLAESEA      RL                                     09500     28500                                  
+SEURER       T31         0120VERAG  EA      RL                            0447     09500     28500                                  
+SEURER       T31         0200HMR  ESD       RL                            0356     09500     28500                                  
+SEURER       T31         0210NOSLIESEA      RL                            0802     09500     28500                                  
+SEURER       N850        0300REKMOESEA      O                             0067     09500     24500                                  
+SEURER       N850        0310RASMUESEA      O                             0574     09500     28500                                  
+SEURER       N850        0320GELMAESEA      O                             0211     09500     28500                                  
+SEURER       N850        0330MOKNIESEA      O                             0459     09500     28500                                  
+SEURER       N850        0380NOSLIESEA      O                             0472     09500     28500                                  
+SEURER       N850        0390TONSAESEA      O                             0361     09500     28500                                  
+SEURER       N873        0010LINSAESEA      O                                      09500     28500                                  
+SEURER       N873        0020DODAM  EA      O                             0601     09500     28500                                  
+SEURER       N873        0070BAK  ESD       O                             0210     09500     28500                                  
+SEURER       N873        0080DEGAVESEA      O                             0156     09500     28500                                  
+SEURER       N873        0090LABANESEA      O                             0403     09500     28500                                  
+SEURER       N873        0100DETSOESEA      O                             0400     09500     28500                                  
+SEURER       N873        0110PELITESEA      O                             0570     09500     28500                                  
+SEURER       N873        0120TORVAESEA      O                             0205     09500     28500                                  
+SEURER       M852        0010BAKILESEA      O                                      09500     28500                                  
+SEURER       M852        0020DETMOESEA      O                             0519     09500     28500                                  
+SEURER       M852        0030MEGENESEA      O                             1522     09500     28500                                  
+SEURER       M852        0040NEGILESEA      O                             1195     09500     28500                                  
+SEURER       M852        0050LALILESEA      O                             0320     09500     28500                                  
+SEURER       M852        0060BAK  ESD       O                             0146     09500     28500                                  
+SEURER       M852        0070VADIN  EA      O                             0273     09500     28500                                  
+SEURER       M852        0090BESLAESEA      O                                      09500     28500                                  
+SEURER       M852        0100RISEMESEA      O                             0466     09500     28500                                  
+SEURER       M852        0110RASENESEA      O                             1010     09500     28500                                  
+SEURER       N607        0010BAK  ESD       O                                      09500     28500                                  
+SEURER       N607        0020MAKUR  EA      O                             0199     09500     28500                                  
+SEURER       M852-       0010BAKILESEA      O                                      09500     28500                                  
+SEURER       M852-       0020RASENESEA      O                             0593     09500     28500                                  
+SEURER       M736        0310MAXUMESEA      O                                      09500     28500                                  
+SEURER       M736        0320NEXILESEA      O                             0409     09500     28500                                  
+SEURER       M736        0330RASMUESEA      O                             0253     09500     28500                                  
+SEURER       L975        0240ELVIXESEA      O                                      09500     28500                                  
+SEURER       L975        0250NISLO  EA      O                             0414     09500     28500                                  
+SEURER       L997        0080REGMAESEA      O                             0187     09500     28500                                  
+SEURER       L997        0090SABAKESEA      O                             0567     09500     28500                                  
+SEURER       L997        0100RISMA  EA      O                             0690     09500     28500                                  
+SEURER       N866        0020BEDLAESEA      O                             0945     09500     28500                                  
+SEURER       N866        0030TABUTESEA      O                             0115     09500     28500                                  
+SEURER       N866        0040DEPEXESEA      O                             0337     09500     28500                                  
+SEURER       N866        0050LAPSIESEA      O                             0275     09500     28500                                  
+SEURER       N866        0060MOXAMESEA      O                             0387     09500     28500                                  
+SEURER       N866        0070NEGILESEA      O                             0274     09500     28500                                  
+SEURER       N623        0010BEDLAESEA      O                                      09500     28500                                  
+SEURER       N623        0020PEPILESEA      O                             0511     09500     28500                                  
+SEURER       N623        0030SUMAKESEA      O                             0688     10000     24500                                  
+SEURER       N623        0040GRM    D       O                             0396     10000     24500                                  
+SEURER       N623        0230TEB  ESD       O                             0456     09500     28500                                  
+SEURER       N851        0050GORAXESEA      O                             0173     09500     28500                                  
+SEURER       N851        0060KEMAXESEA      O                             0237     09500     28500                                  
+SEURER       N851        0070NEXILESEA      O                             0158     09500     28500                                  
+SEURER       N851        0080ROXENESEA      O                             0168     09500     28500                                  
+SEURER       N851        0090BEDOSESEA      O                             0597     09500     28500                                  
+SEURER       N851        0100MIKNAESEA      O                             0415     09500     28500                                  
+SEURER       N851        0110PELUPESEA      O                             0285     09500     28500                                  
+SEURER       N851        0120TRS  ESD       O                             0509     09500     28500                                  
+SEURER       N851        0130NTL    D       O                             0622     09500     28500                                  
+SEURER       L996        0200OSLOBESEA      O                                      09500     28500                                  
+SEURER       L996        0210KELINESEA      O                             0516     09500     28500                                  
+SEURER       L996        0220LALILESEA      O                             0285     09500     28500                                  
+SEURER       L996        0230TOPLAESEA      O                             0386     09500     28500                                  
+SEURER       L996        0240SVD    D       O                             0586     09500     28500                                  
+SEURER       M607        0050BESLAESEA      O                             0415     09500     28500                                  
+SEURER       M607        0060ELBOG  EA      O                             0462     09500     28500                                  
+SEURER       M607        0070SOPLIESEA      O                             0592     09500     28500                                  
+SEURER       M607        0080LAPIX  EA      O                             0209     09500     28500                                  
+SEURER       M607        0110RESNAESEA      O                             1521     09500     28500                                  
+SEURER       M607        0120TRS  ESD       O                             0873     09500     28500                                  
+SEURER       M607        0130PENOR  EA      O                             1984     09500     28500                                  
+SEURER       P600        0010RIGNAESEA      O                                      24500     28500                                  
+SEURER       P600        0020BESLOESEA      O                             1209     24500     28500                                  
+SEURER       P600        0030SOVILESEA      O                             0279     24500     28500                                  
+SEURER       P600        0040USIKIESEA      O                             1116     20000     24500                                  
+SEURER       P600        0050LIDNAESEA      O                             0047     20000     24500                                  
+SEURER       P600        0180TIPELESEA      O                                      19500     28500                                  
+SEURER       P600        0190GILEN  EA      O                             0492     19500     28500                                  
+SEURER       P608        0010ELTOKESEA      O                                      09500     28500                                  
+SEURER       P608        0020PERAXESEA      O                             0240     09500     28500                                  
+SEURER       P608        0030BOR  ESD       O                             0330     09500     28500                                  
+SEURER       P608        0040SUVARESEA      O                             0934     09500     28500                                  
+SEURER       P608        0050TOTKO  EA      O                             1192     14000     24500                                  
+SEURER       M611        0040ELVIXESEA      O                             0986     09500     28500                                  
+SEURER       M611        0050MALIV  EA      O                             0391     09500     28500                                  
+SEURER       Y430        0010TRS  ESD       O                                      09500     24500                                  
+SEURER       Y430        0020HMR  ESD       O                             0849     09500     24500                                  
+SEURER       Y430        0030DEGAL  EA      O                             0251     09500     24500                                  
+SEURER       Y430        0040OSLAVESEA      O                             1481     09500     24500                                  
+SEURER       Y430        0050OSS  ESD       O                             0342     09500     24500                                  
+SEURER       T314        0010RESNAESEA      RL                                     09500     28500                                  
+SEURER       T314        0020DEGAL  EA      RL                            0164     09500     28500                                  
+SEURER       T314        0040SUN  ESD       RL                            0337     09500     28500                                  
+SEURER       Z40         0010NEGILESEA      O                                      09500     28500                                  
+SEURER       Z40         0020DEGAVESEA      O                             0327     09500     28500                                  
+SEURER       Z40         0030RISMA  EA      O                             0428     09500     28500                                  
+SEURER       M996        0150TRS  ESD       O                             0473     09500     28500                                  
+SEURER       N872        0080MISMAESEA      O                             0352     09500     28500                                  
+SEURER       N872        0090TOKSIESEA      O                             0386     09500     28500                                  
+SEURER       N872        0100ELPAXESEA      O                             0714     09500     28500                                  
+SEURER       N872        0110DKR  ESD       O                             0860     09500     28500                                  
+SEURER       N872        0120TEB  ESD       O                             0413     09500     28500                                  
+SEURER       N872        0130NAXEL  EA      O                             0080     09500     28500                                  
+SEURER       Y42         0010DEPEXESEA      O                                      09500     28500                                  
+SEURER       Y42         0020PELITESEA      O                             0205     09500     28500                                  
+SEURER       Y42         0030TINKAESEA      O                             0187     09500     28500                                  
+SEURER       Z330        0010HMR  ESD       O                                      09500     28500                                  
+SEURER       Z330        0020DKR  ESD       O                             0767     09500     28500                                  
+SEURER       Z330        0030TONSAESEA      O                             0390     09500     28500                                  
+SEURER       Z330        0040PELUPESEA      O                             0199     09500     28500                                  
+SEURER       Z330        0050VIBARESEA      O                             0422     09500     28500                                  
+SEURER       Z330        0060NESLIESEA      O                             0216     09500     28500                                  
+SEURER       Z330        0070KAL    D       O                             0321     09500     28500                                  
+SEURER       Y41         0010DKR  ESD       O                                      24500     28500                                  
+SEURER       Y41         0020POKAS  EA      O                             0860     24500     28500                                  
+SEURER       L727        0060MOGLUESEA      O                             0237     09500     28500                                  
+SEURER       L727        0070OSLOBESEA      O                             0025     09500     28500                                  
+SEURER       L727        0080PENOR  EA      O                             2699     09500     28500                                  
+SEURER       L621-       0020ELVIXESEA      O                             0308     09500     28500                                  
+SEURER       L621-       0030MAXUMESEA      O                             0224     09500     28500                                  
+SEURER       L621-       0040SVD    D       O                             0462     09500     28500                                  
+SEURER       Z300        0060SABAKESEA      O                             0531     09500     28500                                  
+SEURER       Z300        0070LALILESEA      O                             0296     09500     28500                                  
+SEURER       P854        0160PENAXESEA      O                             2034     24500     28500                                  
+SEURER       Y440        0010HMR  ESD       O                                      09500     28500                                  
+SEURER       Y440        0020KELAS  EA      O                             0259     09500     28500                                  
+SEURER       L990        0050SUP  ESD       O                                      09500     28500                                  
+SEURER       L990        0060PERRYESEA      O                             0245     09500     28500                                  
+SEURER       L990        0070KOTAM  EA      O                             0363     09500     28500                                  
+SEURER       L990        0080LAGISESEA      O                             0445     09500     28500                                  
+SEURER       L990        0090KAL    D       O                             0139     09500     28500                                  
+SEURER       Z490        0010KEMAXESEA      O                                      09500     28500                                  
+SEURER       Z490        0020KOTAM  EA      O                             0463     09500     28500                                  
+SEURER       T317        0010KRA  ESD       RL                                     09500     28500                                  
+SEURER       T317        0020VAGASESEA      RL                            0285     09500     28500                                  
+SEURER       T317        0030RIXANESEA      RL                            0368     09500     28500                                  
+SEURER       T317        0040REKMIESEA      RL                            0943     09500     28500                                  
+SEURER       T317        0050RASENESEA      RL                            0829     09500     28500                                  
+SEURER       T317        0060OSK  ESD       RL                            0245     09500     28500                                  
+SEURER       T317        0070RESNAESEA      RL                            1845     09500     28500                                  
+SEURER       Z108        0020SOVILESEA      O                             0632     20000     24500                                  
+SEURER       N150        0010OGLAVESEA      O                                      24500     28500                                  
+SEURER       N150        0020OGRINESEA      O                             0780     24500     28500                                  
+SEURER       N150        0030RIGNAESEA      O                             3801     24500     28500                                  
+SEURER       T318        0010OSK  ESD       RL                                     09500     28500                                  
+SEURER       T318        0020SIPRI  EA      RL                            1539     09500     28500                                  
+SEURER       T320        0010PENAXESEA      RL                                     09500     28500                                  
+SEURER       T320        0020RISEMESEA      RL                            1606     09500     28500                                  
+SEURER       T316        0030SUN  ESD       RL                            0330     09500     28500                                  
+SEURER       UP607       0050SUTOKESEA      O                             0431     24500     66000                                  
+SEURER       UP607       0060MEGENESEA      O                             0572     28500     46000                                  
+SEURER       UP607       0070DEMORESEA      O                             0254     28500     46000                                  
+SEURER       UP607       0080NARITESEA      O                             0455     28500     46000                                  
+SEURER       UP607       0090ELTOKESEA      O                             0080     28500     46000                                  
+SEURER       UP607       0100LINSAESEA      O                             0138     28500     46000                                  
+SEURER       UP607       0110TEB  ESD       O                             0267     28500     46000                                  
+SEURER       UP607       0120BABAP  EA      O                             0167     28500     46000                                  
+SEURER       UN873       0380LINSAESEA      O                                      28500     46000                                  
+SEURER       UN873       0390DODAM  EA      O                             0601     28500     46000                                  
+SEURER       UN873       0560BAK  ESD       O                             0210     28500     46000                                  
+SEURER       UN873       0570DEGAVESEA      O                             0156     28500     46000                                  
+SEURER       UN873       0580LABANESEA      O                             0403     28500     46000                                  
+SEURER       UN873       0590DETSOESEA      O                             0400     28500     46000                                  
+SEURER       UN873       0600PELITESEA      O                             0570     28500     46000                                  
+SEURER       UN873       0610TORVAESEA      O                             0205     28500     46000                                  
+SEURER       UP609       0040BEDLAESEA      O                                      28500     46000                                  
+SEURER       UP609       0050NARITESEA      O                             0203     28500     46000                                  
+SEURER       UP609       0060RESNAESEA      O                             0496     28500     46000                                  
+SEURER       UP609       0070SIPRI  EA      O                             0358     28500     46000                                  
+SEURER       UT31        0110BESLAESEA      O                                      28500     46000                                  
+SEURER       UT31        0120VERAG  EA      O                             0447     28500     46000                                  
+SEURER       UT31        0200HMR  ESD       O                             0356     28500     46000                                  
+SEURER       UT31        0210NOSLIESEA      O                             0802     28500     46000                                  
+SEURER       UM996       0190TRS  ESD       O                             0473     28500     46000                                  
+SEURER       UN850       0060REKMOESEA      O                             0067     28500     46000                                  
+SEURER       UN850       0070RASMUESEA      O                             0574     28500     46000                                  
+SEURER       UN850       0080GELMAESEA      O                             0211     28500     46000                                  
+SEURER       UN850       0090MOKNIESEA      O                             0459     28500     46000                                  
+SEURER       UN850       0380NOSLIESEA      O                             0472     28500     46000                                  
+SEURER       UN850       0390TONSAESEA      O                             0361     28500     46000                                  
+SEURER       UM852       0010BESLAESEA      O                                      28500     46000                                  
+SEURER       UM852       0020RISEMESEA      O                             0466     28500     46000                                  
+SEURER       UM852       0030RASENESEA      O                             1010     28500     46000                                  
+SEURER       UM852       0040BAKILESEA      O                             0593     28500     46000                                  
+SEURER       UM852       0050DETMOESEA      O                             0519     28500     46000                                  
+SEURER       UM852       0060MEGENESEA      O                             1522     28500     46000                                  
+SEURER       UM852       0070NEGILESEA      O                             1195     28500     46000                                  
+SEURER       UM852       0080LALILESEA      O                             0320     28500     46000                                  
+SEURER       UM852       0090BAK  ESD       O                             0146     28500     46000                                  
+SEURER       UM852       0100VADIN  EA      O                             0273     28500     46000                                  
+SEURER       UN607       0010BAK  ESD       O                                      28500     46000                                  
+SEURER       UN607       0020MAKUR  EA      O                             0199     28500     46000                                  
+SEURER       UM736       0290MAXUMESEA      O                                      28500     46000                                  
+SEURER       UM736       0300NEXILESEA      O                             0409     28500     46000                                  
+SEURER       UM736       0310RASMUESEA      O                             0253     28500     46000                                  
+SEURER       UN866       0470BEDLAESEA      O                             0945     28500     46000                                  
+SEURER       UN866       0480TABUTESEA      O                             0115     28500     46000                                  
+SEURER       UN866       0490DEPEXESEA      O                             0337     28500     46000                                  
+SEURER       UN866       0500LAPSIESEA      O                             0275     28500     46000                                  
+SEURER       UN866       0510MOXAMESEA      O                             0387     28500     46000                                  
+SEURER       UN866       0520NEGILESEA      O                             0274     28500     46000                                  
+SEURER       UN872       0190MISMAESEA      O                             0352     28500     46000                                  
+SEURER       UN872       0200TOKSIESEA      O                             0386     28500     46000                                  
+SEURER       UN872       0210ELPAXESEA      O                             0714     28500     46000                                  
+SEURER       UN872       0220DKR  ESD       O                             0860     28500     46000                                  
+SEURER       UN872       0230TEB  ESD       O                             0413     28500     46000                                  
+SEURER       UN872       0240NAXEL  EA      O                             0080     28500     46000                                  
+SEURER       UP600       0070TIPELESEA      O                             0492     28500     46000                                  
+SEURER       UP600       0350TORGAESEA      O                             1131     24500     66000                                  
+SEURER       UP600       0360RIGNAESEA      O                             0087     28500     66000                                  
+SEURER       UP600       0370BESLOESEA      O                             1209     28500     66000                                  
+SEURER       UP600       0380SOVILESEA      O                             0279     28500     66000                                  
+SEURER       UP600       0390USIKIESEA      O                             1116     28500     66000                                  
+SEURER       UP600       0400LIDNAESEA      O                             0047     28500     66000                                  
+SEURER       UL975       0200ELVIXESEA      O                                      28500     46000                                  
+SEURER       UL975       0210NISLO  EA      O                             0414     28500     46000                                  
+SEURER       UN851       0430GORAXESEA      O                             0173     28500     46000                                  
+SEURER       UN851       0440KEMAXESEA      O                             0237     28500     46000                                  
+SEURER       UN851       0450NEXILESEA      O                             0158     28500     46000                                  
+SEURER       UN851       0460ROXENESEA      O                             0168     28500     46000                                  
+SEURER       UN851       0470BEDOSESEA      O                             0597     28500     46000                                  
+SEURER       UN851       0480MIKNAESEA      O                             0415     28500     46000                                  
+SEURER       UN851       0490PELUPESEA      O                             0285     28500     46000                                  
+SEURER       UN851       0500TRS  ESD       O                             0509     28500     46000                                  
+SEURER       UN851       0510NTL    D       O                             0622     28500     46000                                  
+SEURER       UL997       0060SABAKESEA      O                             0690     28500     46000                                  
+SEURER       UL997       0070REGMAESEA      O                             0567     28500     46000                                  
+SEURER       UL997       0080SORPI  EA      O                             0187     24500     66000                                  
+SEURER       UP854       0030PENAXESEA      O                             0488     24500     66000                                  
+SEURER       UP854       0040LAPIX  EA      O                             2034     28500     46000                                  
+SEURER       UN623       0010BEDLAESEA      O                                      28500     46000                                  
+SEURER       UN623       0020PEPILESEA      O                             0511     28500     46000                                  
+SEURER       UN623       0030SUMAKESEA      O                             0688     24500     66000                                  
+SEURER       UN623       0040GRM    D       O                             0396     24500     66000                                  
+SEURER       UN623       0210TEB  ESD       O                             0456     28500     46000                                  
+SEURER       UM607       0050BESLAESEA      O                             0415     28500     46000                                  
+SEURER       UM607       0060ELBOG  EA      O                             0462     28500     46000                                  
+SEURER       UM607       0070SOPLIESEA      O                             0592     28500     46000                                  
+SEURER       UM607       0080LAPIX  EA      O                             0209     28500     46000                                  
+SEURER       UM607       0110RESNAESEA      O                             1521     28500     46000                                  
+SEURER       UM607       0120TRS  ESD       O                             0873     28500     46000                                  
+SEURER       UM607       0130PENOR  EA      O                             1984     28500     46000                                  
+SEURER       UP853       0050RIXEMESEA      O                                      24500     66000                                  
+SEURER       UP853       0060TRO    D       O                             0616     24500     66000                                  
+SEURER       UP608       0010ELTOKESEA      O                                      28500     46000                                  
+SEURER       UP608       0020PERAXESEA      O                             0240     28500     46000                                  
+SEURER       UP608       0030BOR  ESD       O                             0330     28500     46000                                  
+SEURER       UP608       0040SUVARESEA      O                             0934     28500     46000                                  
+SEURER       UP608       0050TOTKO  EA      O                             1192     24500     66000                                  
+SEURER       UM611       0040ELVIXESEA      O                             0986     28500     46000                                  
+SEURER       UM611       0050MALIV  EA      O                             0391     28500     46000                                  
+SEURER       UL996       0140OSLOBESEA      O                                      28500     46000                                  
+SEURER       UL996       0150KELINESEA      O                             0516     28500     46000                                  
+SEURER       UL996       0160LALILESEA      O                             0285     28500     46000                                  
+SEURER       UL996       0170TOPLAESEA      O                             0386     28500     46000                                  
+SEURER       UL996       0180SVD    D       O                             0586     28500     46000                                  
+SEURER       UY430       0010TRS  ESD       O                                      24500     46000                                  
+SEURER       UY430       0020HMR  ESD       O                             0849     24500     46000                                  
+SEURER       UY430       0030DEGAL  EA      O                             0251     24500     46000                                  
+SEURER       UY430       0040OSLAVESEA      O                             1481     24500     46000                                  
+SEURER       UY430       0050OSS  ESD       O                             0342     24500     46000                                  
+SEURER       UT314       0010RESNAESEA      O                                      28500     46000                                  
+SEURER       UT314       0020DEGAL  EA      O                             0164     28500     46000                                  
+SEURER       UT314       0040SUN  ESD       O                             0337     28500     46000                                  
+SEURER       UZ40        0010NEGILESEA      O                                      28500     46000                                  
+SEURER       UZ40        0020DEGAVESEA      O                             0327     28500     46000                                  
+SEURER       UZ40        0030RISMA  EA      O                             0428     28500     46000                                  
+SEURER       UY42        0010DEPEXESEA      O                                      28500     46000                                  
+SEURER       UY42        0020PELITESEA      O                             0205     28500     46000                                  
+SEURER       UY42        0030TINKAESEA      O                             0187     28500     46000                                  
+SEURER       UZ330       0010HMR  ESD       O                                      28500     46000                                  
+SEURER       UZ330       0020DKR  ESD       O                             0767     28500     46000                                  
+SEURER       UZ330       0030TONSAESEA      O                             0390     28500     46000                                  
+SEURER       UZ330       0040PELUPESEA      O                             0199     28500     46000                                  
+SEURER       UZ330       0050VIBARESEA      O                             0422     28500     46000                                  
+SEURER       UZ330       0060NESLIESEA      O                             0216     28500     46000                                  
+SEURER       UZ330       0070KAL    D       O                             0321     28500     46000                                  
+SEURER       UY41        0010DKR  ESD       O                                      28500     46000                                  
+SEURER       UY41        0020POKAS  EA      O                             0860     28500     46000                                  
+SEURER       UL621       0020ELVIXESEA      O                             0308     28500     46000                                  
+SEURER       UL621       0030MAXUMESEA      O                             0224     28500     46000                                  
+SEURER       UL621       0040SVD    D       O                             0462     28500     46000                                  
+SEURER       UL727       0060MOGLUESEA      O                             0237     28500     46000                                  
+SEURER       UL727       0070OSLOBESEA      O                             0025     28500     46000                                  
+SEURER       UL727       0080PENOR  EA      O                             2699     28500     46000                                  
+SEURER       UZ300       0060SABAKESEA      O                             0531     28500     46000                                  
+SEURER       UZ300       0070LALILESEA      O                             0296     28500     46000                                  
+SEURER       UN150       0020OGLAVESEA      O                             0244     28500     66000                                  
+SEURER       UN150       0030OGRINESEA      O                             0780     28500     46000                                  
+SEURER       UN150       0040RIGNAESEA      O                             3801     28500     46000                                  
+SEURER       UY440       0010HMR  ESD       O                                      28500     46000                                  
+SEURER       UY440       0020KELAS  EA      O                             0259     28500     46000                                  
+SEURER       UL990       0040SUP  ESD       O                                      28500     46000                                  
+SEURER       UL990       0050PERRYESEA      O                             0245     28500     46000                                  
+SEURER       UL990       0060KOTAM  EA      O                             0363     28500     46000                                  
+SEURER       UL990       0070LAGISESEA      O                             0445     28500     46000                                  
+SEURER       UL990       0080KAL    D       O                             0139     28500     46000                                  
+SEURER       UZ490       0010KEMAXESEA      O                                      28500     46000                                  
+SEURER       UZ490       0020KOTAM  EA      O                             0463     28500     46000                                  
+SEURER       UY408       0010KOGAVESEA      O                                      28500     46000                                  
+SEURER       UY408       0020PERAXESEA      O                             0254     28500     46000                                  
+SEURER       UT317       0010KRA  ESD       O                                      28500     46000                                  
+SEURER       UT317       0020VAGASESEA      O                             0285     28500     46000                                  
+SEURER       UT317       0030RIXANESEA      O                             0368     28500     46000                                  
+SEURER       UT317       0040REKMIESEA      O                             0943     28500     46000                                  
+SEURER       UT317       0050RASENESEA      O                             0829     28500     46000                                  
+SEURER       UT317       0060OSK  ESD       O                             0245     28500     46000                                  
+SEURER       UT317       0070RESNAESEA      O                             1845     28500     46000                                  
+SEURER       UZ108       0020SOVILESEA      O                             0632     24500     66000                                  
+SEURER       UT318       0010OSK  ESD       O                                      28500     46000                                  
+SEURER       UT318       0020SIPRI  EA      O                             1539     28500     46000                                  
+SEURER       UT320       0010PENAXESEA      O                                      28500     46000                                  
+SEURER       UT320       0020RISEMESEA      O                             1606     28500     46000                                  
+SEURER       UT316       0030SUN  ESD       O                             0330     28500     46000                                  

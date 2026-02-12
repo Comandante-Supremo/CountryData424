@@ -1,0 +1,34 @@
+SAFREAENRT   AGSIL GF           N08500464W012533293                                                                                 
+SAFREAENRT   AMKAX GF           N09570600W011240000                                                                                 
+SAFREAENRT   EDBAL GF           N09520000W0120159100                                                                                
+SAFREAENRT   GAROM GF           N09040500W0123509100                                                                                
+SAFREAENRT   KIMKA GF           N09400000W011480000                                                                                 
+SAFREAENRT   MATRU GF           N07400026W012035934                                                                                 
+SAFREAENRT   RAMAK GF           N08285998W011065928                                                                                 
+SAFREAENRT   TEKTO GF           N07490021W011535933                                                                                 
+SAFRDB       LGI   GF000339     N08390363W013100010                                                                                 
+SAFRDB       SL    GF000270     N08362371W013100360                                                                                 
+SAFRD        LGI   GF011550V    N08370184W013112892                                                                                 
+SAFRD        LGI   GF011550 D   N08370184W013112892                                                                                 
+SAFRER       B727        0040KIMKAGFEA      O                             0589     07000     24500                                  
+SAFRER       B614        0030LGI  GFD       O                             0293     05000     24500                                  
+SAFRER       B614        0040MATRUGFEA      O                             0879     05000     24500                                  
+SAFRER       B614        0050ROB  GLD       O                             1331     05000     24500                                  
+SAFRER       B600        0080TEKTOGFEA      O                             1319     05000     24500                                  
+SAFRER       B729        0030RAMAKGFEA      O                             1233     07000     24500                                  
+SAFRER       B729        0040PONKAGLEA      O                             0902     07000     24500                                  
+SAFRER       H217        0020EDBALGFEA      O                             0956     06000     24500                                  
+SAFRER       H217        0030FH   GUD       O                             0761     06000     24500                                  
+SAFRER       UG854       0210EDBALGFEA      O                                      25000     60000                                  
+SAFRER       UG854       0220GIA  GUD       O                             0956     25000     60000                                  
+SAFRER       UB727       0180GAROMGFEA      O                                      25000     60000                                  
+SAFRER       UB727       0190KIMKAGFEA      O                             0588     25000     60000                                  
+SAFRER       UB614       0030LGI  GFD       O                             0293     25000     60000                                  
+SAFRER       UB614       0040MATRUGFEA      O                             0879     25000     60000                                  
+SAFRER       UB614       0050ROB  GLD       O                             1331     25000     60000                                  
+SAFRER       UA572       0060LGI  GFD       O                             0384     25000     60000                                  
+SAFRER       UB729       0030RAMAKGFEA      O                             1233     25000     60000                                  
+SAFRER       UB729       0040PONKAGLEA      O                             0902     25000     60000                                  
+SAFRER       UB600       0050TEKTOGFEA      O                             1319     25000     60000                                  
+SAFRER       V200        0010LGI  GFD       OL                                     25000     60000                                  
+SAFRER       V200        0020NANANGUEA      OL                            2333     25000     60000                                  

@@ -1,0 +1,90 @@
+SAFREAENRT   1515N GO           N15000000W015000000                                                                                 
+SAFREAENRT   DEMOL GO           N13323300W012430400                                                                                 
+SAFREAENRT   DISNO GO           N14023610W014491000                                                                                 
+SAFREAENRT   ENURI GO           N14454600W0150059100                                                                                
+SAFREAENRT   ERIDI GO           N13113510W015074900                                                                                 
+SAFREAENRT   GATIL GO           N13265200W0121432100                                                                                
+SAFREAENRT   IRALO GO           N12405910W013390600                                                                                 
+SAFREAENRT   KOLAT GO           N14211110W0155841100                                                                                
+SAFREAENRT   KOMAB GO           N12444800W0142801100                                                                                
+SAFREAENRT   NURAS GO           N14131910W015290300                                                                                 
+SAFREAENRT   R2376 GO           N14433210W017283620                                                                                 
+SAFREAENRT   UBATA GO           N14451210W0122604100                                                                                
+SAFREAENRT   VOTAB GO           N14454710W014374500                                                                                 
+SAFREAENRT   XUKON GO           N14454100W0133427100                                                                                
+SAFREAENRT   YF001 GO           N14424365W017283012                                                                                 
+SAFREAENRT   YF002 GO           N14414390W017282209                                                                                 
+SAFREAENRT   YF003 GO           N14404415W017281405                                                                                 
+SAFREAENRT   YF012 GO           N14455059W017285094                                                                                 
+SAFREAENRT   YF022 GO           N14463672W017290543                                                                                 
+SAFREAENRT   YF048 GO           N14385661W017275959                                                                                 
+SAFREAENRT   YF068 GO           N14365711W017274353                                                                                 
+SAFREAENRT   YF100 GO           N14444101W017150372                                                                                 
+SAFREAENRT   YF110 GO           N14444117W017180960                                                                                 
+SAFREAENRT   YF115 GO           N14411816W017153136                                                                                 
+SAFREAENRT   YF125 GO           N14420512W017183083                                                                                 
+SAFREAENRT   YF135 GO           N14371153W017172976                                                                                 
+SAFREAENRT   YF138 GO           N14383003W017202117                                                                                 
+SAFREAENRT   YF145 GO           N14385539W017200187                                                                                 
+SAFRDB       SDS   GO000323     N14430000W0172859100                                                                                
+SAFRDB       SKK   GO000350     N14092560W016023080                                                                                 
+SAFRDB       SKG   GO000320     N12335866W012125934                                                                                 
+SAFRDB       KD    GO000344     N12525857W014575949                                                                                 
+SAFRDB       MA    GO000384     N15351213W013184629                                                                                 
+SAFRDB       SLO   GO000355     N16025670W016272570                                                                                 
+SAFRDB       SMI   GO000314     N13025851W013175940                                                                                 
+SAFRDB       STD   GO000370     N13440840W013394700                                                                                 
+SAFRDB       SZR   GO000334     N12332220W016160080                                                                                 
+SAFRD        YF    GO011310V    N14444140W017282920                                                                                 
+SAFRD        TD    GO011450V    N13433970W013395030                                                                                 
+SAFRD        ZG    GO011250V    N12332710W016162130                                                                                 
+SAFRD        YF    GO011030 D   N14434411W017284254                                                                                 
+SAFRD        YF    GO011310 D   N14444140W017282920                                                                                 
+SAFRER       A601F       0090TD   GOD       O                             1190     03500     24500                                  
+SAFRER       A601F       0100NURASGOEA      O                             1101     03500     24500                                  
+SAFRER       A601F       0110YF   GOD       O                             1199     03500     24500                                  
+SAFRER       R975F       0080SLO  GOD       O                                      05500     24500                                  
+SAFRER       R975F       0090YF   GOD       O                             0980     05500     24500                                  
+SAFRER       B600F       0050YF   GOD       O                             0966     05500     24500                                  
+SAFRER       B600F       0060LIMAX  EA      O                             1206     05500     24500                                  
+SAFRER       R976        0060YF   GOD       O                             1201     05500     24500                                  
+SAFRER       UR979       0090KOMABGOEA      O                             0502     25000     46000                                  
+SAFRER       UR979       0100ERIDIGOEA      O                             0472     24500     46000                                  
+SAFRER       UR979       0110YF   GOD       O                             1653     24500     46000                                  
+SAFRER       UA601       0070YF   GOD       O                                      24500     46000                                  
+SAFRER       UA601       0080DISNOGOEA      O                             1601     24500     46000                                  
+SAFRER       UA601       0090TD   GOD       O                             0700     24500     46000                                  
+SAFRER       UA601       0100DEMOLGOEA      O                             0563     24500     46000                                  
+SAFRER       UA601       0110GATILGOEA      O                             0283     24500     46000                                  
+SAFRER       UA601       0120ENINOGAEA      O                             1082     24500     46000                                  
+SAFRER       UM725       0120YF   GOD       O                                      31000     60000                                  
+SAFRER       UM725       0130DEMILGQEA      O                             1541     31000     60000                                  
+SAFRER       UM974       0120YF   GOD       O                                      24500     46000                                  
+SAFRER       UM974       0130ENURIGOEA      O                             1427     24500     46000                                  
+SAFRER       UM974       0140VOTABGOEA      O                             0225     24500     46000                                  
+SAFRER       UM974       0150XUKONGOEA      O                             0612     24500     46000                                  
+SAFRER       UM974       0160UBATAGOEA      O                             0662     24500     46000                                  
+SAFRER       UM974       0170MISKIGQEA      O                             0288     24500     46000                                  
+SAFRER       UB601       0010YF   GOD       O                                      24500     46000                                  
+SAFRER       UB601       0020BIKIS  EA      O                             1004     24500     46000                                  
+SAFRER       UR975       0120SLO  GOD       O                             0781     24500     46000                                  
+SAFRER       UR975       0130YF   GOD       O                             0980     24500     46000                                  
+SAFRER       UR620       0030ERIDIGOEA      O                             0442     24500     46000                                  
+SAFRER       UR620       0040DISNOGOEA      O                             0542     24500     46000                                  
+SAFRER       UR620       0050VOTABGOEA      O                             0446     24500     46000                                  
+SAFRER       UR620       0060POVINGQEA      O                             1292     24500     46000                                  
+SAFRER       UA302       0030YF   GOD       O                             0557     24500     46000                                  
+SAFRER       UB728       0030XUKONGOEA      O                             0995     24500     46000                                  
+SAFRER       UB728       0040TD   GOD       O                             0623     24500     46000                                  
+SAFRER       UM372       0050DEMOLGOEA      O                             0662     24500     46000                                  
+SAFRER       UM372       0060UBATAGOEA      O                             0746     24500     46000                                  
+SAFRER       UM372       0070TIPADGQEA      O                             0519     24500     46000                                  
+SAFRER       UB600       0150YF   GOD       O                             0966     24500     46000                                  
+SAFRER       UB600       0160LIMAX  EA      O                             1206     24500     46000                                  
+SAFRER       UR976       0080YF   GOD       O                             0327     24500     46000                                  
+SAFRER       UR865       0010KOMABGOEA      O                                      24500     46000                                  
+SAFRER       UR865       0020DISNOGOEA      O                             0805     24500     46000                                  
+SAFRER       UR865       0030ENURIGOEA      O                             0447     24500     46000                                  
+SAFRER       UR865       0040DEMILGQEA      O                             1050     24500     46000                                  
+SAFRER       UR865       0010KOMABGOEA      O                                      24500     46000                                  
+SAFRER       UR865       0020POGRA  EA      O                             0670     24500     46000                                  

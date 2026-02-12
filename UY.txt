@@ -1,0 +1,187 @@
+SSAMEAENRT   AKNEN SU           S32002730W053531410                                                                                 
+SSAMEAENRT   AKPOD SU           S32281830W0533459100                                                                                
+SSAMEAENRT   AMISO SU           S33505300W056363700                                                                                 
+SSAMEAENRT   ANPON SU           S32371800W057282600                                                                                 
+SSAMEAENRT   ARAPE SU           S31010000W057221300                                                                                 
+SSAMEAENRT   AROMO SU           S33300200W055024400                                                                                 
+SSAMEAENRT   ASIVA SU           S33502600W0562035100                                                                                
+SSAMEAENRT   ASUMA SU           S31520210W054091920                                                                                 
+SSAMEAENRT   BISOK SU           S32524510W056404100                                                                                 
+SSAMEAENRT   BOLAT SU           S33394810W0540038100                                                                                
+SSAMEAENRT   CARME SU           S33072600W055580500                                                                                 
+SSAMEAENRT   DALGO SU           S32331510W0553012100                                                                                
+SSAMEAENRT   DAYMA SU           S31471310W0570513100                                                                                
+SSAMEAENRT   DRACA SU           S34252310W056222700                                                                                 
+SSAMEAENRT   GAMOT SU           S30564020W055293720                                                                                 
+SSAMEAENRT   GATUS SU           S34472826W056115290                                                                                 
+SSAMEAENRT   GORIO SU           S33074610W057013900                                                                                 
+SSAMEAENRT   GUTIL SU           S31130500W0564941100                                                                                
+SSAMEAENRT   ISALA SU           S31403310W054264700                                                                                 
+SSAMEAENRT   KADUS SU           S32443900W056434500                                                                                 
+SSAMEAENRT   LITOS SU           S34273200W0544333100                                                                                
+SSAMEAENRT   LOMID SU           S33530800W056194500                                                                                 
+SSAMEAENRT   LOMUX SU           S34230110W0561736100                                                                                
+SSAMEAENRT   LORES SU           S32575710W057071800                                                                                 
+SSAMEAENRT   MASOL SU           S31070510W0561123100                                                                                
+SSAMEAENRT   MEVIV SU           S31183810W057154600                                                                                 
+SSAMEAENRT   MIDUN SU           S34484230W056015220                                                                                 
+SSAMEAENRT   MOLBI SU           S34204910W055301800                                                                                 
+SSAMEAENRT   MONSA SU           S34205600W056105300                                                                                 
+SSAMEAENRT   MUDIR SU           S34452129W056015445                                                                                 
+SSAMEAENRT   MUMET SU           S33003800W0560352100                                                                                
+SSAMEAENRT   NEGIR SU           S33405400W056570200                                                                                 
+SSAMEAENRT   NIMBO SU           S34304810W0562931100                                                                                
+SSAMEAENRT   OGMAR SU           S33173500W054085600                                                                                 
+SSAMEAENRT   OGRUN SU           S32034320W053503420                                                                                 
+SSAMEAENRT   OPSOS SU           S32241800W0565124100                                                                                
+SSAMEAENRT   PABOT SU           S34153510W0565133100                                                                                
+SSAMEAENRT   PALOL SU           S32521110W057352600                                                                                 
+SSAMEAENRT   PONPA SU           S33562500W057185900                                                                                 
+SSAMEAENRT   RAMON SU           S34195510W056002900                                                                                 
+SSAMEAENRT   RANDE SU           S33393010W0570051100                                                                                
+SSAMEAENRT   RIONE SU           S33032910W056583000                                                                                 
+SSAMEAENRT   SANDI SU           S33365400W055590300                                                                                 
+SSAMEAENRT   SANDU SU           S32120310W057332300                                                                                 
+SSAMEAENRT   SOLIS SU           S34205700W0552528100                                                                                
+SSAMEAENRT   SUNGA SU           S34372729W056020029                                                                                 
+SSAMEAENRT   TELAK SU           S34203400W055393800                                                                                 
+SSAMEAENRT   TOPEB SU           S31180600W057155900                                                                                 
+SSAMEAENRT   TORON SU           S33313100W057540600                                                                                 
+SSAMEAENRT   UGURA SU           S32361610W0532026100                                                                                
+SSAMDB       ASI   SU000395     S34472230W056154690                                                                                 
+SSAMDB       CAR   SU000380     S34460630W056013390                                                                                 
+SSAMDB       CA    SU000280     S34470490W055563630                                                                                 
+SSAMDB       COL   SU000203     S34271420W057461230                                                                                 
+SSAMDB       LS    SU000239     S34514310W055060110                                                                                 
+SSAMDB       MP    SU000298     S33203540W056292820                                                                                 
+SSAMDB       DO    SU000245     S33213510W056325910                                                                                 
+SSAMDB       BD    SU000277     S33232980W056305650                                                                                 
+SSAMDB       MO    SU000274     S32202420W054132600                                                                                 
+SSAMDB       PN    SU000360     S32214560W058040970                                                                                 
+SSAMDB       RV    SU000260     S30591430W055292190                                                                                 
+SSAMDB       RVA   SU000305     S31003690W0553047100                                                                                
+SSAMDB       TBO   SU000280     S31450370W0555542100                                                                                
+SSAMD        LDS   SU011760V    S34512990W055053020                                                                                 
+SSAMD        DUR   SU011750V    S33212250W056294580                                                                                 
+SSAMD        MLO   SU011430V    S32203280W054131910                                                                                 
+SSAMD        MCS   SU011390V    S30160000W0573817100                                                                                
+SSAMD        TMB   SU011260V    S31450100W055552590                                                                                 
+SSAMD        LDS   SU011760 D   S34512990W055053020                                                                                 
+SSAMD        DUR   SU011750 D   S33212250W056294580                                                                                 
+SSAMD        MCS   SU011390 D   S30160000W0573817100                                                                                
+SSAMER       W19         0060BISOKSUEA      O                                      06000     24500                                  
+SSAMER       W19         0070MEVIVSUEA      O                             0988     06000     24500                                  
+SSAMER       W25         0100DRACASUEA      O                             0300     06000     24500                                  
+SSAMER       W25         0110RANDESUEA      O                             0559     06000     24500                                  
+SSAMER       W25         0120PN   SUD       O                             0942     06000     24500                                  
+SSAMER       W25         0130STO  SAD       O                             0559     05000     24500                                  
+SSAMER       W25         0140MEVIVSUEA      O                             0377     05000     24500                                  
+SSAMER       W25         0150MASOLSUEA      O                             0563     05000     24500                                  
+SSAMER       W25         0160RVA  SUD       O                             0354     05000     24500                                  
+SSAMER       W3          0520MLO  SUD       O                                      06000     24500                                  
+SSAMER       W3          0530RVA  SUD       O                             1037     06000     24500                                  
+SSAMER       W27         0280DUR  SUD       O                                      06000     24500                                  
+SSAMER       W27         0290RIONESUEA      O                             0300     06000     24500                                  
+SSAMER       W27         0300LORESSUEA      O                             0092     06000     24500                                  
+SSAMER       W27         0310PN   SUD       O                             0601     06000     24500                                  
+SSAMER       W15         0170RAMONSUEA      O                             0301     05000     24500                                  
+SSAMER       W15         0180SANDISUEA      O                             0431     05000     24500                                  
+SSAMER       W15         0190CARMESUEA      O                             0295     05000     24500                                  
+SSAMER       W15         0200TMB  SUD       O                             0825     05000     24500                                  
+SSAMER       W15         0210RVA  SUD       O                             0492     05000     24500                                  
+SSAMER       W29         0010COL  SUD       O                                      06000     24500                                  
+SSAMER       W29         0020BERTA  EA      O                             0574     06000     24500                                  
+SSAMER       A314        0010ISALASUEA      O                                      03500     24500                                  
+SSAMER       A314        0020BGE  SBD       O                             0243     03500     24500                                  
+SSAMER       A314        0050MUMETSUEA      O                                      06000     24500                                  
+SSAMER       A314        0060DUR  SUD       O                             0300     06000     24500                                  
+SSAMER       A314        0070NEGIRSUEA      O                             0300     06000     24500                                  
+SSAMER       A314        0080PONPASUEA      O                             0240     06000     24500                                  
+SSAMER       A314        0090PAPIX  EA      O                             0444     04500     24500                                  
+SSAMER       G680        0030OPSOSSUEA      O                             1308     06000     24500                                  
+SSAMER       G680        0040GUA  SAD       O                             0959     06000     24500                                  
+SSAMER       W16         0190MASOLSUEA      O                                      05000     24500                                  
+SSAMER       W16         0200TMB  SUD       O                             0403     05000     24500                                  
+SSAMER       W23         0160LOMUXSUEA      O                             0300     06000     24500                                  
+SSAMER       W23         0270GORIOSUEA      O                                      06000     24500                                  
+SSAMER       W23         0280LORESSUEA      O                             0109     06000     24500                                  
+SSAMER       W23         0290SANDUSUEA      O                             0509     06000     24500                                  
+SSAMER       W23         0300STO  SAD       O                             0509     06000     24500                                  
+SSAMER       A556-       0010BISOKSUEA      O                                      06000     24500                                  
+SSAMER       A556-       0020DUR  SUD       O                             0301     06000     24500                                  
+SSAMER       A556-       0040MONSASUEA      O                             0301     06000     24500                                  
+SSAMER       A556        0010BISOKSUEA      O                                      06000     24500                                  
+SSAMER       A556        0020OPSOSSUEA      O                             0299     06000     24500                                  
+SSAMER       A556        0030MCS  SUD       O                             1345     04500     24500                                  
+SSAMER       A556        0040BITUSSAEA      O                             1240     04500     24500                                  
+SSAMER       A305        0050LDS  SUD       O                             0460     05000     24500                                  
+SSAMER       A305        0060LITOSSUEA      O                             0300     06000     24500                                  
+SSAMER       A305        0070BOLATSUEA      O                             0595     06000     24500                                  
+SSAMER       A305        0080UGELOSBEA      O                             0734     06000     24500                                  
+SSAMER       B555        0020NIMBOSUEA      O                             0300     05000     24500                                  
+SSAMER       B555        0030PONPASUEA      O                             0535     05000     24500                                  
+SSAMER       B555        0040GUA  SAD       O                             0857     04500     24500                                  
+SSAMER       A309        0020SOLISSUEA      O                             0415     05000     24500                                  
+SSAMER       A309        0030OGMARSUEA      O                             0898     05000     24500                                  
+SSAMER       A309        0040UGURASUEA      O                             0580     05000     24500                                  
+SSAMER       A309        0050PTS  SBD       O                             0740     03500     24500                                  
+SSAMER       A310-       0020TELAKSUEA      O                             0345     06000     24500                                  
+SSAMER       A306        0060LDS  SUD       O                             0402     06000     24500                                  
+SSAMER       B688        0070MCS  SUD       O                             0267     04500     24500                                  
+SSAMER       UM654       0140GAMOTSUEA      O                             2363     24500     60000                                  
+SSAMER       UM654       0150KUKEN  EA      O                             2383     24500     60000                                  
+SSAMER       UN857       0600MLO  SUD       O                                      24500     60000                                  
+SSAMER       UN857       0610OGRUNSUEA      O                             0256     24500     60000                                  
+SSAMER       UA432       0060GAMOTSUEA      O                             1114     24500     60000                                  
+SSAMER       UA432       0070GUTILSUEA      O                             0706     24500     60000                                  
+SSAMER       UA432       0080TOPEBSUEA      O                             0230     24500     60000                                  
+SSAMER       UA432       0090STO  SAD       O                             0377     24500     45000                                  
+SSAMER       UW64        0080MCS  SUD       O                             0267     24500     45000                                  
+SSAMER       UW7         0190MCS  SUD       O                                      24500     45000                                  
+SSAMER       UW7         0200SIS  SAD       O                             1850     24500     45000                                  
+SSAMER       UA314       0020ISALASUEA      O                             0243     24500     60000                                  
+SSAMER       UA314       0030DALGOSUEA      O                             0753     24500     60000                                  
+SSAMER       UA314       0040DUR  SUD       O                             0694     24500     60000                                  
+SSAMER       UA314       0050PONPASUEA      O                             0540     24500     60000                                  
+SSAMER       UA314       0060PAPIX  EA      O                             0444     24500     45000                                  
+SSAMER       UG680       0030OPSOSSUEA      O                             1308     24500     60000                                  
+SSAMER       UA556       0020MONSASUEA      O                             0301     24500     60000                                  
+SSAMER       UA556       0030LOMIDSUEA      O                             0288     24500     60000                                  
+SSAMER       UA556       0040DUR  SUD       O                             0329     24500     60000                                  
+SSAMER       UA556       0050KADUSSUEA      O                             0386     24500     60000                                  
+SSAMER       UA556       0060OPSOSSUEA      O                             0214     24500     60000                                  
+SSAMER       UA556       0070DAYMASUEA      O                             0389     24500     60000                                  
+SSAMER       UA556       0080TOPEBSUEA      O                             0306     24500     60000                                  
+SSAMER       UA556       0090MCS  SUD       O                             0650     24500     45000                                  
+SSAMER       UA556       0100BITUSSAEA      O                             1240     24500     45000                                  
+SSAMER       UA310       0140MLO  SUD       O                             1027     24500     60000                                  
+SSAMER       UM540       0040MOLBISUEA      O                             0389     24500     60000                                  
+SSAMER       UA305       0050LDS  SUD       O                             0460     24500     60000                                  
+SSAMER       UA305       0060LITOSSUEA      O                             0300     24500     60000                                  
+SSAMER       UA305       0070UGELOSBEA      O                             1329     24500     60000                                  
+SSAMER       UB555       0020NIMBOSUEA      O                             0300     24500     60000                                  
+SSAMER       UB555       0030PABOTSUEA      O                             0237     24500     60000                                  
+SSAMER       UB555       0040PONPASUEA      O                             0297     24500     60000                                  
+SSAMER       UB555       0050TORONSUEA      O                             0384     24500     60000                                  
+SSAMER       UB555       0060GUA  SAD       O                             0473     24500     60000                                  
+SSAMER       UA309       0020SOLISSUEA      O                             0415     24500     60000                                  
+SSAMER       UA309       0030OGMARSUEA      O                             0898     24500     60000                                  
+SSAMER       UA309       0040UGURASUEA      O                             0580     24500     60000                                  
+SSAMER       UA309       0050PTS  SBD       O                             0740     24500     60000                                  
+SSAMER       UA310       0020TELAKSUEA      O                             0345     24500     60000                                  
+SSAMER       UL324       0010DAYMASUEA      O                                      24500     45000                                  
+SSAMER       UL324       0020GUTILSUEA      O                             0367     24500     60000                                  
+SSAMER       UL324       0030CUARASBEA      O                             0545     24500     45000                                  
+SSAMER       UL324       0090TORONSUEA      O                             0425     24500     60000                                  
+SSAMER       UL324       0100PALOLSUEA      O                             0423     24500     60000                                  
+SSAMER       UA306       0140LDS  SUD       O                                      24500     60000                                  
+SSAMER       UA306       0150LUCIO  EA      O                             0402     24500     60000                                  
+SSAMER       UB449       0010MLO  SUD       O                                      24500     60000                                  
+SSAMER       UB449       0020DALGOSUEA      O                             0662     24500     60000                                  
+SSAMER       UB449       0030KADUSSUEA      O                             0630     24500     60000                                  
+SSAMER       UB449       0040PALOLSUEA      O                             0441     24500     60000                                  
+SSAMER       UB449       0050GUA  SAD       O                             0523     24500     60000                                  
+SSAMER       UA308       0030PABOTSUEA      O                             0425     24500     60000                                  
+SSAMER       UA308       0040LOMIDSUEA      O                             0347     24500     60000                                  
+SSAMER       UA308       0050MLO  SUD       O                             1408     24500     60000                                  
+SSAMER       UB688       0110MCS  SUD       O                             1940     24500     45000                                  

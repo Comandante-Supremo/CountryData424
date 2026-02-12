@@ -1,0 +1,272 @@
+SEUREAENRT   ABITU LZ           N48195910E0181928100                                                                                
+SEUREAENRT   ANEXA LZ           N47511610E0182909100                                                                                
+SEUREAENRT   B0001 LZ           N48112010E017110088                                                                                 
+SEUREAENRT   B0002 LZ           N48112426E017105443                                                                                 
+SEUREAENRT   BERVA LZ           N48370325E017322820                                                                                 
+SEUREAENRT   BUKOB LZ           N49133950E018184120                                                                                 
+SEUREAENRT   CIFER LZ           N48192844E017260979                                                                                 
+SEUREAENRT   CN077 LZ           N48294047E017464398                                                                                 
+SEUREAENRT   CNB63 LZ           N48281888E017522658                                                                                 
+SEUREAENRT   DEDIS LZ           N48375012E020433166                                                                                 
+SEUREAENRT   EBENI LZ           N48433810E021353400                                                                                 
+SEUREAENRT   EPEDA LZ           N48522410E0195725100                                                                                
+SEUREAENRT   GORUP LZ           N48391919E021572121                                                                                 
+SEUREAENRT   INPOX LZ           N48380700E019371200                                                                                 
+SEUREAENRT   JAN08 LZ           N48074932E017435475                                                                                 
+SEUREAENRT   JAN11 LZ           N48022738E018012942                                                                                 
+SEUREAENRT   JAN12 LZ           N48033863E017572307                                                                                 
+SEUREAENRT   JAN13 LZ           N48234251E017320012                                                                                 
+SEUREAENRT   JAN21 LZ           N48314220E017313480                                                                                 
+SEUREAENRT   JAN35 LZ           N48235310E017323500                                                                                 
+SEUREAENRT   JAN42 LZ           N48150595E017384838                                                                                 
+SEUREAENRT   JAN95 LZ           N48011610E017311218                                                                                 
+SEUREAENRT   KEKED LZ           N48312294E021172923                                                                                 
+SEUREAENRT   KELEL LZ           N49184810E020103100                                                                                 
+SEUREAENRT   KENIN LZ           N48214100E021553830                                                                                 
+SEUREAENRT   KOLAL LZ           N49183443E018303005                                                                                 
+SEUREAENRT   KOPAT LZ           N49062300E0183915100                                                                                
+SEUREAENRT   KULIN LZ           N48293110E019270500                                                                                 
+SEUREAENRT   LEDRI LZ           N48052720E017105826                                                                                 
+SEUREAENRT   LENOV LZ           N49201100E021003700                                                                                 
+SEUREAENRT   LOLKA LZ           N49131110E020060000                                                                                 
+SEUREAENRT   MAKAL LZ           N49144563E018095658                                                                                 
+SEUREAENRT   MAREG LZ           N48112576E016580872                                                                                 
+SEUREAENRT   MARKA LZ           N48540769E020413712                                                                                 
+SEUREAENRT   NIDOK LZ           N48530810E0184842100                                                                                
+SEUREAENRT   NIT05 LZ           N48142584E017570292                                                                                 
+SEUREAENRT   NIT08 LZ           N48180844E017510631                                                                                 
+SEUREAENRT   NIT12 LZ           N48101368E017484097                                                                                 
+SEUREAENRT   NIT17 LZ           N48235855E017383311                                                                                 
+SEUREAENRT   NIT21 LZ           N48245500E017325700                                                                                 
+SEUREAENRT   NIT28 LZ           N48234739E017403704                                                                                 
+SEUREAENRT   NIT72 LZ           N48191546E017314213                                                                                 
+SEUREAENRT   NOKRI LZ           N48550210E0210948100                                                                                
+SEUREAENRT   NUBRA LZ           N47520000E017300000                                                                                 
+SEUREAENRT   OB011 LZ           N48011702E017263442                                                                                 
+SEUREAENRT   OB074 LZ           N48050278E017204754                                                                                 
+SEUREAENRT   OB101 LZ           N48055352E017224332                                                                                 
+SEUREAENRT   OB249 LZ           N48045606E017092641                                                                                 
+SEUREAENRT   OBLLZ LZ           N48104159E017120029                                                                                 
+SEUREAENRT   OKR18 LZ           N48081150E017104308                                                                                 
+SEUREAENRT   OKR65 LZ           N48152006E017200829                                                                                 
+SEUREAENRT   OKR71 LZ           N48144272E017221884                                                                                 
+SEUREAENRT   PODAN LZ           N49244600E021262100                                                                                 
+SEUREAENRT   R1756 LZ           N48104656E017133527                                                                                 
+SEUREAENRT   R1757 LZ           N48092628E017135710                                                                                 
+SEUREAENRT   R1758 LZ           N48365945E017493079                                                                                 
+SEUREAENRT   RASEK LZ           N49055052E0183938100                                                                                
+SEUREAENRT   REDSI LZ           N49135910E0193821100                                                                                
+SEUREAENRT   RIMIT LZ           N48441200E0185501100                                                                                
+SEUREAENRT   RUKUS LZ           N48591810E018442000                                                                                 
+SEUREAENRT   RUTOL LZ           N47572900E018303600                                                                                 
+SEUREAENRT   SERED LZ           N48172649E017420487                                                                                 
+SEUREAENRT   SOMID LZ           N48301900E0174301100                                                                                
+SEUREAENRT   SUBET LZ           N49155210E0185425100                                                                                
+SEUREAENRT   TABIN LZ           N48005500E0180503100                                                                                
+SEUREAENRT   TAGOD LZ           N48303810E0193656100                                                                                
+SEUREAENRT   TAKOS LZ           N48345700E020160000                                                                                 
+SEUREAENRT   TEPNI LZ           N48414628E019510894                                                                                 
+SEUREAENRT   UBARU LZ           N48360810E019244200                                                                                 
+SEUREAENRT   ULPIS LZ           N48233610E018425900                                                                                 
+SEUREAENRT   VYDRA LZ           N48020888E017324459                                                                                 
+SEUREAENRT   XELEN LZ           N48231200E0174610100                                                                                
+SEUREAENRT   XENAK LZ           N48070715E017175573                                                                                 
+SEURDB       B     LZ000438     N48090268E017143371                                                                                 
+SEURDB       C     LZ000297     N48362931E017492015                                                                                 
+SEURDB       D     LZ000429     N48111086E017141028                                                                                 
+SEURDB       DBV   LZ000310     N48512904E018475787                                                                                 
+SEURDB       KE    LZ000425     N48351721E021125425                                                                                 
+SEURDB       RP    LZ000477     N48282710E0170908100                                                                                
+SEURDB       NIT   LZ000398     N48175408E018030879                                                                                 
+SEURDB       CN    LZ000453     N48341475E017483014                                                                                 
+SEURDB       OKR   LZ000391     N48132592E017172515                                                                                 
+SEURDB       OB    LZ000330     N48065338E017175412                                                                                 
+SEURDB       PE    LZ000438     N49034578E020263252                                                                                 
+SEURDB       PW    LZ000418     N49044841E020042113                                                                                 
+SEURDB       PPD   LZ000317     N49040564E020211259                                                                                 
+SEURDB       TR    LZ000338     N48513910E017563000                                                                                 
+SEURDB       ZLA   LZ000404     N49121040E018303762                                                                                 
+SEURD        JAN   LZ011080V    N48104210E0173240100                                                                                
+SEURD        KSC   LZ010820V    N48405912E021145340                                                                                 
+SEURD        NIT   LZ011650V    N48172557E018030230                                                                                 
+SEURD        SLC   LZ011400V    N48271167E019065707                                                                                 
+SEURD        PPD   LZ011210V    N49035312E020210009                                                                                 
+SEURD        CN    LZ010930 D   N48370707E017494022                                                                                 
+SEURD        FS    LZ010870 D   N48374650E019075442                                                                                 
+SEURD        JAN   LZ011080 D   N48104210E0173240100                                                                                
+SEURD        KSC   LZ010820 D   N48405912E021145340                                                                                 
+SEURD        NIT   LZ011650 D   N48172557E018030230                                                                                 
+SEURD        SLC   LZ011400 D   N48271167E019065707                                                                                 
+SEURD        PPD   LZ011210 D   N49035312E020210009                                                                                 
+SEURD        OKR   LZ010830 D   N48103593E017132915                                                                                 
+SEURER       L856        0040SUBETLZEA      O                             0303     07700     24500                                  
+SEURER       L856        0050KOPATLZEA      O                             0137     07700     24500                                  
+SEURER       L856        0200MAREGLZEA      O                                      10500     24500                                  
+SEURER       L856        0210OKR  LZD       O                             0130     10500     24500                                  
+SEURER       L856        0220SOMIDLZEA      O                             0240     10500     24500                                  
+SEURER       Z32         0020DBV  LZD       O                             0523     07700     24500                                  
+SEURER       N133        0110KEKEDLZEA      O                             0799     12500     24500                                  
+SEURER       N133        0120LENOVLZEA      O                             0501     09500     28500                                  
+SEURER       N133        0130GOSAKEPEA      O                             0782     09500     28500                                  
+SEURER       M748        0230RUTOLLZEA      O                             0127     03600     24500                                  
+SEURER       M748        0240NIT  LZD       O                             0272     03600     24500                                  
+SEURER       B45         0020SLC  LZD       O                             0237     04600     24500                                  
+SEURER       B45         0030RIMITLZEA      O                             0188     06400     24500                                  
+SEURER       B45         0040NIDOKLZEA      O                             0099     06400     24500                                  
+SEURER       B45         0050BILNALKEA      O                             0337     06400     24500                                  
+SEURER       L623        0130LENOVLZEA      O                             0598     09500     28500                                  
+SEURER       M857        0130PODANLZEA      O                             0824     19500     28500                                  
+SEURER       L175        0090MAREGLZEA      O                             0403     05000     24500                                  
+SEURER       L175        0100XENAKLZEA      O                             0139     03600     24500                                  
+SEURER       L619        0200KENINLZEA      O                             0398     05000     24500                                  
+SEURER       L619        0310LENOVLZEA      O                                      19500     28500                                  
+SEURER       L619        0320SUDOLEPEA      O                             1277     19500     28500                                  
+SEURER       W35         0010JAN  LZD       O                                      03600     24500                                  
+SEURER       W35         0020BERVALZEA      O                             0264     03600     24500                                  
+SEURER       W35         0030MAVORLKEA      O                             0122     04500     24500                                  
+SEURER       M173        0040KEKEDLZEA      O                                      04000     24500                                  
+SEURER       M173        0050SAG  LHD       O                             0331     04000     24500                                  
+SEURER       A4-M7       0010NIT  LZD       O                                      03600     24500                                  
+SEURER       A4-M7       0020BERVALZEA      O                             0282     03600     24500                                  
+SEURER       A4-M7       0030ODNEMLKEA      O                             0205     03600     24500                                  
+SEURER       P974        0010BERVALZEA      O                                      06500     24500                                  
+SEURER       P974        0020TABINLZEA      O                             0422     06500     24500                                  
+SEURER       B7          0130KSC  LZD       O                                      05500     24500                                  
+SEURER       B7          0140NOKRILZEA      O                             0145     05500     24500                                  
+SEURER       B7          0150LENOVLZEA      O                             0259     05500     24500                                  
+SEURER       M985        0200NIT  LZD       O                                      03200     24500                                  
+SEURER       M985        0210JAN  LZD       O                             0213     03200     24500                                  
+SEURER       M985        0220XENAKLZEA      O                             0105     03200     24500                                  
+SEURER       M985        0230LEDRILZEA      O                             0049     03200     24500                                  
+SEURER       M985-       0020DBV  LZD       O                             0489     07700     24500                                  
+SEURER       M985-       0030NIT  LZD       O                             0452     06700     24500                                  
+SEURER       A42         0110EBENILZEA      O                             0315     05900     24500                                  
+SEURER       A42         0120KSC  LZD       O                             0139     05900     24500                                  
+SEURER       A42         0130DEDISLZEA      O                             0210     05900     24500                                  
+SEURER       A42         0140TAKOSLZEA      O                             0184     05900     24500                                  
+SEURER       A42         0150TAGODLZEA      O                             0262     05900     24500                                  
+SEURER       A42         0160KULINLZEA      O                             0066     05900     24500                                  
+SEURER       A42         0170SLC  LZD       O                             0136     05900     24500                                  
+SEURER       A42         0180ULPISLZEA      O                             0163     04500     24500                                  
+SEURER       L616        0150NIT  LZD       O                                      06500     24500                                  
+SEURER       L616        0160TABINLZEA      O                             0166     06500     24500                                  
+SEURER       Q108        0010NUBRALZEA      RH                                     04000     24500                                  
+SEURER       Q108        0020EVAXILHEA      RH                            0170     06000     66000                                  
+SEURER       R53         0010PPD  LZD       O                                      09800     24500                                  
+SEURER       R53         0020EPEDALZEA      O                             0193     09800     24500                                  
+SEURER       R53         0030UBARULZEA      O                             0270     09800     24500                                  
+SEURER       R53         0040SLC  LZD       O                             0148     09800     24500                                  
+SEURER       Q350        0020TABINLZEA      RH                            0289     03600     24500                                  
+SEURER       Q350        0030JAN  LZD       RH                            0238     03600     24500                                  
+SEURER       Q350        0040OKR  LZD       RH                            0105     03600     24500                                  
+SEURER       R232        0070LOLKALZEA      O                             0228     10500     19500                                  
+SEURER       R232        0080PPD  LZD       O                             0135     10700     24500                                  
+SEURER       R232        0090MARKALZEA      O                             0167     09800     24500                                  
+SEURER       R232        0100KSC  LZD       O                             0256     04100     24500                                  
+SEURER       R232        0110KEKEDLZEA      O                             0098     05000     24500                                  
+SEURER       R232        0120KARILLHEA      O                             0636     05000     24500                                  
+SEURER       W425        0010KSC  LZD       O                                      04500     24500                                  
+SEURER       W425        0020GORUPLZEA      O                             0281     04500     24500                                  
+SEURER       W425        0030LASOTUKEA      O                             0116     04500     24500                                  
+SEURER       Q572        0040JAN  LZD       RH                            0240     03600     08500                                  
+SEURER       R23         0010NIT  LZD       O                                      03600     24500                                  
+SEURER       R23         0020OKR  LZD       O                             0307     03600     24500                                  
+SEURER       P27         0020MAKALLZEA      O                             0254     09500     24500                                  
+SEURER       P27         0030ZLA  LZD       O                             0138     04600     24500                                  
+SEURER       P27         0040PPD  LZD       O                             0727     10700     24500                                  
+SEURER       P27         0050MALBEUKEA      O                             0811     10700     24500                                  
+SEURER       Y301        0010LEDRILZEA      O                                      03600     24500                                  
+SEURER       Y301        0020MAREGLZEA      O                             0104     03600     24500                                  
+SEURER       L853        0010TAGODLZEA      O                                      15000     24500                                  
+SEURER       L853        0020LITKULHEA      O                             0168     15000     24500                                  
+SEURER       M141        0060OKR  LZD       O                             0148     03600     24500                                  
+SEURER       Q573        0030TABINLZEA      RH                            0156     03600     08500                                  
+SEURER       UZ32        0020DBV  LZD       O                             0523     24500     66000                                  
+SEURER       UL856       0030KOPATLZEA      O                             0440     24500     66000                                  
+SEURER       UL856       0040SOMIDLZEA      O                             0517     24500     66000                                  
+SEURER       UL856       0050OKR  LZD       O                             0240     24500     66000                                  
+SEURER       UL856       0060MAREGLZEA      O                             0130     24500     60000                                  
+SEURER       UL856       0070GISPOLOEA      O                             0341     24500     60000                                  
+SEURER       UZ201       0020REDSILZEA      O                             0237     24500     66000                                  
+SEURER       UZ201       0030TEPNILZEA      O                             0333     24500     66000                                  
+SEURER       UZ201       0040DEMOPLHEA      O                             0324     24500     66000                                  
+SEURER       UL620       0360NIDOKLZEA      O                                      24500     66000                                  
+SEURER       UL620       0370PITOKLHEA      O                             0705     24500     66000                                  
+SEURER       UL867       0130TEPNILZEA      O                             0304     24500     66000                                  
+SEURER       UL867       0140OTA26LKEA      O                             0661     24500     66000                                  
+SEURER       UP45        0030SLC  LZD       O                             0237     24500     66000                                  
+SEURER       UP45        0040NIDOKLZEA      O                             0286     24500     66000                                  
+SEURER       UP45        0050RUKUSLZEA      O                             0068     24500     66000                                  
+SEURER       UP45        0060KOPATLZEA      O                             0078     24500     66000                                  
+SEURER       UP45        0070BILNALKEA      O                             0191     24500     66000                                  
+SEURER       UL619       0210KENINLZEA      O                             0398     24500     66000                                  
+SEURER       UL619       0220LENOVLZEA      O                             0688     24500     66000                                  
+SEURER       UL619       0230SUDOLEPEA      O                             1277     28500     46000                                  
+SEURER       UM985       0260DBV  LZD       O                             0489     24500     66000                                  
+SEURER       UM985       0270NIT  LZD       O                             0452     24500     66000                                  
+SEURER       UM985       0280JAN  LZD       O                             0213     24500     66000                                  
+SEURER       UM985       0290XENAKLZEA      O                             0105     24500     66000                                  
+SEURER       UM985       0300LEDRILZEA      O                             0049     24500     66000                                  
+SEURER       UM857       0090KEKEDLZEA      O                                      24500     66000                                  
+SEURER       UM857       0100PODANLZEA      O                             0537     24500     66000                                  
+SEURER       UM857       0110RILABEPEA      O                             0824     28500     46000                                  
+SEURER       UL175       0100MAREGLZEA      O                             0403     24500     66000                                  
+SEURER       UL175       0110XENAKLZEA      O                             0139     24500     66000                                  
+SEURER       UL623       0080LENOVLZEA      O                             0619     28500     46000                                  
+SEURER       UL623       0090BAREXEPEA      O                             1281     28500     46000                                  
+SEURER       UZ200       0010PODANLZEA      O                                      24500     66000                                  
+SEURER       UZ200       0020DEMOPLHEA      O                             0923     24500     66000                                  
+SEURER       UM173       0050KEKEDLZEA      O                                      24500     66000                                  
+SEURER       UM173       0060SAG  LHD       O                             0331     24500     66000                                  
+SEURER       UT44        0010JAN  LZD       O                                      24500     66000                                  
+SEURER       UT44        0020BERVALZEA      O                             0264     24500     66000                                  
+SEURER       UT44        0030MAVORLKEA      O                             0122     24500     66000                                  
+SEURER       UM748       0160BERVALZEA      O                             0205     24500     66000                                  
+SEURER       UM748       0170NIT  LZD       O                             0282     24500     66000                                  
+SEURER       UM748       0180RUTOLLZEA      O                             0272     24500     66000                                  
+SEURER       UM748       0190ERGOMLHEA      O                             0127     24500     66000                                  
+SEURER       UP974       0010BERVALZEA      O                                      24500     66000                                  
+SEURER       UP974       0020TABINLZEA      O                             0422     24500     66000                                  
+SEURER       UN133       0140KEKEDLZEA      O                             0799     24500     66000                                  
+SEURER       UN133       0150LENOVLZEA      O                             0501     28500     46000                                  
+SEURER       UN133       0160JED  EPD       O                             0840     28500     46000                                  
+SEURER       UL726       0050SLC  LZD       O                             0610     24500     66000                                  
+SEURER       UP27        0030MAKALLZEA      O                             0254     24500     28500                                  
+SEURER       UP27        0040ZLA  LZD       O                             0138     24500     66000                                  
+SEURER       UP27        0050PPD  LZD       O                             0727     24500     66000                                  
+SEURER       UP27        0060MALBEUKEA      O                             0811     24500     66000                                  
+SEURER       UY444       0050RUKUSLZEA      O                             0268     24500     66000                                  
+SEURER       UL999       0010DBV  LZD       O                                      24500     66000                                  
+SEURER       UL999       0020REDSILZEA      O                             0400     24500     66000                                  
+SEURER       UL999       0030SUPAKEPEA      O                             0076     24500     66000                                  
+SEURER       UL616       0080NIT  LZD       O                             0443     24500     66000                                  
+SEURER       UL616       0090TABINLZEA      O                             0166     24500     66000                                  
+SEURER       UY30        0060NIT  LZD       O                             0620     24500     66000                                  
+SEURER       UM141       0020JAN  LZD       O                             1130     24500     66000                                  
+SEURER       UM141       0030OKR  LZD       O                             0105     24500     66000                                  
+SEURER       UM141       0040TOVKALOEA      O                             0148     24500     66000                                  
+SEURER       UR232       0020KEKEDLZEA      O                             0636     24500     66000                                  
+SEURER       UP193       0010KEKEDLZEA      O                                      24500     66000                                  
+SEURER       UP193       0020KELELLZEA      O                             0647     24500     66000                                  
+SEURER       UP193       0030TRZ  EPD       O                             1677     28500     46000                                  
+SEURER       UB7         0010KEKEDLZEA      O                                      24500     66000                                  
+SEURER       UB7         0020KSC  LZD       O                             0098     24500     66000                                  
+SEURER       UB7         0030LENOVLZEA      O                             0403     24500     66000                                  
+SEURER       UN95        0040SLC  LZD       O                             0235     24500     66000                                  
+SEURER       UM991       0020KSC  LZD       O                             0454     24500     66000                                  
+SEURER       UM991       0030TAKOSLZEA      O                             0394     24500     66000                                  
+SEURER       UM991       0040TAGODLZEA      O                             0262     24500     66000                                  
+SEURER       UM991       0050SLC  LZD       O                             0202     24500     66000                                  
+SEURER       UM991       0060NIT  LZD       O                                      24500     66000                                  
+SEURER       UM991       0070OKR  LZD       O                             0307     24500     66000                                  
+SEURER       UY301       0010LEDRILZEA      O                                      24500     66000                                  
+SEURER       UY301       0020MAREGLZEA      O                             0104     24500     66000                                  
+SEURER       UL853       0010TAGODLZEA      O                                      24500     66000                                  
+SEURER       UL853       0020LITKULHEA      O                             0168     24500     66000                                  
+SEURER       UL853       0050REDSILZEA      O                             0133     24500     66000                                  
+SEURER       UL601       0010NIDOKLZEA      O                                      24500     66000                                  
+SEURER       UL601       0020ROMISLKEA      O                             0312     24500     66000                                  
+SEURER       UY300       0010NIT  LZD       O                                      24500     66000                                  
+SEURER       UY300       0020PATAKLHEA      O                             0450     24500     66000                                  
+SEURER       UR53        0010PPD  LZD       O                                      24500     66000                                  
+SEURER       UR53        0020SLC  LZD       O                             0611     24500     66000                                  

@@ -1,0 +1,119 @@
+SAFREAENRT   1625E HS           N16000000E025000000                                                                                 
+SAFREAENRT   ALPOX HS           N17113068E032083135                                                                                 
+SAFREAENRT   ALVOR HS           N16060872E028020329                                                                                 
+SAFREAENRT   AZAZA HS           N15081624E030530940                                                                                 
+SAFREAENRT   BOPID HS           N16394659E033513968                                                                                 
+SAFREAENRT   DELAM HS           N14400050E029064366                                                                                 
+SAFREAENRT   DENDI HS           N15285260E034163870                                                                                 
+SAFREAENRT   EMITA HS           N14213130E033444476                                                                                 
+SAFREAENRT   ERBUK HS           N12554240E035573160                                                                                 
+SAFREAENRT   GAGNI HS           N13542711E032470598                                                                                 
+SAFREAENRT   GAILY HS           N16111477E032513536                                                                                 
+SAFREAENRT   ILBIB HS           N12324110E022270000                                                                                 
+SAFREAENRT   IMSUT HS           N14204702E031222760                                                                                 
+SAFREAENRT   KASLA HS           N15214710E036190000                                                                                 
+SAFREAENRT   KIMTA HS           N11070000E022570000                                                                                 
+SAFREAENRT   MONAN HS           N09331710E023400000                                                                                 
+SAFREAENRT   ORNAT HS           N20000000E025000000                                                                                 
+SAFREAENRT   RABAK HS           N13011017E032095773                                                                                 
+SAFREAENRT   RADAG HS           N11034364E027002163                                                                                 
+SAFREAENRT   SAMHA HS           N13543762E032180237                                                                                 
+SAFREAENRT   TIKAT HS           N12242460E035381360                                                                                 
+SAFREAENRT   TOKAR HS           N18062400E0374811100                                                                                
+SAFRDB       ATB   HS000273     N17424996E034031317                                                                                 
+SAFRDB       DMZ   HS000343     N11472734E034202447                                                                                 
+SAFRDB       FSR   HS000394     N13372754E025193492                                                                                 
+SAFRDB       OBD   HS000279     N13092421E030141971                                                                                 
+SAFRDB       GNA   HS000261     N13285990E022274904                                                                                 
+SAFRDB       KNA   HS000400     N13100253E032430256                                                                                 
+SAFRDB       NL    HS000358     N12035092E024560186                                                                                 
+SAFRD        DOG   HS011230V    N19105726E030253822                                                                                 
+SAFRD        FSR   HS011500V    N13363771E025194540                                                                                 
+SAFRD        OBD   HS011580V    N13085167E030140038                                                                                 
+SAFRD        KSL   HS011480V    N15214866E036190054                                                                                 
+SAFRD        KNA   HS011540V    N13014329E032542577                                                                                 
+SAFRD        KTM   HS011210V    N15335792E032331215                                                                                 
+SAFRD        MRW   HS011600V    N18265918E031490717                                                                                 
+SAFRD        NYL   HS011630V    N12042145E024582299                                                                                 
+SAFRD        SGD   HS011570V    N15374197E033042217                                                                                 
+SAFRD        DOG   HS011230 D   N19105726E030253822                                                                                 
+SAFRD        FSR   HS011500 D   N13363771E025194540                                                                                 
+SAFRD        OBD   HS011580 D   N13085167E030140038                                                                                 
+SAFRD        KSL   HS011480 D   N15214866E036190054                                                                                 
+SAFRD        KNA   HS011540 D   N13014329E032542577                                                                                 
+SAFRD        KTM   HS011210 D   N15335792E032331215                                                                                 
+SAFRD        MRW   HS011600 D   N18265918E031490717                                                                                 
+SAFRD        NYL   HS011630 D   N12042145E024582299                                                                                 
+SAFRD        SGD   HS011570 D   N15374197E033042217                                                                                 
+SAFRER       A451-       0020TOKARHSEA      O                             0804     11500     60000                                  
+SAFRER       G660D       0040BOPIDHSEA      O                             2535     07500     24500                                  
+SAFRER       G660D       0050KTM  HSD       O                             1001     07500     24500                                  
+SAFRER       G660D       0060GNA  HSD       O                                      05500     24500                                  
+SAFRER       G660D       0070FSR  HSD       O                             1674     05500     24500                                  
+SAFRER       G660D       0080OBD  HSD       O                             2878     07500     24500                                  
+SAFRER       A727        0010GAILYHSEA      O                                      07500     24500                                  
+SAFRER       A727        0020GAGNIHSEA      O                             1370     07500     24500                                  
+SAFRER       A727        0030KNA  HSD       O                             0532     05500     24500                                  
+SAFRER       A727        0070MRW  HSD       O                                      05500     24500                                  
+SAFRER       A727        0080NUBARHEEA      O                             2134     05500     24500                                  
+SAFRER       A410F       0080OBD  HSD       O                                      07500     24500                                  
+SAFRER       A410F       0090RADAGHSEA      O                             2271     07500     24500                                  
+SAFRER       B526        0010KASLAHSEA      O                                      07500     24500                                  
+SAFRER       B526        0020DENDIHSEA      O                             1182     07500     24500                                  
+SAFRER       B526        0030KTM  HSD       O                             0999     07500     24500                                  
+SAFRER       R611        0040TIKATHSEA      O                             0681     15500     66000                                  
+SAFRER       B21D        0030ORNATHSEA      O                             2665     07000     60000                                  
+SAFRER       B612F       0010DELAMHSEA      O                                      07500     24500                                  
+SAFRER       B612F       0020OBD  HSD       O                             1122     07500     24500                                  
+SAFRER       B612F       0030MLK  HJD       O                             2309     07500     24500                                  
+SAFRER       1AW1        0010ORNATHSEA      O                                      05500     24500                                  
+SAFRER       1AW1        0020DOG  HSD       O                             3109     05500     24500                                  
+SAFRER       1AW1        0030MRW  HSD       O                             0905     05500     24500                                  
+SAFRER       1AW1        0040PSD    D       O                             3132     05500     24500                                  
+SAFRER       R611D       0010KTM  HSD       O                                      07500     24500                                  
+SAFRER       R611D       0020EMITAHSEA      O                             1002     07500     24500                                  
+SAFRER       R611D       0030TIKATHSEA      O                             1610     13500     24500                                  
+SAFRER       UG300       0080TIKATHSEA      O                             1738     15500     66000                                  
+SAFRER       B527D       0040RABAKHSEA      O                             2097     05500     24500                                  
+SAFRER       B527D       0050SAMHAHSEA      O                             0541     05500     24500                                  
+SAFRER       B527D       0060KTM  HSD       O                             1005     05500     24500                                  
+SAFRER       A451D       0020TOKARHSEA      O                             0840     07500     24500                                  
+SAFRER       UB607       0030OBD  HSD       O                             2150     24500     60000                                  
+SAFRER       UG660       0040BOPIDHSEA      O                             2535     24500     60000                                  
+SAFRER       UG660       0050KTM  HSD       O                             1001     24500     60000                                  
+SAFRER       UG660       0200FSR  HSD       O                                      24500     60000                                  
+SAFRER       UG660       0210GNA  HSD       O                             1674     24500     60000                                  
+SAFRER       UA620       0010KIMTAHSEA      O                                      24500     46000                                  
+SAFRER       UA620       0020BULGOGTEA      O                             0767     24500     46000                                  
+SAFRER       UG660       0010DELAMHSEA      O                                      24500     60000                                  
+SAFRER       UG660       0020FSR  HSD       O                             2292     24500     60000                                  
+SAFRER       UW110       0010DELAMHSEA      O                                      24500     60000                                  
+SAFRER       UW110       0020KTM  HSD       O                             2066     24500     60000                                  
+SAFRER       UW110       0030FSR  HSD       O                                      24500     60000                                  
+SAFRER       UW110       0040ILBIBHSEA      O                             1801     24500     60000                                  
+SAFRER       UB612       0010DELAMHSEA      O                                      24500     60000                                  
+SAFRER       UB612       0020OBD  HSD       O                             1122     24500     60000                                  
+SAFRER       UB612       0030MLK  HJD       O                             2309     24500     60000                                  
+SAFRER       UB526       0010KASLAHSEA      O                                      24500     60000                                  
+SAFRER       UB526       0020DENDIHSEA      O                             1182     24500     60000                                  
+SAFRER       UB526       0030KTM  HSD       O                             0999     24500     60000                                  
+SAFRER       U1AW1       0010ORNATHSEA      O                                      24500     60000                                  
+SAFRER       U1AW1       0020DOG  HSD       O                             3109     24500     60000                                  
+SAFRER       U1AW1       0030MRW  HSD       O                             0905     24500     60000                                  
+SAFRER       U1AW1       0040PSD    D       O                             3132     24500     60000                                  
+SAFRER       UR611       0010KTM  HSD       O                                      24500     60000                                  
+SAFRER       UR611       0020EMITAHSEA      O                             1002     24500     60000                                  
+SAFRER       UR611       0030TIKATHSEA      O                             1610     24500     60000                                  
+SAFRER       UR995       0010ERBUKHSEA      O                                      24500     66000                                  
+SAFRER       UR995       0020OKLATHAEA      O                             1828     24500     66000                                  
+SAFRER       UA727       0010KNA  HSD       O                                      24500     60000                                  
+SAFRER       UA727       0020GAGNIHSEA      O                             0532     24500     60000                                  
+SAFRER       UA727       0030KTM  HSD       O                             1005     24500     60000                                  
+SAFRER       UA727       0100MRW  HSD       O                                      24500     60000                                  
+SAFRER       UA727       0110NUBARHEEA      O                             2134     24500     60000                                  
+SAFRER       UB527       0040RABAKHSEA      O                             2097     24500     60000                                  
+SAFRER       UB527       0050SAMHAHSEA      O                             0541     24500     60000                                  
+SAFRER       UB527       0060KTM  HSD       O                             1005     24500     60000                                  
+SAFRER       UA410       0050OBD  HSD       O                                      24500     60000                                  
+SAFRER       UA410       0060RADAGHSEA      O                             2271     24500     60000                                  
+SAFRER       UA451       0020TOKARHSEA      O                             0840     24500     60000                                  

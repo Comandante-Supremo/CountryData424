@@ -1,0 +1,188 @@
+SEUREAENRT   ABDAN              N38354110E059220000                                                                                 
+SEUREAENRT   ABEKO              N39343000E0555353100                                                                                
+SEUREAENRT   AFGAN              N38235910E0581659100                                                                                
+SEUREAENRT   AGMAL              N39475910E0540859100                                                                                
+SMESEAENRT   AKRAM              N39534200E060171200                                                                                 
+SMESEAENRT   ARKEK              N37360000E0621059100                                                                                
+SMESEAENRT   ARSUV              N38524800E060301800                                                                                 
+SEUREAENRT   ASB00              N38030105E058134489                                                                                 
+SEUREAENRT   ASB02              N37585132E058233675                                                                                 
+SEUREAENRT   ASB03              N38031900E058140104                                                                                 
+SEUREAENRT   ASB04              N38012037E058165403                                                                                 
+SEUREAENRT   ASB06              N37564083E058280301                                                                                 
+SEUREAENRT   ASB09              N37560717E058295693                                                                                 
+SEUREAENRT   ASB10              N37560232E058294598                                                                                 
+SEUREAENRT   ASB20              N38033824E058165577                                                                                 
+SEUREAENRT   ASB27              N38052968E058163684                                                                                 
+SEUREAENRT   ASB36              N37575262E058252316                                                                                 
+SEUREAENRT   ASB46              N38005980E058182298                                                                                 
+SEUREAENRT   ASB66              N38015869E058161061                                                                                 
+SEUREAENRT   ASB86              N37590554E058312874                                                                                 
+SEUREAENRT   ASB91              N37583432E058283987                                                                                 
+SMESEAENRT   ATAMT              N37490000E065130000                                                                                 
+SMESEAENRT   ATLAR              N38080510E062411200                                                                                 
+SEUREAENRT   ATREK              N39295310E0540129100                                                                                
+SEUREAENRT   BABUM              N39492310E0544547100                                                                                
+SEUREAENRT   BAHAR              N38470510E058332400                                                                                 
+SEUREAENRT   BALAT              N40383000E057060000                                                                                 
+SMESEAENRT   BEDEV              N38112310E0623253100                                                                                
+SEUREAENRT   BEGLI              N40523000E055005400                                                                                 
+SMESEAENRT   BELUG              N37450000E0603159100                                                                                
+SEUREAENRT   BIBIM              N39414200E0552129100                                                                                
+SEUREAENRT   BIKDA              N37513510E059340000                                                                                 
+SEUREAENRT   BODBA              N38531200E0583741100                                                                                
+SEUREAENRT   BUKEK              N38361710E0553105100                                                                                
+SEUREAENRT   BUROT              N38300000E059000000                                                                                 
+SEUREAENRT   DLONA              N40245310E0594453100                                                                                
+SEUREAENRT   DOKAN              N39285400E0575935100                                                                                
+SEUREAENRT   DOLOS              N37500260E058020090                                                                                 
+SMESEAENRT   DOMAK              N37412310E063183600                                                                                 
+SEUREAENRT   DOMOL              N39540600E059051200                                                                                 
+SMESEAENRT   DUTAR              N38391800E0612305100                                                                                
+SMESEAENRT   GIPUN              N38122400E064430000                                                                                 
+SEUREAENRT   GIRAT              N42223600E0591641100                                                                                
+SEUREAENRT   GIREK              N41432310E057203000                                                                                 
+SEUREAENRT   GIRUN              N38060863E056201874                                                                                 
+SMESEAENRT   GITAB              N37510600E0641735100                                                                                
+SEUREAENRT   GUDRA              N37580863E058344290                                                                                 
+SMESEAENRT   GUMLI              N38014110E063403600                                                                                 
+SEUREAENRT   IDRIS              N40160510E055450000                                                                                 
+SEUREAENRT   KEKAL              N39220510E0564829100                                                                                
+SEUREAENRT   KEMOR              N37534800E059125400                                                                                 
+SMESEAENRT   KENAL              N37032400E0624641100                                                                                
+SEUREAENRT   KENEP              N40193000E057454200                                                                                 
+SEUREAENRT   KENIP              N38230510E055310000                                                                                 
+SEUREAENRT   KESEK              N39165910E055340000                                                                                 
+SEUREAENRT   LINDA              N40465910E0573759100                                                                                
+SEUREAENRT   LITOR              N39540600E059220000                                                                                 
+SMESEAENRT   MAGDI              N37465910E065580000                                                                                 
+SEUREAENRT   MAMED              N38344710E057420000                                                                                 
+SMESEAENRT   MARAD              N36373600E0612747100                                                                                
+SMESEAENRT   MEDEP              N39005400E0610347100                                                                                
+SMESEAENRT   MEGIL              N40275400E0620047100                                                                                
+SMESEAENRT   MEKOL              N37300000E062000000                                                                                 
+SEUREAENRT   MOLAD              N39161800E058541800                                                                                 
+SEUREAENRT   NESIR              N42195400E059260600                                                                                 
+SEUREAENRT   NONIK              N39515400E056135400                                                                                 
+SMESEAENRT   NURSA              N37212910E063430000                                                                                 
+SEUREAENRT   ORPAB              N37420000E058343000                                                                                 
+SMESEAENRT   OTRUZ              N36310848E061092516                                                                                 
+SEUREAENRT   PODOK              N38451110E058383000                                                                                 
+SEUREAENRT   R2503              N38000088E058203530                                                                                 
+SEUREAENRT   R2504              N37590041E058225090                                                                                 
+SEUREAENRT   RAMIK              N38481710E058103600                                                                                 
+SMESEAENRT   RAPTA              N37270000E0653759100                                                                                
+SMESEAENRT   RARUN              N37462910E0643259100                                                                                
+SEUREAENRT   REGDI              N39362400E053310000                                                                                 
+SEUREAENRT   RIKOP              N37402600E0581449100                                                                                
+SEUREAENRT   SAHET              N39100510E0553329100                                                                                
+SMESEAENRT   SAIDA              N41120000E061071800                                                                                 
+SMESEAENRT   SAKSH              N36284110E0612429100                                                                                
+SEUREAENRT   SAPAR              N39292400E055480600                                                                                 
+SEUREAENRT   SUBAR              N41161200E056043600                                                                                 
+SEUREAENRT   SUTAN              N37525400E059220000                                                                                 
+SEUREAENRT   TABIP              N39000000E0581959100                                                                                
+SEUREAENRT   TABUN              N42162310E0575941100                                                                                
+SEUREAENRT   TASHA              N42113000E0594247100                                                                                
+SMESEAENRT   TELMI              N37370000E0613759100                                                                                
+SMESEAENRT   TENGA              N38461800E060561200                                                                                 
+SEUREAENRT   TIMGA              N41203510E0594005100                                                                                
+SEUREAENRT   TISUN              N38062400E055272400                                                                                 
+SEUREAENRT   TUGTA              N39532400E054270000                                                                                 
+SEUREAENRT   TUMBA              N40234800E0591659100                                                                                
+SEUREAENRT   UGMUR              N38074415E058125143                                                                                 
+SEUREAENRT   VARAN              N39533510E057525400                                                                                 
+SMESEAENRT   VATIM              N38483600E0611435100                                                                                
+SEURDB       GH      000320     N38001110E058200600                                                                                 
+SEURDB       AD      000407     N38001800E058182400                                                                                 
+SEURDB       PQ      000295     N37572910E0582447100                                                                                
+SEURDB       VH      000322     N41453510E059533000                                                                                 
+SEURDB       RP      000322     N41454200E059455400                                                                                 
+SMESDB       MP      000439     N37341800E0615358100                                                                                
+SMESDB       NS      000480     N37341800E061535300                                                                                 
+SMESDB       SRS     000334     N36294340E061042690                                                                                 
+SEURDB       RJ      000445     N39000000E0561759100                                                                                
+SMESDB       NQ      000326     N39082400E0633447100                                                                                
+SMESDB       UT      000326     N39022310E063382400                                                                                 
+SEURDB       CO      000610     N40063010E0525936100                                                                                
+SEURDB       WZ      000610     N40010510E0530114100                                                                                
+SEURD        ASB     011450V    N37590510E058210600                                                                                 
+SMESD        LBA     010920V    N39052400E063364200                                                                                 
+SEURD        KRS     011230V    N40050600E053000000                                                                                 
+SEURD        ASB     011450 D   N37590510E058210600                                                                                 
+SMESD        LBA     010920 D   N39052400E063364200                                                                                 
+SEURD        KRS     011230 D   N40050600E053000000                                                                                 
+SMESER       N644        0100KENAL  EA      O                             0904     08900     43000                                  
+SMESER       N644        0110MEKOL  EA      O                             0457     08900     43000                                  
+SEURER       B143B       0010BAHAR  EA      O                                      03900     43000                                  
+SEURER       B143B       0020BODBA  EA      O                             0070     03900     43000                                  
+SEURER       B143B       0030MOLAD  EA      O                             0265     03900     43000                                  
+SEURER       B143B       0040LITOR  EA      O                             0434     03900     43000                                  
+SEURER       B143B       0050DLONA  EA      O                             0354     03900     43000                                  
+SMESER       B143B       0060DARVAUTEA      O                             0618     03900     43000                                  
+SEURER       B143E       0010BALAT  EA      O                                      16700     43000                                  
+SEURER       B143E       0020IDRIS  EA      O                             0656     16700     43000                                  
+SEURER       B710        0010BEGLI  EA      O                                      03900     39700                                  
+SEURER       B710        0020KRS    D       O                             1035     03900     39700                                  
+SMESER       T1          0010BELUG  EA      RL                                     04900     43000                                  
+SEURER       T1          0020BIKDA  EA      RL                            0463     04900     43000                                  
+SEURER       T1          0030SUTAN  EA      RL                            0096     04900     43000                                  
+SEURER       T1          0040KEMOR  EA      RL                            0072     04900     43000                                  
+SEURER       B450        0010BIBIM  EA      O                                      06900     43000                                  
+SEURER       B450        0020SAPAR  EA      O                             0239     06900     43000                                  
+SEURER       B450        0030MAMED  EA      O                             1040     06900     43000                                  
+SMESER       B713        0050GIPUN  EA      O                             0268     16700     39700                                  
+SMESER       B713        0060GITAB  EA      O                             0292     16700     39700                                  
+SMESER       B713        0070NURSA  EA      O                             0404     16700     39700                                  
+SEURER       B451        0010DOLOS  EA      O                                      13000     60000                                  
+SEURER       B451        0020BRD  OID       O                             0403     13000     60000                                  
+SEURER       G775        0060ORPAB  EA      O                             0421     16000     60000                                  
+SEURER       G792        0060GIRUN  EA      O                             0588     16000     60000                                  
+SEURER       G792        0070KENIP  EA      O                             0423     14800     43000                                  
+SEURER       G792        0080BODKA  EA      O                             2022     14800     43000                                  
+SEURER       B447        0010BUKEK  EA      O                                      16700     43000                                  
+SEURER       B447        0020GIRUN  EA      O                             0490     16700     43000                                  
+SEURER       W681        0010BUROT  EA      O                                      03900     43000                                  
+SMESER       W681        0020TENGA  EA      O                             0923     03900     43000                                  
+SMESER       W681        0030VATIM  EA      O                             0145     03900     43000                                  
+SMESER       W681        0040LBA    D       O                             1119     03900     43000                                  
+SMESER       W681        0050CHARDUTEA      O                             0141     03900     43000                                  
+SEURER       A240        0040KRS    D       O                             0523     11800     43000                                  
+SMESER       G668        0010RAPTA  EA      O                                      16700     43000                                  
+SMESER       G668        0020DERKIUTEA      O                             0696     15700     49500                                  
+SMESER       B442        0030RAPTA  EA      O                             0699     18700     43000                                  
+SMESER       B442        0040RARUN  EA      O                             0551     18700     43000                                  
+SMESER       B442        0050GITAB  EA      O                             0130     18700     43000                                  
+SMESER       B442        0060GUMLI  EA      O                             0311     18700     43000                                  
+SMESER       B442        0070DUTAR  EA      O                             1143     18700     43000                                  
+SMESER       B442        0080TENGA  EA      O                             0221     18700     43000                                  
+SEURER       B434        0010DOMOL  EA      O                                      03900     43000                                  
+SEURER       B434        0020PODOK  EA      O                             0720     03900     43000                                  
+SEURER       B449        0030REGDI  EA      O                             0324     06900     43000                                  
+SEURER       V888        0020KRS    D       OL                            0223     04900     43000                                  
+SMESER       W17B        0010GIPUN  EA      O                                      04900     43000                                  
+SMESER       W17B        0020LBA    D       O                             0741     04900     43000                                  
+SMESER       W17B        0030POGONUTEA      O                             0604     16700     43000                                  
+SMESER       W17B        0040MEGIL  EA      O                             0503     16700     43000                                  
+SMESER       W17B        0050SAIDA  EA      O                             0599     16700     43000                                  
+SMESER       W17B        0060URG  UTD       O                             0313     06900     49500                                  
+SMESER       B445        0010GUMLI  EA      O                                      04900     43000                                  
+SMESER       B445        0020LBA    D       O                             0638     04900     43000                                  
+SMESER       B441        0010KENAL  EA      O                                      16700     43000                                  
+SMESER       B441        0020MARAD  EA      O                             0683     16700     43000                                  
+SMESER       B441        0030OTRUZ  EA      O                             0161     16700     43000                                  
+SEURER       B443        0010KRS    D       O                                      18700     43000                                  
+SEURER       B443        0020TISUN  EA      O                             1649     18700     43000                                  
+SEURER       B440        0020TABUN  EA      O                             1027     06900     49500                                  
+SEURER       B440        0030UTAT   EA      O                             0873     03900     43000                                  
+SMESER       TS13        0010LBA    D       RL                                     04900     43000                                  
+SMESER       TS13        0020UTAM   EA      RL                            1196     04900     43000                                  
+SEURER       B711        0010LINDA  EA      O                                      16700     39700                                  
+SEURER       B711        0020NESIR  EA      O                             1233     16700     39700                                  
+SEURER       B711        0030UTNN UTEA      O                             0126     15700     49500                                  
+SEURER       B712        0010LINDA  EA      O                                      03900     43000                                  
+SEURER       B712        0020UTAT   EA      O                             1151     03900     43000                                  
+SMESER       B712        0030SOVODUTEA      O                             0133     03900     43000                                  
+SEURER       UV838       0010KEMOR  EA      O                                      24000     43000                                  
+SMESER       UV838       0020MARAD  EA      O                             1317     24000     43000                                  
+SMESER       UV838       0030RANAHOAEA      O                             1050     24000     43000                                  

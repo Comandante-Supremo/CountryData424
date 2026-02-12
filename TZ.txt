@@ -1,0 +1,153 @@
+SAFREAENRT   ALSAR HT           S01270442E030444025                                                                                 
+SAFREAENRT   APDOT HT           S01321339E034340160                                                                                 
+SAFREAENRT   APNAD HT           S01000960E032332142                                                                                 
+SAFREAENRT   APNOL HT           S04192643E034532881                                                                                 
+SAFREAENRT   AVATU HT           S03020392E035253568                                                                                 
+SAFREAENRT   AVETA HT           S03404972E036031574                                                                                 
+SAFREAENRT   AVITA HT           S06015196E037451789                                                                                 
+SAFREAENRT   BOSAD HT           S01542628E030491326                                                                                 
+SAFREAENRT   BOTEN HT           S08285417E038405799                                                                                 
+SAFREAENRT   DATAN HT           S02055522E030534627                                                                                 
+SAFREAENRT   EGLOX HT           S01512329E034594364                                                                                 
+SAFREAENRT   ETIVO HT           S05512791E037522604                                                                                 
+SAFREAENRT   GEREN HT           S05035327E038273995                                                                                 
+SAFREAENRT   GERUB HT           S06101691E038291996                                                                                 
+SAFREAENRT   GETAB HT           S02584767E030473487                                                                                 
+SAFREAENRT   IMLAK HT           S02340507E035570172                                                                                 
+SAFREAENRT   ITBOS HT           S01433234E032381143                                                                                 
+SAFREAENRT   ITNOV HT           S05222108E035504089                                                                                 
+SAFREAENRT   ITOBO HT           S05024020E033003267                                                                                 
+SAFREAENRT   ITSEV HT           S05030818E036180792                                                                                 
+SAFREAENRT   ITSOK HT           S04285646E035572073                                                                                 
+SAFREAENRT   KASIM HT           S08131326E038104494                                                                                 
+SAFREAENRT   LABAT HT           S01000956E033273150                                                                                 
+SAFREAENRT   LOSIN HT           S03075989E036071974                                                                                 
+SAFREAENRT   LUDOL HT           S03485767E037574090                                                                                 
+SAFREAENRT   LUGAP HT           S05413707E038011191                                                                                 
+SAFREAENRT   MANDA HT           S10333655E034380965                                                                                 
+SAFREAENRT   NESAL HT           S01000956E033510454                                                                                 
+SAFREAENRT   NESOX HT           S05301104E035021883                                                                                 
+SAFREAENRT   NIBOT HT           S02005124E034261459                                                                                 
+SAFREAENRT   NIDEX HT           S04150854E035363870                                                                                 
+SAFREAENRT   ODGAT HT           S07564935E037534292                                                                                 
+SAFREAENRT   OKBEN HT           S04364033E035264885                                                                                 
+SAFREAENRT   OKDAS HT           S05102215E035112483                                                                                 
+SAFREAENRT   OKMAS HT           S05394098E035504089                                                                                 
+SAFREAENRT   OKSIS HT           S01352638E034013955                                                                                 
+SAFREAENRT   OKSOT HT           S01254543E033522054                                                                                 
+SAFREAENRT   ORLIM HT           S10480625E034250022                                                                                 
+SAFREAENRT   RABOR HT           S10085410E0350921100                                                                                
+SAFREAENRT   SINGI HT           S05470205E034543464                                                                                 
+SAFREAENRT   UDMAM HT           S03420865E030250246                                                                                 
+SAFREAENRT   USUBU HT           S04285340E032564466                                                                                 
+SAFREAENRT   UTEGI HT           S02280811E032431144                                                                                 
+SAFREAENRT   UVKAT HT           S09184594E034573467                                                                                 
+SAFRDB       AR    HT000391     S03220406E036371347                                                                                 
+SAFRDB       BK    HT000300     S01195241E031493256                                                                                 
+SAFRDB       DM    HT000272     S06492168E039152947                                                                                 
+SAFRDB       DR    HT000361     S06530701E039121907                                                                                 
+SAFRDB       DS    HT000282     S06553861E039091297                                                                                 
+SAFRDB       DO    HT000373     S06100782E035444388                                                                                 
+SAFRDB       IR    HT000397     S07403432E035450889                                                                                 
+SAFRDB       KG    HT000394     S04531812E029400886                                                                                 
+SAFRDB       KB    HT000293     S03345382E036414059                                                                                 
+SAFRDB       KL    HT000283     S03260948E036552935                                                                                 
+SAFRDB       KO    HT000298     S03255848E036593618                                                                                 
+SAFRDB       MB    HT000320     S08545253E033272965                                                                                 
+SAFRDB       MT    HT000336     S10195661E040110431                                                                                 
+SAFRDB       MU    HT000312     S01295835E033480172                                                                                 
+SAFRDB       MZ    HT000403     S02263188E032552619                                                                                 
+SAFRDB       SG    HT000352     S10404733E035351590                                                                                 
+SAFRDB       TB    HT000333     S05040819E032500265                                                                                 
+SAFRD        DV    HT011270V    S06531915E039113375                                                                                 
+SAFRD        KV    HT011530V    S03254037E037062380                                                                                 
+SAFRD        MZ    HT011570V    S02261809E032552039                                                                                 
+SAFRD        DV    HT011270 D   S06531915E039113375                                                                                 
+SAFRD        KV    HT011530 D   S03254037E037062380                                                                                 
+SAFRER       W53         0040BOSADHTEA      O                             0405     12500     24500                                  
+SAFRER       V167        0060DV   HTD       OL                                     14500     24500                                  
+SAFRER       V167        0070NAGON  EA      OL                            1003     14500     24500                                  
+SAFRER       V167        0080MT   HTD       OL                            1147     14500     24500                                  
+SAFRER       V282        0040KG   HTD       OL                                     14500     24500                                  
+SAFRER       V282        0050TB   HTD       OL                            1896     14500     24500                                  
+SAFRER       V282        0060NESOXHTEA      OL                            1343     14500     24500                                  
+SAFRER       V282        0070OKMASHTEA      OL                            0491     14500     24500                                  
+SAFRER       B531        0010DATANHTEA      O                                      12500     24500                                  
+SAFRER       B531        0020KNM  HRD       O                             0456     12500     24500                                  
+SAFRER       J298-       0010DV   HTD       OH                                     14500     24500                                  
+SAFRER       J298-       0020GERUBHTEA      OH                            0601     14500     24500                                  
+SAFRER       A401        0010DV   HTD       O                                      08500     24500                                  
+SAFRER       A401        0020KISIR  EA      O                             1003     08500     24500                                  
+SAFRER       J298        0010GERUBHTEA      OH                                     14500     24500                                  
+SAFRER       J298        0020ETIVOHTEA      OH                            0413     14500     24500                                  
+SAFRER       J298        0030ITSEVHTEA      OH                            1057     14500     24500                                  
+SAFRER       UR409       0030ITSOKHTEA      O                                      24500     60000                                  
+SAFRER       UR409       0040DO   HTD       O                             1020     24500     60000                                  
+SAFRER       UR409       0050UVKATHTEA      O                             1945     24500     60000                                  
+SAFRER       UR409       0060MANDAHTEA      O                             0773     24500     60000                                  
+SAFRER       UB533       0010DV   HTD       O                                      24500     60000                                  
+SAFRER       UB533       0020GERENHTEA      O                             1179     24500     60000                                  
+SAFRER       UB533       0030LUDOLHTEA      O                             0807     24500     60000                                  
+SAFRER       UB533       0040OKNESHKEA      O                             0144     21500     60000                                  
+SAFRER       A610        0050KV   HTD       O                             0391     11500     24500                                  
+SAFRER       A401F       0060LABATHTEA      O                                      07000     14500                                  
+SAFRER       A401F       0070NN068HUEA      O                             0237     07000     14500                                  
+SAFRER       UA401       0010DV   HTD       O                                      24500     60000                                  
+SAFRER       UA401       0020KISIR  EA      O                             1003     24500     60000                                  
+SAFRER       UA401       0110GERUBHTEA      O                                      24500     60000                                  
+SAFRER       UA401       0120LUGAPHTEA      O                             0401     24500     60000                                  
+SAFRER       UA401       0130NIBOTHTEA      O                                      24500     60000                                  
+SAFRER       UA401       0140OKSISHTEA      O                             0354     24500     60000                                  
+SAFRER       UA401       0150OKSOTHTEA      O                             0134     24500     60000                                  
+SAFRER       UA401       0160LABATHTEA      O                             0357     15000     60000                                  
+SAFRER       UA401       0170NN068HUEA      O                             0237     15000     60000                                  
+SAFRER       UG661       0030DV   HTD       O                                      24500     60000                                  
+SAFRER       UG661       0040DARAS  EA      O                             1001     24500     60000                                  
+SAFRER       UG657       0050BOTENHTEA      O                             1988     24500     60000                                  
+SAFRER       UG657       0060DV   HTD       O                             1003     24500     60000                                  
+SAFRER       UG450       0030GETABHTEA      O                             0909     24500     60000                                  
+SAFRER       UG450       0040MZ   HTD       O                             1318     24500     60000                                  
+SAFRER       UG450       0050NIBOTHTEA      O                             0944     24500     60000                                  
+SAFRER       UG450       0060EGLOXHTEA      O                             0348     24500     60000                                  
+SAFRER       UG450       0070PARINHKEA      O                             0225     24500     60000                                  
+SAFRER       UB607       0010GERUBHTEA      O                                      24500     60000                                  
+SAFRER       UB607       0020ITNOVHTEA      O                             1651     24500     60000                                  
+SAFRER       UB607       0080UDMAMHTEA      O                             0690     24500     60000                                  
+SAFRER       UB607       0090USUBUHTEA      O                             1585     24500     60000                                  
+SAFRER       UB607       0100OKDASHTEA      O                             1406     24500     60000                                  
+SAFRER       UB532       0040BOSADHTEA      O                             0405     24500     60000                                  
+SAFRER       UB532       0050ITBOSHTEA      O                             1095     24500     60000                                  
+SAFRER       UA610       0110NESALHTEA      O                             1059     15000     60000                                  
+SAFRER       UA405       0120LOSINHTEA      O                                      24500     60000                                  
+SAFRER       UA405       0130NIDEXHTEA      O                             0738     24500     60000                                  
+SAFRER       UA405       0140SINGIHTEA      O                             1011     24500     60000                                  
+SAFRER       UA405       0150MB   HTD       O                             2069     24500     60000                                  
+SAFRER       UB531       0010MZ   HTD       O                                      24500     60000                                  
+SAFRER       UB531       0020DATANHTEA      O                             1234     24500     60000                                  
+SAFRER       UB531       0030KNM  HRD       O                             0456     24500     60000                                  
+SAFRER       UA610       0030EGLOXHTEA      O                                      24500     60000                                  
+SAFRER       UA610       0040IMLAKHTEA      O                             0715     24500     60000                                  
+SAFRER       UA610       0070KV   HTD       O                                      24500     60000                                  
+SAFRER       UA610       0080MERKUHKEA      O                             0391     24500     60000                                  
+SAFRER       UA407       0040DV   HTD       O                             1326     24500     60000                                  
+SAFRER       UA407       0050ODGATHTEA      O                             1000     24500     60000                                  
+SAFRER       UA407       0060RABORHTEA      O                             2094     24500     60000                                  
+SAFRER       UA407       0070MANDAHTEA      O                             0394     24500     60000                                  
+SAFRER       UA407       0080ORLIMHTEA      O                             0194     24500     60000                                  
+SAFRER       UB400       0050KASIMHTEA      O                             2556     24500     60000                                  
+SAFRER       UB400       0060DV   HTD       O                             1002     24500     60000                                  
+SAFRER       UB400       0070ELAVA  EA      O                             1298     24500     60000                                  
+SAFRER       UA401       0010DV   HTD       O                                      24500     60000                                  
+SAFRER       UA401       0020GERUBHTEA      O                             0601     24500     60000                                  
+SAFRER       UG656       0110MB   HTD       O                                      24500     60000                                  
+SAFRER       UG656       0120OVANAFWEA      O                             0424     24500     60000                                  
+SAFRER       UA405       0010LOSINHTEA      O                                      24500     60000                                  
+SAFRER       UA405       0020EVATOHKEA      O                             0498     24500     60000                                  
+SAFRER       UR779       0080MB   HTD       O                             0394     24500     60000                                  
+SAFRER       UA727       0040KV   HTD       O                                      24500     60000                                  
+SAFRER       UA727       0050UTATAHKEA      O                             0447     24500     60000                                  
+SAFRER       UW305       0010GERUBHTEA      O                                      24500     60000                                  
+SAFRER       UW305       0020ITSOKHTEA      O                             1822     24500     60000                                  
+SAFRER       UW305       0030MZ   HTD       O                                      24500     60000                                  
+SAFRER       UW305       0040NIDEXHTEA      O                             1943     24500     60000                                  
+SAFRER       UA407       0030ORLIMHTEA      O                             0594     24500     60000                                  

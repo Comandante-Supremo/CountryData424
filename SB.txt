@@ -1,0 +1,34 @@
+SSPAEAENRT   ATOFI              S08522478E161003978                                                                                 
+SSPAEAENRT   DAGDA              S08492200E160502000                                                                                 
+SSPAEAENRT   KIRAK              S10263000E161534800                                                                                 
+SSPAEAENRT   MAGPO              S07534510E159222300                                                                                 
+SSPAEAENRT   MARAU              S09521800E1604911100                                                                                
+SSPAEAENRT   NINOD              S08005600E1590835100                                                                                
+SSPAEAENRT   PARSI              S09375910E161251800                                                                                 
+SSPAEAENRT   SUVNO              S07344110E1584347100                                                                                
+SSPADB       HN      000348     S09250510E1600311100                                                                                
+SSPADB       KK      000288     S10270060E161545730                                                                                 
+SSPAD        HN      011260V    S09263450E160010400                                                                                 
+SSPAD        HN      011260 D   S09263450E160010400                                                                                 
+SSPAER       3E91        0020HN     D       O                             1123     09100     45000                                  
+SSPAER       3E93        0010FERA   EA      O                                      09100     45000                                  
+SSPAER       3E93        0020HN     D       O                             0844     09100     45000                                  
+SSPAER       3E86-       0010HN     D       O                                      04600     45000                                  
+SSPAER       3E86-       0020INAWO  EA      O                             0598     04600     45000                                  
+SSPAER       3E47        0010HN     D       O                                      01500     45000                                  
+SSPAER       3E47        0020KOPAU  EA      O                             0249     01500     45000                                  
+SSPAER       3E78        0010HN     D       O                                      05500     45000                                  
+SSPAER       3E78        0020MARAU  EA      O                             0543     05500     45000                                  
+SSPAER       3E78        0030KIRAK  EA      O                             0722     05500     45000                                  
+SSPAER       3E81        0010HN     D       O                                      05600     45000                                  
+SSPAER       3E81        0020OJAVA  EA      O                             2378     05600     45000                                  
+SSPAER       3E99        0010HN     D       O                                      05500     45000                                  
+SSPAER       3E99        0020PARSI  EA      O                             0840     05500     45000                                  
+SSPAER       3E90        0010HN     D       O                                      09100     45000                                  
+SSPAER       3E90        0020RENNL  EA      O                             1265     09100     45000                                  
+SSPAER       3E92        0010HN     D       O                                      09100     45000                                  
+SSPAER       3E92        0020SUVNO  EA      O                             1352     09100     45000                                  
+SSPAER       3E96        0020PARSI  EA      O                             0743     05500     45000                                  
+SSPAER       3E79        0010KIRAK  EA      O                                      05500     45000                                  
+SSPAER       3E79        0020NANA   EA      O                             0222     05500     45000                                  
+SSPAER       3E79        0030SANTA  EA      O                             0185     05500     45000                                  

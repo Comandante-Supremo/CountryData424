@@ -1,0 +1,49 @@
+SAFREAENRT   AKBON HU           N00491002E030200506                                                                                 
+SAFREAENRT   ALTIN HU           S01000956E031145830                                                                                 
+SAFREAENRT   ASEKA HU           N00413500E030410200                                                                                 
+SAFREAENRT   EGREK HU           S01044425E030225683                                                                                 
+SAFREAENRT   EL001 HU           N00041050E032260847                                                                                 
+SAFREAENRT   EL005 HU           N00080934E032253513                                                                                 
+SAFREAENRT   EL007 HU           N00100876E032251846                                                                                 
+SAFREAENRT   MUBAK HU           N00101438E030354285                                                                                 
+SAFREAENRT   NABRO HU           N01493500E034150000                                                                                 
+SAFREAENRT   NN065 HU           S00400000E0313759100                                                                                
+SAFREAENRT   NN066 HU           N00110869E031215019                                                                                 
+SAFREAENRT   NN068 HU           S00430936E033110010                                                                                 
+SAFREAENRT   OPERO HU           N00123837E029540579                                                                                 
+SAFREAENRT   SIPKI HU           N01155605E030391785                                                                                 
+SAFREAENRT   TORNO HU           N02314538E032005858                                                                                 
+SAFRDB       EM    HU000355     N00081894E032252886                                                                                 
+SAFRDB       KA    HU000273     N00111802E030055657                                                                                 
+SAFRDB       KS    HU000258     S01170758E029430222                                                                                 
+SAFRDB       PB    HU000270     N00174479E032392172                                                                                 
+SAFRDB       SO    HU000323     N01432068E033372283                                                                                 
+SAFRD        NN    HU011750V    N00031079E032261681                                                                                 
+SAFRD        IEL   HU011070 D   N00030932E032260782                                                                                 
+SAFRD        NN    HU011750 D   N00031079E032261681                                                                                 
+SAFRD        SV    HU011250 D   N01433348E033370667                                                                                 
+SAFRER       A408        0050NN   HUD       O                                      08500     14500                                  
+SAFRER       A408        0060NN065HUEA      O                             0648     08500     14500                                  
+SAFRER       A609F       0030SIPKIHUEA      O                             0318     11000     24500                                  
+SAFRER       A609F       0040NN   HUD       O                             1295     07000     14500                                  
+SAFRER       B527        0010EGREKHUEA      O                                      11500     24500                                  
+SAFRER       B527        0020KNM  HRD       O                             0553     11500     24500                                  
+SAFRER       A401F       0070NN068HUEA      O                             0237     07000     14500                                  
+SAFRER       A401F       0080NN   HUD       O                             0644     07000     14500                                  
+SAFRER       UA401       0170NN068HUEA      O                             0237     15000     60000                                  
+SAFRER       UA401       0180NN   HUD       O                             0644     15000     66000                                  
+SAFRER       G656D       0010NN   HUD       O                                      08000     14500                                  
+SAFRER       G656D       0020TORNOHUEA      O                             1508     08000     14500                                  
+SAFRER       UA408       0160NABROHUEA      O                             0566     15000     60000                                  
+SAFRER       UA408       0170NN   HUD       O                             1522     15000     60000                                  
+SAFRER       UA610       0070OPEROHUEA      O                             0325     24500     60000                                  
+SAFRER       UA610       0080MUBAKHUEA      O                             0417     19000     60000                                  
+SAFRER       UA610       0090NN066HUEA      O                             0462     19000     60000                                  
+SAFRER       UA610       0100NN   HUD       O                             0650     15000     60000                                  
+SAFRER       UA610       0110NESALHTEA      O                             1059     15000     60000                                  
+SAFRER       UB527       0010EGREKHUEA      O                                      24500     60000                                  
+SAFRER       UB527       0020KNM  HRD       O                             0553     24500     60000                                  
+SAFRER       UB527       0010EGREKHUEA      O                                      15000     60000                                  
+SAFRER       UB527       0020MUBAKHUEA      O                             0761     15000     60000                                  
+SAFRER       UG656       0010NN   HUD       O                                      15000     60000                                  
+SAFRER       UG656       0020TORNOHUEA      O                             1508     15000     60000                                  

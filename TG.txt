@@ -1,0 +1,29 @@
+SAFREAENRT   GAPAG DX           N11000819E000193098                                                                                 
+SAFREAENRT   KILMO DX           N09270610E0005904100                                                                                
+SAFREAENRT   TAMIL DX           N10380310E000010500                                                                                 
+SAFRDB       LME   DX000379     N06095470E001145190                                                                                 
+SAFRDB       NS    DX000260     N09420570E001034730                                                                                 
+SAFRDB       NN    DX000318     N09500460E001071150                                                                                 
+SAFRDB       SK    DX000302     N08594830E001090804                                                                                 
+SAFRD        LM    DX011530V    N06110270E001160760                                                                                 
+SAFRD        NT    DX011320V    N09445040E001045770                                                                                 
+SAFRD        LM    DX011530 D   N06110270E001160760                                                                                 
+SAFRD        NT    DX011320 D   N09445040E001045770                                                                                 
+SAFRER       B726        0020KILMODXEA      O                             0970     04500     24500                                  
+SAFRER       B726        0030PAM  DGD       O                             0900     04500     24500                                  
+SAFRER       UR984       0250KILMODXEA      O                             1254     25000     60000                                  
+SAFRER       UR984       0260TAMILDXEA      O                             0911     25000     60000                                  
+SAFRER       UR984       0270OXIDUDGEA      O                             0303     24500     46000                                  
+SAFRER       A609        0020LM   DXD       O                             0362     11500     24500                                  
+SAFRER       A609        0030TYE  DBD       O                             0680     11500     24500                                  
+SAFRER       UB726       0030KILMODXEA      O                             0970     24500     60000                                  
+SAFRER       UB726       0040PAM  DGD       O                             0900     24500     60000                                  
+SAFRER       UG855       0050GAPAGDXEA      O                             1854     24500     46000                                  
+SAFRER       UG855       0060TAMILDXEA      O                             0286     24500     60000                                  
+SAFRER       UG855       0070NASIADGEA      O                             0416     24500     60000                                  
+SAFRER       UR983       0060LM   DXD       O                             1176     24500     60000                                  
+SAFRER       UR983       0070DIBSI  EA      O                             1764     24500     60000                                  
+SAFRER       UA603       0060TAMILDXEA      O                             0220     24500     60000                                  
+SAFRER       UA603       0070LIPUSDGEA      O                             0850     24500     60000                                  
+SAFRER       UA609       0140LM   DXD       O                             0362     24500     60000                                  
+SAFRER       UA609       0150TYE  DBD       O                             0680     24500     60000                                  

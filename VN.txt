@@ -1,0 +1,146 @@
+SASIEAENRT   ANRAN VV           N11214200E1070253100                                                                                
+SASIEAENRT   BAOMY VV           N10514710E1072017100                                                                                
+SASIEAENRT   BITIS VV           N10155900E1061453100                                                                                
+SASIEAENRT   DAD06 VV           N15555790E108130032                                                                                 
+SASIEAENRT   DAD10 VV           N15515913E108133535                                                                                 
+SASIEAENRT   DAD75 VV           N15542837E108131346                                                                                 
+SASIEAENRT   DJ010 VV           N15530384E108165455                                                                                 
+SASIEAENRT   DJ011 VV           N15521541E108173316                                                                                 
+SASIEAENRT   HAKAO VV           N21435654E106170803                                                                                 
+SASIEAENRT   HALAN VV           N21020736E1053844100                                                                                
+SASIEAENRT   KANTA VV           N10231700E1060624100                                                                                
+SASIEAENRT   KAQUA VV           N10404110E105585400                                                                                 
+SASIEAENRT   KARAN VV           N12385600E109092400                                                                                 
+SASIEAENRT   KISAN VV           N10322000E1044029100                                                                                
+SASIEAENRT   LANHI VV           N10240200E1071109100                                                                                
+SASIEAENRT   LAOCI VV           N22291200E103575500                                                                                 
+SASIEAENRT   LAPON VV           N20450000E1042829100                                                                                
+SASIEAENRT   LATHA VV           N10083000E1063835100                                                                                
+SASIEAENRT   LIBEO VV           N21124539E105273721                                                                                 
+SASIEAENRT   LOSON VV           N10293510E107043200                                                                                 
+SASIEAENRT   MISAN VV           N10301110E106024200                                                                                 
+SASIEAENRT   MULAD VV           N12325300E1073428100                                                                                
+SASIEAENRT   NOB01 VV           N21123385E105504852                                                                                 
+SASIEAENRT   NOB07 VV           N21103639E105571347                                                                                 
+SASIEAENRT   NOB09 VV           N21151617E105412771                                                                                 
+SASIEAENRT   NOB10 VV           N21094037E106001671                                                                                 
+SASIEAENRT   NOB11 VV           N21124654E106004838                                                                                 
+SASIEAENRT   NOB12 VV           N21220863E105581157                                                                                 
+SASIEAENRT   NOB13 VV           N21124631E105361038                                                                                 
+SASIEAENRT   NOB15 VV           N21242900E106001318                                                                                 
+SASIEAENRT   NOB19 VV           N21061422E105305929                                                                                 
+SASIEAENRT   NOB21 VV           N21124612E105340251                                                                                 
+SASIEAENRT   NOB25 VV           N21083914E105380148                                                                                 
+SASIEAENRT   NOB28 VV           N21152309E105341622                                                                                 
+SASIEAENRT   NOB88 VV           N21163740E105364499                                                                                 
+SASIEAENRT   NOB98 VV           N21110577E106024925                                                                                 
+SASIEAENRT   QNGAI VV           N15065900E108480100                                                                                 
+SASIEAENRT   R1880 VV           N10492952E106394757                                                                                 
+SASIEAENRT   R1881 VV           N16014942E108120853                                                                                 
+SASIEAENRT   R2150 VV           N21132962E105471041                                                                                 
+SASIEAENRT   TAMKY VV           N15354200E108294300                                                                                 
+SASIEAENRT   TANNA VV           N15541110E107393200                                                                                 
+SASIEAENRT   TONGA VV           N21365293E105154871                                                                                 
+SASIEAENRT   TSN05 VV           N10472406E106334818                                                                                 
+SASIEAENRT   TSN06 VV           N10425709E106281025                                                                                 
+SASIEAENRT   TSN09 VV           N10514678E106472637                                                                                 
+SASIEAENRT   TSN10 VV           N10455262E106290393                                                                                 
+SASIEAENRT   TSN11 VV           N10535335E106273507                                                                                 
+SASIEAENRT   TSN12 VV           N10401908E106495682                                                                                 
+SASIEAENRT   TSN14 VV           N11002219E106470644                                                                                 
+SASIEAENRT   TSN16 VV           N10383258E106254220                                                                                 
+SASIEAENRT   TSN17 VV           N10482747E106370543                                                                                 
+SASIEAENRT   TSN18 VV           N10365537E106384407                                                                                 
+SASIEAENRT   TSN21 VV           N10372734E106303447                                                                                 
+SASIEAENRT   TSN24 VV           N10415671E106262465                                                                                 
+SASIEAENRT   TSN25 VV           N10424199E106274385                                                                                 
+SASIEAENRT   TSN26 VV           N10460328E106244873                                                                                 
+SASIEAENRT   TSN27 VV           N10501458E106263591                                                                                 
+SASIEAENRT   TSN29 VV           N10544234E106254353                                                                                 
+SASIEAENRT   TSN30 VV           N10413340E106482075                                                                                 
+SASIEAENRT   TSN35 VV           N10390619E106314437                                                                                 
+SASIEAENRT   TSN36 VV           N10345474E106384407                                                                                 
+SASIEAENRT   TSN42 VV           N10431917E106275785                                                                                 
+SASIEAENRT   TSN62 VV           N10471819E106263915                                                                                 
+SASIEAENRT   TSN76 VV           N10500204E106283728                                                                                 
+SASIEAENRT   TSN80 VV           N10494332E106402352                                                                                 
+SASIEAENRT   TSN98 VV           N10530080E106490754                                                                                 
+SASIEAENRT   VILAO VV           N17220000E1060459100                                                                                
+SASIEAENRT   VINHA VV           N20585829E105095570                                                                                 
+SASIEAENRT   VITRA VV           N20351742E106052249                                                                                 
+SASIDB       AC    VV000320     N10562100E1071117100                                                                                
+SASIDB       BU    VV000386     N12401300E1080231100                                                                                
+SASIDB       CR    VV000414     N12000063E109125908                                                                                 
+SASIDB       QL    VV000305     N09103310E105103600                                                                                 
+SASIDB       CL    VV000350     N11564800E1082451100                                                                                
+SASIDB       CT    VV000420     N10052900E105434900                                                                                 
+SASIDB       BK    VV000274     N20480500E106392900                                                                                 
+SASIDB       CQ    VV000300     N15244419E108421612                                                                                 
+SASIDB       DL    VV000330     N11450000E108193000                                                                                 
+SASIDB       DJ    VV000212     N15583926E108122692                                                                                 
+SASIDB       D     VV000234     N16010151E108121524                                                                                 
+SASIDB       DB    VV000380     N21234800E1030038100                                                                                
+SASIDB       AM    VV000294     N20592000E105514100                                                                                 
+SASIDB       MC    VV000514     N20494100E104420100                                                                                 
+SASIDB       HL    VV000304     N20231710E106071700                                                                                 
+SASIDB       BQ    VV000349     N21125310E104021700                                                                                 
+SASIDB       NG    VV000289     N12133500E1091203100                                                                                
+SASIDB       K     VV000230     N21134055E105465898                                                                                 
+SASIDB       KW    VV000320     N21141971E105444455                                                                                 
+SASIDB       PB    VV000440     N16234410E1074618100                                                                                
+SASIDB       PC    VV000250     N13515600E1090620100                                                                                
+SASIDB       PK    VV000282     N14002400E108003200                                                                                 
+SASIDB       RG    VV000335     N09565810E1050800100                                                                                
+SASIDB       TD    VV000358     N10512903E106450406                                                                                 
+SASIDB       SG    VV000326     N10511770E106450816                                                                                 
+SASIDB       GN    VV000343     N10493684E106404071                                                                                 
+SASIDB       GV    VV000375     N10494113E106401833                                                                                 
+SASIDB       XW    VV000218     N18472500E1054001100                                                                                
+SASIDB       VT    VV000291     N10203900E107060900                                                                                 
+SASIDB       XVL   VV000235     N10215400E1070553100                                                                                
+SASID        BMT   VV011210V    N12395940E108072280                                                                                 
+SASID        CRA   VV011650V    N11593910E1091311100                                                                                
+SASID        CAB   VV011510V    N20490560E106433900                                                                                 
+SASID        DAN   VV011440V    N16030995E108115362                                                                                 
+SASID        DIB   VV011360V    N21234510E1030015100                                                                                
+SASID        NAH   VV011550V    N20231310E106070400                                                                                 
+SASID        NOB   VV011610V    N21124688E105500577                                                                                 
+SASID        PHT   VV011410V    N10554000E108041300                                                                                 
+SASID        HUE   VV011580V    N16240310E107421000                                                                                 
+SASID        PCA   VV011630V    N13572510E109023300                                                                                 
+SASID        TSN   VV011670V    N10485916E106384407                                                                                 
+SASID        VIN   VV011310V    N18440280E105400610                                                                                 
+SASID        VTV   VV011470V    N10222700E107052900                                                                                 
+SASID        DAD   VV011050 D   N16020005E108121055                                                                                 
+SASID        NB    VV011050 D   N21132395E105474244                                                                                 
+SASID        PBA   VV010950 D   N16235636E107424979                                                                                 
+SASID        SGN   VV010830 D   N10492532E106395977                                                                                 
+SASID        HCM   VV011050 D   N10492950E106393644                                                                                 
+SASID        BMT   VV011210 D   N12395940E108072280                                                                                 
+SASID        CRA   VV011650 D   N11593910E1091311100                                                                                
+SASID        CAB   VV011510 D   N20490560E106433900                                                                                 
+SASID        DAN   VV011440 D   N16030995E108115362                                                                                 
+SASID        DIB   VV011360 D   N21234510E1030015100                                                                                
+SASID        NAH   VV011550 D   N20231310E106070400                                                                                 
+SASID        NOB   VV011610 D   N21124688E105500577                                                                                 
+SASID        PHT   VV011410 D   N10554000E108041300                                                                                 
+SASID        HUE   VV011580 D   N16240310E107421000                                                                                 
+SASID        PCA   VV011630 D   N13572510E109023300                                                                                 
+SASID        TSN   VV011670 D   N10485916E106384407                                                                                 
+SASID        VIN   VV011310 D   N18440280E105400610                                                                                 
+SASIER       L637        0020BITISVVEA      O                             1293     20000     46000                                  
+SASIER       L637        0030TSN  VVD       O                             0405     20000     46000                                  
+SASIER       R468        0070TSN  VVD       O                             0299     08000     46000                                  
+SASIER       L642        0080KARANVVEA      O                             0932     27000     46000                                  
+SASIER       L642        0090PHT  VVD       O                             1215     27000     46000                                  
+SASIER       L642        0100ELSAS  EA      O                             0566     27000     46000                                  
+SASIER       R474        0050MC   VVD       O                             0291     10000     46000                                  
+SASIER       L643-       0020LATHAVVEA      O                             0848     07000     46000                                  
+SASIER       L643-       0030TSN  VVD       O                             0405     07000     46000                                  
+SASIER       B468        0010DIB  VVD       O                                      09000     46000                                  
+SASIER       B468        0020LADISVLEA      O                             0118     09000     46000                                  
+SASIER       R588        0020PK   VVD       O                             0360     26500     46000                                  
+SASIER       A206        0020VIN  VVD       O                             0802     26500     46000                                  
+SASIER       A206        0030NALAOVLEA      O                             1050     26500     46000                                  
+SASIER       B465-       0010MC   VVD       O                                      10000     46000                                  
+SASIER       B465-       0020NOB  VVD       O                             0677     10000     46000                                  

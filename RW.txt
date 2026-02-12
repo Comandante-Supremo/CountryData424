@@ -1,0 +1,36 @@
+SAFREAENRT   GAVDA HR           S02490740E029404452                                                                                 
+SAFREAENRT   KAROS HR           S02113214E029164536                                                                                 
+SAFREAENRT   KIVUR HR           S02372878E029165972                                                                                 
+SAFREAENRT   LABAG HR           S02310903E029150236                                                                                 
+SAFREAENRT   RANAG HR           S01453051E029274661                                                                                 
+SAFRDB       ZE    HR000264     S01320911E030235983                                                                                 
+SAFRDB       LO    HR000255     S01593726E030165574                                                                                 
+SAFRDB       RH    HR000391     S01300880E029380250                                                                                 
+SAFRDB       CR    HR000300     S02160870E030430250                                                                                 
+SAFRD        KNM   HR011490V    S01580915E030085081                                                                                 
+SAFRD        KNM   HR011490 D   S01580915E030085081                                                                                 
+SAFRER       W53         0020KAROSHREA      O                             0284     12500     24500                                  
+SAFRER       W53         0030KNM  HRD       O                             0538     12500     24500                                  
+SAFRER       W53         0040BOSADHTEA      O                             0405     12500     24500                                  
+SAFRER       A408        0030GAVDAHREA      O                             0113     08500     24500                                  
+SAFRER       A408        0040KNM  HRD       O                             0582     08500     24500                                  
+SAFRER       B531        0020KNM  HRD       O                             0456     12500     24500                                  
+SAFRER       B531        0030RANAGHREA      O                             0430     12500     24500                                  
+SAFRER       B531        0040GOM  FZD       O                             0145     12500     24500                                  
+SAFRER       B527        0020KNM  HRD       O                             0553     11500     24500                                  
+SAFRER       B607        0030KAROSHREA      O                             0156     12500     24500                                  
+SAFRER       B607        0040LABAGHREA      O                             0197     12500     24500                                  
+SAFRER       B607        0050KIVURHREA      O                             0066     12500     24500                                  
+SAFRER       UA408       0020GAVDAHREA      O                             0382     24500     60000                                  
+SAFRER       UA408       0030KNM  HRD       O                             0582     24500     60000                                  
+SAFRER       UB607       0040KAROSHREA      O                             0156     24500     60000                                  
+SAFRER       UB607       0050LABAGHREA      O                             0197     24500     60000                                  
+SAFRER       UB607       0060KIVURHREA      O                             0066     24500     60000                                  
+SAFRER       UB607       0070BJA  HBD       O                             0434     24500     60000                                  
+SAFRER       UB532       0020KAROSHREA      O                             0284     24500     60000                                  
+SAFRER       UB532       0030KNM  HRD       O                             0538     24500     60000                                  
+SAFRER       UB532       0040BOSADHTEA      O                             0405     24500     60000                                  
+SAFRER       UB531       0030KNM  HRD       O                             0456     24500     60000                                  
+SAFRER       UB531       0040RANAGHREA      O                             0430     24500     60000                                  
+SAFRER       UB531       0050GOM  FZD       O                             0145     24500     60000                                  
+SAFRER       UB527       0020KNM  HRD       O                             0553     24500     60000                                  

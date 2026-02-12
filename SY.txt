@@ -1,0 +1,98 @@
+SMESEAENRT   ABBAS OS           N33260000E037433453                                                                                 
+SMESEAENRT   ADRAA OS           N33364710E036300000                                                                                 
+SMESEAENRT   BASEM OS           N33333700E0373906100                                                                                
+SMESEAENRT   BRAVO OS           N34413495E036391084                                                                                 
+SMESEAENRT   DAL37 OS           N33303761E036401982                                                                                 
+SMESEAENRT   DAL40 OS           N33284384E036404718                                                                                 
+SMESEAENRT   DAM02 OS           N33235153E036285690                                                                                 
+SMESEAENRT   DAM10 OS           N33121824E036233184                                                                                 
+SMESEAENRT   DAM13 OS           N33331455E036363374                                                                                 
+SMESEAENRT   DAM18 OS           N33220065E036301538                                                                                 
+SMESEAENRT   DAM42 OS           N33183207E036310067                                                                                 
+SMESEAENRT   DAM59 OS           N33244677E036342154                                                                                 
+SMESEAENRT   DAM66 OS           N33222153E036360170                                                                                 
+SMESEAENRT   DAM86 OS           N33265904E036364820                                                                                 
+SMESEAENRT   DAM89 OS           N33153511E036204426                                                                                 
+SMESEAENRT   DAM99 OS           N33223449E036400073                                                                                 
+SMESEAENRT   FIRAS OS           N33521810E037551200                                                                                 
+SMESEAENRT   IDA00 OS           N33261157E036315690                                                                                 
+SMESEAENRT   IDA07 OS           N33263208E036322426                                                                                 
+SMESEAENRT   IDA08 OS           N33314419E036392330                                                                                 
+SMESEAENRT   IDA63 OS           N33301780E036372774                                                                                 
+SMESEAENRT   KANOK OS           N36335453E041405938                                                                                 
+SMESEAENRT   KILIS OS           N36421210E037240200                                                                                 
+SMESEAENRT   LATEB OS           N34015400E0362435100                                                                                
+SMESEAENRT   LESRI OS           N37041910E041134900                                                                                 
+SMESEAENRT   LOTAX OS           N33585910E0363223100                                                                                
+SMESEAENRT   LUBAM OS           N35400111E036315949                                                                                 
+SMESEAENRT   MALOA OS           N33511110E036315400                                                                                 
+SMESEAENRT   RAFIF OS           N33124700E0381918100                                                                                
+SMESEAENRT   RDIMA OS           N33015910E0363159100                                                                                
+SMESEAENRT   SALIM OS           N35294410E0361839100                                                                                
+SMESEAENRT   SOFIA OS           N33230599E036494201                                                                                 
+SMESEAENRT   SULAF OS           N33271710E038102700                                                                                 
+SMESEAENRT   SWIDA OS           N32430000E036340000                                                                                 
+SMESEAENRT   TABQA OS           N35465645E038335910                                                                                 
+SMESEAENRT   TUDMU OS           N34310062E038073393                                                                                 
+SMESEAENRT   TUSYR OS           N36385600E037225900                                                                                 
+SMESEAENRT   ZELAF OS           N32565617E037595926                                                                                 
+SMESDB       ABD   OS000264     N33200703E036254148                                                                                 
+SMESDB       ALE   OS000396     N36104070E037122360                                                                                 
+SMESDB       MER   OS000365     N36101812E037181651                                                                                 
+SMESDB       BAN   OS000304     N35134183E035572850                                                                                 
+SMESDB       DRZ   OS000295     N35172116E040111471                                                                                 
+SMESDB       HAS   OS000365     N36285840E040451640                                                                                 
+SMESDB       KML   OS000312     N37014910E041121910                                                                                 
+SMESDB       KTN   OS000372     N34133785E037140120                                                                                 
+SMESDB       MEZ   OS000358     N33285910E0361359100                                                                                
+SMESDB       DAL   OS000342     N33291518E036360619                                                                                 
+SMESDB       PAL   OS000337     N34331040E038175385                                                                                 
+SMESD        ALE   OS011450V    N36104530E037123440                                                                                 
+SMESD        LTK   OS011480V    N35235710E035570267                                                                                 
+SMESD        DAM   OS011600V    N33215358E036280704                                                                                 
+SMESD        DRZ   OS011700V    N35173010E040091360                                                                                 
+SMESD        KML   OS011510V    N37010000E041121910                                                                                 
+SMESD        KTN   OS011770V    N34124782E037155115                                                                                 
+SMESD        TAN   OS011400V    N33285658E038391463                                                                                 
+SMESD        ALE   OS011450 D   N36104530E037123440                                                                                 
+SMESD        LTK   OS011480 D   N35235710E035570267                                                                                 
+SMESD        DAM   OS011600 D   N33215358E036280704                                                                                 
+SMESD        DRZ   OS011700 D   N35173010E040091360                                                                                 
+SMESD        KML   OS011510 D   N37010000E041121910                                                                                 
+SMESD        KTN   OS011770 D   N34124782E037155115                                                                                 
+SMESD        TAN   OS011400 D   N33285658E038391463                                                                                 
+SMESER       UP975       0170KANOKOSEA      O                             0990     29000     46000                                  
+SMESER       UP975       0180LESRIOSEA      O                             0374     28500     66000                                  
+SMESER       UP975       0190DYB  LTD       O                             0683     28500     66000                                  
+SMESER       R655        0050KTN  OSD       O                             0340     13000     60000                                  
+SMESER       R785        0010BAN  OSD       O                                      24000     28000                                  
+SMESER       R785        0020KTN  OSD       O                             0887     24000     28000                                  
+SMESER       R785        0030BASEMOSEA      O                             0437     24000     45000                                  
+SMESER       N1          0010BRAVOOSEA      O                                      24000     28000                                  
+SMESER       N1          0020LEBOROLEA      O                             0259     24000     28000                                  
+SMESER       J222        0010BASEMOSEA      OH                                     29000     60000                                  
+SMESER       J222        0020LOTAXOSEA      OH                            0610     29000     60000                                  
+SMESER       J222        0030LATEBOSEA      OH                            0071     13000     46000                                  
+SMESER       J222        0040CAK    D       OH                            0388     13000     46000                                  
+SMESER       A21         0090KTN  OSD       O                                      24000     60000                                  
+SMESER       A21         0100TAN  OSD       O                             0820     24000     60000                                  
+SMESER       B36         0020KILISOSEA      O                             0152     12500     28500                                  
+SMESER       B36         0030TUSYROSEA      O                             0034     12500     28500                                  
+SMESER       A412        0020ZELAFOSEA      O                             0740     11000     45000                                  
+SMESER       A412        0030TAN  OSD       O                             0459     24000     60000                                  
+SMESER       T333        0010LESRIOSEA      RL                                     23000     28500                                  
+SMESER       T333        0020SRT  LTD       RL                            0591     23000     28500                                  
+SMESER       UR785       0030ZELAFOSEA      O                             0699     23500     45000                                  
+SMESER       UL601       0050KTN  OSD       O                                      29000     60000                                  
+SMESER       UL601       0060SALIMOSEA      O                             0902     29000     60000                                  
+SMESER       UL601       0070TUNLA  EA      O                             0269     29000     60000                                  
+SMESER       UR219       0010FIRASOSEA      O                                      24000     60000                                  
+SMESER       UR219       0020SULAFOSEA      O                             0281     24000     60000                                  
+SMESER       UR219       0030RAFIFOSEA      O                             0163     24000     60000                                  
+SMESER       UR219       0040SOKANOJEA      O                             0052     23500     45000                                  
+SMESER       UB36        0020KILISOSEA      O                             0152     28500     66000                                  
+SMESER       UB36        0030TUSYROSEA      O                             0034     28500     66000                                  
+SMESER       UL573       0010KML  OSD       O                                      24000     46000                                  
+SMESER       UL573       0020LESRIOSEA      O                             0035     24000     46000                                  
+SMESER       UT333       0010LESRIOSEA      O                                      28500     66000                                  
+SMESER       UT333       0020SRT  LTD       O                             0591     28500     66000                                  

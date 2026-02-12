@@ -1,0 +1,108 @@
+SSCAEAENRT   ALERA MS           N13450500W0893213100                                                                                
+SSCAEAENRT   BARAS MS           N13343610W089323500                                                                                 
+SSCAEAENRT   CAT00 MS           N13363124W089021966                                                                                 
+SSCAEAENRT   CAT01 MS           N13344135W089154742                                                                                 
+SSCAEAENRT   CAT02 MS           N13352143W088580251                                                                                 
+SSCAEAENRT   CAT04 MS           N13245581W089074487                                                                                 
+SSCAEAENRT   CAT05 MS           N13254616W089050669                                                                                 
+SSCAEAENRT   CAT06 MS           N13273605W088592112                                                                                 
+SSCAEAENRT   CAT07 MS           N13210562W088581482                                                                                 
+SSCAEAENRT   CAT10 MS           N13232249W088530611                                                                                 
+SSCAEAENRT   CAT12 MS           N13293519W088530586                                                                                 
+SSCAEAENRT   CAT13 MS           N13201941W088573525                                                                                 
+SSCAEAENRT   CAT14 MS           N13245270W089013778                                                                                 
+SSCAEAENRT   CAT20 MS           N13243698W089081253                                                                                 
+SSCAEAENRT   CAT21 MS           N13255906W089043385                                                                                 
+SSCAEAENRT   CAT24 MS           N13394760W088553767                                                                                 
+SSCAEAENRT   CAT25 MS           N13263835W089022263                                                                                 
+SSCAEAENRT   CAT27 MS           N13283446W089180721                                                                                 
+SSCAEAENRT   CAT28 MS           N13303792W089174053                                                                                 
+SSCAEAENRT   CAT31 MS           N13374103W089131078                                                                                 
+SSCAEAENRT   CAT34 MS           N13412477W089050068                                                                                 
+SSCAEAENRT   CAT35 MS           N13413234W089020351                                                                                 
+SSCAEAENRT   CAT49 MS           N13362464W089042838                                                                                 
+SSCAEAENRT   CAT50 MS           N13282077W088570032                                                                                 
+SSCAEAENRT   CAT68 MS           N13285799W088550310                                                                                 
+SSCAEAENRT   CAT69 MS           N13310813W088481273                                                                                 
+SSCAEAENRT   CAT79 MS           N13265415W088543972                                                                                 
+SSCAEAENRT   KOSTO MS           N13550000W0892829100                                                                                
+SSCAEAENRT   LEMPA MS           N13330600W088422400                                                                                 
+SSCAEAENRT   MEGAL MS           N14045400W0894405100                                                                                
+SSCAEAENRT   MORAM MS           N14053500W0890051100                                                                                
+SSCAEAENRT   NOVOG MS           N14213910W089101700                                                                                 
+SSCAEAENRT   ONGOS MS           N13171710W0884217100                                                                                
+SSCAEAENRT   PERLA MS           N13455600W088414300                                                                                 
+SSCAEAENRT   R1520 MS           N13260957W089041065                                                                                 
+SSCAEAENRT   RELTA MS           N14061210W089090200                                                                                 
+SSCAEAENRT   SULMA MS           N13571110W0884547100                                                                                
+SSCAEAENRT   YSV02 MS           N13431348W089075097                                                                                 
+SSCAEAENRT   YSV05 MS           N13504077W088544936                                                                                 
+SSCAEAENRT   YSV08 MS           N13484138W089102745                                                                                 
+SSCAEAENRT   YSV11 MS           N13560182W089031480                                                                                 
+SSCAEAENRT   YSV24 MS           N13540264W089152313                                                                                 
+SSCAEAENRT   YSV25 MS           N13372962W089215217                                                                                 
+SSCAEAENRT   YSV30 MS           N13493649W089195514                                                                                 
+SSCAEAENRT   YSV32 MS           N13550388W089133018                                                                                 
+SSCAEAENRT   YSV34 MS           N13554915W089112958                                                                                 
+SSCAEAENRT   YSV35 MS           N13562651W089080343                                                                                 
+SSCAEAENRT   YSV76 MS           N13441631W088515054                                                                                 
+SSCADB       LAN   MS000331     N13244352W089081507                                                                                 
+SSCADB       YSX   MS000215     N13415466W089070331                                                                                 
+SSCAD        CAT   MS011750V    N13262900W089025190                                                                                 
+SSCAD        YSV   MS011650V    N13412420W089065880                                                                                 
+SSCAD        CAT   MS011750 D   N13262900W089025190                                                                                 
+SSCAD        YSV   MS011650 D   N13412420W089065880                                                                                 
+SSCAER       A552        0340NOVOGMSEA      O                             0128     12000     19500                                  
+SSCAER       A552        0350LAGOXMGEA      O                             0530     12000     19500                                  
+SSCAER       B764        0040MORAMMSEA      O                             0143     12000     19500                                  
+SSCAER       B764        0050YSV  MSD       O                             0249     12000     19500                                  
+SSCAER       A317        0130ONGOSMSEA      O                             0280     10000     19500                                  
+SSCAER       A317        0140CAT  MSD       O                             0220     10000     19500                                  
+SSCAER       A317        0150BARASMSEA      O                             0300     10000     19500                                  
+SSCAER       A317        0160DUNEL  EA      O                             0342     10000     19500                                  
+SSCAER       R635        0010BARASMSEA      O                                      08000     19500                                  
+SSCAER       R635        0020YSV  MSD       O                             0258     08000     19500                                  
+SSCAER       R635        0030PERLAMSEA      O                             0250     10000     19500                                  
+SSCAER       R635        0040TAGIRMHEA      O                             0539     10000     19500                                  
+SSCAER       A758        0040NOVOGMSEA      O                             0403     12000     19500                                  
+SSCAER       A758        0050RELTAMSEA      O                             0155     12000     19500                                  
+SSCAER       A758        0060YSV  MSD       O                             0249     12000     19500                                  
+SSCAER       A754        0080LEMPAMSEA      O                             0588     10000     19500                                  
+SSCAER       A754        0090CAT  MSD       O                             0210     10000     19500                                  
+SSCAER       B500        0010CAT  MSD       O                                      13000     19500                                  
+SSCAER       B500        0020SULMAMSEA      O                             0349     13000     19500                                  
+SSCAER       B500        0030NAGELMHEA      O                             0212     13000     19500                                  
+SSCAER       A770        0050YSV  MSD       O                                      11000     19500                                  
+SSCAER       A770        0060KOSTOMSEA      O                             0249     11000     19500                                  
+SSCAER       A770        0070MEGALMSEA      O                             0181     11000     19500                                  
+SSCAER       A770        0080ROSAMMGEA      O                             0301     11000     19500                                  
+SSCAER       G436        0070LAN  MSD       O                                      11000     19500                                  
+SSCAER       G436        0080SEDRO  EA      O                             0251     11000     19500                                  
+SSCAER       R883        0020YSV  MSD       O                             0371     07000     19500                                  
+SSCAER       UA552       0240NOVOGMSEA      O                             0530     19500     60000                                  
+SSCAER       UA552       0250URNOSMHEA      O                             0128     19500     60000                                  
+SSCAER       UB764       0040MORAMMSEA      O                             0143     19500     60000                                  
+SSCAER       UB764       0050YSV  MSD       O                             0249     19500     60000                                  
+SSCAER       UA317       0130ONGOSMSEA      O                             0280     19500     60000                                  
+SSCAER       UA317       0140CAT  MSD       O                             0220     19500     60000                                  
+SSCAER       UA317       0150BARASMSEA      O                             0300     19500     60000                                  
+SSCAER       UA317       0160DUNEL  EA      O                             0342     19500     60000                                  
+SSCAER       UR635       0010BARASMSEA      O                                      19500     60000                                  
+SSCAER       UR635       0020YSV  MSD       O                             0258     19500     60000                                  
+SSCAER       UR635       0030PERLAMSEA      O                             0250     19500     60000                                  
+SSCAER       UR635       0040TAGIRMHEA      O                             0539     19500     60000                                  
+SSCAER       UA758       0040NOVOGMSEA      O                             0403     19500     60000                                  
+SSCAER       UA758       0050RELTAMSEA      O                             0155     19500     60000                                  
+SSCAER       UA758       0060YSV  MSD       O                             0249     19500     60000                                  
+SSCAER       UA754       0080LEMPAMSEA      O                             0588     19500     60000                                  
+SSCAER       UA754       0090CAT  MSD       O                             0210     19500     60000                                  
+SSCAER       UB500       0010CAT  MSD       O                                      19500     60000                                  
+SSCAER       UB500       0020SULMAMSEA      O                             0349     19500     60000                                  
+SSCAER       UB500       0030NAGELMHEA      O                             0212     19500     60000                                  
+SSCAER       UA770       0050YSV  MSD       O                                      19500     60000                                  
+SSCAER       UA770       0060KOSTOMSEA      O                             0249     19500     60000                                  
+SSCAER       UA770       0070MEGALMSEA      O                             0181     19500     60000                                  
+SSCAER       UA770       0080ROSAMMGEA      O                             0301     19500     60000                                  
+SSCAER       UG436       0120LAN  MSD       O                                      19500     60000                                  
+SSCAER       UG436       0130SEDRO  EA      O                             0251     19500     60000                                  
+SSCAER       UR883       0020YSV  MSD       O                             0371     19500     60000                                  

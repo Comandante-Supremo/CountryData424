@@ -1,0 +1,292 @@
+SMESEAENRT   ALBGH OY           N17204710E0443717100                                                                                
+SMESEAENRT   ALHZM OY           N16123000E044474200                                                                                 
+SMESEAENRT   ALNES OY           N18181710E0482810100                                                                                
+SMESEAENRT   ARABO OY           N12384800E0440353100                                                                                
+SMESEAENRT   ASREM OY           N15463610E044144300                                                                                 
+SMESEAENRT   BAROM OY           N14235400E0484441100                                                                                
+SMESEAENRT   BIRHT OY           N17200000E0520059100                                                                                
+SMESEAENRT   BORIL OY           N13261700E0454028100                                                                                
+SMESEAENRT   BOSAX OY           N14473910E0484552100                                                                                
+SMESEAENRT   DAROV OY           N16063700E0431337100                                                                                
+SMESEAENRT   DASIT OY           N14441200E0462930100                                                                                
+SMESEAENRT   DEKMA OY           N15222600E0474552100                                                                                
+SMESEAENRT   DEMNA OY           N15161800E049063000                                                                                 
+SMESEAENRT   DEPDA OY           N14320600E0435806100                                                                                
+SMESEAENRT   DIRAK OY           N12421110E044214200                                                                                 
+SMESEAENRT   EGMIX OY           N15181100E0503809100                                                                                
+SMESEAENRT   EGNOL OY           N14074500E044092900                                                                                 
+SMESEAENRT   ELONA OY           N16575210E044212400                                                                                 
+SMESEAENRT   GEVEL OY           N14122900E0442546100                                                                                
+SMESEAENRT   GIBIT OY           N15484810E0473803100                                                                                
+SMESEAENRT   GINBO OY           N16034810E049401700                                                                                 
+SMESEAENRT   GOBLO OY           N15405000E043255000                                                                                 
+SMESEAENRT   GOGRI OY           N17075110E051085700                                                                                 
+SMESEAENRT   GOMRI OY           N13181510E0443223100                                                                                
+SMESEAENRT   HAZIR OY           N17455910E049080001                                                                                 
+SMESEAENRT   HELAL OY           N17154162E044230214                                                                                 
+SMESEAENRT   IMDEN OY           N16210100E0452743100                                                                                
+SMESEAENRT   IMKAR OY           N15351100E043503900                                                                                 
+SMESEAENRT   IMPOS OY           N18313610E0511847100                                                                                
+SMESEAENRT   IMSIL OY           N15573800E043411200                                                                                 
+SMESEAENRT   IMTAN OY           N16325300E0471942100                                                                                
+SMESEAENRT   ITELI OY           N17130910E0502604100                                                                                
+SMESEAENRT   ITOLI OY           N15282410E0450926100                                                                                
+SMESEAENRT   IVORA OY           N14434110E047034200                                                                                 
+SMESEAENRT   IVOSO OY           N13173400E0453106100                                                                                
+SMESEAENRT   KANEM OY           N17370000E0492654100                                                                                
+SMESEAENRT   KEBER OY           N17044400E050202900                                                                                 
+SMESEAENRT   KITAB OY           N15194110E0493119100                                                                                
+SMESEAENRT   LABDO OY           N16484200E0442031100                                                                                
+SMESEAENRT   LABRA OY           N16181210E0465112100                                                                                
+SMESEAENRT   LADLI OY           N13273629E045160525                                                                                 
+SMESEAENRT   LONIS OY           N15190910E0460015100                                                                                
+SMESEAENRT   LOPAD OY           N16165010E0453737100                                                                                
+SMESEAENRT   LOTEL OY           N18092510E051410300                                                                                 
+SMESEAENRT   LUDOX OY           N15203400E043352400                                                                                 
+SMESEAENRT   MAZEN OY           N16013600E044384800                                                                                 
+SMESEAENRT   MEGPA OY           N16001610E046165300                                                                                 
+SMESEAENRT   MEGPO OY           N14425610E0473437100                                                                                
+SMESEAENRT   MEMTA OY           N15032110E0472433100                                                                                
+SMESEAENRT   MISAN OY           N15000100E0440521100                                                                                
+SMESEAENRT   MIXON OY           N16303410E0432930100                                                                                
+SMESEAENRT   MOGEM OY           N13265410E044452900                                                                                 
+SMESEAENRT   MUTAB OY           N15531310E0444659100                                                                                
+SMESEAENRT   MUTEX OY           N15252310E043544500                                                                                 
+SMESEAENRT   MUTOK OY           N16100500E0472227100                                                                                
+SMESEAENRT   NABAN OY           N16312310E043014800                                                                                 
+SMESEAENRT   NABUP OY           N15541610E0482142100                                                                                
+SMESEAENRT   NAGIL OY           N15202310E0435650100                                                                                
+SMESEAENRT   NAKAD OY           N15005600E0500401100                                                                                
+SMESEAENRT   NANRI OY           N16075400E0521602100                                                                                
+SMESEAENRT   NIBAL OY           N15410278E044131400                                                                                 
+SMESEAENRT   NOBSU OY           N17155400E043131800                                                                                 
+SMESEAENRT   NOPVO OY           N13543600E0441534100                                                                                
+SMESEAENRT   OBNAM OY           N14454100E044444800                                                                                 
+SMESEAENRT   OBNIS OY           N14584000E047490300                                                                                 
+SMESEAENRT   OBTAS OY           N16463210E050575600                                                                                 
+SMESEAENRT   OVABI OY           N16244200E046264200                                                                                 
+SMESEAENRT   PAPOR OY           N15432200E046565200                                                                                 
+SMESEAENRT   PASAD OY           N15363310E046071300                                                                                 
+SMESEAENRT   PASUL OY           N18034100E051380300                                                                                 
+SMESEAENRT   PAVEN OY           N14460110E044111200                                                                                 
+SMESEAENRT   PAXUD OY           N14543600E0485044100                                                                                
+SMESEAENRT   PEBIX OY           N14444700E0454636100                                                                                
+SMESEAENRT   PURUG OY           N15120310E0510141100                                                                                
+SMESEAENRT   PUTRA OY           N16543200E0525630100                                                                                
+SMESEAENRT   R3111 OY           N15292751E044131071                                                                                 
+SMESEAENRT   RAGNI OY           N16345400E045481500                                                                                 
+SMESEAENRT   RAKID OY           N15413400E0442958100                                                                                
+SMESEAENRT   RALMO OY           N15382400E049215500                                                                                 
+SMESEAENRT   RAMLO OY           N15103210E0434006100                                                                                
+SMESEAENRT   RARBA OY           N16102010E050392000                                                                                 
+SMESEAENRT   RASBA OY           N14412310E0484127100                                                                                
+SMESEAENRT   SAA06 OY           N15235848E044131400                                                                                 
+SMESEAENRT   SAA10 OY           N15143014E044033865                                                                                 
+SMESEAENRT   SAA13 OY           N15165670E044131400                                                                                 
+SMESEAENRT   SAA15 OY           N15450378E044131400                                                                                 
+SMESEAENRT   SAA18 OY           N15403696E043580835                                                                                 
+SMESEAENRT   SAA34 OY           N15332486E044131400                                                                                 
+SMESEAENRT   SAA35 OY           N15475644E044105749                                                                                 
+SMESEAENRT   SAA37 OY           N15202471E043572620                                                                                 
+SMESEAENRT   SAA59 OY           N15480454E044131400                                                                                 
+SMESEAENRT   SAA79 OY           N15115543E044131400                                                                                 
+SMESEAENRT   SABEL OY           N18515710E0520338100                                                                                
+SMESEAENRT   SAHER OY           N15205772E044131400                                                                                 
+SMESEAENRT   SILPA OY           N18495300E051015800                                                                                 
+SMESEAENRT   SIMKO OY           N16182010E051552600                                                                                 
+SMESEAENRT   SOKAT OY           N14460510E044014500                                                                                 
+SMESEAENRT   TAMIM OY           N13480000E0471659100                                                                                
+SMESEAENRT   TAVLI OY           N15350200E049343000                                                                                 
+SMESEAENRT   THAMD OY           N17165910E049550000                                                                                 
+SMESEAENRT   TONRO OY           N16585000E052223500                                                                                 
+SMESEAENRT   UKNAN OY           N14183810E0432900100                                                                                
+SMESEAENRT   UKORA OY           N15240610E050154700                                                                                 
+SMESEAENRT   ULAXI OY           N14152400E048231700                                                                                 
+SMESEAENRT   ULBIR OY           N13591810E043494000                                                                                 
+SMESEAENRT   ULDIB OY           N14114800E0485421100                                                                                
+SMESEAENRT   UMILI OY           N14460900E043513300                                                                                 
+SMESEAENRT   XABIP OY           N16100010E044165300                                                                                 
+SMESDB       AD    OY000361     N12521300E045002000                                                                                 
+SMESDB       GDA   OY000354     N16111704E052094299                                                                                 
+SMESDB       HD    OY000368     N14453660E042582340                                                                                 
+SMESDB       MRB   OY000271     N15280510E0451941100                                                                                
+SMESDB       SYE   OY000267     N16580000E043434000                                                                                 
+SMESDB       SAH   OY000395     N15233360E044130720                                                                                 
+SMESDB       SA    OY000375     N15271110E0441311100                                                                                
+SMESDB       SYN   OY000385     N15574264E048471018                                                                                 
+SMESDB       TZ    OY000385     N13412000E044081500                                                                                 
+SMESD        KRA   OY011250V    N12495229E045012462                                                                                 
+SMESD        HDH   OY011420V    N14462410E042591700                                                                                 
+SMESD        RIN   OY011600V    N14401527E049232927                                                                                 
+SMESD        SAA   OY011610V    N15300000E044131400                                                                                 
+SMESD        TAZ   OY011360V    N13414950E0440817100                                                                                
+SMESD        KRL   OY010950 D   N12494010E045010370                                                                                 
+SMESD        KRA   OY011250 D   N12495229E045012462                                                                                 
+SMESD        HDH   OY011420 D   N14462410E042591700                                                                                 
+SMESD        RIN   OY011600 D   N14401527E049232927                                                                                 
+SMESD        SAA   OY011610 D   N15300000E044130840                                                                                 
+SMESD        TAZ   OY011360 D   N13414950E0440817100                                                                                
+SMESER       B544        0010KRA  OYD       O                                      15000     60000                                  
+SMESER       B544        0020MOGEMOYEA      O                             0402     15000     60000                                  
+SMESER       B544        0030GEVELOYEA      O                             0495     15000     60000                                  
+SMESER       B544        0040PAVENOYEA      O                             0364     15000     60000                                  
+SMESER       B544        0050MISANOYEA      O                             0151     15000     60000                                  
+SMESER       B544        0060NAGILOYEA      O                             0220     15000     60000                                  
+SMESER       B544        0070MUTEXOYEA      O                             0054     15000     60000                                  
+SMESER       B544        0080MIXONOYEA      O                                      15000     60000                                  
+SMESER       B544        0090NOBSUOYEA      O                             0479     15000     46000                                  
+SMESER       B544        0100LALGIOEEA      O                             0167     15000     46000                                  
+SMESER       V630        0010BIRHTOYEA      OL                                     09000     60000                                  
+SMESER       V630        0020GDA  OYD       OL                            0693     09000     60000                                  
+SMESER       A408        0070HDH  OYD       O                                      15000     60000                                  
+SMESER       A408        0080ORNIS  EA      O                             0371     15000     60000                                  
+SMESER       P571        0010BOSAXOYEA      O                                      11500     60000                                  
+SMESER       P571        0020OBNISOYEA      O                             0561     11500     60000                                  
+SMESER       P571        0030MEMTAOYEA      O                             0241     11500     60000                                  
+SMESER       P571        0040LONISOYEA      O                             0829     11500     60000                                  
+SMESER       T502        0070BORILOYEA      RL                            0202     15000     60000                                  
+SMESER       T502        0080PEBIXOYEA      RL                            0788     15000     60000                                  
+SMESER       R777        0030GOBLOOYEA      O                             0848     14000     60000                                  
+SMESER       R777        0040IMKAROYEA      O                             0246     14000     60000                                  
+SMESER       G667        0030ULBIROYEA      O                             0904     15000     60000                                  
+SMESER       G667        0040DEPDAOYEA      O                             0338     15000     60000                                  
+SMESER       G667        0050SOKATOYEA      O                             0144     15000     60000                                  
+SMESER       G667        0060MISANOYEA      O                             0144     15000     60000                                  
+SMESER       G667        0070SAA  OYD       O                             0309     15000     60000                                  
+SMESER       G667        0150ELONAOYEA      O                             0282     13000     60000                                  
+SMESER       G667        0160LABDOOYEA      O                             0092     13000     60000                                  
+SMESER       G667        0170XABIPOYEA      O                             0389     13000     60000                                  
+SMESER       V646        0010DASITOYEA      OL                                     14000     25000                                  
+SMESER       V646        0020ITOLIOYEA      OL                            0891     14000     25000                                  
+SMESER       P312        0030RIN  OYD       O                                      11000     27000                                  
+SMESER       P312        0040ULDIBOYEA      O                             0401     11000     27000                                  
+SMESER       G652        0180IMPOSOYEA      O                             0483     15000     60000                                  
+SMESER       N764        0100RIN  OYD       O                             0262     11500     60000                                  
+SMESER       N764        0110PAXUDOYEA      O                             0348     11500     60000                                  
+SMESER       N764        0120DEKMAOYEA      O                             0686     11500     60000                                  
+SMESER       N764        0130PAPOROYEA      O                             0517     11500     60000                                  
+SMESER       N764        0140MEGPAOYEA      O                             0420     15000     60000                                  
+SMESER       N764        0150LOPADOYEA      O                             0412     15000     60000                                  
+SMESER       V650        0010DEMNAOYEA      OL                                     09000     60000                                  
+SMESER       V650        0020RIN  OYD       OL                            0396     09000     60000                                  
+SMESER       B549        0040PUTRAOYEA      O                             0483     09000     60000                                  
+SMESER       B549        0050TONROOYEA      O                             0328     09000     60000                                  
+SMESER       B549        0060GOGRIOYEA      O                             0710     09000     60000                                  
+SMESER       B549        0070ITELIOYEA      O                             0413     09000     60000                                  
+SMESER       V625        0010ELONAOYEA      OL                                     12500     60000                                  
+SMESER       V625        0020XABIPOYEA      OL                            0481     12500     60000                                  
+SMESER       V625        0030SAA  OYD       OL                            0402     12500     60000                                  
+SMESER       B413        0030HDH  OYD       O                             0288     06000     60000                                  
+SMESER       B413        0040UKNANOYEA      O                             0400     13000     60000                                  
+SMESER       B413        0050ULBIROYEA      O                             0279     13000     60000                                  
+SMESER       B413        0060TAZ  OYD       O                             0252     13000     60000                                  
+SMESER       B413        0070GOMRIOYEA      O                             0333     13000     60000                                  
+SMESER       B413        0080KRA  OYD       O                             0401     13000     60000                                  
+SMESER       B413        0090UMEBU  EA      O                             0401     06000     60000                                  
+SMESER       V621        0010GDA  OYD       OL                                     07500     60000                                  
+SMESER       V621        0020THAMDOYEA      OL                            1449     07500     60000                                  
+SMESER       M301        0010GIBITOYEA      O                                      11500     60000                                  
+SMESER       M301        0020NABUPOYEA      O                             0424     11500     60000                                  
+SMESER       M301        0030SYN  OYD       O                             0247     11500     60000                                  
+SMESER       M301        0040GINBOOYEA      O                             0515     11500     60000                                  
+SMESER       M301        0050RARBAOYEA      O                             0571     11500     60000                                  
+SMESER       M301        0060SIMKOOYEA      O                             0735     11500     60000                                  
+SMESER       V632        0010GINBOOYEA      OL                                     10000     60000                                  
+SMESER       V632        0020TAVLIOYEA      OL                            0293     10000     60000                                  
+SMESER       V632        0030KITABOYEA      OL                            0156     10000     60000                                  
+SMESER       V632        0040RIN  OYD       OL                            0402     10000     60000                                  
+SMESER       V626        0010HAZIROYEA      OL                                     09000     60000                                  
+SMESER       V626        0020SYN  OYD       OL                            1102     09000     60000                                  
+SMESER       V645        0010HELALOYEA      OL                                     13000     46000                                  
+SMESER       V645        0020NETASOEEA      OL                            0103     13000     46000                                  
+SMESER       V635        0020LUDOXOYEA      OL                            0570     14000     60000                                  
+SMESER       V635        0030SAA  OYD       OL                            0377     14000     60000                                  
+SMESER       M651        0020KRA  OYD       O                             0402     06000     60000                                  
+SMESER       B424        0010LABRAOYEA      O                                      12000     60000                                  
+SMESER       B424        0020MEGPAOYEA      O                             0376     12000     60000                                  
+SMESER       A417        0010LOTELOYEA      O                                      09000     60000                                  
+SMESER       A417        0020PUTRAOYEA      O                             1039     09000     60000                                  
+SMESER       V633        0010MAZENOYEA      OL                                     13000     60000                                  
+SMESER       V633        0020SAA  OYD       OL                            0401     13000     60000                                  
+SMESER       V631        0010MIXONOYEA      OL                                     12500     60000                                  
+SMESER       V631        0020SAA  OYD       OL                            0738     12500     60000                                  
+SMESER       V623        0020TAZ  OYD       OL                            0808     12000     60000                                  
+SMESER       B535        0040NANRIOYEA      O                                      15000     60000                                  
+SMESER       B535        0050EGMIXOYEA      O                             1066     15000     60000                                  
+SMESER       B535        0060NAKADOYEA      O                             0372     15000     60000                                  
+SMESER       B535        0070RIN  OYD       O                             0443     15000     60000                                  
+SMESER       B535        0080BAROMOYEA      O                             0410     15000     60000                                  
+SMESER       B535        0090ULAXIOYEA      O                             0224     15000     60000                                  
+SMESER       B535        0100TAMIMOYEA      O                             0699     15000     60000                                  
+SMESER       B535        0110BANAR  EA      O                             1039     15000     60000                                  
+SMESER       B535        0120KRA  OYD       O                             0404     15000     60000                                  
+SMESER       B535        0130KATAN  EA      O                             0398     15000     60000                                  
+SMESER       UP552       0030ULAXIOYEA      O                             0568     15000     60000                                  
+SMESER       UP552       0040RASBAOYEA      O                             0314     15000     60000                                  
+SMESER       UP552       0050BOSAXOYEA      O                             0076     15000     60000                                  
+SMESER       UP552       0060PAXUDOYEA      O                             0084     15000     60000                                  
+SMESER       UP552       0070DEMNAOYEA      O                             0265     15000     60000                                  
+SMESER       UP552       0080RALMOOYEA      O                             0266     15000     60000                                  
+SMESER       UP552       0090GINBOOYEA      O                             0310     15000     60000                                  
+SMESER       UP552       0100KEBEROYEA      O                             0721     15000     60000                                  
+SMESER       UM574       0040PURUGOYEA      O                             1229     15000     60000                                  
+SMESER       UM574       0050EGMIXOYEA      O                             0235     15000     60000                                  
+SMESER       UM574       0060UKORAOYEA      O                             0224     15000     60000                                  
+SMESER       UM574       0070TAVLIOYEA      O                             0413     15000     60000                                  
+SMESER       UM574       0080RALMOOYEA      O                             0126     15000     60000                                  
+SMESER       UM574       0090NABUPOYEA      O                             0601     15000     60000                                  
+SMESER       UM574       0100MUTOKOYEA      O                             0591     15000     60000                                  
+SMESER       UM574       0110LABRAOYEA      O                             0311     15000     60000                                  
+SMESER       UM574       0120OVABIOYEA      O                             0244     15000     60000                                  
+SMESER       UM574       0130RAGNIOYEA      O                             0383     15000     60000                                  
+SMESER       UM574       0140ELONAOYEA      O                             0863     15000     60000                                  
+SMESER       UM574       0150NOBSUOYEA      O                             0676     15000     60000                                  
+SMESER       UR674       0060NAKADOYEA      O                             0231     15000     60000                                  
+SMESER       UR674       0070UKORAOYEA      O                             0258     15000     60000                                  
+SMESER       UR674       0080RARBAOYEA      O                             0515     15000     60000                                  
+SMESER       UR674       0090OBTASOYEA      O                             0404     15000     60000                                  
+SMESER       UR674       0100GOGRIOYEA      O                             0238     15000     60000                                  
+SMESER       UR674       0110PASULOYEA      O                             0624     15000     60000                                  
+SMESER       UR674       0120LOTELOYEA      O                             0064     15000     60000                                  
+SMESER       UR674       0130SABELOYEA      O                             0477     15000     60000                                  
+SMESER       UP323       0100NANRIOYEA      O                             0046     15000     60000                                  
+SMESER       UP323       0110GDA  OYD       O                             0070     15000     60000                                  
+SMESER       UP323       0120SIMKOOYEA      O                             0154     15000     60000                                  
+SMESER       UP323       0130OBTASOYEA      O                             0620     15000     60000                                  
+SMESER       UP323       0140KEBEROYEA      O                             0402     15000     60000                                  
+SMESER       UP323       0150THAMDOYEA      O                             0273     15000     60000                                  
+SMESER       UP323       0160KANEMOYEA      O                             0335     15000     60000                                  
+SMESER       UL314       0010NABANOYEA      O                                      15000     60000                                  
+SMESER       UL314       0020DAROVOYEA      O                             0273     15000     60000                                  
+SMESER       UL314       0030GOBLOOYEA      O                             0283     15000     60000                                  
+SMESER       UL314       0040LUDOXOYEA      O                             0223     15000     60000                                  
+SMESER       UL314       0050RAMLOOYEA      O                             0110     15000     60000                                  
+SMESER       UL314       0060UMILIOYEA      O                             0268     15000     60000                                  
+SMESER       UL314       0070DEPDAOYEA      O                             0154     15000     60000                                  
+SMESER       UL314       0080EGNOLOYEA      O                             0267     15000     60000                                  
+SMESER       UL314       0090NOPVOOYEA      O                             0144     15000     60000                                  
+SMESER       UL314       0100GOMRIOYEA      O                             0399     15000     60000                                  
+SMESER       P312-       0030RIN  OYD       O                                      15000     60000                                  
+SMESER       P312-       0040ULDIBOYEA      O                             0401     15000     60000                                  
+SMESER       UL566       0060PURUGOYEA      O                             0549     15000     60000                                  
+SMESER       UL566       0070UKNEN  EA      O                             0927     15000     60000                                  
+SMESER       UM651       0030KRA  OYD       O                                      15000     60000                                  
+SMESER       UM651       0040LADLIOYEA      O                             0404     15000     60000                                  
+SMESER       UM651       0050PEBIXOYEA      O                             0827     15000     60000                                  
+SMESER       UM651       0060LONISOYEA      O                             0368     15000     60000                                  
+SMESER       UM651       0070PASADOYEA      O                             0187     15000     60000                                  
+SMESER       UM651       0080MEGPAOYEA      O                             0255     15000     60000                                  
+SMESER       UM651       0090OVABIOYEA      O                             0262     15000     60000                                  
+SMESER       UR659       0010OBNAMOYEA      O                                      15000     60000                                  
+SMESER       UR659       0020GEVELOYEA      O                             0380     15000     60000                                  
+SMESER       UR659       0030NOPVOOYEA      O                             0205     15000     60000                                  
+SMESER       UR659       0040TAZ  OYD       O                             0146     15000     60000                                  
+SMESER       UR659       0050LOPADOYEA      O                                      15000     60000                                  
+SMESER       UR659       0060RAGNIOYEA      O                             0207     15000     60000                                  
+SMESER       UB424       0070SABELOYEA      O                             1165     15000     60000                                  
+SMESER       UV649       0010HDH  OYD       O                                      29000     60000                                  
+SMESER       UV649       0020RIN  OYD       O                             3719     29000     60000                                  
+SMESER       UV648       0020SYN  OYD       O                             3621     29000     60000                                  
+SMESER       R659-       0020TAZ  OYD       O                             0808     15000     60000                                  
+SMESER       UR799       0010PASULOYEA      O                                      15000     60000                                  
+SMESER       UR799       0020TONROOYEA      O                             0776     15000     60000                                  

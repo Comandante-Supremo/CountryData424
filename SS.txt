@@ -1,0 +1,45 @@
+SAFREAENRT   ALMAM HJ           N09334512E024445143                                                                                 
+SAFREAENRT   AMATO HJ           N05184100E035012670                                                                                 
+SAFREAENRT   ATUGA HJ           N04000000E031455400                                                                                 
+SAFREAENRT   AVONO HJ           N09202580E033560140                                                                                 
+SAFREAENRT   BARIA HJ           N09343216E029590843                                                                                 
+SAFREAENRT   DAGAP HJ           N06240000E034120000                                                                                 
+SAFREAENRT   DEKUM HJ           N04370510E0293859100                                                                                
+SAFREAENRT   OVELA HJ           N04000000E0311453100                                                                                
+SAFREAENRT   SAGBU HJ           N04000000E0302259100                                                                                
+SAFREAENRT   TAPOS HJ           N05540837E033200208                                                                                 
+SAFRDB       WUW   HJ000355     N07432288E027583557                                                                                 
+SAFRD        JUB   HJ011330V    N04531917E031345340                                                                                 
+SAFRD        MLK   HJ011270V    N09334740E031391141                                                                                 
+SAFRD        JUB   HJ011330 D   N04531917E031345340                                                                                 
+SAFRD        MLK   HJ011270 D   N09334740E031391141                                                                                 
+SAFRER       B535F       0010DAGAPHJEA      O                                      11500     24500                                  
+SAFRER       B535F       0020TAPOSHJEA      O                             0597     11500     24500                                  
+SAFRER       B535F       0030JUB  HJD       O                             1211     11500     24500                                  
+SAFRER       B535F       0040SAGBUHJEA      O                             0894     07000     24500                                  
+SAFRER       B535F       0050BIKALFZEA      O                             0583     07000     24500                                  
+SAFRER       B612F       0030MLK  HJD       O                             2309     07500     24500                                  
+SAFRER       B612F       0040TAPOSHJEA      O                             2415     11500     24500                                  
+SAFRER       B612F       0050EPLASHKEA      O                             1255     11500     24500                                  
+SAFRER       B535-       0010DAGAPHJEA      O                                      24500     66000                                  
+SAFRER       B535-       0020EPSIXHAEA      O                             0312     24500     66000                                  
+SAFRER       B527D       0010OVELAHJEA      O                                      11500     24500                                  
+SAFRER       B527D       0020JUB  HJD       O                             0570     07500     24500                                  
+SAFRER       B527D       0030MLK  HJD       O                             2807     07500     24500                                  
+SAFRER       B527D       0040RABAKHSEA      O                             2097     05500     24500                                  
+SAFRER       UB607       0010DEKUMHJEA      O                                      24500     60000                                  
+SAFRER       UB607       0020BARIAHJEA      O                             2983     24500     60000                                  
+SAFRER       UB607       0030OBD  HSD       O                             2150     24500     60000                                  
+SAFRER       UB736       0010BARIAHJEA      O                                      24500     60000                                  
+SAFRER       UB736       0020MLK  HJD       O                             0987     24500     60000                                  
+SAFRER       UB12        0010DEKUMHJEA      O                                      31000     60000                                  
+SAFRER       UB12        0020BIKALFZEA      O                             0699     31000     60000                                  
+SAFRER       UA618       0040SAGBUHJEA      O                             1282     31000     60000                                  
+SAFRER       UB612       0030MLK  HJD       O                             2309     24500     60000                                  
+SAFRER       UB612       0040TAPOSHJEA      O                             2415     24500     60000                                  
+SAFRER       UB612       0050EPLASHKEA      O                             1255     24500     60000                                  
+SAFRER       UB535       0020SAGBUHJEA      O                             1574     31000     60000                                  
+SAFRER       UB527       0010OVELAHJEA      O                                      24500     60000                                  
+SAFRER       UB527       0020JUB  HJD       O                             0570     24500     60000                                  
+SAFRER       UB527       0030MLK  HJD       O                             2807     24500     60000                                  
+SAFRER       UB527       0040RABAKHSEA      O                             2097     24500     60000                                  

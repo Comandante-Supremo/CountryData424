@@ -1,0 +1,6 @@
+SSPAEAENRT   BACAU              S08290510E126240000                                                                                 
+SSPADB       KO      000391     S08330758E125311382                                                                                 
+SSPAD        DIL     011340V    S08323832E125314023                                                                                 
+SSPAD        DIL     011340 D   S08323832E125314023                                                                                 
+SSPAER       Z86         0010DIL    D       O                                      09000     24000                                  
+SSPAER       Z86         0020MAMAL  EA      O                             0851     09000     24000                                  

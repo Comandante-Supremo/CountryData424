@@ -1,0 +1,29 @@
+SCCAEAENRT   ALNOT TP           N10304110W0610911100                                                                                
+SCCAEAENRT   BENAV TP           N10304110W061311800                                                                                 
+SCCAEAENRT   BOSAT TP           N10354710W0610911100                                                                                
+SCCAEAENRT   LEXOR TP           N10354200W0613105100                                                                                
+SCCAEAENRT   OMEGO TP           N10404110W0613105100                                                                                
+SCCAEAENRT   R1535 TP           N10354318W061210668                                                                                 
+SCCAEAENRT   SEBAS TP           N10404710W0610911100                                                                                
+SCCAEAENRT   SHARK TP           N10354412W061363461                                                                                 
+SCCAEAENRT   TALUS TP           N10354200W0612617100                                                                                
+SCCADB       TRI   TP000382     N10354820W061251440                                                                                 
+SCCAD        POS   TP011690V    N10275900W061233250                                                                                 
+SCCAD        IPOS  TP010970 D   N10354420W061191147                                                                                 
+SCCAD        POS   TP011690 D   N10275900W061233250                                                                                 
+SCCAER       G449        0330POS  TPD       O                             1480     06000     24500                                  
+SCCAER       G449        0340PERGA  EA      O                             0931     06000     24500                                  
+SCCAER       R515        0040POS  TPD       O                             0525     04100     24500                                  
+SCCAER       A324        0130POS  TPD       O                             1182     06000     24500                                  
+SCCAER       A552-       0030POS  TPD       O                             0287     06000     24500                                  
+SCCAER       UG449       0120POS  TPD       O                             1480     24500     60000                                  
+SCCAER       UG449       0130PERGA  EA      O                             0931     24500     60000                                  
+SCCAER       A562        0030POS  TPD       O                             0388     06000     24500                                  
+SCCAER       UR515       0020POS  TPD       O                             1926     24500     60000                                  
+SCCAER       UA324       0030POS  TPD       O                             1977     24500     60000                                  
+SCCAER       UA324       0040MINDA  EA      O                             1182     24500     60000                                  
+SCCAER       UL337       0120POS  TPD       O                                      24500     60000                                  
+SCCAER       UL337       0130VUDAL  EA      O                             1682     24500     60000                                  
+SCCAER       UA552       0030POS  TPD       O                             0287     24500     60000                                  
+SCCAER       UL205       0020POS  TPD       O                             2249     24500     60000                                  
+SCCAER       UA562       0030POS  TPD       O                             0388     24500     60000                                  

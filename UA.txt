@@ -1,0 +1,1009 @@
+SEUREAENRT   ABABO UK           N48290538E036315410                                                                                 
+SEUREAENRT   ABDAK UK           N47175625E035172718                                                                                 
+SEUREAENRT   ABOLA UK           N47585544E038245225                                                                                 
+SEUREAENRT   ABRAD UK           N50360494E026084144                                                                                 
+SEUREAENRT   ABRIS UK           N47093410E030395701                                                                                 
+SEUREAENRT   ABUGA UK           N49402947E036494197                                                                                 
+SEUREAENRT   AKONA UK           N47581722E034080605                                                                                 
+SEUREAENRT   ALUMO UK           N50324113E029381156                                                                                 
+SEUREAENRT   AMPUL UK           N48434951E038455418                                                                                 
+SEUREAENRT   ATREK UK           N47531200E029135900                                                                                 
+SEUREAENRT   BABAS UK           N50222880E030365880                                                                                 
+SEUREAENRT   BABIB UK           N46104210E029030500                                                                                 
+SEUREAENRT   BABIS UK           N49595292E026212253                                                                                 
+SEUREAENRT   BABKU UK           N49364103E028465365                                                                                 
+SEUREAENRT   BAGSA UK           N49154186E025595661                                                                                 
+SEUREAENRT   BAROR UK           N47374108E031504200                                                                                 
+SEUREAENRT   BASOR UK           N50030617E030495367                                                                                 
+SEUREAENRT   BB001 UK           N50305521E030315280                                                                                 
+SEUREAENRT   BB002 UK           N50275400E030330480                                                                                 
+SEUREAENRT   BB003 UK           N50323180E030500000                                                                                 
+SEUREAENRT   BB004 UK           N50301679E030533420                                                                                 
+SEUREAENRT   BB005 UK           N50295310E030545400                                                                                 
+SEUREAENRT   BB006 UK           N50275400E030545100                                                                                 
+SEUREAENRT   BB007 UK           N50272219E0305320100                                                                                
+SEUREAENRT   BB008 UK           N50105880E030454500                                                                                 
+SEUREAENRT   BB009 UK           N50115400E030521020                                                                                 
+SEUREAENRT   BB010 UK           N50120600E030534080                                                                                 
+SEUREAENRT   BB011 UK           N50150120E030524080                                                                                 
+SEUREAENRT   BB012 UK           N50151800E030535520                                                                                 
+SEUREAENRT   BEBRO UK           N49211733E034305991                                                                                 
+SEUREAENRT   BEKAP UK           N47365908E031445400                                                                                 
+SEUREAENRT   BEMBI UK           N50042812E029555263                                                                                 
+SEUREAENRT   BOGMA UK           N47571709E031354795                                                                                 
+SEUREAENRT   BOLRU UK           N50014779E024083047                                                                                 
+SEUREAENRT   BRP10 UK           N50270603E030550477                                                                                 
+SEUREAENRT   BRP22 UK           N50161390E0305219100                                                                                
+SEUREAENRT   BUDUK UK           N50022907E028573760                                                                                 
+SEUREAENRT   BULAN UK           N47055810E030453603                                                                                 
+SEUREAENRT   BULIG UK           N47575933E036125415                                                                                 
+SEUREAENRT   BUPOS UK           N46541320E034513720                                                                                 
+SEUREAENRT   DEKAD UK           N48565924E033215391                                                                                 
+SEUREAENRT   DELOL UK           N48081145E038252123                                                                                 
+SEUREAENRT   DELUK UK           N48231560E036212400                                                                                 
+SEUREAENRT   DEMER UK           N49322318E031364276                                                                                 
+SEUREAENRT   DIBED UK           N49531673E023032346                                                                                 
+SEUREAENRT   DIDKI UK           N47323321E034142811                                                                                 
+SEUREAENRT   DIDUR UK           N50003490E026020552                                                                                 
+SEUREAENRT   DOKEN UK           N48565933E035035398                                                                                 
+SEUREAENRT   DORER UK           N50275599E027122149                                                                                 
+SEUREAENRT   EDIMI UK           N49425520E031453275                                                                                 
+SEUREAENRT   EDUGO UK           N49195955E038445411                                                                                 
+SEUREAENRT   EKTIN UK           N48315916E032165391                                                                                 
+SEUREAENRT   ELBAM UK           N46543930E036503829                                                                                 
+SEUREAENRT   ELMUS UK           N45425882E028502411                                                                                 
+SEUREAENRT   ERKAD UK           N48115921E033335400                                                                                 
+SEUREAENRT   ETUKI UK           N50135344E035365985                                                                                 
+SEUREAENRT   FORMA UK           N50211745E035414784                                                                                 
+SEUREAENRT   GAMLA UK           N49161110E030251575                                                                                 
+SEUREAENRT   GANRA UK           N48264241E037110714                                                                                 
+SEUREAENRT   GELBO UK           N48165740E037074115                                                                                 
+SEUREAENRT   GENKU UK           N51265898E026075332                                                                                 
+SEUREAENRT   GITAR UK           N50094818E030575066                                                                                 
+SEUREAENRT   GOBLI UK           N48051605E030393591                                                                                 
+SEUREAENRT   GONED UK           N47535947E038595429                                                                                 
+SEUREAENRT   GONUS UK           N46402907E032302413                                                                                 
+SEUREAENRT   GOROS UK           N49272308E029452371                                                                                 
+SEUREAENRT   GOTIX UK           N50011800E0231242100                                                                                
+SEUREAENRT   GOTRA UK           N48544682E025354765                                                                                 
+SEUREAENRT   IDSAR UK           N45232881E028480014                                                                                 
+SEUREAENRT   ILTUK UK           N49071083E025295962                                                                                 
+SEUREAENRT   INPOL UK           N50321621E031012261                                                                                 
+SEUREAENRT   INROG UK           N48245210E026484600                                                                                 
+SEUREAENRT   IRBOL UK           N51310335E032302453                                                                                 
+SEUREAENRT   ITSUL UK           N48315845E037490316                                                                                 
+SEUREAENRT   KEDUB UK           N50240517E030265961                                                                                 
+SEUREAENRT   KEKEB UK           N47420741E038085527                                                                                 
+SEUREAENRT   KEMUN UK           N49080470E023142956                                                                                 
+SEUREAENRT   KERTA UK           N46581126E036001225                                                                                 
+SEUREAENRT   KESAM UK           N47455914E032495403                                                                                 
+SEUREAENRT   KIBER UK           N51430000E0303759100                                                                                
+SEUREAENRT   KOKUM UK           N49490616E030551270                                                                                 
+SEUREAENRT   KOKUP UK           N49314074E023391152                                                                                 
+SEUREAENRT   KONIP UK           N49444118E031262973                                                                                 
+SEUREAENRT   KORAD UK           N51263529E031355351                                                                                 
+SEUREAENRT   KOREG UK           N47045911E032562410                                                                                 
+SEUREAENRT   KOROP UK           N49085896E027503568                                                                                 
+SEUREAENRT   KOSIR UK           N48133535E036193612                                                                                 
+SEUREAENRT   KOSNA UK           N48265311E031255389                                                                                 
+SEUREAENRT   KOVEL UK           N50255880E0302605100                                                                                
+SEUREAENRT   KRINA UK           N48215927E034275402                                                                                 
+SEUREAENRT   KUBIR UK           N47215932E036385423                                                                                 
+SEUREAENRT   KUBUL UK           N49065137E035394199                                                                                 
+SEUREAENRT   KUROR UK           N48112918E032575398                                                                                 
+SEUREAENRT   KUROS UK           N50445326E031474161                                                                                 
+SEUREAENRT   KUSAK UK           N49204078E024295956                                                                                 
+SEUREAENRT   LABOD UK           N49175110E030192075                                                                                 
+SEUREAENRT   LADIK UK           N49205936E035054193                                                                                 
+SEUREAENRT   LAGUP UK           N49403882E024472653                                                                                 
+SEUREAENRT   LAMEX UK           N48095302E030051188                                                                                 
+SEUREAENRT   LAMIS UK           N48085839E037032516                                                                                 
+SEUREAENRT   LASOT UK           N48380410E0221444100                                                                                
+SEUREAENRT   LAVDA UK           N48073000E028435000                                                                                 
+SEUREAENRT   LIDNO UK           N48433605E029564280                                                                                 
+SEUREAENRT   LILGA UK           N50110210E030352700                                                                                 
+SEUREAENRT   LIPSO UK           N48535947E037525412                                                                                 
+SEUREAENRT   LOKSO UK           N50204235E033571376                                                                                 
+SEUREAENRT   LONLA UK           N48202349E022191072                                                                                 
+SEUREAENRT   LUGAT UK           N48250552E039222425                                                                                 
+SEUREAENRT   LUGOL UK           N49122000E022441700                                                                                 
+SEUREAENRT   LURIK UK           N48153481E025584774                                                                                 
+SEUREAENRT   LUSIG UK           N49081149E037570609                                                                                 
+SEUREAENRT   LUTIK UK           N50421118E030233556                                                                                 
+SEUREAENRT   MAKAK UK           N48014038E037031118                                                                                 
+SEUREAENRT   MAKUG UK           N50403780E030341080                                                                                 
+SEUREAENRT   MALBE UK           N48492600E022223000                                                                                 
+SEUREAENRT   MAPED UK           N50332319E030445960                                                                                 
+SEUREAENRT   MAPUR UK           N49170984E025345360                                                                                 
+SEUREAENRT   MIMKO UK           N49022613E031122781                                                                                 
+SEUREAENRT   MIPLO UK           N45354684E029170614                                                                                 
+SEUREAENRT   MOGRI UK           N50494140E034125370                                                                                 
+SEUREAENRT   MOKAD UK           N46463501E031205408                                                                                 
+SEUREAENRT   NALAD UK           N49231689E026265961                                                                                 
+SEUREAENRT   NALAN UK           N48191440E035263000                                                                                 
+SEUREAENRT   NANIR UK           N50495918E030153554                                                                                 
+SEUREAENRT   NEBAB UK           N46184617E034563927                                                                                 
+SEUREAENRT   NEDIL UK           N50152400E030251920                                                                                 
+SEUREAENRT   NESLO UK           N48523645E037222310                                                                                 
+SEUREAENRT   NIKAD UK           N48594538E035551301                                                                                 
+SEUREAENRT   NIKIG UK           N49245920E031594179                                                                                 
+SEUREAENRT   NOGRO UK           N48225917E032385394                                                                                 
+SEUREAENRT   NOLDU UK           N48035199E029410987                                                                                 
+SEUREAENRT   OBAVA UK           N48191200E034470960                                                                                 
+SEUREAENRT   OBENO UK           N48362864E022382862                                                                                 
+SEUREAENRT   OBULI UK           N48235441E037151914                                                                                 
+SEUREAENRT   OKSAR UK           N50045838E034375582                                                                                 
+SEUREAENRT   PALTA UK           N49341133E034233587                                                                                 
+SEUREAENRT   PEKIT UK           N49184727E033365387                                                                                 
+SEUREAENRT   PEMES UK           N47370938E037362025                                                                                 
+SEUREAENRT   PEMIR UK           N49165484E025331160                                                                                 
+SEUREAENRT   PENAK UK           N48524740E036311806                                                                                 
+SEUREAENRT   PEREG UK           N48465874E024135363                                                                                 
+SEUREAENRT   PEROV UK           N50113617E030430165                                                                                 
+SEUREAENRT   PESON UK           N47032906E031551207                                                                                 
+SEUREAENRT   PETRA UK           N48175949E038525424                                                                                 
+SEUREAENRT   PEVAS UK           N48032880E035133240                                                                                 
+SEUREAENRT   PEVUK UK           N49214092E026555963                                                                                 
+SEUREAENRT   PIKAM UK           N50300780E0302335100                                                                                
+SEUREAENRT   PISOK UK           N50404714E029395354                                                                                 
+SEUREAENRT   PODOL UK           N47483533E036165417                                                                                 
+SEUREAENRT   POGER UK           N49325905E029105367                                                                                 
+SEUREAENRT   RABEN UK           N48050506E030534791                                                                                 
+SEUREAENRT   RALOS UK           N49085937E035355398                                                                                 
+SEUREAENRT   RANOM UK           N50185902E027485353                                                                                 
+SEUREAENRT   RANUL UK           N48241080E034470720                                                                                 
+SEUREAENRT   RAPUL UK           N46363904E032001012                                                                                 
+SEUREAENRT   RASPU UK           N47144727E035471821                                                                                 
+SEUREAENRT   RATNO UK           N46102292E030114111                                                                                 
+SEUREAENRT   REPLI UK           N48070517E032531199                                                                                 
+SEUREAENRT   RETRO UK           N47004600E0293639100                                                                                
+SEUREAENRT   RIMIN UK           N50281721E031124263                                                                                 
+SEUREAENRT   RIMOS UK           N48452883E025584168                                                                                 
+SEUREAENRT   RITED UK           N46435909E032525914                                                                                 
+SEUREAENRT   ROLIP UK           N47271023E034465014                                                                                 
+SEUREAENRT   RUBES UK           N47515928E035185412                                                                                 
+SEUREAENRT   RUBOS UK           N49113811E030405877                                                                                 
+SEUREAENRT   SIPMA UK           N48171500E034492160                                                                                 
+SEUREAENRT   SIRSI UK           N48272465E022493164                                                                                 
+SEUREAENRT   SISPI UK           N48122246E038240122                                                                                 
+SEUREAENRT   SITBA UK           N49232597E027504265                                                                                 
+SEUREAENRT   SIVKU UK           N50253510E0303647100                                                                                
+SEUREAENRT   SODRA UK           N49062943E036495404                                                                                 
+SEUREAENRT   SOLNU UK           N49174683E025234759                                                                                 
+SEUREAENRT   SOMON UK           N47221128E035592420                                                                                 
+SEUREAENRT   SORIK UK           N51273513E028443540                                                                                 
+SEUREAENRT   SORNA UK           N51084725E031131153                                                                                 
+SEUREAENRT   SORON UK           N49454099E027505360                                                                                 
+SEUREAENRT   SUDON UK           N46372104E032015812                                                                                 
+SEUREAENRT   SULUM UK           N49332713E030412673                                                                                 
+SEUREAENRT   SUMKA UK           N50511143E034452973                                                                                 
+SEUREAENRT   SURAP UK           N46324010E0295359100                                                                                
+SEUREAENRT   TABOP UK           N48250520E033134796                                                                                 
+SEUREAENRT   TADID UK           N47353919E033551709                                                                                 
+SEUREAENRT   TAGAN UK           N48385938E036262408                                                                                 
+SEUREAENRT   TAKET UK           N48581095E027502370                                                                                 
+SEUREAENRT   TAKON UK           N48321067E023111164                                                                                 
+SEUREAENRT   TALOB UK           N50302037E034022274                                                                                 
+SEUREAENRT   TARAS UK           N47310531E036150020                                                                                 
+SEUREAENRT   TAVRU UK           N45582884E028514809                                                                                 
+SEUREAENRT   TEPNA UK           N49301610E0223921100                                                                                
+SEUREAENRT   TERNO UK           N49312886E025415357                                                                                 
+SEUREAENRT   TERPI UK           N48075920E033325401                                                                                 
+SEUREAENRT   TETNA UK           N49495891E026245355                                                                                 
+SEUREAENRT   TOKSA UK           N47415316E033153605                                                                                 
+SEUREAENRT   TOVNI UK           N49321380E024400254                                                                                 
+SEUREAENRT   TUMUK UK           N48405880E025295367                                                                                 
+SEUREAENRT   TUNIG UK           N48121920E0353205100                                                                                
+SEUREAENRT   TURSA UK           N46385410E029563800                                                                                 
+SEUREAENRT   UNDOL UK           N48270710E027431800                                                                                 
+SEUREAENRT   USTIL UK           N50495883E024055335                                                                                 
+SEUREAENRT   VABOD UK           N50452887E024473538                                                                                 
+SEUREAENRT   VADUS UK           N48172940E035210660                                                                                 
+SEURDB       LC    UK000534     N50390117E030091456                                                                                 
+SEURDB       O     UK000286     N50345116E030122357                                                                                 
+SEURDB       GO    UK000590     N50332816E030132358                                                                                 
+SEURDB       C     UK000257     N50373216E030102257                                                                                 
+SEURDB       AU    UK001083     N48345928E0342841100                                                                                
+SEURDB       BB    UK000432     N49383479E024164752                                                                                 
+SEURDB       BO    UK001290     N50374120E030532359                                                                                 
+SEURDB       BI    UK000310     N50235019E030543262                                                                                 
+SEURDB       KE    UK000825     N50165818E030523464                                                                                 
+SEURDB       KB    UK000825     N50231020E030530276                                                                                 
+SEURDB       O     UK000640     N50185622E030541170                                                                                 
+SEURDB       O     UK000640     N50185619E030541063                                                                                 
+SEURDB       NO    UK000310     N50171419E030540264                                                                                 
+SEURDB       I     UK000640     N50220720E030542574                                                                                 
+SEURDB       I     UK000640     N50220719E030542463                                                                                 
+SEURDB       E     UK000405     N50184218E030524264                                                                                 
+SEURDB       B     UK000405     N50214518E030525670                                                                                 
+SEURDB       K     UK000705     N49255920E031584779                                                                                 
+SEURDB       CK    UK000345     N49272319E031573579                                                                                 
+SEURDB       CC    UK000345     N49222320E032015980                                                                                 
+SEURDB       C     UK000705     N49235320E032003580                                                                                 
+SEURDB       CH    UK000525     N50272307E028412954                                                                                 
+SEURDB       CN    UK000805     N48175281E025565373                                                                                 
+SEURDB       CR    UK000805     N48124681E026005374                                                                                 
+SEURDB       N     UK000509     N48163481E025575974                                                                                 
+SEURDB       R     UK000509     N48142881E026005374                                                                                 
+SEURDB       CY    UK000960     N50040520E031232369                                                                                 
+SEURDB       DP    UK000335     N48212529E035012805                                                                                 
+SEURDB       DR    UK000335     N48212530E035102306                                                                                 
+SEURDB       R     UK000687     N48212530E035075405                                                                                 
+SEURDB       P     UK000687     N48212530E035040305                                                                                 
+SEURDB       DK    UK001195     N47473539E037374823                                                                                 
+SEURDB       DO    UK000390     N48043250E037482800                                                                                 
+SEURDB       DN    UK000390     N48042810E037384400                                                                                 
+SEURDB       O     UK000795     N48043200E037455900                                                                                 
+SEURDB       O     UK000795     N48042442E037461821                                                                                 
+SEURDB       N     UK000795     N48042441E037422420                                                                                 
+SEURDB       N     UK000795     N48042810E037410700                                                                                 
+SEURDB       GE    UK000910     N49493521E031510573                                                                                 
+SEURDB       V     UK000598     N48531677E024391763                                                                                 
+SEURDB       IV    UK000290     N48534077E024364762                                                                                 
+SEURDB       IF    UK000290     N48521677E024453563                                                                                 
+SEURDB       F     UK000598     N48524677E024425363                                                                                 
+SEURDB       KH    UK000485     N46482912E033294216                                                                                 
+SEURDB       KP    UK000732     N48413486E026361770                                                                                 
+SEURDB       R     UK000678     N49552845E036154692                                                                                 
+SEURDB       HR    UK000330     N49552845E036131791                                                                                 
+SEURDB       HA    UK000330     N49552846E036213392                                                                                 
+SEURDB       A     UK000678     N49552745E036191092                                                                                 
+SEURDB       KO    UK000490     N50564723E030583555                                                                                 
+SEURDB       KW    UK000735     N49545941E035323588                                                                                 
+SEURDB       KR    UK000600     N50362312E029164154                                                                                 
+SEURDB       GR    UK000778     N49231738E035264794                                                                                 
+SEURDB       LS    UK001155     N48105348E038561825                                                                                 
+SEURDB       O     UK000697     N48012418E033122001                                                                                 
+SEURDB       RG    UK000340     N48052318E033125300                                                                                 
+SEURDB       RO    UK000340     N47593218E033120401                                                                                 
+SEURDB       G     UK000697     N48034718E033124001                                                                                 
+SEURDB       LG    UK001255     N48243252E039264725                                                                                 
+SEURDB       U     UK000617     N48251952E039203025                                                                                 
+SEURDB       LU    UK001255     N48252951E039175924                                                                                 
+SEURDB       G     UK000617     N48245052E039242425                                                                                 
+SEURDB       LV    UK000315     N49464578E024001250                                                                                 
+SEURDB       LO    UK000315     N49505477E023535948                                                                                 
+SEURDB       V     UK000650     N49475078E023583649                                                                                 
+SEURDB       LI    UK000430     N49220542E036122398                                                                                 
+SEURDB       MO    UK000406     N48264092E027501177                                                                                 
+SEURDB       NI    UK001030     N47014405E031520407                                                                                 
+SEURDB       NK    UK001030     N47051406E031581707                                                                                 
+SEURDB       K     UK000509     N47041406E031563007                                                                                 
+SEURDB       I     UK000509     N47024106E031534707                                                                                 
+SEURDB       NM    UK001060     N48575900E028505374                                                                                 
+SEURDB       OD    UK000348     N46282496E030392209                                                                                 
+SEURDB       PA    UK000905     N46414104E031541211                                                                                 
+SEURDB       PW    UK000815     N47445337E037132422                                                                                 
+SEURDB       PI    UK000425     N49522317E031072370                                                                                 
+SEURDB       RS    UK000672     N50124734E033525977                                                                                 
+SEURDB       W     UK000678     N50370294E026064443                                                                                 
+SEURDB       RW    UK000330     N50374094E026045343                                                                                 
+SEURDB       RD    UK000330     N50365894E026075344                                                                                 
+SEURDB       SM    UK000435     N52113539E032324144                                                                                 
+SEURDB       SR    UK000690     N48315863E022305362                                                                                 
+SEURDB       SW    UK000830     N50105297E027022952                                                                                 
+SEURDB       SH    UK000389     N47241099E030164197                                                                                 
+SEURDB       SL    UK000718     N50111111E029334161                                                                                 
+SEURDB       SV    UK000617     N49241715E031042976                                                                                 
+SEURDB       TM    UK000518     N47490525E034440610                                                                                 
+SEURDB       TP    UK000643     N48562332E034473597                                                                                 
+SEURDB       TR    UK000745     N50065917E030455366                                                                                 
+SEURDB       VI    UK000334     N48562868E023023558                                                                                 
+SEURDB       WM    UK000421     N51265898E026075332                                                                                 
+SEURDB       JA    UK000385     N50155323E031473567                                                                                 
+SEURDB       ZA    UK000295     N47491628E035171212                                                                                 
+SEURDB       ZP    UK000295     N47543528E035202811                                                                                 
+SEURDB       P     UK000608     N47530828E035193512                                                                                 
+SEURDB       A     UK000608     N47504928E035181012                                                                                 
+SEURDB       I     UK000733     N50240117E030250861                                                                                 
+SEURDB       V     UK000733     N50241017E030282961                                                                                 
+SEURDB       KV    UK000360     N50241517E030304161                                                                                 
+SEURDB       KI    UK000360     N50235616E030231460                                                                                 
+SEURDB       ZL    UK000265     N49481083E024540552                                                                                 
+SEURD        BRP   UK011590V    N50170819E030535764                                                                                 
+SEURD        DNP   UK011250V    N48213430E035060905                                                                                 
+SEURD        DON   UK011500V    N48041842E037440921                                                                                 
+SEURD        IVF   UK011420V    N48530477E024412363                                                                                 
+SEURD        KHR   UK011650V    N49553645E036170691                                                                                 
+SEURD        LIV   UK011550V    N49484177E023570349                                                                                 
+SEURD        BRP   UK011590 D   N50170819E030535763                                                                                 
+SEURD        DNP   UK011250 D   N48213430E035060905                                                                                 
+SEURD        DON   UK011500 D   N48041842E037440921                                                                                 
+SEURD        IVF   UK011420 D   N48530477E024412363                                                                                 
+SEURD        KHR   UK011650 D   N49553645E036170691                                                                                 
+SEURD        LIV   UK011550 D   N49484177E023570349                                                                                 
+SEURD        DON   UK011500 D   N48042810E037405800                                                                                 
+SEURD        KVR   UK011600 D   N48030318E033124201                                                                                 
+SEURD        MRP   UK011620 D   N47043034E037270630                                                                                 
+SEURD        VIN   UK011480 D   N49142300E028371370                                                                                 
+SEURER       A87         0010DNP  UKD       O                                      09000     27000                                  
+SEURER       A87         0020BULIGUKEA      O                             0504     09000     27000                                  
+SEURER       A87         0030PW   UKD       O                             0427     06100     27000                                  
+SEURER       A87         0040GONEDUKEA      O                             0721     11000     27000                                  
+SEURER       A87         0050DORERUKEA      O                                      09000     27000                                  
+SEURER       A87         0060CH   UKD       O                             0568     09000     27000                                  
+SEURER       A87         0070SL   UKD       O                             0371     07100     27000                                  
+SEURER       A87         0080DEMERUKEA      O                             0883     07100     27000                                  
+SEURER       A87         0090NIKIGUKEA      O                             0167     11000     27000                                  
+SEURER       A87         0100DEKADUKEA      O                             0606     11000     27000                                  
+SEURER       A87         0110USTILUKEA      O                                      09000     27000                                  
+SEURER       A87         0120VABODUKEA      O                             0268     09000     27000                                  
+SEURER       B493        0010KOROPUKEA      O                                      09000     27000                                  
+SEURER       B493        0020NM   UKD       O                             0410     09000     27000                                  
+SEURER       B493        0030KOSNAUKEA      O                             1070     17000     27000                                  
+SEURER       B493        0040REPLIUKEA      O                             0614     17000     27000                                  
+SEURER       B493        0050KVR  UKD       O                             0136     17000     27000                                  
+SEURER       B493        0060LIV  UKD       O                                      06100     27000                                  
+SEURER       B493        0070LAGUPUKEA      O                             0336     06100     27000                                  
+SEURER       B493        0080TERNOUKEA      O                             0365     09000     27000                                  
+SEURER       B493        0090PEVUKUKEA      O                             0492     09000     27000                                  
+SEURER       B493        0100RUBESUKEA      O                                      17000     27000                                  
+SEURER       B493        0110PODOLUKEA      O                             0391     17000     27000                                  
+SEURER       B493        0120PW   UKD       O                             0382     17000     27000                                  
+SEURER       B493        0130FASADUUEA      O                             0455     17000     27000                                  
+SEURER       L621        0050IVF  UKD       O                                      26000     27000                                  
+SEURER       L621        0060BUKOVLREA      O                             0754     26000     27000                                  
+SEURER       L621        0140KOKUPUKEA      O                                      13000     27000                                  
+SEURER       L621        0150DIBEDUKEA      O                             0317     13000     27000                                  
+SEURER       L621        0160MOSIREPEA      O                             0220     12500     28500                                  
+SEURER       M861        0060UNDOLUKEA      O                             1032     05500     19500                                  
+SEURER       N743        0040SORIKUKEA      O                             0087     10000     19000                                  
+SEURER       N743        0090ELMUSUKEA      O                             0236     15000     27000                                  
+SEURER       N743        0100TAVRUUKEA      O                             0155     15000     27000                                  
+SEURER       N743        0110VETEKLUEA      O                             0323     05500     19500                                  
+SEURER       N743        0140LAVDAUKEA      O                             0566     05500     19500                                  
+SEURER       L32         0100KIBERUKEA      O                                      16000     27000                                  
+SEURER       L32         0110TALOBUKEA      O                             1475     16000     27000                                  
+SEURER       L32         0120KW   UKD       O                             0677     11000     27000                                  
+SEURER       L32         0130LI   UKD       O                                      18000     27000                                  
+SEURER       L32         0140SODRAUKEA      O                             0291     18000     27000                                  
+SEURER       L32         0150NESLOUKEA      O                             0255     18000     27000                                  
+SEURER       L32         0160LS   UKD       O                             0749     18000     27000                                  
+SEURER       L981        0070DIBEDUKEA      O                             1169     19500     28500                                  
+SEURER       P29         0080DNP  UKD       O                                      13000     27000                                  
+SEURER       P29         0090GR   UKD       O                             0632     13000     27000                                  
+SEURER       P29         0100KW   UKD       O                             0319     08000     27000                                  
+SEURER       P29         0110FORMAUKEA      O                             0270     08000     27000                                  
+SEURER       P29         0130ROLIPUKEA      O                             1081     10000     27000                                  
+SEURER       P29         0140TM   UKD       O                             0220     07100     27000                                  
+SEURER       A279        0010TP   UKD       O                                      07100     27000                                  
+SEURER       A279        0020GR   UKD       O                             0372     07100     27000                                  
+SEURER       A279        0030KHR  UKD       O                             0459     07100     27000                                  
+SEURER       A279        0040KUBOKUUEA      O                             0313     07100     27000                                  
+SEURER       B248        0010DIDURUKEA      O                                      09000     27000                                  
+SEURER       B248        0020BAGSAUKEA      O                             0449     09000     27000                                  
+SEURER       B248        0030RIMOSUKEA      O                             0302     09000     27000                                  
+SEURER       B248        0040LURIKUKEA      O                             0299     09000     27000                                  
+SEURER       B248        0050BUKOVLREA      O                             0185     09000     27000                                  
+SEURER       B248        0070GENKUUKEA      O                             0266     09000     27000                                  
+SEURER       B144        0010ILTUKUKEA      O                                      09000     27000                                  
+SEURER       B144        0020BAGSAUKEA      O                             0214     09000     27000                                  
+SEURER       B144        0030SORONUKEA      O                             0781     09000     27000                                  
+SEURER       B144        0040BUDUKUKEA      O                             0462     09000     27000                                  
+SEURER       B144        0050SL   UKD       O                             0247     09000     27000                                  
+SEURER       B144        0060KEDUBUKEA      O                                      06100     27000                                  
+SEURER       B144        0070KUROSUKEA      O                             0553     06100     27000                                  
+SEURER       B144        0080LONLAUKEA      O                                      09000     27000                                  
+SEURER       B144        0090TAKONUKEA      O                             0365     09000     27000                                  
+SEURER       B144        0100PEREGUKEA      O                             0440     09000     27000                                  
+SEURER       N978        0120BOGMAUKEA      O                                      16000     27000                                  
+SEURER       N978        0130SUVURLUEA      O                             0970     16000     27000                                  
+SEURER       M977        0040DIBEDUKEA      O                             0585     19500     28500                                  
+SEURER       M977        0050RUMUKLREA      O                             1123     04500     24500                                  
+SEURER       N604        0070KH   UKD       O                             0477     07100     27000                                  
+SEURER       N604        0080DIDKIUKEA      O                             0536     07100     27000                                  
+SEURER       N604        0090TM   UKD       O                             0259     07100     27000                                  
+SEURER       N604        0120DNP  UKD       O                                      13000     27000                                  
+SEURER       N604        0130NIKADUKEA      O                             0501     13000     27000                                  
+SEURER       N604        0150LI   UKD       O                             0789     19000     27000                                  
+SEURER       L623        0040SR   UKD       O                             0449     09000     27000                                  
+SEURER       L623        0050LASOTUKEA      O                             0123     09000     27000                                  
+SEURER       L984        0200DIBEDUKEA      O                                      09500     28500                                  
+SEURER       L984        0210GIMBUEPEA      O                             0164     09500     28500                                  
+SEURER       M986        0050LONLAUKEA      O                                      05000     24500                                  
+SEURER       M986        0060ROMKALHEA      O                             0204     05000     24500                                  
+SEURER       G107        0030SUDONUKEA      O                             0208     09000     27000                                  
+SEURER       G107        0040GONUSUKEA      O                             0198     09000     27000                                  
+SEURER       G107        0050RITEDUKEA      O                             0159     09000     27000                                  
+SEURER       G107        0060KH   UKD       O                             0256     11000     27000                                  
+SEURER       G107        0070BUPOSUKEA      O                             0563     11000     27000                                  
+SEURER       G107        0080KERTAUKEA      O                             0470     11000     27000                                  
+SEURER       G107        0090FASADUUEA      O                             1004     09000     27000                                  
+SEURER       G107        0110MIPLOUKEA      O                             0557     09000     27000                                  
+SEURER       A277        0050KH   UKD       O                                      07100     27000                                  
+SEURER       A277        0060BETEG  EA      O                             1550     14000     27000                                  
+SEURER       L980        0320USTILUKEA      O                             0967     24500     28500                                  
+SEURER       T709        0030DIBEDUKEA      RL                                     09500     28500                                  
+SEURER       T709        0040LALKIEPEA      RL                            0160     09500     28500                                  
+SEURER       W537        0010KUSAKUKEA      O                                      09000     21000                                  
+SEURER       W537        0020BB   UKD       O                             0199     09000     21000                                  
+SEURER       W537        0030LIV  UKD       O                             0163     09000     21000                                  
+SEURER       W537        0040LURIKUKEA      O                                      09000     21000                                  
+SEURER       W537        0050TUMUKUKEA      O                             0318     09000     21000                                  
+SEURER       G23         0210ERKADUKEA      O                                      11000     27000                                  
+SEURER       G23         0220KVR  UKD       O                             0167     11000     27000                                  
+SEURER       G23         0230KESAMUKEA      O                             0229     09000     27000                                  
+SEURER       G23         0240PESONUKEA      O                             0564     09000     27000                                  
+SEURER       G23         0250MOKADUKEA      O                             0289     09000     27000                                  
+SEURER       G23         0260ODS    D       O                             0349     09000     27000                                  
+SEURER       W628        0010TP   UKD       O                                      07100     27000                                  
+SEURER       W628        0020BEBROUKEA      O                             0272     07100     27000                                  
+SEURER       W628        0030PALTAUKEA      O                             0138     07100     27000                                  
+SEURER       W628        0040RS   UKD       O                             0434     07100     27000                                  
+SEURER       W567        0040NEBABUKEA      O                             0193     09000     27000                                  
+SEURER       W567        0050BUPOSUKEA      O                             0356     09000     27000                                  
+SEURER       W567        0060ROLIPUKEA      O                             0331     09000     27000                                  
+SEURER       N623        0090TALOBUKEA      O                             1479     16000     27000                                  
+SEURER       B246        0010KONIPUKEA      O                                      07100     27000                                  
+SEURER       B246        0020CY   UKD       O                             0195     07100     27000                                  
+SEURER       B246        0030BO   UKD       O                             0387     07100     27000                                  
+SEURER       B246        0040LASDAUMEA      O                             0562     07100     27000                                  
+SEURER       B246        0090SUDONUKEA      O                             0469     07100     27000                                  
+SEURER       B246        0100PA   UKD       O                             0069     07100     27000                                  
+SEURER       B246        0110PESONUKEA      O                             0218     07100     27000                                  
+SEURER       B246        0120BEKAPUKEA      O                             0342     07100     27000                                  
+SEURER       B246        0130BOGMAUKEA      O                             0212     07100     27000                                  
+SEURER       B246        0140KOSNAUKEA      O                             0303     07100     27000                                  
+SEURER       B246        0150MIMKOUKEA      O                             0367     07100     27000                                  
+SEURER       G476        0010ITSULUKEA      O                                      07100     27000                                  
+SEURER       G476        0020DON  UKD       O                             0279     07100     27000                                  
+SEURER       G476        0030PEMESUKEA      O                             0277     06100     27000                                  
+SEURER       G476        0040MRP  UKD       O                             0333     06100     27000                                  
+SEURER       G476        0050OLGIN  EA      O                             0251     06100     27000                                  
+SEURER       G476        0090LIPSOUKEA      O                                      19000     27000                                  
+SEURER       G476        0100LUSIGUKEA      O                             0145     19000     27000                                  
+SEURER       G476        0110MASOLUUEA      O                             0573     17700     20700                                  
+SEURER       W583        0020IDSARUKEA      O                             0214     09000     27000                                  
+SEURER       W531        0040ELBAMUKEA      O                             0206     10000     21000                                  
+SEURER       W531        0050PW   UKD       O                             0526     10000     21000                                  
+SEURER       B491        0090TURSAUKEA      O                             0327     07100     27000                                  
+SEURER       R5          0050PA   UKD       O                                      09000     27000                                  
+SEURER       R5          0060KOSAK  EA      O                             0274     09000     27000                                  
+SEURER       B481        0020PW   UKD       O                             0659     06100     27000                                  
+SEURER       B481        0030PENAKUKEA      O                             0735     11000     27000                                  
+SEURER       G38         0110LAVDAUKEA      O                                      09000     10000                                  
+SEURER       G38         0120NM   UKD       O                             0507     09000     10000                                  
+SEURER       G38         0130VIN  UKD       O                             0187     09000     10000                                  
+SEURER       G38         0140POGERUKEA      O                             0288     09000     10000                                  
+SEURER       G38         0150SL   UKD       O                             0410     09000     10000                                  
+SEURER       W642        0010BO   UKD       O                                      04000     27000                                  
+SEURER       W642        0020KEDUBUKEA      O                             0216     04000     27000                                  
+SEURER       M856        0100GOBLIUKEA      O                                      07100     27000                                  
+SEURER       M856        0110RUBOSUKEA      O                             0664     07100     27000                                  
+SEURER       M856        0120SULUMUKEA      O                             0218     07100     27000                                  
+SEURER       M856        0130TR   UKD       O                             0337     04000     27000                                  
+SEURER       M856        0140BO   UKD       O                             0311     06100     27000                                  
+SEURER       M856        0150KO   UKD       O                             0194     06100     27000                                  
+SEURER       M856        0160LOVIKUMEA      O                             0683     10000     19000                                  
+SEURER       W619        0010BOGMAUKEA      O                                      07100     27000                                  
+SEURER       W619        0020GONUSUKEA      O                             0853     07100     27000                                  
+SEURER       W619        0030NITOK  EA      O                             0369     07100     27000                                  
+SEURER       A260        0010VABODUKEA      O                                      09000     27000                                  
+SEURER       A260        0020BOLRUUKEA      O                             0503     06100     27000                                  
+SEURER       A260        0030LIV  UKD       O                             0150     06100     27000                                  
+SEURER       A260        0040KOKUPUKEA      O                             0206     09000     27000                                  
+SEURER       A260        0050KEMUNUKEA      O                             0286     09000     27000                                  
+SEURER       A260        0060VI   UKD       O                             0140     09000     27000                                  
+SEURER       R225        0020NANIRUKEA      O                             0457     06100     27000                                  
+SEURER       R225        0030LUTIKUKEA      O                             0093     05000     27000                                  
+SEURER       R225        0040KEDUBUKEA      O                             0182     05000     27000                                  
+SEURER       R225        0050TR   UKD       O                             0210     04000     27000                                  
+SEURER       R225        0060PI   UKD       O                             0201     06100     27000                                  
+SEURER       R225        0070DEMERUKEA      O                             0276     06100     27000                                  
+SEURER       A137        0010KEDUBUKEA      O                                      04000     27000                                  
+SEURER       A137        0020BRP  UKD       O                             0186     06100     27000                                  
+SEURER       A137        0030JA   UKD       O                             0343     06100     27000                                  
+SEURER       A137        0040RS   UKD       O                             0803     17000     27000                                  
+SEURER       A137        0050OKSARUKEA      O                             0299     07100     27000                                  
+SEURER       A137        0060KW   UKD       O                             0366     06100     27000                                  
+SEURER       A137        0070KHR  UKD       O                             0287     19000     27000                                  
+SEURER       A137        0080GOBUNUUEA      O                             0568     19000     27000                                  
+SEURER       M853        0090NEBABUKEA      O                             0414     13000     27000                                  
+SEURER       M853        0100NIKADUKEA      O                                      15000     27000                                  
+SEURER       M853        0110RUBESUKEA      O                             0720     15000     27000                                  
+SEURER       R22         0030VI   UKD       O                                      09000     27000                                  
+SEURER       R22         0040TOVNIUKEA      O                             0730     09000     27000                                  
+SEURER       R22         0050DIDURUKEA      O                             0601     09000     27000                                  
+SEURER       R22         0060SW   UKD       O                             0401     09000     27000                                  
+SEURER       R22         0070RANOMUKEA      O                             0308     09000     27000                                  
+SEURER       R22         0080CH   UKD       O                             0346     09000     27000                                  
+SEURER       R22         0090KR   UKD       O                             0241     09000     27000                                  
+SEURER       R22         0100PISOKUKEA      O                             0154     18000     27000                                  
+SEURER       R22         0110KO   UKD       O                             0523     18000     27000                                  
+SEURER       R22         0120SORNAUKEA      O                             0151     08000     27000                                  
+SEURER       R22         0130KORADUKEA      O                             0228     08000     27000                                  
+SEURER       R22         0140SM   UKD       O                             0571     08000     27000                                  
+SEURER       R22         0150PIMENUUEA      O                             0068     18700     39700                                  
+SEURER       A28         0020BULANUKEA      O                             0404     09000     27000                                  
+SEURER       A28         0030RABENUKEA      O                             0594     09000     27000                                  
+SEURER       A28         0040MIMKOUKEA      O                             0587     09000     27000                                  
+SEURER       A28         0070KONIPUKEA      O                                      18000     27000                                  
+SEURER       A28         0080KUROSUKEA      O                             0618     18000     27000                                  
+SEURER       W534        0010DON  UKD       O                                      07100     27000                                  
+SEURER       W534        0020MAKAKUKEA      O                             0275     07100     27000                                  
+SEURER       W534        0030BULIGUKEA      O                             0339     07100     27000                                  
+SEURER       W534        0040RUBESUKEA      O                             0367     07100     27000                                  
+SEURER       W534        0050TM   UKD       O                             0236     07100     27000                                  
+SEURER       W534        0060KVR  UKD       O                                      16000     27000                                  
+SEURER       W534        0070TERPIUKEA      O                             0144     16000     27000                                  
+SEURER       M860        0040INROGUKEA      O                             0811     05500     19500                                  
+SEURER       M860        0070MAPURUKEA      O                                      20000     27000                                  
+SEURER       M860        0080ROLKAEPEA      O                             0956     20000     27000                                  
+SEURER       P133        0010TURSAUKEA      O                                      05500     19500                                  
+SEURER       P133        0020CHN  LUD       O                             0461     05500     19500                                  
+SEURER       A83         0010KEDUBUKEA      O                                      04000     27000                                  
+SEURER       A83         0020CY   UKD       O                             0413     07100     27000                                  
+SEURER       A83         0030GE   UKD       O                             0230     07100     27000                                  
+SEURER       A83         0040PEKITUKEA      O                             0753     07100     27000                                  
+SEURER       A83         0050TP   UKD       O                             0514     08100     27000                                  
+SEURER       A83         0060LS   UKD       O                                      08100     27000                                  
+SEURER       A83         0070NALEMUUEA      O                             0375     18700     38100                                  
+SEURER       N180        0010KUROSUKEA      O                                      16000     27000                                  
+SEURER       N180        0020CY   UKD       O                             0437     16000     27000                                  
+SEURER       N180        0030PI   UKD       O                             0156     07100     27000                                  
+SEURER       N180        0040SULUMUKEA      O                             0253     07100     27000                                  
+SEURER       N180        0050GAMLAUKEA      O                             0202     07100     27000                                  
+SEURER       N180        0060LIDNOUKEA      O                             0376     07100     27000                                  
+SEURER       W536        0010DNP  UKD       O                                      06100     27000                                  
+SEURER       W536        0020DOKENUKEA      O                             0355     06100     27000                                  
+SEURER       W536        0030RALOSUKEA      O                             0242     06100     27000                                  
+SEURER       W536        0040LI   UKD       O                             0272     06100     27000                                  
+SEURER       A42         0010IVF  UKD       O                                      09000     27000                                  
+SEURER       A42         0020GOTRAUKEA      O                             0358     09000     27000                                  
+SEURER       A42         0030TAKETUKEA      O                             0885     09000     27000                                  
+SEURER       A42         0040NM   UKD       O                             0397     09000     27000                                  
+SEURER       A42         0050NOLDUUKEA      O                             0636     09000     27000                                  
+SEURER       A42         0060SH   UKD       O                             0464     09000     27000                                  
+SEURER       A42         0070ODS    D       O                             0606     09000     27000                                  
+SEURER       A42         0080PEREGUKEA      O                                      09000     27000                                  
+SEURER       A42         0090VI   UKD       O                             0479     09000     27000                                  
+SEURER       A42         0100MALBEUKEA      O                             0273     05900     24500                                  
+SEURER       A42         0110EBENILZEA      O                             0315     05900     24500                                  
+SEURER       W546        0010DEKADUKEA      O                                      16000     21000                                  
+SEURER       W546        0020KRINAUKEA      O                             0559     16000     21000                                  
+SEURER       W546        0030RUBESUKEA      O                             0454     16000     21000                                  
+SEURER       W546        0040TARASUKEA      O                             0432     06100     21000                                  
+SEURER       W546        0050KUBIRUKEA      O                             0186     07100     21000                                  
+SEURER       W546        0060MRP  UKD       O                             0371     07100     21000                                  
+SEURER       W633        0010DON  UKD       O                                      06100     27000                                  
+SEURER       W633        0020DELOLUKEA      O                             0278     06100     27000                                  
+SEURER       W633        0030LS   UKD       O                             0208     06100     26000                                  
+SEURER       W633        0040LUGATUKEA      O                             0224     06100     26000                                  
+SEURER       M996        0160KHR  UKD       O                                      11000     27000                                  
+SEURER       M996        0170ETUKIUKEA      O                             0316     11000     27000                                  
+SEURER       M996        0180MOGRIUKEA      O                             0644     11000     27000                                  
+SEURER       M996        0190LOVIKUMEA      O                             1414     17000     27000                                  
+SEURER       M996        0210LUGATUKEA      O                             0264     07100     27000                                  
+SEURER       A481        0010DIBEDUKEA      O                                      17000     27000                                  
+SEURER       A481        0020KUSAKUKEA      O                             0649     17000     27000                                  
+SEURER       A481        0030GOTRAUKEA      O                             0503     17000     27000                                  
+SEURER       A481        0040RIMOSUKEA      O                             0177     09000     27000                                  
+SEURER       A481        0120RETROUKEA      O                             0559     09000     27000                                  
+SEURER       N983        0010DIBEDUKEA      O                                      19500     28500                                  
+SEURER       N983        0020LDZ  EPD       O                             1726     19500     28500                                  
+SEURER       B490-       0010DIBEDUKEA      O                                      09000     27000                                  
+SEURER       B490-       0020LIV  UKD       O                             0349     09000     27000                                  
+SEURER       W571        0010DIDURUKEA      O                                      09000     21000                                  
+SEURER       W571        0020TERNOUKEA      O                             0319     09000     21000                                  
+SEURER       W571        0030MAPURUKEA      O                             0150     09000     27000                                  
+SEURER       W587        0010DIDURUKEA      O                                      07100     21000                                  
+SEURER       W587        0020TETNAUKEA      O                             0181     07100     21000                                  
+SEURER       W587        0030PEVUKUKEA      O                             0348     07100     21000                                  
+SEURER       B490        0010DIDURUKEA      O                                      09000     27000                                  
+SEURER       B490        0020ZL   UKD       O                             0455     09000     27000                                  
+SEURER       B490        0030LIV  UKD       O                             0368     09000     27000                                  
+SEURER       W691        0010DNP  UKD       O                                      07100     27000                                  
+SEURER       W691        0020KOSIRUKEA      O                             0495     07100     27000                                  
+SEURER       W691        0030LAMISUKEA      O                             0296     07100     27000                                  
+SEURER       W691        0040DON  UKD       O                             0276     07100     27000                                  
+SEURER       W654        0010DNP  UKD       O                                      07100     27000                                  
+SEURER       W654        0020KRINAUKEA      O                             0254     07100     27000                                  
+SEURER       W654        0030TABOPUKEA      O                             0493     09000     27000                                  
+SEURER       W654        0040NOGROUKEA      O                             0233     15000     27000                                  
+SEURER       W627        0010DNP  UKD       O                                      07100     27000                                  
+SEURER       W627        0020PEKITUKEA      O                             0821     07100     27000                                  
+SEURER       W635        0010TP   UKD       O                                      07100     21000                                  
+SEURER       W635        0020DNP  UKD       O                             0369     07100     21000                                  
+SEURER       W635        0030RUBESUKEA      O                             0308     07100     21000                                  
+SEURER       W635        0040SOMONUKEA      O                             0404     10000     27000                                  
+SEURER       W635        0050ELBAMUKEA      O                             0444     10000     27000                                  
+SEURER       W635        0060OLGIN  EA      O                             0282     10000     27000                                  
+SEURER       W673        0010DNP  UKD       O                                      07100     27000                                  
+SEURER       W673        0020TERPIUKEA      O                             0636     07100     27000                                  
+SEURER       N604-       0010DNP  UKD       O                                      07100     27000                                  
+SEURER       N604-       0020TM   UKD       O                             0357     07100     27000                                  
+SEURER       L4          0030KH   UKD       O                             0625     11000     27000                                  
+SEURER       L4          0040TADIDUKEA      O                             0503     11000     27000                                  
+SEURER       L4          0050KW   UKD       O                                      16000     27000                                  
+SEURER       L4          0060LADIKUKEA      O                             0382     16000     27000                                  
+SEURER       L4          0070TP   UKD       O                             0273     16000     27000                                  
+SEURER       W625        0010DOKENUKEA      O                                      07100     27000                                  
+SEURER       W625        0020GR   UKD       O                             0303     07100     27000                                  
+SEURER       W625        0030LI   UKD       O                             0297     07100     27000                                  
+SEURER       W638        0010DOKENUKEA      O                                      07100     21000                                  
+SEURER       W638        0020LADIKUKEA      O                             0240     07100     21000                                  
+SEURER       W644        0010DON  UKD       O                                      07100     27000                                  
+SEURER       W644        0020GELBOUKEA      O                             0274     07100     27000                                  
+SEURER       W538        0020KEKEBUKEA      O                             0110     09000     27000                                  
+SEURER       W538        0030DON  UKD       O                             0277     09000     27000                                  
+SEURER       W538        0040OBULIUKEA      O                             0275     07100     27000                                  
+SEURER       W538        0050PENAKUKEA      O                             0410     07100     27000                                  
+SEURER       W538        0060KW   UKD       O                                      11000     27000                                  
+SEURER       W538        0070MOGRIUKEA      O                             0747     11000     27000                                  
+SEURER       W533        0030LUGATUKEA      O                             0192     07100     27000                                  
+SEURER       W533        0040PETRAUKEA      O                             0209     07100     27000                                  
+SEURER       W533        0050SISPIUKEA      O                             0200     08000     27000                                  
+SEURER       W533        0060DON  UKD       O                             0278     08000     27000                                  
+SEURER       W533        0070PW   UKD       O                             0283     08000     27000                                  
+SEURER       W533        0080KUBIRUKEA      O                             0327     08000     27000                                  
+SEURER       W533        0090KERTAUKEA      O                             0355     08000     27000                                  
+SEURER       W533        0100PODUT  EA      O                             0616     09000     27000                                  
+SEURER       W535        0010LUGATUKEA      O                                      19000     27000                                  
+SEURER       W535        0020EDUGOUKEA      O                             0602     19000     27000                                  
+SEURER       W535        0030MASOLUUEA      O                             0489     19000     27000                                  
+SEURER       W582        0010EKTINUKEA      O                                      06100     17000                                  
+SEURER       W582        0020KOSNAUKEA      O                             0342     06100     17000                                  
+SEURER       A142        0010MIMKOUKEA      O                                      09000     27000                                  
+SEURER       A142        0020EKTINUKEA      O                             0523     09000     27000                                  
+SEURER       A142        0030NOGROUKEA      O                             0172     09000     27000                                  
+SEURER       A142        0040KURORUKEA      O                             0171     09000     27000                                  
+SEURER       A142        0050KVR  UKD       O                             0130     09000     27000                                  
+SEURER       A142        0060TOKSAUKEA      O                             0213     07100     27000                                  
+SEURER       A142        0070KH   UKD       O                             0543     07100     27000                                  
+SEURER       W613        0010KOROPUKEA      O                                      09000     21000                                  
+SEURER       W613        0020VIN  UKD       O                             0310     09000     21000                                  
+SEURER       W613        0030KP   UKD       O                                      09000     21000                                  
+SEURER       W613        0040PEVUKUKEA      O                             0422     09000     21000                                  
+SEURER       W624        0010GE   UKD       O                                      07100     27000                                  
+SEURER       W624        0020NIKIGUKEA      O                             0252     07100     27000                                  
+SEURER       W624        0030PEKITUKEA      O                             0636     07100     27000                                  
+SEURER       W624        0040PALTAUKEA      O                             0341     07100     10000                                  
+SEURER       W624        0050GR   UKD       O                             0425     07100     10000                                  
+SEURER       L130        0020UNDOLUKEA      O                             0640     10000     19500                                  
+SEURER       W639        0010GOBLIUKEA      O                                      09000     27000                                  
+SEURER       W639        0020SH   UKD       O                             0439     09000     27000                                  
+SEURER       L32-P       0020KIBERUKEA      O                             0263     10000     19000                                  
+SEURER       A87-W       0010GONEDUKEA      O                                      07100     27000                                  
+SEURER       A87-W       0020TAMAKUUEA      O                             0092     07100     27000                                  
+SEURER       N181        0010KO   UKD       O                                      05000     27000                                  
+SEURER       N181        0020KEDUBUKEA      O                             0384     07100     27000                                  
+SEURER       N181        0030GOROSUKEA      O                             0627     07100     27000                                  
+SEURER       N181        0040LAVDAUKEA      O                             0896     07100     27000                                  
+SEURER       N181        0050KESEVLUEA      O                             0551     05500     19500                                  
+SEURER       B492        0010SL   UKD       O                                      07100     27000                                  
+SEURER       B492        0020GOROSUKEA      O                             0445     07100     27000                                  
+SEURER       B492        0030LIDNOUKEA      O                             0444     07100     27000                                  
+SEURER       B492        0040LAMEXUKEA      O                             0342     07100     27000                                  
+SEURER       B492        0050SH   UKD       O                             0464     09000     27000                                  
+SEURER       W425        0030LASOTUKEA      O                             0116     04500     24500                                  
+SEURER       N191        0050USTILUKEA      O                             1284     24500     28500                                  
+SEURER       P27         0050MALBEUKEA      O                             0811     10700     24500                                  
+SEURER       L98         0010KERTAUKEA      O                                      12000     27000                                  
+SEURER       L98         0020NEBABUKEA      O                             0588     12000     27000                                  
+SEURER       L98         0030NEROBUUEA      O                             0485     12000     27000                                  
+SEURER       B144-       0010KEDUBUKEA      O                                      07100     10000                                  
+SEURER       B144-       0020SL   UKD       O                             0364     07100     10000                                  
+SEURER       A97         0010LI   UKD       O                                      07100     27000                                  
+SEURER       A97         0020KHR  UKD       O                             0337     07100     27000                                  
+SEURER       A97         0030NALEGUUEA      O                             0244     07100     27000                                  
+SEURER       A28-B       0010KONIPUKEA      O                                      07100     27000                                  
+SEURER       A28-B       0020MIMKOUKEA      O                             0433     07100     27000                                  
+SEURER       B493-       0010KOROPUKEA      O                                      09000     27000                                  
+SEURER       B493-       0020PEVUKUKEA      O                             0379     09000     27000                                  
+SEURER       W545        0010LURIKUKEA      O                                      09000     27000                                  
+SEURER       W545        0020KP   UKD       O                             0360     09000     27000                                  
+SEURER       W545        0030TAKETUKEA      O                             0516     09000     27000                                  
+SEURER       W545        0040VIN  UKD       O                             0347     09000     27000                                  
+SEURER       L32-W       0010KW   UKD       O                                      07100     27000                                  
+SEURER       L32-W       0020LI   UKD       O                             0418     07100     27000                                  
+SEURER       W693        0010KW   UKD       O                                      07100     21000                                  
+SEURER       W693        0020SUMKAUKEA      O                             0638     07100     21000                                  
+SEURER       W641        0010LAVDAUKEA      O                                      09000     27000                                  
+SEURER       W641        0020LABODUKEA      O                             0945     09000     27000                                  
+SEURER       W641        0030SULUMUKEA      O                             0212     09000     27000                                  
+SEURER       M853-       0010LI   UKD       O                                      07100     27000                                  
+SEURER       M853-       0020NIKADUKEA      O                             0250     07100     27000                                  
+SEURER       B481-       0010LI   UKD       O                                      07100     27000                                  
+SEURER       B481-       0020PENAKUKEA      O                             0318     07100     27000                                  
+SEURER       A260-       0010LONLAUKEA      O                                      09000     27000                                  
+SEURER       A260-       0020SR   UKD       O                             0140     09000     27000                                  
+SEURER       A260-       0030VI   UKD       O                             0322     09000     27000                                  
+SEURER       W649        0010MIMKOUKEA      O                                      09000     27000                                  
+SEURER       W649        0020SV   UKD       O                             0225     09000     27000                                  
+SEURER       W649        0030TR   UKD       O                             0444     09000     27000                                  
+SEURER       L40         0020SURAPUKEA      O                             0326     09000     27000                                  
+SEURER       W575        0010PA   UKD       O                                      07100     27000                                  
+SEURER       W575        0020SH   UKD       O                             0789     07100     27000                                  
+SEURER       L140        0020SURAPUKEA      O                             0728     05500     19500                                  
+SEURER       W617        0020SUMKAUKEA      O                             0255     07100     10000                                  
+SEURER       W617        0030RS   UKD       O                             0509     06100     27000                                  
+SEURER       W614        0010SOLNUUKEA      O                                      09000     27000                                  
+SEURER       W614        0020TERNOUKEA      O                             0181     09000     27000                                  
+SEURER       W614        0030TETNAUKEA      O                             0334     09000     27000                                  
+SEURER       W614        0040SW   UKD       O                             0320     09000     27000                                  
+SEURER       UM406       0010BABIBUKEA      O                                      28000     66000                                  
+SEURER       UM406       0020OTPOL  EA      O                             1116     28000     66000                                  
+SEURER       UL621       0150DIBEDUKEA      O                             1631     28000     66000                                  
+SEURER       UL621       0160OMAVAEPEA      O                             1038     28500     46000                                  
+SEURER       UM861       0060UNDOLUKEA      O                             1032     20000     66000                                  
+SEURER       UM861       0070TADUNUMEA      O                             2376     28000     66000                                  
+SEURER       UA277       0010USTILUKEA      O                                      28000     66000                                  
+SEURER       UA277       0020BABISUKEA      O                             0999     28000     66000                                  
+SEURER       UA277       0030SITBAUKEA      O                             0684     28000     66000                                  
+SEURER       UA277       0040NM   UKD       O                             0469     28000     66000                                  
+SEURER       UA277       0050RABENUKEA      O                             0971     28000     66000                                  
+SEURER       UA277       0060BARORUKEA      O                             0470     28000     66000                                  
+SEURER       UA277       0070KOREGUKEA      O                             0553     28000     66000                                  
+SEURER       UA277       0080KH   UKD       O                             0281     28000     66000                                  
+SEURER       UA277       0090BETEG  EA      O                             1550     28000     66000                                  
+SEURER       UR22        0010VI   UKD       O                                      28000     66000                                  
+SEURER       UR22        0020BABISUKEA      O                             1440     28000     66000                                  
+SEURER       UR22        0030SW   UKD       O                             0286     28000     66000                                  
+SEURER       UR22        0040CH   UKD       O                             0654     28000     66000                                  
+SEURER       UR22        0050KR   UKD       O                             0241     28000     66000                                  
+SEURER       UR22        0060KO   UKD       O                             0676     28000     66000                                  
+SEURER       UR22        0070SM   UKD       O                             0950     28000     66000                                  
+SEURER       UR22        0080PIMENUUEA      O                             0068     28000     66000                                  
+SEURER       UN743       0040SORIKUKEA      O                             0087     28000     66000                                  
+SEURER       UN743       0050CH   UKD       O                             0603     28000     66000                                  
+SEURER       UN743       0060BABKUUKEA      O                             0509     28000     66000                                  
+SEURER       UN743       0070NM   UKD       O                             0388     28000     66000                                  
+SEURER       UN743       0080LAVDAUKEA      O                             0507     20000     66000                                  
+SEURER       UN743       0090LUSAVLUEA      O                             0566     20000     66000                                  
+SEURER       UN743       0110TAVRUUKEA      O                             0572     20000     66000                                  
+SEURER       UM854       0200LAMEXUKEA      O                             1068     28000     66000                                  
+SEURER       UM854       0210LIDNOUKEA      O                             0342     28000     66000                                  
+SEURER       UM854       0220GOROSUKEA      O                             0444     28000     66000                                  
+SEURER       UW648       0040KIBERUKEA      O                                      28000     66000                                  
+SEURER       UW648       0050LOKSOUKEA      O                             1500     28000     66000                                  
+SEURER       UW648       0060LI   UKD       O                             1051     28000     66000                                  
+SEURER       UL32        0080KIBERUKEA      O                                      28000     66000                                  
+SEURER       UL32        0090TALOBUKEA      O                             1475     28000     66000                                  
+SEURER       UL32        0100KW   UKD       O                             0677     28000     66000                                  
+SEURER       UL32        0110LI   UKD       O                                      28000     66000                                  
+SEURER       UL32        0120NESLOUKEA      O                             0545     28000     66000                                  
+SEURER       UL32        0130LS   UKD       O                             0749     28000     66000                                  
+SEURER       UL981       0050DIBEDUKEA      O                             1169     28000     66000                                  
+SEURER       UL981       0060INROGUKEA      O                             1720     28000     66000                                  
+SEURER       UL981       0070RETROUKEA      O                                      28000     66000                                  
+SEURER       UL981       0080ODS    D       O                             0559     28000     66000                                  
+SEURER       UM856       0090GOBLIUKEA      O                             0995     28000     66000                                  
+SEURER       UM856       0100RUBOSUKEA      O                             0664     28000     66000                                  
+SEURER       UM856       0110SULUMUKEA      O                             0218     28000     66000                                  
+SEURER       UM856       0120BASORUKEA      O                             0302     28000     66000                                  
+SEURER       UM856       0130BRP  UKD       O                             0143     28000     66000                                  
+SEURER       UM856       0140KO   UKD       O                             0398     28000     66000                                  
+SEURER       UM856       0150LOVIKUMEA      O                             0683     20000     45000                                  
+SEURER       UP29        0080FORMAUKEA      O                                      28000     66000                                  
+SEURER       UP29        0090KW   UKD       O                             0270     28000     66000                                  
+SEURER       UP29        0100GR   UKD       O                             0319     28000     66000                                  
+SEURER       UP29        0110DNP  UKD       O                             0632     28000     66000                                  
+SEURER       UP29        0120ROLIPUKEA      O                             0560     28000     66000                                  
+SEURER       UP29        0130NEROBUUEA      O                             1081     28000     66000                                  
+SEURER       UM996       0020LUGATUKEA      O                             0264     28000     66000                                  
+SEURER       UM996       0030LUSIGUKEA      O                             0709     28000     66000                                  
+SEURER       UM996       0040KHR  UKD       O                             0804     28000     66000                                  
+SEURER       UM996       0050MOGRIUKEA      O                             0960     28000     66000                                  
+SEURER       UM996       0060LOVIKUMEA      O                             1414     20000     45000                                  
+SEURER       UN978       0150BOGMAUKEA      O                             0970     28000     66000                                  
+SEURER       UN978       0160TABOPUKEA      O                             0711     28000     66000                                  
+SEURER       UN978       0170TP   UKD       O                             0694     28000     66000                                  
+SEURER       UM977       0040DIBEDUKEA      O                             0585     28500     46000                                  
+SEURER       UM977       0050RUMUKLREA      O                             1123     28000     66000                                  
+SEURER       UT504       0010BOGMAUKEA      O                                      28000     66000                                  
+SEURER       UT504       0020RAPULUKEA      O                             0824     28000     66000                                  
+SEURER       UT504       0030BERTU  EA      O                             0491     28000     66000                                  
+SEURER       UN604       0040NIKADUKEA      O                             1030     28000     66000                                  
+SEURER       UN604       0050DNP  UKD       O                             0501     28000     66000                                  
+SEURER       UN604       0060DIDKIUKEA      O                             0600     28000     66000                                  
+SEURER       UN604       0070KH   UKD       O                             0536     28000     66000                                  
+SEURER       UN604       0080NITOK  EA      O                             0477     28000     66000                                  
+SEURER       UM986       0210LONLAUKEA      O                             0204     24500     66000                                  
+SEURER       UL623       0050SIRSIUKEA      O                             0331     28000     66000                                  
+SEURER       UL623       0060OBENOUKEA      O                             0117     28000     66000                                  
+SEURER       UL623       0070MALBEUKEA      O                             0167     24500     66000                                  
+SEURER       UL623       0080LENOVLZEA      O                             0619     28500     46000                                  
+SEURER       UB246       0020BASORUKEA      O                             0882     28000     66000                                  
+SEURER       UB246       0030KOKUMUKEA      O                             0144     28000     66000                                  
+SEURER       UB246       0040SV   UKD       O                             0256     28000     66000                                  
+SEURER       UB246       0050MIMKOUKEA      O                             0225     28000     66000                                  
+SEURER       UB246       0060BOGMAUKEA      O                             0670     28000     66000                                  
+SEURER       UB246       0070BARORUKEA      O                             0220     28000     66000                                  
+SEURER       UB246       0080GONUSUKEA      O                             0633     28000     66000                                  
+SEURER       UB246       0090NITOK  EA      O                             0369     28000     66000                                  
+SEURER       UA83        0010CH   UKD       O                                      28000     66000                                  
+SEURER       UA83        0020BASORUKEA      O                             0857     28000     66000                                  
+SEURER       UA83        0030GE   UKD       O                             0417     28000     66000                                  
+SEURER       UA83        0040PEKITUKEA      O                             0753     28000     66000                                  
+SEURER       UA83        0060LS   UKD       O                             0375     28000     66000                                  
+SEURER       UA83        0070TAGANUKEA      O                             1034     28000     66000                                  
+SEURER       UR225       0020LUTIKUKEA      O                             0550     29000     66000                                  
+SEURER       UR225       0030BASORUKEA      O                             0426     29000     66000                                  
+SEURER       UR225       0040PI   UKD       O                             0156     29000     66000                                  
+SEURER       UR225       0050DEMERUKEA      O                             0276     29000     66000                                  
+SEURER       UN616       0060PEMIRUKEA      O                             0815     28000     66000                                  
+SEURER       UN616       0070TADUNUMEA      O                             1607     28000     66000                                  
+SEURER       UP746       0050LUGOLUKEA      O                             0476     28500     46000                                  
+SEURER       UP746       0060ROMOLLREA      O                             1274     28000     66000                                  
+SEURER       UN623       0080TALOBUKEA      O                             1479     28000     66000                                  
+SEURER       UA87        0010BULIGUKEA      O                                      28000     66000                                  
+SEURER       UA87        0020DNP  UKD       O                             0504     28000     66000                                  
+SEURER       UA87        0030DORERUKEA      O                                      28000     66000                                  
+SEURER       UA87        0040CH   UKD       O                             0568     28000     66000                                  
+SEURER       UA87        0050SL   UKD       O                             0371     28000     66000                                  
+SEURER       UA87        0060BEMBIUKEA      O                             0157     28000     66000                                  
+SEURER       UA87        0070DEMERUKEA      O                             0726     28000     66000                                  
+SEURER       UA87        0080NIKIGUKEA      O                             0167     28000     66000                                  
+SEURER       UA87        0090DEKADUKEA      O                             0606     28000     66000                                  
+SEURER       UA87        0100PW   UKD       O                                      28000     66000                                  
+SEURER       UA87        0110GONEDUKEA      O                             0721     28000     66000                                  
+SEURER       UA87        0120TAMAKUUEA      O                             0092     28000     66000                                  
+SEURER       UL980       0010DORERUKEA      O                                      28000     66000                                  
+SEURER       UL980       0020BEMBIUKEA      O                             1072     28000     66000                                  
+SEURER       UL980       0030EDIMIUKEA      O                             0739     28000     66000                                  
+SEURER       UL980       0040PEKITUKEA      O                             0763     28000     66000                                  
+SEURER       UL980       0160TAGANUKEA      O                                      28000     45000                                  
+SEURER       UL980       0170GANRAUKEA      O                             0321     28000     45000                                  
+SEURER       UL980       0180TAMAKUUEA      O                             0887     28000     66000                                  
+SEURER       UL980       0380USTILUKEA      O                             0967     28500     46000                                  
+SEURER       UM987       0010IDSARUKEA      O                                      28000     66000                                  
+SEURER       UM987       0020BERESLREA      O                             0214     24500     66000                                  
+SEURER       UM987       0120TP   UKD       O                                      28000     66000                                  
+SEURER       UM987       0130KVR  UKD       O                             0825     28000     66000                                  
+SEURER       UM987       0140KESAMUKEA      O                             0229     28000     66000                                  
+SEURER       UM987       0150PESONUKEA      O                             0564     28000     66000                                  
+SEURER       UM987       0160ODS    D       O                             0638     28000     66000                                  
+SEURER       UM987       0170RATNOUKEA      O                             0250     28000     66000                                  
+SEURER       UB491       0070TURSAUKEA      O                             0327     28000     66000                                  
+SEURER       UW645       0030NEBABUKEA      O                             0193     28000     66000                                  
+SEURER       UP133       0080TURSAUKEA      O                                      20000     66000                                  
+SEURER       UP133       0090CHN  LUD       O                             0461     20000     66000                                  
+SEURER       UP27        0060MALBEUKEA      O                             0811     24500     66000                                  
+SEURER       UL986       0150TEPNAUKEA      O                             0348     28500     46000                                  
+SEURER       UL984       0010BULIGUKEA      O                                      28000     66000                                  
+SEURER       UL984       0020TABOPUKEA      O                             1225     28000     66000                                  
+SEURER       UL984       0030NM   UKD       O                             1767     28000     66000                                  
+SEURER       UL984       0040KOROPUKEA      O                             0410     28000     66000                                  
+SEURER       UL984       0050NALADUKEA      O                             0564     28000     66000                                  
+SEURER       UL984       0060DIBEDUKEA      O                             1353     28500     46000                                  
+SEURER       UL984       0070LUXAREPEA      O                             0728     28500     46000                                  
+SEURER       UL984       0090PW   UKD       O                             0455     28000     66000                                  
+SEURER       UM860       0070INROGUKEA      O                             0811     20000     66000                                  
+SEURER       UM860       0100PEMIRUKEA      O                             0950     28000     66000                                  
+SEURER       UA137       0010CH   UKD       O                                      28000     66000                                  
+SEURER       UA137       0020KEDUBUKEA      O                             0673     28000     66000                                  
+SEURER       UA137       0030BRP  UKD       O                             0186     28000     66000                                  
+SEURER       UA137       0040JA   UKD       O                             0343     28000     66000                                  
+SEURER       UA137       0050RS   UKD       O                             0803     28000     66000                                  
+SEURER       UA137       0060KW   UKD       O                             0664     28000     66000                                  
+SEURER       UA137       0070KHR  UKD       O                             0287     28000     66000                                  
+SEURER       UA137       0080GOBUNUUEA      O                             0568     28000     66000                                  
+SEURER       UM853       0070KHR  UKD       O                                      28000     66000                                  
+SEURER       UM853       0080NIKADUKEA      O                             0577     28000     66000                                  
+SEURER       UM853       0090NEBABUKEA      O                                      28000     66000                                  
+SEURER       UM853       0100SOGTAUUEA      O                             0413     28000     66000                                  
+SEURER       UN190       0020MALBEUKEA      O                             1521     28000     66000                                  
+SEURER       UW534       0010BULIGUKEA      O                                      28000     66000                                  
+SEURER       UW534       0020DON  UKD       O                             0614     28000     66000                                  
+SEURER       UA87-       0010BULIGUKEA      O                                      28000     66000                                  
+SEURER       UA87-       0020PW   UKD       O                             0427     28000     66000                                  
+SEURER       UA260       0080LIV  UKD       O                                      28000     66000                                  
+SEURER       UA260       0090VI   UKD       O                             0632     28000     66000                                  
+SEURER       UN983       0010DIBEDUKEA      O                                      28500     46000                                  
+SEURER       UN983       0020LDZ  EPD       O                             1726     28500     46000                                  
+SEURER       UB490       0010DIBEDUKEA      O                                      28000     66000                                  
+SEURER       UB490       0020SW   UKD       O                             1547     28000     66000                                  
+SEURER       UT709       0010DIBEDUKEA      O                                      28500     46000                                  
+SEURER       UT709       0020XERUKEPEA      O                             0393     28500     46000                                  
+SEURER       UW640       0010DIBEDUKEA      O                                      28000     66000                                  
+SEURER       UW640       0020ZL   UKD       O                             0716     28000     66000                                  
+SEURER       UW640       0030SORONUKEA      O                             1143     28000     66000                                  
+SEURER       UW691       0010DNP  UKD       O                                      28000     66000                                  
+SEURER       UW691       0020KOSIRUKEA      O                             0495     28000     66000                                  
+SEURER       UW691       0030DON  UKD       O                             0572     28000     66000                                  
+SEURER       UW691       0040GONEDUKEA      O                             0518     28000     66000                                  
+SEURER       UP30        0010DNP  UKD       O                                      28000     66000                                  
+SEURER       UP30        0020KUBULUKEA      O                             0504     28000     66000                                  
+SEURER       UP30        0030KHR  UKD       O                             0545     28000     66000                                  
+SEURER       UW538       0020DON  UKD       O                             0388     28000     66000                                  
+SEURER       UW538       0030GANRAUKEA      O                             0314     28000     66000                                  
+SEURER       UW538       0040PENAKUKEA      O                             0371     28000     66000                                  
+SEURER       UW538       0050KW   UKD       O                                      28000     66000                                  
+SEURER       UW538       0060MOGRIUKEA      O                             0747     28000     66000                                  
+SEURER       UG476       0020DON  UKD       O                             0858     28000     66000                                  
+SEURER       UG476       0030LIPSOUKEA      O                             0501     28000     66000                                  
+SEURER       UG476       0040LUSIGUKEA      O                             0145     28000     66000                                  
+SEURER       UG476       0050MASOLUUEA      O                             0573     28000     66000                                  
+SEURER       UW533       0010LS   UKD       O                                      28000     66000                                  
+SEURER       UW533       0020DON  UKD       O                             0486     28000     66000                                  
+SEURER       UW533       0030PW   UKD       O                             0283     28000     66000                                  
+SEURER       UW533       0040KUBIRUKEA      O                             0327     28000     66000                                  
+SEURER       UW533       0050KERTAUKEA      O                             0355     28000     66000                                  
+SEURER       UW533       0060PODUT  EA      O                             0616     28000     66000                                  
+SEURER       UA28        0080KUROSUKEA      O                                      28000     66000                                  
+SEURER       UA28        0090MIMKOUKEA      O                             1050     28000     66000                                  
+SEURER       UA28        0100RABENUKEA      O                             0587     28000     66000                                  
+SEURER       UA28        0110ODS    D       O                             0998     28000     66000                                  
+SEURER       UA87-       0010DORERUKEA      O                                      28000     66000                                  
+SEURER       UA87-       0020USTILUKEA      O                             1203     28000     66000                                  
+SEURER       UN181       0030KO   UKD       O                                      28000     66000                                  
+SEURER       UN181       0040GOROSUKEA      O                             1010     28000     66000                                  
+SEURER       UN181       0050LAVDAUKEA      O                             0896     28000     66000                                  
+SEURER       UN181       0060SORETLUEA      O                             1428     20000     66000                                  
+SEURER       UG107       0020KERTAUKEA      O                             1004     28000     66000                                  
+SEURER       UG107       0030KH   UKD       O                             1034     28000     66000                                  
+SEURER       UG107       0040RITEDUKEA      O                             0256     28000     45000                                  
+SEURER       UG107       0050GONUSUKEA      O                             0159     28000     66000                                  
+SEURER       UG107       0060RAPULUKEA      O                             0211     28000     66000                                  
+SEURER       UG107       0070ODS    D       O                             0561     28000     66000                                  
+SEURER       UB481       0010FORMAUKEA      O                                      28000     66000                                  
+SEURER       UB481       0020LI   UKD       O                             0624     28000     66000                                  
+SEURER       UB481       0040PW   UKD       O                             0659     28000     66000                                  
+SEURER       UB481       0050PENAKUKEA      O                             0735     28000     66000                                  
+SEURER       UN180       0010LIDNOUKEA      O                                      28000     66000                                  
+SEURER       UN180       0020GAMLAUKEA      O                             0376     28000     66000                                  
+SEURER       UN180       0030SULUMUKEA      O                             0202     28000     66000                                  
+SEURER       UN180       0040KOKUMUKEA      O                             0180     28000     66000                                  
+SEURER       UN180       0050KUROSUKEA      O                             0651     28000     66000                                  
+SEURER       UL130       0010TAVRUUKEA      O                                      20000     66000                                  
+SEURER       UL130       0020GETSULUEA      O                             0919     20000     66000                                  
+SEURER       UL130       0030UNDOLUKEA      O                             0640     20000     66000                                  
+SEURER       UW639       0010GOBLIUKEA      O                                      28000     66000                                  
+SEURER       UW639       0020SH   UKD       O                             0439     28000     66000                                  
+SEURER       UL32-       0020KIBERUKEA      O                             0263     22000     45000                                  
+SEURER       UA279       0010TP   UKD       O                                      28000     66000                                  
+SEURER       UA279       0020GR   UKD       O                             0372     28000     66000                                  
+SEURER       UA279       0030KHR  UKD       O                             0459     28000     66000                                  
+SEURER       UA279       0040KUBOKUUEA      O                             0313     28000     66000                                  
+SEURER       UN191       0050USTILUKEA      O                             1284     28500     46000                                  
+SEURER       UL98        0060KERTAUKEA      O                                      28000     66000                                  
+SEURER       UL98        0070NEBABUKEA      O                             0588     28000     66000                                  
+SEURER       UL98        0080NEROBUUEA      O                             0485     28000     66000                                  
+SEURER       UB144       0010KUROSUKEA      O                                      28000     66000                                  
+SEURER       UB144       0020KEDUBUKEA      O                             0553     28000     66000                                  
+SEURER       UB144       0030SL   UKD       O                             0364     28000     66000                                  
+SEURER       UB144       0040SORONUKEA      O                             0709     28000     66000                                  
+SEURER       UB144       0050NALADUKEA      O                             0589     28000     66000                                  
+SEURER       UB144       0060LONLAUKEA      O                                      28000     66000                                  
+SEURER       UB144       0070SIRSIUKEA      O                             0214     28000     66000                                  
+SEURER       UL4         0010KH   UKD       O                                      28000     66000                                  
+SEURER       UL4         0020TADIDUKEA      O                             0503     28000     66000                                  
+SEURER       UL4         0030KW   UKD       O                                      28000     66000                                  
+SEURER       UL4         0040LADIKUKEA      O                             0382     28000     66000                                  
+SEURER       UL4         0050TP   UKD       O                             0273     28000     66000                                  
+SEURER       UA97        0010LI   UKD       O                                      28000     66000                                  
+SEURER       UA97        0020KHR  UKD       O                             0337     28000     66000                                  
+SEURER       UA97        0030NALEGUUEA      O                             0244     28000     66000                                  
+SEURER       UR5         0010PESONUKEA      O                                      28000     66000                                  
+SEURER       UR5         0020KOSAK  EA      O                             0473     28000     66000                                  
+SEURER       UM991       0010MALBEUKEA      O                                      24500     66000                                  
+SEURER       UM991       0020KSC  LZD       O                             0454     24500     66000                                  
+SEURER       UM991       0080TAKETUKEA      O                                      28000     66000                                  
+SEURER       UM991       0090NM   UKD       O                             0397     28000     66000                                  
+SEURER       UM991       0100REPLIUKEA      O                             1684     28000     66000                                  
+SEURER       UM991       0110RASPUUKEA      O                             1284     28000     66000                                  
+SEURER       UM991       0120OLGIN  EA      O                             0757     28000     66000                                  
+SEURER       UW650       0020KW   UKD       O                             0549     28000     66000                                  
+SEURER       UL32-       0010KW   UKD       O                                      28000     66000                                  
+SEURER       UL32-       0020LI   UKD       O                             0418     28000     66000                                  
+SEURER       UB481       0010LI   UKD       O                                      28000     66000                                  
+SEURER       UB481       0020PENAKUKEA      O                             0318     28000     66000                                  
+SEURER       UA260       0010LONLAUKEA      O                                      28000     66000                                  
+SEURER       UA260       0020OBENOUKEA      O                             0206     28000     66000                                  
+SEURER       UA260       0030VI   UKD       O                             0256     28000     66000                                  
+SEURER       UW535       0020LUGATUKEA      O                             1092     28000     66000                                  
+SEURER       UW535       0030NALEMUUEA      O                             0330     28000     66000                                  
+SEURER       UW647       0010MALBEUKEA      O                                      28000     66000                                  
+SEURER       UW647       0020VI   UKD       O                             0273     28000     66000                                  
+SEURER       UW567       0010NEBABUKEA      O                                      28000     66000                                  
+SEURER       UW567       0020ROLIPUKEA      O                             0688     28000     66000                                  
+SEURER       UW575       0020PA   UKD       O                             0538     28000     66000                                  
+SEURER       UW575       0030SH   UKD       O                             0789     28000     66000                                  
+SEURER       UA42        0010NM   UKD       O                                      28000     66000                                  
+SEURER       UA42        0020NOLDUUKEA      O                             0636     28000     66000                                  
+SEURER       UA42        0030SH   UKD       O                             0464     28000     66000                                  
+SEURER       UA42        0040ODS    D       O                             0606     28000     66000                                  
+SEURER       UL140       0020SURAPUKEA      O                             0326     28000     66000                                  
+SEURER       UL140       0030POGAVLUEA      O                             0728     20000     66000                                  
+SEURER       UA83-       0010PEKITUKEA      O                                      28000     66000                                  
+SEURER       UA83-       0020TAGANUKEA      O                             1182     28000     66000                                  

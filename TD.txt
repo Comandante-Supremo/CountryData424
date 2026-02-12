@@ -1,0 +1,132 @@
+SAFREAENRT   ARBEG GT           N13135410E0205739100                                                                                
+SAFREAENRT   BOLBE GT           N13252600E0143840100                                                                                
+SAFREAENRT   BULGO GT           N11195610E021400000                                                                                 
+SAFREAENRT   CHARI GT           N10551510E015355100                                                                                 
+SAFREAENRT   DEMOX GT           N18314900E016000000                                                                                 
+SAFREAENRT   DENAT GT           N11525800E0173432100                                                                                
+SAFREAENRT   DEPOS GT           N13284800E014592600                                                                                 
+SAFREAENRT   DETEL GT           N14390310E0145653100                                                                                
+SAFREAENRT   EDGUM GT           N08000000E016100800                                                                                 
+SAFREAENRT   ENERI GT           N10160300E0155341100                                                                                
+SAFREAENRT   EPUTA GT           N09495400E014414300                                                                                 
+SAFREAENRT   ERESA GT           N11382100E019464500                                                                                 
+SAFREAENRT   ETSAM GT           N12495800E0184203100                                                                                
+SAFREAENRT   GAPAN GT           N12371400E0173245100                                                                                
+SAFREAENRT   GARIN GT           N22000000E017063600                                                                                 
+SAFREAENRT   GUNEB GT           N09293500E019000000                                                                                 
+SAFREAENRT   IKRAP GT           N15000000E0164220100                                                                                
+SAFREAENRT   ILDOR GT           N20093700E0180118100                                                                                
+SAFREAENRT   KINTU GT           N14564910E0201659100                                                                                
+SAFREAENRT   KIRBO GT           N12240000E0162228100                                                                                
+SAFREAENRT   KOBLA GT           N13480210E0204328100                                                                                
+SAFREAENRT   LOSGO GT           N10482910E015095900                                                                                 
+SAFREAENRT   MEKAL GT           N09235710E015180100                                                                                 
+SAFREAENRT   MENIT GT           N10423800E0170747100                                                                                
+SAFREAENRT   NUROK GT           N09254000E0161629100                                                                                
+SAFREAENRT   ONLET GT           N14324300E014174800                                                                                 
+SAFREAENRT   RINIP GT           N08550300E0152044100                                                                                
+SAFREAENRT   RIROT GT           N08000000E0155939100                                                                                
+SAFREAENRT   RULDO GT           N08000000E016550000                                                                                 
+SAFREAENRT   SEMOK GT           N16000000E0145357100                                                                                
+SAFREAENRT   SONGU GT           N09232600E0150034100                                                                                
+SAFREAENRT   UMOSA GT           N08000000E0152555100                                                                                
+SAFREAENRT   USLOV GT           N09245000E0154709100                                                                                
+SAFREAENRT   USPOK GT           N14235310E0142032100                                                                                
+SAFREAENRT   VOSLI GT           N10091900E0153503100                                                                                
+SAFREAENRT   XULAK GT           N12103000E021205100                                                                                 
+SAFRDB       FLU   GT000300     N17551590E019064680                                                                                 
+SAFRDB       MN    GT000315     N08370400E016042100                                                                                 
+SAFRDB       LN    GT000370     N12073516E015015622                                                                                 
+SAFRDB       FA    GT000429     N09090310E0182245100                                                                                
+SAFRD        AE    GT011450V    N13504240E0205041100                                                                                
+SAFRD        TD    GT011470V    N08381350E016044890                                                                                 
+SAFRD        FL    GT011530V    N12083010E015021790                                                                                 
+SAFRD        FL    GT011530 D   N12083010E015021790                                                                                 
+SAFRER       G854G       0160FL   GTD       O                             0339     04500     24500                                  
+SAFRER       G857F       0050FL   GTD       O                             0803     08500     24500                                  
+SAFRER       A607G       0010FL   GTD       O                                      05500     24500                                  
+SAFRER       A607G       0020BOLBEGTEA      O                             0804     05500     24500                                  
+SAFRER       A607G       0030ONLETGTEA      O                             0703     05500     24500                                  
+SAFRER       A607G       0040BUNLU  EA      O                             1273     05500     24500                                  
+SAFRER       A403G       0080UMOSAGTEA      O                             1903     11500     24500                                  
+SAFRER       A403G       0090MEKALGTEA      O                             0844     11500     24500                                  
+SAFRER       A403G       0100LOSGOGTEA      O                             0850     11500     24500                                  
+SAFRER       A403G       0110FL   GTD       O                             0804     06500     24500                                  
+SAFRER       A403G       0120DEPOSGTEA      O                             0804     06500     24500                                  
+SAFRER       A403G       0130DETELGTEA      O                             0704     06500     24500                                  
+SAFRER       A403G       0140SEMOKGTEA      O                             0810     06500     24500                                  
+SAFRER       A607F       0010FL   GTD       O                                      07500     24500                                  
+SAFRER       A607F       0020CHARIGTEA      O                             0803     07500     24500                                  
+SAFRER       A607F       0030NUROKGTEA      O                             0982     07500     24500                                  
+SAFRER       A607F       0040RULDOGTEA      O                             0938     07500     24500                                  
+SAFRER       A607F       0050GUPOTHFEA      O                             0872     07500     24500                                  
+SAFRER       G660F       0040ETSAMGTEA      O                                      09500     24500                                  
+SAFRER       G660F       0050GAPANGTEA      O                             0688     09500     24500                                  
+SAFRER       G660F       0060KIRBOGTEA      O                             0699     09500     24500                                  
+SAFRER       G660F       0070FL   GTD       O                             0799     04500     24500                                  
+SAFRER       G660F       0080KELAK  EA      O                             0241     04500     24500                                  
+SAFRER       UM731       0130EDGUMGTEA      O                                      24500     60000                                  
+SAFRER       UM731       0140USLOVGTEA      O                             0879     24500     60000                                  
+SAFRER       UM731       0150VOSLIGTEA      O                             0461     24500     60000                                  
+SAFRER       UM731       0160FL   GTD       O                             1235     24500     60000                                  
+SAFRER       UM731       0170USPOKGTEA      O                             1415     24500     60000                                  
+SAFRER       UM731       0180ONLETGTEA      O                             0092     24500     60000                                  
+SAFRER       UG854       0160FL   GTD       O                             0339     24500     46000                                  
+SAFRER       UR778       0040ILDORGTEA      O                                      24500     46000                                  
+SAFRER       UR778       0050DEMOXGTEA      O                             1507     24500     46000                                  
+SAFRER       UR778       0060DINTA  EA      O                             0877     24500     46000                                  
+SAFRER       UA607       0040ONLETGTEA      O                                      24500     46000                                  
+SAFRER       UA607       0050FL   GTD       O                             1507     24500     46000                                  
+SAFRER       UA607       0060ENERIGTEA      O                             1233     24500     46000                                  
+SAFRER       UA607       0070NUROKGTEA      O                             0552     24500     46000                                  
+SAFRER       UA607       0080RULDOGTEA      O                             0938     24500     46000                                  
+SAFRER       UA607       0090GUPOTHFEA      O                             0872     24500     46000                                  
+SAFRER       UG660       0060ETSAMGTEA      O                                      24500     46000                                  
+SAFRER       UG660       0070GAPANGTEA      O                             0688     24500     46000                                  
+SAFRER       UG660       0080FL   GTD       O                             1499     24500     46000                                  
+SAFRER       UG660       0090KELAK  EA      O                             0241     24500     46000                                  
+SAFRER       UG857       0070FL   GTD       O                                      24500     46000                                  
+SAFRER       UG857       0080SEMIR  EA      O                             1044     24500     46000                                  
+SAFRER       UA403       0030DETELGTEA      O                             1379     24500     46000                                  
+SAFRER       UA403       0040FL   GTD       O                             1508     24500     46000                                  
+SAFRER       UA403       0050ISDET  EA      O                             1273     24500     46000                                  
+SAFRER       UA403       0130UMOSAGTEA      O                             0427     24500     46000                                  
+SAFRER       UA403       0140RINIPGTEA      O                             0553     24500     46000                                  
+SAFRER       UA403       0150MEKALGTEA      O                             0291     24500     46000                                  
+SAFRER       UA620       0020BULGOGTEA      O                             0767     24500     46000                                  
+SAFRER       UA620       0030ERESAGTEA      O                             1126     24500     46000                                  
+SAFRER       UA620       0040DENATGTEA      O                             1303     24500     46000                                  
+SAFRER       UA620       0050FL   GTD       O                             1498     24500     46000                                  
+SAFRER       UG655       0020BULGOGTEA      O                             1145     24500     46000                                  
+SAFRER       UG655       0030XULAKGTEA      O                             0540     24500     46000                                  
+SAFRER       UG655       0040KINTUGTEA      O                                      24500     46000                                  
+SAFRER       UG655       0050KOBLAGTEA      O                             0735     24500     46000                                  
+SAFRER       UA607       0030ONLETGTEA      O                             1273     24500     60000                                  
+SAFRER       UG862       0040IKRAPGTEA      O                             1580     24500     46000                                  
+SAFRER       UG862       0050ETSAMGTEA      O                             1745     24500     46000                                  
+SAFRER       UG862       0060ERESAGTEA      O                             0956     24500     46000                                  
+SAFRER       UG862       0070KITRAHFEA      O                             1677     24500     46000                                  
+SAFRER       UG655       0140KINTUGTEA      O                                      24500     46000                                  
+SAFRER       UG655       0150FLU  GTD       O                             1908     24500     46000                                  
+SAFRER       UG655       0160ILDORGTEA      O                             1480     24500     46000                                  
+SAFRER       UG655       0170GARINGTEA      O                             1217     24500     46000                                  
+SAFRER       UB736       0090SONGUGTEA      O                             0684     24500     46000                                  
+SAFRER       UB736       0100MEKALGTEA      O                             0172     24500     46000                                  
+SAFRER       UB736       0110USLOVGTEA      O                             0288     24500     46000                                  
+SAFRER       UB736       0120NUROKGTEA      O                             0290     24500     46000                                  
+SAFRER       UB736       0130GUNEBGTEA      O                             1614     24500     46000                                  
+SAFRER       UB736       0140KITRAHFEA      O                             1568     24500     46000                                  
+SAFRER       UW605       0010VOSLIGTEA      O                                      24500     46000                                  
+SAFRER       UW605       0020ENERIGTEA      O                             0195     24500     46000                                  
+SAFRER       UW605       0030MENITGTEA      O                             0776     24500     46000                                  
+SAFRER       UW605       0040ERESAGTEA      O                             1657     24500     46000                                  
+SAFRER       UW605       0050XULAKGTEA      O                             0976     24500     46000                                  
+SAFRER       UW605       0070EPUTAGTEA      O                             0344     24500     46000                                  
+SAFRER       UW605       0080TJR    D       O                             0854     24500     46000                                  
+SAFRER       UW500       0030RIROTGTEA      O                             1144     24500     46000                                  
+SAFRER       UW500       0040RINIPGTEA      O                             0672     24500     46000                                  
+SAFRER       UW500       0050SONGUGTEA      O                             0347     24500     46000                                  
+SAFRER       UW500       0060EPUTAGTEA      O                             0324     24500     46000                                  
+SAFRER       UW500       0070TJL    D       O                             0463     24500     46000                                  
+SAFRER       UP126       0010GARINGTEA      O                                      25000     60000                                  
+SAFRER       UP126       0020HON  HLD       O                             4329     25000     60000                                  

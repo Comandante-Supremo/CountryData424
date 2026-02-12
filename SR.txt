@@ -1,0 +1,52 @@
+SSAMEAENRT   ACARI SM           N01572580W056292040                                                                                 
+SSAMEAENRT   ITASI SM           N05401110W0554859100                                                                                
+SSAMEAENRT   KETIL SM           N05531200W055420000                                                                                 
+SSAMEAENRT   MIKOK SM           N05151500W0541807100                                                                                
+SSAMEAENRT   MINAL SM           N05181710W0543153100                                                                                
+SSAMEAENRT   NASON SM           N04542910W0542859100                                                                                
+SSAMEAENRT   NEKOB SM           N05325310W057125400                                                                                 
+SSAMEAENRT   PARAN SM           N05274119W055040110                                                                                 
+SSAMEAENRT   R1531 SM           N05270986W055121258                                                                                 
+SSAMEAENRT   SIROS SM           N02281800W054413000                                                                                 
+SSAMEAENRT   TANGO SM           N05562624W054434005                                                                                 
+SSAMEAENRT   ZANDY SM           N05270765W055182185                                                                                 
+SSAMEAENRT   ZY003 SM           N05271457W055080359                                                                                 
+SSAMEAENRT   ZY004 SM           N05272716W055150326                                                                                 
+SSAMEAENRT   ZY005 SM           N05272297W055060347                                                                                 
+SSAMEAENRT   ZY006 SM           N05273976W055170301                                                                                 
+SSAMEAENRT   ZY011 SM           N05340847W055193116                                                                                 
+SSAMEAENRT   ZY013 SM           N05352601W055210344                                                                                 
+SSAMEAENRT   ZY014 SM           N05271078W055122758                                                                                 
+SSAMEAENRT   ZY029 SM           N05281122W055220239                                                                                 
+SSAMEAENRT   ZY030 SM           N05313679W055242079                                                                                 
+SSAMEAENRT   ZY057 SM           N05350726W055033201                                                                                 
+SSAMEAENRT   ZY060 SM           N05270447W055102772                                                                                 
+SSAMEAENRT   ZY073 SM           N05274794W055182084                                                                                 
+SSAMEAENRT   ZY074 SM           N05313339W055031446                                                                                 
+SSAMEAENRT   ZY086 SM           N05294968W055022841                                                                                 
+SSAMEAENRT   ZY088 SM           N05300478W055002713                                                                                 
+SSAMEAENRT   ZY297 SM           N05290403W055195173                                                                                 
+SSAMEAENRT   ZY298 SM           N05294240W055214637                                                                                 
+SSAMEAENRT   ZY300 SM           N05293155W055194463                                                                                 
+SSAMEAENRT   ZY309 SM           N05305137W055191488                                                                                 
+SSAMEAENRT   ZY312 SM           N05311681W055190222                                                                                 
+SSAMDB       MP    SM000385     N03392586W054020963                                                                                 
+SSAMD        ZY    SM011430V    N05270195W055110376                                                                                 
+SSAMD        ZY    SM011430 D   N05270195W055110376                                                                                 
+SSAMER       G449        0220KETILSMEA      O                             1000     03000     20000                                  
+SSAMER       G449        0230ZY   SMD       O                             0404     03000     20000                                  
+SSAMER       G449        0240NASONSMEA      O                             0531     05000     24500                                  
+SSAMER       G449        0250REBER  EA      O                             1663     05000     24500                                  
+SSAMER       G443        0100MIKOKSMEA      O                             0787     03500     24500                                  
+SSAMER       G443        0110MINALSMEA      O                             0141     03000     20000                                  
+SSAMER       G443        0120ZY   SMD       O                             0400     03000     20000                                  
+SSAMER       G443        0130ITASISMEA      O                                      03000     20000                                  
+SSAMER       G443        0140GEBON  EA      O                             0746     03000     20000                                  
+SSAMER       UG443       0070MIKOKSMEA      O                             0787     20000     60000                                  
+SSAMER       UG443       0080ZY   SMD       O                             0540     20000     60000                                  
+SSAMER       UG443       0090GEBON  EA      O                             1146     20000     60000                                  
+SSAMER       UG449       0060ZY   SMD       O                             0651     20000     60000                                  
+SSAMER       UG449       0070GEKOS  EA      O                             1405     20000     60000                                  
+SSAMER       UL306       0110SIROSSMEA      O                             0413     24500     29000                                  
+SSAMER       UL776       0050NEKOBSMEA      O                                      24500     60000                                  
+SSAMER       UL776       0060TIR  SBD       O                             2139     24500     60000                                  

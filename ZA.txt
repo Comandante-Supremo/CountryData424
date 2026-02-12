@@ -1,0 +1,782 @@
+SAFREAENRT   ALENI FA           S26583554E032093789                                                                                 
+SAFREAENRT   ALKAT FA           S33110054E025510743                                                                                 
+SAFREAENRT   ALTES FA           S25351477E031184802                                                                                 
+SAFREAENRT   ANTEV FA           S33292487E022500328                                                                                 
+SAFREAENRT   ANTIL FA           S28302276E016482005                                                                                 
+SAFREAENRT   ANVIT FA           S24400000E030233000                                                                                 
+SAFREAENRT   APDAK FA           S26330355E029025264                                                                                 
+SAFREAENRT   APDED FA           S31463645E027122939                                                                                 
+SAFREAENRT   APDIV FA           S32062985E026510447                                                                                 
+SAFREAENRT   APDOG FA           S30052293E030001274                                                                                 
+SAFREAENRT   APDUR FA           S28191965E025231280                                                                                 
+SAFREAENRT   APGAP FA           S28171147E031194686                                                                                 
+SAFREAENRT   APGIL FA           S30250848E026185792                                                                                 
+SAFREAENRT   APKIK FA           S28194954E030343316                                                                                 
+SAFREAENRT   APLAV FA           S29072796E020470472                                                                                 
+SAFREAENRT   APLEN FA           S30453877E022011980                                                                                 
+SAFREAENRT   APLOK FA           S30204048E028015573                                                                                 
+SAFREAENRT   APMAK FA           S28284976E025315521                                                                                 
+SAFREAENRT   APMIN FA           S28003845E025512805                                                                                 
+SAFREAENRT   APNAX FA           S31114915E027464316                                                                                 
+SAFREAENRT   APRAX FA           S28003167E026250812                                                                                 
+SAFREAENRT   APREB FA           S32212116E023542328                                                                                 
+SAFREAENRT   ATUXO FA           S27593597E027520727                                                                                 
+SAFREAENRT   AVAGO FA           S25430990E027263936                                                                                 
+SAFREAENRT   AVAVA FA           S26545632E029271011                                                                                 
+SAFREAENRT   AVEKO FA           S29510879E026183363                                                                                 
+SAFREAENRT   AVILO FA           S30385025E030232189                                                                                 
+SAFREAENRT   AVIMI FA           S32092012E026053084                                                                                 
+SAFREAENRT   AVOKA FA           S32433034E026063121                                                                                 
+SAFREAENRT   AVUBU FA           S28224279E0263217100                                                                                
+SAFREAENRT   AVUSA FA           S27295510E022133009                                                                                 
+SAFREAENRT   AXIKA FA           S31135888E024235968                                                                                 
+SAFREAENRT   AXISI FA           S30503167E029471091                                                                                 
+SAFREAENRT   AXOPA FA           S33174226E019583341                                                                                 
+SAFREAENRT   BEBAS FA           S27491849E029365469                                                                                 
+SAFREAENRT   BEKUG FA           S32033737E026215565                                                                                 
+SAFREAENRT   BOPAL FA           S22270378E028490601                                                                                 
+SAFREAENRT   CB008 FA           S33470157E018323340                                                                                 
+SAFREAENRT   CTV02 FA           S33561468E018353831                                                                                 
+SAFREAENRT   CTV05 FA           S34030881E018370212                                                                                 
+SAFREAENRT   CTV10 FA           S34011565E018474508                                                                                 
+SAFREAENRT   CTV12 FA           S33492205E018460789                                                                                 
+SAFREAENRT   CTV13 FA           S34021104E018511134                                                                                 
+SAFREAENRT   CTV16 FA           S34030634E018543767                                                                                 
+SAFREAENRT   CTV20 FA           S34000798E018364812                                                                                 
+SAFREAENRT   CTV21 FA           S34001458E018541085                                                                                 
+SAFREAENRT   CTV22 FA           S34002166E018363745                                                                                 
+SAFREAENRT   CTV25 FA           S33554656E018352602                                                                                 
+SAFREAENRT   CTV35 FA           S33460952E018353286                                                                                 
+SAFREAENRT   CTV37 FA           S34080730E018344994                                                                                 
+SAFREAENRT   CTV45 FA           S34023049E018374771                                                                                 
+SAFREAENRT   CTV55 FA           S33525231E018342876                                                                                 
+SAFREAENRT   CTV67 FA           S33472067E018484873                                                                                 
+SAFREAENRT   DNV30 FA           S29551228E030434399                                                                                 
+SAFREAENRT   DURBA FA           S31130281E028461237                                                                                 
+SAFREAENRT   EGLUD FA           S31433352E026152960                                                                                 
+SAFREAENRT   EGMOG FA           S32180418E026162486                                                                                 
+SAFREAENRT   EGNOM FA           S30540337E022263525                                                                                 
+SAFREAENRT   EGPOP FA           S26165397E027303944                                                                                 
+SAFREAENRT   EGPUL FA           S33143152E026470745                                                                                 
+SAFREAENRT   EGRUP FA           S31100595E023153978                                                                                 
+SAFREAENRT   EGSAN FA           S28001072E027083576                                                                                 
+SAFREAENRT   EGSIL FA           S30545573E026480681                                                                                 
+SAFREAENRT   EGSOK FA           S29351256E025384566                                                                                 
+SAFREAENRT   EGTIL FA           S31022329E022515548                                                                                 
+SAFREAENRT   EGVIN FA           S33365077E020082663                                                                                 
+SAFREAENRT   EKBEX FA           S28003910E025472396                                                                                 
+SAFREAENRT   ELAND FA           S25435910E0275635100                                                                                
+SAFREAENRT   ENAKU FA           S33460000E018180000                                                                                 
+SAFREAENRT   EPLUK FA           S31303020E027574240                                                                                 
+SAFREAENRT   EPNAK FA           S30285628E030113533                                                                                 
+SAFREAENRT   EPNIS FA           S25284272E029300630                                                                                 
+SAFREAENRT   EPNOS FA           S32023545E027461493                                                                                 
+SAFREAENRT   EPRET FA           S26513186E032254572                                                                                 
+SAFREAENRT   EPSAK FA           S27115498E029094152                                                                                 
+SAFREAENRT   EPSEK FA           S23271500E031334500                                                                                 
+SAFREAENRT   EPSID FA           S33255634E025463651                                                                                 
+SAFREAENRT   EPTAM FA           S32331517E023433399                                                                                 
+SAFREAENRT   EPTUS FA           S32280058E024001116                                                                                 
+SAFREAENRT   EPVOL FA           S23551441E028360545                                                                                 
+SAFREAENRT   ERBAP FA           S31581254E026381843                                                                                 
+SAFREAENRT   ERBER FA           S33530114E019360652                                                                                 
+SAFREAENRT   ERBIK FA           S31262220E027052425                                                                                 
+SAFREAENRT   ERBUT FA           S31211909E029003538                                                                                 
+SAFREAENRT   ERDER FA           S32340548E023114063                                                                                 
+SAFREAENRT   ERDIM FA           S26475232E026005767                                                                                 
+SAFREAENRT   ERPOL FA           S34001434E022090652                                                                                 
+SAFREAENRT   ESTAG FA           S31371519E029283399                                                                                 
+SAFREAENRT   ESTED FA           S26453214E027351576                                                                                 
+SAFREAENRT   ESVIR FA           S28051855E030494375                                                                                 
+SAFREAENRT   ETBUX FA           S25542380E026155808                                                                                 
+SAFREAENRT   ETKAL FA           S32544840E022333603                                                                                 
+SAFREAENRT   ETKID FA           S30312493E020225069                                                                                 
+SAFREAENRT   ETKOT FA           S30321786E018035203                                                                                 
+SAFREAENRT   ETMAL FA           S27342209E030230051                                                                                 
+SAFREAENRT   ETMIG FA           S30514532E027174734                                                                                 
+SAFREAENRT   ETMIT FA           S23124849E027374269                                                                                 
+SAFREAENRT   ETODI FA           S31092116E024583334                                                                                 
+SAFREAENRT   ETOLA FA           S31181720E028001610                                                                                 
+SAFREAENRT   ETOSA FA           S24421365E026020406                                                                                 
+SAFREAENRT   ETULI FA           S24491770E028142065                                                                                 
+SAFREAENRT   EVAGA FA           S32563236E023391943                                                                                 
+SAFREAENRT   EVARI FA           S27404891E030031519                                                                                 
+SAFREAENRT   EVEKA FA           S27583867E028422364                                                                                 
+SAFREAENRT   EVILI FA           S31361844E027413145                                                                                 
+SAFREAENRT   EVIPI FA           S24520020E027505435                                                                                 
+SAFREAENRT   EVOPO FA           S25122418E027113840                                                                                 
+SAFREAENRT   EVUKA FA           S33572885E020120685                                                                                 
+SAFREAENRT   EVUKI FA           S33100074E018210185                                                                                 
+SAFREAENRT   EXALA FA           S25084557E029113757                                                                                 
+SAFREAENRT   EXANO FA           S26374851E026503504                                                                                 
+SAFREAENRT   EXATA FA           S29450973E030013521                                                                                 
+SAFREAENRT   EXELO FA           S33193039E022242638                                                                                 
+SAFREAENRT   EXIRA FA           S31421551E027550891                                                                                 
+SAFREAENRT   EXOBI FA           S26025227E029085157                                                                                 
+SAFREAENRT   GABNA FA           S24100246E028335894                                                                                 
+SAFREAENRT   GC129 FA           S26042194E028213552                                                                                 
+SAFREAENRT   GC147 FA           S26005056E028080251                                                                                 
+SAFREAENRT   GC180 FA           S25580092E028093232                                                                                 
+SAFREAENRT   GENOL FA           S33442375E024020064                                                                                 
+SAFREAENRT   GENOX FA           S33340165E026132042                                                                                 
+SAFREAENRT   GEPES FA           S28003699E025174783                                                                                 
+SAFREAENRT   GERAX FA           S27185748E031231091                                                                                 
+SAFREAENRT   GERID FA           S32450813E023324182                                                                                 
+SAFREAENRT   GEROX FA           S27224901E028494311                                                                                 
+SAFREAENRT   GESEP FA           S32545927E026325982                                                                                 
+SAFREAENRT   GESIN FA           S26461800E0275617100                                                                                
+SAFREAENRT   GESOX FA           S31120214E027103304                                                                                 
+SAFREAENRT   GIDEL FA           S26014200E0304718100                                                                                
+SAFREAENRT   GOMBA FA           S27300168E027235879                                                                                 
+SAFREAENRT   IBNIS FA           S32383693E018425622                                                                                 
+SAFREAENRT   IBRIS FA           S28520000E0255659100                                                                                
+SAFREAENRT   IBTEK FA           S29430404E025124753                                                                                 
+SAFREAENRT   IBTOV FA           S30495514E028062818                                                                                 
+SAFREAENRT   IBVIK FA           S32400279E023214835                                                                                 
+SAFREAENRT   IMGEV FA           S27590930E028173210                                                                                 
+SAFREAENRT   IMGOS FA           S31043923E030053010                                                                                 
+SAFREAENRT   IMLED FA           S30321918E018324907                                                                                 
+SAFREAENRT   IMLUK FA           S31404373E027001339                                                                                 
+SAFREAENRT   IMRAB FA           S31322251E026480642                                                                                 
+SAFREAENRT   IMSAD FA           S32571891E023212927                                                                                 
+SAFREAENRT   ITKIT FA           S33213727E026095041                                                                                 
+SAFREAENRT   ITNOK FA           S31244356E028135296                                                                                 
+SAFREAENRT   ITPAS FA           S31521627E026262120                                                                                 
+SAFREAENRT   ITPOL FA           S30590619E028220993                                                                                 
+SAFREAENRT   ITROL FA           S25020797E027260537                                                                                 
+SAFREAENRT   ITSAV FA           S25504769E029400517                                                                                 
+SAFREAENRT   JA000 FA           S26080364E028153252                                                                                 
+SAFREAENRT   JB000 FA           S26062716E028145364                                                                                 
+SAFREAENRT   JN000 FA           S26095631E028144680                                                                                 
+SAFREAENRT   JN039 FA           S26131432E028133192                                                                                 
+SAFREAENRT   JS11A FA           S26200488E028123447                                                                                 
+SAFREAENRT   JS11B FA           S26202271E028135603                                                                                 
+SAFREAENRT   JS131 FA           S25573135E028204865                                                                                 
+SAFREAENRT   JS585 FA           S26042008E028165856                                                                                 
+SAFREAENRT   JS587 FA           S26035128E028155232                                                                                 
+SAFREAENRT   JS876 FA           S26013448E028180192                                                                                 
+SAFREAENRT   JS892 FA           S26010424E028165856                                                                                 
+SAFREAENRT   JSV00 FA           S26085007E028135604                                                                                 
+SAFREAENRT   JSV08 FA           S26105400E028050600                                                                                 
+SAFREAENRT   JSV13 FA           S26210735E028090875                                                                                 
+SAFREAENRT   JSV15 FA           S26235910E0281811100                                                                                
+SAFREAENRT   JSV17 FA           S26255910E0280911100                                                                                
+SAFREAENRT   JSV18 FA           S25504800E028164800                                                                                 
+SAFREAENRT   JSV20 FA           S26285700E028082046                                                                                 
+SAFREAENRT   JSV26 FA           S25462310E0282653100                                                                                
+SAFREAENRT   JSV2A FA           S26101518E028160692                                                                                 
+SAFREAENRT   JSV2B FA           S26085813E028162225                                                                                 
+SAFREAENRT   JSV33 FA           S26121384E028123648                                                                                 
+SAFREAENRT   JSV54 FA           S26043663E028165172                                                                                 
+SAFREAENRT   JSV69 FA           S26152248E028112448                                                                                 
+SAFREAENRT   JSV77 FA           S26165428E028120984                                                                                 
+SAFREAENRT   JSV79 FA           S26163808E028105532                                                                                 
+SAFREAENRT   JSV89 FA           S26175728E028114716                                                                                 
+SAFREAENRT   JSV90 FA           S26172848E028103516                                                                                 
+SAFREAENRT   JSV94 FA           S26004911E0281820100                                                                                
+SAFREAENRT   KATOR FA           S33291946E022383437                                                                                 
+SAFREAENRT   KLOOF FA           S29432038E030583444                                                                                 
+SAFREAENRT   KODES FA           S33083910E018452000                                                                                 
+SAFREAENRT   LAV14 FA           S26075400E0280429100                                                                                
+SAFREAENRT   LAV15 FA           S26114769E027565763                                                                                 
+SAFREAENRT   MEV15 FA           S25334200E0282653100                                                                                
+SAFREAENRT   MEV19 FA           S25300600E0282505100                                                                                
+SAFREAENRT   NADEM FA           S28095910E027000000                                                                                 
+SAFREAENRT   NERES FA           S31122666E023225635                                                                                 
+SAFREAENRT   NESAG FA           S24564820E028510354                                                                                 
+SAFREAENRT   NESAN FA           S25294888E028070556                                                                                 
+SAFREAENRT   NESEK FA           S25015310E026370000                                                                                 
+SAFREAENRT   NETEL FA           S27230640E027383950                                                                                 
+SAFREAENRT   NETIK FA           S30384877E030225950                                                                                 
+SAFREAENRT   NEVAS FA           S29370000E0171159100                                                                                
+SAFREAENRT   NEVEN FA           S27285915E028025710                                                                                 
+SAFREAENRT   NEVES FA           S25244777E027001614                                                                                 
+SAFREAENRT   NEVIR FA           S34155210E020095423                                                                                 
+SAFREAENRT   NIDEM FA           S29340950E028440910                                                                                 
+SAFREAENRT   NIDOR FA           S31050000E0180859100                                                                                
+SAFREAENRT   NOKOX FA           S33011423E019430334                                                                                 
+SAFREAENRT   NOPIP FA           S25453609E029023576                                                                                 
+SAFREAENRT   ODKER FA           S24082910E028050000                                                                                 
+SAFREAENRT   OKDEM FA           S31520560E026560623                                                                                 
+SAFREAENRT   OKLOK FA           S32482922E019223792                                                                                 
+SAFREAENRT   OKNOL FA           S32404717E018132881                                                                                 
+SAFREAENRT   OKNON FA           S31375903E026314901                                                                                 
+SAFREAENRT   OKPIT FA           S25274422E028443256                                                                                 
+SAFREAENRT   OKTED FA           S34131110E0193329100                                                                                
+SAFREAENRT   OKTEK FA           S27283555E028274816                                                                                 
+SAFREAENRT   OKTEX FA           S27350686E025542673                                                                                 
+SAFREAENRT   OLAVA FA           S26490339E028374470                                                                                 
+SAFREAENRT   ORKAN FA           S24322910E0265459100                                                                                
+SAFREAENRT   ORNUL FA           S31060066E028030046                                                                                 
+SAFREAENRT   OTALA FA           S31123754E023233002                                                                                 
+SAFREAENRT   OVALA FA           S33205310E0190459100                                                                                
+SAFREAENRT   PARIR FA           S33370000E019160000                                                                                 
+SAFREAENRT   PEDIL FA           S25393367E026513405                                                                                 
+SAFREAENRT   R1722 FA           S25503873E028132867                                                                                 
+SAFREAENRT   R1725 FA           S33591586E018363201                                                                                 
+SAFREAENRT   R1726 FA           S33573542E018360018                                                                                 
+SAFREAENRT   RAGUL FA           S26265435E027344389                                                                                 
+SAFREAENRT   RAV12 FA           S26120600E0282205100                                                                                
+SAFREAENRT   RD127 FA           S26142488E027521788                                                                                 
+SAFREAENRT   RD198 FA           S26154342E028265472                                                                                 
+SAFREAENRT   RD342 FA           S26174424E028015380                                                                                 
+SAFREAENRT   RD376 FA           S26183688E028092891                                                                                 
+SAFREAENRT   RDW18 FA           S26161219E028294439                                                                                 
+SAFREAENRT   RDW68 FA           S26145591E028021815                                                                                 
+SAFREAENRT   RDW87 FA           S26200912E028201156                                                                                 
+SAFREAENRT   RICHD FA           S30105035E030320395                                                                                 
+SAFREAENRT   RIV06 FA           S33451444E018281707                                                                                 
+SAFREAENRT   RIV12 FA           S33413535E018340439                                                                                 
+SAFREAENRT   RIV16 FA           S33411902E018394562                                                                                 
+SAFREAENRT   RIV20 FA           S33520632E018452270                                                                                 
+SAFREAENRT   RIV22 FA           S33381607E018453406                                                                                 
+SAFREAENRT   RIV57 FA           S33542474E018310471                                                                                 
+SAFREAENRT   RIV76 FA           S33332868E018414501                                                                                 
+SAFREAENRT   RUDAS FA           S24192310E0264405100                                                                                
+SAFREAENRT   SUDUS FA           S32560440E021100039                                                                                 
+SAFREAENRT   TETAN FA           S33394710E0192457100                                                                                
+SAFREAENRT   TETIK FA           S26341418E029382533                                                                                 
+SAFREAENRT   TETUS FA           S25313440E025382071                                                                                 
+SAFREAENRT   TEVAR FA           S27122137E027183324                                                                                 
+SAFREAENRT   TEXON FA           S25102310E028004200                                                                                 
+SAFREAENRT   TIBIS FA           S28481770E016373915                                                                                 
+SAFREAENRT   TIBUM FA           S30324296E029335368                                                                                 
+SAFREAENRT   UBTUD FA           S33061296E023082558                                                                                 
+SAFREAENRT   UBTUX FA           S31234188E026371633                                                                                 
+SAFREAENRT   UBVAT FA           S32464398E023000010                                                                                 
+SAFREAENRT   UNKAM FA           S30201140E027371434                                                                                 
+SAFREAENRT   UTEBA FA           S26571100E027021429                                                                                 
+SAFREAENRT   UTULI FA           S22110299E029272972                                                                                 
+SAFREAENRT   UVBIG FA           S32021353E027535884                                                                                 
+SAFREAENRT   VASUR FA           S25334676E027533587                                                                                 
+SAFREAENRT   VAVAN FA           S29110910E031163200                                                                                 
+SAFREAENRT   WESTE FA           S29434830E030523602                                                                                 
+SAFREAENRT   WK121 FA           S25573076E028265036                                                                                 
+SAFREAENRT   WK151 FA           S26004991E028292401                                                                                 
+SAFREAENRT   WK159 FA           S26041049E028281813                                                                                 
+SAFREAENRT   WK816 FA           S26000028E028212981                                                                                 
+SAFREAENRT   WKV03 FA           S25525829E028134587                                                                                 
+SAFREAENRT   WKV06 FA           S25525910E0281905100                                                                                
+SAFREAENRT   WKV08 FA           S25453266E028122452                                                                                 
+SAFREAENRT   WKV10 FA           S25590834E028145205                                                                                 
+SAFREAENRT   WKV11 FA           S25525874E028135532                                                                                 
+SAFREAENRT   WKV87 FA           S25570926E028143274                                                                                 
+SAFREAENRT   XALAD FA           S31204165E027213753                                                                                 
+SAFREAENRT   XOTOP FA           S27594866E027380653                                                                                 
+SAFRDB       AB    FA000317     S28370800E016284800                                                                                 
+SAFRDB       BH    FA000392     S33370010E0214757100                                                                                
+SAFRDB       ME    FA000255     S29251163E027335664                                                                                 
+SAFRDB       BM    FA000342     S28145921E028200104                                                                                 
+SAFRDB       BL    FA000380     S29101923E026175571                                                                                 
+SAFRDB       CB    FA000462     S33523406E018342384                                                                                 
+SAFRDB       CL    FA000275     S26053010E030054700                                                                                 
+SAFRDB       CW    FA000372     S32105900E0185318100                                                                                
+SAFRDB       CH    FA000402     S32452000E0254654100                                                                                
+SAFRDB       DH    FA000357     S28070000E029580000                                                                                 
+SAFRDB       ER    FA000345     S23445410E0273723100                                                                                
+SAFRDB       FB    FA000390     S28493900E0275408100                                                                                
+SAFRDB       GI    FA000430     S23193310E030405000                                                                                 
+SAFRDB       GC    FA000372     S25593351E028082404                                                                                 
+SAFRDB       JP    FA000402     S23535910E0304059100                                                                                
+SAFRDB       GE    FA000270     S34032638E019361170                                                                                 
+SAFRDB       GWN   FA000252     S29061940E030361236                                                                                 
+SAFRDB       GT    FA000282     S29074677E030344191                                                                                 
+SAFRDB       HS    FA000482     S28141310E0290621100                                                                                
+SAFRDB       HE    FA000400     S26010510E029375700                                                                                 
+SAFRDB       HL    FA000375     S28013600E0321623100                                                                                
+SAFRDB       HA    FA000265     S24201873E031020424                                                                                 
+SAFRDB       HZ    FA000257     S27133000E0225659100                                                                                
+SAFRDB       JF    FA000242     S29470300E025255000                                                                                 
+SAFRDB       JB    FA000202     S26024200E028155409                                                                                 
+SAFRDB       JN    FA000420     S26130960E028133060                                                                                 
+SAFRDB       KK    FA000267     S32430000E018341800                                                                                 
+SAFRDB       KM    FA000365     S28473176E024465172                                                                                 
+SAFRDB       KZ    FA000212     S29383887E017055207                                                                                 
+SAFRDB       KD    FA000280     S26504250E026423830                                                                                 
+SAFRDB       KS    FA000227     S27404400E0271713100                                                                                
+SAFRDB       PK    FA000405     S25230080E031063280                                                                                 
+SAFRDB       KUR   FA000352     S27273611E023245230                                                                                 
+SAFRDB       LY    FA000397     S28332232E029453910                                                                                 
+SAFRDB       LW    FA000345     S32585114E018085639                                                                                 
+SAFRDB       LA    FA000270     S26003720E027502230                                                                                 
+SAFRDB       LO    FA000457     S23030000E029520000                                                                                 
+SAFRDB       SI    FA000200     S31165910E029310000                                                                                 
+SAFRDB       MH    FA000305     S25442915E025342998                                                                                 
+SAFRDB       MAJ   FA000512     S27033542E029443870                                                                                 
+SAFRDB       LS    FA000485     S23093529E029433097                                                                                 
+SAFRDB       LU    FA000472     S23093720E029354476                                                                                 
+SAFRDB       TSO   FA000450     S25262500E031403000                                                                                 
+SAFRDB       MP    FA000297     S24322900E0305209100                                                                                
+SAFRDB       MU    FA000317     S29180937E027302032                                                                                 
+SAFRDB       NMT   FA000385     S26332510E0280156100                                                                                
+SAFRDB       UT    FA000335     S31325200E0284346100                                                                                
+SAFRDB       UA    FA000227     S31332910E0284206100                                                                                
+SAFRDB       NS    FA000480     S25292659E030550865                                                                                 
+SAFRDB       BTF   FA000519     S29020910E026092000                                                                                 
+SAFRDB       NC    FA000415     S27461300E0295939100                                                                                
+SAFRDB       NY    FA000465     S24413005E028213622                                                                                 
+SAFRDB       OH    FA000367     S33360600E0221108100                                                                                
+SAFRDB       OB    FA000427     S34354424E020170544                                                                                 
+SAFRDB       PW    FA000272     S23550256E031091421                                                                                 
+SAFRDB       PRF   FA000525     S26562358E030461244                                                                                 
+SAFRDB       PU    FA000407     S29394060E030243516                                                                                 
+SAFRDB       PZ    FA000257     S29422028E030265806                                                                                 
+SAFRDB       ORI   FA000442     S29333460E030265542                                                                                 
+SAFRDB       OBI   FA000280     S29363678E030234201                                                                                 
+SAFRDB       PI    FA000425     S23560010E0292806100                                                                                
+SAFRDB       PLB   FA000215     S25220414E027115079                                                                                 
+SAFRDB       PLG   FA000480     S25234414E027071859                                                                                 
+SAFRDB       PB    FA000410     S23515860E029270253                                                                                 
+SAFRDB       PGL   FA000382     S27235416E031391201                                                                                 
+SAFRDB       RDW   FA000287     S26160274E028094581                                                                                 
+SAFRDB       RD    FA000307     S26185081E028052344                                                                                 
+SAFRDB       RA    FA000337     S26252632E028154986                                                                                 
+SAFRDB       RI    FA000465     S28410520E032080927                                                                                 
+SAFRDB       RB    FA000337     S28453662E032043831                                                                                 
+SAFRDB       MC    FA000357     S25381370E028220083                                                                                 
+SAFRDB       RG    FA000452     S25385910E0271659100                                                                                
+SAFRDB       SC    FA000406     S26312100E0291243100                                                                                
+SAFRDB       SU    FA000242     S26312310E029092900                                                                                 
+SAFRDB       SS    FA000272     S27403310E023005000                                                                                 
+SAFRDB       SZ    FA000233     S24584900E031355600                                                                                 
+SAFRDB       TB    FA000397     S24360235E027245882                                                                                 
+SAFRDB       TOY   FA000285     S23042910E0301851100                                                                                
+SAFRDB       THO   FA000325     S22580277E030285916                                                                                 
+SAFRDB       TSH   FA000252     S22303300E030565700                                                                                 
+SAFRDB       TU    FA000352     S26431771E029212870                                                                                 
+SAFRDB       TZ    FA000212     S23480824E030213903                                                                                 
+SAFRDB       UL    FA000422     S28205590E031234010                                                                                 
+SAFRDB       UD    FA000267     S28181510E031255050                                                                                 
+SAFRDB       SMH   FA000457     S28140717E031285381                                                                                 
+SAFRDB       UN    FA000334     S28284246E021181094                                                                                 
+SAFRDB       VM    FA000417     S22272526E029181563                                                                                 
+SAFRDB       VV    FA000460     S26342910E0275729100                                                                                
+SAFRDB       VB    FA000425     S26590301E024433928                                                                                 
+SAFRDB       VHD   FA000230     S27471100E030424600                                                                                 
+SAFRDB       VHL   FA000350     S27470910E0304712100                                                                                
+SAFRDB       WL    FA000315     S25510796E028133345                                                                                 
+SAFRDB       WKP   FA000360     S30120099E017155765                                                                                 
+SAFRDB       WY    FA000247     S33245010E019111285                                                                                 
+SAFRDB       WB    FA000257     S25392110E028175700                                                                                 
+SAFRDB       WR    FA000230     S25391210E0281432100                                                                                
+SAFRDB       WC    FA000335     S33394710E019250000                                                                                 
+SAFRD        AGV   FA011670V    S29285110E018334500                                                                                 
+SAFRD        BLV   FA011410V    S29060180E026180237                                                                                 
+SAFRD        MEV   FA011430V    S25472735E028334081                                                                                 
+SAFRD        BDV   FA011310V    S30575393E026192188                                                                                 
+SAFRD        CTV   FA011570V    S33581032E018361809                                                                                 
+SAFRD        ERV   FA011630V    S23373079E027575170                                                                                 
+SAFRD        GAV   FA011550V    S26305344E027403534                                                                                 
+SAFRD        GWV   FA011790V    S22144429E029243716                                                                                 
+SAFRD        GYV   FA011350V    S29072476E030351022                                                                                 
+SAFRD        HBV   FA011210V    S25403267E027495722                                                                                 
+SAFRD        HGV   FA011670V    S26414850E028165939                                                                                 
+SAFRD        HSV   FA011400V    S24204993E031025139                                                                                 
+SAFRD        JSV   FA011520V    S26092563E028135170                                                                                 
+SAFRD        KYV   FA011320V    S28475981E024453732                                                                                 
+SAFRD        LYV   FA011650V    S28361611E029413905                                                                                 
+SAFRD        LWV   FA011700V    S32585828E018094994                                                                                 
+SAFRD        LIV   FA011740V    S25565614E027544886                                                                                 
+SAFRD        MMV   FA011290V    S25493321E025320619                                                                                 
+SAFRD        LTV   FA011500V    S23093055E029411118                                                                                 
+SAFRD        MZV   FA011720V    S29300139E027322627                                                                                 
+SAFRD        NSV   FA011620V    S25295366E030545642                                                                                 
+SAFRD        NVV   FA011610V    S31224710E0190415100                                                                                
+SAFRD        OBV   FA011540V    S34332203E020144970                                                                                 
+SAFRD        PHV   FA011530V    S23540273E031090709                                                                                 
+SAFRD        PMV   FA011790V    S29385213E030240128                                                                                 
+SAFRD        PNV   FA011260V    S25234503E027072174                                                                                 
+SAFRD        PPV   FA011450V    S23502335E029273804                                                                                 
+SAFRD        PSV   FA011580V    S26402310E0270535100                                                                                
+SAFRD        RAV   FA011770V    S26144342E028091626                                                                                 
+SAFRD        RBV   FA011300V    S28442646E032053675                                                                                 
+SAFRD        RIV   FA011760V    S33475845E018215210                                                                                 
+SAFRD        SVV   FA011300V    S33145743E018284125                                                                                 
+SAFRD        STV   FA011600V    S26414819E028520286                                                                                 
+SAFRD        SLV   FA011330V    S32270040E020372050                                                                                 
+SAFRD        SWV   FA011440V    S34043710E020323500                                                                                 
+SAFRD        UCV   FA011470V    S28243600E024193200                                                                                 
+SAFRD        UPV   FA011650V    S28240612E021153734                                                                                 
+SAFRD        VWV   FA011370V    S31234810E023063200                                                                                 
+SAFRD        WKV   FA011690V    S25500004E028131331                                                                                 
+SAFRD        WMV   FA011640V    S28000528E026394013                                                                                 
+SAFRD        WIV   FA011330V    S25494641E029114141                                                                                 
+SAFRD        CT    FA011030 D   S33590363E018363423                                                                                 
+SAFRD        KS    FA010910 D   S33574533E018360814                                                                                 
+SAFRD        WKI   FA011130 D   S25483121E028130887                                                                                 
+SAFRD        AGV   FA011670 D   S29285110E018334500                                                                                 
+SAFRD        BLV   FA011410 D   S29060180E026180237                                                                                 
+SAFRD        MEV   FA011430 D   S25472735E028334081                                                                                 
+SAFRD        CTV   FA011570 D   S33581032E018361809                                                                                 
+SAFRD        ERV   FA011630 D   S23373200E027572000                                                                                 
+SAFRD        HSV   FA011400 D   S24204993E031025139                                                                                 
+SAFRD        JSV   FA011520 D   S26092563E028135170                                                                                 
+SAFRD        KYV   FA011320 D   S28475981E024453732                                                                                 
+SAFRD        LWV   FA011700 D   S32585828E018094994                                                                                 
+SAFRD        LIV   FA011740 D   S25565614E027544886                                                                                 
+SAFRD        MMV   FA011290 D   S25493321E025320619                                                                                 
+SAFRD        LTV   FA011500 D   S23093055E029411118                                                                                 
+SAFRD        MZV   FA011720 D   S29300139E027322627                                                                                 
+SAFRD        NSV   FA011620 D   S25295366E030545642                                                                                 
+SAFRD        OBV   FA011540 D   S34332203E020144970                                                                                 
+SAFRD        PMV   FA011790 D   S29385213E030240128                                                                                 
+SAFRD        PNV   FA011260 D   S25234503E027072174                                                                                 
+SAFRD        PPV   FA011450 D   S23502335E029273804                                                                                 
+SAFRD        PSV   FA011580 D   S26402310E0270535100                                                                                
+SAFRD        RAV   FA011770 D   S26144342E028091626                                                                                 
+SAFRD        RBV   FA011300 D   S28442646E032053675                                                                                 
+SAFRD        RIV   FA011760 D   S33475845E018215210                                                                                 
+SAFRD        UPV   FA011650 D   S28240612E021153734                                                                                 
+SAFRD        WKV   FA011690 D   S25500004E028131331                                                                                 
+SAFRD        WMV   FA011640 D   S28000528E026394013                                                                                 
+SAFRD        UL    FA011540 D   S28185420E031251400                                                                                 
+SAFRER       W81         0010BDV  FAD       O                                      14500     19500                                  
+SAFRER       W81         0020CH   FAD       O                             1110     14500     19500                                  
+SAFRER       W81         0030PEV    D       O                             0748     14500     19500                                  
+SAFRER       W95         0060BLV  FAD       O                                      10500     19500                                  
+SAFRER       W95         0070EGSOKFAEA      O                             0450     10500     19500                                  
+SAFRER       W95         0080NERESFAEA      O                             1523     14500     19500                                  
+SAFRER       W95         0090VWV  FAD       O                             0181     14500     19500                                  
+SAFRER       W95         0100GAV  FAD       O                                      14500     19500                                  
+SAFRER       W95         0110WMV  FAD       O                             1044     14500     19500                                  
+SAFRER       UZ28        0040EGVINFAEA      O                                      20000     60000                                  
+SAFRER       UZ28        0050SUDUSFAEA      O                             0657     20000     60000                                  
+SAFRER       W97F        0010BLV  FAD       O                                      07600     60000                                  
+SAFRER       W97F        0020IBRISFAEA      O                             0232     07600     60000                                  
+SAFRER       B534        0010CL   FAD       O                                      12500     19500                                  
+SAFRER       B534        0020EVAMAFDEA      O                             0399     12500     19500                                  
+SAFRER       G653        0010WIV  FAD       O                                      12500     19500                                  
+SAFRER       G653        0020CL   FAD       O                             0512     12500     19500                                  
+SAFRER       G653        0030GIDELFAEA      O                             0375     12500     19500                                  
+SAFRER       G653        0040ORNADFQEA      O                             0639     12500     20500                                  
+SAFRER       G653        0050JSV  FAD       O                                      12500     19500                                  
+SAFRER       G653        0060HBV  FAD       O                             0360     12500     19500                                  
+SAFRER       G653        0070NESEKFAEA      O                             0765     09500     19500                                  
+SAFRER       G653        0080ETOSAFAEA      O                             0373     07000     24500                                  
+SAFRER       G653        0090GBV  FBD       O                             0127     07000     24500                                  
+SAFRER       W91D        0010CTV  FAD       O                                      07500     11500                                  
+SAFRER       W91D        0020KODESFAEA      O                             0501     07500     11500                                  
+SAFRER       W91D        0030CW   FAD       O                             0581     07500     11500                                  
+SAFRER       A405        0010KYV  FAD       O                                      10500     19500                                  
+SAFRER       A405        0020EGRUPFAEA      O                             1622     10500     19500                                  
+SAFRER       A405        0030VWV  FAD       O                             0158     14500     19500                                  
+SAFRER       A405        0040SLV  FAD       O                             1416     14500     19500                                  
+SAFRER       A405        0050WY   FAD       O                             0926     14500     19500                                  
+SAFRER       A405        0060CTV  FAD       O                             0442     14500     19500                                  
+SAFRER       A405        0070RIV  FAD       O                             0157     14500     19500                                  
+SAFRER       A405        0080OKDOG  EA      O                             1740     14500     19500                                  
+SAFRER       A405        0090EKBEXFAEA      O                                      14500     19500                                  
+SAFRER       A405        0100GAV  FAD       O                             1349     14500     19500                                  
+SAFRER       A405        0110HBV  FAD       O                             0511     11500     19500                                  
+SAFRER       A405        0120GABNAFAEA      O                             0990     11500     19500                                  
+SAFRER       A405        0130GWV  FAD       O                             1244     11500     19500                                  
+SAFRER       A405        0140UTULIFAEA      O                             0046     12500     24500                                  
+SAFRER       A405        0150VMV  FVD       O                             1497     12500     24500                                  
+SAFRER       W91F        0010CW   FAD       O                                      05600     60000                                  
+SAFRER       W91F        0020NIDORFAEA      O                             0761     05600     60000                                  
+SAFRER       W91F        0030NEVASFAEA      O                             1009     05600     60000                                  
+SAFRER       B529        0030EPRETFAEA      O                                      05500     14500                                  
+SAFRER       B529        0040VMA    D       O                             0602     05500     14500                                  
+SAFRER       A402        0040NETIKFAEA      O                             0501     07500     19500                                  
+SAFRER       A402        0050OKNAS  EA      O                             0551     07500     19500                                  
+SAFRER       A402        0110GE   FAD       O                             1381     14500     19500                                  
+SAFRER       G853        0020PMV  FAD       O                             0347     10500     19500                                  
+SAFRER       G853        0030LYV  FAD       O                             0728     10500     19500                                  
+SAFRER       G853        0040WDV  FAEA      O                             0596     10500     19500                                  
+SAFRER       G853        0050HGV  FAD       O                             0779     11000     19500                                  
+SAFRER       G853        0060HBV  FAD       O                             0659     11000     19500                                  
+SAFRER       G853        0090RUDASFAEA      O                             0449     09500     24500                                  
+SAFRER       G10F        0020VAVANFAEA      O                             0501     07500     19500                                  
+SAFRER       G655D       0010HBV  FAD       O                                      10500     19500                                  
+SAFRER       G655D       0020ODKERFAEA      O                             0931     10500     19500                                  
+SAFRER       G655D       0030TAVLAFBEA      O                             0919     10500     19500                                  
+SAFRER       W94F        0010MZV  FAD       O                                      12300     60000                                  
+SAFRER       W94F        0020UNKAMFAEA      O                             0504     12300     60000                                  
+SAFRER       W94F        0030EPNOSFAEA      O                             1028     12300     60000                                  
+SAFRER       W94F        0040ELV    D       O                             0597     12300     60000                                  
+SAFRER       B529F       0010EPRETFAEA      O                                      07500     24500                                  
+SAFRER       B529F       0020RBV  FAD       O                             1144     07500     24500                                  
+SAFRER       G10D        0010GERAXFAEA      O                                      07100     20500                                  
+SAFRER       G10D        0020VMS  FDD       O                             0484     07100     20500                                  
+SAFRER       W88D        0020VWV  FAD       O                             1610     10500     19500                                  
+SAFRER       G853D       0010HBV  FAD       O                                      10500     19500                                  
+SAFRER       G853D       0020ORKANFAEA      O                             0844     10500     19500                                  
+SAFRER       G853D       0030RUDASFAEA      O                             0164     10500     19500                                  
+SAFRER       G465-       0010JSV  FAD       O                                      10500     19500                                  
+SAFRER       G465-       0020WIV  FAD       O                             0556     10500     19500                                  
+SAFRER       G657F       0010MU   FAD       O                                      11200     60000                                  
+SAFRER       G657F       0020WDV  FAEA      O                             1177     11200     60000                                  
+SAFRER       G657F       0030OKSADFDEA      O                             1143     10700     20500                                  
+SAFRER       G745        0010NSV  FAD       O                                      14500     19500                                  
+SAFRER       G745        0020WIV  FAD       O                             0952     14500     19500                                  
+SAFRER       R987        0010NVV  FAD       O                                      10500     19500                                  
+SAFRER       R987        0020WY   FAD       O                             1223     10500     19500                                  
+SAFRER       UZ15        0130GEROXFAEA      O                                      20000     60000                                  
+SAFRER       UZ15        0140STV  FAD       O                             0411     20000     60000                                  
+SAFRER       UM731       0220RUDASFAEA      O                             3027     24500     46000                                  
+SAFRER       UW88        0110VWV  FAD       O                             1610     20000     46000                                  
+SAFRER       UZ19        0100GEROXFAEA      O                                      20000     60000                                  
+SAFRER       UZ19        0110OLAVAFAEA      O                             0354     20000     60000                                  
+SAFRER       UZ5         0220IMLUKFAEA      O                                      20000     60000                                  
+SAFRER       UZ5         0230ERBIKFAEA      O                             0150     20000     60000                                  
+SAFRER       UZ5         0240GESOXFAEA      O                             0150     20000     60000                                  
+SAFRER       UZ5         0250ETMIGFAEA      O                             0212     20000     60000                                  
+SAFRER       UZ5         0260IMGEVFAEA      O                             1804     20000     60000                                  
+SAFRER       UZ5         0300GESEPFAEA      O                                      20000     60000                                  
+SAFRER       UZ5         0310ITKITFAEA      O                             0330     20000     60000                                  
+SAFRER       UZ5         0320OKTEKFAEA      O                                      20000     60000                                  
+SAFRER       UZ5         0330STV  FAD       O                             0516     20000     60000                                  
+SAFRER       UZ4         0140EGSANFAEA      O                                      20000     60000                                  
+SAFRER       UZ4         0150NETELFAEA      O                             0457     20000     60000                                  
+SAFRER       UZ4         0160ESTEDFAEA      O                             0377     20000     60000                                  
+SAFRER       UZ4         0170ERDERFAEA      O                                      20000     60000                                  
+SAFRER       UZ4         0180UBVATFAEA      O                             0160     20000     60000                                  
+SAFRER       UZ4         0190KATORFAEA      O                             0462     20000     60000                                  
+SAFRER       UZ18        0230NEVENFAEA      O                                      20000     60000                                  
+SAFRER       UZ18        0240OLAVAFAEA      O                             0506     20000     60000                                  
+SAFRER       UZ7         0160EPVOLFAEA      O                             0797     20000     60000                                  
+SAFRER       UZ7         0170NESAGFAEA      O                             0631     20000     60000                                  
+SAFRER       UZ7         0180OKPITFAEA      O                             0315     20000     60000                                  
+SAFRER       UZ14        0090GENOLFAEA      O                             0407     20000     60000                                  
+SAFRER       UW81        0010BDV  FAD       O                                      20000     46000                                  
+SAFRER       UW81        0020CH   FAD       O                             1110     20000     46000                                  
+SAFRER       UW81        0030PEV    D       O                             0748     20000     46000                                  
+SAFRER       UZ29        0010GYV  FAD       O                                      20000     60000                                  
+SAFRER       UZ29        0020BEBASFAEA      O                             0935     20000     60000                                  
+SAFRER       UZ29        0030EPSAKFAEA      O                             0445     20000     60000                                  
+SAFRER       UZ29        0040STV  FAD       O                             0340     20000     60000                                  
+SAFRER       UZ6         0060ERDIMFAEA      O                                      20000     60000                                  
+SAFRER       UZ6         0070EXANOFAEA      O                             0455     20000     60000                                  
+SAFRER       UZ6         0080RAGULFAEA      O                             0410     20000     60000                                  
+SAFRER       UQ8         0010EGMOGFAEA      O                                      20000     60000                                  
+SAFRER       UQ8         0020BEKUGFAEA      O                             0152     20000     60000                                  
+SAFRER       UQ8         0030ITPASFAEA      O                             0120     20000     60000                                  
+SAFRER       UQ8         0040EGSILFAEA      O                                      20000     60000                                  
+SAFRER       UQ8         0050UBTUXFAEA      O                             0302     20000     60000                                  
+SAFRER       UQ8         0060OKNONFAEA      O                             0150     20000     60000                                  
+SAFRER       UQ12        0010BEKUGFAEA      O                                      20000     60000                                  
+SAFRER       UQ12        0020ERBAPFAEA      O                             0149     20000     60000                                  
+SAFRER       UQ12        0030OKDEMFAEA      O                             0163     20000     60000                                  
+SAFRER       UQ12        0040DURBAFAEA      O                                      20000     60000                                  
+SAFRER       UQ12        0050ITNOKFAEA      O                             0300     20000     60000                                  
+SAFRER       UQ12        0060EPLUKFAEA      O                             0150     20000     60000                                  
+SAFRER       UQ12        0070EVILIFAEA      O                             0150     20000     60000                                  
+SAFRER       UQ12        0080EVAGAFAEA      O                                      20000     60000                                  
+SAFRER       UQ12        0090UBTUDFAEA      O                             0277     20000     60000                                  
+SAFRER       UQ12        0100EXELOFAEA      O                             0392     20000     60000                                  
+SAFRER       UQ12        0110EVUKAFAEA      O                             1166     20000     60000                                  
+SAFRER       UQ12        0120OKTEDFAEA      O                             0357     20000     60000                                  
+SAFRER       UZ23        0160ETULIFAEA      O                                      20000     60000                                  
+SAFRER       UZ23        0170VASURFAEA      O                             0483     20000     60000                                  
+SAFRER       UZ2         0060ESTEDFAEA      O                                      20000     60000                                  
+SAFRER       UZ2         0070TEVARFAEA      O                             0307     20000     60000                                  
+SAFRER       UZ16        0100HGV  FAD       O                                      20000     60000                                  
+SAFRER       UZ16        0110NEVENFAEA      O                             0488     20000     60000                                  
+SAFRER       UZ9         0060STV  FAD       O                                      20000     60000                                  
+SAFRER       UZ9         0070TETIKFAEA      O                             0422     20000     60000                                  
+SAFRER       UG853       0070PMV  FAD       O                             0347     20000     46000                                  
+SAFRER       UG853       0080LYV  FAD       O                             0728     20000     46000                                  
+SAFRER       UG853       0090WDV  FAEA      O                             0596     20000     46000                                  
+SAFRER       UG853       0100HGV  FAD       O                             0779     20000     46000                                  
+SAFRER       UG853       0200HBV  FAD       O                                      20000     46000                                  
+SAFRER       UG853       0210ORKANFAEA      O                             0844     20000     46000                                  
+SAFRER       UG853       0220RUDASFAEA      O                             0164     20000     46000                                  
+SAFRER       UG465       0110JSV  FAD       O                                      20000     46000                                  
+SAFRER       UG465       0120GAV  FAD       O                             0368     20000     46000                                  
+SAFRER       UG465       0130OKTEXFAEA      O                             1144     20000     46000                                  
+SAFRER       UG465       0140UCV  FAD       O                             0974     20000     46000                                  
+SAFRER       UG465       0150UPV  FAD       O                             1619     20000     46000                                  
+SAFRER       UZ27        0150EVIPIFAEA      O                                      20000     60000                                  
+SAFRER       UZ27        0160TAVLAFBEA      O                             1369     20000     60000                                  
+SAFRER       UL435       0050NESEKFAEA      O                             0501     20000     60000                                  
+SAFRER       UL435       0190HBV  FAD       O                                      20000     60000                                  
+SAFRER       UL435       0200JSV  FAD       O                             0360     20000     60000                                  
+SAFRER       UZ10        0080ETOSAFAEA      O                                      20000     60000                                  
+SAFRER       UZ10        0090NEVESFAEA      O                             0678     20000     60000                                  
+SAFRER       UZ17        0080GEROXFAEA      O                                      20000     60000                                  
+SAFRER       UZ17        0090HGV  FAD       O                             0503     20000     60000                                  
+SAFRER       UZ13        0150EGPULFAEA      O                             0536     20000     60000                                  
+SAFRER       UZ13        0160ITKITFAEA      O                             0320     20000     60000                                  
+SAFRER       UZ13        0170EPSIDFAEA      O                             0199     20000     60000                                  
+SAFRER       UZ13        0180GENOLFAEA      O                             0891     20000     60000                                  
+SAFRER       UZ13        0190GGV    D       O                             0841     20000     60000                                  
+SAFRER       UZ13        0200ERPOLFAEA      O                             0112     20000     60000                                  
+SAFRER       UZ13        0210EVUKAFAEA      O                             0971     20000     60000                                  
+SAFRER       UW95        0010BLV  FAD       O                                      20000     46000                                  
+SAFRER       UW95        0020EGSOKFAEA      O                             0450     20000     46000                                  
+SAFRER       UW95        0030NERESFAEA      O                             1523     20000     46000                                  
+SAFRER       UW95        0040VWV  FAD       O                             0181     20000     46000                                  
+SAFRER       UW95        0100GAV  FAD       O                                      20000     46000                                  
+SAFRER       UW95        0110WMV  FAD       O                             1044     20000     46000                                  
+SAFRER       UQ46        0010BLV  FAD       O                                      20000     60000                                  
+SAFRER       UQ46        0020IBTEKFAEA      O                             0679     20000     60000                                  
+SAFRER       UQ46        0030OTALAFAEA      O                                      20000     60000                                  
+SAFRER       UQ46        0040SUDUSFAEA      O                             1534     20000     60000                                  
+SAFRER       UW61        0010BLV  FAD       O                                      20000     46000                                  
+SAFRER       UW61        0020MZV  FAD       O                             0692     20000     46000                                  
+SAFRER       UW61        0030NIDEMFAEA      O                             0626     20000     46000                                  
+SAFRER       UW61        0040PMV  FAD       O                             0870     20000     46000                                  
+SAFRER       UL375       0020RIV  FAD       O                             2011     20000     60000                                  
+SAFRER       UN185       0010IMLEDFAEA      O                                      20000     60000                                  
+SAFRER       UN185       0020BONON  EA      O                             1302     20000     60000                                  
+SAFRER       UZ3         0160OKNONFAEA      O                                      20000     60000                                  
+SAFRER       UZ3         0170EGLUDFAEA      O                             0150     20000     60000                                  
+SAFRER       UZ3         0180EPTUSFAEA      O                             1230     20000     60000                                  
+SAFRER       UZ3         0190EPTAMFAEA      O                             0150     20000     60000                                  
+SAFRER       UZ3         0200IBVIKFAEA      O                             0196     20000     60000                                  
+SAFRER       UZ3         0210GE   FAD       O                                      20000     60000                                  
+SAFRER       UZ3         0220EGVINFAEA      O                             0378     20000     60000                                  
+SAFRER       UZ3         0230ETKALFAEA      O                             1285     20000     60000                                  
+SAFRER       UZ3         0240UBVATFAEA      O                             0236     20000     60000                                  
+SAFRER       UZ3         0250IMRABFAEA      O                                      20000     60000                                  
+SAFRER       UZ3         0260ERBIKFAEA      O                             0159     20000     60000                                  
+SAFRER       UZ3         0270XALADFAEA      O                             0150     20000     60000                                  
+SAFRER       UZ12        0030NSV  FAD       O                                      20000     60000                                  
+SAFRER       UZ12        0040EPNISFAEA      O                             0766     20000     60000                                  
+SAFRER       UZ12        0050WIV  FAD       O                             0268     20000     60000                                  
+SAFRER       UG655       0180HBV  FAD       O                                      20000     46000                                  
+SAFRER       UG655       0190ODKERFAEA      O                             0931     20000     46000                                  
+SAFRER       UG655       0200TAVLAFBEA      O                             0919     20000     46000                                  
+SAFRER       UG655       0210HGV  FAD       O                                      20000     46000                                  
+SAFRER       UG655       0220MZV  FAD       O                             1729     20000     46000                                  
+SAFRER       B534-       0010CL   FAD       O                                      20000     46000                                  
+SAFRER       B534-       0020EVAMAFDEA      O                             0399     20000     46000                                  
+SAFRER       UG653       0010HBV  FAD       O                                      20000     46000                                  
+SAFRER       UG653       0020WIV  FAD       O                             0742     20000     46000                                  
+SAFRER       UG653       0030CL   FAD       O                             0512     20000     46000                                  
+SAFRER       UG653       0040GIDELFAEA      O                             0375     20000     46000                                  
+SAFRER       UG653       0050ORNADFQEA      O                             0639     20500     60000                                  
+SAFRER       UA405       0010CTV  FAD       O                                      20000     60000                                  
+SAFRER       UA405       0020RIV  FAD       O                             0157     20000     60000                                  
+SAFRER       UA405       0010CTV  FAD       O                                      20000     46000                                  
+SAFRER       UA405       0020WY   FAD       O                             0442     20000     46000                                  
+SAFRER       UA405       0030SLV  FAD       O                             0926     20000     46000                                  
+SAFRER       UA405       0040VWV  FAD       O                             1416     20000     46000                                  
+SAFRER       UA405       0050EGRUPFAEA      O                             0158     20000     46000                                  
+SAFRER       UA405       0060KYV  FAD       O                             1622     20000     46000                                  
+SAFRER       UA405       0070EKBEXFAEA      O                                      20000     46000                                  
+SAFRER       UA405       0080GAV  FAD       O                             1349     20000     46000                                  
+SAFRER       UA405       0090HBV  FAD       O                             0511     20000     46000                                  
+SAFRER       UA405       0100GABNAFAEA      O                             0990     20000     46000                                  
+SAFRER       UA405       0110GWV  FAD       O                             1244     20000     46000                                  
+SAFRER       UA405       0220RIV  FAD       O                             1740     24500     46000                                  
+SAFRER       UZ11        0080GWV  FAD       O                                      20000     60000                                  
+SAFRER       UZ11        0090NESAGFAEA      O                             1651     20000     60000                                  
+SAFRER       UB529       0080RBV  FAD       O                                      24500     46000                                  
+SAFRER       UB529       0090EPRETFAEA      O                             1144     24500     46000                                  
+SAFRER       UB529       0100VMA    D       O                             0602     14500     40000                                  
+SAFRER       UA402       0040NETIKFAEA      O                             0501     20000     46000                                  
+SAFRER       UA402       0050OKNAS  EA      O                             0551     20000     46000                                  
+SAFRER       UA402       0110GE   FAD       O                             1381     20000     46000                                  
+SAFRER       UG10        0020VAVANFAEA      O                             0501     20000     46000                                  
+SAFRER       UG10        0090GERAXFAEA      O                                      20500     60000                                  
+SAFRER       UG10        0100VMS  FDD       O                             0484     20500     60000                                  
+SAFRER       UQ10        0010EGNOMFAEA      O                                      20000     60000                                  
+SAFRER       UQ10        0020NOKOXFAEA      O                             1883     20000     60000                                  
+SAFRER       UQ10        0030WY   FAD       O                             0356     20000     60000                                  
+SAFRER       UQ10        0040RAGULFAEA      O                                      20000     60000                                  
+SAFRER       UQ10        0050UTEBAFAEA      O                             0420     20000     60000                                  
+SAFRER       UQ22        0010EGPOPFAEA      O                                      20000     60000                                  
+SAFRER       UQ22        0020EXANOFAEA      O                             0416     20000     60000                                  
+SAFRER       UQ22        0030GEPESFAEA      O                             1169     20000     60000                                  
+SAFRER       UQ50        0010ESTAGFAEA      O                                      20000     60000                                  
+SAFRER       UQ50        0020EGPULFAEA      O                             1675     20000     60000                                  
+SAFRER       UQ50        0030GENOXFAEA      O                             0343     20000     60000                                  
+SAFRER       UN186       0040ETKOTFAEA      O                             1232     20000     60000                                  
+SAFRER       UN186       0050OKNOLFAEA      O                             1288     20000     60000                                  
+SAFRER       UQ29        0020ESTAGFAEA      O                             1194     20000     60000                                  
+SAFRER       UQ29        0030IMGOSFAEA      O                             0454     20000     60000                                  
+SAFRER       UQ31        0020GENOXFAEA      O                             0864     20000     60000                                  
+SAFRER       UQ31        0030ITMAM  EA      O                             1150     20000     60000                                  
+SAFRER       UQ31        0050NEVIRFAEA      O                             0951     20000     60000                                  
+SAFRER       UW94        0020UNKAMFAEA      O                             1625     20000     46000                                  
+SAFRER       UQ7         0010ORNULFAEA      O                                      20000     60000                                  
+SAFRER       UQ7         0020ETOLAFAEA      O                             0125     20000     60000                                  
+SAFRER       UQ7         0030EPLUKFAEA      O                             0124     20000     60000                                  
+SAFRER       UQ7         0040EXIRAFAEA      O                             0120     20000     60000                                  
+SAFRER       UQ7         0050UVBIGFAEA      O                             0200     20000     60000                                  
+SAFRER       UQ7         0060GEROXFAEA      O                                      20000     60000                                  
+SAFRER       UQ7         0070EVEKAFAEA      O                             0364     20000     60000                                  
+SAFRER       UQ7         0080IBTOVFAEA      O                             1742     20000     60000                                  
+SAFRER       UN188       0010OKNOLFAEA      O                                      20000     60000                                  
+SAFRER       UN188       0020EPNAD  EA      O                             1367     20000     60000                                  
+SAFRER       UN188       0030TIBISFAEA      O                             1101     20000     60000                                  
+SAFRER       UN181       0070PEDILFAEA      O                                      20500     60000                                  
+SAFRER       UN181       0080TETUSFAEA      O                             0666     20500     60000                                  
+SAFRER       UN181       0090UBVEMFBEA      O                             0303     24500     46000                                  
+SAFRER       UQ20        0010EPSAKFAEA      O                                      20000     60000                                  
+SAFRER       UQ20        0020EVARIFAEA      O                             0557     20000     60000                                  
+SAFRER       UQ20        0030ESVIRFAEA      O                             0479     20000     60000                                  
+SAFRER       UQ20        0040RBV  FAD       O                             0774     20000     60000                                  
+SAFRER       UQ2         0010EPSEKFAEA      O                                      20000     60000                                  
+SAFRER       UQ2         0020EXALAFAEA      O                             1647     20000     60000                                  
+SAFRER       UG465       0010EPSEKFAEA      O                                      20000     46000                                  
+SAFRER       UG465       0020PHV  FAD       O                             0351     20000     46000                                  
+SAFRER       UQ9         0010EPTAMFAEA      O                                      20000     60000                                  
+SAFRER       UQ9         0020GERIDFAEA      O                             0150     20000     60000                                  
+SAFRER       UQ9         0030IMSADFAEA      O                             0154     20000     60000                                  
+SAFRER       UQ9         0040ETODIFAEA      O                                      20000     60000                                  
+SAFRER       UQ9         0050XOTOPFAEA      O                             2350     20000     60000                                  
+SAFRER       UQ9         0060NEVENFAEA      O                             0379     20000     60000                                  
+SAFRER       UQ30        0010ERBUTFAEA      O                                      20000     60000                                  
+SAFRER       UQ30        0020UVBIGFAEA      O                             0699     20000     60000                                  
+SAFRER       UQ30        0030GESEPFAEA      O                             0864     20000     60000                                  
+SAFRER       UQ3         0030ITSAVFAEA      O                             0803     20000     60000                                  
+SAFRER       UQ3         0040EXOBIFAEA      O                             0306     20000     60000                                  
+SAFRER       UQ5         0030RBV  FAD       O                             0635     20000     60000                                  
+SAFRER       UQ19        0010ETBUXFAEA      O                                      20000     60000                                  
+SAFRER       UQ19        0020PEDILFAEA      O                             0353     20000     60000                                  
+SAFRER       UQ23        0010OKLOKFAEA      O                                      20000     60000                                  
+SAFRER       UQ23        0020ETKIDFAEA      O                             1464     20000     60000                                  
+SAFRER       UQ23        0030UPV  FAD       O                             1354     20000     60000                                  
+SAFRER       UZ8         0010ETMALFAEA      O                                      20000     60000                                  
+SAFRER       UZ8         0020RBV  FAD       O                             1145     20000     60000                                  
+SAFRER       UB540       0020ETMITFAEA      O                             1234     24500     46000                                  
+SAFRER       UB540       0030HBV  FAD       O                             1483     20000     46000                                  
+SAFRER       UQ24        0010ETOSAFAEA      O                                      20000     60000                                  
+SAFRER       UQ24        0020EVOPOFAEA      O                             0700     20000     60000                                  
+SAFRER       UQ24        0030VASURFAEA      O                             0435     20000     60000                                  
+SAFRER       UG653       0010ETOSAFAEA      O                                      24500     46000                                  
+SAFRER       UG653       0020GBV  FBD       O                             0127     24500     46000                                  
+SAFRER       UG653       0010ETOSAFAEA      O                                      24500     46000                                  
+SAFRER       UG653       0020NESEKFAEA      O                             0373     24500     46000                                  
+SAFRER       UQ1         0010NESANFAEA      O                                      20000     60000                                  
+SAFRER       UQ1         0020ETULIFAEA      O                             0411     20000     60000                                  
+SAFRER       UQ1         0030TAVLAFBEA      O                             1320     20000     60000                                  
+SAFRER       UQ40        0010EVIPIFAEA      O                                      20000     60000                                  
+SAFRER       UQ40        0020NESANFAEA      O                             0406     20000     60000                                  
+SAFRER       UQ41        0010EVIPIFAEA      O                                      20000     60000                                  
+SAFRER       UQ41        0020VASURFAEA      O                             0419     20000     60000                                  
+SAFRER       UQ45        0010EVUKIFAEA      O                                      20000     60000                                  
+SAFRER       UQ45        0020OKNOLFAEA      O                             0299     20000     60000                                  
+SAFRER       UQ26        0010EXALAFAEA      O                                      20000     60000                                  
+SAFRER       UQ26        0020GWV  FAD       O                             1745     20000     60000                                  
+SAFRER       UQ38        0010EXALAFAEA      O                                      20000     60000                                  
+SAFRER       UQ38        0020NOPIPFAEA      O                             0378     20000     60000                                  
+SAFRER       UQ39        0010EXALAFAEA      O                                      20000     60000                                  
+SAFRER       UQ39        0020OKPITFAEA      O                             0310     20000     60000                                  
+SAFRER       UQ31-       0010GE   FAD       O                                      20000     60000                                  
+SAFRER       UQ31-       0020NEVIRFAEA      O                             0306     20000     60000                                  
+SAFRER       UQ32        0020NEVIRFAEA      O                             1110     20000     60000                                  
+SAFRER       A405-       0010GWV  FAD       O                                      24500     46000                                  
+SAFRER       A405-       0020UTULIFAEA      O                             0046     24500     46000                                  
+SAFRER       A405-       0030VMV  FVD       O                             1497     24500     46000                                  
+SAFRER       UG655       0010HBV  FAD       O                                      20000     46000                                  
+SAFRER       UG655       0020HGV  FAD       O                             0659     20000     46000                                  
+SAFRER       UG653       0010HBV  FAD       O                                      20000     60000                                  
+SAFRER       UG653       0020NESEKFAEA      O                             0765     20000     60000                                  
+SAFRER       UG465       0010JSV  FAD       O                                      24500     46000                                  
+SAFRER       UG465       0020WIV  FAD       O                             0556     24500     46000                                  
+SAFRER       UR987       0080NVV  FAD       O                                      20000     46000                                  
+SAFRER       UR987       0090WY   FAD       O                             1223     20000     46000                                  
+SAFRER       UQ42        0010KODESFAEA      O                                      20000     60000                                  
+SAFRER       UQ42        0020OKLOKFAEA      O                             0373     20000     60000                                  
+SAFRER       UQ43        0010KODESFAEA      O                                      20000     60000                                  
+SAFRER       UQ43        0020OKNOLFAEA      O                             0387     20000     60000                                  
+SAFRER       G853-       0030RUDASFAEA      O                             0449     24500     46000                                  
+SAFRER       UW94-       0010MZV  FAD       O                                      20000     60000                                  
+SAFRER       UW94-       0020UNKAMFAEA      O                             0504     20000     60000                                  
+SAFRER       UG745       0010NSV  FAD       O                                      24500     46000                                  
+SAFRER       UG745       0020WIV  FAD       O                             0952     24500     46000                                  
+SAFRER       UZ26        0010OKLOKFAEA      O                                      20000     60000                                  
+SAFRER       UZ26        0020WY   FAD       O                             0376     20000     60000                                  

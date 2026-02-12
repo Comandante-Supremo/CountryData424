@@ -1,0 +1,9 @@
+SSPADB       DV      000346     S16272390E167494850                                                                                 
+SSPADB       SON     000412     S15302400E167130000                                                                                 
+SSPADB       SO      000412     S15321620E167084240                                                                                 
+SSPADB       PK      000320     S15294800E1671154100                                                                                
+SSPAER       R599        0050SON    D       O                             2082     06800     45000                                  
+SSPAER       3E103       0020HBI    EA      O                             0301     03500     09500                                  
+SSPAER       3E103       0030SON    D       O                             0652     03500     09500                                  
+SSPAER       R450-       0010SON    D       O                                      06000     60000                                  
+SSPAER       R450-       0020VLI    D       O                             1423     06000     60000                                  

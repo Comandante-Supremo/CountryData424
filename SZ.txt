@@ -1,0 +1,19 @@
+SAFREAENRT   APNON FD           S26453786E030465279                                                                                 
+SAFREAENRT   ESRAS FD           S25534510E031091402                                                                                 
+SAFREAENRT   EVAMA FD           S26193200E030472000                                                                                 
+SAFREAENRT   IMTET FD           S26201815E030530657                                                                                 
+SAFREAENRT   OKSAD FD           S26492200E030475900                                                                                 
+SAFRDB       MS    FD000262     S26303794E031200491                                                                                 
+SAFRD        VMS   FD011230V    S26304210E0311924100                                                                                
+SAFRD        VMS   FD011230 D   S26304210E0311924100                                                                                
+SAFRER       B534        0020EVAMAFDEA      O                             0399     12500     19500                                  
+SAFRER       B534        0030VMS  FDD       O                             0309     09000     20500                                  
+SAFRER       G10D        0020VMS  FDD       O                             0484     07100     20500                                  
+SAFRER       G657F       0030OKSADFDEA      O                             1143     10700     20500                                  
+SAFRER       G657F       0040VMS  FDD       O                             0337     10700     20500                                  
+SAFRER       G657D       0020VMS  FDD       O                             0481     09000     20500                                  
+SAFRER       B534-       0020EVAMAFDEA      O                             0399     20000     46000                                  
+SAFRER       B534-       0030VMS  FDD       O                             0309     20500     60000                                  
+SAFRER       UG10        0100VMS  FDD       O                             0484     20500     60000                                  
+SAFRER       UQ3         0020ESRASFDEA      O                             0439     20000     60000                                  
+SAFRER       UQ3         0030ITSAVFAEA      O                             0803     20000     60000                                  

@@ -1,0 +1,337 @@
+SAFREAENRT   ADRAM DT           N35424710E0093818100                                                                                
+SAFREAENRT   ARNEB DT           N35221400E010022500                                                                                 
+SAFREAENRT   BAMGI DT           N35430300E0102532100                                                                                
+SAFREAENRT   BARIM DT           N36495000E0090635100                                                                                
+SAFREAENRT   BELED DT           N36282010E009391000                                                                                 
+SAFREAENRT   DAFRI DT           N34295700E0080513100                                                                                
+SAFREAENRT   DIM2A DT           N36530083E010070759                                                                                 
+SAFREAENRT   DIMAO DT           N36241800E008220000                                                                                 
+SAFREAENRT   ELJEM DT           N35251700E010434500                                                                                 
+SAFREAENRT   FARES DT           N32094810E010565200                                                                                 
+SAFREAENRT   GAF07 DT           N34300192E008553786                                                                                 
+SAFREAENRT   GAF15 DT           N34335490E008522571                                                                                 
+SAFREAENRT   GAF23 DT           N34195488E008403964                                                                                 
+SAFREAENRT   GAF35 DT           N34323272E008555006                                                                                 
+SAFREAENRT   GAF45 DT           N34213267E008393099                                                                                 
+SAFREAENRT   GAF53 DT           N34292229E008561740                                                                                 
+SAFREAENRT   GAF64 DT           N34242549E008383623                                                                                 
+SAFREAENRT   GAF99 DT           N34211793E008422646                                                                                 
+SAFREAENRT   GILEX DT           N33541210E0091230100                                                                                
+SAFREAENRT   GOLLA DT           N36411310E0095805100                                                                                
+SAFREAENRT   INSAT DT           N33035110E010113500                                                                                 
+SAFREAENRT   JAMOR DT           N36544710E0104011100                                                                                
+SAFREAENRT   KADRA DT           N34580360E010421916                                                                                 
+SAFREAENRT   KDN04 DT           N36474691E010230375                                                                                 
+SAFREAENRT   KEMIR DT           N36501410E0092514100                                                                                
+SAFREAENRT   KESIB DT           N32314400E0095021100                                                                                
+SAFREAENRT   KIRAS DT           N34242110E009551300                                                                                 
+SAFREAENRT   KMR2A DT           N36543299E010064455                                                                                 
+SAFREAENRT   KOTOB DT           N35504510E010060200                                                                                 
+SAFREAENRT   LABIP DT           N36493710E0085829100                                                                                
+SAFREAENRT   LEMSA DT           N33274100E0104853100                                                                                
+SAFREAENRT   LOBNA DT           N36091000E0100822100                                                                                
+SAFREAENRT   MADIB DT           N34362110E010250000                                                                                 
+SAFREAENRT   MAGIM DT           N36352110E0090706100                                                                                
+SAFREAENRT   MAKEB DT           N36022110E009001800                                                                                 
+SAFREAENRT   MANED DT           N33280800E010400500                                                                                 
+SAFREAENRT   MATOT DT           N33181510E0093933100                                                                                
+SAFREAENRT   MAZRA DT           N33532610E010161700                                                                                 
+SAFREAENRT   MORJA DT           N36500310E008390000                                                                                 
+SAFREAENRT   NAMAT DT           N34125610E009120900                                                                                 
+SAFREAENRT   NASIR DT           N32385410E010074000                                                                                 
+SAFREAENRT   NATLA DT           N35553200E0093047100                                                                                
+SAFREAENRT   NAVED DT           N35403500E010044400                                                                                 
+SAFREAENRT   OGLAT DT           N34143510E008264700                                                                                 
+SAFREAENRT   OUTIK DT           N36565410E010021100                                                                                 
+SAFREAENRT   PERAM DT           N36150500E009191400                                                                                 
+SAFREAENRT   PIMES DT           N33254900E009524000                                                                                 
+SAFREAENRT   RATBA DT           N36170810E009560200                                                                                 
+SAFREAENRT   REMDA DT           N32174510E0102233100                                                                                
+SAFREAENRT   REMLA DT           N34035900E0083441100                                                                                
+SAFREAENRT   RITMO DT           N36404100E009035500                                                                                 
+SAFREAENRT   ROGBA DT           N35325910E0090401100                                                                                
+SAFREAENRT   SOKSA DT           N36324510E0085623100                                                                                
+SAFREAENRT   SOMRA DT           N36460400E0091221100                                                                                
+SAFREAENRT   SONED DT           N36050147E008220177                                                                                 
+SAFREAENRT   TBS2A DT           N36491043E010070471                                                                                 
+SAFREAENRT   TEGBI DT           N33074510E010345800                                                                                 
+SAFREAENRT   TELGA DT           N36384510E0085536100                                                                                
+SAFREAENRT   TISRI DT           N36390900E009225300                                                                                 
+SAFREAENRT   TOUBA DT           N33312910E0084023100                                                                                
+SAFREAENRT   TUC06 DT           N36530293E010064463                                                                                 
+SAFREAENRT   TUC11 DT           N36544029E010005054                                                                                 
+SAFREAENRT   TUC12 DT           N36465729E010263148                                                                                 
+SAFREAENRT   TUC15 DT           N36474239E010292788                                                                                 
+SAFREAENRT   TUC16 DT           N36452220E010282220                                                                                 
+SAFREAENRT   TUC23 DT           N36425319E010011476                                                                                 
+SAFREAENRT   TUC27 DT           N36510459E009573670                                                                                 
+SAFREAENRT   TUC30 DT           N36574741E009595439                                                                                 
+SAFREAENRT   TUC31 DT           N36564572E010020298                                                                                 
+SAFREAENRT   TUC61 DT           N36461516E010260803                                                                                 
+SAFREAENRT   TUC68 DT           N36481748E010222380                                                                                 
+SAFREAENRT   TUC70 DT           N36553602E010070766                                                                                 
+SAFREAENRT   TUC75 DT           N36481648E010222909                                                                                 
+SAFREAENRT   TUC78 DT           N36525339E009574578                                                                                 
+SAFREAENRT   TUC90 DT           N36510459E010300170                                                                                 
+SAFREAENRT   TUC91 DT           N36562316E010080525                                                                                 
+SAFREAENRT   TUC92 DT           N36473124E010244762                                                                                 
+SAFREAENRT   TUC94 DT           N36415733E010105942                                                                                 
+SAFREAENRT   TUCD7 DT           N36575518E010112556                                                                                 
+SAFREAENRT   ZAHRA DT           N36434900E010313600                                                                                 
+SAFREAENRT   ZELFA DT           N36450000E010320600                                                                                 
+SAFREAENRT   ZUITA DT           N34543800E010295100                                                                                 
+SAFRDB       BMA   DT000405     N31422300E0091405100                                                                                
+SAFRDB       ZN    DT000375     N33562340E008001880                                                                                 
+SAFRDB       TK    DT000350     N36584110E008524310                                                                                 
+SAFRD        BIZ   DT011420V    N37140700E009455600                                                                                 
+SAFRD        CBN   DT011270V    N36534400E0110517100                                                                                
+SAFRD        EBA   DT011380V    N31422110E009151680                                                                                 
+SAFRD        GAB   DT011540V    N33435590E009551270                                                                                 
+SAFRD        GAF   DT010900V    N34251430E008492670                                                                                 
+SAFRD        MON   DT011310V    N35451770E010445300                                                                                 
+SAFRD        BAN   DT011530V    N34514710E009100400                                                                                 
+SAFRD        TBK   DT011330V    N36584140E008530090                                                                                 
+SAFRD        TON   DT011700V    N33562760E008060140                                                                                 
+SAFRD        TAB   DT011070 D   N36584180E008531550                                                                                 
+SAFRD        BIZ   DT011420 D   N37140700E009455600                                                                                 
+SAFRD        GAB   DT011540 D   N33435590E009551270                                                                                 
+SAFRD        GAF   DT010900 D   N34251430E008492670                                                                                 
+SAFRD        MON   DT011310 D   N35451770E010445300                                                                                 
+SAFRD        TBK   DT011330 D   N36584140E008530090                                                                                 
+SAFRD        TON   DT011700 D   N33562760E008060140                                                                                 
+SAFRER       G868-       0020MON  DTD       O                             0746     01500     24500                                  
+SAFRER       A411        0230MORJADTEA      O                                      06500     24500                                  
+SAFRER       A411        0240LABIPDTEA      O                             0156     06500     24500                                  
+SAFRER       A411        0250BARIMDTEA      O                             0065     06500     24500                                  
+SAFRER       A411        0260KEMIRDTEA      O                             0149     06500     24500                                  
+SAFRER       A411        0270TUC    D       O                             0389     19500     24500                                  
+SAFRER       A411        0280MON  DTD       O                             0704     19500     24500                                  
+SAFRER       M731        0020BAMGIDTEA      O                             1118     15500     24500                                  
+SAFRER       M731        0030TUC    D       O                             0687     15500     24500                                  
+SAFRER       M980-       0020MON  DTD       O                             0369     01500     24500                                  
+SAFRER       M980-       0030BAMGIDTEA      O                             0159     01500     24500                                  
+SAFRER       M980-       0040NAVEDDTEA      O                             0171     01500     24500                                  
+SAFRER       M980-       0050ROGBADTEA      O                             0500     09500     24500                                  
+SAFRER       M980-       0060TBS  DAD       O                             0491     09500     24500                                  
+SAFRER       G869        0040TBK  DTD       O                             0200     01500     24500                                  
+SAFRER       G869        0050TELGADTEA      O                             0200     09500     24500                                  
+SAFRER       G869        0060SOKSADTEA      O                             0060     09500     24500                                  
+SAFRER       G869        0070MAKEBDTEA      O                             0306     09500     24500                                  
+SAFRER       G869        0080ROGBADTEA      O                             0295     09500     24500                                  
+SAFRER       G869        0090BAN  DTD       O                             0415     09500     24500                                  
+SAFRER       G869        0100GILEXDTEA      O                             0577     09500     24500                                  
+SAFRER       G869        0110EBA  DTD       O                             1320     09500     24500                                  
+SAFRER       A856-       0010KIRASDTEA      O                                      09500     24500                                  
+SAFRER       A856-       0020BAN  DTD       O                             0462     09500     24500                                  
+SAFRER       A856-       0030TBS  DAD       O                             0647     09500     24500                                  
+SAFRER       A606        0010BAN  DTD       O                                      09500     24500                                  
+SAFRER       A606        0020OGLATDTEA      O                             0516     09500     24500                                  
+SAFRER       A606        0030TON  DTD       O                             0250     03000     24500                                  
+SAFRER       L44         0010BAN  DTD       O                                      15500     24500                                  
+SAFRER       L44         0020TON  DTD       O                             0766     15500     24500                                  
+SAFRER       V310        0010TBK  DTD       OL                                     01500     24500                                  
+SAFRER       V310        0020BARIMDTEA      OL                            0140     01500     24500                                  
+SAFRER       V310        0030SOMRADTEA      OL                            0060     01500     24500                                  
+SAFRER       V310        0040TISRIDTEA      OL                            0109     01500     24500                                  
+SAFRER       V310        0050BELEDDTEA      OL                            0170     01500     24500                                  
+SAFRER       V310        0060RATBADTEA      OL                            0176     01500     24500                                  
+SAFRER       V310        0070LOBNADTEA      OL                            0128     01500     24500                                  
+SAFRER       V310        0080MON  DTD       OL                            0380     01500     24500                                  
+SAFRER       P868        0060MON  DTD       O                             0371     15500     24500                                  
+SAFRER       G864        0020BELEDDTEA      O                             0359     09500     24500                                  
+SAFRER       G864        0030PERAMDTEA      O                             0208     09500     24500                                  
+SAFRER       G864        0040MAKEBDTEA      O                             0199     09500     24500                                  
+SAFRER       M725        0290MAKEBDTEA      O                                      15500     24500                                  
+SAFRER       M725        0300TUC    D       O                             0767     15500     24500                                  
+SAFRER       V18         0080DAFRIDTEA      OL                            0575     09500     24500                                  
+SAFRER       V18         0090TON  DTD       OL                            0335     09500     24500                                  
+SAFRER       P624        0080KIRASDTEA      O                             0423     15500     24500                                  
+SAFRER       P624        0090TON  DTD       O                             0946     15500     24500                                  
+SAFRER       A411-       0050KADRADTEA      O                             0151     07500     24500                                  
+SAFRER       A411-       0060ELJEMDTEA      O                             0273     07500     24500                                  
+SAFRER       M738        0010ELJEMDTEA      O                                      15500     24500                                  
+SAFRER       M738        0020SFX    D       O                             0424     15500     24500                                  
+SAFRER       G623        0030TOUBADTEA      O                             1121     09500     24500                                  
+SAFRER       G623        0040TBS  DAD       O                             1198     09500     24500                                  
+SAFRER       G727-       0010CBN  DTD       O                                      01500     24500                                  
+SAFRER       G727-       0020DIDON  EA      O                             0116     01500     24500                                  
+SAFRER       G727-       0030MON  DTD       O                             0588     01500     24500                                  
+SAFRER       R723        0010CBN  DTD       O                                      03500     24500                                  
+SAFRER       R723        0020ICANI  EA      O                             0296     03500     24500                                  
+SAFRER       G727-       0010CBN  DTD       O                                      01500     24500                                  
+SAFRER       G727-       0020INDOR  EA      O                             0386     01500     24500                                  
+SAFRER       G737-       0010CBN  DTD       O                                      03500     24500                                  
+SAFRER       G737-       0020TUNEX  EA      O                             0430     03500     24500                                  
+SAFRER       G12-G       0010CBN  DTD       O                                      03500     24500                                  
+SAFRER       G12-G       0020TUPAL  EA      O                             0265     03500     24500                                  
+SAFRER       V334        0100TBK  DTD       OL                                     01500     24500                                  
+SAFRER       V334        0110LABIPDTEA      OL                            0101     01500     24500                                  
+SAFRER       V334        0120RITMODTEA      OL                            0100     01500     24500                                  
+SAFRER       V334        0130MAGIMDTEA      OL                            0059     09500     24500                                  
+SAFRER       V334        0140PERAMDTEA      OL                            0225     09500     24500                                  
+SAFRER       UW254       0010DIMAODTEA      O                                      09500     24500                                  
+SAFRER       UW254       0020SOKSADTEA      O                             0289     09500     24500                                  
+SAFRER       UW254       0030MAGIMDTEA      O                             0090     09500     24500                                  
+SAFRER       UW254       0040TISRIDTEA      O                             0132     09500     24500                                  
+SAFRER       UW254       0050TUC    D       O                             0426     19500     24500                                  
+SAFRER       UW411       0010EBA  DTD       O                                      24500     60000                                  
+SAFRER       UW411       0020KIRASDTEA      O                             1655     24500     60000                                  
+SAFRER       W411        0010EBA  DTD       O                                      09500     24500                                  
+SAFRER       W411        0020MATOTDTEA      O                             0981     09500     24500                                  
+SAFRER       W411        0030KIRASDTEA      O                             0674     09500     24500                                  
+SAFRER       W411        0040LOBNADTEA      O                                      19500     24500                                  
+SAFRER       W411        0050NAVEDDTEA      O                             0288     19500     24500                                  
+SAFRER       V191        0010EBA  DTD       OL                                     09500     24500                                  
+SAFRER       V191        0020NASIRDTEA      OL                            0719     09500     24500                                  
+SAFRER       V191        0030TEGBIDTEA      OL                            0369     09500     24500                                  
+SAFRER       V191        0040MANEDDTEA      OL                            0208     01500     24500                                  
+SAFRER       V191        0050JBA    D       OL                            0251     01500     24500                                  
+SAFRER       V237        0010EBA  DTD       OL                                     09500     24500                                  
+SAFRER       V237        0020REMDADTEA      OL                            0672     09500     24500                                  
+SAFRER       V237        0030TEGBIDTEA      OL                            0511     09500     24500                                  
+SAFRER       A411-       0010ELJEMDTEA      O                                      01500     24500                                  
+SAFRER       A411-       0020MON  DTD       O                             0200     01500     24500                                  
+SAFRER       V71         0030TON  DTD       OL                            0294     04500     24500                                  
+SAFRER       G727        0010FARESDTEA      O                                      09500     24500                                  
+SAFRER       G727        0020LEMSADTEA      O                             0782     09500     24500                                  
+SAFRER       G727        0030JBA    D       O                             0251     01500     24500                                  
+SAFRER       V147        0010GAF  DTD       OL                                     13000     18000                                  
+SAFRER       V147        0020GILEXDTEA      OL                            0364     13000     18000                                  
+SAFRER       V147        0030MATOTDTEA      OL                            0425     13000     18000                                  
+SAFRER       V147        0040NASIRDTEA      OL                            0459     13000     18000                                  
+SAFRER       V147        0050REMDADTEA      OL                            0246     13000     18000                                  
+SAFRER       V273        0010TON  DTD       OL                                     03000     24500                                  
+SAFRER       V273        0020GILEXDTEA      OL                            0553     09500     24500                                  
+SAFRER       V273        0030MAZRADTEA      OL                            0530     09500     24500                                  
+SAFRER       V273        0040JBA    D       OL                            0249     01500     24500                                  
+SAFRER       P128        0010KIRASDTEA      O                                      15500     24500                                  
+SAFRER       P128        0020JBA    D       O                             0529     15500     24500                                  
+SAFRER       A856        0030KIRASDTEA      O                             0279     07500     24500                                  
+SAFRER       G361        0020MADIBDTEA      O                             0150     07500     24500                                  
+SAFRER       G361        0030KIRASDTEA      O                             0273     07500     24500                                  
+SAFRER       G361        0040REMLADTEA      O                             0697     09500     24500                                  
+SAFRER       G361        0050TON  DTD       O                             0250     03000     24500                                  
+SAFRER       P161-       0010LOBNADTEA      O                                      15500     24500                                  
+SAFRER       P161-       0020NAVEDDTEA      O                             0288     15500     24500                                  
+SAFRER       P161-       0010LOBNADTEA      O                                      15500     24500                                  
+SAFRER       P161-       0020TUC    D       O                             0422     15500     24500                                  
+SAFRER       G864-       0010MAKEBDTEA      O                                      09500     24500                                  
+SAFRER       G864-       0020TBS  DAD       O                             0575     09500     24500                                  
+SAFRER       A606-       0010RATBADTEA      O                                      01500     24500                                  
+SAFRER       A606-       0020TUC    D       O                             0369     01500     24500                                  
+SAFRER       W322        0020ZUITADTEA      O                             0150     01500     24500                                  
+SAFRER       M735-       0020MON  DTD       O                             0746     24500     60000                                  
+SAFRER       UM731       0070BAMGIDTEA      O                             1118     24500     46000                                  
+SAFRER       UM731       0080TUC    D       O                             0687     24500     46000                                  
+SAFRER       UM980       0020MON  DTD       O                             0369     24500     60000                                  
+SAFRER       UM980       0030BAMGIDTEA      O                             0159     24500     60000                                  
+SAFRER       UM980       0040NAVEDDTEA      O                             0171     24500     60000                                  
+SAFRER       UM980       0050ROGBADTEA      O                             0500     24500     60000                                  
+SAFRER       UM980       0060TBS  DAD       O                             0491     24500     60000                                  
+SAFRER       UA856       0020BAN  DTD       O                             0647     24500     60000                                  
+SAFRER       UA856       0030KIRASDTEA      O                             0462     24500     60000                                  
+SAFRER       UA856       0040JBA    D       O                             0529     24500     60000                                  
+SAFRER       UG869       0010EBA  DTD       O                                      24500     60000                                  
+SAFRER       UG869       0020NAMATDTEA      O                             1507     24500     60000                                  
+SAFRER       UG869       0030BAN  DTD       O                             0389     24500     60000                                  
+SAFRER       UG869       0040ROGBADTEA      O                             0415     24500     60000                                  
+SAFRER       UG869       0050MAKEBDTEA      O                             0295     24500     60000                                  
+SAFRER       UA606       0010BAN  DTD       O                                      24500     60000                                  
+SAFRER       UA606       0020TON  DTD       O                             0766     24500     60000                                  
+SAFRER       UA606       0030RATBADTEA      O                                      24500     60000                                  
+SAFRER       UA606       0040TUC    D       O                             0369     24500     60000                                  
+SAFRER       UA411       0010KEMIRDTEA      O                                      24500     60000                                  
+SAFRER       UA411       0020BARIMDTEA      O                             0149     24500     60000                                  
+SAFRER       UA411       0030LABIPDTEA      O                             0065     24500     60000                                  
+SAFRER       UA411       0040MORJADTEA      O                             0156     24500     60000                                  
+SAFRER       UA411       0180MON  DTD       O                                      24500     60000                                  
+SAFRER       UA411       0190TUC    D       O                             0704     24500     60000                                  
+SAFRER       UV310       0010TBK  DTD       O                                      24500     60000                                  
+SAFRER       UV310       0020BARIMDTEA      O                             0140     24500     60000                                  
+SAFRER       UV310       0030TISRIDTEA      O                             0169     24500     60000                                  
+SAFRER       UV310       0040BELEDDTEA      O                             0170     24500     60000                                  
+SAFRER       UV310       0050RATBADTEA      O                             0176     24500     60000                                  
+SAFRER       UV310       0060LOBNADTEA      O                             0128     24500     60000                                  
+SAFRER       UV310       0070MON  DTD       O                             0380     24500     60000                                  
+SAFRER       UP868       0070MON  DTD       O                             0371     24500     46000                                  
+SAFRER       G864-       0020BELEDDTEA      O                             0359     24500     60000                                  
+SAFRER       G864-       0030PERAMDTEA      O                             0208     24500     60000                                  
+SAFRER       G864-       0040MAKEBDTEA      O                             0199     24500     60000                                  
+SAFRER       UM725       0420MAKEBDTEA      O                                      24500     46000                                  
+SAFRER       UM725       0430TUC    D       O                             0767     24500     46000                                  
+SAFRER       UM978       0170KEMIRDTEA      O                                      24500     46000                                  
+SAFRER       UM978       0180MORJADTEA      O                             0370     24500     46000                                  
+SAFRER       UG361       0030KIRASDTEA      O                             0423     24500     60000                                  
+SAFRER       UG361       0040NAMATDTEA      O                             0374     24500     60000                                  
+SAFRER       UG361       0050TON  DTD       O                             0572     24500     60000                                  
+SAFRER       UM858       0080TBK  DTD       O                             0930     24500     46000                                  
+SAFRER       UM858       0090MAKEBDTEA      O                             0567     24500     46000                                  
+SAFRER       UG623       0030TOUBADTEA      O                             1121     24500     60000                                  
+SAFRER       UG623       0040TBS  DAD       O                             1198     24500     60000                                  
+SAFRER       UR986       0020KESIBDTEA      O                             1420     24500     60000                                  
+SAFRER       UR986       0030PIMESDTEA      O                             0542     24500     60000                                  
+SAFRER       UR986       0040KIRASDTEA      O                             0586     24500     60000                                  
+SAFRER       UG655       0120FARESDTEA      O                                      24500     60000                                  
+SAFRER       UG655       0130SEB  HLD       O                             3626     24500     60000                                  
+SAFRER       UG727       0010CBN  DTD       O                                      24500     60000                                  
+SAFRER       UG727       0020DIDON  EA      O                             0116     24500     60000                                  
+SAFRER       UG727       0030MON  DTD       O                             0588     24500     60000                                  
+SAFRER       UM739       0020CBN  DTD       O                             0296     24500     60000                                  
+SAFRER       UM739       0030SONAK  EA      O                             0258     24500     60000                                  
+SAFRER       UA15-       0010CBN  DTD       O                                      24500     60000                                  
+SAFRER       UA15-       0020INDOR  EA      O                             0386     24500     60000                                  
+SAFRER       UG737       0010CBN  DTD       O                                      25000     46000                                  
+SAFRER       UG737       0020TUNEX  EA      O                             0430     25000     46000                                  
+SAFRER       UG12-       0010CBN  DTD       O                                      24500     60000                                  
+SAFRER       UG12-       0020TUPAL  EA      O                             0265     24500     60000                                  
+SAFRER       UV18        0020DAFRIDTEA      O                             0575     24500     60000                                  
+SAFRER       UV18        0030TON  DTD       O                             0335     24500     60000                                  
+SAFRER       UG727       0030FARESDTEA      O                                      24500     60000                                  
+SAFRER       UG727       0040JBA    D       O                             1033     24500     60000                                  
+SAFRER       UG869       0030TBK  DTD       O                             0601     24500     60000                                  
+SAFRER       UG869       0040SOKSADTEA      O                             0261     24500     60000                                  
+SAFRER       UG869       0050MAKEBDTEA      O                             0306     24500     60000                                  
+SAFRER       UG13-       0010FARESDTEA      O                                      25000     60000                                  
+SAFRER       UG13-       0020NALUTHLEA      O                             0183     25000     60000                                  
+SAFRER       UW254       0010DIMAODTEA      O                                      24500     60000                                  
+SAFRER       UW254       0020SOKSADTEA      O                             0289     24500     60000                                  
+SAFRER       UW254       0030MAGIMDTEA      O                             0090     24500     60000                                  
+SAFRER       UW254       0040TISRIDTEA      O                             0132     24500     60000                                  
+SAFRER       UW254       0050TUC    D       O                             0426     24500     60000                                  
+SAFRER       UP623       0010EBA  DTD       O                                      24500     46000                                  
+SAFRER       UP623       0020JBA    D       O                             1512     24500     46000                                  
+SAFRER       UG362       0010EBA  DTD       O                                      24500     60000                                  
+SAFRER       UG362       0020KESIBDTEA      O                             0577     24500     60000                                  
+SAFRER       UP161       0010EBA  DTD       O                                      24500     60000                                  
+SAFRER       UP161       0020KIRASDTEA      O                             1655     24500     60000                                  
+SAFRER       UA411       0010MON  DTD       O                                      24500     60000                                  
+SAFRER       UA411       0020ELJEMDTEA      O                             0200     24500     60000                                  
+SAFRER       UA411       0030SFX    D       O                             0424     24500     60000                                  
+SAFRER       UV71        0030TON  DTD       O                             0294     24500     60000                                  
+SAFRER       UG655       0010FARESDTEA      O                                      24500     60000                                  
+SAFRER       UG655       0020INSATDTEA      O                             0662     24500     60000                                  
+SAFRER       UG655       0030PIMESDTEA      O                                      24500     60000                                  
+SAFRER       UG655       0040NAMATDTEA      O                             0580     24500     60000                                  
+SAFRER       UG655       0050TBS  DAD       O                             0931     24500     60000                                  
+SAFRER       UV273       0020TON  DTD       O                             1331     24500     60000                                  
+SAFRER       UV286       0010KEMIRDTEA      O                                      24500     60000                                  
+SAFRER       UV286       0020TBK  DTD       O                             0271     24500     60000                                  
+SAFRER       UV286       0030TALEL  EA      O                             0139     24500     60000                                  
+SAFRER       UA411       0010KEMIRDTEA      O                                      24500     60000                                  
+SAFRER       UA411       0020TUC    D       O                             0389     24500     60000                                  
+SAFRER       UP161       0010LOBNADTEA      O                                      24500     60000                                  
+SAFRER       UP161       0020KOTOBDTEA      O                             0185     24500     60000                                  
+SAFRER       UP161       0030NAVEDDTEA      O                             0102     24500     60000                                  
+SAFRER       UP868       0010MON  DTD       O                                      29000     60000                                  
+SAFRER       UP868       0020KOTOBDTEA      O                             0320     29000     60000                                  
+SAFRER       UP868       0030NATLADTEA      O                             0290     29000     60000                                  
+SAFRER       UP868       0040SONEDDTEA      O                             0565     29000     60000                                  
+SAFRER       UV334       0010TBK  DTD       O                                      24500     60000                                  
+SAFRER       UV334       0020LABIPDTEA      O                             0101     24500     60000                                  
+SAFRER       UV334       0030MAGIMDTEA      O                             0159     24500     60000                                  
+SAFRER       UV334       0040PERAMDTEA      O                             0225     24500     60000                                  
+SAFRER       UV334       0050NATLADTEA      O                             0217     24500     60000                                  
+SAFRER       UP161       0010LOBNADTEA      O                                      24500     60000                                  
+SAFRER       UP161       0020TUC    D       O                             0422     24500     60000                                  
+SAFRER       G864-       0010MAKEBDTEA      O                                      24500     60000                                  
+SAFRER       G864-       0020TBS  DAD       O                             0575     24500     60000                                  

@@ -1,0 +1,149 @@
+SEUREAENRT   ABISO LJ           N46154461E014210813                                                                                 
+SEUREAENRT   AMBUS LJ           N45531933E014511785                                                                                 
+SEUREAENRT   ARGOM LJ           N45474039E015253852                                                                                 
+SEUREAENRT   ARLON LJ           N46244976E015014715                                                                                 
+SEUREAENRT   BAMIN LJ           N45373705E014325003                                                                                 
+SEUREAENRT   BUSET LJ           N45300600E014132700                                                                                 
+SEUREAENRT   DIMLO LJ           N46410056E016252180                                                                                 
+SEUREAENRT   DOL14 LJ           N46150610E014324201                                                                                 
+SEUREAENRT   DOL36 LJ           N46102283E014465091                                                                                 
+SEUREAENRT   ELDUM LJ           N45351461E014463395                                                                                 
+SEUREAENRT   EPODO LJ           N46114557E014043730                                                                                 
+SEUREAENRT   GORPA LJ           N45462307E015211167                                                                                 
+SEUREAENRT   IDRIG LJ           N45570041E014050603                                                                                 
+SEUREAENRT   LASLO LJ           N45531875E014325171                                                                                 
+SEUREAENRT   LJB11 LJ           N46062581E014403812                                                                                 
+SEUREAENRT   MAGAM LJ           N45582161E015421055                                                                                 
+SEUREAENRT   MG042 LJ           N46125634E014283258                                                                                 
+SEUREAENRT   MG080 LJ           N46041339E014403062                                                                                 
+SEUREAENRT   MG082 LJ           N46031552E014385453                                                                                 
+SEUREAENRT   MIRSO LJ           N46283355E015503113                                                                                 
+SEUREAENRT   NANIS LJ           N45472755E014015868                                                                                 
+SEUREAENRT   NEMEK LJ           N45342880E015175292                                                                                 
+SEUREAENRT   PETOV LJ           N46183483E015583420                                                                                 
+SEUREAENRT   PODET LJ           N46101695E015373647                                                                                 
+SEUREAENRT   R2246 LJ           N46125356E014282937                                                                                 
+SEUREAENRT   RADLY LJ           N46384563E015122966                                                                                 
+SEUREAENRT   RATGO LJ           N46324626E016021330                                                                                 
+SEUREAENRT   REBRO LJ           N46064622E014222294                                                                                 
+SEUREAENRT   ROKSA LJ           N45294206E015002573                                                                                 
+SEUREAENRT   TELSI LJ           N46253964E014174456                                                                                 
+SEUREAENRT   TISKO LJ           N46405698E015593087                                                                                 
+SEUREAENRT   VALLU LJ           N46172972E015201074                                                                                 
+SEUREAENRT   YESEN LJ           N46285296E014050745                                                                                 
+SEURDB       ILB   LJ000414     N45335208E014101908                                                                                 
+SEURDB       KAM   LJ000328     N46061710E014403167                                                                                 
+SEURDB       MG    LJ000296     N46102363E014332140                                                                                 
+SEURDB       MR    LJ000334     N46221751E015473568                                                                                 
+SEURDB       MI    LJ000355     N46274591E015421102                                                                                 
+SEURDB       MEL   LJ000394     N45391652E015190565                                                                                 
+SEURD        ILB   LJ011480V    N45335611E014101511                                                                                 
+SEURD        DOL   LJ011270V    N46050290E014464287                                                                                 
+SEURD        LJB   LJ011050 D   N46125642E014281434                                                                                 
+SEURD        ILB   LJ011480 D   N45335611E014101511                                                                                 
+SEURD        DOL   LJ011270 D   N46050290E014464287                                                                                 
+SEURER       T23         0020DIMLOLJEA      RL                            1133     04000     24500                                  
+SEURER       T23         0030NIDLOLOEA      RL                            0190     04000     24500                                  
+SEURER       M859        0140NANISLJEA      O                             0247     08000     24500                                  
+SEURER       M859        0150DOL  LJD       O                             0358     08000     24500                                  
+SEURER       M859        0160VALLULJEA      O                             0263     08000     24500                                  
+SEURER       M859        0170MIRSOLJEA      O                             0237     08000     24500                                  
+SEURER       M859        0180RATGOLJEA      O                             0091     08000     24500                                  
+SEURER       M859        0190DIMLOLJEA      O                             0179     04000     24500                                  
+SEURER       M859        0200NIKABLHEA      O                             0464     04000     24500                                  
+SEURER       L608        0190DOL  LJD       O                                      06000     24500                                  
+SEURER       L608        0200TELSILJEA      O                             0288     06000     24500                                  
+SEURER       L608        0210VIW  LOD       O                             0225     14500     24500                                  
+SEURER       L868        0010DOL  LJD       O                                      11000     24500                                  
+SEURER       L868        0020BERTALOEA      O                             0229     11000     24500                                  
+SEURER       L868        0060ROKSALJEA      O                             0205     08000     28500                                  
+SEURER       L603        0170PODETLJEA      O                             0328     06000     24500                                  
+SEURER       L603        0180VALLULJEA      O                             0141     06000     24500                                  
+SEURER       L862        0120ELDUMLJEA      O                             0082     08000     24500                                  
+SEURER       L862        0130LASLOLJEA      O                             0205     08000     24500                                  
+SEURER       L862        0140YESENLJEA      O                             0405     11000     24500                                  
+SEURER       L862        0150VIW  LOD       O                             0147     11000     24500                                  
+SEURER       M167        0010ILB  LJD       O                                      08000     13500                                  
+SEURER       M167        0020BUGEVLDEA      O                             0178     08000     13500                                  
+SEURER       P735        0020DOL  LJD       O                             0509     11500     24500                                  
+SEURER       P735        0030MAGAMLJEA      O                             0391     08000     24500                                  
+SEURER       P735        0040ZAG  LDD       O                             0256     08000     28500                                  
+SEURER       L607        0090ILB  LJD       O                             0059     08000     24500                                  
+SEURER       L607        0260NANISLJEA      O                             0425     11000     24500                                  
+SEURER       P151        0030DOL  LJD       O                                      02500     24500                                  
+SEURER       P151        0040ELDUMLJEA      O                             0298     02500     24500                                  
+SEURER       L608-       0030DOL  LJD       O                                      06000     24500                                  
+SEURER       L608-       0040MEL  LJD       O                             0343     06000     24500                                  
+SEURER       L608-       0050LETLILDEA      O                             0017     06000     24500                                  
+SEURER       Y582        0010DIMLOLJEA      O                                      04000     24500                                  
+SEURER       Y582        0020NALOXLHEA      O                             0198     04000     24500                                  
+SEURER       L156        0010VALLULJEA      O                                      13000     24500                                  
+SEURER       L156        0020GOLVALOEA      O                             0282     05000     24500                                  
+SEURER       A21         0010DOL  LJD       O                                      02500     24500                                  
+SEURER       A21         0020IDRIGLJEA      O                             0300     02500     24500                                  
+SEURER       L141        0010DOL  LJD       O                                      08000     24500                                  
+SEURER       L141        0020LASLOLJEA      O                             0152     08000     24500                                  
+SEURER       L141        0030ILB  LJD       O                                      08000     24500                                  
+SEURER       L141        0040GIRDALDEA      O                             0056     08000     24500                                  
+SEURER       L141        0080RADLYLJEA      O                             0211     08000     24500                                  
+SEURER       M19         0110RATGOLJEA      O                             0135     05000     24500                                  
+SEURER       M19         0120OBUTILDEA      O                             0141     05000     28500                                  
+SEURER       Q111        0020TISKOLJEA      RH                            0217     05000     66000                                  
+SEURER       Q111        0030GBG  LOD       RH                            0146     05000     66000                                  
+SEURER       L604-       0030MIRSOLJEA      O                             0160     06000     24500                                  
+SEURER       L604-       0040PETOVLJEA      O                             0114     06000     24500                                  
+SEURER       L604-       0050ZAG  LDD       O                             0284     06000     28500                                  
+SEURER       UT23        0020DIMLOLJEA      O                             1133     24500     66000                                  
+SEURER       UT23        0030NIDLOLOEA      O                             0190     24500     60000                                  
+SEURER       UL865       0010RADLYLJEA      O                                      25000     60000                                  
+SEURER       UL865       0020BAMINLJEA      O                             0671     28500     46000                                  
+SEURER       UL865       0030NIKOL  EA      O                             0920     28500     46000                                  
+SEURER       UM859       0130NANISLJEA      O                             0247     24500     60000                                  
+SEURER       UM859       0140DOL  LJD       O                             0358     24500     60000                                  
+SEURER       UM859       0150VALLULJEA      O                             0263     24500     60000                                  
+SEURER       UM859       0160MIRSOLJEA      O                             0237     24500     60000                                  
+SEURER       UM859       0170RATGOLJEA      O                             0091     24500     60000                                  
+SEURER       UM859       0180DIMLOLJEA      O                             0179     24500     66000                                  
+SEURER       UM859       0190NIKABLHEA      O                             0464     24500     66000                                  
+SEURER       UL603       0390PODETLJEA      O                             0328     24500     60000                                  
+SEURER       UL603       0400VALLULJEA      O                             0141     24500     60000                                  
+SEURER       UL608       0240TELSILJEA      O                             0225     24500     60000                                  
+SEURER       UL868       0010DOL  LJD       O                                      24500     60000                                  
+SEURER       UL868       0020BERTALOEA      O                             0229     24500     60000                                  
+SEURER       UL868       0060ROKSALJEA      O                             0205     28500     46000                                  
+SEURER       UB1-U       0060GORPALJEA      O                             0213     24500     60000                                  
+SEURER       UB1-U       0070DOL  LJD       O                             0304     24500     60000                                  
+SEURER       UB1-U       0080TELSILJEA      O                             0288     24500     60000                                  
+SEURER       UL862       0090LASLOLJEA      O                             0287     24500     60000                                  
+SEURER       UL862       0100REBROLJEA      O                             0153     24500     60000                                  
+SEURER       UL862       0110YESENLJEA      O                             0251     24500     60000                                  
+SEURER       UL862       0120VIW  LOD       O                             0147     24500     60000                                  
+SEURER       UL607       0010ILB  LJD       O                                      24500     60000                                  
+SEURER       UL607       0020BUSETLJEA      O                             0044     28500     46000                                  
+SEURER       UL607       0030DOLOM  EA      O                             0551     28500     46000                                  
+SEURER       UL607       0090NANISLJEA      O                             0425     24500     60000                                  
+SEURER       UP735       0040DOL  LJD       O                             0509     24500     60000                                  
+SEURER       UP735       0050MAGAMLJEA      O                             0391     24500     60000                                  
+SEURER       UP735       0060ZAG  LDD       O                             0256     28500     46000                                  
+SEURER       UM867       0090NEMEKLJEA      O                             0328     24500     60000                                  
+SEURER       UM867       0100REBROLJEA      O                             0504     24500     60000                                  
+SEURER       UM867       0110GILINLIEA      O                             0359     24500     60000                                  
+SEURER       UL156       0060VALLULJEA      O                             0282     24500     60000                                  
+SEURER       UA21        0010DOL  LJD       O                                      24500     60000                                  
+SEURER       UA21        0020IDRIGLJEA      O                             0300     24500     60000                                  
+SEURER       UL141       0010DOL  LJD       O                                      24500     60000                                  
+SEURER       UL141       0020LASLOLJEA      O                             0152     24500     60000                                  
+SEURER       UP173       0010DOL  LJD       O                                      24500     28500                                  
+SEURER       UP173       0020MEL  LJD       O                             0343     24500     28500                                  
+SEURER       UP173       0030LETLILDEA      O                             0017     24500     28500                                  
+SEURER       UM19        0140RATGOLJEA      O                             0141     24500     60000                                  
+SEURER       UM19        0150MUREGLOEA      O                             0135     24500     60000                                  
+SEURER       UL863       0130PETOVLJEA      O                             0593     28500     46000                                  
+SEURER       P81-U       0020ILB  LJD       O                             0059     24500     28500                                  
+SEURER       UL141       0020ILB  LJD       O                             0056     24500     60000                                  
+SEURER       UL604       0030MIRSOLJEA      O                                      24500     60000                                  
+SEURER       UL604       0040PETOVLJEA      O                             0114     24500     60000                                  
+SEURER       UL604       0050ZAG  LDD       O                             0284     28500     46000                                  
+SEURER       UB9-U       0020MIRSOLJEA      O                             0160     24500     60000                                  
+SEURER       UL141       0020RADLYLJEA      O                             0211     24500     60000                                  
+SEURER       UQ111       0020TISKOLJEA      O                             0217     24500     60000                                  

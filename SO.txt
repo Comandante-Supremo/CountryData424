@@ -1,0 +1,35 @@
+SAFREAENRT   AVUSI HC           N04550890E044000240                                                                                 
+SAFREAENRT   BELEN HC           N04441192E045105368                                                                                 
+SAFREAENRT   BUBEM HC           N05392400E0472908100                                                                                
+SAFREAENRT   EGTUL HC           N07203910E048312200                                                                                 
+SAFREAENRT   ENABO HC           N00594989E041000347                                                                                 
+SAFREAENRT   KESOM HC           N00075015E041000346                                                                                 
+SAFREAENRT   KUSUB HC           N06411430E046400260                                                                                 
+SAFREAENRT   MOGDU HC           N02002400E0451735100                                                                                
+SAFREAENRT   SOLUL HC           N05050880E045080240                                                                                 
+SAFREAENRT   TULAP HC           N01180000E0433459100                                                                                
+SAFRER       R775G       0010MOGDUHCEA      O                                      10000     24500                                  
+SAFRER       R775G       0020BELENHCEA      O                             1640     10000     24500                                  
+SAFRER       R775G       0030SOLULHCEA      O                             0212     10000     24500                                  
+SAFRER       UG657       0090ENABOHCEA      O                                      24500     60000                                  
+SAFRER       UG657       0100EPLAVHKEA      O                             0585     24500     60000                                  
+SAFRER       UR775       0010SOLULHCEA      O                                      24500     60000                                  
+SAFRER       UR775       0020BELENHCEA      O                             0212     24500     60000                                  
+SAFRER       UR775       0030MOGDUHCEA      O                             1640     24500     60000                                  
+SAFRER       UR775       0040UNPAR  EA      O                             1702     24500     60000                                  
+SAFRER       UB400       0020EGTULHCEA      O                             3287     24500     60000                                  
+SAFRER       UB400       0030BUBEMHCEA      O                             1187     24500     60000                                  
+SAFRER       UB400       0040MOGDUHCEA      O                             2555     24500     60000                                  
+SAFRER       UB400       0050RAGGS  EA      O                             1217     24500     60000                                  
+SAFRER       UM651       0010KUSUBHCEA      O                                      24500     60000                                  
+SAFRER       UM651       0020BUBEMHCEA      O                             0788     24500     60000                                  
+SAFRER       UM651       0030KATHY  EA      O                             1122     24500     60000                                  
+SAFRER       UB413       0050EGTULHCEA      O                             1308     24500     60000                                  
+SAFRER       UB413       0060EMALU  EA      O                             1628     24500     60000                                  
+SAFRER       UG450       0030MOGDUHCEA      O                             2407     24500     60000                                  
+SAFRER       UG450       0040TULAPHCEA      O                             1111     24500     60000                                  
+SAFRER       UG450       0050KESOMHCEA      O                             1702     24500     60000                                  
+SAFRER       UG651       0010KUSUBHCEA      O                                      24500     66000                                  
+SAFRER       UG651       0020MURALHAEA      O                             1688     24500     66000                                  
+SAFRER       UM665       0020TULAPHCEA      O                             1891     24500     60000                                  
+SAFRER       UM665       0030RAGGS  EA      O                             0680     24500     60000                                  

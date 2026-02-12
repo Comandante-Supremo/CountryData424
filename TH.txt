@@ -1,0 +1,540 @@
+SASIEAENRT   ALBOS VT           N14444174E101014191                                                                                 
+SASIEAENRT   ALENA VT           N14325310E100282520                                                                                 
+SASIEAENRT   ANNDY VT           N15411192E100174820                                                                                 
+SASIEAENRT   ANNIE VT           N14031960E100121714                                                                                 
+SASIEAENRT   ANTIC VT           N13555760E100120900                                                                                 
+SASIEAENRT   ARICA VT           N14285580E100163780                                                                                 
+SASIEAENRT   ARONS VT           N14071320E1001502100                                                                                
+SASIEAENRT   BAKKE VT           N13401080E1003844100                                                                                
+SASIEAENRT   BARKY VT           N15222882E100172422                                                                                 
+SASIEAENRT   BATOK VT           N13560600E101535360                                                                                 
+SASIEAENRT   BD011 VT           N13490638E100270294                                                                                 
+SASIEAENRT   BD012 VT           N13522235E100193216                                                                                 
+SASIEAENRT   BD013 VT           N13580098E099544788                                                                                 
+SASIEAENRT   BD021 VT           N13562328E100233434                                                                                 
+SASIEAENRT   BD022 VT           N14312141E100495254                                                                                 
+SASIEAENRT   BD023 VT           N14272399E100254975                                                                                 
+SASIEAENRT   BD024 VT           N14301822E100190004                                                                                 
+SASIEAENRT   BD025 VT           N14290427E100162494                                                                                 
+SASIEAENRT   BD026 VT           N15112604E100094381                                                                                 
+SASIEAENRT   BD027 VT           N14090346E100152974                                                                                 
+SASIEAENRT   BD028 VT           N14195617E100044057                                                                                 
+SASIEAENRT   BD029 VT           N14040510E099562100                                                                                 
+SASIEAENRT   BD032 VT           N14035391E101052593                                                                                 
+SASIEAENRT   BD033 VT           N13581885E101065057                                                                                 
+SASIEAENRT   BD034 VT           N13545408E101272891                                                                                 
+SASIEAENRT   BD035 VT           N13332088E101212599                                                                                 
+SASIEAENRT   BD036 VT           N13224696E101142410                                                                                 
+SASIEAENRT   BD037 VT           N13095860E100562812                                                                                 
+SASIEAENRT   BEKOD VT           N16211722E099463638                                                                                 
+SASIEAENRT   BETTY VT           N14424544E100382506                                                                                 
+SASIEAENRT   BIDEM VT           N14215357E103475007                                                                                 
+SASIEAENRT   BKK05 VT           N13492392E100325825                                                                                 
+SASIEAENRT   BKK08 VT           N14002134E100401538                                                                                 
+SASIEAENRT   BKK15 VT           N13460417E100222487                                                                                 
+SASIEAENRT   BKK25 VT           N13515363E100305631                                                                                 
+SASIEAENRT   BOMAS VT           N17230482E098054908                                                                                 
+SASIEAENRT   BRUCE VT           N13334667E100344651                                                                                 
+SASIEAENRT   BS511 VT           N13274740E100500780                                                                                 
+SASIEAENRT   BS512 VT           N13301260E100562220                                                                                 
+SASIEAENRT   BS513 VT           N13500060E101110180                                                                                 
+SASIEAENRT   BS514 VT           N13491410E1012520100                                                                                
+SASIEAENRT   BS516 VT           N13314260E101190540                                                                                 
+SASIEAENRT   BS517 VT           N13284110E100421740                                                                                 
+SASIEAENRT   BS521 VT           N13315280E100353840                                                                                 
+SASIEAENRT   BS522 VT           N13351200E100280960                                                                                 
+SASIEAENRT   BS523 VT           N13372700E100230540                                                                                 
+SASIEAENRT   BS524 VT           N13433240E100192940                                                                                 
+SASIEAENRT   BS531 VT           N14004380E100395400                                                                                 
+SASIEAENRT   BS532 VT           N14184920E100541320                                                                                 
+SASIEAENRT   BS533 VT           N14144860E100595100                                                                                 
+SASIEAENRT   BS611 VT           N13470420E100575040                                                                                 
+SASIEAENRT   BS612 VT           N13522160E101254320                                                                                 
+SASIEAENRT   BS613 VT           N13361440E101224980                                                                                 
+SASIEAENRT   BS614 VT           N13292520E101194740                                                                                 
+SASIEAENRT   BS621 VT           N13424080E100573720                                                                                 
+SASIEAENRT   BS622 VT           N13303300E100541740                                                                                 
+SASIEAENRT   BS631 VT           N14014020E100494260                                                                                 
+SASIEAENRT   BS632 VT           N14265340E100563840                                                                                 
+SASIEAENRT   BS633 VT           N14294320E100514440                                                                                 
+SASIEAENRT   BS634 VT           N14121260E100263480                                                                                 
+SASIEAENRT   BS642 VT           N13500720E100412220                                                                                 
+SASIEAENRT   BS643 VT           N13533840E100350840                                                                                 
+SASIEAENRT   BS644 VT           N13595100E100435580                                                                                 
+SASIEAENRT   BS651 VT           N13373960E1004956100                                                                                
+SASIEAENRT   BS652 VT           N13363660E100560060                                                                                 
+SASIEAENRT   BS653 VT           N13570720E100550360                                                                                 
+SASIEAENRT   BURAN VT           N14234740E100091980                                                                                 
+SASIEAENRT   BUT01 VT           N12542999E101020747                                                                                 
+SASIEAENRT   BUT05 VT           N12543744E101010572                                                                                 
+SASIEAENRT   BUT08 VT           N12423776E101142521                                                                                 
+SASIEAENRT   BUT10 VT           N12493218E101011936                                                                                 
+SASIEAENRT   BUT11 VT           N12513130E101013860                                                                                 
+SASIEAENRT   BUT13 VT           N12541833E101030855                                                                                 
+SASIEAENRT   BUT15 VT           N12383620E100595605                                                                                 
+SASIEAENRT   BUT16 VT           N12425859E101162622                                                                                 
+SASIEAENRT   BUT20 VT           N12503750E101010712                                                                                 
+SASIEAENRT   BUT21 VT           N12483600E101005760                                                                                 
+SASIEAENRT   BUT22 VT           N12453713E101004216                                                                                 
+SASIEAENRT   BUT50 VT           N12450414E101003608                                                                                 
+SASIEAENRT   BYLON VT           N13275580E100472340                                                                                 
+SASIEAENRT   CABIN VT           N13180840E101114980                                                                                 
+SASIEAENRT   CAMBO VT           N13340000E1021759100                                                                                
+SASIEAENRT   CANDY VT           N14210434E101173713                                                                                 
+SASIEAENRT   CAROS VT           N14243060E101114440                                                                                 
+SASIEAENRT   CGM02 VT           N18450307E098575336                                                                                 
+SASIEAENRT   CGM08 VT           N18390875E098561894                                                                                 
+SASIEAENRT   CGM13 VT           N18341637E098550110                                                                                 
+SASIEAENRT   CGM47 VT           N18255071E099115078                                                                                 
+SASIEAENRT   CGM61 VT           N18232058E099062375                                                                                 
+SASIEAENRT   CHARY VT           N15103263E100165205                                                                                 
+SASIEAENRT   CHATO VT           N13532520E100484740                                                                                 
+SASIEAENRT   CHEST VT           N13483180E101102340                                                                                 
+SASIEAENRT   CHRIS VT           N13562698E100100839                                                                                 
+SASIEAENRT   CMA12 VT           N18335473E098574055                                                                                 
+SASIEAENRT   CMA16 VT           N18230206E099052878                                                                                 
+SASIEAENRT   CMA24 VT           N18254430E099112602                                                                                 
+SASIEAENRT   CMA25 VT           N19063173E099124974                                                                                 
+SASIEAENRT   CMA35 VT           N18550102E099042014                                                                                 
+SASIEAENRT   CMA99 VT           N18505424E099011842                                                                                 
+SASIEAENRT   COACH VT           N13581680E100500420                                                                                 
+SASIEAENRT   COSMO VT           N13384380E101041860                                                                                 
+SASIEAENRT   CTR07 VT           N19505584E099490385                                                                                 
+SASIEAENRT   CTR08 VT           N19505645E099492403                                                                                 
+SASIEAENRT   CTR12 VT           N19454908E099454157                                                                                 
+SASIEAENRT   CTR18 VT           N19552165E099515934                                                                                 
+SASIEAENRT   CTR40 VT           N20004445E099562504                                                                                 
+SASIEAENRT   CTR45 VT           N19530364E099502820                                                                                 
+SASIEAENRT   CTR99 VT           N19453909E099462091                                                                                 
+SASIEAENRT   CYDER VT           N14275460E100153840                                                                                 
+SASIEAENRT   DAINO VT           N17131805E102355875                                                                                 
+SASIEAENRT   DANNY VT           N13235220E1010705100                                                                                
+SASIEAENRT   DEBRA VT           N13314260E100430420                                                                                 
+SASIEAENRT   DELTA VT           N17203500E100560580                                                                                 
+SASIEAENRT   DONNA VT           N14064726E100431532                                                                                 
+SASIEAENRT   EBONE VT           N08071110E0982529100                                                                                
+SASIEAENRT   EKAVO VT           N11373610E099302240                                                                                 
+SASIEAENRT   ETHAN VT           N14101260E099575880                                                                                 
+SASIEAENRT   EXSON VT           N13445310E1004632100                                                                                
+SASIEAENRT   FRANK VT           N14051403E100192237                                                                                 
+SASIEAENRT   GIPSY VT           N14051020E100143840                                                                                 
+SASIEAENRT   GOMES VT           N13240614E101350573                                                                                 
+SASIEAENRT   GRANT VT           N13515084E100511335                                                                                 
+SASIEAENRT   HAPPY VT           N14384663E102145079                                                                                 
+SASIEAENRT   HELEN VT           N13365923E100521070                                                                                 
+SASIEAENRT   HELTY VT           N16210718E100172870                                                                                 
+SASIEAENRT   HONEY VT           N14130351E100582511                                                                                 
+SASIEAENRT   HTY02 VT           N07080624E100234176                                                                                 
+SASIEAENRT   HTY06 VT           N06564167E100282825                                                                                 
+SASIEAENRT   HTY08 VT           N06565920E100302769                                                                                 
+SASIEAENRT   HTY18 VT           N06435925E100225120                                                                                 
+SASIEAENRT   HTY72 VT           N06594632E100344556                                                                                 
+SASIEAENRT   HTY82 VT           N06574296E100352614                                                                                 
+SASIEAENRT   HTY92 VT           N06553733E100352048                                                                                 
+SASIEAENRT   INTRA VT           N14070540E101211260                                                                                 
+SASIEAENRT   JACKY VT           N14582713E102100445                                                                                 
+SASIEAENRT   JASSY VT           N14010376E100324135                                                                                 
+SASIEAENRT   JEANS VT           N14165280E100161860                                                                                 
+SASIEAENRT   JORGE VT           N14191020E1005420100                                                                                
+SASIEAENRT   KOYAI VT           N07100682E100234598                                                                                 
+SASIEAENRT   KPS01 VT           N14074301E099555274                                                                                 
+SASIEAENRT   KRT02 VT           N14571425E102070767                                                                                 
+SASIEAENRT   KRT03 VT           N14542217E102014973                                                                                 
+SASIEAENRT   KRT08 VT           N14591429E102115890                                                                                 
+SASIEAENRT   KRT11 VT           N14550022E102024560                                                                                 
+SASIEAENRT   KRT35 VT           N14512916E101573586                                                                                 
+SASIEAENRT   LABRA VT           N14231380E100081980                                                                                 
+SASIEAENRT   LANSO VT           N14324620E100465880                                                                                 
+SASIEAENRT   LASER VT           N13323180E100420240                                                                                 
+SASIEAENRT   LEKSI VT           N16415798E100203929                                                                                 
+SASIEAENRT   LEMON VT           N13472460E100471260                                                                                 
+SASIEAENRT   LEVIN VT           N13342160E100423120                                                                                 
+SASIEAENRT   LOUIS VT           N13355940E100441260                                                                                 
+SASIEAENRT   LYNDA VT           N13500240E1004753100                                                                                
+SASIEAENRT   MACHI VT           N19122230E098350670                                                                                 
+SASIEAENRT   MAHON VT           N13142340E101042280                                                                                 
+SASIEAENRT   MAILA VT           N19323093E099341988                                                                                 
+SASIEAENRT   MAKAS VT           N16500490E098294650                                                                                 
+SASIEAENRT   MAREE VT           N06390390E101411155                                                                                 
+SASIEAENRT   MARGE VT           N13582340E100485040                                                                                 
+SASIEAENRT   MISTA VT           N13304020E100361560                                                                                 
+SASIEAENRT   MIYAA VT           N14010874E100272979                                                                                 
+SASIEAENRT   MOCHI VT           N14360210E101393480                                                                                 
+SASIEAENRT   MODON VT           N08301985E098372592                                                                                 
+SASIEAENRT   MORIN VT           N14214235E100410628                                                                                 
+SASIEAENRT   NAPAR VT           N15053693E100155823                                                                                 
+SASIEAENRT   NAUTY VT           N14315160E100462940                                                                                 
+SASIEAENRT   NENAR VT           N08555667E099242637                                                                                 
+SASIEAENRT   NESTA VT           N14132700E100231560                                                                                 
+SASIEAENRT   NISSA VT           N17070156E102590412                                                                                 
+SASIEAENRT   NOBER VT           N15163560E1004005100                                                                                
+SASIEAENRT   NOBIT VT           N14301110E100195040                                                                                 
+SASIEAENRT   NORDY VT           N17213907E103072164                                                                                 
+SASIEAENRT   NTW01 VT           N06323335E101450702                                                                                 
+SASIEAENRT   NTW02 VT           N06394866E101262005                                                                                 
+SASIEAENRT   NTW03 VT           N06271206E101425343                                                                                 
+SASIEAENRT   NTW04 VT           N06345449E101372158                                                                                 
+SASIEAENRT   NTW06 VT           N06340544E101391182                                                                                 
+SASIEAENRT   NTW07 VT           N06245660E101423203                                                                                 
+SASIEAENRT   NTW09 VT           N06365709E101324597                                                                                 
+SASIEAENRT   NTW12 VT           N06363257E101334110                                                                                 
+SASIEAENRT   NTW15 VT           N06330091E101440568                                                                                 
+SASIEAENRT   NTW19 VT           N06265136E101430929                                                                                 
+SASIEAENRT   NTW29 VT           N06321505E101431982                                                                                 
+SASIEAENRT   NTW42 VT           N06372651E101313982                                                                                 
+SASIEAENRT   NTW51 VT           N06203686E101493679                                                                                 
+SASIEAENRT   NTW56 VT           N06195276E101495641                                                                                 
+SASIEAENRT   NTW70 VT           N06243707E101414700                                                                                 
+SASIEAENRT   NTW94 VT           N06354354E101353134                                                                                 
+SASIEAENRT   NTW95 VT           N06185775E101422846                                                                                 
+SASIEAENRT   NTW96 VT           N06202944E101381657                                                                                 
+SASIEAENRT   NTW97 VT           N06365219E1013256100                                                                                
+SASIEAENRT   NTW98 VT           N06194260E101395580                                                                                 
+SASIEAENRT   NTW99 VT           N06200971E101405888                                                                                 
+SASIEAENRT   NUMAN VT           N14180210E100351380                                                                                 
+SASIEAENRT   OKENA VT           N16162750E104232930                                                                                 
+SASIEAENRT   OSADI VT           N18192810E098521901                                                                                 
+SASIEAENRT   OSUKA VT           N14425368E099424850                                                                                 
+SASIEAENRT   PAELY VT           N19270436E099572522                                                                                 
+SASIEAENRT   PANDA VT           N15272893E100165713                                                                                 
+SASIEAENRT   PANYA VT           N18385658E098574551                                                                                 
+SASIEAENRT   PARKK VT           N13292520E100411380                                                                                 
+SASIEAENRT   PASTA VT           N13595700E099295520                                                                                 
+SASIEAENRT   PASVA VT           N06152900E102043100                                                                                 
+SASIEAENRT   PATTY VT           N14034324E100483389                                                                                 
+SASIEAENRT   PAULA VT           N13431671E100231079                                                                                 
+SASIEAENRT   PETER VT           N13544680E100423480                                                                                 
+SASIEAENRT   PIGMY VT           N14192310E100041380                                                                                 
+SASIEAENRT   PINNY VT           N14513207E100231021                                                                                 
+SASIEAENRT   PKT04 VT           N08070814E098222586                                                                                 
+SASIEAENRT   PKT07 VT           N08072253E098252677                                                                                 
+SASIEAENRT   POPPY VT           N09133717E099135494                                                                                 
+SASIEAENRT   PRIKY VT           N06415867E100224699                                                                                 
+SASIEAENRT   PSL04 VT           N16491805E100144776                                                                                 
+SASIEAENRT   PSL11 VT           N16363326E100230214                                                                                 
+SASIEAENRT   PSL12 VT           N16552736E100092562                                                                                 
+SASIEAENRT   PSL15 VT           N16414969E100200033                                                                                 
+SASIEAENRT   PSL17 VT           N16351834E100191628                                                                                 
+SASIEAENRT   PSL19 VT           N16484111E100151995                                                                                 
+SASIEAENRT   PSL27 VT           N16494148E099513901                                                                                 
+SASIEAENRT   PSL31 VT           N16451534E100180207                                                                                 
+SASIEAENRT   PSL32 VT           N17094838E100013242                                                                                 
+SASIEAENRT   PSL33 VT           N17083586E100053706                                                                                 
+SASIEAENRT   PSL35 VT           N17111472E100151205                                                                                 
+SASIEAENRT   PSL45 VT           N16575209E100141415                                                                                 
+SASIEAENRT   PSL99 VT           N16513656E1001246100                                                                                
+SASIEAENRT   PUKOK VT           N18000450E097424670                                                                                 
+SASIEAENRT   PUT07 VT           N08070951E098252618                                                                                 
+SASIEAENRT   PUT39 VT           N08161733E098260002                                                                                 
+SASIEAENRT   R1297 VT           N13553500E100364480                                                                                 
+SASIEAENRT   R1867 VT           N12414410E101002286                                                                                 
+SASIEAENRT   R1868 VT           N15153502E104525220                                                                                 
+SASIEAENRT   R1869 VT           N19562575E099523351                                                                                 
+SASIEAENRT   R1870 VT           N14064598E099552456                                                                                 
+SASIEAENRT   R1871 VT           N18451015E098574531                                                                                 
+SASIEAENRT   R1872 VT           N16461916E100171469                                                                                 
+SASIEAENRT   R1873 VT           N06560310E100242395                                                                                 
+SASIEAENRT   R1874 VT           N06304180E101442327                                                                                 
+SASIEAENRT   R1875 VT           N13552851E100365582                                                                                 
+SASIEAENRT   R1876 VT           N17224862E102480373                                                                                 
+SASIEAENRT   R2552 VT           N08065222E098194968                                                                                 
+SASIEAENRT   RAMBI VT           N16375419E100234285                                                                                 
+SASIEAENRT   RAMBU VT           N15035124E103231632                                                                                 
+SASIEAENRT   RAMEI VT           N15010357E102594072                                                                                 
+SASIEAENRT   RANDY VT           N13480780E100460840                                                                                 
+SASIEAENRT   RECNO VT           N08342530E099282490                                                                                 
+SASIEAENRT   REGAL VT           N13501920E100464320                                                                                 
+SASIEAENRT   RESIN VT           N14312760E100214260                                                                                 
+SASIEAENRT   REVER VT           N15002468E102144983                                                                                 
+SASIEAENRT   ROBIN VT           N13533180E100473360                                                                                 
+SASIEAENRT   ROCHA VT           N14093377E100374673                                                                                 
+SASIEAENRT   ROMAN VT           N13332940E1004332100                                                                                
+SASIEAENRT   ROTAR VT           N14065280E099575460                                                                                 
+SASIEAENRT   ROVEN VT           N13365220E100431080                                                                                 
+SASIEAENRT   RULOK VT           N14250000E104520600                                                                                 
+SASIEAENRT   SALEE VT           N15100538E104390099                                                                                 
+SASIEAENRT   SAMOS VT           N08181134E098462616                                                                                 
+SASIEAENRT   SANIT VT           N17093127E102462896                                                                                 
+SASIEAENRT   SANTI VT           N17181274E102572678                                                                                 
+SASIEAENRT   SAVIE VT           N13521020E100534620                                                                                 
+SASIEAENRT   SELKA VT           N14213590E101594750                                                                                 
+SASIEAENRT   SENAL VT           N14523852E101591760                                                                                 
+SASIEAENRT   SHEEN VT           N13291080E100422520                                                                                 
+SASIEAENRT   SHITA VT           N14043720E100245940                                                                                 
+SASIEAENRT   SP113 VT           N08200508E098222107                                                                                 
+SASIEAENRT   SP114 VT           N08231394E098271473                                                                                 
+SASIEAENRT   SP115 VT           N08204335E098342895                                                                                 
+SASIEAENRT   STARY VT           N14355437E101344808                                                                                 
+SASIEAENRT   STN02 VT           N09062396E099063631                                                                                 
+SASIEAENRT   STN07 VT           N09025823E099025442                                                                                 
+SASIEAENRT   STN09 VT           N09013593E099012569                                                                                 
+SASIEAENRT   STN12 VT           N09004063E099175415                                                                                 
+SASIEAENRT   STN14 VT           N08592967E099193229                                                                                 
+SASIEAENRT   STN22 VT           N08593246E098591260                                                                                 
+SASIEAENRT   STONE VT           N08175106E098271628                                                                                 
+SASIEAENRT   SYNDY VT           N14040919E100414545                                                                                 
+SASIEAENRT   TANEK VT           N14030550E098581650                                                                                 
+SASIEAENRT   TARDY VT           N14262760E099321740                                                                                 
+SASIEAENRT   TARIS VT           N08364104E098230695                                                                                 
+SASIEAENRT   TATEL VT           N17290483E098454877                                                                                 
+SASIEAENRT   TEAKY VT           N15162820E100032769                                                                                 
+SASIEAENRT   TEGER VT           N15094753E102374085                                                                                 
+SASIEAENRT   TEREX VT           N15003180E100133780                                                                                 
+SASIEAENRT   TERRY VT           N14190420E1010732100                                                                                
+SASIEAENRT   THANI VT           N15124477E104373643                                                                                 
+SASIEAENRT   THIWA VT           N06372372E101313670                                                                                 
+SASIEAENRT   THUNA VT           N14494557E101550397                                                                                 
+SASIEAENRT   THUNR VT           N14495006E101550020                                                                                 
+SASIEAENRT   TIGER VT           N13515139E100344651                                                                                 
+SASIEAENRT   TKL02 VT           N15182860E100174370                                                                                 
+SASIEAENRT   TKL10 VT           N15055577E100115563                                                                                 
+SASIEAENRT   TKL12 VT           N15161570E100053146                                                                                 
+SASIEAENRT   TKL19 VT           N15142957E100173726                                                                                 
+SASIEAENRT   TKL20 VT           N15050451E100135424                                                                                 
+SASIEAENRT   TKL35 VT           N15271891E100122967                                                                                 
+SASIEAENRT   TKL45 VT           N15280414E100143105                                                                                 
+SASIEAENRT   TOPER VT           N14350590E102434720                                                                                 
+SASIEAENRT   UBL07 VT           N15184944E104565767                                                                                 
+SASIEAENRT   UBL12 VT           N15220795E105014491                                                                                 
+SASIEAENRT   UBL33 VT           N15142385E104512010                                                                                 
+SASIEAENRT   UBL43 VT           N15234025E105001633                                                                                 
+SASIEAENRT   UBL83 VT           N15162307E105041540                                                                                 
+SASIEAENRT   UBL99 VT           N15232301E104431925                                                                                 
+SASIEAENRT   UDN07 VT           N17203472E102523514                                                                                 
+SASIEAENRT   UDN13 VT           N17113105E102464264                                                                                 
+SASIEAENRT   UDN14 VT           N17150244E102375106                                                                                 
+SASIEAENRT   UNICK VT           N18390062E0985728100                                                                                
+SASIEAENRT   UTTAR VT           N17430490E100270600                                                                                 
+SASIEAENRT   VARIS VT           N13453720E100452880                                                                                 
+SASIEAENRT   VIRAT VT           N15245972E104424100                                                                                 
+SASIEAENRT   WAYNE VT           N13574020E0995444100                                                                                
+SASIEAENRT   YAKUA VT           N17441479E101305165                                                                                 
+SASIEAENRT   ZONYA VT           N13551139E100432925                                                                                 
+SASIDB       BK    VT000293     N13594070E100390320                                                                                 
+SASIDB       BR    VT000303     N15141918E103150915                                                                                 
+SASIDB       NS    VT000345     N08274200E099574200                                                                                 
+SASIDB       CGM   VT000255     N18453532E098580196                                                                                 
+SASIDB       CT    VT000277     N19573507E099525909                                                                                 
+SASIDB       CP    VT000279     N10430393E099215799                                                                                 
+SASIDB       HY    VT000328     N06561100E100232007                                                                                 
+SASIDB       HN    VT000213     N12383536E099565860                                                                                 
+SASIDB       KPS   VT000251     N14101385E099572341                                                                                 
+SASIDB       KN    VT000393     N16274341E102470418                                                                                 
+SASIDB       KB    VT000299     N08061900E098582825                                                                                 
+SASIDB       LP    VT000395     N18164088E099302688                                                                                 
+SASIDB       LY    VT000325     N17265509E101433541                                                                                 
+SASIDB       LB    VT000280     N14531068E100393606                                                                                 
+SASIDB       NP    VT000383     N17233269E104383344                                                                                 
+SASIDB       KR    VT000399     N14572328E102185293                                                                                 
+SASIDB       NK    VT000289     N08324808E099562667                                                                                 
+SASIDB       NN    VT000355     N18480120E100465828                                                                                 
+SASIDB       NT    VT000383     N06312061E101445475                                                                                 
+SASIDB       PT    VT000201     N06471845E101085251                                                                                 
+SASIDB       PH    VT000283     N16393913E101112530                                                                                 
+SASIDB       PL    VT000263     N16474544E100163262                                                                                 
+SASIDB       PR    VT000340     N18074614E100094091                                                                                 
+SASIDB       PU    VT000360     N08060598E098182241                                                                                 
+SASIDB       PB    VT000201     N14071194E101220579                                                                                 
+SASIDB       PCK   VT000320     N11472450E099482459                                                                                 
+SASIDB       RN    VT000375     N09465991E098352760                                                                                 
+SASIDB       RE    VT000319     N16063846E103464160                                                                                 
+SASIDB       SN    VT000365     N17114917E104065342                                                                                 
+SASIDB       SAV   VT000290     N16331100E104453700                                                                                 
+SASIDB       SK    VT000410     N07111700E100361500                                                                                 
+SASIDB       THS   VT000292     N17140681E099491923                                                                                 
+SASIDB       SR    VT000338     N09075929E099084363                                                                                 
+SASIDB       TK    VT000332     N16535824E099150791                                                                                 
+SASIDB       TL    VT000350     N15160890E100175105                                                                                 
+SASIDB       TR    VT000248     N07304259E099371234                                                                                 
+SASIDB       UP    VT000414     N12394832E100593003                                                                                 
+SASIDB       UB    VT000373     N15142583E104514877                                                                                 
+SASIDB       UD    VT000236     N17231617E102461149                                                                                 
+SASIDB       WN    VT000270     N13460610E1021842100                                                                                
+SASID        BKK   VT011770V    N13533680E100354630                                                                                 
+SASID        BRM   VT011720V    N15142243E103153159                                                                                 
+SASID        CMA   VT011690V    N18455803E098574055                                                                                 
+SASID        CTR   VT011650V    N19565365E099530012                                                                                 
+SASID        CMP   VT011290V    N16381130E101590540                                                                                 
+SASID        CPN   VT011000V    N10424021E099215603                                                                                 
+SASID        HTY   VT011530V    N06560275E100231647                                                                                 
+SASID        HHN   VT011330V    N12380404E099570423                                                                                 
+SASID        KPS   VT011450V    N14100185E099570342                                                                                 
+SASID        KKN   VT011490V    N16281473E102471607                                                                                 
+SASID        KRT   VT011370V    N14550235E102082332                                                                                 
+SASID        KBI   VT011100V    N08062719E098583907                                                                                 
+SASID        LPN   VT011470V    N18163675E099300864                                                                                 
+SASID        LOY   VT011590V    N17264938E101432312                                                                                 
+SASID        NKP   VT011160V    N17231787E104381801                                                                                 
+SASID        NKR   VT011020V    N14564766E102184035                                                                                 
+SASID        NKS   VT011740V    N08322995E099564867                                                                                 
+SASID        NAN   VT011570V    N18483276E100465731                                                                                 
+SASID        NTW   VT011630V    N06313824E101444248                                                                                 
+SASID        PCB   VT011540V    N16403366E101114812                                                                                 
+SASID        PSL   VT011410V    N16461334E100172870                                                                                 
+SASID        PAE   VT011180V    N18080278E100095835                                                                                 
+SASID        PUT   VT011690V    N08065483E098182269                                                                                 
+SASID        RAN   VT011340V    N09464318E098350211                                                                                 
+SASID        RYN   VT011250V    N12464830E101404170                                                                                 
+SASID        ROT   VT011120V    N16070059E103461945                                                                                 
+SASID        SPN   VT011730V    N14570152E1003831100                                                                                
+SASID        SKN   VT011420V    N17125089E104081234                                                                                 
+SASID        SAV   VT011350V    N16334200E104455600                                                                                 
+SASID        SKL   VT011350V    N07111965E100361511                                                                                 
+SASID        STN   VT011060V    N09074624E099080509                                                                                 
+SASID        SVB   VT011140V    N13393853E100434130                                                                                 
+SASID        TRN   VT011660V    N07303217E099373367                                                                                 
+SASID        BUT   VT011080V    N12400632E100594803                                                                                 
+SASID        UBL   VT011270V    N15144271E104515730                                                                                 
+SASID        UDN   VT011430V    N17230420E102463005                                                                                 
+SASID        IBKD  VT010970 D   N13554488E100364753                                                                                 
+SASID        IDMG  VT011030 D   N13535180E100360180                                                                                 
+SASID        ISWS  VT010910 D   N13422230E100443780                                                                                 
+SASID        ISES  VT011010 D   N13413930E100454210                                                                                 
+SASID        ISEN  VT011050 D   N13391500E100450420                                                                                 
+SASID        ISWN  VT010950 D   N13400750E100440240                                                                                 
+SASID        IBUT  VT011110 D   N12393676E101001224                                                                                 
+SASID        ICMA  VT010990 D   N18470869E098574419                                                                                 
+SASID        ILPN  VT010970 D   N18165187E099301439                                                                                 
+SASID        INAN  VT011030 D   N18490417E100471185                                                                                 
+SASID        ICTR  VT010950 D   N19575952E099532850                                                                                 
+SASID        IPCB  VT010910 D   N16411766E101114485                                                                                 
+SASID        ITKL  VT010990 D   N15171410E100175200                                                                                 
+SASID        ISKT  VT010950 D   N17145785E099490924                                                                                 
+SASID        IPSL  VT011010 D   N16474424E100161026                                                                                 
+SASID        ISTN  VT010950 D   N09071515E099072684                                                                                 
+SASID        INTW  VT011010 D   N06304890E101443060                                                                                 
+SASID        ICPN  VT010990 D   N10422040E099210242                                                                                 
+SASID        INKS  VT010970 D   N08330152E099564774                                                                                 
+SASID        IKBI  VT011010 D   N08062946E098584031                                                                                 
+SASID        IPKT  VT010990 D   N08064893E098182465                                                                                 
+SASID        IRAN  VT011110 D   N09471817E098352492                                                                                 
+SASID        IHTY  VT010990 D   N06554907E100223014                                                                                 
+SASID        ITRN  VT011030 D   N07303642E099374317                                                                                 
+SASID        IUDN  VT011010 D   N17234125E102461625                                                                                 
+SASID        ISKN  VT011030 D   N17110606E104063252                                                                                 
+SASID        IBRM  VT010930 D   N15142912E103153963                                                                                 
+SASID        INKR  VT010970 D   N14571724E102192661                                                                                 
+SASID        IUBL  VT011010 D   N15142385E104512010                                                                                 
+SASID        IROT  VT010950 D   N16074436E103462522                                                                                 
+SASID        INKP  VT010970 D   N17221939E104390302                                                                                 
+SASID        BKK   VT011770 D   N13533680E100354630                                                                                 
+SASID        BRM   VT011720 D   N15142243E103153159                                                                                 
+SASID        CMA   VT011690 D   N18455803E098574055                                                                                 
+SASID        CTR   VT011650 D   N19565365E099530012                                                                                 
+SASID        CMP   VT011290 D   N16381130E101590540                                                                                 
+SASID        CPN   VT011000 D   N10424021E099215603                                                                                 
+SASID        HTY   VT011530 D   N06560275E100231647                                                                                 
+SASID        HHN   VT011330 D   N12380404E099570423                                                                                 
+SASID        KPS   VT011450 D   N14100185E099570342                                                                                 
+SASID        KKN   VT011490 D   N16281473E102471607                                                                                 
+SASID        KRT   VT011370 D   N14550235E102082332                                                                                 
+SASID        KBI   VT011100 D   N08062719E098583907                                                                                 
+SASID        LPN   VT011470 D   N18163675E099300864                                                                                 
+SASID        LOY   VT011590 D   N17264938E101432312                                                                                 
+SASID        NKP   VT011160 D   N17231787E104381801                                                                                 
+SASID        NKR   VT011020 D   N14564766E102184035                                                                                 
+SASID        NKS   VT011740 D   N08322995E099564867                                                                                 
+SASID        NAN   VT011570 D   N18483276E100465731                                                                                 
+SASID        NTW   VT011630 D   N06313824E101444248                                                                                 
+SASID        PCB   VT011540 D   N16403366E101114812                                                                                 
+SASID        PSL   VT011410 D   N16461334E100172870                                                                                 
+SASID        PAE   VT011180 D   N18080278E100095835                                                                                 
+SASID        PUT   VT011690 D   N08065483E098182269                                                                                 
+SASID        RAN   VT011340 D   N09464318E098350211                                                                                 
+SASID        RYN   VT011250 D   N12464830E101404170                                                                                 
+SASID        ROT   VT011120 D   N16070059E103461945                                                                                 
+SASID        SKN   VT011420 D   N17125089E104081234                                                                                 
+SASID        SAV   VT011350 D   N16334200E104455600                                                                                 
+SASID        SKL   VT011350 D   N07111965E100361511                                                                                 
+SASID        STN   VT011060 D   N09074624E099080509                                                                                 
+SASID        SVB   VT011140 D   N13393853E100434130                                                                                 
+SASID        TRN   VT011660 D   N07303217E099373367                                                                                 
+SASID        BUT   VT011080 D   N12400632E100594803                                                                                 
+SASID        UBL   VT011270 D   N15144271E104515730                                                                                 
+SASID        UDN   VT011430 D   N17230420E102463005                                                                                 
+SASID        CHM   VT011620 D   N18461645E098580060                                                                                 
+SASID        HTY   VT011570 D   N06554879E100233249                                                                                 
+SASID        KPS   VT011510 D   N14052787E099544444                                                                                 
+SASID        KRT   VT011780 D   N14560594E102042211                                                                                 
+SASID        LOB   VT011680 D   N14525000E1003939100                                                                                
+SASID        PSL   VT011520 D   N16472912E100163013                                                                                 
+SASID        PCK   VT011370 D   N11481250E099483659                                                                                 
+SASID        THS   VT011030 D   N17140827E099491989                                                                                 
+SASID        SRT   VT011320 D   N09075893E099075385                                                                                 
+SASID        TKL   VT011480 D   N15162867E100175669                                                                                 
+SASID        BUT   VT011580 D   N12402945E101002458                                                                                 
+SASID        UBL   VT011460 D   N15154782E104525818                                                                                 
+SASID        UDN   VT011390 D   N17225910E102475295                                                                                 
+SASIER       A464        0080HTY  VTD       O                             0276     08500     46000                                  
+SASIER       A464        0090RELIP  EA      O                             0686     03500     46000                                  
+SASIER       G474        0010BATOKVTEA      O                                      09500     46000                                  
+SASIER       G474        0020BKK  VTD       O                             0759     09500     46000                                  
+SASIER       L759        0090PUT  VTD       O                             1536     10500     46000                                  
+SASIER       G463-       0020BKK  VTD       O                             1570     09500     46000                                  
+SASIER       A581        0030PUKOKVTEA      O                             0124     21500     46000                                  
+SASIER       A581        0040OSADIVTEA      O                             0689     27500     46000                                  
+SASIER       A581        0050CMA  VTD       O                             0270     27500     46000                                  
+SASIER       B463        0050EKAVOVTEA      O                             1669     10000     46000                                  
+SASIER       B463        0060MENEX  EA      O                             0328     09500     46000                                  
+SASIER       G473        0030MAKASVTEA      O                             0368     10000     46000                                  
+SASIER       G473        0040PSL  VTD       O                             1032     09000     46000                                  
+SASIER       G473        0050CMP  VTD       O                             0977     09000     46000                                  
+SASIER       G473        0060UBL  VTD       O                             1861     09000     46000                                  
+SASIER       A457        0070HTY  VTD       O                             0243     09500     46000                                  
+SASIER       R201        0010BKK  VTD       O                                      06500     46000                                  
+SASIER       R201        0020BUT  VTD       O                             0772     06500     46000                                  
+SASIER       R468        0010BKK  VTD       O                                      07500     46000                                  
+SASIER       R468        0020GOMESVTEA      O                             0648     07500     46000                                  
+SASIER       R468        0030BOKAKVDEA      O                             0595     07500     46000                                  
+SASIER       G458-       0010BKK  VTD       O                                      07500     15000                                  
+SASIER       G458-       0020HOTEL  EA      O                             0558     07500     15000                                  
+SASIER       A202-       0010BKK  VTD       O                                      06500     46000                                  
+SASIER       A202-       0020KRT  VTD       O                             1088     06500     46000                                  
+SASIER       A202-       0030RAMEIVTEA      O                             0499     06500     46000                                  
+SASIER       B346-       0010BKK  VTD       O                                      10000     46000                                  
+SASIER       B346-       0020NOBERVTEA      O                             0831     10000     46000                                  
+SASIER       A1-L5       0010BKK  VTD       O                                      08000     27000                                  
+SASIER       A1-L5       0020OSUKAVTEA      O                             0712     08000     27000                                  
+SASIER       A1-L5       0030LIMLAVYEA      O                             0905     08000     27000                                  
+SASIER       A464-       0010BKK  VTD       O                                      06500     46000                                  
+SASIER       A464-       0020POLAK  EA      O                             0325     06500     46000                                  
+SASIER       B205        0020RYN  VTD       O                             0491     15500     46000                                  
+SASIER       A581S       0010BOMASVTEA      O                                      10500     46000                                  
+SASIER       A581S       0020TATELVTEA      O                             0387     10500     46000                                  
+SASIER       A581S       0030CMA  VTD       O                             0778     10500     46000                                  
+SASIER       B202        0030UBL  VTD       O                             0506     26000     46000                                  
+SASIER       A581-       0010CMA  VTD       O                                      07500     35000                                  
+SASIER       A581-       0020CTR  VTD       O                             0881     07500     35000                                  
+SASIER       R207-       0010CMA  VTD       O                                      07000     46000                                  
+SASIER       R207-       0020NAN  VTD       O                             1036     07000     46000                                  
+SASIER       R207        0010CMA  VTD       O                                      08000     46000                                  
+SASIER       R207        0020SISUKVYEA      O                             0815     08000     46000                                  
+SASIER       R474        0010CMP  VTD       O                                      06500     46000                                  
+SASIER       R474        0020VTN  VLD       O                             0884     06500     46000                                  
+SASIER       R215-       0010CTR  VTD       O                                      09500     46000                                  
+SASIER       R215-       0020NAN  VTD       O                             0853     09500     46000                                  
+SASIER       B579        0020PUT  VTD       O                             1274     09500     46000                                  
+SASIER       W76A        0020SAV  VTD       O                             0660     10000     19500                                  
+SASIER       W76A        0030SAV10VLEA      O                             0097     10000     19500                                  
+SASIER       G331        0030PUT  VTD       O                             1132     09500     46000                                  
+SASIER       A334        0010HTY  VTD       O                                      09500     46000                                  
+SASIER       A334        0020PASVAVTEA      O                             1085     09500     46000                                  
+SASIER       A334        0030VKB    D       O                             0154     13500     46000                                  
+SASIER       W650        0010HTY  VTD       O                                      10500     14500                                  
+SASIER       W650        0020POPIDWMEA      O                             0284     10500     14500                                  
+SASIER       R215        0030NAN  VTD       O                             0355     09500     46000                                  
+SASIER       B346        0020YAKUAVTEA      O                             1349     10000     46000                                  
+SASIER       B346        0030PCB  VTD       O                             0663     10000     46000                                  
+SASIER       B346-       0010NOBERVTEA      O                                      06500     46000                                  
+SASIER       B346-       0020PCB  VTD       O                             0894     06500     46000                                  
+SASIER       R575-       0010PUT  VTD       O                                      09000     46000                                  
+SASIER       R575-       0020RECNOVTEA      O                             0746     09000     46000                                  
+SASIER       R575-       0030SMU    D       O                             0681     06500     46000                                  
+SASIER       L645-       0010PUT  VTD       O                                      09500     46000                                  
+SASIER       L645-       0020SAPAM  EA      O                             0453     09500     46000                                  
+SASIER       R470-       0010ROT  VTD       O                                      06500     46000                                  
+SASIER       R470-       0020UBL  VTD       O                             0821     06500     46000                                  
+SASIER       R470-       0010ROT  VTD       O                                      06500     46000                                  
+SASIER       R470-       0020UDN  VTD       O                             0953     06500     46000                                  
+SASIER       R470        0010UDN  VTD       O                                      06500     46000                                  
+SASIER       R470        0020VTN  VLD       O                             0399     06500     46000                                  
