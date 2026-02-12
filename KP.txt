@@ -1,0 +1,30 @@
+SASIEAENRT   BODOK              N39290300E1252546100                                                                                
+SASIEAENRT   GASAN              N39435410E1252640100                                                                                
+SASIEAENRT   HAMUN              N39551800E1273105100                                                                                
+SASIEAENRT   JENAM              N39434710E1261757100                                                                                
+SASIEAENRT   JONJU              N39410600E1251300100                                                                                
+SASIEAENRT   KICHA              N40410300E1291131100                                                                                
+SASIEAENRT   NISOR              N39271110E1254041100                                                                                
+SASIEAENRT   SESUR              N42173000E130413000                                                                                 
+SASIEAENRT   SOKGE              N39435400E125410300                                                                                 
+SASIEAENRT   SONDO              N39432200E127281400                                                                                 
+SASIEAENRT   WASAN              N39434110E127050200                                                                                 
+SASIDB       KP      000275     N39362010E125402200                                                                                 
+SASIDB       GG      000211     N39354800E1262041100                                                                                
+SASIDB       WK      000320     N39191910E1254036100                                                                                
+SASIDB       FK      000402     N39100599E125402748                                                                                 
+SASIDB       FL      000290     N39125400E125403144                                                                                 
+SASIDB       SO      000415     N39085252E125413055                                                                                 
+SASIDB       SM      000203     N39102352E125405553                                                                                 
+SASIDB       NO      000515     N39153106E125385698                                                                                 
+SASIDB       WL      000438     N39161200E1254035100                                                                                
+SASIER       B355        0070SESUR  EA      O                             0280     29900     52800                                  
+SASIER       A575        0010BODOK  EA      O                                      04000     38000                                  
+SASIER       A575        0020GK     EA      O                             0188     04000     38000                                  
+SASIER       B332        0010BODOK  EA      O                                      07000     39000                                  
+SASIER       B332        0020SAMAN  EA      O                             0188     07000     39000                                  
+SASIER       A345-       0020GASAN  EA      O                             0498     07000     39000                                  
+SASIER       ATS         0010GASAN  EA      O                                      11000     39000                                  
+SASIER       ATS         0020SOKGE  EA      O                             0111     11000     39000                                  
+SASIER       G346        0010KICHA  EA      O                                      17000     39000                                  
+SASIER       G346        0020RASON  EA      O                             1422     17000     39000                                  

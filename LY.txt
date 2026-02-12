@@ -1,0 +1,187 @@
+SAFREAENRT   AGAAR HL           N27182286E014000000                                                                                 
+SAFREAENRT   ALBEY HL           N30255910E015000000                                                                                 
+SAFREAENRT   ARADA HL           N30463546E021334542                                                                                 
+SAFREAENRT   ARRIG HL           N27292941E020011209                                                                                 
+SAFREAENRT   BRACK HL           N27300000E014201113                                                                                 
+SAFREAENRT   DAYFA HL           N28191886E020523755                                                                                 
+SAFREAENRT   DERJE HL           N29474366E011185762                                                                                 
+SAFREAENRT   DERKA HL           N30200000E010000000                                                                                 
+SAFREAENRT   ELGAN HL           N24500000E015375318                                                                                 
+SAFREAENRT   GIRZA HL           N31393350E013361945                                                                                 
+SAFREAENRT   HAMRA HL           N29300000E0124959100                                                                                
+SAFREAENRT   JIBAL HL           N32045825E013250040                                                                                 
+SAFREAENRT   KHOMS HL           N32402310E013591200                                                                                 
+SAFREAENRT   LIBDA HL           N32304888E014000000                                                                                 
+SAFREAENRT   MKILY HL           N31585910E0221959100                                                                                
+SAFREAENRT   NAFUS HL           N30443471E011095172                                                                                 
+SAFREAENRT   NALUT HL           N31513600E010585400                                                                                 
+SAFREAENRT   NASER HL           N31511110E023551800                                                                                 
+SAFREAENRT   NGIRT HL           N28520000E0112659100                                                                                
+SAFREAENRT   NJEIM HL           N30553371E015273593                                                                                 
+SAFREAENRT   ORBEL HL           N28223850E011321549                                                                                 
+SAFREAENRT   RTILA HL           N26000000E009340000                                                                                 
+SAFREAENRT   SAKKR HL           N32123800E0124749100                                                                                
+SAFREAENRT   SHATI HL           N28000000E014123525                                                                                 
+SAFREAENRT   SINAW HL           N31060000E0110559100                                                                                
+SAFREAENRT   SWIRF HL           N29525910E013430000                                                                                 
+SAFREAENRT   TAJAR HL           N24220000E014343836                                                                                 
+SAFREAENRT   TAMIT HL           N30440810E015465400                                                                                 
+SAFREAENRT   TAZIT HL           N25562254E011541819                                                                                 
+SAFREAENRT   TILAL HL           N30244640E016210145                                                                                 
+SAFREAENRT   TONBA HL           N21351710E0195111100                                                                                
+SAFREAENRT   WANIN HL           N28105915E012442195                                                                                 
+SAFREAENRT   ZIGIN HL           N27520949E015405271                                                                                 
+SAFREAENRT   ZITUN HL           N32101708E013364880                                                                                 
+SAFRDB       ZT    HL000400     N28491896E022041830                                                                                 
+SAFRDB       GW    HL000415     N29315910E0124959100                                                                                
+SAFRDB       OXY   HL000334     N29015910E020460000                                                                                 
+SAFRDB       VA    HL000310     N29285910E021040000                                                                                 
+SAFRDB       XS    HL000365     N28300000E019000000                                                                                 
+SAFRDB       WLD   HL000265     N31435910E014010000                                                                                 
+SAFRDB       BNA   HL000342     N32052110E020154100                                                                                 
+SAFRDB       XY    HL000325     N29535910E023160000                                                                                 
+SAFRDB       LOR   HL000360     N29282410E017582700                                                                                 
+SAFRDB       DHR   HL000374     N29280510E0175617100                                                                                
+SAFRDB       PE    HL000390     N32395358E013145394                                                                                 
+SAFRDB       GHT   HL000386     N25111810E010081600                                                                                 
+SAFRDB       GRT   HL000337     N30234010E0133508100                                                                                
+SAFRDB       GAL   HL000273     N28413800E0212621100                                                                                
+SAFRDB       OB    HL000261     N28405910E021250000                                                                                 
+SAFRDB       VH    HL000410     N29220000E018010000                                                                                 
+SAFRDB       HON   HL000397     N29075910E0155659100                                                                                
+SAFRDB       TRO   HL000328     N32474410E012494000                                                                                 
+SAFRDB       KDR   HL000314     N32220000E013370000                                                                                 
+SAFRDB       KFR   HL000317     N24140810E023195000                                                                                 
+SAFRDB       MB    HL000403     N30250510E019342100                                                                                 
+SAFRDB       IZD   HL000378     N31264510E0125824100                                                                                
+SAFRDB       OV    HL000390     N29135910E021330000                                                                                 
+SAFRDB       VO    HL000295     N28310000E019190000                                                                                 
+SAFRDB       VR    HL000385     N30300000E0183159100                                                                                
+SAFRDB       PRB   HL000245     N28130000E018070000                                                                                 
+SAFRDB       OA    HL000330     N28095310E0190544100                                                                                
+SAFRDB       GS    HL000305     N27385910E022300000                                                                                 
+SAFRDB       SEB   HL000283     N27005226E014295570                                                                                 
+SAFRDB       TZR   HL000269     N25400610E0210535100                                                                                
+SAFRDB       G     HL000365     N32394963E013103027                                                                                 
+SAFRDB       STF   HL000317     N29435910E0175659100                                                                                
+SAFRDB       UBR   HL000291     N26355700E012465000                                                                                 
+SAFRDB       OR    HL000280     N28174010E019561200                                                                                 
+SAFRDB       PRC   HL000270     N28345910E017190000                                                                                 
+SAFRDB       ZUE   HL000369     N30520000E0200459100                                                                                
+SAFRDB       ZAR   HL000432     N32580000E012005000                                                                                 
+SAFRD        ABU   HL011510V    N32274600E0131009100                                                                                
+SAFRD        WLD   HL011590V    N31465707E014003395                                                                                 
+SAFRD        BNA   HL011740V    N32073000E0201511100                                                                                
+SAFRD        DHR   HL011610V    N29280274E017555377                                                                                 
+SAFRD        GAD   HL011580V    N30095310E0094431100                                                                                
+SAFRD        GHT   HL011480V    N25084853E010082019                                                                                 
+SAFRD        KFR   HL011320V    N24091110E0231829100                                                                                
+SAFRD        MIS   HL011710V    N32190000E015040000                                                                                 
+SAFRD        SEB   HL011470V    N26581071E014293683                                                                                 
+SAFRD        SRT   HL011700V    N31033264E016355292                                                                                 
+SAFRD        TPI   HL011450V    N32394500E013092000                                                                                 
+SAFRD        ZAW   HL011770V    N32464210E012384700                                                                                 
+SAFRD        ABU   HL011510 D   N32274600E0131009100                                                                                
+SAFRD        WLD   HL011590 D   N31465707E014003395                                                                                 
+SAFRD        BNA   HL011740 D   N32073000E0201511100                                                                                
+SAFRD        DHR   HL011610 D   N29280274E017555377                                                                                 
+SAFRD        GAD   HL011580 D   N30095310E0094431100                                                                                
+SAFRD        GHT   HL011480 D   N25084853E010082019                                                                                 
+SAFRD        KFR   HL011320 D   N24091110E0231829100                                                                                
+SAFRD        MIS   HL011710 D   N32190000E015040000                                                                                 
+SAFRD        SEB   HL011470 D   N26581071E014293683                                                                                 
+SAFRD        SRT   HL011700 D   N31033264E016355292                                                                                 
+SAFRD        TPI   HL011450 D   N32394500E013092000                                                                                 
+SAFRD        ZAW   HL011770 D   N32464210E012384700                                                                                 
+SAFRER       A411        0200KHOMSHLEA      O                             0384     13000     60000                                  
+SAFRER       A411        0210CIBIA  EA      O                             1028     07000     60000                                  
+SAFRER       W860        0030MB   HLD       O                             1239     07000     60000                                  
+SAFRER       M621        0070BNA  HLD       O                             0649     07000     60000                                  
+SAFRER       L731        0040KDR  HLD       O                             0491     07000     25000                                  
+SAFRER       W861        0010BNA  HLD       O                                      07000     60000                                  
+SAFRER       W861        0020BOURI  EA      O                             0799     07000     60000                                  
+SAFRER       W861        0040SRT  HLD       O                             0437     07000     60000                                  
+SAFRER       W861        0050TAMITHLEA      O                             0463     07000     60000                                  
+SAFRER       W856        0010BNA  HLD       O                                      07000     60000                                  
+SAFRER       W856        0020GS   HLD       O                             2930     07000     60000                                  
+SAFRER       4E01        0010BNA  HLD       O                                      07000     60000                                  
+SAFRER       4E01        0020LAB    D       O                             0954     07000     60000                                  
+SAFRER       4E01        0030NASERHLEA      O                             1140     07000     60000                                  
+SAFRER       M1          0010BNA  HLD       O                                      07000     60000                                  
+SAFRER       M1          0020REDFI  EA      O                             1041     07000     60000                                  
+SAFRER       W859        0020MB   HLD       O                             2366     07000     60000                                  
+SAFRER       A403        0010BRACKHLEA      O                                      07000     60000                                  
+SAFRER       A403        0020SEB  HLD       O                             0329     07000     60000                                  
+SAFRER       J200        0020TRO  HLD       OH                            0175     05500     60000                                  
+SAFRER       J200        0030TPI  HLD       OH                            0184     02000     60000                                  
+SAFRER       UR778       0020KFR  HLD       O                             1012     25000     60000                                  
+SAFRER       UR778       0030TONBAHLEA      O                             2454     25000     60000                                  
+SAFRER       G659        0010DAYFAHLEA      O                                      07000     60000                                  
+SAFRER       G659        0020DHR  HLD       O                             1691     07000     60000                                  
+SAFRER       G659        0030TILALHLEA      O                             1002     07000     60000                                  
+SAFRER       G659        0040NJEIMHLEA      O                             0554     07000     60000                                  
+SAFRER       G659        0050WLD  HLD       O                             0904     07000     60000                                  
+SAFRER       G659        0060KDR  HLD       O                             0404     04000     60000                                  
+SAFRER       G659        0070MTG    D       O                             0361     04000     60000                                  
+SAFRER       G659D       0010DAYFAHLEA      O                                      07000     60000                                  
+SAFRER       G659D       0020GS   HLD       O                             0950     07000     60000                                  
+SAFRER       B21D        0010DAYFAHLEA      O                                      07000     60000                                  
+SAFRER       B21D        0020KFR  HLD       O                             2824     07000     60000                                  
+SAFRER       B21D        0030ORNATHSEA      O                             2665     07000     60000                                  
+SAFRER       B21         0010DAYFAHLEA      O                                      07000     60000                                  
+SAFRER       B21         0020MB   HLD       O                             1432     07000     60000                                  
+SAFRER       UM999       0040SEB  HLD       O                                      25000     46000                                  
+SAFRER       UM999       0050GS   HLD       O                             4290     25000     46000                                  
+SAFRER       UM999       0060DITARHEEA      O                             1392     25000     46000                                  
+SAFRER       G858D       0020SEB  HLD       O                             3182     07000     60000                                  
+SAFRER       A18D        0010DERJEHLEA      O                                      07000     60000                                  
+SAFRER       A18D        0020IMN  DAD       O                             1351     07000     60000                                  
+SAFRER       A18         0010DERJEHLEA      O                                      07000     60000                                  
+SAFRER       A18         0020IZD  HLD       O                             1310     07000     60000                                  
+SAFRER       W857        0010DHR  HLD       O                                      07000     60000                                  
+SAFRER       W857        0020SIRTE  EA      O                             1246     07000     60000                                  
+SAFRER       J53-U       0020RTILAHLEA      OH                            1030     10500     60000                                  
+SAFRER       V900        0010GAD  HLD       OL                                     07000     60000                                  
+SAFRER       V900        0020SINAWHLEA      OL                            0898     07000     60000                                  
+SAFRER       V900        0030SAKKRHLEA      OL                            1094     07000     60000                                  
+SAFRER       W858        0010GAD  HLD       O                                      07000     60000                                  
+SAFRER       W858        0020WANINHLEA      O                             1971     07000     60000                                  
+SAFRER       W853D       0010GHT  HLD       O                                      07000     60000                                  
+SAFRER       W853D       0020ORBELHLEA      O                             2056     07000     60000                                  
+SAFRER       W9D         0010GHT  HLD       O                                      07000     60000                                  
+SAFRER       W9D         0020TAZITHLEA      O                             1058     07000     60000                                  
+SAFRER       H600        0010GIRZAHLEA      O                                      07000     60000                                  
+SAFRER       H600        0020JIBALHLEA      O                             0272     07000     60000                                  
+SAFRER       H600        0030TPI  HLD       O                             0372     05000     60000                                  
+SAFRER       W856D       0010GS   HLD       O                                      07000     60000                                  
+SAFRER       W856D       0020KFR  HLD       O                             2144     07000     60000                                  
+SAFRER       W854        0010HON  HLD       O                                      07000     60000                                  
+SAFRER       W854        0020WLD  HLD       O                             1881     07000     60000                                  
+SAFRER       W858D       0010KFR  HLD       O                                      07000     60000                                  
+SAFRER       W858D       0020SEB  HLD       O                             5063     07000     60000                                  
+SAFRER       A403D       0010SEB  HLD       O                                      07000     60000                                  
+SAFRER       A403D       0020TAJARHLEA      O                             1563     07000     60000                                  
+SAFRER       A403D       0030TUMMO  EA      O                             1422     07000     60000                                  
+SAFRER       W854-       0010SEB  HLD       O                                      07000     60000                                  
+SAFRER       W854-       0020ZIGINHLEA      O                             0832     07000     60000                                  
+SAFRER       H500        0010TPI  HLD       O                                      04000     60000                                  
+SAFRER       H500        0020ZITUNHLEA      O                             0375     04000     60000                                  
+SAFRER       H500        0030WLD  HLD       O                             0308     07000     60000                                  
+SAFRER       UM731       0100TAZITHLEA      O                             2385     25000     46000                                  
+SAFRER       UR986       0010GAD  HLD       O                                      24500     60000                                  
+SAFRER       UR986       0020KESIBDTEA      O                             1420     24500     60000                                  
+SAFRER       UG655       0130SEB  HLD       O                             3626     24500     60000                                  
+SAFRER       UZ350       0010MIS  HLD       O                                      25000     60000                                  
+SAFRER       UZ350       0020CIBIA  EA      O                             0528     25000     60000                                  
+SAFRER       UG13-       0020NALUTHLEA      O                             0183     25000     60000                                  
+SAFRER       UG13-       0030NAFUSHLEA      O                             0677     25000     60000                                  
+SAFRER       UG13-       0040DERJEHLEA      O                             0574     25000     60000                                  
+SAFRER       UG13-       0050ORBELHLEA      O                             0859     25000     60000                                  
+SAFRER       UG13-       0060TAZITHLEA      O                             1477     25000     60000                                  
+SAFRER       UA18        0010DERKAHLEA      O                                      24500     60000                                  
+SAFRER       UA18        0020GDS  DAD       O                             0286     24500     60000                                  
+SAFRER       UG739       0010GAD  HLD       O                                      25000     46000                                  
+SAFRER       UG739       0020TAZITHLEA      O                             2784     25000     46000                                  
+SAFRER       UP126       0020HON  HLD       O                             4329     25000     60000                                  
+SAFRER       UP126       0030MIS  HLD       O                             1965     25000     60000                                  
+SAFRER       UP126       0040LUMED  EA      O                             1228     25000     60000                                  

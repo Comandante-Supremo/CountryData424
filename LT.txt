@@ -1,0 +1,216 @@
+SEUREAENRT   AKUMA EY           N55113800E022451100                                                                                 
+SEUREAENRT   ALENI EY           N55200410E0250159100                                                                                
+SEUREAENRT   ANTAK EY           N54451100E0252205100                                                                                
+SEUREAENRT   BADRA EY           N55503010E0225018100                                                                                
+SEUREAENRT   BILDI EY           N54351600E024564300                                                                                 
+SEUREAENRT   BOKSU EY           N54182610E023033300                                                                                 
+SEUREAENRT   BURBI EY           N55084010E023285300                                                                                 
+SEUREAENRT   DEVKA EY           N55291100E025575900                                                                                 
+SEUREAENRT   DIMAK EY           N55185500E0252457100                                                                                
+SEUREAENRT   EKTON EY           N55540500E0224610100                                                                                
+SEUREAENRT   ELEKA EY           N54480200E024412000                                                                                 
+SEUREAENRT   GILUT EY           N55211710E0214018100                                                                                
+SEUREAENRT   IAN05 EY           N55592147E021060123                                                                                 
+SEUREAENRT   IAN20 EY           N56004148E021063360                                                                                 
+SEUREAENRT   IAN43 EY           N56025586E021072799                                                                                 
+SEUREAENRT   KEDUK EY           N55184961E023483804                                                                                 
+SEUREAENRT   KLA12 EY           N55541027E021213092                                                                                 
+SEUREAENRT   KNA03 EY           N54572890E023584289                                                                                 
+SEUREAENRT   KNA04 EY           N54581669E024123097                                                                                 
+SEUREAENRT   KNA06 EY           N54571537E023532936                                                                                 
+SEUREAENRT   KNA07 EY           N54570542E023514801                                                                                 
+SEUREAENRT   KNA26 EY           N54572772E023565921                                                                                 
+SEUREAENRT   KNA27 EY           N54324145E023264998                                                                                 
+SEUREAENRT   KNA40 EY           N55002764E023590540                                                                                 
+SEUREAENRT   KNA42 EY           N55014485E024112543                                                                                 
+SEUREAENRT   KNA66 EY           N54550028E024142721                                                                                 
+SEUREAENRT   KNA73 EY           N54582037E024163151                                                                                 
+SEUREAENRT   KNA80 EY           N54583550E024205065                                                                                 
+SEUREAENRT   KNA89 EY           N55003408E023492196                                                                                 
+SEUREAENRT   KNA98 EY           N54550024E024201841                                                                                 
+SEUREAENRT   KRAKI EY           N54562900E0224404100                                                                                
+SEUREAENRT   LAKOD EY           N54385910E022450000                                                                                 
+SEUREAENRT   LANAN EY           N54583210E024195800                                                                                 
+SEUREAENRT   LIMKA EY           N55461300E0233231100                                                                                
+SEUREAENRT   LUNOS EY           N55285510E023420200                                                                                 
+SEUREAENRT   LUPON EY           N56010210E023144800                                                                                 
+SEUREAENRT   MANUX EY           N55403310E022020800                                                                                 
+SEUREAENRT   NEDAM EY           N54571000E0241450100                                                                                
+SEUREAENRT   OMETA EY           N54302910E0242313100                                                                                
+SEUREAENRT   OMIGA EY           N55082600E0244757100                                                                                
+SEUREAENRT   PANEV EY           N55431010E024035500                                                                                 
+SEUREAENRT   PENOX EY           N54295300E0232706100                                                                                
+SEUREAENRT   PIVOM EY           N55175310E023125900                                                                                 
+SEUREAENRT   PLNGA EY           N55582310E021053800                                                                                 
+SEUREAENRT   PN002 EY           N56005046E021064310                                                                                 
+SEUREAENRT   PODIL EY           N55081200E026282700                                                                                 
+SEUREAENRT   R2194 EY           N54574655E024035321                                                                                 
+SEUREAENRT   R2195 EY           N54575368E024061720                                                                                 
+SEUREAENRT   R2196 EY           N55575207E021052517                                                                                 
+SEUREAENRT   R2197 EY           N55585436E021055027                                                                                 
+SEUREAENRT   R2198 EY           N54372527E025164270                                                                                 
+SEUREAENRT   R2199 EY           N54384073E025173499                                                                                 
+SEUREAENRT   RAMIG EY           N55270900E0242426100                                                                                
+SEUREAENRT   RELTU EY           N55040510E0245321100                                                                                
+SEUREAENRT   RUSNE EY           N55140700E021261700                                                                                 
+SEUREAENRT   SESIK EY           N55313610E024573600                                                                                 
+SEUREAENRT   SIDAB EY           N55181610E025364200                                                                                 
+SEUREAENRT   SMILA EY           N56101200E0244233100                                                                                
+SEUREAENRT   SUBUS EY           N54251510E0242612100                                                                                
+SEUREAENRT   TOTRA EY           N55263500E0224615100                                                                                
+SEUREAENRT   TUMKI EY           N53565310E023535600                                                                                 
+SEUREAENRT   UDRAN EY           N55350810E0224614100                                                                                
+SEUREAENRT   VABER EY           N54113910E0232424100                                                                                
+SEUREAENRT   VAKAL EY           N54521010E023122900                                                                                 
+SEUREAENRT   VAKET EY           N54302110E0251149100                                                                                
+SEUREAENRT   VANTA EY           N56105010E022364100                                                                                 
+SEUREAENRT   VNO05 EY           N54425319E025202520                                                                                 
+SEUREAENRT   VNO46 EY           N54434825E025275514                                                                                 
+SEUREAENRT   VNO55 EY           N54430152E025204560                                                                                 
+SEUREAENRT   VNO56 EY           N54340020E025140517                                                                                 
+SEUREAENRT   VNO58 EY           N54320987E025124488                                                                                 
+SEUREAENRT   VNO65 EY           N54321479E025125950                                                                                 
+SEUREAENRT   VNO66 EY           N54320979E025192674                                                                                 
+SEUREAENRT   VNO75 EY           N54450932E025221754                                                                                 
+SEUREAENRT   VNO85 EY           N54302398E025114045                                                                                 
+SEUREAENRT   VNO91 EY           N54290471E025170512                                                                                 
+SEUREAENRT   VNO95 EY           N54444528E025215730                                                                                 
+SEUREAENRT   VNO97 EY           N54465202E025233060                                                                                 
+SEUREAENRT   VNO99 EY           N54323860E025133584                                                                                 
+SEURDB       KUS   EY000343     N54575672E024071891                                                                                 
+SEURDB       PA    EY000515     N55453910E0242439100                                                                                
+SEURDB       PN    EY000407     N55572305E021051349                                                                                 
+SEURDB       SKD   EY000372     N55250068E022353390                                                                                 
+SEURDB       AVN   EY000385     N54405377E025190734                                                                                 
+SEURD        KNA   EY011440V    N54573529E024035514                                                                                 
+SEURD        KLA   EY011390V    N55425623E021143768                                                                                 
+SEURD        SAU   EY011520V    N55524449E023245911                                                                                 
+SEURD        VNO   EY011380V    N54380980E025173707                                                                                 
+SEURD        IAN   EY011010 D   N55584384E021055372                                                                                 
+SEURD        IBK   EY010910 D   N54382904E025173417                                                                                 
+SEURD        KNA   EY011440 D   N54573529E024035514                                                                                 
+SEURD        KLA   EY011390 D   N55425623E021143768                                                                                 
+SEURD        SAU   EY011520 D   N55524449E023245911                                                                                 
+SEURD        VNO   EY011380 D   N54380980E025173707                                                                                 
+SEURD        SQQ   EY011630 D   N55532562E023240858                                                                                 
+SEURER       M857        0060BOKSUEYEA      O                                      09500     19500                                  
+SEURER       M857        0070VAKALEYEA      O                             0342     09500     19500                                  
+SEURER       M857        0080GUNTAEVEA      O                             0921     09500     19500                                  
+SEURER       M865        0040DEVKAEYEA      O                             0200     09500     19500                                  
+SEURER       M865        0050UDRANEYEA      O                             1087     09500     19500                                  
+SEURER       M865        0060TIGNU  EA      O                             0995     09500     19500                                  
+SEURER       N616        0100TOTRAEYEA      O                             0623     09500     19500                                  
+SEURER       N616        0110VAKALEYEA      O                             0375     09500     19500                                  
+SEURER       N616        0120TUMKIEYEA      O                             0604     10000     19000                                  
+SEURER       N616        0130NIMANUMEA      O                             0187     10000     19000                                  
+SEURER       N623        0140PODILEYEA      O                             0485     09500     19500                                  
+SEURER       N623        0150DEVKAEYEA      O                             0272     09500     19500                                  
+SEURER       N623        0160ERIVAEVEA      O                             0695     09500     19500                                  
+SEURER       N858        0010BOKSUEYEA      O                                      09500     19500                                  
+SEURER       N858        0020OMETAEYEA      O                             0479     09500     19500                                  
+SEURER       N858        0030BILDIEYEA      O                             0200     09500     19500                                  
+SEURER       N858        0040VNO  EYD       O                             0125     09500     19500                                  
+SEURER       N858        0050LAVARUMEA      O                             0157     10000     19000                                  
+SEURER       L741        0020BILDIEYEA      O                             0244     09500     19500                                  
+SEURER       L741        0030VAKALEYEA      O                             0626     09500     19500                                  
+SEURER       L741        0040KRAKIEYEA      O                             0169     09500     19500                                  
+SEURER       M985        0010BOKSUEYEA      O                                      09500     19500                                  
+SEURER       M985        0020ERIVAEVEA      O                             1349     09500     19500                                  
+SEURER       Y88         0010BOKSUEYEA      O                                      19500     28500                                  
+SEURER       Y88         0020LIMKOEPEA      O                             0571     19500     28500                                  
+SEURER       M857-       0010BOKSUEYEA      O                                      12500     28500                                  
+SEURER       M857-       0020SUW  EPD       O                             0153     12500     28500                                  
+SEURER       B120        0020KRAKIEYEA      O                             0570     04000     45000                                  
+SEURER       M155        0030PLNGAEYEA      O                             0312     09500     19500                                  
+SEURER       M155        0040MIRMAEVEA      O                             0447     09500     19500                                  
+SEURER       M996        0050ELEKAEYEA      O                             0378     09500     19500                                  
+SEURER       M996        0060NEDAMEYEA      O                             0178     09500     19500                                  
+SEURER       M996        0070PIVOMEYEA      O                             0410     09500     19500                                  
+SEURER       M996        0080TOTRAEYEA      O                             0175     09500     19500                                  
+SEURER       M996        0090MANUXEYEA      O                             0286     09500     19500                                  
+SEURER       M996        0100TIRIN  EA      O                             0493     09500     28500                                  
+SEURER       L747        0050KLA  EYD       O                             0221     09500     19500                                  
+SEURER       L747        0060RUSNEEYEA      O                             0296     09500     19500                                  
+SEURER       M994        0060RUSNEEYEA      O                                      09500     19500                                  
+SEURER       M994        0070GILUTEYEA      O                             0108     09500     19500                                  
+SEURER       M994        0080EKTONEYEA      O                             0496     09500     19500                                  
+SEURER       M994        0090GUNTAEVEA      O                             0434     09500     19500                                  
+SEURER       L735        0010VABEREYEA      O                                      09500     19500                                  
+SEURER       L735        0020DUKATUMEA      O                             0791     10000     19000                                  
+SEURER       M870        0020RELTUEYEA      O                             0438     09500     19500                                  
+SEURER       M870        0030GENSAEVEA      O                             0967     09500     19500                                  
+SEURER       M874        0010KRAKIEYEA      O                                      09500     19500                                  
+SEURER       M874        0020ELEKAEYEA      O                             0680     09500     19500                                  
+SEURER       M874        0030LAVARUMEA      O                             0369     09500     19500                                  
+SEURER       N994        0020VNO  EYD       O                             1065     09500     19500                                  
+SEURER       L749        0010GILUTEYEA      O                                      09500     19500                                  
+SEURER       L749        0020TIGNU  EA      O                             0641     09500     19500                                  
+SEURER       L749        0040NEDAMEYEA      O                             0538     09500     19500                                  
+SEURER       G354        0020KRAKIEYEA      O                             1107     04000     49000                                  
+SEURER       R801        0040RUSNEEYEA      O                             0356     06000     45000                                  
+SEURER       L29         0050VABEREYEA      O                             0193     09500     19500                                  
+SEURER       L29         0060SUBUSEYEA      O                             0386     09500     19500                                  
+SEURER       L29         0070LAVARUMEA      O                             0481     09500     19500                                  
+SEURER       N182        0020TUMKIEYEA      O                             1456     09500     19500                                  
+SEURER       L736        0020PODILEYEA      O                             0991     10000     19000                                  
+SEURER       L736        0030TOTRAEYEA      O                             1279     09500     19500                                  
+SEURER       L736        0040TIGNU  EA      O                             1001     09500     19500                                  
+SEURER       M998        0010KRAKIEYEA      O                                      09500     19500                                  
+SEURER       M998        0020RELTUEYEA      O                             0746     09500     19500                                  
+SEURER       M998        0030PODILEYEA      O                             0546     09500     19500                                  
+SEURER       L732        0030VNO  EYD       O                             0907     09500     19500                                  
+SEURER       M998-       0010PODILEYEA      O                                      10000     19000                                  
+SEURER       M998-       0020VALTAUMEA      O                             0928     10000     19000                                  
+SEURER       UM996       0120NEDAMEYEA      O                             0556     19500     66000                                  
+SEURER       UM996       0130TOTRAEYEA      O                             0585     19500     66000                                  
+SEURER       UM996       0140TIRIN  EA      O                             0780     28500     46000                                  
+SEURER       UM985       0150BOKSUEYEA      O                                      19500     66000                                  
+SEURER       UM985       0160ERIVAEVEA      O                             1349     19500     66000                                  
+SEURER       UM857       0060BOKSUEYEA      O                                      19500     66000                                  
+SEURER       UM857       0070VAKALEYEA      O                             0342     19500     66000                                  
+SEURER       UM857       0080GUNTAEVEA      O                             0921     19600     66000                                  
+SEURER       UM865       0040DEVKAEYEA      O                             0200     19500     66000                                  
+SEURER       UM865       0050UDRANEYEA      O                             1087     19500     66000                                  
+SEURER       UM865       0060TIGNU  EA      O                             0995     19500     66000                                  
+SEURER       UN616       0100TUMKIEYEA      O                             0187     20000     43000                                  
+SEURER       UN616       0110VAKALEYEA      O                             0604     19500     66000                                  
+SEURER       UN616       0120TOTRAEYEA      O                             0375     19500     66000                                  
+SEURER       UN616       0130MIRMAEVEA      O                             0623     28500     46000                                  
+SEURER       UN623       0130PODILEYEA      O                             0485     19500     66000                                  
+SEURER       UN623       0140DEVKAEYEA      O                             0272     19500     66000                                  
+SEURER       UN623       0150ERIVAEVEA      O                             0695     19500     66000                                  
+SEURER       UL749       0090NEDAMEYEA      O                             0538     19500     66000                                  
+SEURER       UL749       0100GILUTEYEA      O                                      19500     66000                                  
+SEURER       UL749       0110TIGNU  EA      O                             0641     19500     66000                                  
+SEURER       UN858       0380VNO  EYD       O                             0157     19500     66000                                  
+SEURER       UN858       0390BILDIEYEA      O                             0125     19500     66000                                  
+SEURER       UN858       0400OMETAEYEA      O                             0200     19500     66000                                  
+SEURER       UN858       0410BOKSUEYEA      O                             0479     28500     46000                                  
+SEURER       UN858       0420LIMKOEPEA      O                             0571     28500     46000                                  
+SEURER       UL741       0020BILDIEYEA      O                             0244     19500     66000                                  
+SEURER       UL741       0030VAKALEYEA      O                             0626     19500     66000                                  
+SEURER       UL741       0040KRAKIEYEA      O                             0169     19500     66000                                  
+SEURER       UM998       0200KRAKIEYEA      O                                      19500     66000                                  
+SEURER       UM998       0210PODILEYEA      O                             1292     19500     66000                                  
+SEURER       UM998       0220VALTAUMEA      O                             0928     20000     45000                                  
+SEURER       UM857       0010BOKSUEYEA      O                                      28500     46000                                  
+SEURER       UM857       0020SUW  EPD       O                             0153     28500     46000                                  
+SEURER       UM994       0060RUSNEEYEA      O                                      19500     66000                                  
+SEURER       UM994       0070GILUTEYEA      O                             0108     19500     66000                                  
+SEURER       UM994       0080EKTONEYEA      O                             0496     19500     66000                                  
+SEURER       UM994       0090GUNTAEVEA      O                             0434     19500     66000                                  
+SEURER       UL735       0060VABEREYEA      O                             0193     19500     66000                                  
+SEURER       UL735       0070DUKATUMEA      O                             0791     20000     43000                                  
+SEURER       UN994       0020VNO  EYD       O                             1065     19500     66000                                  
+SEURER       UL747       0040KLA  EYD       O                             0221     19500     66000                                  
+SEURER       UL747       0050RUSNEEYEA      O                             0296     19500     66000                                  
+SEURER       UN182       0050TUMKIEYEA      O                             1456     19500     66000                                  
+SEURER       UL29        0040VABEREYEA      O                             0866     19500     66000                                  
+SEURER       UL736       0020PODILEYEA      O                             0991     20000     43000                                  
+SEURER       UL736       0030TOTRAEYEA      O                             1279     19500     66000                                  
+SEURER       UL736       0040TIGNU  EA      O                             1001     19500     66000                                  
+SEURER       UM874       0010KRAKIEYEA      O                                      19500     66000                                  
+SEURER       UM874       0020LAVARUMEA      O                             1049     19500     66000                                  
+SEURER       UL732       0030VNO  EYD       O                             0907     19500     66000                                  
+SEURER       UM155       0030PLNGAEYEA      O                             0447     19500     66000                                  
+SEURER       UM155       0040TIGNU  EA      O                             0478     19500     66000                                  

@@ -1,0 +1,700 @@
+SEUREAENRT   ABDAM UA           N51305100E078170700                                                                                 
+SEUREAENRT   ABDUN UA           N46133610E0584315100                                                                                
+SEUREAENRT   ABEKA UA           N41070500E068444200                                                                                 
+SEUREAENRT   ABEVO UA           N40495910E0683441100                                                                                
+SEUREAENRT   ABGEN UA           N40574200E0684247100                                                                                
+SEUREAENRT   ABIRA UA           N50233010E062245500                                                                                 
+SEUREAENRT   ABMIK UA           N45561600E0743603100                                                                                
+SEUREAENRT   ABONA UA           N46113300E0751856100                                                                                
+SEUREAENRT   ABURA UA           N47334500E0664311100                                                                                
+SEUREAENRT   ADAKA UA           N43441600E0624954100                                                                                
+SEUREAENRT   ADARO UA           N50470510E0815241100                                                                                
+SEUREAENRT   ADASA UA           N52461800E0751435100                                                                                
+SEUREAENRT   ADESA UA           N42093910E0694853100                                                                                
+SEUREAENRT   ADODA UA           N52323000E0750553100                                                                                
+SEUREAENRT   ADODI UA           N48502400E062015800                                                                                 
+SEUREAENRT   ADOKA UA           N48222310E067184200                                                                                 
+SEUREAENRT   ADONU UA           N50280500E056015900                                                                                 
+SEUREAENRT   ADRIK UA           N48043200E0684118100                                                                                
+SEUREAENRT   AFM40 UA           N43113040E074385283                                                                                 
+SEUREAENRT   AGADI UA           N48055810E073333800                                                                                 
+SEUREAENRT   AGAKO UA           N47435110E071493500                                                                                 
+SEUREAENRT   AGARO UA           N47112110E079085600                                                                                 
+SEUREAENRT   AGINU UA           N49475910E0761059100                                                                                
+SEUREAENRT   AGPIN UA           N48393010E0754145100                                                                                
+SEUREAENRT   AGUNA UA           N43581510E0754700100                                                                                
+SEUREAENRT   AGUSA UA           N47135910E082033800                                                                                 
+SEUREAENRT   AKAZU UA           N40421710E068381500                                                                                 
+SEUREAENRT   AKIRA UA           N45432300E077182900                                                                                 
+SEUREAENRT   AKOSO UA           N53413910E0650939100                                                                                
+SEUREAENRT   ALAKO UA           N44204300E073592000                                                                                 
+SEUREAENRT   ALEGA UA           N48085910E0713248100                                                                                
+SEUREAENRT   ALGAS UA           N50461300E0581202100                                                                                
+SEUREAENRT   ALILA UA           N45482910E0800915100                                                                                
+SEUREAENRT   ALM03 UA           N43240869E077083384                                                                                 
+SEUREAENRT   ALM55 UA           N43461695E077043458                                                                                 
+SEUREAENRT   ALM81 UA           N43295074E076264628                                                                                 
+SEUREAENRT   ALM94 UA           N43171184E076542839                                                                                 
+SEUREAENRT   AMASO UA           N47491400E0684856100                                                                                
+SEUREAENRT   AMELU UA           N49525400E0714328100                                                                                
+SEUREAENRT   AMIGU UA           N49164500E069251700                                                                                 
+SEUREAENRT   AMOLA UA           N52385300E0715603100                                                                                
+SEUREAENRT   AMURA UA           N43211710E051221300                                                                                 
+SEUREAENRT   ANELI UA           N44495510E0743509100                                                                                
+SEUREAENRT   ANESA UA           N42400510E0703653100                                                                                
+SEUREAENRT   ANIGA UA           N45212910E0534646100                                                                                
+SEUREAENRT   APTOK UA           N50303410E0750939100                                                                                
+SEUREAENRT   APTUS UA           N50555800E0704600100                                                                                
+SEUREAENRT   ARBOL UA           N43305500E070513700                                                                                 
+SEUREAENRT   ARDIK UA           N52145810E064220400                                                                                 
+SEUREAENRT   ARISA UA           N51292400E0503253100                                                                                
+SEUREAENRT   ARKAM UA           N47113500E064322000                                                                                 
+SEUREAENRT   ARMIK UA           N47460210E0664140100                                                                                
+SEUREAENRT   ARPAL UA           N50480710E0672116100                                                                                
+SEUREAENRT   ARSUL UA           N42260000E0684959100                                                                                
+SEUREAENRT   ARVAR UA           N43223210E069102700                                                                                 
+SEUREAENRT   ASLIK UA           N47050810E068154200                                                                                 
+SEUREAENRT   ATBAN UA           N51582310E0682151100                                                                                
+SEUREAENRT   ATNON UA           N52114810E067335000                                                                                 
+SEUREAENRT   ATRAN UA           N42232100E0660521100                                                                                
+SEUREAENRT   ATRUS UA           N46530200E0670714100                                                                                
+SEUREAENRT   AVLAK UA           N46105110E061413000                                                                                 
+SEUREAENRT   BADAS UA           N44222310E0643653100                                                                                
+SEUREAENRT   BAGIL UA           N47342410E074104400                                                                                 
+SEUREAENRT   BAGIR UA           N49013100E051410600                                                                                 
+SEUREAENRT   BALGO UA           N43023510E0733559100                                                                                
+SEUREAENRT   BALIG UA           N43194400E0515017100                                                                                
+SEUREAENRT   BALPI UA           N47514100E0620353100                                                                                
+SEUREAENRT   BAMIK UA           N52351700E062052400                                                                                 
+SEUREAENRT   BAMUT UA           N41512010E0692444100                                                                                
+SEUREAENRT   BANOS UA           N50111600E072384400                                                                                 
+SEUREAENRT   BANOV UA           N50370400E083091800                                                                                 
+SEUREAENRT   BARAR UA           N42503000E0700343100                                                                                
+SEUREAENRT   BASAN UA           N43341910E073542900                                                                                 
+SEUREAENRT   BASPA UA           N50214310E0704000100                                                                                
+SEUREAENRT   BASPI UA           N43431110E078540200                                                                                 
+SEUREAENRT   BASPU UA           N47160510E052503400                                                                                 
+SEUREAENRT   BAVAG UA           N53181900E066523500                                                                                 
+SEUREAENRT   BEDIK UA           N42454810E0690115100                                                                                
+SEUREAENRT   BEDIS UA           N47441100E068493100                                                                                 
+SEUREAENRT   BEDKA UA           N50131800E072154500                                                                                 
+SEUREAENRT   BEDMU UA           N54121500E070452300                                                                                 
+SEUREAENRT   BEDNU UA           N42000610E069262100                                                                                 
+SEUREAENRT   BEDOR UA           N48252810E0673250100                                                                                
+SEUREAENRT   BEDUR UA           N43354510E0765738100                                                                                
+SEUREAENRT   BEGIK UA           N52301500E076062800                                                                                 
+SEUREAENRT   BEKOR UA           N49451210E062305000                                                                                 
+SEUREAENRT   BELNA UA           N44233110E051130500                                                                                 
+SEUREAENRT   BELSO UA           N47220500E068411200                                                                                 
+SEUREAENRT   BERTO UA           N43472600E0794551100                                                                                
+SEUREAENRT   BERVI UA           N43394200E0741217100                                                                                
+SEUREAENRT   BESOL UA           N50230010E061151800                                                                                 
+SEUREAENRT   BETIK UA           N48080700E0665308100                                                                                
+SEUREAENRT   BETPU UA           N45575710E0675944100                                                                                
+SEUREAENRT   BILGA UA           N48262100E055323000                                                                                 
+SEUREAENRT   BIMSO UA           N53163100E065203800                                                                                 
+SEUREAENRT   BIOTA UA           N44212400E076422400                                                                                 
+SEUREAENRT   BODNU UA           N50234510E075091800                                                                                 
+SEUREAENRT   BODSI UA           N44503400E054191400                                                                                 
+SEUREAENRT   BOGDI UA           N43215600E0741717100                                                                                
+SEUREAENRT   BOKIS UA           N50574110E0833311100                                                                                
+SEUREAENRT   BOLGO UA           N49400900E0563759100                                                                                
+SEUREAENRT   BOLSU UA           N51150610E072562000                                                                                 
+SEUREAENRT   BOMKA UA           N42023110E0691623100                                                                                
+SEUREAENRT   BORIS UA           N42512700E066053300                                                                                 
+SEUREAENRT   BULOG UA           N50085310E066003600                                                                                 
+SEUREAENRT   BURID UA           N47023400E081005100                                                                                 
+SEUREAENRT   BURIK UA           N47001110E0675151100                                                                                
+SEUREAENRT   BUSAR UA           N47092400E0793503100                                                                                
+SEUREAENRT   DAKIN UA           N54092910E072241800                                                                                 
+SEUREAENRT   DEMAS UA           N42473000E0712005100                                                                                
+SEUREAENRT   DEPIR UA           N54021100E066240500                                                                                 
+SEUREAENRT   DESER UA           N44550110E075310000                                                                                 
+SEUREAENRT   DESOK UA           N44162910E077551800                                                                                 
+SEUREAENRT   DETAK UA           N43482300E076502900                                                                                 
+SEUREAENRT   DETOV UA           N50155500E0731234100                                                                                
+SEUREAENRT   DEVNA UA           N50064700E083361900                                                                                 
+SEUREAENRT   DIBAD UA           N41165910E0675559100                                                                                
+SEUREAENRT   DIBRA UA           N43324800E0711515100                                                                                
+SEUREAENRT   DIDAL UA           N51290800E0695452100                                                                                
+SEUREAENRT   DIDRA UA           N44433000E0602523100                                                                                
+SEUREAENRT   DILNA UA           N44145310E0644905100                                                                                
+SEUREAENRT   DIMUT UA           N49182800E0750553100                                                                                
+SEUREAENRT   DINVO UA           N44132310E0761311100                                                                                
+SEUREAENRT   DITKI UA           N48203400E0692416100                                                                                
+SEUREAENRT   DITSO UA           N47044210E0671636100                                                                                
+SEUREAENRT   DITUR UA           N45580900E076103200                                                                                 
+SEUREAENRT   DIVNO UA           N45441710E057400000                                                                                 
+SEUREAENRT   DODOK UA           N45142000E076001100                                                                                 
+SEUREAENRT   DODUL UA           N46033600E071530700                                                                                 
+SEUREAENRT   DODUR UA           N41225910E0684759100                                                                                
+SEUREAENRT   DOKAM UA           N47012910E0583321100                                                                                
+SEUREAENRT   DOKUS UA           N50253900E0513527100                                                                                
+SEUREAENRT   DOKUT UA           N52481400E0651229100                                                                                
+SEUREAENRT   DONUP UA           N42375900E0694911100                                                                                
+SEUREAENRT   DONUR UA           N47302110E075003800                                                                                 
+SEUREAENRT   DOPAN UA           N52121210E062540100                                                                                 
+SEUREAENRT   DOPAR UA           N48183010E0682228100                                                                                
+SEUREAENRT   DOSAK UA           N52004310E0781211100                                                                                
+SEUREAENRT   DOSOR UA           N41570200E0691224100                                                                                
+SEUREAENRT   EDAKO UA           N50412000E0522509100                                                                                
+SEUREAENRT   EDANO UA           N51085710E072580400                                                                                 
+SEUREAENRT   EDIBA UA           N42451900E0682348100                                                                                
+SEUREAENRT   EKTAB UA           N49455500E075071800                                                                                 
+SEUREAENRT   EKTEN UA           N51324200E0523029100                                                                                
+SEUREAENRT   EKTUS UA           N51422410E0765304100                                                                                
+SEUREAENRT   ELSEB UA           N46323400E0675438100                                                                                
+SEUREAENRT   ELSUT UA           N51134110E0805505100                                                                                
+SEUREAENRT   EPOLI UA           N47271610E054351200                                                                                 
+SEUREAENRT   ERULA UA           N43140410E0792707100                                                                                
+SEUREAENRT   ERUNA UA           N49302300E0620035100                                                                                
+SEUREAENRT   ESADO UA           N47060500E0760002100                                                                                
+SEUREAENRT   ESINA UA           N44044100E0514705100                                                                                
+SEUREAENRT   ETEDA UA           N44202400E0763205100                                                                                
+SEUREAENRT   ETUNA UA           N43284500E0513751100                                                                                
+SEUREAENRT   GAMBU UA           N44110600E070240100                                                                                 
+SEUREAENRT   GEDNO UA           N50221010E074003200                                                                                 
+SEUREAENRT   GEDSA UA           N48373710E062405400                                                                                 
+SEUREAENRT   GENDI UA           N43175910E068220000                                                                                 
+SEUREAENRT   GENGA UA           N46162410E0773738100                                                                                
+SEUREAENRT   GENLA UA           N43504700E0681735100                                                                                
+SEUREAENRT   GERLI UA           N49533400E053525400                                                                                 
+SEUREAENRT   GERPU UA           N42565600E0714924100                                                                                
+SEUREAENRT   GILAK UA           N46573800E081553600                                                                                 
+SEUREAENRT   GINDO UA           N45012300E077212700                                                                                 
+SEUREAENRT   GIREM UA           N47321810E074370900                                                                                 
+SEUREAENRT   GISTO UA           N47242610E052471200                                                                                 
+SEUREAENRT   GOBSO UA           N50553210E076352500                                                                                 
+SEUREAENRT   GODOR UA           N45352100E0773353100                                                                                
+SEUREAENRT   GODVA UA           N46040900E076375900                                                                                 
+SEUREAENRT   GOGDI UA           N47032000E0525054100                                                                                
+SEUREAENRT   GOGDO UA           N44252310E0772617100                                                                                
+SEUREAENRT   GOMAL UA           N47080810E079515000                                                                                 
+SEUREAENRT   GOMIR UA           N50104110E084420600                                                                                 
+SEUREAENRT   GONEL UA           N48391110E073591200                                                                                 
+SEUREAENRT   GORBO UA           N49031610E0761059100                                                                                
+SEUREAENRT   GORIM UA           N48490500E067245600                                                                                 
+SEUREAENRT   GORVA UA           N46245500E0664654100                                                                                
+SEUREAENRT   GOTOV UA           N44183910E0513039100                                                                                
+SEUREAENRT   GUDOL UA           N45082210E077125400                                                                                 
+SEUREAENRT   GURPI UA           N49561710E0711235100                                                                                
+SEUREAENRT   GUTAN UA           N51402310E050591200                                                                                 
+SEUREAENRT   IBDAS UA           N47341200E078243200                                                                                 
+SEUREAENRT   IBLAN UA           N51183200E071062000                                                                                 
+SEUREAENRT   IBLIG UA           N50594400E0523924100                                                                                
+SEUREAENRT   IBMOB UA           N41343600E0680212100                                                                                
+SEUREAENRT   IDBAL UA           N44272700E078022100                                                                                 
+SEUREAENRT   IDROS UA           N46331510E0611301100                                                                                
+SEUREAENRT   INDAR UA           N52223000E076041800                                                                                 
+SEUREAENRT   INRED UA           N42523310E052270600                                                                                 
+SEUREAENRT   INTAL UA           N48434500E070283900                                                                                 
+SEUREAENRT   IPRAR UA           N40443010E0683446100                                                                                
+SEUREAENRT   IRGIT UA           N48521910E075043600                                                                                 
+SEUREAENRT   KADAN UA           N43552810E075504700                                                                                 
+SEUREAENRT   KALIN UA           N43194602E074115659                                                                                 
+SEUREAENRT   KARIM UA           N43113510E0674736100                                                                                
+SEUREAENRT   KEKUN UA           N49061400E058195800                                                                                 
+SEUREAENRT   KERUP UA           N43290410E077462600                                                                                 
+SEUREAENRT   KESOT UA           N49593510E060194500                                                                                 
+SEUREAENRT   KODOL UA           N51163710E069565100                                                                                 
+SEUREAENRT   KODUM UA           N48000000E055100000                                                                                 
+SEUREAENRT   KOKAV UA           N54224400E0673737100                                                                                
+SEUREAENRT   KOKON UA           N50095710E0702608100                                                                                
+SEUREAENRT   KOLAM UA           N42370110E070254000                                                                                 
+SEUREAENRT   KOLUR UA           N51590010E070410300                                                                                 
+SEUREAENRT   KONAT UA           N45275400E077480500                                                                                 
+SEUREAENRT   KOSUR UA           N44165910E076340500                                                                                 
+SEUREAENRT   KULAG UA           N45153200E054253600                                                                                 
+SEUREAENRT   KUROL UA           N47590000E0704759100                                                                                
+SEUREAENRT   KURUL UA           N48454810E0554924100                                                                                
+SEUREAENRT   KUSOT UA           N50212800E065511000                                                                                 
+SEUREAENRT   KUSUM UA           N51442000E064463900                                                                                 
+SEUREAENRT   LAKEL UA           N43121510E0765438100                                                                                
+SEUREAENRT   LALAS UA           N48594010E0755013100                                                                                
+SEUREAENRT   LANOL UA           N41113510E0685505100                                                                                
+SEUREAENRT   LANOR UA           N54053600E0624041100                                                                                
+SEUREAENRT   LANUK UA           N49331610E062323900                                                                                 
+SEUREAENRT   LARPI UA           N50172100E056034500                                                                                 
+SEUREAENRT   LASDO UA           N46212300E0760253100                                                                                
+SEUREAENRT   LASNA UA           N49260200E081531500                                                                                 
+SEUREAENRT   LATKO UA           N52250800E0664426100                                                                                
+SEUREAENRT   LATNU UA           N44545100E0612429100                                                                                
+SEUREAENRT   LEKLU UA           N45070010E0754902100                                                                                
+SEUREAENRT   LENTA UA           N51485310E060223600                                                                                 
+SEUREAENRT   LEPSI UA           N46563000E0540315100                                                                                
+SEUREAENRT   LESNA UA           N50130110E072512700                                                                                 
+SEUREAENRT   LIGMO UA           N50453810E0710836100                                                                                
+SEUREAENRT   LIPSI UA           N46180710E0784000100                                                                                
+SEUREAENRT   LIRNA UA           N50115810E081220300                                                                                 
+SEUREAENRT   LITBA UA           N50184810E0582331100                                                                                
+SEUREAENRT   LOLNA UA           N43460210E0515012100                                                                                
+SEUREAENRT   LUGOS UA           N43162897E074505032                                                                                 
+SEUREAENRT   LUKET UA           N47364200E056182300                                                                                 
+SEUREAENRT   LUKUS UA           N48075900E074165800                                                                                 
+SEUREAENRT   LUMUR UA           N43063810E051295300                                                                                 
+SEUREAENRT   LUNOV UA           N49375910E080180100                                                                                 
+SEUREAENRT   LUTEK UA           N48285300E073045900                                                                                 
+SEUREAENRT   MADEV UA           N47185610E077032800                                                                                 
+SEUREAENRT   MAGOL UA           N50373000E0550553100                                                                                
+SEUREAENRT   MAKEK UA           N46185310E0791659100                                                                                
+SEUREAENRT   MAKUT UA           N48321700E068363200                                                                                 
+SEUREAENRT   MALOD UA           N45180900E0751033100                                                                                
+SEUREAENRT   MANAD UA           N49204810E0602451100                                                                                
+SEUREAENRT   MAROR UA           N45371510E0753503100                                                                                
+SEUREAENRT   MASAV UA           N45045410E0551036100                                                                                
+SEUREAENRT   MEDOL UA           N43342410E053165900                                                                                 
+SEUREAENRT   MIKDO UA           N42505710E071455100                                                                                 
+SEUREAENRT   MIKNO UA           N42015910E068120000                                                                                 
+SEUREAENRT   MILSO UA           N45251810E060460900                                                                                 
+SEUREAENRT   MIMKA UA           N50242510E0700307100                                                                                
+SEUREAENRT   MIRGA UA           N45241510E069305100                                                                                 
+SEUREAENRT   MNS41 UA           N43132841E074443547                                                                                 
+SEUREAENRT   MONEG UA           N52362700E0671848100                                                                                
+SEUREAENRT   NALIK UA           N44502100E0773451100                                                                                
+SEUREAENRT   NASIP UA           N43034700E0715331100                                                                                
+SEUREAENRT   NEDRO UA           N49162410E0720459100                                                                                
+SEUREAENRT   NEPIL UA           N43413300E052245500                                                                                 
+SEUREAENRT   NEPLA UA           N47092000E0740030100                                                                                
+SEUREAENRT   NIGET UA           N43412310E077112600                                                                                 
+SEUREAENRT   NILDO UA           N50232400E061584400                                                                                 
+SEUREAENRT   NIMAG UA           N41580010E0690100100                                                                                
+SEUREAENRT   NINBU UA           N50574710E0583553100                                                                                
+SEUREAENRT   NOKNA UA           N49515400E081113900                                                                                 
+SEUREAENRT   NOMBA UA           N45374510E076362400                                                                                 
+SEUREAENRT   OBAMA UA           N46021200E069023300                                                                                 
+SEUREAENRT   OBARU UA           N47291700E0751311100                                                                                
+SEUREAENRT   OBUNA UA           N50505710E079250900                                                                                 
+SEUREAENRT   ODAMA UA           N50333010E0753512100                                                                                
+SEUREAENRT   ODILA UA           N49393310E057472500                                                                                 
+SEUREAENRT   ODORI UA           N41590010E068490800                                                                                 
+SEUREAENRT   ODPUT UA           N47294910E0550129100                                                                                
+SEUREAENRT   OGADO UA           N45380310E0810106100                                                                                
+SEUREAENRT   OGAPI UA           N51264800E051133600                                                                                 
+SEUREAENRT   OGIBA UA           N49485100E061595700                                                                                 
+SEUREAENRT   OGRUT UA           N51492310E075551300                                                                                 
+SEUREAENRT   OGTOL UA           N42490510E073300000                                                                                 
+SEUREAENRT   OKABA UA           N48283500E062024200                                                                                 
+SEUREAENRT   OKESO UA           N41105010E0673607100                                                                                
+SEUREAENRT   OLAPU UA           N47514600E0514530100                                                                                
+SEUREAENRT   OLGAS UA           N52050910E0714506100                                                                                
+SEUREAENRT   OLINA UA           N45164500E0615139100                                                                                
+SEUREAENRT   OMITO UA           N50103210E058190900                                                                                 
+SEUREAENRT   OMORA UA           N44173510E0503925100                                                                                
+SEUREAENRT   ORGUK UA           N47145600E078124200                                                                                 
+SEUREAENRT   OSBOR UA           N41005400E068305900                                                                                 
+SEUREAENRT   OSNER UA           N48211900E078540900                                                                                 
+SEUREAENRT   OSNET UA           N45162100E077030500                                                                                 
+SEUREAENRT   OSROL UA           N50481710E0700111100                                                                                
+SEUREAENRT   OTARI UA           N43323510E0752739100                                                                                
+SEUREAENRT   OTKAS UA           N49372700E0592855100                                                                                
+SEUREAENRT   PABRI UA           N45145100E070431400                                                                                 
+SEUREAENRT   PAVEL UA           N42594700E0664641100                                                                                
+SEUREAENRT   PEKIR UA           N43353900E0770930100                                                                                
+SEUREAENRT   PEMOL UA           N46513310E0545057100                                                                                
+SEUREAENRT   PETOR UA           N53542000E071313600                                                                                 
+SEUREAENRT   PIGAL UA           N43371300E0774754100                                                                                
+SEUREAENRT   PIVAL UA           N51454810E0775049100                                                                                
+SEUREAENRT   POBUR UA           N53375910E0721359100                                                                                
+SEUREAENRT   POKAT UA           N43285700E067231500                                                                                 
+SEUREAENRT   R2345 UA           N43202744E077010504                                                                                 
+SEUREAENRT   R2346 UA           N43214747E077034659                                                                                 
+SEUREAENRT   R2378 UA           N42220394E069274608                                                                                 
+SEUREAENRT   R2379 UA           N42213856E069294355                                                                                 
+SEUREAENRT   RASNU UA           N46120100E0780302100                                                                                
+SEUREAENRT   RASUD UA           N50125900E0790754100                                                                                
+SEUREAENRT   RAVNI UA           N50402910E0615806100                                                                                
+SEUREAENRT   RAVOB UA           N40471710E0683329100                                                                                
+SEUREAENRT   REBDA UA           N41470800E069051500                                                                                 
+SEUREAENRT   RELGO UA           N50023400E070173000                                                                                 
+SEUREAENRT   RELRU UA           N42492410E0681811100                                                                                
+SEUREAENRT   REMOL UA           N44270310E068123800                                                                                 
+SEUREAENRT   RESBA UA           N46201600E062064700                                                                                 
+SEUREAENRT   REVKI UA           N42323000E080131200                                                                                 
+SEUREAENRT   RIGDO UA           N49593610E058104900                                                                                 
+SEUREAENRT   RIKTO UA           N44450310E061363800                                                                                 
+SEUREAENRT   RILOK UA           N43134710E066252300                                                                                 
+SEUREAENRT   RITAB UA           N45421210E0754314100                                                                                
+SEUREAENRT   RITAL UA           N41413000E0671206100                                                                                
+SEUREAENRT   RIVUN UA           N44011010E0741211100                                                                                
+SEUREAENRT   ROGON UA           N43053110E0784902100                                                                                
+SEUREAENRT   ROKOD UA           N49440800E0801718100                                                                                
+SEUREAENRT   ROLNA UA           N50150500E074471700                                                                                 
+SEUREAENRT   SANIR UA           N50523000E0572941100                                                                                
+SEUREAENRT   SANUR UA           N45571610E061244600                                                                                 
+SEUREAENRT   SARIN UA           N46515400E0825317100                                                                                
+SEUREAENRT   SIVKO UA           N50182610E0543348100                                                                                
+SEUREAENRT   SOMIR UA           N43531710E052433000                                                                                 
+SEUREAENRT   SUBAN UA           N46335500E076235300                                                                                 
+SEUREAENRT   SUBIR UA           N43450600E074122900                                                                                 
+SEUREAENRT   SUBOL UA           N47510610E064445200                                                                                 
+SEUREAENRT   TEPLA UA           N46194710E0754235100                                                                                
+SEUREAENRT   TETKI UA           N54002000E0692424100                                                                                
+SEUREAENRT   TIBDA UA           N49375910E0632859100                                                                                
+SEUREAENRT   TIMKA UA           N44083110E068151100                                                                                 
+SEUREAENRT   TIPEN UA           N43553200E0632044100                                                                                
+SEUREAENRT   TIRBA UA           N43352500E077291200                                                                                 
+SEUREAENRT   TIROK UA           N47245600E0655036100                                                                                
+SEUREAENRT   TIROM UA           N42143400E053172000                                                                                 
+SEUREAENRT   TISIT UA           N44025810E0683926100                                                                                
+SEUREAENRT   TISRA UA           N46385100E0564059100                                                                                
+SEUREAENRT   TKT02 UA           N41085836E068450312                                                                                 
+SEUREAENRT   TKT19 UA           N41123475E068523116                                                                                 
+SEUREAENRT   TKT23 UA           N41115591E068471716                                                                                 
+SEUREAENRT   TKT38 UA           N41262149E068502283                                                                                 
+SEUREAENRT   TOGDI UA           N47214210E073145700                                                                                 
+SEUREAENRT   TOKNA UA           N48252410E0750316100                                                                                
+SEUREAENRT   TOLKI UA           N47341410E081164000                                                                                 
+SEUREAENRT   TONLA UA           N42132200E068150500                                                                                 
+SEUREAENRT   TUKNA UA           N45105800E0623307100                                                                                
+SEUREAENRT   TUKTO UA           N44113510E076083000                                                                                 
+SEUREAENRT   TULPI UA           N46131800E0752357100                                                                                
+SEUREAENRT   TURIK UA           N42310800E070042200                                                                                 
+SEUREAENRT   TUROK UA           N44203000E0691006100                                                                                
+SEUREAENRT   TUSEP UA           N50313600E0680750100                                                                                
+SEUREAENRT   UDATO UA           N47422110E0573109100                                                                                
+SEUREAENRT   UDEKA UA           N45525110E077000600                                                                                 
+SEUREAENRT   ULKAP UA           N49072810E0755331100                                                                                
+SEUREAENRT   ULMAK UA           N43354400E067482400                                                                                 
+SEUREAENRT   ULRIP UA           N47530410E0633939100                                                                                
+SEUREAENRT   ULSET UA           N53002700E072023000                                                                                 
+SEUREAENRT   UMDEM UA           N48561100E0665321100                                                                                
+SEUREAENRT   UMIRO UA           N44142100E0763536100                                                                                
+SEUREAENRT   UMLOD UA           N43221800E0750714100                                                                                
+SEUREAENRT   UNADA UA           N43355010E0764830100                                                                                
+SEUREAENRT   UNEDO UA           N46441200E0620602100                                                                                
+SEUREAENRT   UNITO UA           N45023800E063295200                                                                                 
+SEUREAENRT   UVTOK UA           N49392400E079452400                                                                                 
+SEUREAENRT   VAGEM UA           N52015900E071011400                                                                                 
+SEUREAENRT   VAGRI UA           N43104510E068305400                                                                                 
+SEUREAENRT   VAGRO UA           N45175910E0591659100                                                                                
+SEUREAENRT   VAGRU UA           N44070610E076024200                                                                                 
+SEUREAENRT   VAKAV UA           N43044500E0682912100                                                                                
+SEUREAENRT   VAKNO UA           N51134110E0713732100                                                                                
+SEUREAENRT   VAMRI UA           N50133000E068164500                                                                                 
+SEUREAENRT   VAVUS UA           N51381810E075521400                                                                                 
+SEUREAENRT   VETUB UA           N50410700E070125000                                                                                 
+SEUREAENRT   VEVIK UA           N50520010E052352900                                                                                 
+SEUREAENRT   VEVIL UA           N43344710E0512305100                                                                                
+SEURDB       AI    UA000288     N43581910E0762008100                                                                                
+SEURDB       OL    UA000905     N43250000E070450000                                                                                 
+SEURDB       TA    UA000670     N43500352E051085007                                                                                 
+SEURDB       AU    UA000670     N43531066E051020679                                                                                 
+SEURDB       TU    UA000323     N50123979E057153868                                                                                 
+SEURDB       AT    UA000323     N50165138E057090817                                                                                 
+SEURDB       A     UA000763     N43220699E077042616                                                                                 
+SEURDB       AL    UA000443     N43225723E077060769                                                                                 
+SEURDB       LM    UA000415     N43191371E076583726                                                                                 
+SEURDB       L     UA000430     N43200576E077002131                                                                                 
+SEURDB       UN    UA001210     N50184600E066570000                                                                                 
+SEURDB       AR    UA000518     N50193000E0665735100                                                                                
+SEURDB       MO    UA000318     N50590300E071242800                                                                                 
+SEURDB       AK    UA000318     N51033600E0713133100                                                                                
+SEURDB       AB    UA000420     N51525910E068240000                                                                                 
+SEURDB       YR    UA000315     N47044393E051512804                                                                                 
+SEURDB       T     UA000755     N47082761E051481839                                                                                 
+SEURDB       TY    UA000315     N47095731E051470213                                                                                 
+SEURDB       Y     UA000755     N47060866E051501639                                                                                 
+SEURDB       ZU    UA000485     N47555410E080265700                                                                                 
+SEURDB       BA    UA000456     N46520551E074572594                                                                                 
+SEURDB       DW    UA000768     N42490000E0733259100                                                                                
+SEURDB       YZ    UA000396     N51364200E0751547100                                                                                
+SEURDB       IN    UA000755     N48340000E051450000                                                                                 
+SEURDB       KA    UA000299     N49415413E073241316                                                                                 
+SEURDB       K     UA000618     N49410304E073220488                                                                                 
+SEURDB       RG    UA000299     N49384008E073160774                                                                                 
+SEURDB       R     UA000618     N49392852E073180816                                                                                 
+SEURDB       EY    UA000510     N45160000E061460000                                                                                 
+SEURDB       MK    UA000605     N42015910E068120000                                                                                 
+SEURDB       KI    UA000370     N43352500E077291200                                                                                 
+SEURDB       KW    UA000975     N53221810E069382500                                                                                 
+SEURDB       OT    UA000975     N53190000E0693559100                                                                                
+SEURDB       VQ    UA000820     N41225910E0684759100                                                                                
+SEURDB       NA    UA000512     N53094429E063345752                                                                                 
+SEURDB       KT    UA000512     N53150000E0633109100                                                                                
+SEURDB       KD    UA000925     N43175910E074570000                                                                                 
+SEURDB       OR    UA000486     N44420500E0653559100                                                                                
+SEURDB       KZ    UA000486     N44420600E065360010                                                                                 
+SEURDB       RC    UA000193     N40585910E0681359100                                                                                
+SEURDB       NK    UA000510     N45495010E062074900                                                                                 
+SEURDB       PW    UA000440     N52134060E077072528                                                                                 
+SEURDB       WL    UA000440     N52094251E077012799                                                                                 
+SEURDB       PT    UA000360     N54473210E0691512100                                                                                
+SEURDB       R     UA000733     N54455453E069084770                                                                                 
+SEURDB       P     UA000733     N54470288E069130907                                                                                 
+SEURDB       RP    UA000360     N54465910E0691059100                                                                                
+SEURDB       SP    UA000418     N50212520E080185962                                                                                 
+SEURDB       S     UA000850     N50211461E080162488                                                                                 
+SEURDB       EL    UA000440     N47500010E0593110100                                                                                
+SEURDB       IM    UA000360     N42210193E069323318                                                                                 
+SEURDB       I     UA000733     N42212985E069302401                                                                                 
+SEURDB       EN    UA000360     N42223946E069250073                                                                                 
+SEURDB       E     UA000733     N42221256E069270566                                                                                 
+SEURDB       CV    UA000535     N40490000E0684059100                                                                                
+SEURDB       TK    UA000303     N45071800E0782635100                                                                                
+SEURDB       KR    UA000303     N45070000E078270000                                                                                 
+SEURDB       YL    UA001030     N42511159E0711811100                                                                                
+SEURDB       MB    UA001030     N42511110E0711811100                                                                                
+SEURDB       NT    UA001155     N43414400E073445600                                                                                 
+SEURDB       TR    UA000494     N49375910E0632859100                                                                                
+SEURDB       TS    UA000415     N43175910E068220000                                                                                 
+SEURDB       SK    UA000442     N51072300E051291200                                                                                 
+SEURDB       S     UA000214     N51082210E051311300                                                                                 
+SEURDB       UR    UA000442     N51104400E051360100                                                                                 
+SEURDB       U     UA000214     N51095000E051341300                                                                                 
+SEURDB       US    UA000345     N50040346E082261303                                                                                 
+SEURDB       U     UA000708     N50025810E082281185                                                                                 
+SEURDB       SI    UA000345     N50002155E082325532                                                                                 
+SEURDB       S     UA000708     N50011964E082311026                                                                                 
+SEURDB       UC    UA000345     N43360000E0761933100                                                                                
+SEURDB       ZK    UA000435     N47404863E067410812                                                                                 
+SEURDB       GN    UA000435     N47441349E067473319                                                                                 
+SEURD        AKT   UA011330V    N43513010E0510606100                                                                                
+SEURD        AKB   UA011340V    N50154700E057110200                                                                                 
+SEURD        ALM   UA011230V    N43222710E0770508100                                                                                
+SEURD        AST   UA011420V    N51000310E071260300                                                                                 
+SEURD        ATR   UA011230V    N47083800E051481000                                                                                 
+SEURD        AGZ   UA011360V    N47555110E0802658100                                                                                
+SEURD        BLH   UA011370V    N46525110E074585300                                                                                 
+SEURD        KRG   UA011340V    N49410910E0732147100                                                                                
+SEURD        QK    UA011360V    N45160000E061460000                                                                                 
+SEURD        KZO   UA011270V    N44422400E0653559100                                                                                
+SEURD        NKZ   UA011360V    N45495010E0620742100                                                                                
+SEURD        SMK   UA011300V    N42213010E0693016100                                                                                
+SEURD        URL   UA011420V    N51084410E0513226100                                                                                
+SEURD        DZG   UA011330V    N47430910E067453300                                                                                 
+SEURD        AKT   UA011330 D   N43513010E0510606100                                                                                
+SEURD        AKB   UA011340 D   N50154700E057110200                                                                                 
+SEURD        ALM   UA011230 D   N43222710E0770508100                                                                                
+SEURD        AST   UA011420 D   N51000310E071260300                                                                                 
+SEURD        ATR   UA011230 D   N47083800E051481000                                                                                 
+SEURD        BLH   UA011370 D   N46525110E074585300                                                                                 
+SEURD        KRG   UA011340 D   N49410910E0732147100                                                                                
+SEURD        KZO   UA011270 D   N44422400E0653559100                                                                                
+SEURD        NKZ   UA011360 D   N45495010E0620742100                                                                                
+SEURD        SMK   UA011300 D   N42213010E0693016100                                                                                
+SEURD        URL   UA011420 D   N51084410E0513226100                                                                                
+SEURD        DZG   UA011330 D   N47430910E067453300                                                                                 
+SEURER       B923        0020GUTANUAEA      O                             0739     24600     46200                                  
+SEURER       P121        0010BADASUAEA      O                                      03900     39700                                  
+SEURER       P121        0020KZO  UAD       O                             0467     03900     39700                                  
+SEURER       A373        0010BAGILUAEA      O                                      07900     39700                                  
+SEURER       A373        0020BLH  UAD       O                             0529     07900     39700                                  
+SEURER       A373        0030TULPIUAEA      O                             0432     05900     39700                                  
+SEURER       A373        0040RITABUAEA      O                             0339     03900     39700                                  
+SEURER       A373        0050DODOKUAEA      O                             0303     03900     39700                                  
+SEURER       A373        0060ETEDAUAEA      O                             0585     03900     39700                                  
+SEURER       A373        0070KOSURUAEA      O                             0037     04900     39700                                  
+SEURER       A373        0080UMIROUAEA      O                             0029     04900     39700                                  
+SEURER       A373        0090DETAKUAEA      O                             0281     06900     39700                                  
+SEURER       A373        0100BEDURUAEA      O                             0136     06900     39700                                  
+SEURER       A122        0010BAGIRUAEA      O                                      03900     39700                                  
+SEURER       A122        0020DOKUSUAEA      O                             0843     03900     39700                                  
+SEURER       A122        0030URL  UAD       O                             0432     03900     39700                                  
+SEURER       A122        0040EKTENUAEA      O                             0435     04900     39700                                  
+SEURER       A122        0050PO   UUD       O                             0792     04900     39700                                  
+SEURER       G661        0010BALGOUAEA      O                                      16700     39700                                  
+SEURER       G661        0020DW   UAD       O                             0138     16700     39700                                  
+SEURER       P126        0010BALGOUAEA      O                                      04900     39700                                  
+SEURER       P126        0020NT   UAD       O                             0397     04900     39700                                  
+SEURER       G267        0020OGADOUAEA      O                             0705     16700     39000                                  
+SEURER       A118        0010BAMUTUAEA      O                                      08900     39700                                  
+SEURER       A118        0020BEDNUUAEA      O                             0089     08900     39700                                  
+SEURER       A118        0030SMK  UAD       O                             0216     08900     39700                                  
+SEURER       A369        0010BANOSUAEA      O                                      05900     39700                                  
+SEURER       A369        0020KRG  UAD       O                             0409     05900     39700                                  
+SEURER       A369        0030GONELUAEA      O                             0667     06900     39700                                  
+SEURER       A369        0040LUKUSUAEA      O                             0334     06900     39700                                  
+SEURER       A369        0050GIREMUAEA      O                             0382     07900     39700                                  
+SEURER       A369        0060BLH  UAD       O                             0422     07900     39700                                  
+SEURER       B142        0010BARARUAEA      O                                      09800     39700                                  
+SEURER       B142        0020DONUPUAEA      O                             0165     09800     39700                                  
+SEURER       B142        0030SMK  UAD       O                             0216     08900     39700                                  
+SEURER       A355        0010BASANUAEA      O                                      05900     39700                                  
+SEURER       A355        0020NT   UAD       O                             0101     05900     39700                                  
+SEURER       A370        0010BASPAUAEA      O                                      03900     39700                                  
+SEURER       A370        0020KOKONUAEA      O                             0147     03900     39700                                  
+SEURER       A370        0030RELGOUAEA      O                             0093     03900     39700                                  
+SEURER       G270        0010BASPIUAEA      O                                      09800     39000                                  
+SEURER       G270        0020BERTOUAEA      O                             0377     09800     39000                                  
+SEURER       G270        0030RULADZBEA      O                             0349     09800     39000                                  
+SEURER       A360        0010BASPIUAEA      O                                      09800     39700                                  
+SEURER       A360        0020ERULAUAEA      O                             0378     09800     39700                                  
+SEURER       A360        0030REVKIUAEA      O                             0536     17700     39700                                  
+SEURER       A241        0010BAVAGUAEA      O                                      03900     39700                                  
+SEURER       A241        0020BIMSOUAEA      O                             0550     03900     39700                                  
+SEURER       A241        0030UAUU UAEA      O                             0646     03900     39700                                  
+SEURER       R482        0010BEDIKUAEA      O                                      06800     39000                                  
+SEURER       R482        0020SMK  UAD       O                             0324     06800     39000                                  
+SEURER       A95         0010BEDKAUAEA      O                                      05900     39700                                  
+SEURER       A95         0020KRG  UAD       O                             0533     05900     39700                                  
+SEURER       A359        0010BEDORUAEA      O                                      04900     39700                                  
+SEURER       A359        0020DZG  UAD       O                             0432     04900     39700                                  
+SEURER       G161        0090BODSIUAEA      O                                      19700     39700                                  
+SEURER       G161        0100NEPILUAEA      O                             1071     19700     39700                                  
+SEURER       W86A        0010BELSOUAEA      O                                      03900     39700                                  
+SEURER       W86A        0020DODULUAEA      O                             1533     03900     39700                                  
+SEURER       A368        0010OSNERUAEA      O                                      08900     39700                                  
+SEURER       A368        0020GORBOUAEA      O                             1156     08900     39700                                  
+SEURER       A368        0030ULKAPUAEA      O                             0122     07900     39700                                  
+SEURER       A368        0040DIMUTUAEA      O                             0330     07900     39700                                  
+SEURER       A368        0050KRG  UAD       O                             0714     07900     39700                                  
+SEURER       A73         0010BETIKUAEA      O                                      04900     39700                                  
+SEURER       A73         0020DZG  UAD       O                             0431     04900     39700                                  
+SEURER       A357-       0010BILGAUAEA      O                                      03000     39700                                  
+SEURER       A357-       0020KODUMUAEA      O                             0303     03000     39700                                  
+SEURER       B350        0080LAKELUAEA      O                             0220     18700     39700                                  
+SEURER       A367        0010BLH  UAD       O                                      07900     39700                                  
+SEURER       A367        0020OBARUUAEA      O                             0377     07900     39700                                  
+SEURER       A366        0010BODNUUAEA      O                                      06900     39700                                  
+SEURER       A366        0020ODAMAUAEA      O                             0192     06900     39700                                  
+SEURER       A366        0030GOBSOUAEA      O                             0440     06900     39700                                  
+SEURER       W76         0010URL  UAD       O                                      03900     39700                                  
+SEURER       W76         0020EDAKOUAEA      O                             0431     03000     39700                                  
+SEURER       W76         0030GERLIUAEA      O                             0737     03000     39700                                  
+SEURER       W76         0040KURULUAEA      O                             1018     03900     39700                                  
+SEURER       G161-       0010BODSIUAEA      O                                      03000     39700                                  
+SEURER       G161-       0020MASAVUAEA      O                             0391     03000     39700                                  
+SEURER       A477        0050CV   UAD       O                             0511     11800     49500                                  
+SEURER       A477        0060RAVOBUAEA      O                             0059     11800     49500                                  
+SEURER       A477        0070UVASUUTEA      O                             0162     09800     49500                                  
+SEURER       6E1         0010BOLSUUAEA      O                                      05900     39700                                  
+SEURER       6E1         0020EDANOUAEA      O                             0062     05900     39700                                  
+SEURER       6E1         0030DETOVUAEA      O                             0539     05900     39700                                  
+SEURER       6E1         0040KRG  UAD       O                             0353     05900     39700                                  
+SEURER       A121        0010BOMKAUAEA      O                                      06900     39700                                  
+SEURER       A121        0020DOSORUAEA      O                             0063     06900     39700                                  
+SEURER       A121        0030REBDAUAEA      O                             0113     06900     39700                                  
+SEURER       A121        0040DODURUAEA      O                             0274     06900     39700                                  
+SEURER       G155        0030BAGILUAEA      O                                      19700     39700                                  
+SEURER       G155        0040GIREMUAEA      O                             0180     19700     39700                                  
+SEURER       G155        0050DONURUAEA      O                             0160     19700     39700                                  
+SEURER       G155        0060OBARUUAEA      O                             0086     19700     39700                                  
+SEURER       G155        0070MADEVUAEA      O                             0754     19700     39700                                  
+SEURER       G155        0080ORGUKUAEA      O                             0472     19700     39700                                  
+SEURER       G155        0110INREDUAEA      O                             0392     19700     39700                                  
+SEURER       G155        0120BEDISUAEA      O                                      19700     39700                                  
+SEURER       G155        0130DZG  UAD       O                             0431     19700     39700                                  
+SEURER       G155        0140BUSARUAEA      O                                      19700     39700                                  
+SEURER       G155        0150GOMALUAEA      O                             0115     19700     39700                                  
+SEURER       G155        0160BURIDUAEA      O                             0474     19700     39700                                  
+SEURER       G155        0170GILAKUAEA      O                             0377     19700     39700                                  
+SEURER       G155        0180SARINUAEA      O                             0399     19700     39700                                  
+SEURER       G155        0190MASAVUAEA      O                                      19700     39700                                  
+SEURER       G155        0200MEDOLUAEA      O                             1217     19700     39700                                  
+SEURER       W72         0010CV   UAD       O                                      07900     49500                                  
+SEURER       W72         0020FC     D       O                             0371     07900     49500                                  
+SEURER       V878        0010CV   UAD       OL                                     07900     49500                                  
+SEURER       V878        0020PF   UTD       OL                            0476     07900     49500                                  
+SEURER       B822        0010DAKINUAEA      O                                      03900     39700                                  
+SEURER       B822        0020VAGEMUAEA      O                             1370     03900     39700                                  
+SEURER       B822        0030VETUBUAEA      O                             0864     03900     39700                                  
+SEURER       B822        0040MIMKAUAEA      O                             0178     03900     39700                                  
+SEURER       A66         0080TIPENUAEA      O                             0173     03900     39700                                  
+SEURER       A66         0090TUKNAUAEA      O                             0828     03000     39700                                  
+SEURER       A66         0100NKZ  UAD       O                             0428     03000     39700                                  
+SEURER       A352        0010GENDIUAEA      O                                      04900     39700                                  
+SEURER       A352        0020ULMAKUAEA      O                             0302     06900     39700                                  
+SEURER       A352        0030KZO  UAD       O                             1161     06900     39700                                  
+SEURER       B114        0010DESERUAEA      O                                      03900     39700                                  
+SEURER       B114        0020LEKLUUAEA      O                             0175     03900     39700                                  
+SEURER       B114        0030DODOKUAEA      O                             0107     03900     39700                                  
+SEURER       B114        0040NOMBAUAEA      O                             0346     03900     39700                                  
+SEURER       B114        0050UDEKAUAEA      O                             0224     03900     39700                                  
+SEURER       B114        0060GENGAUAEA      O                             0351     03900     39700                                  
+SEURER       A354        0010DESERUAEA      O                                      03900     39700                                  
+SEURER       A354        0020MALODUAEA      O                             0273     03900     39700                                  
+SEURER       R366        0010DEVNAUAEA      O                                      12800     39700                                  
+SEURER       R366        0020GOMIRUAEA      O                             0424     12800     39700                                  
+SEURER       G155-       0010DIVNOUAEA      O                                      03000     39700                                  
+SEURER       G155-       0020MASAVUAEA      O                             1121     03000     39700                                  
+SEURER       A237        0010DODURUAEA      O                                      06900     39700                                  
+SEURER       A237        0020LANOLUAEA      O                             0126     06900     39700                                  
+SEURER       A237        0030MIRZO  EA      O                             1096     21700     49500                                  
+SEURER       A119        0010DODURUAEA      O                                      06900     39700                                  
+SEURER       A119        0020ODORIUAEA      O                             0361     06900     39700                                  
+SEURER       A121-       0010DODURUAEA      O                                      05900     39700                                  
+SEURER       A121-       0020OGRIPUTEA      O                             0429     05900     39700                                  
+SEURER       G111        0010DOKUTUAEA      O                                      03900     39700                                  
+SEURER       G111        0020LATKOUAEA      O                             0605     03900     39700                                  
+SEURER       B823        0010EDANOUAEA      O                                      05900     39700                                  
+SEURER       B823        0020LIGMOUAEA      O                             0728     05900     39700                                  
+SEURER       B823        0030VETUBUAEA      O                             0356     05900     39700                                  
+SEURER       B823        0040TUSEPUAEA      O                             0799     03900     39700                                  
+SEURER       A351        0010EKTUSUAEA      O                                      03900     39700                                  
+SEURER       A351        0020PIVALUAEA      O                             0359     03900     39700                                  
+SEURER       A351        0030LAGMOUUEA      O                             0522     03900     39700                                  
+SEURER       B142-       0010EL   UAD       O                                      03900     39700                                  
+SEURER       B142-       0020IDROSUAEA      O                             1034     03900     39700                                  
+SEURER       A113        0010ELSEBUAEA      O                                      03900     39700                                  
+SEURER       A113        0020OBAMAUAEA      O                             0559     03900     39700                                  
+SEURER       A113        0030PABRIUAEA      O                             0849     04900     39700                                  
+SEURER       A113        0040NT   UAD       O                             1597     04900     39700                                  
+SEURER       G121        0010ELSUTUAEA      O                                      04900     39700                                  
+SEURER       G121        0020RUBIDUUEA      O                             0238     04900     39700                                  
+SEURER       A356        0010GAMBUUAEA      O                                      04900     39700                                  
+SEURER       A356        0020NT   UAD       O                             1477     04900     39700                                  
+SEURER       A356        0030SUBIRUAEA      O                             0202     08900     39700                                  
+SEURER       A356        0040KADANUAEA      O                             0717     08900     39700                                  
+SEURER       W85B        0010GENDIUAEA      O                                      03900     39700                                  
+SEURER       W85B        0020RELRUUAEA      O                             0287     03900     39700                                  
+SEURER       W85B        0030MIKNOUAEA      O                             0477     03900     39700                                  
+SEURER       B163        0020TONLAUAEA      O                             1016     03900     39700                                  
+SEURER       B163        0030SMK  UAD       O                             0563     06800     39700                                  
+SEURER       A357-       0010GISTOUAEA      O                                      03000     39700                                  
+SEURER       A357-       0020KODUMUAEA      O                             1025     03000     39700                                  
+SEURER       W86B        0010KADANUAEA      O                                      05900     39600                                  
+SEURER       W86B        0020UC   UAD       O                             0285     05900     39600                                  
+SEURER       6E32        0010KARIMUAEA      O                                      03900     39700                                  
+SEURER       6E32        0020MIKNOUAEA      O                             0719     03900     39700                                  
+SEURER       A460        0020REVKIUAEA      O                             1333     23800     60000                                  
+SEURER       A80-G       0010KEKUNUAEA      O                                      03900     39700                                  
+SEURER       A80-G       0020KURULUAEA      O                             1010     03900     39700                                  
+SEURER       B821        0010KRG  UAD       O                                      05900     39700                                  
+SEURER       B821        0020LESNAUAEA      O                             0374     05900     39700                                  
+SEURER       B821        0030VAGEMUAEA      O                             1291     05900     39700                                  
+SEURER       B821        0040UACK UAEA      O                             0935     06900     39700                                  
+SEURER       P122        0020LATNUUAEA      O                             0350     03000     39700                                  
+SEURER       P122        0030NKZ  UAD       O                             0629     03000     39700                                  
+SEURER       A356-       0010KZO  UAD       O                                      03900     39700                                  
+SEURER       A356-       0020NKZ  UAD       O                             1614     03900     39700                                  
+SEURER       B366        0010LENTAUAEA      O                                      16700     39700                                  
+SEURER       B366        0020OBINAUUEA      O                             0852     16700     39700                                  
+SEURER       G230        0010NIMAGUAEA      O                                      05900     39700                                  
+SEURER       G230        0020REBDAUAEA      O                             0113     05900     39700                                  
+SEURER       B142-       0010OTARIUAEA      O                                      06900     39000                                  
+SEURER       B142-       0020UC   UAD       O                             0378     06900     39000                                  
+SEURER       UG661       0010BALGOUAEA      O                                      16700     39700                                  
+SEURER       UG661       0020DW   UAD       O                             0138     16700     39700                                  
+SEURER       G161-       0010LUMURUAEA      O                                      19700     39700                                  
+SEURER       G161-       0020BALIGUAEA      O                             0198     19700     39700                                  
+SEURER       G161-       0030NEPILUAEA      O                             0333     19700     39700                                  
+SEURER       A371        0010BASPUUAEA      O                                      19700     39700                                  
+SEURER       A371        0020EPOLIUAEA      O                             0718     19700     39700                                  
+SEURER       A371        0030ODPUTUAEA      O                             0180     19700     39700                                  
+SEURER       A371        0040LUKETUAEA      O                             0524     19700     39700                                  
+SEURER       A371        0050UDATOUAEA      O                             0494     19700     39700                                  
+SEURER       A371        0060EL   UAD       O                             0811     19700     39700                                  
+SEURER       A371        0070BALPIUAEA      O                             1026     19700     39700                                  
+SEURER       A371        0080ULRIPUAEA      O                             0643     19700     39700                                  
+SEURER       A371        0090SUBOLUAEA      O                             0438     19700     39700                                  
+SEURER       UG161       0010BODSIUAEA      O                                      19700     39700                                  
+SEURER       UG161       0020SOMIRUAEA      O                             0893     19700     39700                                  
+SEURER       UG161       0030NEPILUAEA      O                             0178     19700     39700                                  
+SEURER       UG161       0040LUMURUAEA      O                                      19700     39700                                  
+SEURER       UG161       0050GASBI  EA      O                             0608     19700     39700                                  
+SEURER       UB357       0050DW   UAD       O                             0453     24600     39700                                  
+SEURER       UB357       0060RUDEKUCEA      O                             0253     24600     39700                                  
+SEURER       G161-       0010BODSIUAEA      O                                      19700     39700                                  
+SEURER       G161-       0020MASAVUAEA      O                             0391     19700     39700                                  
+SEURER       B824        0040DOKAMUAEA      O                                      19700     39700                                  
+SEURER       B824        0050UDATOUAEA      O                             0587     19700     39700                                  
+SEURER       B824        0060KURULUAEA      O                             0929     19700     39700                                  
+SEURER       B824        0070MILSOUAEA      O                                      19700     39700                                  
+SEURER       B824        0080LATNUUAEA      O                             0408     19700     39700                                  
+SEURER       B824        0090RIKTOUAEA      O                             0130     19700     39700                                  
+SEURER       A238        0020CV   UAD       O                             0956     20700     39700                                  
+SEURER       A238        0030OSBORUAEA      O                             0141     20700     49500                                  
+SEURER       B824-       0010URL  UAD       O                                      19700     39700                                  
+SEURER       B824-       0020EDAKOUAEA      O                             0431     19700     39700                                  
+SEURER       B824-       0030GERLIUAEA      O                             0737     19700     39700                                  
+SEURER       B824-       0040KURULUAEA      O                             1018     19700     39700                                  

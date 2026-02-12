@@ -1,0 +1,595 @@
+SMESEAENRT   ABDUL OP           N30235910E067270000                                                                                 
+SMESEAENRT   ADINA OP           N32560410E070354700                                                                                 
+SMESEAENRT   ALEKA OP           N28360000E0684959100                                                                                
+SMESEAENRT   AMBER OP           N30000000E068000000                                                                                 
+SMESEAENRT   AMJID OP           N29190000E069000000                                                                                 
+SMESEAENRT   AVELI OP           N34025910E0730957100                                                                                
+SMESEAENRT   BABEV OP           N34055810E071345800                                                                                 
+SMESEAENRT   BABUR OP           N35115810E0740156100                                                                                
+SMESEAENRT   BADIL OP           N25134400E0672824100                                                                                
+SMESEAENRT   BALAL OP           N35345900E0751956100                                                                                
+SMESEAENRT   BALKA OP           N32591710E0724145100                                                                                
+SMESEAENRT   BARBI OP           N29210000E0662800100                                                                                
+SMESEAENRT   BARDO OP           N27240610E0690540100                                                                                
+SMESEAENRT   BASIR OP           N30131810E070311700                                                                                 
+SMESEAENRT   BATAL OP           N34345900E073045800                                                                                 
+SMESEAENRT   BAVRO OP           N35325810E0733057100                                                                                
+SMESEAENRT   BHAGA OP           N32040000E0725657100                                                                                
+SMESEAENRT   BHALL OP           N32160000E0725357100                                                                                
+SMESEAENRT   BHURN OP           N33542910E0732457100                                                                                
+SMESEAENRT   BIMLA OP           N26361900E068430000                                                                                 
+SMESEAENRT   BOSTA OP           N30252310E067013600                                                                                 
+SMESEAENRT   BUNGI OP           N35375900E074355700                                                                                 
+SMESEAENRT   CADIZ OP           N32381200E0730657100                                                                                
+SMESEAENRT   CAPRI OP           N26431300E0683123100                                                                                
+SMESEAENRT   CARLO OP           N26414810E068321200                                                                                 
+SMESEAENRT   CHANA OP           N32041200E073411500                                                                                 
+SMESEAENRT   CHITL OP           N35530910E0714759100                                                                                
+SMESEAENRT   DABIR OP           N34203500E0731712100                                                                                
+SMESEAENRT   DAMLI OP           N27390100E0685223100                                                                                
+SMESEAENRT   DANGI OP           N24430110E0673459100                                                                                
+SMESEAENRT   DANTY OP           N31285910E070275900                                                                                 
+SMESEAENRT   DARBA OP           N34185900E0725057100                                                                                
+SMESEAENRT   DARIS OP           N35115810E0715057100                                                                                
+SMESEAENRT   DEBAD OP           N25130010E068250000                                                                                 
+SMESEAENRT   DELDA OP           N35425900E0744656100                                                                                
+SMESEAENRT   DERBO OP           N29254110E0611700100                                                                                
+SMESEAENRT   DIBBA OP           N30120610E071480500                                                                                 
+SMESEAENRT   DIVER OP           N26463610E068291200                                                                                 
+SMESEAENRT   DOBAT OP           N25200010E068550000                                                                                 
+SMESEAENRT   DOSTI OP           N25580010E065030100                                                                                 
+SMESEAENRT   DURKA OP           N35335900E0714457100                                                                                
+SMESEAENRT   DUSTY OP           N29300100E070585900                                                                                 
+SMESEAENRT   FALSA OP           N31495910E0734956100                                                                                
+SMESEAENRT   FASAL OP           N31212400E073192200                                                                                 
+SMESEAENRT   FATEH OP           N33345300E072374000                                                                                 
+SMESEAENRT   FIRPO OP           N32135900E070465800                                                                                 
+SMESEAENRT   GASIR OP           N28531810E066404900                                                                                 
+SMESEAENRT   GERRY OP           N36115710E071345800                                                                                 
+SMESEAENRT   GHAZI OP           N30373000E0671959100                                                                                
+SMESEAENRT   HAFIZ OP           N31502500E074045800                                                                                 
+SMESEAENRT   HANGU OP           N33290800E0710020100                                                                                
+SMESEAENRT   HARPA OP           N31210000E0725957100                                                                                
+SMESEAENRT   HILAL OP           N30150000E0694359100                                                                                
+SMESEAENRT   INDEK OP           N32460000E0731557100                                                                                
+SMESEAENRT   JABAR OP           N33321700E0715121100                                                                                
+SMESEAENRT   JAKSI OP           N28320010E069155900                                                                                 
+SMESEAENRT   JAMAN OP           N32335900E070395900                                                                                 
+SMESEAENRT   JHANG OP           N31160000E0721757100                                                                                
+SMESEAENRT   KAGAN OP           N34465900E073285800                                                                                 
+SMESEAENRT   KALAT OP           N29015910E0663500100                                                                                
+SMESEAENRT   KALBH OP           N32581110E071334700                                                                                 
+SMESEAENRT   KALGA OP           N32535910E071593400                                                                                 
+SMESEAENRT   KANDA OP           N34365900E0714557100                                                                                
+SMESEAENRT   KAPAD OP           N27371300E068550000                                                                                 
+SMESEAENRT   KAREM OP           N30000000E067460000                                                                                 
+SMESEAENRT   KASRI OP           N29572910E0710903100                                                                                
+SMESEAENRT   KBRIE OP           N32182910E0722357100                                                                                
+SMESEAENRT   KC015 OP           N24550261E067121117                                                                                 
+SMESEAENRT   KC025 OP           N24535619E067075725                                                                                 
+SMESEAENRT   KEBUD OP           N27355200E062502400                                                                                 
+SMESEAENRT   KINZA OP           N31294200E0705321100                                                                                
+SMESEAENRT   KODAR OP           N27400010E0670159100                                                                                
+SMESEAENRT   KOMAL OP           N30145410E069571100                                                                                 
+SMESEAENRT   KOSAR OP           N29543010E0711346100                                                                                
+SMESEAENRT   KOTAL OP           N34055810E0710857100                                                                                
+SMESEAENRT   KOTRA OP           N30480000E068070000                                                                                 
+SMESEAENRT   KUMMI OP           N30131810E0704910100                                                                                
+SMESEAENRT   KUNAR OP           N31430000E070225900                                                                                 
+SMESEAENRT   LA001 OP           N31290020E074241357                                                                                 
+SMESEAENRT   LA005 OP           N31285916E074240756                                                                                 
+SMESEAENRT   LA030 OP           N31325857E074242021                                                                                 
+SMESEAENRT   LA036 OP           N31325907E074241303                                                                                 
+SMESEAENRT   LA100 OP           N31212308E074175893                                                                                 
+SMESEAENRT   LA400 OP           N31263222E074240708                                                                                 
+SMESEAENRT   LA800 OP           N31223185E074235621                                                                                 
+SMESEAENRT   LAJAK OP           N33555900E0702958100                                                                                
+SMESEAENRT   LAKRA OP           N28545810E066262630                                                                                 
+SMESEAENRT   LARDO OP           N31261200E0735509100                                                                                
+SMESEAENRT   LATLI OP           N31322310E0695604100                                                                                
+SMESEAENRT   LEMOM OP           N31144710E0740227100                                                                                
+SMESEAENRT   LIMTO OP           N26523100E068160000                                                                                 
+SMESEAENRT   LORAL OP           N30312910E068054800                                                                                 
+SMESEAENRT   LOTUS OP           N28495910E0665811100                                                                                
+SMESEAENRT   MABRO OP           N26430010E0683423100                                                                                
+SMESEAENRT   MAKOT OP           N30120100E0705958100                                                                                
+SMESEAENRT   MALET OP           N30150610E0694941100                                                                                
+SMESEAENRT   MANRA OP           N34164610E0731551100                                                                                
+SMESEAENRT   MARKA OP           N28281300E069445300                                                                                 
+SMESEAENRT   MATAR OP           N34055810E0712757100                                                                                
+SMESEAENRT   MATIN OP           N31561800E074004600                                                                                 
+SMESEAENRT   MAZAB OP           N34175796E071315817                                                                                 
+SMESEAENRT   MINAR OP           N23500200E068000000                                                                                 
+SMESEAENRT   MINWI OP           N32230079E071272538                                                                                 
+SMESEAENRT   MOLTA OP           N30120100E072361000                                                                                 
+SMESEAENRT   MURLI OP           N29174200E071252200                                                                                 
+SMESEAENRT   MUSIL OP           N30495910E067450000                                                                                 
+SMESEAENRT   MUSTA OP           N29480000E0665059100                                                                                
+SMESEAENRT   NANDI OP           N26384800E068383000                                                                                 
+SMESEAENRT   NANSI OP           N24345910E0672559100                                                                                
+SMESEAENRT   NAWAZ OP           N27550240E0680553100                                                                                
+SMESEAENRT   OMKOE OP           N35365710E0713057100                                                                                
+SMESEAENRT   ORLAR OP           N29280010E0664000100                                                                                
+SMESEAENRT   PARAK OP           N32221010E070105900                                                                                 
+SMESEAENRT   PARET OP           N25271400E064513200                                                                                 
+SMESEAENRT   PARTA OP           N33191010E0711351100                                                                                
+SMESEAENRT   PATLA OP           N30171200E068054800                                                                                 
+SMESEAENRT   PATNI OP           N31265910E0740056100                                                                                
+SMESEAENRT   PIRAN OP           N29340610E0610808100                                                                                
+SMESEAENRT   POMAR OP           N33160000E0730957100                                                                                
+SMESEAENRT   POPET OP           N34181610E073105800                                                                                 
+SMESEAENRT   POTAL OP           N30560510E068043600                                                                                 
+SMESEAENRT   PUNAM OP           N25010010E067370000                                                                                 
+SMESEAENRT   PUNEL OP           N25200010E0652300100                                                                                
+SMESEAENRT   PURPA OP           N36563000E0752429100                                                                                
+SMESEAENRT   R1792 OP           N24544466E067104069                                                                                 
+SMESEAENRT   R1793 OP           N33363927E073064281                                                                                 
+SMESEAENRT   R2377 OP           N28162157E068272907                                                                                 
+SMESEAENRT   R2793 OP           N31302330E074241549                                                                                 
+SMESEAENRT   RAFIA OP           N30160000E069125900                                                                                 
+SMESEAENRT   RAJAN OP           N29385910E070485900                                                                                 
+SMESEAENRT   RAKAT OP           N31250000E0734556100                                                                                
+SMESEAENRT   RN004 OP           N33350663E073100992                                                                                 
+SMESEAENRT   RN008 OP           N33323112E073155680                                                                                 
+SMESEAENRT   RN025 OP           N33372728E073045181                                                                                 
+SMESEAENRT   RN080 OP           N33325014E073160991                                                                                 
+SMESEAENRT   RN130 OP           N33295440E073164337                                                                                 
+SMESEAENRT   RN160 OP           N33275262E073111429                                                                                 
+SMESEAENRT   RN265 OP           N33355503E073013534                                                                                 
+SMESEAENRT   ROSIE OP           N31400000E0685958100                                                                                
+SMESEAENRT   ROVER OP           N28420100E068040000                                                                                 
+SMESEAENRT   SAHIL OP           N31235910E0741556100                                                                                
+SMESEAENRT   SAJAN OP           N32381700E0702210100                                                                                
+SMESEAENRT   SAKIB OP           N34235810E0731457100                                                                                
+SMESEAENRT   SARDA OP           N31043600E0712434100                                                                                
+SMESEAENRT   SAREK OP           N27010010E0675341100                                                                                
+SMESEAENRT   SAROJ OP           N28330610E0691104100                                                                                
+SMESEAENRT   SARPI OP           N34545900E0725057100                                                                                
+SMESEAENRT   SARPO OP           N31484710E074025200                                                                                 
+SMESEAENRT   SERKA OP           N29510000E066150102                                                                                 
+SMESEAENRT   SHANO OP           N27453600E0672448100                                                                                
+SMESEAENRT   SHEBA OP           N32081710E070433500                                                                                 
+SMESEAENRT   SIBMI OP           N29330000E068000000                                                                                 
+SMESEAENRT   SINAN OP           N29550000E0665859100                                                                                
+SMESEAENRT   SITAX OP           N33045900E0700258100                                                                                
+SMESEAENRT   SOKIR OP           N29080010E0642501100                                                                                
+SMESEAENRT   TABAN OP           N31285910E070152900                                                                                 
+SMESEAENRT   TANGO OP           N35245900E0740456100                                                                                
+SMESEAENRT   TANSA OP           N30300000E070525999                                                                                 
+SMESEAENRT   TAPAL OP           N34465900E0714257100                                                                                
+SMESEAENRT   TASOP OP           N25131910E0704758100                                                                                
+SMESEAENRT   TASUL OP           N31345910E069495900                                                                                 
+SMESEAENRT   TIGER OP           N28280010E0721457100                                                                                
+SMESEAENRT   TIPOM OP           N34001110E0725815100                                                                                
+SMESEAENRT   TIPUR OP           N34435300E0725227100                                                                                
+SMESEAENRT   TOLSA OP           N32215900E0703352100                                                                                
+SMESEAENRT   WBUCN OP           N32325810E0713257100                                                                                
+SMESEAENRT   ZAMBU OP           N30203000E0721457100                                                                                
+SMESEAENRT   ZARAF OP           N31272400E073550000                                                                                 
+SMESEAENRT   ZEMKO OP           N28040010E0684359100                                                                                
+SMESEAENRT   ZOHAR OP           N27160010E069165900                                                                                 
+SMESDB       BW    OP000332     N29205951E071430889                                                                                 
+SMESDB       BN    OP000257     N32583500E070311540                                                                                 
+SMESDB       KE    OP000410     N25311233E069461526                                                                                 
+SMESDB       DI    OP000286     N31543136E070531856                                                                                 
+SMESDB       DB    OP000287     N28522445E064240380                                                                                 
+SMESDB       DG    OP000322     N29574388E070292525                                                                                 
+SMESDB       FA    OP000212     N31221300E072594200                                                                                 
+SMESDB       KF    OP000296     N24462910E067340000                                                                                 
+SMESDB       GT    OP000324     N35551300E074200629                                                                                 
+SMESDB       GD    OP000303     N25134000E062195000                                                                                 
+SMESDB       KD    OP000223     N25192245E068214432                                                                                 
+SMESDB       RN    OP000344     N33364710E073045400                                                                                 
+SMESDB       KC    OP000271     N24551800E067093200                                                                                 
+SMESDB       KH    OP000405     N27475126E066381932                                                                                 
+SMESDB       LA    OP000268     N31300310E0742259100                                                                                
+SMESDB       MI    OP000240     N32335860E071335819                                                                                 
+SMESDB       MJ    OP000304     N27195148E068082777                                                                                 
+SMESDB       MT    OP000387     N30114863E071252587                                                                                 
+SMESDB       MF    OP000207     N34203110E073302420                                                                                 
+SMESDB       NH    OP000393     N26130179E068232858                                                                                 
+SMESDB       OR    OP000380     N25161306E064352110                                                                                 
+SMESDB       PG    OP000388     N26572223E064081792                                                                                 
+SMESDB       PC    OP000273     N33541944E070042082                                                                                 
+SMESDB       PI    OP000400     N25171700E063205600                                                                                 
+SMESDB       PS    OP000308     N33594410E0713015100                                                                                
+SMESDB       QT    OP000348     N30150000E0665559100                                                                                
+SMESDB       RK    OP000290     N28244060E070181252                                                                                 
+SMESDB       RT    OP000295     N33505165E073475700                                                                                 
+SMESDB       SS    OP000357     N34483222E0722107100                                                                                
+SMESDB       SN    OP000338     N26283213E067430587                                                                                 
+SMESDB       SP    OP000317     N31420246E073595643                                                                                 
+SMESDB       SB    OP000208     N29341034E067504945                                                                                 
+SMESDB       SD    OP000247     N35205666E075315297                                                                                 
+SMESDB       SK    OP000375     N27432026E068474602                                                                                 
+SMESDB       TU    OP000237     N25592430E063014738                                                                                 
+SMESDB       ZB    OP000245     N31235129E069271714                                                                                 
+SMESD        BI    OP011330V    N29404710E0710151100                                                                                
+SMESD        DI    OP011310V    N31544550E070530843                                                                                 
+SMESD        RN    OP011210V    N33362139E073073337                                                                                 
+SMESD        KC    OP011210V    N24543772E067103594                                                                                 
+SMESD        LA    OP011270V    N31295810E074240007                                                                                 
+SMESD        MT    OP011670V    N30113847E071245900                                                                                 
+SMESD        NH    OP011290V    N26130349E0682308100                                                                                
+SMESD        PG    OP011430V    N26572021E064073100                                                                                 
+SMESD        PS    OP011430V    N33583134E071310176                                                                                 
+SMESD        QT    OP011470V    N30174912E066532100                                                                                 
+SMESD        RK    OP011370V    N28215633E070162335                                                                                 
+SMESD        ZB    OP011570V    N31212039E069273497                                                                                 
+SMESD        IFA   OP010970 D   N31212248E072592348                                                                                 
+SMESD        IKC   OP010970 D   N24544706E067102938                                                                                 
+SMESD        ILA   OP010990 D   N31303248E074242046                                                                                 
+SMESD        IRN   OP011030 D   N33373954E073062684                                                                                 
+SMESD        RN    OP011210 D   N33362139E073073337                                                                                 
+SMESD        KC    OP011210 D   N24543772E067103594                                                                                 
+SMESD        LA    OP011270 D   N31295810E074240007                                                                                 
+SMESD        NH    OP011290 D   N26130349E0682308100                                                                                
+SMESD        PG    OP011430 D   N26572021E064073100                                                                                 
+SMESD        PS    OP011430 D   N33583134E071310176                                                                                 
+SMESD        QT    OP011470 D   N30174912E066532100                                                                                 
+SMESD        RK    OP011370 D   N28215633E070162335                                                                                 
+SMESD        ZB    OP011570 D   N31212039E069273497                                                                                 
+SMESER       A472        0010BABEVOPEA      O                                      13000     60000                                  
+SMESER       A472        0020MATAROPEA      O                             0058     13000     60000                                  
+SMESER       N644        0030PARAKOPEA      O                                      31000     39000                                  
+SMESER       N644        0040PAVLOOAEA      O                             0482     31000     39000                                  
+SMESER       B466-       0010KC   OPD       O                                      05000     60000                                  
+SMESER       B466-       0020BADILOPEA      O                             0250     05000     60000                                  
+SMESER       B466-       0030NH   OPD       O                             0772     05000     60000                                  
+SMESER       G206        0090OMKOEOPEA      O                                      31000     60000                                  
+SMESER       G206        0100PURPAOPEA      O                             2045     31000     60000                                  
+SMESER       V390        0070SERKAOPEA      OL                            0644     10900     29500                                  
+SMESER       J161        0010BALKAOPEA      OH                                     07100     60000                                  
+SMESER       J161        0020CADIZOPEA      OH                            0299     07100     60000                                  
+SMESER       J161        0030SARPOOPEA      OH                            0684     07100     60000                                  
+SMESER       J161        0040LA   OPD       OH                            0261     02100     60000                                  
+SMESER       J157        0010NH   OPD       OH                                     21000     60000                                  
+SMESER       J157        0020NANDIOPEA      OH                            0292     21000     60000                                  
+SMESER       J157        0030BARDOOPEA      OH                            0514     21000     60000                                  
+SMESER       J157        0040MARKAOPEA      OH                            0729     21000     60000                                  
+SMESER       J157        0050KUMMIOPEA      OH                            1192     21000     60000                                  
+SMESER       J157        0060SARDAOPEA      OH                            0597     21000     60000                                  
+SMESER       J157        0070BALKAOPEA      OH                            1321     21000     60000                                  
+SMESER       J157        0080RN   OPD       OH                            0429     21000     60000                                  
+SMESER       B466        0030SERKAOPEA      O                             0296     12000     60000                                  
+SMESER       B466        0040BARBIOPEA      O                             0321     12000     60000                                  
+SMESER       B466        0050KALATOPEA      O                             0200     12000     60000                                  
+SMESER       B466        0060GASIROPEA      O                             0101     12000     60000                                  
+SMESER       B466        0070SHANOOPEA      O                             0781     12000     60000                                  
+SMESER       B466        0080SAREKOPEA      O                             0515     05000     60000                                  
+SMESER       B466        0090NH   OPD       O                             0547     05000     60000                                  
+SMESER       G201        0010BASIROPEA      O                                      11000     60000                                  
+SMESER       G201        0020BI   OPD       O                             0420     11000     60000                                  
+SMESER       G201        0030MOLTAOPEA      O                             0875     11000     60000                                  
+SMESER       J180        0010BASIROPEA      OH                                     11000     60000                                  
+SMESER       J180        0020DG   OPD       OH                            0157     11000     60000                                  
+SMESER       J131        0010BATALOPEA      OH                                     22200     60000                                  
+SMESER       J131        0020GT   OPD       OH                            1011     22200     60000                                  
+SMESER       A325-       0020KC   OPD       O                             0151     03000     60000                                  
+SMESER       A325-       0030PUNELOPEA      O                             0642     03000     60000                                  
+SMESER       G202        0040ZB   OPD       O                             0954     09800     60000                                  
+SMESER       G202        0050HILALOPEA      O                             0679     09800     60000                                  
+SMESER       G202        0060RK   OPD       O                             1166     09800     60000                                  
+SMESER       G202        0070TIGEROPEA      O                             1045     09800     60000                                  
+SMESER       J178        0010BHAGAOPEA      OH                                     05000     60000                                  
+SMESER       J178        0020BHALLOPEA      OH                            0123     05000     60000                                  
+SMESER       J178        0030KBRIEOPEA      OH                            0255     05000     60000                                  
+SMESER       J178        0040WBUCNOPEA      OH                            0454     05000     60000                                  
+SMESER       J178        0050MINWIOPEA      OH                            0110     05000     60000                                  
+SMESER       J149-       0010BHURNOPEA      OH                                     12000     60000                                  
+SMESER       J149-       0020RT   OPD       OH                            0194     12000     60000                                  
+SMESER       P628        0010RK   OPD       O                                      32000     39000                                  
+SMESER       P628        0020VIKITVIEA      O                             0678     32000     46000                                  
+SMESER       G326        0010NH   OPD       O                                      31000     60000                                  
+SMESER       G326        0020ZEMKOOPEA      O                             1126     31000     60000                                  
+SMESER       J112-       0010BIMLAOPEA      OH                                     02000     60000                                  
+SMESER       J112-       0020NH   OPD       OH                            0293     02000     60000                                  
+SMESER       A453        0010LAJAKOPEA      O                                      16900     29500                                  
+SMESER       A453        0020RAMSOOAEA      O                             0299     16900     29500                                  
+SMESER       A453        0130PIRANOPEA      O                             0186     12000     60000                                  
+SMESER       A453        0140ZDN  OID       O                             0132     15000     60000                                  
+SMESER       J140        0010BOSTAOPEA      OH                                     14500     60000                                  
+SMESER       J140        0020GHAZIOPEA      OH                            0200     14500     60000                                  
+SMESER       J140        0030MUSILOPEA      OH                            0249     14500     60000                                  
+SMESER       J140        0040POTALOPEA      OH                            0179     13000     60000                                  
+SMESER       J140        0050ZB   OPD       OH                            0754     13000     60000                                  
+SMESER       J154        0010BUNGIOPEA      OH                                     20400     60000                                  
+SMESER       J154        0020GT   OPD       OH                            0215     20400     60000                                  
+SMESER       G210        0010DOSTIOPEA      O                                      28000     39000                                  
+SMESER       G210        0020PG   OPD       O                             0774     28000     39000                                  
+SMESER       J119        0010CAPRIOPEA      OH                                     01700     60000                                  
+SMESER       J119        0020NH   OPD       OH                            0311     01700     60000                                  
+SMESER       J163        0010CARLOOPEA      OH                                     05000     60000                                  
+SMESER       J163        0020DAMLIOPEA      OH                            0600     05000     60000                                  
+SMESER       J163        0030SAROJOPEA      OH                            0566     05000     60000                                  
+SMESER       J163        0040MALETOPEA      OH                            1075     05000     60000                                  
+SMESER       J163        0050TABANOPEA      OH                            0772     05000     60000                                  
+SMESER       J163        0060HANGUOPEA      OH                            1260     05000     60000                                  
+SMESER       J162        0010CHANAOPEA      OH                                     02000     60000                                  
+SMESER       J162        0020FALSAOPEA      OH                            0160     02000     60000                                  
+SMESER       J162        0030ZAMBUOPEA      OH                            1210     02000     60000                                  
+SMESER       J162        0040RK   OPD       OH                            1574     02000     60000                                  
+SMESER       G333        0030TIGEROPEA      O                             0998     21000     46000                                  
+SMESER       G325        0010PS   OPD       O                                      31000     60000                                  
+SMESER       G325        0020GT   OPD       O                             1813     31000     60000                                  
+SMESER       G325        0030PURPAOPEA      O                             0803     31000     60000                                  
+SMESER       G325        0040KALATOPEA      O                                      31000     60000                                  
+SMESER       G325        0050LAKRAOPEA      O                             0103     31000     60000                                  
+SMESER       G325        0060PG   OPD       O                             1701     31000     60000                                  
+SMESER       G325        0070KAREMOPEA      O                                      31000     60000                                  
+SMESER       G325        0080ZB   OPD       O                             1194     31000     60000                                  
+SMESER       G325        0090SAJANOPEA      O                             0899     31000     60000                                  
+SMESER       A791-       0010DANGIOPEA      O                                      03000     60000                                  
+SMESER       A791-       0020KC   OPD       O                             0250     03000     60000                                  
+SMESER       G208        0060PG   OPD       O                             1984     15000     60000                                  
+SMESER       G208        0070PARETOPEA      O                             0984     07600     60000                                  
+SMESER       J130        0010DURKAOPEA      OH                                     18200     60000                                  
+SMESER       J130        0020SS   OPD       OH                            0542     12000     60000                                  
+SMESER       J130        0030DARBAOPEA      OH                            0385     12000     60000                                  
+SMESER       J130        0040TIPOMOPEA      OH                            0197     10500     60000                                  
+SMESER       M375        0050SOKIROPEA      O                             0295     10000     29500                                  
+SMESER       J152        0010DB   OPD       OH                                     13000     60000                                  
+SMESER       J152        0020ORLAROPEA      OH                            1240     13000     60000                                  
+SMESER       J171        0010DB   OPD       OH                                     07500     60000                                  
+SMESER       J171        0020PG   OPD       OH                            1161     07500     60000                                  
+SMESER       A325-       0010DEBADOPEA      O                                      02000     60000                                  
+SMESER       A325-       0020DOBATOPEA      O                             0280     02000     60000                                  
+SMESER       A325-       0030KE   OPD       O                             0477     02000     60000                                  
+SMESER       G665        0010PG   OPD       O                                      15000     30000                                  
+SMESER       G665        0020EGSALOIEA      O                             0725     20000     60000                                  
+SMESER       J183        0010DI   OPD       OH                                     07500     60000                                  
+SMESER       J183        0020MINWIOPEA      OH                            0405     07500     60000                                  
+SMESER       J183        0030KALBHOPEA      OH                            0356     07500     60000                                  
+SMESER       J183        0040JABAROPEA      OH                            0371     07500     60000                                  
+SMESER       J145        0010DI   OPD       OH                                     10500     60000                                  
+SMESER       J145        0020PARAKOPEA      OH                            0450     10500     60000                                  
+SMESER       J153        0010DI   OPD       OH                                     13300     60000                                  
+SMESER       J153        0020ZB   OPD       OH                            0802     13300     60000                                  
+SMESER       J138-       0010DIBBAOPEA      OH                                     02000     60000                                  
+SMESER       J138-       0020MOLTAOPEA      OH                            0416     02000     60000                                  
+SMESER       J139        0010ZB   OPD       OH                                     10500     60000                                  
+SMESER       J139        0020RAFIAOPEA      OH                            0666     10500     60000                                  
+SMESER       J139        0030ZEMKOOPEA      OH                            1345     09000     60000                                  
+SMESER       J139        0040DIVEROPEA      OH                            0786     04400     60000                                  
+SMESER       J139        0050NH   OPD       OH                            0340     04400     60000                                  
+SMESER       A454        0040PARETOPEA      O                                      24000     39000                                  
+SMESER       A454        0050TAPDO  EA      O                             2021     24000     39000                                  
+SMESER       G210-       0010DOSTIOPEA      O                                      07200     60000                                  
+SMESER       G210-       0020KAJAL  EA      O                             0962     07200     60000                                  
+SMESER       G210-       0030KC   OPD       O                             0354     06000     60000                                  
+SMESER       J218        0010DOSTIOPEA      OH                                     07300     60000                                  
+SMESER       J218        0020TU   OPD       OH                            1091     07300     60000                                  
+SMESER       J218        0030PI   OPD       OH                            0456     05000     60000                                  
+SMESER       J124        0010FA   OPD       OH                                     02100     60000                                  
+SMESER       J124        0020SP   OPD       OH                            0551     02100     60000                                  
+SMESER       J159        0010FASALOPEA      OH                                     14500     60000                                  
+SMESER       J159        0020LARDOOPEA      OH                            0310     14500     60000                                  
+SMESER       J159        0030LA   OPD       OH                            0249     02100     60000                                  
+SMESER       J139-       0010FATEHOPEA      OH                                     07500     60000                                  
+SMESER       J139-       0020JABAROPEA      OH                            0387     07500     60000                                  
+SMESER       J120-       0010GD   OPD       OH                                     04300     60000                                  
+SMESER       J120-       0020PI   OPD       OH                            0554     04300     60000                                  
+SMESER       J215        0010GD   OPD       OH                                     05200     60000                                  
+SMESER       J215        0020TU   OPD       OH                            0594     05200     60000                                  
+SMESER       J215        0030PG   OPD       OH                            0826     12000     60000                                  
+SMESER       J215        0040KALATOPEA      OH                            1804     14500     60000                                  
+SMESER       J215        0050ORLAROPEA      OH                            0264     14500     60000                                  
+SMESER       J215        0060MUSTAOPEA      OH                            0222     14500     60000                                  
+SMESER       J215        0070SINANOPEA      OH                            0099     14500     60000                                  
+SMESER       J215        0080QT   OPD       OH                            0234     14500     60000                                  
+SMESER       M696        0010LAJAKOPEA      O                                      17300     29500                                  
+SMESER       M696        0020GERANOAEA      O                             0392     17300     29500                                  
+SMESER       A466        0060SITAXOPEA      O                             0300     31000     43000                                  
+SMESER       A466        0070SAJANOPEA      O                             0312     28000     60000                                  
+SMESER       A466        0080TOLSAOPEA      O                             0191     28000     60000                                  
+SMESER       A466        0090SHEBAOPEA      O                             0160     28000     60000                                  
+SMESER       A466        0100DI   OPD       O                             0158     28000     60000                                  
+SMESER       A466        0110JHANGOPEA      O                             0820     28000     60000                                  
+SMESER       A466        0120HARPAOPEA      O                             0363     28000     60000                                  
+SMESER       A466        0130RAKATOPEA      O                             0395     28000     60000                                  
+SMESER       A466        0140PATNIOPEA      O                             0130     28000     60000                                  
+SMESER       A466        0150SAHILOPEA      O                             0132     28000     60000                                  
+SMESER       A466        0160SAMARVIEA      O                             0157     28000     60000                                  
+SMESER       J121-       0010HAFIZOPEA      OH                                     02100     60000                                  
+SMESER       J121-       0020LA   OPD       OH                            0261     02100     60000                                  
+SMESER       J139-       0010HANGUOPEA      OH                                     07500     60000                                  
+SMESER       J139-       0020JABAROPEA      OH                            0427     07500     60000                                  
+SMESER       J164-       0010HANGUOPEA      OH                                     07500     60000                                  
+SMESER       J164-       0020KUNAROPEA      OH                            1108     07500     60000                                  
+SMESER       J164-       0030LATLIOPEA      OH                            0253     07500     60000                                  
+SMESER       J164-       0040ZB   OPD       OH                            0267     07500     60000                                  
+SMESER       J144-       0010HANGUOPEA      OH                                     05000     60000                                  
+SMESER       J144-       0020PS   OPD       OH                            0389     05000     60000                                  
+SMESER       J176        0010HANGUOPEA      OH                                     05000     60000                                  
+SMESER       J176        0020THAL OPEA      OH                            0248     05000     60000                                  
+SMESER       J176        0030PC   OPD       OH                            0397     05000     60000                                  
+SMESER       J166        0010HILALOPEA      OH                                     14500     60000                                  
+SMESER       J166        0020MALETOPEA      OH                            0049     14500     60000                                  
+SMESER       J166        0030KOMALOPEA      OH                            0065     14500     60000                                  
+SMESER       J166        0040KUMMIOPEA      OH                            0450     14500     60000                                  
+SMESER       J166        0050MAKOTOPEA      OH                            0094     14500     60000                                  
+SMESER       J116-       0010HILALOPEA      OH                                     14500     60000                                  
+SMESER       J116-       0020RAFIAOPEA      OH                            0268     14500     60000                                  
+SMESER       J116-       0030PATLAOPEA      OH                            0581     14500     60000                                  
+SMESER       J116-       0040QT   OPD       OH                            0626     14500     60000                                  
+SMESER       J143        0010JABAROPEA      OH                                     10000     60000                                  
+SMESER       J143        0020PS   OPD       OH                            0312     10000     60000                                  
+SMESER       A325        0020PARETOPEA      O                             1680     05800     60000                                  
+SMESER       G214-       0020PG   OPD       O                             1694     06000     60000                                  
+SMESER       G214-       0030SHANOOPEA      O                             1819     06000     60000                                  
+SMESER       G214-       0040ZEMKOOPEA      O                             0724     02000     60000                                  
+SMESER       G214-       0050RK   OPD       O                             0834     02000     60000                                  
+SMESER       J185        0020TU   OPD       OH                            0870     14500     60000                                  
+SMESER       L333        0030TIGEROPEA      O                             0950     26000     46000                                  
+SMESER       P518        0010PARETOPEA      O                                      28000     39000                                  
+SMESER       P518        0020PAXUR  EA      O                             1072     28000     39000                                  
+SMESER       J133        0010KALATOPEA      OH                                     12900     60000                                  
+SMESER       J133        0020KAREMOPEA      OH                            0848     12900     60000                                  
+SMESER       J133        0030PATLAOPEA      OH                            0243     13500     60000                                  
+SMESER       J133        0040ZB   OPD       OH                            0952     10700     60000                                  
+SMESER       J160        0010KALGAOPEA      OH                                     14500     60000                                  
+SMESER       J160        0020RN   OPD       OH                            0709     14500     60000                                  
+SMESER       J118-       0010KANDAOPEA      OH                                     10200     60000                                  
+SMESER       J118-       0020MAZABOPEA      OH                            0223     10200     60000                                  
+SMESER       J118-       0030PS   OPD       OH                            0195     10800     60000                                  
+SMESER       J118        0010DURKAOPEA      OH                                     20400     60000                                  
+SMESER       J118        0020DARISOPEA      OH                            0226     20400     60000                                  
+SMESER       J118        0030TAPALOPEA      OH                            0259     12200     60000                                  
+SMESER       J118        0040KANDAOPEA      OH                            0103     12200     60000                                  
+SMESER       J172        0010QT   OPD       OH                                     15500     60000                                  
+SMESER       J172        0020LOTUSOPEA      OH                            0880     14000     60000                                  
+SMESER       J172        0030KODAROPEA      OH                            0701     11500     60000                                  
+SMESER       J172        0040KC   OPD       OH                            1657     11500     60000                                  
+SMESER       A325-       0010KE   OPD       O                                      02000     60000                                  
+SMESER       A325-       0020TASOPOPEA      O                             0586     02000     60000                                  
+SMESER       A325-       0030PRA  VID       O                             2272     10000     46000                                  
+SMESER       J146-       0010KH   OPD       OH                                     10500     60000                                  
+SMESER       J146-       0020SHANOOPEA      OH                            0412     10500     60000                                  
+SMESER       A455-       0010KOTALOPEA      O                                      13000     60000                                  
+SMESER       A455-       0020MATAROPEA      O                             0157     13000     60000                                  
+SMESER       A455        0010KOTALOPEA      O                                      11200     29000                                  
+SMESER       A455        0020RAMSOOAEA      O                             0389     11200     29000                                  
+SMESER       J134-       0010KOTRAOPEA      OH                                     14500     60000                                  
+SMESER       J134-       0020QT   OPD       OH                            0703     14500     60000                                  
+SMESER       G201-       0010LA   OPD       O                                      02100     60000                                  
+SMESER       G201-       0020LEMOMOPEA      O                             0239     02100     60000                                  
+SMESER       G201-       0030MOLTAOPEA      O                             0973     02000     60000                                  
+SMESER       A456        0010LA   OPD       O                                      10500     60000                                  
+SMESER       A456        0020RABANVIEA      O                             0108     10500     60000                                  
+SMESER       J120-       0020PI   OPD       OH                            0926     02500     60000                                  
+SMESER       J115-       0010LIMTOOPEA      OH                                     04400     60000                                  
+SMESER       J115-       0020MJ   OPD       OH                            0282     04400     60000                                  
+SMESER       J170        0020OR   OPD       OH                            0571     03600     60000                                  
+SMESER       J116-       0010MAKOTOPEA      OH                                     01900     60000                                  
+SMESER       J116-       0020MT   OPD       OH                            0216     01900     60000                                  
+SMESER       J147-       0010MANRAOPEA      OH                                     11800     60000                                  
+SMESER       J147-       0020MF   OPD       OH                            0126     11800     60000                                  
+SMESER       J147        0010MANRAOPEA      OH                                     08500     60000                                  
+SMESER       J147        0020TIPOMOPEA      OH                            0221     08500     60000                                  
+SMESER       J212        0010MJ   OPD       OH                                     02500     60000                                  
+SMESER       J212        0020SK   OPD       OH                            0421     02500     60000                                  
+SMESER       J113        0010MJ   OPD       OH                                     04000     60000                                  
+SMESER       J113        0020SUI  OPEA      OH                            0953     04000     60000                                  
+SMESER       G214-       0010MOLTAOPEA      O                                      02000     60000                                  
+SMESER       G214-       0020MURLIOPEA      O                             0821     02000     60000                                  
+SMESER       G214-       0030RK   OPD       O                             0823     07000     60000                                  
+SMESER       J181        0010NH   OPD       OH                                     05000     10000                                  
+SMESER       J181        0020SN   OPD       OH                            0391     05000     10000                                  
+SMESER       J169        0010OR   OPD       OH                                     05100     60000                                  
+SMESER       J169        0020PI   OPD       OH                            0673     05100     60000                                  
+SMESER       J168        0010OR   OPD       OH                                     05900     60000                                  
+SMESER       J168        0020TU   OPD       OH                            0948     05900     60000                                  
+SMESER       J139-       0010PARAKOPEA      OH                                     13500     60000                                  
+SMESER       J139-       0020ZB   OPD       OH                            0712     13500     60000                                  
+SMESER       A325-       0010PARETOPEA      O                                      05800     60000                                  
+SMESER       A325-       0020PUNELOPEA      O                             0294     05800     60000                                  
+SMESER       J117        0010PARETOPEA      OH                                     05900     60000                                  
+SMESER       J117        0020TU   OPD       OH                            1040     05900     60000                                  
+SMESER       J219        0010PG   OPD       OH                                     06800     60000                                  
+SMESER       J219        0020PI   OPD       OH                            1085     06800     60000                                  
+SMESER       J121-       0010POMAROPEA      OH                                     02000     60000                                  
+SMESER       J121-       0020RN   OPD       OH                            0205     02000     60000                                  
+SMESER       J122        0010DELDAOPEA      OH                                     34600     60000                                  
+SMESER       J122        0020BALALOPEA      OH                            0280     34600     60000                                  
+SMESER       J122        0030SD   OPD       OH                            0171     21500     60000                                  
+SMESER       J122        0060KAGANOPEA      OH                                     18000     60000                                  
+SMESER       J122        0070SAKIBOPEA      OH                            0257     12000     60000                                  
+SMESER       J122        0080POPETOPEA      OH                            0066     12000     60000                                  
+SMESER       J122        0090TIPOMOPEA      OH                            0209     09700     60000                                  
+SMESER       J115-       0010QT   OPD       OH                                     09800     60000                                  
+SMESER       J115-       0020SIBMIOPEA      OH                            0732     09800     60000                                  
+SMESER       J173        0010RK   OPD       OH                                     07000     60000                                  
+SMESER       J173        0020SK   OPD       OH                            0873     07000     60000                                  
+SMESER       J137        0010RK   OPD       OH                                     03300     60000                                  
+SMESER       J137        0020SUI  OPEA      OH                            0606     03300     60000                                  
+SMESER       J122-       0010RN   OPD       OH                                     08500     60000                                  
+SMESER       J122-       0020TIPOMOPEA      OH                            0251     08500     60000                                  
+SMESER       J156        0010SIBMIOPEA      OH                                     06900     60000                                  
+SMESER       J156        0020SUI  OPEA      OH                            0823     06900     60000                                  
+SMESER       J137-       0010SK   OPD       OH                                     04000     60000                                  
+SMESER       J137-       0020SUI  OPEA      OH                            0581     04000     60000                                  
+SMESER       J129        0030GT   OPD       OH                                     22200     60000                                  
+SMESER       J129        0040TANGOOPEA      OH                            0327     21700     60000                                  
+SMESER       J129        0050BAVROOPEA      OH                            0288     20000     60000                                  
+SMESER       J129        0060SARPIOPEA      OH                            0501     20000     60000                                  
+SMESER       J129        0070TIPUROPEA      OH                            0112     13200     60000                                  
+SMESER       J129        0080TIPOMOPEA      OH                            0440     13200     60000                                  
+SMESER       J122-       0010BUNGIOPEA      OH                                     29000     60000                                  
+SMESER       J122-       0020BABUROPEA      OH                            0380     29000     60000                                  
+SMESER       J122-       0030KAGANOPEA      OH                            0368     19500     60000                                  
+SMESER       B466-       0010KC   OPD       O                                      05000     60000                                  
+SMESER       B466-       0020BADILOPEA      O                             0250     05000     60000                                  
+SMESER       B466-       0030NH   OPD       O                             0772     21000     60000                                  
+SMESER       3E100       0010BI   OPD       O                                      23000     60000                                  
+SMESER       3E100       0020MURLIOPEA      O                             0309     23000     60000                                  
+SMESER       3E100       0030TIGEROPEA      O                             0660     23000     60000                                  
+SMESER       P500        0010BN   OPD       O                                      28000     60000                                  
+SMESER       P500        0020HANGUOPEA      O                             0391     28000     60000                                  
+SMESER       P500        0030PS   OPD       O                                      28000     60000                                  
+SMESER       P500        0040CHITLOPEA      O                             1156     28000     60000                                  
+SMESER       P500        0050GERRYOPEA      O                             0216     28000     60000                                  
+SMESER       P500        0060PADDYOAEA      O                             0162     31000     43000                                  
+SMESER       M881-       0010BN   OPD       O                                      31000     60000                                  
+SMESER       M881-       0020JAMANOPEA      O                             0257     31000     60000                                  
+SMESER       M881-       0030FIRPOOPEA      O                             0209     31000     60000                                  
+SMESER       M881-       0040DI   OPD       O                             0199     31000     60000                                  
+SMESER       M881        0010BN   OPD       O                                      31000     39000                                  
+SMESER       M881        0020LAJAKOPEA      O                             0574     31000     39000                                  
+SMESER       J122-       0010BUNGIOPEA      OH                                     29000     60000                                  
+SMESER       J122-       0020DELDAOPEA      OH                            0102     29000     60000                                  
+SMESER       J154-       0010BUNGIOPEA      OH                                     29000     60000                                  
+SMESER       J154-       0020TANGOOPEA      OH                            0284     29000     60000                                  
+SMESER       J118-       0010CHITLOPEA      OH                                     20400     60000                                  
+SMESER       J118-       0020DURKAOPEA      OH                            0194     20400     60000                                  
+SMESER       J125        0010KAGANOPEA      OH                                     17600     60000                                  
+SMESER       J125        0020DABIROPEA      OH                            0281     17600     60000                                  
+SMESER       J125        0030MANRAOPEA      OH                            0040     11000     60000                                  
+SMESER       J158        0010NH   OPD       OH                                     21000     60000                                  
+SMESER       J158        0020MABROOPEA      OH                            0316     21000     60000                                  
+SMESER       J158        0030KAPADOPEA      OH                            0573     21000     60000                                  
+SMESER       J158        0040JAKSIOPEA      OH                            0579     21000     60000                                  
+SMESER       J158        0050KOMALOPEA      OH                            1091     21000     60000                                  
+SMESER       J158        0060DANTYOPEA      OH                            0787     21000     60000                                  
+SMESER       J158        0070PARTAOPEA      OH                            1169     21000     60000                                  
+SMESER       J158        0080PS   OPD       OH                            0419     21000     60000                                  
+SMESER       J155        0010DELDAOPEA      OH                                     26400     60000                                  
+SMESER       J155        0020GT   OPD       OH                            0250     26400     60000                                  
+SMESER       J125-       0010DELDAOPEA      OH                                     29000     60000                                  
+SMESER       J125-       0020SD   OPD       OH                            0427     29000     60000                                  
+SMESER       J145-       0010DI   OPD       OH                                     31000     60000                                  
+SMESER       J145-       0020PARAKOPEA      OH                            0450     31000     60000                                  
+SMESER       UL124       0050KEBUDOPEA      O                                      27000     60000                                  
+SMESER       UL124       0060PEKESOIEA      O                             1778     27000     60000                                  
+SMESER       G210-       0010DOSTIOPEA      O                                      07200     60000                                  
+SMESER       G210-       0020KAJAL  EA      O                             0962     07200     60000                                  
+SMESER       G210-       0030KC   OPD       O                             0354     07200     60000                                  
+SMESER       G796        0030LAJAKOPEA      O                             0392     31000     43000                                  
+SMESER       G796        0040HANGUOPEA      O                             0369     17000     27000                                  
+SMESER       L750        0070ROSIEOPEA      O                             0784     31000     43000                                  
+SMESER       L750        0080ZB   OPD       O                             0301     31000     39000                                  
+SMESER       G325-       0010HANGUOPEA      O                                      31000     60000                                  
+SMESER       G325-       0020PS   OPD       O                             0389     31000     60000                                  
+SMESER       G214-       0020PG   OPD       O                             1694     31000     60000                                  
+SMESER       J186        0010RN   OPD       OH                                     29000     60000                                  
+SMESER       J186        0020KAGANOPEA      OH                            0729     29000     60000                                  
+SMESER       J186        0030TANGOOPEA      OH                            0481     23000     60000                                  
+SMESER       G325-       0010KALATOPEA      O                                      31000     60000                                  
+SMESER       G325-       0020KAREMOPEA      O                             0848     31000     60000                                  
+SMESER       J177        0010QT   OPD       OH                                     15500     60000                                  
+SMESER       J177        0020KALATOPEA      OH                            0775     15500     60000                                  
+SMESER       J177        0030SOKIROPEA      OH                            1138     15500     60000                                  
+SMESER       J177        0040ZDN  OID       OH                            1853     15500     60000                                  
+SMESER       M638-       0010KC   OPD       O                                      28000     60000                                  
+SMESER       M638-       0020NANSIOPEA      O                             0241     28000     60000                                  
+SMESER       M638-       0030MINAROPEA      O                             0547     28000     60000                                  
+SMESER       M638-       0040SAPNA  EA      O                             0220     28000     60000                                  
+SMESER       L124        0010KEBUDOPEA      O                                      31000     60000                                  
+SMESER       L124        0020PG   OPD       O                             0787     31000     60000                                  
+SMESER       P757        0010NH   OPD       O                                      31000     39000                                  
+SMESER       P757        0020PG   OPD       O                             2330     31000     39000                                  
+SMESER       G208-       0010PARETOPEA      O                                      28000     60000                                  
+SMESER       G208-       0020PG   OPD       O                             0984     28000     60000                                  
+SMESER       G326-       0010RAFIAOPEA      O                                      31000     60000                                  
+SMESER       G326-       0020ZB   OPD       O                             0666     31000     60000                                  
+SMESER       G202-       0010RK   OPD       O                                      21000     60000                                  
+SMESER       G202-       0020TIGEROPEA      O                             1045     21000     60000                                  

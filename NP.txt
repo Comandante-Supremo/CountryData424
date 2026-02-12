@@ -1,0 +1,83 @@
+SASIEAENRT   AHALE VN           N27114800E086070500                                                                                 
+SASIEAENRT   BDA11 VN           N27234458E085085402                                                                                 
+SASIEAENRT   BDA17 VN           N27242910E085343600                                                                                 
+SASIEAENRT   BDA20 VN           N27290510E0853935100                                                                                
+SASIEAENRT   CHURE VN           N26514710E0863906100                                                                                
+SASIEAENRT   HARRE VN           N27432071E082595258                                                                                 
+SASIEAENRT   IGRIS VN           N27363510E085371800                                                                                 
+SASIEAENRT   JULIT VN           N27493072E083402225                                                                                 
+SASIEAENRT   KAM16 VN           N27401452E085220143                                                                                 
+SASIEAENRT   KAM22 VN           N27433120E085223231                                                                                 
+SASIEAENRT   KAM35 VN           N27434840E085241121                                                                                 
+SASIEAENRT   KAM37 VN           N27450293E085195037                                                                                 
+SASIEAENRT   KAM45 VN           N27410072E085261156                                                                                 
+SASIEAENRT   KAM47 VN           N27434553E085163116                                                                                 
+SASIEAENRT   KAM59 VN           N27430916E085144176                                                                                 
+SASIEAENRT   KTM01 VN           N27393349E085203322                                                                                 
+SASIEAENRT   KTM05 VN           N27355028E085185640                                                                                 
+SASIEAENRT   KTM06 VN           N27345485E085183218                                                                                 
+SASIEAENRT   KTM08 VN           N27330252E085174403                                                                                 
+SASIEAENRT   KTM10 VN           N27311128E085165544                                                                                 
+SASIEAENRT   KTM13 VN           N27282388E085154271                                                                                 
+SASIEAENRT   KTM20 VN           N27395796E085230839                                                                                 
+SASIEAENRT   KTM22 VN           N27421110E085223000                                                                                 
+SASIEAENRT   KTM30 VN           N27394212E085241391                                                                                 
+SASIEAENRT   KTM40 VN           N27392664E085251978                                                                                 
+SASIEAENRT   KTM45 VN           N27403924E085155249                                                                                 
+SASIEAENRT   KTM56 VN           N27410206E085210705                                                                                 
+SASIEAENRT   KTM65 VN           N27384776E085280322                                                                                 
+SASIEAENRT   LALBA VN           N26564910E085482300                                                                                 
+SASIEAENRT   LDK05 VN           N27431778E085111621                                                                                 
+SASIEAENRT   LDK08 VN           N27404110E0845829100                                                                                
+SASIEAENRT   LNC14 VN           N27361800E085430000                                                                                 
+SASIEAENRT   LNC37 VN           N27375340E085315399                                                                                 
+SASIEAENRT   MANKA VN           N28002800E084290700                                                                                 
+SASIEAENRT   NONIM VN           N27495910E0872559100                                                                                
+SASIEAENRT   NOPEN VN           N27253600E085143000                                                                                 
+SASIEAENRT   PUTAN VN           N28084057E082595256                                                                                 
+SASIEAENRT   RATAN VN           N27180100E085110300                                                                                 
+SASIEAENRT   ROMEO VN           N27024700E0850442100                                                                                
+SASIEAENRT   THARA VN           N27572064E082595257                                                                                 
+SASIDB       BHW   VN000345     N27303010E083253600                                                                                 
+SASIDB       BHP   VN000295     N27404510E0842546100                                                                                
+SASIDB       VTN   VN000358     N26290800E087155900                                                                                 
+SASIDB       JPA   VN000397     N26341200E088043900                                                                                 
+SASIDB       RKM   VN000234     N28373610E082113500                                                                                 
+SASIDB       DNG   VN000363     N28064200E082173000                                                                                 
+SASIDB       DHI   VN000253     N28450900E0803455100                                                                                
+SASIDB       LDK   VN000358     N27444200E085061800                                                                                 
+SASIDB       DTI   VN000393     N29154310E080561200                                                                                 
+SASIDB       JKP   VN000287     N26424310E085551800                                                                                 
+SASIDB       JLA   VN000242     N29162600E0821130100                                                                                
+SASIDB       KAM   VN000318     N27413800E0852112100                                                                                
+SASIDB       LDA   VN000236     N27151110E0864014100                                                                                
+SASIDB       LNC   VN000252     N27390100E085275400                                                                                 
+SASIDB       PHR   VN000336     N28120200E0835903100                                                                                
+SASIDB       RBJ   VN000306     N26311110E086441700                                                                                 
+SASIDB       SIM   VN000246     N27095610E0845859100                                                                                
+SASIDB       SKT   VN000387     N28351600E081380600                                                                                 
+SASIDB       LHT   VN000230     N27364501E085192049                                                                                 
+SASIDB       TTR   VN000227     N27185900E087114300                                                                                 
+SASID        BWA   VN011470V    N27301110E083255800                                                                                 
+SASID        BDA   VN011320V    N27320800E0851721100                                                                                
+SASID        BRT   VN011410V    N26285010E087154700                                                                                 
+SASID        KTM   VN011230V    N27402810E085205700                                                                                 
+SASID        SMR   VN011290V    N27095100E0845855100                                                                                
+SASID        BWA   VN011470 D   N27301110E083255800                                                                                 
+SASID        BDA   VN011320 D   N27320800E0851721100                                                                                
+SASID        BRT   VN011410 D   N26285010E087154700                                                                                 
+SASID        KTM   VN011230 D   N27402810E085205700                                                                                 
+SASID        SMR   VN011290 D   N27095100E0845855100                                                                                
+SASID        PHR   VN011280 D   N28120200E0835903100                                                                                
+SASIER       G348        0030KTM  VND       O                             1607     26000     46000                                  
+SASIER       G590        0050SMR  VND       O                             0143     10000     46000                                  
+SASIER       B345        0010BHP  VND       O                                      10500     46000                                  
+SASIER       B345        0020BWA  VND       O                             0541     10500     46000                                  
+SASIER       B345        0030GUGIPVIEA      O                             1103     10000     46000                                  
+SASIER       R344        0010BRT  VND       O                                      10500     46000                                  
+SASIER       R344        0020CHUREVNEA      O                             0400     10500     46000                                  
+SASIER       G335-       0010JKP  VND       O                                      12000     46000                                  
+SASIER       G335-       0020LALBAVNEA      O                             0154     12000     46000                                  
+SASIER       G335-       0030LNC  VND       O                             0460     12000     46000                                  
+SASIER       G335-       0040KTM  VND       O                             0063     12000     46000                                  
+SASIER       A467        0020VTN  VND       O                             0573     10000     46000                                  

@@ -1,0 +1,25 @@
+SSPAEAENRT   ADORA NW           S21562400E1662402100                                                                                
+SSPAEAENRT   BAPUS NW           S22005710E166313600                                                                                 
+SSPAEAENRT   BASAR NW           S21441710E1660411100                                                                                
+SSPAEAENRT   DETIS NW           S21515600E166164400                                                                                 
+SSPAEAENRT   GIRAD NW           S22083910E1661436100                                                                                
+SSPAEAENRT   GOSLA NW           S22033700E166360500                                                                                 
+SSPAEAENRT   KAORI NW           S22093810E1664605100                                                                                
+SSPAEAENRT   OBOLI NW           S21593910E1662931100                                                                                
+SSPAEAENRT   OUANA NW           S22054510E1665318100                                                                                
+SSPAEAENRT   PIROG NW           S22192810E1664118100                                                                                
+SSPAEAENRT   SARAM NW           S21404000E165560200                                                                                 
+SSPAEAENRT   TESRA NW           S21354400E1652939100                                                                                
+SSPAEAENRT   TIMDU NW           S22112600E166220400                                                                                 
+SSPAEAENRT   TOSAM NW           S21471560E165494670                                                                                 
+SSPAEAENRT   UVIKI NW           S21532210E166190500                                                                                 
+SSPADB       KE    NW000270     S21051950E164505050                                                                                 
+SSPADB       NW    NW000325     S21561590E166043230                                                                                 
+SSPADB       FND   NW000354     S22000090E166111530                                                                                 
+SSPADB       AV    NW000338     S22021131E166150740                                                                                 
+SSPADB       TH    NW000256     S20472500E165152020                                                                                 
+SSPAD        LTO   NW011290V    S22001840E166124240                                                                                 
+SSPAD        LTO   NW011290 D   S22001840E166124240                                                                                 
+SSPAER       G591        0070LTO  NWD       O                             1200     20000     60000                                  
+SSPAER       G591        0080SCUBA  EA      O                             1209     20000     60000                                  
+SSPAER       B590        0050LTO  NWD       O                             1644     20000     60000                                  

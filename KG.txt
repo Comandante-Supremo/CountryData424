@@ -1,0 +1,123 @@
+SEUREAENRT   ABDOK UC           N41173000E071073000                                                                                 
+SEUREAENRT   AFM05 UC           N43105592E074165309                                                                                 
+SEUREAENRT   AFM11 UC           N43014099E074133004                                                                                 
+SEUREAENRT   AFM18 UC           N43050331E074430894                                                                                 
+SEUREAENRT   AFM19 UC           N43083522E074232519                                                                                 
+SEUREAENRT   AFM46 UC           N42563019E073595400                                                                                 
+SEUREAENRT   AFM47 UC           N43024990E074215772                                                                                 
+SEUREAENRT   AFM53 UC           N43043395E074352284                                                                                 
+SEUREAENRT   AFM54 UC           N42592796E073584766                                                                                 
+SEUREAENRT   AFM58 UC           N43022235E074132051                                                                                 
+SEUREAENRT   AFM61 UC           N43065602E074423672                                                                                 
+SEUREAENRT   AFM65 UC           N43034284E074131347                                                                                 
+SEUREAENRT   AFM75 UC           N43053187E074430282                                                                                 
+SEUREAENRT   AFM78 UC           N43035549E074302448                                                                                 
+SEUREAENRT   AFM81 UC           N43002978E074135358                                                                                 
+SEUREAENRT   AFM82 UC           N42571397E073593427                                                                                 
+SEUREAENRT   AFM83 UC           N43032097E074263259                                                                                 
+SEUREAENRT   AFM86 UC           N43015820E074202468                                                                                 
+SEUREAENRT   AFM87 UC           N43043463E074374358                                                                                 
+SEUREAENRT   AFM88 UC           N43012288E074174820                                                                                 
+SEUREAENRT   AFM89 UC           N43044900E074402625                                                                                 
+SEUREAENRT   AFM91 UC           N43123790E074192359                                                                                 
+SEUREAENRT   BOKLA UC           N41291710E071124200                                                                                 
+SEUREAENRT   FIKAS UC           N41280000E0704959100                                                                                
+SEUREAENRT   IRISU UC           N40580000E073220000                                                                                 
+SEUREAENRT   KESOR UC           N42151110E0713647100                                                                                
+SEUREAENRT   KYZYL UC           N40150000E0720559100                                                                                
+SEUREAENRT   MALEX UC           N41185310E0740011100                                                                                
+SEUREAENRT   MAMIR UC           N42543800E076364200                                                                                 
+SEUREAENRT   MASUP UC           N42091110E0731941100                                                                                
+SEUREAENRT   MEDAS UC           N41464710E0745217100                                                                                
+SEUREAENRT   MNS07 UC           N43051856E074404247                                                                                 
+SEUREAENRT   MNS10 UC           N43021253E074164783                                                                                 
+SEUREAENRT   MNS11 UC           N43041289E074324761                                                                                 
+SEUREAENRT   MNS12 UC           N43041352E074325576                                                                                 
+SEUREAENRT   MNS25 UC           N43025266E074215390                                                                                 
+SEUREAENRT   MNS27 UC           N43060876E074164972                                                                                 
+SEUREAENRT   MNS31 UC           N43043823E074352793                                                                                 
+SEUREAENRT   MNS38 UC           N43032628E074261173                                                                                 
+SEUREAENRT   MNS47 UC           N43082439E074385005                                                                                 
+SEUREAENRT   MNS51 UC           N43014729E074184343                                                                                 
+SEUREAENRT   MNS54 UC           N43030686E074241796                                                                                 
+SEUREAENRT   MNS55 UC           N43030573E074240992                                                                                 
+SEUREAENRT   R1755 UC           N43035251E074301064                                                                                 
+SEUREAENRT   R1759 UC           N43032886E074270776                                                                                 
+SEUREAENRT   RENAT UC           N42560660E074000005                                                                                 
+SEUREAENRT   RILAK UC           N42065400E0732935100                                                                                
+SEUREAENRT   RODAM UC           N43134710E0741933100                                                                                
+SEUREAENRT   RODKI UC           N41234800E070585400                                                                                 
+SEUREAENRT   RUDEK UC           N42235310E073371200                                                                                 
+SEUREAENRT   SOKUL UC           N42480042E074384938                                                                                 
+SEUREAENRT   SOMEK UC           N42122400E0730629100                                                                                
+SEUREAENRT   SOMUS UC           N42025910E073460000                                                                                 
+SEUREAENRT   SORAM UC           N41435400E0715241100                                                                                
+SEUREAENRT   SULET UC           N43061110E0743505100                                                                                
+SEUREAENRT   TADOT UC           N41254110E075435400                                                                                 
+SEUREAENRT   TOKPA UC           N42554318E074505918                                                                                 
+SEURDB       BL    UC000855     N42255910E0760759100                                                                                
+SEURDB       M     UC000481     N43032400E0742623100                                                                                
+SEURDB       B     UC000481     N43040000E074310000                                                                                 
+SEURDB       BK    UC000975     N43041800E074330600                                                                                 
+SEURDB       BI    UC000810     N42520000E074310000                                                                                 
+SEURDB       MN    UC000975     N43030600E074241800                                                                                 
+SEURDB       IR    UC001205     N40580000E073220000                                                                                 
+SEURDB       KL    UC000825     N42420000E075220000                                                                                 
+SEURDB       PD    UC000568     N42524110E0744641100                                                                                
+SEURDB       KA    UC000912     N42310510E0782129100                                                                                
+SEURDB       KZ    UC000555     N40150000E0720559100                                                                                
+SEURDB       OU    UC000780     N40381200E0724435100                                                                                
+SEURDB       DZ    UC000780     N40344922E072504108                                                                                 
+SEURDB       DA    UC000600     N40563510E072585400                                                                                 
+SEURD        MNS   UC011340V    N43040510E074311800                                                                                 
+SEURD        MNS   UC011340 D   N43040510E074311800                                                                                 
+SEURER       B351        0020KA   UCD       O                             0609     18700     39700                                  
+SEURER       B351        0030BL   UCD       O                             0987     18700     39700                                  
+SEURER       B351        0040RUDEKUCEA      O                             1114     18700     39700                                  
+SEURER       B351        0050MASUPUCEA      O                             0196     17700     39700                                  
+SEURER       B351        0060NS   UTD       O                             0789     17700     39700                                  
+SEURER       B350        0010OSH  UCEA      O                                      06900     39700                                  
+SEURER       B350        0020KYZYLUCEA      O                             0375     06900     39700                                  
+SEURER       B350        0030PRONA  EA      O                             0714     21700     39700                                  
+SEURER       B350        0040MALEXUCEA      O                                      17700     39700                                  
+SEURER       B350        0050MEDASUCEA      O                             0480     17700     39700                                  
+SEURER       B350        0060BL   UCD       O                             0685     18700     39700                                  
+SEURER       B350        0070MAMIRUCEA      O                             0356     18700     39700                                  
+SEURER       B350        0080LAKELUAEA      O                             0220     18700     39700                                  
+SEURER       G134        0020OSH  UCEA      O                             0075     07900     39700                                  
+SEURER       A477        0010BOKLAUCEA      O                                      17700     49500                                  
+SEURER       A477        0020RODKIUCEA      O                             0117     17700     49500                                  
+SEURER       A477        0030TISIBUTEA      O                             0338     17700     49500                                  
+SEURER       UB356       0010OSH  UCEA      O                                      09800     39700                                  
+SEURER       UB356       0020DA   UCD       O                             0214     09800     39700                                  
+SEURER       UB356       0030SOMUSUCEA      O                             0752     09800     39700                                  
+SEURER       UB356       0040MNS  UCD       O                             0697     19700     39700                                  
+SEURER       P206        0010FIKASUCEA      O                                      17700     49500                                  
+SEURER       P206        0020TULGAUTEA      O                             0383     17700     49500                                  
+SEURER       A352-       0020OSH  UCEA      O                             0412     06900     39700                                  
+SEURER       B351-       0020KA   UCD       O                             0609     18700     39700                                  
+SEURER       B351-       0030BL   UCD       O                             0987     18700     39700                                  
+SEURER       B351-       0040RUDEKUCEA      O                             1114     18700     39700                                  
+SEURER       B351-       0050MASUPUCEA      O                             0196     17700     39700                                  
+SEURER       B351-       0060NS   UTD       O                             0789     17700     39700                                  
+SEURER       UB357       0020BL   UCD       O                             1312     24600     39700                                  
+SEURER       UB357       0030KL   UCD       O                             0375     24600     39700                                  
+SEURER       UB357       0040MNS  UCD       O                             0433     24600     39700                                  
+SEURER       UB357       0050DW   UAD       O                             0453     24600     39700                                  
+SEURER       UB357       0060RUDEKUCEA      O                             0253     24600     39700                                  
+SEURER       UB357       0070RILAKUCEA      O                             0179     24600     39700                                  
+SEURER       UB357       0080DA   UCD       O                             0740     24600     39700                                  
+SEURER       B350-       0010MAMIRUCEA      O                                      18700     39700                                  
+SEURER       B350-       0020BL   UCD       O                             0356     18700     39700                                  
+SEURER       B350-       0030MEDASUCEA      O                             0685     17700     39700                                  
+SEURER       B350-       0040MALEXUCEA      O                             0480     17700     39700                                  
+SEURER       B350-       0050OSH  UCEA      O                                      06900     39700                                  
+SEURER       B350-       0060KYZYLUCEA      O                             0375     06900     39700                                  
+SEURER       B350-       0070PRONA  EA      O                             0714     21700     39700                                  
+SEURER       UB356       0010DA   UCD       O                                      24600     39700                                  
+SEURER       UB356       0020OSH  UCEA      O                             0214     24600     39700                                  
+SEURER       UB358       0020TADOTUCEA      O                             1397     24600     39700                                  
+SEURER       UB358       0030MALEXUCEA      O                             0782     24600     39700                                  
+SEURER       UB358       0040NS   UTD       O                             0834     24600     39700                                  
+SEURER       A352-       0020OSH  UCEA      O                             0412     06900     39700                                  
+SEURER       G134-       0020OSH  UCEA      O                             0075     07900     39700                                  

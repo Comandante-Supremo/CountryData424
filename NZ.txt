@@ -1,0 +1,581 @@
+SSPAEAENRT   ABTOL NZ           S40351209E175392585                                                                                 
+SSPAEAENRT   ADBAB NZ           S44551590E168263104                                                                                 
+SSPAEAENRT   AFTON NZ           S45072504E168292402                                                                                 
+SSPAEAENRT   AGIRA NZ           S38552360E174220682                                                                                 
+SSPAEAENRT   AGPUK NZ           S44505569E168273328                                                                                 
+SSPAEAENRT   AGRAX NZ           S36364409E174283469                                                                                 
+SSPAEAENRT   AKABA NZ           S38590161E175521473                                                                                 
+SSPAEAENRT   AKBAM NZ           S37000540E174301390                                                                                 
+SSPAEAENRT   AKINA NZ           S39371139E176510211                                                                                 
+SSPAEAENRT   AKIWA NZ           S38300920E177514490                                                                                 
+SSPAEAENRT   ALADA NZ           S41501320E172413360                                                                                 
+SSPAEAENRT   ALBAD NZ           S43355859E172241399                                                                                 
+SSPAEAENRT   AMOKO NZ           S44463180E171050888                                                                                 
+SSPAEAENRT   AMURI NZ           S38143010E175535009                                                                                 
+SSPAEAENRT   ANOKU NZ           S40484490E175305790                                                                                 
+SSPAEAENRT   ANOLA NZ           S43450560E171394420                                                                                 
+SSPAEAENRT   APABO NZ           S36114350E174333740                                                                                 
+SSPAEAENRT   APASA NZ           S42470189E171041208                                                                                 
+SSPAEAENRT   APINU NZ           S38474320E177471903                                                                                 
+SSPAEAENRT   APITI NZ           S39583430E175504960                                                                                 
+SSPAEAENRT   ARETI NZ           S39221720E175202660                                                                                 
+SSPAEAENRT   ARIAL NZ           S38461191E178071588                                                                                 
+SSPAEAENRT   ARIKA NZ           S38160410E176151428                                                                                 
+SSPAEAENRT   ARNAD NZ           S41472010E173041302                                                                                 
+SSPAEAENRT   AROPA NZ           S39181380E176574701                                                                                 
+SSPAEAENRT   ASABI NZ           S40141200E175223440                                                                                 
+SSPAEAENRT   ATAPO NZ           S41373969E172431239                                                                                 
+SSPAEAENRT   ATHOL NZ           S45355850E168350640                                                                                 
+SSPAEAENRT   AUBRY NZ           S44405330E169082219                                                                                 
+SSPAEAENRT   AURUM NZ           S44450810E168390432                                                                                 
+SSPAEAENRT   AVOCA NZ           S43075400E171482440                                                                                 
+SSPAEAENRT   BAYES NZ           S36401460E174500229                                                                                 
+SSPAEAENRT   BEDIN NZ           S37050730E174424420                                                                                 
+SSPAEAENRT   BELEE NZ           S42593240E1713033100                                                                                
+SSPAEAENRT   BENET NZ           S45023900E168262593                                                                                 
+SSPAEAENRT   BERMA NZ           S43260740E171361332                                                                                 
+SSPAEAENRT   BERRY NZ           S39113720E176464470                                                                                 
+SSPAEAENRT   BIDEK NZ           S40144269E175565252                                                                                 
+SSPAEAENRT   BIDEV NZ           S43194780E172354569                                                                                 
+SSPAEAENRT   BIKOT NZ           S37274181E175443424                                                                                 
+SSPAEAENRT   BIMAX NZ           S46121610E169135400                                                                                 
+SSPAEAENRT   BIPAL NZ           S42543570E172554230                                                                                 
+SSPAEAENRT   BIRIN NZ           S41373500E173071700                                                                                 
+SSPAEAENRT   BLUNT NZ           S43044629E172305971                                                                                 
+SSPAEAENRT   BOLOD NZ           S43442550E172271158                                                                                 
+SSPAEAENRT   BOLOR NZ           S36284470E174442182                                                                                 
+SSPAEAENRT   BOLOX NZ           S41080168E173535103                                                                                 
+SSPAEAENRT   BOMTU NZ           S43005689E172274371                                                                                 
+SSPAEAENRT   BROWN NZ           S44375630E169120658                                                                                 
+SSPAEAENRT   BUDEN NZ           S38023020E175160729                                                                                 
+SSPAEAENRT   BUNGY NZ           S45001100E168534990                                                                                 
+SSPAEAENRT   BUPKA NZ           S39481050E174553820                                                                                 
+SSPAEAENRT   CDRNA NZ           S44544461E168594023                                                                                 
+SSPAEAENRT   CHARR NZ           S43324960E172132190                                                                                 
+SSPAEAENRT   CHUTE NZ           S38453529E176171063                                                                                 
+SSPAEAENRT   CLARK NZ           S37075877E174404998                                                                                 
+SSPAEAENRT   CLUTA NZ           S44510829E169202031                                                                                 
+SSPAEAENRT   CONOR NZ           S41274120E172382301                                                                                 
+SSPAEAENRT   COOKS NZ           S38541051E178032363                                                                                 
+SSPAEAENRT   CREEK NZ           S38335380E177405803                                                                                 
+SSPAEAENRT   CRIFL NZ           S44424150E169133216                                                                                 
+SSPAEAENRT   CRMWL NZ           S45015910E169071160                                                                                 
+SSPAEAENRT   CRNET NZ           S44571620E168425210                                                                                 
+SSPAEAENRT   CROWN NZ           S39180930E174263190                                                                                 
+SSPAEAENRT   DABIN NZ           S43584780E171521360                                                                                 
+SSPAEAENRT   DABIP NZ           S38241450E177113550                                                                                 
+SSPAEAENRT   DABKA NZ           S38135530E175075071                                                                                 
+SSPAEAENRT   DAMOB NZ           S39382721E175452758                                                                                 
+SSPAEAENRT   DIVSU NZ           S43222220E172395766                                                                                 
+SSPAEAENRT   DOGAB NZ           S43353089E172315810                                                                                 
+SSPAEAENRT   DOGAD NZ           S40471180E175222621                                                                                 
+SSPAEAENRT   DOLIL NZ           S39575730E175190489                                                                                 
+SSPAEAENRT   DOPOP NZ           S44314020E171113631                                                                                 
+SSPAEAENRT   DOTAR NZ           S37372619E175593292                                                                                 
+SSPAEAENRT   DOVAT NZ           S45585490E169521352                                                                                 
+SSPAEAENRT   DOXIS NZ           S45023800E169072924                                                                                 
+SSPAEAENRT   DUBON NZ           S43300010E170581550                                                                                 
+SSPAEAENRT   DUDED NZ           S39521039E174514402                                                                                 
+SSPAEAENRT   DUMMY NZ           S41041690E173053618                                                                                 
+SSPAEAENRT   EASTY NZ           S41194339E175110220                                                                                 
+SSPAEAENRT   EGUSA NZ           S41135410E173552970                                                                                 
+SSPAEAENRT   EKVIN NZ           S40201219E176023831                                                                                 
+SSPAEAENRT   ELAND NZ           S39183309E176432557                                                                                 
+SSPAEAENRT   ELBOW NZ           S39160180E176515841                                                                                 
+SSPAEAENRT   ELMER NZ           S38404671E177354299                                                                                 
+SSPAEAENRT   EMRAG NZ           S36563120E175021830                                                                                 
+SSPAEAENRT   EMSAR NZ           S38503710E175535690                                                                                 
+SSPAEAENRT   EPKUM NZ           S40072619E175071951                                                                                 
+SSPAEAENRT   EWOOD NZ           S38332280E177465349                                                                                 
+SSPAEAENRT   EXURA NZ           S39380620E175323144                                                                                 
+SSPAEAENRT   FALLS NZ           S37563770E175584398                                                                                 
+SSPAEAENRT   FERNS NZ           S43171600E1723156100                                                                                
+SSPAEAENRT   FIRTH NZ           S36593330E175211584                                                                                 
+SSPAEAENRT   FOXTN NZ           S40294660E175130717                                                                                 
+SSPAEAENRT   GENDA NZ           S39104090E176332814                                                                                 
+SSPAEAENRT   GIBON NZ           S36114630E174282425                                                                                 
+SSPAEAENRT   GITOR NZ           S35080871E173082702                                                                                 
+SSPAEAENRT   GITUK NZ           S37093390E174341650                                                                                 
+SSPAEAENRT   GLENN NZ           S42525220E172502310                                                                                 
+SSPAEAENRT   GOMPI NZ           S43383450E172282530                                                                                 
+SSPAEAENRT   GORGE NZ           S41141820E174484632                                                                                 
+SSPAEAENRT   GOSTI NZ           S38283990E175511260                                                                                 
+SSPAEAENRT   GRETA NZ           S42580930E173033330                                                                                 
+SSPAEAENRT   GROVE NZ           S37064260E174453428                                                                                 
+SSPAEAENRT   GUARD NZ           S41291110E1725116100                                                                                
+SSPAEAENRT   GULOV NZ           S44195920E170290780                                                                                 
+SSPAEAENRT   GUMAN NZ           S38320730E176091146                                                                                 
+SSPAEAENRT   GUPUT NZ           S43501130E1714305100                                                                                
+SSPAEAENRT   GURTU NZ           S43290201E172415202                                                                                 
+SSPAEAENRT   GUVAN NZ           S35305220E173564538                                                                                 
+SSPAEAENRT   HARTS NZ           S40233770E175363144                                                                                 
+SSPAEAENRT   HAVTO NZ           S41192879E174075230                                                                                 
+SSPAEAENRT   HAWEA NZ           S44372690E169253840                                                                                 
+SSPAEAENRT   HAWKE NZ           S38530610E177394409                                                                                 
+SSPAEAENRT   HEADS NZ           S37035780E174331479                                                                                 
+SSPAEAENRT   HOBBS NZ           S35104130E173333143                                                                                 
+SSPAEAENRT   HODDE NZ           S43424692E172010630                                                                                 
+SSPAEAENRT   HOUIA NZ           S38514789E175000841                                                                                 
+SSPAEAENRT   HUTTI NZ           S41073339E1745550100                                                                                
+SSPAEAENRT   IBESU NZ           S44065110E171175240                                                                                 
+SSPAEAENRT   IDOSO NZ           S37394800E175564379                                                                                 
+SSPAEAENRT   IDUBU NZ           S43390180E172204091                                                                                 
+SSPAEAENRT   IGABI NZ           S37244830E174550480                                                                                 
+SSPAEAENRT   IGEGA NZ           S42501410E172295100                                                                                 
+SSPAEAENRT   IGIVI NZ           S38222210E175460030                                                                                 
+SSPAEAENRT   IGODU NZ           S36532941E174575349                                                                                 
+SSPAEAENRT   IKALO NZ           S44132920E171281728                                                                                 
+SSPAEAENRT   IKINU NZ           S37252320E175463370                                                                                 
+SSPAEAENRT   INGLE NZ           S39101981E174173084                                                                                 
+SSPAEAENRT   IRISH NZ           S43373890E171094220                                                                                 
+SSPAEAENRT   ISBEL NZ           S39592520E175150730                                                                                 
+SSPAEAENRT   JAMIE NZ           S41343360E174121680                                                                                 
+SSPAEAENRT   JOLLY NZ           S44472400E169203997                                                                                 
+SSPAEAENRT   KABIL NZ           S35050439E173051926                                                                                 
+SSPAEAENRT   KALDI NZ           S44424250E169302790                                                                                 
+SSPAEAENRT   KAMET NZ           S40400540E175071060                                                                                 
+SSPAEAENRT   KARBA NZ           S38110881E175364655                                                                                 
+SSPAEAENRT   KAROA NZ           S35093471E173365770                                                                                 
+SSPAEAENRT   KAURI NZ           S37021680E174413120                                                                                 
+SSPAEAENRT   KAURU NZ           S45050020E170520138                                                                                 
+SSPAEAENRT   KELSO NZ           S45503180E169113210                                                                                 
+SSPAEAENRT   KERRY NZ           S38554340E175234811                                                                                 
+SSPAEAENRT   KETIX NZ           S40191219E175223511                                                                                 
+SSPAEAENRT   KIDAL NZ           S42513010E172170950                                                                                 
+SSPAEAENRT   KIMAN NZ           S35300530E174071879                                                                                 
+SSPAEAENRT   KIMEN NZ           S37355399E176004037                                                                                 
+SSPAEAENRT   KINGS NZ           S37082621E174500498                                                                                 
+SSPAEAENRT   KOPUA NZ           S38485140E178015080                                                                                 
+SSPAEAENRT   KURUA NZ           S39101740E175194438                                                                                 
+SSPAEAENRT   KYLIE NZ           S38553441E174221462                                                                                 
+SSPAEAENRT   KYPRA NZ           S36305610E174245740                                                                                 
+SSPAEAENRT   LADIP NZ           S44471350E168335829                                                                                 
+SSPAEAENRT   LADIT NZ           S41035496E175133299                                                                                 
+SSPAEAENRT   LAGOV NZ           S45470360E170301439                                                                                 
+SSPAEAENRT   LAKES NZ           S37271270E175052717                                                                                 
+SSPAEAENRT   LALAN NZ           S38002970E175560011                                                                                 
+SSPAEAENRT   LALIK NZ           S35115451E173064655                                                                                 
+SSPAEAENRT   LAPIM NZ           S42493540E172031913                                                                                 
+SSPAEAENRT   LATIP NZ           S43313571E172353657                                                                                 
+SSPAEAENRT   LEECH NZ           S35570080E174135870                                                                                 
+SSPAEAENRT   LEGER NZ           S37541330E175024150                                                                                 
+SSPAEAENRT   LENGU NZ           S37044970E174321510                                                                                 
+SSPAEAENRT   LIBRI NZ           S41071840E174491450                                                                                 
+SSPAEAENRT   LNDIS NZ           S44463559E169172672                                                                                 
+SSPAEAENRT   LOSGA NZ           S36540380E174442720                                                                                 
+SSPAEAENRT   LUNGA NZ           S44554610E1692148100                                                                                
+SSPAEAENRT   LUTKA NZ           S41293498E174113670                                                                                 
+SSPAEAENRT   MABAK NZ           S43245650E172441012                                                                                 
+SSPAEAENRT   MABDA NZ           S36413690E174295780                                                                                 
+SSPAEAENRT   MABDO NZ           S41123510E174592803                                                                                 
+SSPAEAENRT   MADIP NZ           S44511970E169324270                                                                                 
+SSPAEAENRT   MAHOE NZ           S38510079E175090080                                                                                 
+SSPAEAENRT   MAMAN NZ           S43360140E172425530                                                                                 
+SSPAEAENRT   MAMOD NZ           S41084993E175281190                                                                                 
+SSPAEAENRT   MANGA NZ           S39214619E174233998                                                                                 
+SSPAEAENRT   MARLO NZ           S35330161E174065951                                                                                 
+SSPAEAENRT   MASKU NZ           S38591700E176002922                                                                                 
+SSPAEAENRT   MASSY NZ           S36501810E174335880                                                                                 
+SSPAEAENRT   MATAR NZ           S36443210E175372341                                                                                 
+SSPAEAENRT   MATUK NZ           S39095870E175144940                                                                                 
+SSPAEAENRT   MEVAX NZ           S39421890E174384140                                                                                 
+SSPAEAENRT   MIKER NZ           S37552761E175370352                                                                                 
+SSPAEAENRT   MILLA NZ           S39373699E176573031                                                                                 
+SSPAEAENRT   MIPAK NZ           S45165610E170522830                                                                                 
+SSPAEAENRT   MITRE NZ           S40474420E175252280                                                                                 
+SSPAEAENRT   MOKER NZ           S39100680E176445780                                                                                 
+SSPAEAENRT   MONKS NZ           S39441700E176340801                                                                                 
+SSPAEAENRT   MOOSE NZ           S38523770E176374220                                                                                 
+SSPAEAENRT   MORAT NZ           S39103721E174195570                                                                                 
+SSPAEAENRT   MUPAN NZ           S42512120E1724341100                                                                                
+SSPAEAENRT   MUPAR NZ           S41010205E175525230                                                                                 
+SSPAEAENRT   NEDDY NZ           S36401801E175303900                                                                                 
+SSPAEAENRT   NESTA NZ           S41420731E172493927                                                                                 
+SSPAEAENRT   NEVIS NZ           S45025050E169004580                                                                                 
+SSPAEAENRT   NIKIP NZ           S40243950E175552710                                                                                 
+SSPAEAENRT   NIPIR NZ           S40591310E175334753                                                                                 
+SSPAEAENRT   NISOM NZ           S43325509E172274701                                                                                 
+SSPAEAENRT   NIXUM NZ           S44515990E169053570                                                                                 
+SSPAEAENRT   NOBAR NZ           S37263810E175452560                                                                                 
+SSPAEAENRT   NOBIS NZ           S35341310E174040351                                                                                 
+SSPAEAENRT   NOSAM NZ           S39433462E176172321                                                                                 
+SSPAEAENRT   NOVTU NZ           S41131130E174022360                                                                                 
+SSPAEAENRT   NUBKA NZ           S43252621E172362589                                                                                 
+SSPAEAENRT   NULKO NZ           S41091210E1740420100                                                                                
+SSPAEAENRT   NUPLI NZ           S40032580E175111363                                                                                 
+SSPAEAENRT   NUSLI NZ           S45425550E170261379                                                                                 
+SSPAEAENRT   ODISI NZ           S43191840E172432887                                                                                 
+SSPAEAENRT   ODOWD NZ           S36541540E175031193                                                                                 
+SSPAEAENRT   OGITO NZ           S40002840E175350520                                                                                 
+SSPAEAENRT   OHITI NZ           S39364559E176443402                                                                                 
+SSPAEAENRT   OKERE NZ           S37554340E176253429                                                                                 
+SSPAEAENRT   OKURA NZ           S39135680E176444429                                                                                 
+SSPAEAENRT   OLNOL NZ           S40574391E175422300                                                                                 
+SSPAEAENRT   OMANA NZ           S35530661E174100744                                                                                 
+SSPAEAENRT   OPAPA NZ           S39473750E176412410                                                                                 
+SSPAEAENRT   OPARE NZ           S35252820E173575179                                                                                 
+SSPAEAENRT   OPORU NZ           S38121890E175111698                                                                                 
+SSPAEAENRT   ORBEL NZ           S45071559E170581937                                                                                 
+SSPAEAENRT   OROPI NZ           S37551430E176070028                                                                                 
+SSPAEAENRT   OSTEL NZ           S37195479E175312069                                                                                 
+SSPAEAENRT   OTAKI NZ           S40460940E175164500                                                                                 
+SSPAEAENRT   OTATA NZ           S36385120E174510931                                                                                 
+SSPAEAENRT   OTOKO NZ           S38294601E177441391                                                                                 
+SSPAEAENRT   OTUHI NZ           S35491219E174061661                                                                                 
+SSPAEAENRT   PADMU NZ           S41042778E175060469                                                                                 
+SSPAEAENRT   PAMOA NZ           S44484650E171112538                                                                                 
+SSPAEAENRT   PARKI NZ           S38443099E175321145                                                                                 
+SSPAEAENRT   PARRA NZ           S38402460E175525933                                                                                 
+SSPAEAENRT   PEAKS NZ           S42502380E172365100                                                                                 
+SSPAEAENRT   PEEHA NZ           S36582410E174363300                                                                                 
+SSPAEAENRT   PERAS NZ           S35270350E173341310                                                                                 
+SSPAEAENRT   PERIA NZ           S35074430E173292281                                                                                 
+SSPAEAENRT   PEROO NZ           S39100460E175221070                                                                                 
+SSPAEAENRT   PIGUS NZ           S45425510E168582930                                                                                 
+SSPAEAENRT   PIKON NZ           S46030420E169561302                                                                                 
+SSPAEAENRT   PINES NZ           S39292670E176412631                                                                                 
+SSPAEAENRT   PIOKE NZ           S39075969E173582206                                                                                 
+SSPAEAENRT   POKOM NZ           S37521950E174482270                                                                                 
+SSPAEAENRT   POLOK NZ           S40094300E175424520                                                                                 
+SSPAEAENRT   POMOT NZ           S43290530E169544760                                                                                 
+SSPAEAENRT   POURO NZ           S38401680E175191040                                                                                 
+SSPAEAENRT   PUKEK NZ           S37131100E174520429                                                                                 
+SSPAEAENRT   PUNGA NZ           S38524430E175232411                                                                                 
+SSPAEAENRT   QUAIL NZ           S41311830E173001588                                                                                 
+SSPAEAENRT   RATPT NZ           S45040552E168265581                                                                                 
+SSPAEAENRT   RIDLA NZ           S39593050E176175424                                                                                 
+SSPAEAENRT   RILEY NZ           S42310140E171181583                                                                                 
+SSPAEAENRT   ROCKY NZ           S34572710E173285738                                                                                 
+SSPAEAENRT   RUAHI NZ           S39305770E176072370                                                                                 
+SSPAEAENRT   RUATO NZ           S35222169E173410830                                                                                 
+SSPAEAENRT   RUGDI NZ           S41091440E174581360                                                                                 
+SSPAEAENRT   RUGVI NZ           S39505330E1752214100                                                                                
+SSPAEAENRT   RULOL NZ           S37251870E174484350                                                                                 
+SSPAEAENRT   SABAV NZ           S37011410E175042130                                                                                 
+SSPAEAENRT   SADEM NZ           S37005869E174412851                                                                                 
+SSPAEAENRT   SADUN NZ           S40560981E175512320                                                                                 
+SSPAEAENRT   SALEK NZ           S36585920E174530109                                                                                 
+SSPAEAENRT   SANDY NZ           S42201319E172534597                                                                                 
+SSPAEAENRT   SASAR NZ           S41120710E1722532100                                                                                
+SSPAEAENRT   SELTA NZ           S39242520E174264800                                                                                 
+SSPAEAENRT   SIMZI NZ           S41191469E173571531                                                                                 
+SSPAEAENRT   SKEET NZ           S41212069E172362254                                                                                 
+SSPAEAENRT   SKPRZ NZ           S44462560E168330760                                                                                 
+SSPAEAENRT   SNELL NZ           S38594580E174254512                                                                                 
+SSPAEAENRT   STANG NZ           S36493710E175230300                                                                                 
+SSPAEAENRT   STEED NZ           S34551051E173083850                                                                                 
+SSPAEAENRT   STOES NZ           S36474200E1752151100                                                                                
+SSPAEAENRT   STONY NZ           S42590310E173051031                                                                                 
+SSPAEAENRT   SULFA NZ           S39042520E175412631                                                                                 
+SSPAEAENRT   SWEET NZ           S41373588E173325150                                                                                 
+SSPAEAENRT   TAIKI NZ           S39022680E176241580                                                                                 
+SSPAEAENRT   TAKMI NZ           S41045630E175064463                                                                                 
+SSPAEAENRT   TAMIS NZ           S39381691E175385949                                                                                 
+SSPAEAENRT   TANIG NZ           S35490910E174014887                                                                                 
+SSPAEAENRT   TARAX NZ           S44505200E1692542100                                                                                
+SSPAEAENRT   TARUA NZ           S39271790E176093480                                                                                 
+SSPAEAENRT   TAYLA NZ           S37392481E175242887                                                                                 
+SSPAEAENRT   TIMJO NZ           S44273910E169425440                                                                                 
+SSPAEAENRT   TIREE NZ           S36444210E174540130                                                                                 
+SSPAEAENRT   TOGOL NZ           S35184320E173382367                                                                                 
+SSPAEAENRT   TOLGT NZ           S45023132E168451818                                                                                 
+SSPAEAENRT   TOMAS NZ           S36590540E174530380                                                                                 
+SSPAEAENRT   TOMID NZ           S44531520E170032710                                                                                 
+SSPAEAENRT   TOTRA NZ           S38141210E176071088                                                                                 
+SSPAEAENRT   TUHUA NZ           S38494509E175225988                                                                                 
+SSPAEAENRT   TUIHU NZ           S39112250E174261461                                                                                 
+SSPAEAENRT   TULMI NZ           S37264660E175242047                                                                                 
+SSPAEAENRT   UBDAN NZ           S43332260E172200306                                                                                 
+SSPAEAENRT   UBKER NZ           S41300732E174045982                                                                                 
+SSPAEAENRT   UDERA NZ           S41274660E173414070                                                                                 
+SSPAEAENRT   UKAPA NZ           S36174390E174141960                                                                                 
+SSPAEAENRT   UKETA NZ           S45552220E169171910                                                                                 
+SSPAEAENRT   UNRIT NZ           S41031110E174564604                                                                                 
+SSPAEAENRT   UNTAT NZ           S44101070E171230461                                                                                 
+SSPAEAENRT   UNTER NZ           S37072310E1751412100                                                                                
+SSPAEAENRT   UPLIN NZ           S36322419E174483594                                                                                 
+SSPAEAENRT   UPNOT NZ           S36203110E174060600                                                                                 
+SSPAEAENRT   UPSAS NZ           S36463340E174573520                                                                                 
+SSPAEAENRT   URDAL NZ           S40511730E175495433                                                                                 
+SSPAEAENRT   UTTOX NZ           S37133200E1752406100                                                                                
+SSPAEAENRT   UVUSI NZ           S40194120E175560852                                                                                 
+SSPAEAENRT   UXEBU NZ           S38350560E175191780                                                                                 
+SSPAEAENRT   VABDA NZ           S40241241E175223582                                                                                 
+SSPAEAENRT   VALEY NZ           S37203900E175103200                                                                                 
+SSPAEAENRT   VANGA NZ           S44525180E168472120                                                                                 
+SSPAEAENRT   VARCO NZ           S44474760E169182160                                                                                 
+SSPAEAENRT   VIBAG NZ           S36514750E175001570                                                                                 
+SSPAEAENRT   VIPOX NZ           S37105610E175072600                                                                                 
+SSPAEAENRT   WAIPA NZ           S38055590E175461306                                                                                 
+SSPAEAENRT   WALPK NZ           S45054428E168325518                                                                                 
+SSPAEAENRT   WARDS NZ           S41503228E174100611                                                                                 
+SSPAEAENRT   WARIK NZ           S38310880E177425206                                                                                 
+SSPAEAENRT   WATEL NZ           S37021540E174530640                                                                                 
+SSPAEAENRT   WEBER NZ           S40133340E176273608                                                                                 
+SSPAEAENRT   WEEKA NZ           S41324242E173175627                                                                                 
+SSPAEAENRT   WELLS NZ           S36173879E174295764                                                                                 
+SSPAEAENRT   WINNS NZ           S41222599E172540630                                                                                 
+SSPAEAENRT   WUDOF NZ           S37104710E1750035100                                                                                
+SSPAEAENRT   WUDSI NZ           S37202100E1745649100                                                                                
+SSPAEAENRT   WYTAK NZ           S36542941E174255880                                                                                 
+SSPAEAENRT   XELAN NZ           S36500569E174551501                                                                                 
+SSPAEAENRT   YARRO NZ           S39420940E176311306                                                                                 
+SSPAEAENRT   ZEDEE NZ           S35213949E173522610                                                                                 
+SSPAEAENRT   ZIGZA NZ           S45025880E168451400                                                                                 
+SSPAEAENRT   ZIGZO NZ           S45024370E168452510                                                                                 
+SSPAEAENRT   ZORBA NZ           S37085600E174562000                                                                                 
+SSPADB       LX    NZ000386     S45095590E169284750                                                                                 
+SSPADB       AS    NZ000254     S43541724E171482461                                                                                 
+SSPADB       BE    NZ000394     S46014017E169585961                                                                                 
+SSPADB       BU    NZ000374     S43363199E172233516                                                                                 
+SSPADB       FY    NZ000226     S41233052E175085645                                                                                 
+SSPADB       HN    NZ000390     S37513831E175195130                                                                                 
+SSPADB       HL    NZ000378     S45564518E170094295                                                                                 
+SSPADB       HK    NZ000310     S42434560E170572240                                                                                 
+SSPADB       HK    NZ000310     S42434560E170572240                                                                                 
+SSPADB       NV    NZ000214     S46250740E168195750                                                                                 
+SSPADB       KI    NZ000350     S42251342E173414392                                                                                 
+SSPADB       KT    NZ000238     S35014290E173143250                                                                                 
+SSPADB       KK    NZ000226     S35154332E173543998                                                                                 
+SSPADB       MO    NZ000346     S45294899E167430596                                                                                 
+SSPADB       RD    NZ000314     S37113772E175175508                                                                                 
+SSPADB       MI    NZ000358     S45521698E170191255                                                                                 
+SSPADB       NR    NZ000354     S39282041E176521750                                                                                 
+SSPADB       NL    NZ000358     S41134363E174494149                                                                                 
+SSPADB       OU    NZ000302     S44565039E171075632                                                                                 
+SSPADB       OH    NZ000218     S40120581E175233489                                                                                 
+SSPADB       PM    NZ000258     S40192740E175371630                                                                                 
+SSPADB       PP    NZ000242     S40541080E174590005                                                                                 
+SSPADB       SF    NZ000366     S35530771E174212641                                                                                 
+SSPADB       SY    NZ000350     S37141804E175100062                                                                                 
+SSPADB       TM    NZ000163     S38551754E175184944                                                                                 
+SSPADB       AP    NZ000230     S38443557E176042743                                                                                 
+SSPADB       TG    NZ000346     S37403924E176112840                                                                                 
+SSPADB       TU    NZ000366     S44183037E171133017                                                                                 
+SSPADB       TY    NZ000234     S41070007E174491283                                                                                 
+SSPADB       WO    NZ000246     S39034068E177244474                                                                                 
+SSPADB       WI    NZ000254     S37160354E174485065                                                                                 
+SSPADB       WU    NZ000382     S39573376E175013541                                                                                 
+SSPADB       OT    NZ000398     S37033747E174363475                                                                                 
+SSPADB       WK    NZ000362     S37552877E176545564                                                                                 
+SSPADB       WR    NZ000326     S35461859E174214246                                                                                 
+SSPADB       HD    NZ000334     S36565324E175005281                                                                                 
+SSPADB       OD    NZ000262     S43203258E172420355                                                                                 
+SSPAD        AA    NZ011480V    S37001670E174484910                                                                                 
+SSPAD        CH    NZ011530V    S43301480E172305270                                                                                 
+SSPAD        YW    NZ011660V    S43235570E172230700                                                                                 
+SSPAD        GS    NZ011420V    S38393780E177583920                                                                                 
+SSPAD        HN    NZ011400V    S37505735E175201870                                                                                 
+SSPAD        NV    NZ011680V    S46244162E168190339                                                                                 
+SSPAD        RY    NZ011250V    S44080637E170164999                                                                                 
+SSPAD        NR    NZ011380V    S39271369E176520813                                                                                 
+SSPAD        NS    NZ011640V    S41180610E173132110                                                                                 
+SSPAD        NP    NZ011440V    S39002610E174110220                                                                                 
+SSPAD        OH    NZ010900V    S40123460E175233110                                                                                 
+SSPAD        OR    NZ011300V    S38493584E174482386                                                                                 
+SSPAD        PM    NZ011340V    S40191290E175381630                                                                                 
+SSPAD        RO    NZ011210V    S38062898E176185009                                                                                 
+SSPAD        SH    NZ011360V    S44590280E168465750                                                                                 
+SSPAD        SW    NZ011270V    S45474027E170283790                                                                                 
+SSPAD        WN    NZ011230V    S41201402E174490106                                                                                 
+SSPAD        WP    NZ010880V    S36471250E174375080                                                                                 
+SSPAD        WB    NZ011560V    S41311083E173514565                                                                                 
+SSPAD        IAA   NZ011030 D   S37005940E174462778                                                                                 
+SSPAD        IMG   NZ010990 D   S37003102E174481045                                                                                 
+SSPAD        ICH   NZ010990 D   S43293890E172312700                                                                                 
+SSPAD        IHW   NZ011030 D   S43283360E172324150                                                                                 
+SSPAD        IRM   NZ011070 D   S40121729E175223701                                                                                 
+SSPAD        IOH   NZ011110 D   S40123526E175234529                                                                                 
+SSPAD        IEB   NZ011030 D   S41191790E174482320                                                                                 
+SSPAD        IMP   NZ010990 D   S41195490E174482030                                                                                 
+SSPAD        IWI   NZ011070 D   S36473787E174374686                                                                                 
+SSPAD        IWP   NZ011110 D   S36473760E174374780                                                                                 
+SSPAD        AA    NZ011480 D   S37001670E174484910                                                                                 
+SSPAD        CH    NZ011530 D   S43301480E172305270                                                                                 
+SSPAD        YW    NZ011660 D   S43235570E172230700                                                                                 
+SSPAD        GS    NZ011420 D   S38393780E177583920                                                                                 
+SSPAD        HN    NZ011400 D   S37505735E175201870                                                                                 
+SSPAD        NV    NZ011680 D   S46244162E168190339                                                                                 
+SSPAD        RY    NZ011250 D   S44080637E170164999                                                                                 
+SSPAD        NR    NZ011380 D   S39271369E176520813                                                                                 
+SSPAD        NS    NZ011640 D   S41180610E173132110                                                                                 
+SSPAD        NP    NZ011440 D   S39002610E174110220                                                                                 
+SSPAD        OH    NZ010900 D   S40123460E175233110                                                                                 
+SSPAD        OR    NZ011300 D   S38493584E174482386                                                                                 
+SSPAD        PM    NZ011340 D   S40191290E175381630                                                                                 
+SSPAD        RO    NZ011210 D   S38062914E176185028                                                                                 
+SSPAD        SH    NZ011360 D   S44590280E168465750                                                                                 
+SSPAD        SW    NZ011270 D   S45474027E170283790                                                                                 
+SSPAD        WN    NZ011230 D   S41201358E1744901100                                                                                
+SSPAD        WP    NZ010880 D   S36471250E174375080                                                                                 
+SSPAD        WB    NZ011560 D   S41311083E173514565                                                                                 
+SSPAD        LX    NZ011710 D   S45095590E169284750                                                                                 
+SSPAD        HL    NZ011570 D   S45564518E170094295                                                                                 
+SSPAD        HK    NZ011750 D   S42434560E170572240                                                                                 
+SSPAD        KT    NZ011580 D   S35014580E173142820                                                                                 
+SSPAD        KK    NZ011610 D   S35154765E173544404                                                                                 
+SSPAD        MO    NZ011780 D   S45294899E167430596                                                                                 
+SSPAD        PP    NZ011730 D   S40540988E174585483                                                                                 
+SSPAD        AP    NZ011670 D   S38443557E176042743                                                                                 
+SSPAD        TG    NZ011320 D   S37403924E176112840                                                                                 
+SSPAD        TU    NZ011590 D   S44183007E171133037                                                                                 
+SSPAD        WU    NZ011600 D   S39573234E175013597                                                                                 
+SSPAD        WK    NZ011770 D   S37552877E176545664                                                                                 
+SSPAD        WR    NZ011730 D   S35461684E174214291                                                                                 
+SSPAER       Y566        0010BELEENZEA      O                                      11600     60000                                  
+SSPAER       Y566        0020CC     D       O                             1440     11600     60000                                  
+SSPAER       H438        0010BELEENZEA      O                                      15000     46000                                  
+SSPAER       H438        0020DUBONNZEA      O                             0385     15000     46000                                  
+SSPAER       H438        0030RY   NZD       O                             0485     17500     60000                                  
+SSPAER       H438        0040TIMJONZEA      O                             0312     17500     60000                                  
+SSPAER       H438        0050HAWEANZEA      O                             0157     09800     60000                                  
+SSPAER       H438        0060SH   NZD       O                             0349     09800     60000                                  
+SSPAER       H309        0010BELEENZEA      O                                      14500     60000                                  
+SSPAER       H309        0020HK   NZD       O                             0290     14500     60000                                  
+SSPAER       H386        0020NR   NZD       O                             0200     09500     60000                                  
+SSPAER       V414        0010BIPALNZEA      OL                                     03500     60000                                  
+SSPAER       V414        0020CH   NZD       OL                            0400     03500     60000                                  
+SSPAER       L508        0050CH   NZD       O                             0399     16000     60000                                  
+SSPAER       L508        0060KABIN  EA      O                             1743     16000     60000                                  
+SSPAER       M636        0080WN   NZD       O                             1995     15000     60000                                  
+SSPAER       H342        0020WB   NZD       O                             0224     04800     60000                                  
+SSPAER       H221        0010CH   NZD       O                                      09500     60000                                  
+SSPAER       H221        0020DABINNZEA      O                             0400     09500     60000                                  
+SSPAER       H221        0030CH070NZEA      O                             0300     17500     60000                                  
+SSPAER       H221        0040KELSONZEA      O                             1296     24000     60000                                  
+SSPAER       H221        0050NV   NZD       O                             0499     09500     60000                                  
+SSPAER       Q854        0010CH   NZD       RH                                     09500     60000                                  
+SSPAER       Q854        0020DUNAX  EA      RH                            0696     09500     60000                                  
+SSPAER       H291        0010CH   NZD       O                                      09500     60000                                  
+SSPAER       H291        0020GUPUTNZEA      O                             0399     09500     60000                                  
+SSPAER       H291        0030GULOVNZEA      O                             0610     17500     60000                                  
+SSPAER       H291        0040KALDINZEA      O                             0476     22000     60000                                  
+SSPAER       H291        0050SH   NZD       O                             0349     09800     60000                                  
+SSPAER       H343        0010CH   NZD       O                                      09500     60000                                  
+SSPAER       H343        0020IDARA  EA      O                             0400     09500     60000                                  
+SSPAER       H203        0010CH   NZD       O                                      09800     60000                                  
+SSPAER       H203        0020IRISHNZEA      O                             0593     09800     60000                                  
+SSPAER       L503        0010CH   NZD       O                                      14500     60000                                  
+SSPAER       L503        0020LALAP  EA      O                             1534     14500     60000                                  
+SSPAER       N750        0010CH   NZD       O                                      14500     60000                                  
+SSPAER       N750        0020VANDA  EA      O                             1537     14500     60000                                  
+SSPAER       Q697        0050GS   NZD       RH                            0746     09500     60000                                  
+SSPAER       Q712        0050NR   NZD       RH                            0794     09500     60000                                  
+SSPAER       G591        0140KT   NZD       O                             0593     14500     60000                                  
+SSPAER       G591        0150UKAPANZEA      O                             0903     14500     60000                                  
+SSPAER       H328        0010DABIPNZEA      O                                      09500     60000                                  
+SSPAER       H328        0020GS   NZD       O                             0399     09500     60000                                  
+SSPAER       H143        0020HK   NZD       O                             0549     14500     60000                                  
+SSPAER       H467        0020NR   NZD       O                             0200     09500     60000                                  
+SSPAER       H467        0030PM   NZD       O                             0770     11500     60000                                  
+SSPAER       H467        0040FXT  NZEA      O                             0219     11500     60000                                  
+SSPAER       Y608        0010DUBONNZEA      O                                      16000     60000                                  
+SSPAER       Y608        0020SASARNZEA      O                             1523     16000     60000                                  
+SSPAER       Y608        0030LAKAR  EA      O                             1421     16000     60000                                  
+SSPAER       H240        0020NS   NZD       O                             0390     09500     60000                                  
+SSPAER       H152        0010EGUSANZEA      O                                      09500     60000                                  
+SSPAER       H152        0020NS   NZD       O                             0320     09500     60000                                  
+SSPAER       H313        0010FXT  NZEA      O                                      11500     60000                                  
+SSPAER       H313        0020NS   NZD       O                             1027     11500     60000                                  
+SSPAER       H259        0010GS   NZD       O                                      09500     60000                                  
+SSPAER       H259        0020TG   NZD       O                             1029     09500     60000                                  
+SSPAER       H117        0010GS   NZD       O                                      09500     60000                                  
+SSPAER       H117        0020WK   NZD       O                             0668     09500     60000                                  
+SSPAER       H117        0030TG   NZD       O                             0374     09500     60000                                  
+SSPAER       H227        0010GULOVNZEA      O                                      17500     60000                                  
+SSPAER       H227        0020OU   NZD       O                             0461     17500     60000                                  
+SSPAER       Q651        0020PM   NZD       RH                            2108     15000     60000                                  
+SSPAER       H369        0010HD   NZD       O                                      09500     60000                                  
+SSPAER       H369        0020IKINUNZEA      O                             0463     09500     60000                                  
+SSPAER       H275        0010HD   NZD       O                                      14500     60000                                  
+SSPAER       H275        0020TIREENZEA      O                             0134     14500     60000                                  
+SSPAER       H275        0030SF   NZD       O                             0579     14500     60000                                  
+SSPAER       H275        0040KK   NZD       O                             0433     14500     60000                                  
+SSPAER       H275        0050KT   NZD       O                             0357     14500     60000                                  
+SSPAER       H307        0010HK   NZD       O                                      09500     60000                                  
+SSPAER       H307        0020NS   NZD       O                             1325     09500     60000                                  
+SSPAER       H267        0010HK   NZD       O                                      14500     60000                                  
+SSPAER       H267        0020WS     D       O                             0654     14500     60000                                  
+SSPAER       H267        0030NS   NZD       O                             0784     14500     60000                                  
+SSPAER       H267        0040WN   NZD       O                             0719     14500     60000                                  
+SSPAER       H211        0010HN   NZD       O                                      09500     60000                                  
+SSPAER       H211        0020IGIVINZEA      O                             0374     09500     60000                                  
+SSPAER       H479        0010HN   NZD       O                                      09500     60000                                  
+SSPAER       H479        0020NP   NZD       O                             0882     09500     60000                                  
+SSPAER       H126        0010HN   NZD       O                                      09500     60000                                  
+SSPAER       H126        0020OR   NZD       O                             0638     09500     60000                                  
+SSPAER       H126        0030SELTANZEA      O                             0387     05800     60000                                  
+SSPAER       H126        0040NS   NZD       O                             1268     05800     60000                                  
+SSPAER       Q537        0010HN   NZD       RH                                     03600     60000                                  
+SSPAER       Q537        0020POKOMNZEA      RH                            0253     03600     60000                                  
+SSPAER       Q537        0030LEKUS  EA      RH                            0296     14500     60000                                  
+SSPAER       H325        0010HN   NZD       O                                      09500     60000                                  
+SSPAER       H325        0020UXEBUNZEA      O                             0442     09500     60000                                  
+SSPAER       H325        0030TM   NZD       O                             0202     11300     60000                                  
+SSPAER       H325        0040PM   NZD       O                             0853     11500     60000                                  
+SSPAER       H325        0050MITRENZEA      O                             0302     11500     60000                                  
+SSPAER       H252        0020NP   NZD       O                             0743     06000     60000                                  
+SSPAER       H252        0030NS   NZD       O                             1446     14000     60000                                  
+SSPAER       H216        0020OT   NZD       O                             0444     09500     60000                                  
+SSPAER       R326        0010KIDALNZEA      O                                      14500     60000                                  
+SSPAER       R326        0020UDUMO  EA      O                             1002     14500     60000                                  
+SSPAER       Q607        0030PM   NZD       RH                            1741     15000     60000                                  
+SSPAER       H499        0020MEVAXNZEA      O                             0304     09000     60000                                  
+SSPAER       H499        0030SELTANZEA      O                             0201     05000     60000                                  
+SSPAER       H499        0040NP   NZD       O                             0269     03000     60000                                  
+SSPAER       H182        0010LEGERNZEA      O                                      04300     60000                                  
+SSPAER       H182        0020TM   NZD       O                             0624     04300     60000                                  
+SSPAER       H140        0010MASSYNZEA      O                                      09500     60000                                  
+SSPAER       H140        0020OT   NZD       O                             0135     09500     60000                                  
+SSPAER       V138        0020WK   NZD       OL                            0539     09500     60000                                  
+SSPAER       H412        0010MEVAXNZEA      O                                      04000     60000                                  
+SSPAER       H412        0020OR   NZD       O                             0533     04000     60000                                  
+SSPAER       H486        0010MEVAXNZEA      O                                      03000     60000                                  
+SSPAER       H486        0020WU   NZD       O                             0233     03000     60000                                  
+SSPAER       H188        0010MO   NZD       O                                      09500     60000                                  
+SSPAER       H188        0020NV   NZD       O                             0603     09500     60000                                  
+SSPAER       H372        0010MOOSENZEA      O                                      09500     60000                                  
+SSPAER       H372        0020NR   NZD       O                             0364     09500     60000                                  
+SSPAER       H480        0010NP   NZD       O                                      09500     60000                                  
+SSPAER       H480        0020OR   NZD       O                             0310     09500     60000                                  
+SSPAER       H480        0030UXEBUNZEA      O                             0282     09500     60000                                  
+SSPAER       H173        0010NP   NZD       O                                      09500     60000                                  
+SSPAER       H173        0020POKOMNZEA      O                             0742     09500     60000                                  
+SSPAER       H205        0010NP   NZD       O                                      03600     60000                                  
+SSPAER       H205        0020RUGVINZEA      O                             0747     03600     60000                                  
+SSPAER       H191        0010NP   NZD       O                                      07000     60000                                  
+SSPAER       H191        0020TM   NZD       O                             0530     07000     60000                                  
+SSPAER       H430        0010NR   NZD       O                                      09500     60000                                  
+SSPAER       H430        0020RUAHINZEA      O                             0348     09500     60000                                  
+SSPAER       V288        0010NS   NZD       OL                                     15000     60000                                  
+SSPAER       V288        0020PEAKSNZEA      OL                            0963     15000     60000                                  
+SSPAER       V288        0030YW   NZD       OL                            0350     15000     60000                                  
+SSPAER       H147        0010NV   NZD       O                                      09500     60000                                  
+SSPAER       H147        0020UKETANZEA      O                             0499     09500     60000                                  
+SSPAER       H147        0030NV065NZEA      O                             0150     19000     60000                                  
+SSPAER       H147        0040OU   NZD       O                             0823     19000     60000                                  
+SSPAER       H352        0010OH   NZD       O                                      03600     60000                                  
+SSPAER       H352        0020PM   NZD       O                             0131     03600     60000                                  
+SSPAER       V194        0010OKAPONZEA      OL                                     25000     60000                                  
+SSPAER       V194        0020OKODI  EA      OL                            0901     25000     60000                                  
+SSPAER       H277        0010OR   NZD       O                                      09500     60000                                  
+SSPAER       H277        0020POKOMNZEA      O                             0573     09500     60000                                  
+SSPAER       H277        0030WI   NZD       O                             0363     09500     60000                                  
+SSPAER       H336        0010OR   NZD       O                                      11500     60000                                  
+SSPAER       H336        0020RUGVINZEA      O                             0667     11500     60000                                  
+SSPAER       H336        0030PM   NZD       O                             0309     04600     60000                                  
+SSPAER       Y569        0010OR   NZD       O                                      17000     60000                                  
+SSPAER       Y569        0020SASARNZEA      O                             1798     17000     60000                                  
+SSPAER       Y569        0030POMOTNZEA      O                             1767     17000     60000                                  
+SSPAER       Y569        0040SH   NZD       O                             1023     17000     60000                                  
+SSPAER       H310        0010OTAKINZEA      O                                      11500     60000                                  
+SSPAER       H310        0020PM   NZD       O                             0315     11500     60000                                  
+SSPAER       Q559        0010PM   NZD       RH                                     15000     60000                                  
+SSPAER       Q559        0020TANEN  EA      RH                            2325     15000     60000                                  
+SSPAER       H364        0010RO   NZD       O                                      13000     60000                                  
+SSPAER       H364        0020TAIKINZEA      O                             0562     13000     60000                                  
+SSPAER       H364        0030RUAHINZEA      O                             0314     13000     60000                                  
+SSPAER       H434        0010SH   NZD       O                                      09800     60000                                  
+SSPAER       H434        0020SW   NZD       O                             0864     09800     60000                                  
+SSPAER       H472        0020WB   NZD       O                             0301     05500     60000                                  
+SSPAER       H160        0020WU   NZD       O                             0796     04000     60000                                  

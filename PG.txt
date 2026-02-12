@@ -1,0 +1,197 @@
+SSPAEAENRT   BAMPA              S06320600E1461435100                                                                                
+SSPAEAENRT   BOGIA              S04240000E1444323100                                                                                
+SSPAEAENRT   GUARI              S08073000E1465847100                                                                                
+SSPAEAENRT   KAPPU              S05530410E1421234100                                                                                
+SSPAEAENRT   MIRIL              S06222310E146111200                                                                                 
+SSPAEAENRT   OBURA              S06330600E145463600                                                                                 
+SSPAEAENRT   PY009              S09190710E147084660                                                                                 
+SSPAEAENRT   PY013              S09380207E147201315                                                                                 
+SSPAEAENRT   PY016              S09344718E147144901                                                                                 
+SSPAEAENRT   PY032              S09342324E147180038                                                                                 
+SSPAEAENRT   PY058              S09323995E147165774                                                                                 
+SSPAEAENRT   PY160              S09351704E147154881                                                                                 
+SSPAEAENRT   R1794              S09255112E147125004                                                                                 
+SSPAEAENRT   R1795              S09270756E147133732                                                                                 
+SSPAEAENRT   VERON              S04013600E1524453100                                                                                
+SSPAEAENRT   WATUT              S06504476E146213066                                                                                 
+SSPADB       BUK     000269     S05263490E154400180                                                                                 
+SSPADB       FIN     000232     S06365394E147512856                                                                                 
+SSPADB       GUA     000224     S08440910E148151500                                                                                 
+SSPADB       GBE     000215     S06532514E143404476                                                                                 
+SSPADB       GA      001725     S06044014E145232292                                                                                 
+SSPADB       GNY     001623     S10190300E150215930                                                                                 
+SSPADB       JSN     000380     S09223414E147103672                                                                                 
+SSPADB       KRM     000401     S07574542E145463000                                                                                 
+SSPADB       KIK     000308     S07253890E144150280                                                                                 
+SSPADB       KIU     001692     S06071776E141171350                                                                                 
+SSPADB       KUB     001662     S08413498E146451890                                                                                 
+SSPADB       MD      000362     S05124626E145470108                                                                                 
+SSPADB       MOR     001642     S06214632E143151560                                                                                 
+SSPADB       MH      001689     S05501632E144183072                                                                                 
+SSPADB       NZ      001615     S06341200E1464229100                                                                                
+SSPADB       OKT     001632     S05243564E141190732                                                                                 
+SSPADB       PRE     000395     S09193600E147082490                                                                                 
+SSPADB       PY      000368     S09273978E147135716                                                                                 
+SSPADB       TVI     000350     S09430468E147281998                                                                                 
+SSPADB       WK      000336     S03345290E143403900                                                                                 
+SSPAD        GNY     011560V    S10185610E150214220                                                                                 
+SSPAD        KAV     011640V    S02361380E150501260                                                                                 
+SSPAD        MD      011630V    S05124188E145463642                                                                                 
+SSPAD        NZ      011390V    S06340510E146423220                                                                                 
+SSPAD        PY      011700V    S09271070E147125430                                                                                 
+SSPAD        WK      011660V    S03350070E143403340                                                                                 
+SSPAD        IWG     011010 D   S09255773E147125920                                                                                 
+SSPAD        IBB     010950 D   S09265720E147133572                                                                                 
+SSPAD        GNY     011560 D   S10185610E150214220                                                                                 
+SSPAD        KAV     011640 D   S02361380E150501260                                                                                 
+SSPAD        MD      011630 D   S05124188E145463642                                                                                 
+SSPAD        NZ      011390 D   S06340510E146423220                                                                                 
+SSPAD        PY      011700 D   S09271070E147125430                                                                                 
+SSPAD        WK      011660 D   S03350070E143403340                                                                                 
+SSPAD        FIN     011670 D   S06365640E147513060                                                                                 
+SSPAD        GUA     011650 D   S08444110E148151320                                                                                 
+SSPAD        GBE     011360 D   S06532514E143404476                                                                                 
+SSPAD        KRM     011690 D   S07574542E145463000                                                                                 
+SSPAD        KIU     011380 D   S06071776E141171350                                                                                 
+SSPAD        MOR     011460 D   S06214632E143151560                                                                                 
+SSPAD        MH      011500 D   S05501632E144183072                                                                                 
+SSPAD        OKT     011480 D   S05243564E141190732                                                                                 
+SSPAER       3E76        0010BAMPA  EA      O                                      14000     46000                                  
+SSPAER       3E76        0020MIRIL  EA      O                             0103     14000     46000                                  
+SSPAER       3E76        0030YATI   EA      O                             0163     15000     46000                                  
+SSPAER       3E76        0040MD     D       O                             0577     15000     46000                                  
+SSPAER       3E293       0010BBD    EA      O                                      02800     46000                                  
+SSPAER       3E293       0020DAU    D       O                             1397     02800     46000                                  
+SSPAER       B462        0060KAPPU  EA      O                             0910     24500     46000                                  
+SSPAER       B462        0070KIK    D       O                             1529     24500     46000                                  
+SSPAER       B462        0080EMP    EA      O                             1336     24500     46000                                  
+SSPAER       B462        0090PY     D       O                             0804     24500     46000                                  
+SSPAER       3E7         0010BOGIA  EA      O                                      01800     46000                                  
+SSPAER       3E7         0020MD     D       O                             0797     01800     46000                                  
+SSPAER       3E7         0030NZ     D       O                             0987     16000     46000                                  
+SSPAER       3E55        0010BUK    D       O                                      09500     46000                                  
+SSPAER       3E55        0020CHG    EA      O                             1081     09500     46000                                  
+SSPAER       3E55        0060MD     D       O                             1537     16800     46000                                  
+SSPAER       3E55        0070MH     D       O                             0955     16400     46000                                  
+SSPAER       3E55        0080DAI    EA      O                             0800     14700     46000                                  
+SSPAER       3E55        0090KIU    D       O                             1012     14700     46000                                  
+SSPAER       3E52        0010BUK    D       O                                      02700     46000                                  
+SSPAER       3E52        0020MON    EA      O                             0901     02700     46000                                  
+SSPAER       3E52        0050GUA    D       O                             0980     03300     46000                                  
+SSPAER       3E52        0060PY     D       O                             0751     13700     46900                                  
+SSPAER       3E50        0010BUK    D       O                                      02700     46000                                  
+SSPAER       3E50        0020SAK    EA      O                             0900     02700     46000                                  
+SSPAER       3E50        0050FIN    D       O                             0691     03300     46000                                  
+SSPAER       3E50        0060LAE    D       O                             0518     15300     46000                                  
+SSPAER       3E50        0070DKS    EA      O                             0826     15300     46000                                  
+SSPAER       3E50        0080PY     D       O                             0810     15300     46000                                  
+SSPAER       3E54        0010BUK    D       O                                      09500     46000                                  
+SSPAER       3E54        0020VERON  EA      O                             1429     09500     46000                                  
+SSPAER       3E54        0030KAV    D       O                             1429     04300     46000                                  
+SSPAER       3E54        0040BUTYO  EA      O                             1445     04300     46000                                  
+SSPAER       3E54        0060WK     D       O                             1444     03600     46000                                  
+SSPAER       3E54        0070SSM    EA      O                             0957     14300     46000                                  
+SSPAER       3E54        0080OKT    D       O                             0830     14300     46000                                  
+SSPAER       3E58        0040KRM    D       O                             0435     10000     46000                                  
+SSPAER       3E58        0050MFV    EA      O                             0886     10000     46000                                  
+SSPAER       3E58        0060MNI    EA      O                             0781     16400     46000                                  
+SSPAER       3E56        0010CHL    EA      O                                      14300     46000                                  
+SSPAER       3E56        0020OKM    EA      O                             0751     14300     46000                                  
+SSPAER       3E56        0030KIU    D       O                             0837     14300     46000                                  
+SSPAER       3E69        0010CHS    EA      O                                      13700     46000                                  
+SSPAER       3E69        0020GUA    D       O                             0461     13700     46000                                  
+SSPAER       3E69        0030MBE    EA      O                             0722     08000     46000                                  
+SSPAER       3E69        0040SGL    EA      O                             0205     04500     46000                                  
+SSPAER       3E62        0020FIN    D       O                             0364     03300     46000                                  
+SSPAER       3E8         0050NZ     D       O                             0200     06300     46000                                  
+SSPAER       3E59        0020GUA    D       O                             1434     03600     46000                                  
+SSPAER       3E49        0020FIN    D       O                             0926     07800     46000                                  
+SSPAER       3E49        0030SGL    EA      O                             0552     05300     46000                                  
+SSPAER       3E49        0040KUB    D       O                             0858     03300     46000                                  
+SSPAER       3E49        0050SFI    EA      O                             0257     03300     46000                                  
+SSPAER       R210        0060PY     D       O                             0799     24500     46000                                  
+SSPAER       3E71        0020GVI    EA      O                             0813     02700     46000                                  
+SSPAER       3E71        0030MOR    D       O                             0816     06000     46000                                  
+SSPAER       3E72        0020KIK    D       O                             1166     02000     46000                                  
+SSPAER       3E72        0030MH     D       O                             0955     14900     46000                                  
+SSPAER       3E72        0040RAMU   EA      O                             0578     06000     46000                                  
+SSPAER       3E72        0050MD     D       O                             0492     07300     46000                                  
+SSPAER       3E72        0060GZM    EA      O                             1213     07300     46000                                  
+SSPAER       3E295       0010DOM    EA      O                                      14400     46000                                  
+SSPAER       3E295       0020GNY    D       O                             1133     14400     46000                                  
+SSPAER       3E295       0030TGR    EA      O                             0250     05000     46000                                  
+SSPAER       3E9         0010FIN    D       O                                      04200     46000                                  
+SSPAER       3E9         0020GULF   EA      O                             0323     04200     46000                                  
+SSPAER       3E401       0010FIN    D       O                                      07800     46000                                  
+SSPAER       3E401       0020GZM    EA      O                             0602     07800     46000                                  
+SSPAER       3E65        0010FIN    D       O                                      11000     46000                                  
+SSPAER       3E65        0020NZ     D       O                             0686     11000     46000                                  
+SSPAER       3E65        0030MIRIL  EA      O                             0333     12500     46000                                  
+SSPAER       3E65        0040KTU    EA      O                             0262     14000     46000                                  
+SSPAER       3E65        0050GA     D       O                             0246     14000     46000                                  
+SSPAER       3E65        0060YBA    EA      O                             0358     15800     46000                                  
+SSPAER       3E65        0070MH     D       O                             0304     16400     46000                                  
+SSPAER       3E65        0080PRR    EA      O                             0892     16400     46000                                  
+SSPAER       3E65        0090OKT    D       O                             0913     15000     46000                                  
+SSPAER       3E5         0010FIN    D       O                                      15500     46000                                  
+SSPAER       3E5         0020SOA    EA      O                             0655     15500     46000                                  
+SSPAER       3E5         0030MD     D       O                             0847     15700     46000                                  
+SSPAER       3E75        0010GA     D       O                                      16800     46000                                  
+SSPAER       3E75        0020MUI    EA      O                             1015     16800     46000                                  
+SSPAER       3E75        0030WK     D       O                             0800     10500     46000                                  
+SSPAER       3E2         0010GA     D       O                                      14000     46000                                  
+SSPAER       3E2         0020WATUT  EA      O                             0739     14000     46000                                  
+SSPAER       3E2         0030KRM    D       O                             0755     11000     46000                                  
+SSPAER       3E70        0010GBE    D       O                                      03200     46000                                  
+SSPAER       3E70        0020KIK    D       O                             0469     03200     46000                                  
+SSPAER       3E70        0030MBV    EA      O                             0967     10000     46000                                  
+SSPAER       3E70        0040KIU    D       O                             0966     10000     46000                                  
+SSPAER       3E61        0010GNY    D       O                                      14100     46000                                  
+SSPAER       3E61        0020GUA    D       O                             1567     14100     46000                                  
+SSPAER       3E61        0030MRA    EA      O                             1248     03300     46000                                  
+SSPAER       G205        0010GNY    D       O                                      24500     46000                                  
+SSPAER       G205        0020VEVEK  EA      O                             0952     24500     46000                                  
+SSPAER       3E63        0010GUA    D       O                                      08000     46000                                  
+SSPAER       3E63        0020WKS    EA      O                             0849     08000     46000                                  
+SSPAER       3E60        0020KAV    D       O                             1733     05400     46000                                  
+SSPAER       B456        0030WK     D       O                             1685     24500     46000                                  
+SSPAER       B586-       0020WEL    EA      O                             0396     24500     46000                                  
+SSPAER       B586-       0030PY     D       O                             0402     24500     46000                                  
+SSPAER       3E297       0010KAV    D       O                                      04700     46000                                  
+SSPAER       3E297       0020LHR    D       O                             1105     04700     46000                                  
+SSPAER       3E46        0010KAV    D       O                                      01500     46000                                  
+SSPAER       3E46        0020SIBIN  EA      O                             1109     01500     46000                                  
+SSPAER       3E46        0040MD     D       O                             1100     03600     46000                                  
+SSPAER       3E67        0010KIK    D       O                                      03500     46000                                  
+SSPAER       3E67        0020KRM    D       O                             0962     03500     46000                                  
+SSPAER       3E51        0010KIK    D       O                                      02400     46000                                  
+SSPAER       3E51        0020KUT    D       O                             0424     02400     46000                                  
+SSPAER       3E292       0010KIU    D       O                                      07500     46000                                  
+SSPAER       3E292       0020OKT    D       O                             0428     07500     46000                                  
+SSPAER       3E292       0030SPK    EA      O                             0874     15600     46000                                  
+SSPAER       3E292       0040VNO    D       O                             0766     08800     46000                                  
+SSPAER       3E68        0010KIU    D       O                                      10500     46000                                  
+SSPAER       3E68        0020OML    EA      O                             0830     10500     46000                                  
+SSPAER       3E68        0030MOR    D       O                             0353     10500     46000                                  
+SSPAER       3E68        0040WBU    EA      O                             0707     09400     46000                                  
+SSPAER       3E68        0050KRM    D       O                             1075     09400     46000                                  
+SSPAER       3E4         0010KML    EA      O                                      14400     46000                                  
+SSPAER       3E4         0020KUB    D       O                             0304     14400     46000                                  
+SSPAER       3E296       0010KRM    D       O                                      09000     46000                                  
+SSPAER       3E296       0020PRV    EA      O                             0701     09000     46000                                  
+SSPAER       3E296       0030MH     D       O                             0845     15800     46000                                  
+SSPAER       3E296       0040YUG    EA      O                             0602     13500     46000                                  
+SSPAER       3E296       0050WK     D       O                             0803     11000     46000                                  
+SSPAER       3E3         0010KUB    D       O                                      14400     46000                                  
+SSPAER       3E3         0020MTY    EA      O                             0320     14400     46000                                  
+SSPAER       3E3         0030LAE    D       O                             0863     14400     46000                                  
+SSPAER       3E66        0010KUS    EA      O                                      13400     46000                                  
+SSPAER       3E66        0020MOR    D       O                             0391     13400     46000                                  
+SSPAER       3E66        0030SRI    EA      O                             0334     14000     46000                                  
+SSPAER       3E66        0040MH     D       O                             0564     14000     46000                                  
+SSPAER       3E53        0010LUMI   EA      O                                      14600     46000                                  
+SSPAER       3E53        0020SLR    EA      O                             0843     14600     46000                                  
+SSPAER       3E53        0030MH     D       O                             1119     16400     46000                                  
+SSPAER       3E6         0010NZ     D       O                                      15000     46000                                  
+SSPAER       3E6         0020YATI   EA      O                             0455     15000     46000                                  
+SSPAER       3E6         0030RAA    EA      O                             0237     15000     46000                                  

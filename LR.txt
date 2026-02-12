@@ -1,0 +1,23 @@
+SAFREAENRT   PONKA GL           N07520019W009435921                                                                                 
+SAFREAENRT   RITAM GL           N06001281W008420516                                                                                 
+SAFRDB       FR    GL000263     N06125834W010225981                                                                                 
+SAFRDB       MO    GL000372     N06143434W010211180                                                                                 
+SAFRDB       SM    GL000315     N06193431W010435985                                                                                 
+SAFRD        ROB   GL011380V    N06142234W010212981                                                                                 
+SAFRD        ROB   GL011380 D   N06142234W010212981                                                                                 
+SAFRER       B614        0050ROB  GLD       O                             1331     05000     24500                                  
+SAFRER       B600        0060RITAMGLEA      O                             0761     05000     24500                                  
+SAFRER       B600        0070ROB  GLD       O                             0999     05000     24500                                  
+SAFRER       B600        0080TEKTOGFEA      O                             1319     05000     24500                                  
+SAFRER       B729        0040PONKAGLEA      O                             0902     07000     24500                                  
+SAFRER       B729        0050UBUTUDIEA      O                             1009     07000     24500                                  
+SAFRER       UB614       0050ROB  GLD       O                             1331     25000     60000                                  
+SAFRER       UB729       0040PONKAGLEA      O                             0902     25000     60000                                  
+SAFRER       UB729       0050UBUTUDIEA      O                             1009     24500     46000                                  
+SAFRER       UB600       0030RITAMGLEA      O                             0761     25000     60000                                  
+SAFRER       UB600       0040ROB  GLD       O                             0999     25000     60000                                  
+SAFRER       UB600       0050TEKTOGFEA      O                             1319     25000     60000                                  
+SAFRER       UG852       0090PONKAGLEA      O                             0759     25000     60000                                  
+SAFRER       UG852       0100ROB  GLD       O                             1046     25000     60000                                  
+SAFRER       UG433       0010ROB  GLD       O                                      25000     60000                                  
+SAFRER       UG433       0020DEMAR  EA      O                             0529     25000     60000                                  

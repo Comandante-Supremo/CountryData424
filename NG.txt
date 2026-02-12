@@ -1,0 +1,306 @@
+SAFREAENRT   AGSEM DN           N07414433E003470756                                                                                 
+SAFREAENRT   AKLIS DN           N07051859E009112149                                                                                 
+SAFREAENRT   AMTAB DN           N11154221E007560938                                                                                 
+SAFREAENRT   APSAL DN           N09363752E009221296                                                                                 
+SAFREAENRT   BIRAM DN           N11220019E009281547                                                                                 
+SAFREAENRT   BISAP DN           N08232400E0062735100                                                                                
+SAFREAENRT   BOSSO DN           N13325954E013025768                                                                                 
+SAFREAENRT   BUGDA DN           N04492190E006091709                                                                                 
+SAFREAENRT   DELEK DN           N08270712E007133336                                                                                 
+SAFREAENRT   DETAR DN           N12525970E008482742                                                                                 
+SAFREAENRT   DINSA DN           N10411236E004065117                                                                                 
+SAFREAENRT   DOGON DN           N13354200E004215400                                                                                 
+SAFREAENRT   EDEKO DN           N09211520E007190615                                                                                 
+SAFREAENRT   ENBUT DN           N13170000E012431200                                                                                 
+SAFREAENRT   EPETA DN           N05443203E007161538                                                                                 
+SAFREAENRT   ERAMI DN           N07132910E004170600                                                                                 
+SAFREAENRT   ETRIS DN           N09220172E012545540                                                                                 
+SAFREAENRT   GALDU DN           N10561264E008533688                                                                                 
+SAFREAENRT   GAMAM DN           N09231916E005403197                                                                                 
+SAFREAENRT   GAMTA DN           N12212371E007204868                                                                                 
+SAFREAENRT   GARAN DN           N09301360E010595516                                                                                 
+SAFREAENRT   GAVNU DN           N11573604E011024914                                                                                 
+SAFREAENRT   GULEN DN           N13074210E004100000                                                                                 
+SAFREAENRT   GUSOL DN           N10531710E008420600                                                                                 
+SAFREAENRT   IKROP DN           N05464605E008522496                                                                                 
+SAFREAENRT   IKTAM DN           N10344245E010361555                                                                                 
+SAFREAENRT   INOTO DN           N08344308E006592135                                                                                 
+SAFREAENRT   IPOMA DN           N05484001E007000072                                                                                 
+SAFREAENRT   KINDO DN           N10222449E006350931                                                                                 
+SAFREAENRT   KOMOL DN           N12001198E009411296                                                                                 
+SAFREAENRT   LINOX DN           N04564430E007455741                                                                                 
+SAFREAENRT   LOTSO DN           N09515466E007221536                                                                                 
+SAFREAENRT   LUNDO DN           N05510910E008331445                                                                                 
+SAFREAENRT   MIMBA DN           N13045964E008233339                                                                                 
+SAFREAENRT   MOKLA DN           N06174085E008382646                                                                                 
+SAFREAENRT   MOPAD DN           N06333348E004241842                                                                                 
+SAFREAENRT   NUPAM DN           N07472064E003234830                                                                                 
+SAFREAENRT   ONTAL DN           N04401078E007421882                                                                                 
+SAFREAENRT   OPALA DN           N07240145E002445712                                                                                 
+SAFREAENRT   OVSAT DN           N12303560E006473060                                                                                 
+SAFREAENRT   OXILO DN           N09105910E012453800                                                                                 
+SAFREAENRT   POLTO DN           N06293175E002445712                                                                                 
+SAFREAENRT   POSAD DN           N05204032E006103664                                                                                 
+SAFREAENRT   POSIB DN           N10432441E010524557                                                                                 
+SAFREAENRT   POTGO DN           N06064580E007013072                                                                                 
+SAFREAENRT   RASAL DN           N07463264E003084826                                                                                 
+SAFREAENRT   RISUB DN           N12495944E009224291                                                                                 
+SAFREAENRT   TENTU DN           N09040089E002555711                                                                                 
+SAFREAENRT   UPIGA DN           N11011110E013480000                                                                                 
+SAFRDB       AG    DN000321     N09014093E007163736                                                                                 
+SAFRDB       AK    DN000276     N07133620E005173560                                                                                 
+SAFRDB       BE    DN000272     N06200182E005365728                                                                                 
+SAFRDB       BC    DN000388     N06190183E005355728                                                                                 
+SAFRDB       CR    DN000317     N04580452E008205029                                                                                 
+SAFRDB       EN    DN000394     N06284362E007351968                                                                                 
+SAFRDB       IB    DN000400     N07260144E003545718                                                                                 
+SAFRDB       IN    DN000310     N07224086E003592938                                                                                 
+SAFRDB       IL    DN000371     N08253115E004283215                                                                                 
+SAFRDB       JB    DN000270     N09381534E008533785                                                                                 
+SAFRDB       KC    DN000310     N10405456E007180897                                                                                 
+SAFRDB       KO    DN000260     N12020066E008305937                                                                                 
+SAFRDB       AO    DN000376     N12033118E008323025                                                                                 
+SAFRDB       KT    DN000365     N12592566E007383585                                                                                 
+SAFRDB       LA    DN000336     N06362333E003194054                                                                                 
+SAFRDB       MA    DN000332     N11501748E013034640                                                                                 
+SAFRDB       MK    DN000364     N07430138E008355745                                                                                 
+SAFRDB       OK    DN000345     N06300176E004495724                                                                                 
+SAFRDB       OW    DN000391     N05242310E007123870                                                                                 
+SAFRDB       PH    DN000370     N04500234E007005737                                                                                 
+SAFRDB       YL    DN000336     N09160089E012255767                                                                                 
+SAFRD        ABC   DN011630V    N09021607E007170635                                                                                 
+SAFRD        BEN   DN011650V    N06164984E005334528                                                                                 
+SAFRD        BDA   DN011270V    N09060780E006010304                                                                                 
+SAFRD        CAL   DN011410V    N04551874E008191214                                                                                 
+SAFRD        ENG   DN011570V    N06280679E007360440                                                                                 
+SAFRD        GB    DN011590V    N07150253E009000548                                                                                 
+SAFRD        GW    DN011430V    N09284875E003303814                                                                                 
+SAFRD        IBA   DN011210V    N07205077E003575658                                                                                 
+SAFRD        IL    DN011230V    N08231812E004255116                                                                                 
+SAFRD        JOS   DN011310V    N09383190E008503479                                                                                 
+SAFRD        KDA   DN011530V    N10404864E007180516                                                                                 
+SAFRD        KU    DN011470V    N10354596E007265103                                                                                 
+SAFRD        KAN   DN011250V    N12020906E008294582                                                                                 
+SAFRD        LAG   DN011370V    N06423046E003193882                                                                                 
+SAFRD        LOS   DN011290V    N06323400E003184921                                                                                 
+SAFRD        MIU   DN011370V    N11531739E013065997                                                                                 
+SAFRD        MNA   DN011510V    N09383542E006265901                                                                                 
+SAFRD        POT   DN011350V    N05020720E006573665                                                                                 
+SAFRD        PO    DN011210V    N11421810E011021557                                                                                 
+SAFRD        SOK   DN011390V    N12551594E005134550                                                                                 
+SAFRD        YOL   DN011550V    N09173158E012252897                                                                                 
+SAFRD        IAC   DN011190 D   N09012347E007162913                                                                                 
+SAFRD        IAB   DN010930 D   N09002723E007154345                                                                                 
+SAFRD        IIL   DN011230 D   N08260216E004290222                                                                                 
+SAFRD        IJS   DN011070 D   N09383074E008513025                                                                                 
+SAFRD        IKA   DN011010 D   N10412402E007183768                                                                                 
+SAFRD        IKC   DN011030 D   N12022238E008312732                                                                                 
+SAFRD        IKN   DN010950 D   N12030046E008310983                                                                                 
+SAFRD        IMA   DN011080 D   N11505572E013042019                                                                                 
+SAFRD        ILA   DN010810 D   N06353793E003194001                                                                                 
+SAFRD        ILB   DN010930 D   N06350478E003184348                                                                                 
+SAFRD        IPC   DN011030 D   N05013090E006571278                                                                                 
+SAFRD        ISK   DN010950 D   N12544456E005114751                                                                                 
+SAFRD        IYL   DN010990 D   N09160639E012254707                                                                                 
+SAFRD        ABC   DN011630 D   N09021607E007170635                                                                                 
+SAFRD        BEN   DN011650 D   N06164984E005334528                                                                                 
+SAFRD        BDA   DN011270 D   N09060780E006010304                                                                                 
+SAFRD        CAL   DN011410 D   N04551874E008191214                                                                                 
+SAFRD        ENG   DN011570 D   N06280679E007360440                                                                                 
+SAFRD        GB    DN011590 D   N07150253E009000548                                                                                 
+SAFRD        GW    DN011430 D   N09284875E003303814                                                                                 
+SAFRD        IBA   DN011210 D   N07205077E003575658                                                                                 
+SAFRD        IL    DN011230 D   N08231812E004255116                                                                                 
+SAFRD        JOS   DN011310 D   N09383190E008503479                                                                                 
+SAFRD        KU    DN011470 D   N10354596E007265103                                                                                 
+SAFRD        KAN   DN011250 D   N12020906E008294582                                                                                 
+SAFRD        LAG   DN011370 D   N06423046E003193882                                                                                 
+SAFRD        LOS   DN011290 D   N06323400E003184921                                                                                 
+SAFRD        MIU   DN011370 D   N11531739E013065997                                                                                 
+SAFRD        MNA   DN011510 D   N09383542E006265901                                                                                 
+SAFRD        POT   DN011350 D   N05020720E006573665                                                                                 
+SAFRD        PO    DN011210 D   N11421810E011021557                                                                                 
+SAFRD        SOK   DN011390 D   N12551594E005134550                                                                                 
+SAFRD        YOL   DN011550 D   N09173158E012252897                                                                                 
+SAFRER       G854G       0080DOGONDNEA      O                             0463     03500     24500                                  
+SAFRER       G854G       0090POMPA  EA      O                             1101     05500     24500                                  
+SAFRER       A604        0090JOS  DND       O                             2101     14500     24500                                  
+SAFRER       A604        0100GUSOLDNEA      O                             0753     14500     24500                                  
+SAFRER       A604        0110KAN  DND       O                             0700     14500     24500                                  
+SAFRER       A604        0120MIMBADNEA      O                             0632     14500     24500                                  
+SAFRER       J332        0010BDA  DND       OH                                     07500     24500                                  
+SAFRER       J332        0020EDEKODNEA      OH                            0786     07500     24500                                  
+SAFRER       J332        0030JOS  DND       OH                            0919     07500     24500                                  
+SAFRER       R778        0010IBA  DND       O                                      06500     24500                                  
+SAFRER       R778        0020BDA  DND       O                             1611     06500     24500                                  
+SAFRER       R778        0030KU   DND       O                             1233     06500     24500                                  
+SAFRER       R778        0040KAN  DND       O                                      06500     24500                                  
+SAFRER       R778        0050RISUBDNEA      O                             0705     06500     24500                                  
+SAFRER       H335        0010BEN  DND       O                                      05500     24500                                  
+SAFRER       H335        0020INOTODNEA      O                             1620     05500     24500                                  
+SAFRER       V456        0040DELEKDNEA      OL                                     07500     24500                                  
+SAFRER       V456        0050POTGODNEA      OL                            1410     07500     24500                                  
+SAFRER       V456        0060KU   DND       OL                                     07500     24500                                  
+SAFRER       V456        0070LOTSODNEA      OL                            0441     07500     24500                                  
+SAFRER       V593        0010IKTAMDNEA      OL                                     08500     24500                                  
+SAFRER       V593        0020BIRAMDNEA      OL                            0819     08500     24500                                  
+SAFRER       V593        0030KAN  DND       OL                            0700     08500     24500                                  
+SAFRER       B731        0020SOK  DND       O                             0597     14500     24500                                  
+SAFRER       B731        0030DINSADNEA      O                             1493     14500     24500                                  
+SAFRER       B731        0040GW   DND       O                             0808     14500     24500                                  
+SAFRER       B731        0050NUPAMDNEA      O                             1018     14500     24500                                  
+SAFRER       B731        0060LAG  DND       O                             0650     14500     24500                                  
+SAFRER       H340        0010EDEKODNEA      O                                      07500     24500                                  
+SAFRER       H340        0020BISAPDNEA      O                             0771     07500     24500                                  
+SAFRER       H340        0030ERAMIDNEA      O                             1471     07500     24500                                  
+SAFRER       H340        0040LAG  DND       O                             0649     07500     24500                                  
+SAFRER       A604F       0110MIMBADNEA      O                             0403     05500     24500                                  
+SAFRER       V213        0010CAL  DND       OL                                     05500     14500                                  
+SAFRER       V213        0020LINOXDNEA      OL                            0332     05500     14500                                  
+SAFRER       V213        0030POT  DND       OL                            0485     05500     14500                                  
+SAFRER       1E013       0010CAL  DND       O                                      14500     24500                                  
+SAFRER       1E013       0020LUNDODNEA      O                             0576     14500     24500                                  
+SAFRER       1E013       0030MOKLADNEA      O                             0270     14500     24500                                  
+SAFRER       G660F       0010GULENDNEA      O                                      06500     24500                                  
+SAFRER       G660F       0020DELOT  EA      O                             0366     06500     24500                                  
+SAFRER       R981        0070LAG  DND       O                                      05500     24500                                  
+SAFRER       R981        0080RASALDNEA      O                             0650     05500     24500                                  
+SAFRER       R981        0090TENTUDNEA      O                             0786     05500     24500                                  
+SAFRER       UR984       0180ONTALDNEA      O                             0351     24500     60000                                  
+SAFRER       UR984       0190POT  DND       O                             0497     24500     60000                                  
+SAFRER       UR984       0200POSADDNEA      O                             0504     24500     60000                                  
+SAFRER       UR984       0210MILBO  EA      O                             1239     24500     60000                                  
+SAFRER       UR984       0220LAG  DND       O                             0649     24500     60000                                  
+SAFRER       UR984       0230OPALADNEA      O                             0540     25000     60000                                  
+SAFRER       UR984       0240KELEXDBEA      O                             0363     25000     60000                                  
+SAFRER       H206        0010ENG  DND       O                                      05500     14500                                  
+SAFRER       H206        0020EPETADNEA      O                             0479     05500     14500                                  
+SAFRER       H206        0030POT  DND       O                             0463     05500     14500                                  
+SAFRER       1E012       0010ENG  DND       O                                      14500     24500                                  
+SAFRER       1E012       0020MOKLADNEA      O                             0629     14500     24500                                  
+SAFRER       B736        0010ETRISDNEA      O                                      08500     24500                                  
+SAFRER       B736        0020GARANDNEA      O                             1138     08500     24500                                  
+SAFRER       V377        0010IL   DND       OL                                     14500     24500                                  
+SAFRER       V377        0020GAMAMDNEA      OL                            0952     14500     24500                                  
+SAFRER       V377        0030KDA  DND       OL                            1235     14500     24500                                  
+SAFRER       G660        0010GULENDNEA      O                                      08500     24500                                  
+SAFRER       G660        0020SOK  DND       O                             0634     08500     24500                                  
+SAFRER       G660        0030OVSATDNEA      O                             0948     08500     24500                                  
+SAFRER       G660        0040GAMTADNEA      O                             0338     08500     24500                                  
+SAFRER       G660        0050KAN  DND       O                             0701     08500     24500                                  
+SAFRER       G660        0060KOMOLDNEA      O                             0700     08500     24500                                  
+SAFRER       G660        0070GAVNUDNEA      O                             0799     08500     24500                                  
+SAFRER       G660        0080MIU  DND       O                             1217     08500     24500                                  
+SAFRER       G660        0090KELAK  EA      O                             0898     08500     24500                                  
+SAFRER       A609        0040POLTODNEA      O                             0226     05500     24500                                  
+SAFRER       A609        0050LAG  DND       O                             0369     05500     24500                                  
+SAFRER       A609        0060MOPADDNEA      O                             0649     05500     24500                                  
+SAFRER       A609        0070OK   DND       O                             0257     05500     24500                                  
+SAFRER       A609        0080POTGODNEA      O                             1329     05500     24500                                  
+SAFRER       R986D       0020KAN  DND       O                             0600     05500     24500                                  
+SAFRER       1E011       0010GB   DND       O                                      14500     24500                                  
+SAFRER       1E011       0020MK   DND       O                             0368     14500     24500                                  
+SAFRER       H223        0010JOS  DND       O                                      08500     24500                                  
+SAFRER       H223        0020POSIBDNEA      O                             1367     08500     24500                                  
+SAFRER       H223        0030MIU  DND       O                             1491     08500     24500                                  
+SAFRER       V224        0010KINDODNEA      OL                                     05500     24500                                  
+SAFRER       V224        0020SOK  DND       OL                            1725     05500     24500                                  
+SAFRER       R984        0010OPALADNEA      O                                      04500     24500                                  
+SAFRER       R984        0020LAG  DND       O                             0540     04500     24500                                  
+SAFRER       R984        0030MILBO  EA      O                             0649     04500     24500                                  
+SAFRER       R984        0040POSADDNEA      O                             1239     04500     24500                                  
+SAFRER       R984        0050POT  DND       O                             0504     04500     24500                                  
+SAFRER       R984        0060ONTALDNEA      O                             0497     04500     24500                                  
+SAFRER       R984        0070RALIN  EA      O                             0351     04500     24500                                  
+SAFRER       R603        0010LAG  DND       O                                      14500     24500                                  
+SAFRER       R603        0020NAROM  EA      O                             0652     14500     24500                                  
+SAFRER       V472        0010MIU  DND       OL                                     08500     24500                                  
+SAFRER       V472        0020YOL  DND       OL                            1611     08500     24500                                  
+SAFRER       1E012       0010MOKLADNEA      O                                      14500     24500                                  
+SAFRER       1E012       0020OBUDU  EA      O                             0376     14500     24500                                  
+SAFRER       UA605       0100ENBUTDNEA      O                             1241     24500     46000                                  
+SAFRER       UA604       0120MIMBADNEA      O                             0403     24500     46000                                  
+SAFRER       UA604       0130KAN  DND       O                             0632     24500     60000                                  
+SAFRER       UA604       0140GUSOLDNEA      O                             0700     24500     60000                                  
+SAFRER       UA604       0150JOS  DND       O                             0753     24500     60000                                  
+SAFRER       UA604       0160OBUDU  EA      O                             2101     24500     60000                                  
+SAFRER       UA601       0030BUGDADNEA      O                             0798     24500     60000                                  
+SAFRER       UA601       0040KERAN  EA      O                             0986     24500     60000                                  
+SAFRER       UG854       0070DOGONDNEA      O                             0537     24500     46000                                  
+SAFRER       UG854       0080POMPA  EA      O                             1101     24500     60000                                  
+SAFRER       UJ332       0010BDA  DND       O                                      24500     60000                                  
+SAFRER       UJ332       0020EDEKODNEA      O                             0786     24500     60000                                  
+SAFRER       UJ332       0030JOS  DND       O                             0919     24500     60000                                  
+SAFRER       UR778       0010IBA  DND       O                                      24500     60000                                  
+SAFRER       UR778       0020BDA  DND       O                             1611     24500     60000                                  
+SAFRER       UR778       0030KU   DND       O                             1233     24500     60000                                  
+SAFRER       UR778       0130RISUBDNEA      O                             0574     24500     60000                                  
+SAFRER       UR778       0140KAN  DND       O                             0705     24500     60000                                  
+SAFRER       UM114       0080LAG  DND       O                                      24500     60000                                  
+SAFRER       UM114       0090GW   DND       O                             1668     24500     60000                                  
+SAFRER       UM114       0100NASTODBEA      O                             0240     24500     60000                                  
+SAFRER       UV593       0010IKTAMDNEA      O                                      24500     60000                                  
+SAFRER       UV593       0020BIRAMDNEA      O                             0819     24500     60000                                  
+SAFRER       UV593       0030KAN  DND       O                             0700     24500     60000                                  
+SAFRER       UB731       0030SOK  DND       O                             0597     24500     60000                                  
+SAFRER       UB731       0040DINSADNEA      O                             1493     24500     60000                                  
+SAFRER       UB731       0050GW   DND       O                             0808     24500     60000                                  
+SAFRER       UB731       0060NUPAMDNEA      O                             1018     24500     60000                                  
+SAFRER       UB731       0070LAG  DND       O                             0650     24500     60000                                  
+SAFRER       UH340       0010EDEKODNEA      O                                      24500     60000                                  
+SAFRER       UH340       0020BISAPDNEA      O                             0771     24500     60000                                  
+SAFRER       UH340       0030ERAMIDNEA      O                             1471     24500     60000                                  
+SAFRER       UH340       0040LAG  DND       O                             0649     24500     60000                                  
+SAFRER       UM998       0080ENBUTDNEA      O                             0567     24500     60000                                  
+SAFRER       UM998       0090MIU  DND       O                             0869     24500     60000                                  
+SAFRER       UM998       0100VOSLO  EA      O                             0803     24500     60000                                  
+SAFRER       UG660       0100MIU  DND       O                             0898     24500     60000                                  
+SAFRER       UG660       0110GAVNUDNEA      O                             1217     24500     60000                                  
+SAFRER       UG660       0120KOMOLDNEA      O                             0799     24500     60000                                  
+SAFRER       UG660       0130KAN  DND       O                             0700     24500     60000                                  
+SAFRER       UG660       0140GAMTADNEA      O                             0701     24500     60000                                  
+SAFRER       UG660       0150OVSATDNEA      O                             0338     24500     60000                                  
+SAFRER       UG660       0160SOK  DND       O                             0948     24500     60000                                  
+SAFRER       UG660       0170GULENDNEA      O                             0634     24500     46000                                  
+SAFRER       UG660       0180KILDA  EA      O                             0431     24500     46000                                  
+SAFRER       UG727       0060BOSSODNEA      O                             1468     24500     46000                                  
+SAFRER       UG727       0070MIU  DND       O                             0998     24500     60000                                  
+SAFRER       UG727       0080EBIMU  EA      O                             1111     24500     60000                                  
+SAFRER       UR981       0100LAG  DND       O                                      24500     60000                                  
+SAFRER       UR981       0110RASALDNEA      O                             0650     24500     60000                                  
+SAFRER       UR981       0120TENTUDNEA      O                             0786     24500     60000                                  
+SAFRER       UR986       0050GALDUDNEA      O                                      24500     60000                                  
+SAFRER       UR986       0060KAN  DND       O                             0700     24500     60000                                  
+SAFRER       UR986       0070GARID  EA      O                             0600     24500     60000                                  
+SAFRER       UG856       0070LAG  DND       O                             0650     24500     60000                                  
+SAFRER       UG858       0070DETARDNEA      O                             1999     24500     60000                                  
+SAFRER       UG858       0080KAN  DND       O                             0541     24500     60000                                  
+SAFRER       UV456       0010DELEKDNEA      O                                      24500     60000                                  
+SAFRER       UV456       0020POTGODNEA      O                             1410     24500     60000                                  
+SAFRER       UV456       0030KU   DND       O                                      24500     60000                                  
+SAFRER       UV456       0040LOTSODNEA      O                             0441     24500     60000                                  
+SAFRER       UB736       0050GARANDNEA      O                                      24500     60000                                  
+SAFRER       UB736       0060ETRISDNEA      O                             1138     24500     60000                                  
+SAFRER       UB736       0070TJR    D       O                             0255     24500     46000                                  
+SAFRER       UA615       0010KAN  DND       O                                      24500     60000                                  
+SAFRER       UA615       0020VUBOK  EA      O                             0805     24500     60000                                  
+SAFRER       UW500       0090UPIGADNEA      O                             0252     24500     46000                                  
+SAFRER       UA609       0210POLTODNEA      O                                      24500     60000                                  
+SAFRER       UA609       0220LAG  DND       O                             0369     24500     60000                                  
+SAFRER       UA609       0230MOPADDNEA      O                             0649     24500     60000                                  
+SAFRER       UA609       0240OK   DND       O                             0257     24500     60000                                  
+SAFRER       UA609       0250POTGODNEA      O                             1329     24500     60000                                  
+SAFRER       UV377       0010IL   DND       O                                      24500     60000                                  
+SAFRER       UV377       0020GAMAMDNEA      O                             0952     24500     60000                                  
+SAFRER       UV377       0030KDA  DND       O                             1235     24500     60000                                  
+SAFRER       UH223       0010JOS  DND       O                                      24500     60000                                  
+SAFRER       UH223       0020POSIBDNEA      O                             1367     24500     60000                                  
+SAFRER       UH223       0030MIU  DND       O                             1491     24500     60000                                  
+SAFRER       UV224       0010KINDODNEA      O                                      24500     60000                                  
+SAFRER       UV224       0020SOK  DND       O                             1725     24500     60000                                  
+SAFRER       UR603       0010LAG  DND       O                                      24500     60000                                  
+SAFRER       UR603       0020NAROM  EA      O                             0652     24500     60000                                  
+SAFRER       UA861       0010OXILODNEA      O                                      24500     46000                                  
+SAFRER       UA861       0020TJR    D       O                             0358     24500     46000                                  
+SAFRER       UA601       0010POLTODNEA      O                                      25000     60000                                  
+SAFRER       UA601       0020TYE  DBD       O                             0226     25000     60000                                  

@@ -1,0 +1,88 @@
+SMESEAENRT   ACUGE OK           N29352945E047255915                                                                                 
+SMESEAENRT   ASB06 OK           N29171725E047380230                                                                                 
+SMESEAENRT   ASB07 OK           N29243351E047242925                                                                                 
+SMESEAENRT   ASB11 OK           N29212654E047294920                                                                                 
+SMESEAENRT   ASB12 OK           N29262761E047190669                                                                                 
+SMESEAENRT   ASB14 OK           N29212530E047294823                                                                                 
+SMESEAENRT   ASB18 OK           N29083684E047303923                                                                                 
+SMESEAENRT   ASB22 OK           N29132038E047432695                                                                                 
+SMESEAENRT   ASB24 OK           N29145880E047190119                                                                                 
+SMESEAENRT   ASB28 OK           N29125383E047413822                                                                                 
+SMESEAENRT   ASB29 OK           N29274196E047174079                                                                                 
+SMESEAENRT   ASB32 OK           N29272136E047194418                                                                                 
+SMESEAENRT   ASB42 OK           N29105401E047391139                                                                                 
+SMESEAENRT   ASB60 OK           N29200304E047323523                                                                                 
+SMESEAENRT   ASB70 OK           N29240885E047242762                                                                                 
+SMESEAENRT   ASB71 OK           N29144774E047430778                                                                                 
+SMESEAENRT   ASB89 OK           N29245628E047181826                                                                                 
+SMESEAENRT   ASB92 OK           N29253121E047183471                                                                                 
+SMESEAENRT   ASPEL OK           N29104500E047005900                                                                                 
+SMESEAENRT   BAYVA OK           N29562533E047200370                                                                                 
+SMESEAENRT   BECGA OK           N29412430E047400454                                                                                 
+SMESEAENRT   BONIM OK           N28595300E0472912100                                                                                
+SMESEAENRT   CAVNA OK           N29541411E047262962                                                                                 
+SMESEAENRT   CAYAS OK           N29104068E047211273                                                                                 
+SMESEAENRT   CHARL OK           N29022600E048042200                                                                                 
+SMESEAENRT   DASMA OK           N29225300E048003800                                                                                 
+SMESEAENRT   ECIYA OK           N29560935E047330220                                                                                 
+SMESEAENRT   ECOGI OK           N29273315E047191862                                                                                 
+SMESEAENRT   EGLUR OK           N29033800E0475420100                                                                                
+SMESEAENRT   HOVID OK           N29292866E047254937                                                                                 
+SMESEAENRT   HOVIK OK           N29481333E047261985                                                                                 
+SMESEAENRT   KUA03 OK           N29155710E047565961                                                                                 
+SMESEAENRT   KUA04 OK           N29165039E047562346                                                                                 
+SMESEAENRT   KUA08 OK           N29204420E047551341                                                                                 
+SMESEAENRT   KUA09 OK           N29220765E047582483                                                                                 
+SMESEAENRT   KUA12 OK           N29063108E048064055                                                                                 
+SMESEAENRT   KUA13 OK           N29070238E048044324                                                                                 
+SMESEAENRT   KUA30 OK           N29103576E048010440                                                                                 
+SMESEAENRT   KUA31 OK           N29163756E047575148                                                                                 
+SMESEAENRT   KUA32 OK           N29164278E047574871                                                                                 
+SMESEAENRT   KUA33 OK           N29162961E047563534                                                                                 
+SMESEAENRT   KUA34 OK           N29214144E047545215                                                                                 
+SMESEAENRT   KUA35 OK           N29163533E047563185                                                                                 
+SMESEAENRT   KUA36 OK           N29230781E047582724                                                                                 
+SMESEAENRT   KUA40 OK           N29170528E047573528                                                                                 
+SMESEAENRT   KUA52 OK           N29101200E048011200                                                                                 
+SMESEAENRT   KUA53 OK           N29181538E047560866                                                                                 
+SMESEAENRT   KUA60 OK           N29222922E047544117                                                                                 
+SMESEAENRT   KUA61 OK           N29194599E047560898                                                                                 
+SMESEAENRT   KUA62 OK           N29175716E047570748                                                                                 
+SMESEAENRT   KUA70 OK           N29044505E048041253                                                                                 
+SMESEAENRT   KUA71 OK           N29072840E048024519                                                                                 
+SMESEAENRT   KUA72 OK           N29091729E048014693                                                                                 
+SMESEAENRT   KUA80 OK           N29054084E048022070                                                                                 
+SMESEAENRT   KUA81 OK           N29070241E048013732                                                                                 
+SMESEAENRT   KUA82 OK           N29091839E048002499                                                                                 
+SMESEAENRT   KUA99 OK           N29091727E047592801                                                                                 
+SMESEAENRT   R1807 OK           N29202035E047320026                                                                                 
+SMESEAENRT   R2189 OK           N29142826E047590026                                                                                 
+SMESEAENRT   R2190 OK           N29124557E047583474                                                                                 
+SMESEAENRT   R2191 OK           N29124519E0475954100                                                                                
+SMESEAENRT   R2573 OK           N29421256E047261010                                                                                 
+SMESEAENRT   R2574 OK           N29413021E047260896                                                                                 
+SMESEAENRT   R2918 OK           N29210916E047302449                                                                                 
+SMESEAENRT   SANAM OK           N28494833E047465780                                                                                 
+SMESEAENRT   SOLAT OK           N29094200E0463809100                                                                                
+SMESEAENRT   UMRUS OK           N29102589E047235208                                                                                 
+SMESDB       UDI   OK000260     N29411210E047260160                                                                                 
+SMESD        ASB   OK011600V    N29203822E047310792                                                                                 
+SMESD        KUA   OK011550V    N29130626E047580325                                                                                 
+SMESD        KFR   OK011200V    N28371498E047572936                                                                                 
+SMESD        LASB  OK010810 D   N29210916E047302449                                                                                 
+SMESD        IKIC  OK011010 D   N29142139E047590944                                                                                 
+SMESD        IKIB  OK011130 D   N29141497E047574159                                                                                 
+SMESD        IKIA  OK010950 D   N29125352E047582357                                                                                 
+SMESD        IKID  OK011050 D   N29125698E047595425                                                                                 
+SMESD        ASB   OK011600 D   N29203822E047310792                                                                                 
+SMESD        KUA   OK011550 D   N29130626E047580325                                                                                 
+SMESD        KFR   OK011200 D   N28371498E047572936                                                                                 
+SMESER       A788        0030KFR  OKD       O                             0289     05000     46000                                  
+SMESER       A788        0040SOROROEEA      O                             0161     11500     46000                                  
+SMESER       B419        0020KUA  OKD       O                             0399     05000     46000                                  
+SMESER       G669        0040KUA  OKD       O                             0499     05000     46000                                  
+SMESER       UL550       0130KFR  OKD       O                             0181     15000     46000                                  
+SMESER       UP517       0010KFR  OKD       O                                      15000     46000                                  
+SMESER       UP517       0020DEKOBOEEA      O                             0080     15000     46000                                  
+SMESER       UP891       0010KUA  OKD       O                                      15000     46000                                  
+SMESER       UP891       0020KUNRUOEEA      O                             0423     15000     46000                                  

@@ -1,0 +1,627 @@
+SASIEAENRT   AKLAS RK           N36424410E1272957100                                                                                
+SASIEAENRT   ALADI RK           N35311410E126511800                                                                                 
+SASIEAENRT   AMICK RK           N35073500E128295200                                                                                 
+SASIEAENRT   APPLE RK           N35390547E129131972                                                                                 
+SASIEAENRT   BAMBO RK           N35240694E127134876                                                                                 
+SASIEAENRT   BEACH RK           N35012326E128475951                                                                                 
+SASIEAENRT   BELMI RK           N37124710E126592900                                                                                 
+SASIEAENRT   BIGOB RK           N36434610E1280951100                                                                                
+SASIEAENRT   BLAZZ RK           N36053509E126351574                                                                                 
+SASIEAENRT   BLOOM RK           N37192700E126340000                                                                                 
+SASIEAENRT   BOMRA RK           N35300000E1283348100                                                                                
+SASIEAENRT   BOXER RK           N36053386E126350241                                                                                 
+SASIEAENRT   BUCKB RK           N35513967E126371940                                                                                 
+SASIEAENRT   BUKDO RK           N36201100E1292551100                                                                                
+SASIEAENRT   BULLS RK           N37003910E1273827100                                                                                
+SASIEAENRT   CAMEL RK           N38020910E1284345100                                                                                
+SASIEAENRT   CANDY RK           N36542049E127141796                                                                                 
+SASIEAENRT   CANTO RK           N35050600E128213800                                                                                 
+SASIEAENRT   CAPER RK           N37191392E1263445100                                                                                
+SASIEAENRT   CASUL RK           N36460874E126591751                                                                                 
+SASIEAENRT   CHAMP RK           N37320200E126333700                                                                                 
+SASIEAENRT   CHB75 RK           N36481016E127470955                                                                                 
+SASIEAENRT   CHENA RK           N37250961E126580560                                                                                 
+SASIEAENRT   CHG07 RK           N36464450E127355862                                                                                 
+SASIEAENRT   CHG09 RK           N36475714E127375714                                                                                 
+SASIEAENRT   CHG13 RK           N36502232E127415582                                                                                 
+SASIEAENRT   CHJ04 RK           N36452943E127331363                                                                                 
+SASIEAENRT   CHJ07 RK           N36474123E127354667                                                                                 
+SASIEAENRT   CHJ08 RK           N36393307E127203630                                                                                 
+SASIEAENRT   CHJ12 RK           N36512079E127400206                                                                                 
+SASIEAENRT   CHJ15 RK           N36433955E127310620                                                                                 
+SASIEAENRT   CHJ19 RK           N36223361E127283203                                                                                 
+SASIEAENRT   CHJ22 RK           N36304240E127182199                                                                                 
+SASIEAENRT   CHJ25 RK           N36384782E127181804                                                                                 
+SASIEAENRT   CHJ50 RK           N36533245E127423549                                                                                 
+SASIEAENRT   CHJ54 RK           N36512603E127414110                                                                                 
+SASIEAENRT   CHJ58 RK           N36520023E127442202                                                                                 
+SASIEAENRT   CHJ75 RK           N36472543E127445077                                                                                 
+SASIEAENRT   CHJ90 RK           N36442206E127482193                                                                                 
+SASIEAENRT   CHO10 RK           N36391823E127180716                                                                                 
+SASIEAENRT   CHO13 RK           N36510449E127422534                                                                                 
+SASIEAENRT   CHO14 RK           N36431741E127121362                                                                                 
+SASIEAENRT   CHO19 RK           N36432159E127060024                                                                                 
+SASIEAENRT   CHO23 RK           N36411292E127264253                                                                                 
+SASIEAENRT   CHO59 RK           N36445500E127323561                                                                                 
+SASIEAENRT   CHO69 RK           N36491006E127435731                                                                                 
+SASIEAENRT   CRANE RK           N36085979E129184277                                                                                 
+SASIEAENRT   CROWN RK           N36503091E127004841                                                                                 
+SASIEAENRT   DADGA RK           N35535410E126534700                                                                                 
+SASIEAENRT   DAEHA RK           N36292336E126551980                                                                                 
+SASIEAENRT   DAPTO RK           N37231310E1263311100                                                                                
+SASIEAENRT   DEMIS RK           N37391812E127375736                                                                                 
+SASIEAENRT   DENDY RK           N37465958E127404620                                                                                 
+SASIEAENRT   DOC06 RK           N35501904E128453806                                                                                 
+SASIEAENRT   DOC07 RK           N35501299E128453294                                                                                 
+SASIEAENRT   DOC08 RK           N35491170E128474028                                                                                 
+SASIEAENRT   DOC09 RK           N35490393E128473371                                                                                 
+SASIEAENRT   DOC10 RK           N35580871E128270939                                                                                 
+SASIEAENRT   DOC11 RK           N35495339E128545228                                                                                 
+SASIEAENRT   DOC12 RK           N35472027E128503475                                                                                 
+SASIEAENRT   DOC13 RK           N35473062E128504352                                                                                 
+SASIEAENRT   DOC14 RK           N35481792E128540575                                                                                 
+SASIEAENRT   DOC18 RK           N35531396E128401999                                                                                 
+SASIEAENRT   DOC21 RK           N35473202E128505422                                                                                 
+SASIEAENRT   DOC25 RK           N35524827E128410100                                                                                 
+SASIEAENRT   DOC27 RK           N35524187E128412307                                                                                 
+SASIEAENRT   DOC31 RK           N35462320E128524561                                                                                 
+SASIEAENRT   DOC70 RK           N35501871E128454729                                                                                 
+SASIEAENRT   DOC80 RK           N35491205E128475013                                                                                 
+SASIEAENRT   DOC99 RK           N35461111E128523536                                                                                 
+SASIEAENRT   DRAGN RK           N37130589E127245746                                                                                 
+SASIEAENRT   ENKAS RK           N37291600E1272251100                                                                                
+SASIEAENRT   FODIL RK           N36574227E126594938                                                                                 
+SASIEAENRT   GAYAH RK           N35165610E128562600                                                                                 
+SASIEAENRT   GOGVE RK           N36553909E127044869                                                                                 
+SASIEAENRT   GOTLO RK           N36500910E1275751100                                                                                
+SASIEAENRT   HALRO RK           N36543774E127153635                                                                                 
+SASIEAENRT   HARAH RK           N37521674E127424260                                                                                 
+SASIEAENRT   HEKAT RK           N36572307E127000428                                                                                 
+SASIEAENRT   HGS03 RK           N37273722E127545484                                                                                 
+SASIEAENRT   HGS07 RK           N37221473E127543887                                                                                 
+SASIEAENRT   HGS10 RK           N37252664E127463315                                                                                 
+SASIEAENRT   HGS37 RK           N37315289E128003243                                                                                 
+SASIEAENRT   HONEY RK           N36582064E128074814                                                                                 
+SASIEAENRT   HUMPE RK           N36544168E127060726                                                                                 
+SASIEAENRT   IGDOK RK           N35310400E1274905100                                                                                
+SASIEAENRT   JABRA RK           N36535453E127163924                                                                                 
+SASIEAENRT   JADOO RK           N35233055E127134488                                                                                 
+SASIEAENRT   JEWEL RK           N36093350E126344500                                                                                 
+SASIEAENRT   JINBU RK           N37402710E1283509100                                                                                
+SASIEAENRT   JIYNG RK           N35152536E128472835                                                                                 
+SASIEAENRT   JUICE RK           N35551376E128493285                                                                                 
+SASIEAENRT   JULOP RK           N35395842E126404956                                                                                 
+SASIEAENRT   JWN00 RK           N37045585E127524580                                                                                 
+SASIEAENRT   JWN03 RK           N36585887E127533865                                                                                 
+SASIEAENRT   JWN05 RK           N36565935E127534024                                                                                 
+SASIEAENRT   JWN07 RK           N36545855E127531262                                                                                 
+SASIEAENRT   JWN09 RK           N36525839E127530740                                                                                 
+SASIEAENRT   JWN10 RK           N37045936E127533877                                                                                 
+SASIEAENRT   JWN11 RK           N36552952E128194628                                                                                 
+SASIEAENRT   JWN12 RK           N36500101E127542296                                                                                 
+SASIEAENRT   JWN14 RK           N36535588E128043844                                                                                 
+SASIEAENRT   JWN15 RK           N37002810E127532698                                                                                 
+SASIEAENRT   JWN16 RK           N36505491E127592165                                                                                 
+SASIEAENRT   JWN18 RK           N37000497E127532594                                                                                 
+SASIEAENRT   JWN19 RK           N36495814E127525959                                                                                 
+SASIEAENRT   JWN22 RK           N37153138E128151475                                                                                 
+SASIEAENRT   JWN25 RK           N37172183E128181314                                                                                 
+SASIEAENRT   JWN30 RK           N37202574E128231079                                                                                 
+SASIEAENRT   JWN33 RK           N37045879E127531129                                                                                 
+SASIEAENRT   JWN40 RK           N36515490E128072495                                                                                 
+SASIEAENRT   JWN50 RK           N36565871E127531784                                                                                 
+SASIEAENRT   JWN51 RK           N37003575E127531860                                                                                 
+SASIEAENRT   JWN60 RK           N37111337E128081905                                                                                 
+SASIEAENRT   JWN65 RK           N36480881E128004908                                                                                 
+SASIEAENRT   JWN70 RK           N36545944E127535279                                                                                 
+SASIEAENRT   JWN74 RK           N36472404E127580216                                                                                 
+SASIEAENRT   JWN80 RK           N36500470E127553582                                                                                 
+SASIEAENRT   JWN82 RK           N36470227E127552810                                                                                 
+SASIEAENRT   JWN90 RK           N37050006E128204562                                                                                 
+SASIEAENRT   JWN91 RK           N36465789E127525178                                                                                 
+SASIEAENRT   KACHI RK           N35162080E128565300                                                                                 
+SASIEAENRT   KAE05 RK           N37452688E128494986                                                                                 
+SASIEAENRT   KAE14 RK           N37552664E128502360                                                                                 
+SASIEAENRT   KALMA RK           N37182110E1270733100                                                                                
+SASIEAENRT   KALOD RK           N35301100E1284624100                                                                                
+SASIEAENRT   KAN09 RK           N37454581E128581117                                                                                 
+SASIEAENRT   KANGA RK           N37353500E1264449100                                                                                
+SASIEAENRT   KARBU RK           N37320910E127394600                                                                                 
+SASIEAENRT   KASKO RK           N37073310E1272627100                                                                                
+SASIEAENRT   KAYGE RK           N37044832E126541502                                                                                 
+SASIEAENRT   KELLY RK           N37140140E126445281                                                                                 
+SASIEAENRT   KHE07 RK           N35035743E128553109                                                                                 
+SASIEAENRT   KHE15 RK           N35084171E128563203                                                                                 
+SASIEAENRT   KHE16 RK           N35014898E128392597                                                                                 
+SASIEAENRT   KHE31 RK           N35153892E128504465                                                                                 
+SASIEAENRT   KIP01 RK           N37324386E126482374                                                                                 
+SASIEAENRT   KIP03 RK           N37353458E126445105                                                                                 
+SASIEAENRT   KIP04 RK           N37303702E126510473                                                                                 
+SASIEAENRT   KIP05 RK           N37295449E126515805                                                                                 
+SASIEAENRT   KIP08 RK           N37384492E126405951                                                                                 
+SASIEAENRT   KIP09 RK           N37265767E126552269                                                                                 
+SASIEAENRT   KIP27 RK           N37315428E126334908                                                                                 
+SASIEAENRT   KIP32 RK           N37365954E126430413                                                                                 
+SASIEAENRT   KIP36 RK           N37365000E126432600                                                                                 
+SASIEAENRT   KIP38 RK           N37290754E126524571                                                                                 
+SASIEAENRT   KIP39 RK           N37253105E126570726                                                                                 
+SASIEAENRT   KITTY RK           N37441879E127251563                                                                                 
+SASIEAENRT   KMH04 RK           N35071854E128564037                                                                                 
+SASIEAENRT   KMH09 RK           N35034941E128570766                                                                                 
+SASIEAENRT   KMH10 RK           N35035844E128570936                                                                                 
+SASIEAENRT   KMH30 RK           N35163792E128423871                                                                                 
+SASIEAENRT   KMH38 RK           N35080979E128563726                                                                                 
+SASIEAENRT   KMH45 RK           N35071950E128564921                                                                                 
+SASIEAENRT   KMH98 RK           N35035034E128571695                                                                                 
+SASIEAENRT   KODOK RK           N36470765E126412552                                                                                 
+SASIEAENRT   KOG06 RK           N37434016E128494909                                                                                 
+SASIEAENRT   KPO02 RK           N35591429E129225867                                                                                 
+SASIEAENRT   KPO04 RK           N35591268E129210771                                                                                 
+SASIEAENRT   KPO06 RK           N35591050E129183977                                                                                 
+SASIEAENRT   KRATT RK           N36500994E127123097                                                                                 
+SASIEAENRT   KSM02 RK           N37240833E127061047                                                                                 
+SASIEAENRT   KSM03 RK           N37230650E127062875                                                                                 
+SASIEAENRT   KSM04 RK           N37220642E127062613                                                                                 
+SASIEAENRT   KSM06 RK           N37320471E127073184                                                                                 
+SASIEAENRT   KSM07 RK           N37330112E127080841                                                                                 
+SASIEAENRT   KSM10 RK           N37355870E127084783                                                                                 
+SASIEAENRT   KSM13 RK           N37385628E127092730                                                                                 
+SASIEAENRT   KSM18 RK           N37412372E127183815                                                                                 
+SASIEAENRT   KSM19 RK           N37275921E127070152                                                                                 
+SASIEAENRT   KSM25 RK           N37383394E127112396                                                                                 
+SASIEAENRT   KSM99 RK           N37330437E127074105                                                                                 
+SASIEAENRT   KUZ06 RK           N35484602E126382049                                                                                 
+SASIEAENRT   KUZ09 RK           N36022983E126345903                                                                                 
+SASIEAENRT   KUZ12 RK           N35552528E126364010                                                                                 
+SASIEAENRT   KUZ15 RK           N35530944E126370585                                                                                 
+SASIEAENRT   KUZ16 RK           N35531103E126371224                                                                                 
+SASIEAENRT   KUZ36 RK           N35552516E126363474                                                                                 
+SASIEAENRT   KUZ65 RK           N35403510E126431707                                                                                 
+SASIEAENRT   KWA04 RK           N35111038E126505244                                                                                 
+SASIEAENRT   KWA06 RK           N35014107E126440527                                                                                 
+SASIEAENRT   KWA07 RK           N35135249E126522890                                                                                 
+SASIEAENRT   KWA10 RK           N35154055E126533326                                                                                 
+SASIEAENRT   KWA12 RK           N34563718E126405557                                                                                 
+SASIEAENRT   KWA13 RK           N35172860E126543767                                                                                 
+SASIEAENRT   KWA14 RK           N35134229E127040619                                                                                 
+SASIEAENRT   KWA15 RK           N34523556E126470860                                                                                 
+SASIEAENRT   KWA19 RK           N34563823E126400690                                                                                 
+SASIEAENRT   KWA20 RK           N34575276E126380854                                                                                 
+SASIEAENRT   KWA25 RK           N35085527E126493215                                                                                 
+SASIEAENRT   KWA27 RK           N34573489E126383359                                                                                 
+SASIEAENRT   KWA34 RK           N35225269E126575119                                                                                 
+SASIEAENRT   KWA41 RK           N35215104E127000370                                                                                 
+SASIEAENRT   KWA52 RK           N35023209E126451195                                                                                 
+SASIEAENRT   KWA58 RK           N35181648E127045315                                                                                 
+SASIEAENRT   KWA75 RK           N35014963E126443430                                                                                 
+SASIEAENRT   KWA80 RK           N35060341E126473227                                                                                 
+SASIEAENRT   KWJ02 RK           N34480366E126403079                                                                                 
+SASIEAENRT   KWJ04 RK           N35231994E127022463                                                                                 
+SASIEAENRT   KWJ06 RK           N35014941E126443477                                                                                 
+SASIEAENRT   KWJ10 RK           N35151409E126551229                                                                                 
+SASIEAENRT   KWJ11 RK           N34563693E126405652                                                                                 
+SASIEAENRT   KWJ12 RK           N35165129E126563864                                                                                 
+SASIEAENRT   KWJ14 RK           N34563859E126435312                                                                                 
+SASIEAENRT   KWJ15 RK           N34531723E126405362                                                                                 
+SASIEAENRT   KWJ16 RK           N34572905E126413183                                                                                 
+SASIEAENRT   KWJ17 RK           N35175007E127041044                                                                                 
+SASIEAENRT   KWJ18 RK           N35084509E126492745                                                                                 
+SASIEAENRT   KWJ19 RK           N34494626E126355254                                                                                 
+SASIEAENRT   KWJ20 RK           N35121678E127113679                                                                                 
+SASIEAENRT   KWJ21 RK           N34565875E126424746                                                                                 
+SASIEAENRT   KWJ22 RK           N34431755E126383868                                                                                 
+SASIEAENRT   KWJ23 RK           N34463581E126303694                                                                                 
+SASIEAENRT   KWJ25 RK           N34440327E126360977                                                                                 
+SASIEAENRT   KWJ26 RK           N34452569E126325113                                                                                 
+SASIEAENRT   KWJ43 RK           N35205423E127001478                                                                                 
+SASIEAENRT   KWJ49 RK           N35220047E127042384                                                                                 
+SASIEAENRT   KWJ50 RK           N35193463E127021210                                                                                 
+SASIEAENRT   KWJ55 RK           N35171060E127013892                                                                                 
+SASIEAENRT   KWJ56 RK           N35130399E126522895                                                                                 
+SASIEAENRT   KWJ60 RK           N35115962E126521975                                                                                 
+SASIEAENRT   KWJ97 RK           N35061059E126473877                                                                                 
+SASIEAENRT   KWJ98 RK           N35012461E126454584                                                                                 
+SASIEAENRT   LATEP RK           N35541210E1290451100                                                                                
+SASIEAENRT   LIMPT RK           N36554562E127204208                                                                                 
+SASIEAENRT   LOTUS RK           N37183221E126354362                                                                                 
+SASIEAENRT   LUCKY RK           N36003544E126354725                                                                                 
+SASIEAENRT   MADOO RK           N37314327E126344834                                                                                 
+SASIEAENRT   MALPA RK           N36440510E126365820                                                                                 
+SASIEAENRT   MIKKI RK           N35555510E128553600                                                                                 
+SASIEAENRT   MOKLI RK           N37060081E127203142                                                                                 
+SASIEAENRT   MOKPO RK           N34402299E126264386                                                                                 
+SASIEAENRT   MUDNG RK           N35145047E127232769                                                                                 
+SASIEAENRT   NAMDO RK           N35251010E1290951100                                                                                
+SASIEAENRT   NAMHE RK           N35024810E1274641100                                                                                
+SASIEAENRT   NCN01 RK           N37374778E126182494                                                                                 
+SASIEAENRT   NCN03 RK           N37320757E126233609                                                                                 
+SASIEAENRT   NCN05 RK           N37312013E126242170                                                                                 
+SASIEAENRT   NCN06 RK           N37320911E126233803                                                                                 
+SASIEAENRT   NCN07 RK           N37325809E126225434                                                                                 
+SASIEAENRT   NCN09 RK           N37343602E126212692                                                                                 
+SASIEAENRT   NCN10 RK           N37213514E126331186                                                                                 
+SASIEAENRT   NCN12 RK           N37195778E126344020                                                                                 
+SASIEAENRT   NCN13 RK           N37374447E126181766                                                                                 
+SASIEAENRT   NCN15 RK           N37253848E126293073                                                                                 
+SASIEAENRT   NCN16 RK           N37162521E126343893                                                                                 
+SASIEAENRT   NCN30 RK           N37293448E126253511                                                                                 
+SASIEAENRT   NCN31 RK           N37263035E126281894                                                                                 
+SASIEAENRT   NCN33 RK           N37332686E126213958                                                                                 
+SASIEAENRT   NCN34 RK           N37333549E126215246                                                                                 
+SASIEAENRT   NCN50 RK           N37311245E126240781                                                                                 
+SASIEAENRT   NCN60 RK           N37240818E126302520                                                                                 
+SASIEAENRT   NCN61 RK           N37161797E126342145                                                                                 
+SASIEAENRT   NCN62 RK           N37320144E126232414                                                                                 
+SASIEAENRT   NCN70 RK           N37231915E126310871                                                                                 
+SASIEAENRT   NCN72 RK           N37325041E126224045                                                                                 
+SASIEAENRT   NCN96 RK           N37263807E126283272                                                                                 
+SASIEAENRT   NCN97 RK           N37241590E126303899                                                                                 
+SASIEAENRT   NCN98 RK           N37232687E126312250                                                                                 
+SASIEAENRT   NCN99 RK           N37244087E126295825                                                                                 
+SASIEAENRT   NEMTE RK           N36463569E127054425                                                                                 
+SASIEAENRT   NIKET RK           N35074610E127350700                                                                                 
+SASIEAENRT   NOSNG RK           N36401253E127452587                                                                                 
+SASIEAENRT   NPH01 RK           N35591694E129254577                                                                                 
+SASIEAENRT   NPH11 RK           N35591019E129105797                                                                                 
+SASIEAENRT   NPH29 RK           N36013901E129111842                                                                                 
+SASIEAENRT   NUMDA RK           N36441210E1265922100                                                                                
+SASIEAENRT   OFR01 RK           N37345384E126453375                                                                                 
+SASIEAENRT   OFR04 RK           N37364929E126431039                                                                                 
+SASIEAENRT   OFR07 RK           N37391461E126400968                                                                                 
+SASIEAENRT   OKISA RK           N35515000E1273651100                                                                                
+SASIEAENRT   OKOLI RK           N35573496E126360239                                                                                 
+SASIEAENRT   OSCAR RK           N37061014E127264625                                                                                 
+SASIEAENRT   OSN02 RK           N37055586E127052990                                                                                 
+SASIEAENRT   OSN03 RK           N37045949E126580556                                                                                 
+SASIEAENRT   OSN08 RK           N37051857E127002601                                                                                 
+SASIEAENRT   OSN09 RK           N37062601E127125856                                                                                 
+SASIEAENRT   OSN10 RK           N37045791E127203116                                                                                 
+SASIEAENRT   OSN11 RK           N37041083E127202738                                                                                 
+SASIEAENRT   OSN12 RK           N36555435E126524628                                                                                 
+SASIEAENRT   OSN13 RK           N37051727E127001108                                                                                 
+SASIEAENRT   OSN14 RK           N37053492E127032445                                                                                 
+SASIEAENRT   OSN16 RK           N37135933E126444695                                                                                 
+SASIEAENRT   OSN20 RK           N36454013E127051507                                                                                 
+SASIEAENRT   OSN22 RK           N37051120E126590393                                                                                 
+SASIEAENRT   OSN27 RK           N37050570E126580432                                                                                 
+SASIEAENRT   OSN28 RK           N37244039E126413607                                                                                 
+SASIEAENRT   OSN29 RK           N37053959E127051679                                                                                 
+SASIEAENRT   OSN31 RK           N37160606E126403132                                                                                 
+SASIEAENRT   OSN61 RK           N37060637E127091489                                                                                 
+SASIEAENRT   OSN62 RK           N37054528E127051630                                                                                 
+SASIEAENRT   OSN63 RK           N37053535E127032442                                                                                 
+SASIEAENRT   OSN75 RK           N37101191E127153688                                                                                 
+SASIEAENRT   OSN88 RK           N37060208E127052868                                                                                 
+SASIEAENRT   OSN90 RK           N37055861E127130117                                                                                 
+SASIEAENRT   OTARE RK           N36561842E127034881                                                                                 
+SASIEAENRT   PAMSL RK           N35092300E1281951100                                                                                
+SASIEAENRT   PAROT RK           N36204010E128501600                                                                                 
+SASIEAENRT   PATLA RK           N36164320E128014320                                                                                 
+SASIEAENRT   PATRO RK           N36231200E126570200                                                                                 
+SASIEAENRT   PEACH RK           N37321244E127215651                                                                                 
+SASIEAENRT   PHREY RK           N36562995E127033590                                                                                 
+SASIEAENRT   PLSNR RK           N37054318E127091679                                                                                 
+SASIEAENRT   POSCO RK           N36075619E129161672                                                                                 
+SASIEAENRT   PSN05 RK           N35071880E128535299                                                                                 
+SASIEAENRT   PSN15 RK           N35163869E128453210                                                                                 
+SASIEAENRT   PSN25 RK           N35014510E128430210                                                                                 
+SASIEAENRT   PSN27 RK           N35070708E128414122                                                                                 
+SASIEAENRT   PTK12 RK           N36520278E127141219                                                                                 
+SASIEAENRT   PTK13 RK           N36571371E127022973                                                                                 
+SASIEAENRT   PTK14 RK           N36485129E127105149                                                                                 
+SASIEAENRT   PYONG RK           N36560564E127042872                                                                                 
+SASIEAENRT   QUAIL RK           N37222569E127372713                                                                                 
+SASIEAENRT   R1761 RK           N37290220E126262456                                                                                 
+SASIEAENRT   R1762 RK           N37285444E126261082                                                                                 
+SASIEAENRT   R1763 RK           N37271521E126273908                                                                                 
+SASIEAENRT   R1764 RK           N37272297E126275282                                                                                 
+SASIEAENRT   R1767 RK           N36433120E127303914                                                                                 
+SASIEAENRT   R1768 RK           N37273150E127065520                                                                                 
+SASIEAENRT   R1769 RK           N36572115E127022410                                                                                 
+SASIEAENRT   R1770 RK           N35545721E126364682                                                                                 
+SASIEAENRT   R1771 RK           N35532983E126370761                                                                                 
+SASIEAENRT   R1772 RK           N36413541E126285081                                                                                 
+SASIEAENRT   R1773 RK           N35531200E128401560                                                                                 
+SASIEAENRT   R1774 RK           N37052162E127005127                                                                                 
+SASIEAENRT   R1775 RK           N37053082E127024180                                                                                 
+SASIEAENRT   R1776 RK           N37341307E126464232                                                                                 
+SASIEAENRT   R1777 RK           N37340474E126463192                                                                                 
+SASIEAENRT   R1778 RK           N37325047E1264825100                                                                                
+SASIEAENRT   R1780 RK           N35095468E128561979                                                                                 
+SASIEAENRT   R2239 RK           N35054638E128045454                                                                                 
+SASIEAENRT   R2283 RK           N35101012E128562600                                                                                 
+SASIEAENRT   R2586 RK           N35065311E126480745                                                                                 
+SASIEAENRT   RE078 RK           N37052986E127015051                                                                                 
+SASIEAENRT   ROCKY RK           N35484578E126382056                                                                                 
+SASIEAENRT   SAC02 RK           N35034522E128020062                                                                                 
+SASIEAENRT   SAC03 RK           N35034747E128015793                                                                                 
+SASIEAENRT   SAC05 RK           N35074512E128081836                                                                                 
+SASIEAENRT   SAC06 RK           N35081955E128091832                                                                                 
+SASIEAENRT   SAC07 RK           N35010024E127582769                                                                                 
+SASIEAENRT   SAC08 RK           N35005501E127583396                                                                                 
+SASIEAENRT   SAC09 RK           N35100281E128121835                                                                                 
+SASIEAENRT   SAC10 RK           N34593029E127540487                                                                                 
+SASIEAENRT   SAC11 RK           N34581291E127545769                                                                                 
+SASIEAENRT   SAC12 RK           N34580469E127550753                                                                                 
+SASIEAENRT   SAC16 RK           N34552548E127512792                                                                                 
+SASIEAENRT   SAC17 RK           N35135491E128183628                                                                                 
+SASIEAENRT   SAC20 RK           N35070011E128070166                                                                                 
+SASIEAENRT   SAC21 RK           N35060524E128052456                                                                                 
+SASIEAENRT   SAC24 RK           N34571450E127493827                                                                                 
+SASIEAENRT   SAC25 RK           N34591627E127481061                                                                                 
+SASIEAENRT   SAC28 RK           N35041419E128021457                                                                                 
+SASIEAENRT   SAC30 RK           N35063625E128061849                                                                                 
+SASIEAENRT   SAC39 RK           N35033267E128010285                                                                                 
+SASIEAENRT   SAC40 RK           N34564907E127500082                                                                                 
+SASIEAENRT   SAC41 RK           N34570170E127494941                                                                                 
+SASIEAENRT   SAC42 RK           N35071071E128071845                                                                                 
+SASIEAENRT   SAC51 RK           N34551428E127514135                                                                                 
+SASIEAENRT   SAC70 RK           N35085399E128101834                                                                                 
+SASIEAENRT   SAC72 RK           N35114763E128200531                                                                                 
+SASIEAENRT   SAC80 RK           N35011422E127570392                                                                                 
+SASIEAENRT   SAN04 RK           N36384190E126274902                                                                                 
+SASIEAENRT   SAN05 RK           N36384881E126271967                                                                                 
+SASIEAENRT   SAN06 RK           N36364473E126271549                                                                                 
+SASIEAENRT   SAN12 RK           N36305321E126253509                                                                                 
+SASIEAENRT   SAN15 RK           N36281368E126232969                                                                                 
+SASIEAENRT   SAN17 RK           N36405663E126282761                                                                                 
+SASIEAENRT   SAN20 RK           N36275743E126244499                                                                                 
+SASIEAENRT   SAN21 RK           N36385194E126270894                                                                                 
+SASIEAENRT   SAN40 RK           N36384182E126271359                                                                                 
+SASIEAENRT   SAN51 RK           N36410759E126283579                                                                                 
+SASIEAENRT   SAN60 RK           N36365237E126261207                                                                                 
+SASIEAENRT   SAN90 RK           N36303575E126280938                                                                                 
+SASIEAENRT   SAN92 RK           N36273781E126271885                                                                                 
+SASIEAENRT   SAN99 RK           N36312395E126230779                                                                                 
+SASIEAENRT   SANDY RK           N37291980E126345880                                                                                 
+SASIEAENRT   SAPDI RK           N35073810E128295200                                                                                 
+SASIEAENRT   SAPKY RK           N36322623E126365409                                                                                 
+SASIEAENRT   SARSE RK           N36501452E127123724                                                                                 
+SASIEAENRT   SCN07 RK           N35001961E127592707                                                                                 
+SASIEAENRT   SCN10 RK           N35154830E128031270                                                                                 
+SASIEAENRT   SCN15 RK           N34540008E127532796                                                                                 
+SASIEAENRT   SCN18 RK           N35042613E1280320100                                                                                
+SASIEAENRT   SCN20 RK           N34560545E128015779                                                                                 
+SASIEAENRT   SCN22 RK           N34500273E127494397                                                                                 
+SASIEAENRT   SCN25 RK           N34575732E127571230                                                                                 
+SASIEAENRT   SCN45 RK           N35174173E128155942                                                                                 
+SASIEAENRT   SCN51 RK           N35204673E128022789                                                                                 
+SASIEAENRT   SCN65 RK           N35024270E127464989                                                                                 
+SASIEAENRT   SCN99 RK           N34511242E128003590                                                                                 
+SASIEAENRT   SEL06 RK           N37222310E126485014                                                                                 
+SASIEAENRT   SEL08 RK           N37263777E126455531                                                                                 
+SASIEAENRT   SEL11 RK           N37202037E126430642                                                                                 
+SASIEAENRT   SEL19 RK           N37374764E126381275                                                                                 
+SASIEAENRT   SEL23 RK           N37391093E126400058                                                                                 
+SASIEAENRT   SIGMA RK           N34443263E127442727                                                                                 
+SASIEAENRT   SILVR RK           N36342882E128585306                                                                                 
+SASIEAENRT   SINSA RK           N36500910E1272049100                                                                                
+SASIEAENRT   SKP01 RK           N37321838E126490716                                                                                 
+SASIEAENRT   SKP06 RK           N37284612E126533428                                                                                 
+SASIEAENRT   SKP08 RK           N37272116E126552101                                                                                 
+SASIEAENRT   SKP09 RK           N37261743E126564101                                                                                 
+SASIEAENRT   SKP11 RK           N37250943E126580631                                                                                 
+SASIEAENRT   SOL02 RK           N37234447E127060144                                                                                 
+SASIEAENRT   SOL06 RK           N37314178E127071499                                                                                 
+SASIEAENRT   SOL07 RK           N37322163E127091184                                                                                 
+SASIEAENRT   SOL10 RK           N37355453E127082441                                                                                 
+SASIEAENRT   SOL14 RK           N37385938E127120438                                                                                 
+SASIEAENRT   SOL15 RK           N37235243E127250159                                                                                 
+SASIEAENRT   SOL20 RK           N37235012E127053074                                                                                 
+SASIEAENRT   SOL25 RK           N37280589E127072118                                                                                 
+SASIEAENRT   SOL27 RK           N37351210E127102573                                                                                 
+SASIEAENRT   SOL70 RK           N37325659E127075076                                                                                 
+SASIEAENRT   SOL98 RK           N37235995E127234683                                                                                 
+SASIEAENRT   SOL99 RK           N37231465E127311531                                                                                 
+SASIEAENRT   SONGL RK           N36342532E127453064                                                                                 
+SASIEAENRT   STANN RK           N37072589E127264037                                                                                 
+SASIEAENRT   STOUT RK           N37060320E127091562                                                                                 
+SASIEAENRT   SWN07 RK           N37091576E127060384                                                                                 
+SASIEAENRT   SWN11 RK           N37054870E127084160                                                                                 
+SASIEAENRT   SWN12 RK           N37050092E127092819                                                                                 
+SASIEAENRT   SWN15 RK           N37131771E127012219                                                                                 
+SASIEAENRT   SWN16 RK           N37015135E127123218                                                                                 
+SASIEAENRT   SWN17 RK           N37130908E127013227                                                                                 
+SASIEAENRT   SWN20 RK           N36594312E127170758                                                                                 
+SASIEAENRT   SWN25 RK           N36560259E127212213                                                                                 
+SASIEAENRT   SWN30 RK           N37063568E127075574                                                                                 
+SASIEAENRT   SWN33 RK           N37165086E126575514                                                                                 
+SASIEAENRT   SWN34 RK           N37165421E126580135                                                                                 
+SASIEAENRT   SWN45 RK           N37070371E127083726                                                                                 
+SASIEAENRT   SWN51 RK           N37112224E127032227                                                                                 
+SASIEAENRT   SWN52 RK           N37112022E127031940                                                                                 
+SASIEAENRT   SWN61 RK           N37023943E127134365                                                                                 
+SASIEAENRT   SWN70 RK           N37085791E127053732                                                                                 
+SASIEAENRT   SWN82 RK           N37152985E127045447                                                                                 
+SASIEAENRT   TAG01 RK           N35532058E128401730                                                                                 
+SASIEAENRT   TAG02 RK           N35482975E128484486                                                                                 
+SASIEAENRT   TAG05 RK           N35511592E129025573                                                                                 
+SASIEAENRT   TAG06 RK           N35504911E128444454                                                                                 
+SASIEAENRT   TAG07 RK           N35500939E128454509                                                                                 
+SASIEAENRT   TAG09 RK           N35490358E128474390                                                                                 
+SASIEAENRT   TAG11 RK           N35505522E128552037                                                                                 
+SASIEAENRT   TAG12 RK           N35482233E128541698                                                                                 
+SASIEAENRT   TAG13 RK           N35425155E128585542                                                                                 
+SASIEAENRT   TAG14 RK           N35554713E128554021                                                                                 
+SASIEAENRT   TAG15 RK           N35572730E128203200                                                                                 
+SASIEAENRT   TAG19 RK           N35463310E129012120                                                                                 
+SASIEAENRT   TAG20 RK           N35443922E129001540                                                                                 
+SASIEAENRT   TAG21 RK           N35472207E128504674                                                                                 
+SASIEAENRT   TAG25 RK           N35482631E128513502                                                                                 
+SASIEAENRT   TAG29 RK           N35562042E128263247                                                                                 
+SASIEAENRT   TAG30 RK           N35395447E129110472                                                                                 
+SASIEAENRT   TAG31 RK           N35564939E128332283                                                                                 
+SASIEAENRT   TAG33 RK           N35461418E128524927                                                                                 
+SASIEAENRT   TAG35 RK           N36034071E128345640                                                                                 
+SASIEAENRT   TAG70 RK           N35504792E128460936                                                                                 
+SASIEAENRT   TAG71 RK           N35500882E128454920                                                                                 
+SASIEAENRT   TAG72 RK           N35501123E128454189                                                                                 
+SASIEAENRT   TAG74 RK           N36015349E129011572                                                                                 
+SASIEAENRT   TAG91 RK           N35492298E128492480                                                                                 
+SASIEAENRT   TAG92 RK           N35461521E128524998                                                                                 
+SASIEAENRT   TAG94 RK           N35483064E128484602                                                                                 
+SASIEAENRT   TAG95 RK           N35495130E128481967                                                                                 
+SASIEAENRT   TAG97 RK           N35472959E128534519                                                                                 
+SASIEAENRT   TEDAN RK           N35074400E1271851100                                                                                
+SASIEAENRT   TEENA RK           N37065762E127202693                                                                                 
+SASIEAENRT   TERCO RK           N36541298E127064980                                                                                 
+SASIEAENRT   TGU10 RK           N35394994E128292977                                                                                 
+SASIEAENRT   TGU13 RK           N35360837E128400684                                                                                 
+SASIEAENRT   TGU18 RK           N36061835E128394148                                                                                 
+SASIEAENRT   TGU81 RK           N36051921E128270750                                                                                 
+SASIEAENRT   TIKME RK           N36512969E127103913                                                                                 
+SASIEAENRT   TIMAY RK           N37043422E126542276                                                                                 
+SASIEAENRT   TOLCI RK           N35561019E126550388                                                                                 
+SASIEAENRT   TUKNE RK           N36513284E127104371                                                                                 
+SASIEAENRT   VAPKA RK           N36270600E127490900                                                                                 
+SASIEAENRT   VENUS RK           N35073500E1273427100                                                                                
+SASIEAENRT   VIPIR RK           N35435281E126394340                                                                                 
+SASIEAENRT   WNJ03 RK           N37252601E127572560                                                                                 
+SASIEAENRT   WNJ04 RK           N37243057E127565612                                                                                 
+SASIEAENRT   WNJ07 RK           N37213863E127554759                                                                                 
+SASIEAENRT   WNJ09 RK           N37194808E127544749                                                                                 
+SASIEAENRT   WNJ10 RK           N37374483E128024529                                                                                 
+SASIEAENRT   WNJ11 RK           N37175122E127540974                                                                                 
+SASIEAENRT   WNJ13 RK           N37150065E127525646                                                                                 
+SASIEAENRT   WNJ14 RK           N37170393E127480534                                                                                 
+SASIEAENRT   WNJ15 RK           N37421233E128054434                                                                                 
+SASIEAENRT   WNJ17 RK           N37155319E128034137                                                                                 
+SASIEAENRT   WNJ18 RK           N37135881E128042771                                                                                 
+SASIEAENRT   WNJ19 RK           N37131537E127575987                                                                                 
+SASIEAENRT   WNJ20 RK           N37140903E127521349                                                                                 
+SASIEAENRT   WNJ21 RK           N37165856E127533045                                                                                 
+SASIEAENRT   WNJ25 RK           N37512928E128102922                                                                                 
+SASIEAENRT   WNJ30 RK           N37373378E128032234                                                                                 
+SASIEAENRT   WNJ99 RK           N37133133E127550406                                                                                 
+SASIEAENRT   WONKO RK           N37241105E126585936                                                                                 
+SASIEAENRT   YCN01 RK           N36375657E1282305100                                                                                
+SASIEAENRT   YCN04 RK           N36365937E128341353                                                                                 
+SASIEAENRT   YCN05 RK           N36375221E128280456                                                                                 
+SASIEAENRT   YCN06 RK           N36372492E128291688                                                                                 
+SASIEAENRT   YCN07 RK           N36380876E128130999                                                                                 
+SASIEAENRT   YCN08 RK           N36371217E128314521                                                                                 
+SASIEAENRT   YCN09 RK           N36343971E128321384                                                                                 
+SASIEAENRT   YCN10 RK           N36340740E128102572                                                                                 
+SASIEAENRT   YCN11 RK           N36365296E128352768                                                                                 
+SASIEAENRT   YCN12 RK           N36452645E128333834                                                                                 
+SASIEAENRT   YCN15 RK           N36362715E128402426                                                                                 
+SASIEAENRT   YCN20 RK           N36355461E128463490                                                                                 
+SASIEAENRT   YCN25 RK           N36352174E128524546                                                                                 
+SASIEAENRT   YCN31 RK           N36421593E128145440                                                                                 
+SASIEAENRT   YCN35 RK           N36285920E128364371                                                                                 
+SASIEAENRT   YCN40 RK           N36375436E128265001                                                                                 
+SASIEAENRT   YCN80 RK           N36381923E128115536                                                                                 
+SASIEAENRT   YEDNG RK           N36295241E126385081                                                                                 
+SASIDB       LC    RK000257     N37450000E1285659100                                                                                
+SASIDB       UT    RK000330     N35584110E1292505100                                                                                
+SASIDB       RE    RK000381     N36574127E127014668                                                                                 
+SASIDB       CW    RK000351     N36335350E127295060                                                                                 
+SASIDB       SK    RK000378     N38080910E128355200                                                                                 
+SASIDB       US    RK000335     N35343365E129211153                                                                                 
+SASIDB       WJ    RK000274     N37214200E127543700                                                                                 
+SASID        SEL   RK011550V    N37245000E1265542100                                                                                
+SASID        PSN   RK011400V    N35072420E128595890                                                                                 
+SASID        CHO   RK010900V    N36430400E127293900                                                                                 
+SASID        TGU   RK011220V    N35483600E1283526100                                                                                
+SASID        DOC   RK011650V    N35541446E128382980                                                                                 
+SASID        KOG   RK011350V    N37453183E128570095                                                                                 
+SASID        KAE   RK011560V    N37420200E1284512100                                                                                
+SASID        KMH   RK011380V    N35115690E128560820                                                                                 
+SASID        KIP   RK011360V    N37332710E126473130                                                                                 
+SASID        KWA   RK011440V    N35073420E1264843100                                                                                
+SASID        ICN   RK011720V    N37120610E127285719                                                                                 
+SASID        NCN   RK011380V    N37294170E126254920                                                                                 
+SASID        KUZ   RK011280V    N35543732E126364092                                                                                 
+SASID        NSN   RK011750V    N36160110E127070800                                                                                 
+SASID        OSN   RK011470V    N37053084E127014709                                                                                 
+SASID        NPH   RK010960V    N35591096E129243178                                                                                 
+SASID        PTK   RK010820V    N36580395E127011513                                                                                 
+SASID        SAC   RK011510V    N35055282E128043577                                                                                 
+SASID        KSM   RK011300V    N37260673E127063664                                                                                 
+SASID        SCH   RK011100V    N38085200E1283603100                                                                                
+SASID        USN   RK011140V    N35355460E129211180                                                                                 
+SASID        HGS   RK011020V    N37283210E1275829100                                                                                
+SASID        YJU   RK011490V    N37445270E126591770                                                                                 
+SASID        YAG   RK011060V    N38034760E128394140                                                                                 
+SASID        CUN   RK011480V    N36375530E128193140                                                                                 
+SASID        YSU   RK011570V    N34503430E127370880                                                                                 
+SASID        IMDG  RK011110 D   N35065980E126481800                                                                                 
+SASID        IKNG  RK011150 D   N37445154E128553100                                                                                 
+SASID        IYAN  RK010930 D   N38031319E128403001                                                                                 
+SASID        IKMA  RK010850 D   N35114770E128560808                                                                                 
+SASID        IKHE  RK010950 D   N35114830E128561352                                                                                 
+SASID        ISAM  RK010910 D   N35054899E128050498                                                                                 
+SASID        IULS  RK011030 D   N35343500E129211139                                                                                 
+SASID        ISLL  RK011190 D   N37271371E126275720                                                                                 
+SASID        ISRR  RK010910 D   N37270890E126274841                                                                                 
+SASID        INLL  RK010930 D   N37290370E126260640                                                                                 
+SASID        INRR  RK010890 D   N37290850E126261500                                                                                 
+SASID        IOFR  RK010870 D   N37340140E126464520                                                                                 
+SASID        IKMO  RK010830 D   N37325720E126475111                                                                                 
+SASID        ISKP  RK011070 D   N37325630E126481289                                                                                 
+SASID        IKPO  RK011090 D   N35591690E129260357                                                                                 
+SASID        ITAG  RK010870 D   N35535510E128384201                                                                                 
+SASID        IDAG  RK011190 D   N35541372E128383872                                                                                 
+SASID        ICHG  RK011170 D   N36422910E127290301                                                                                 
+SASID        SEL   RK011550 D   N37245000E1265542100                                                                                
+SASID        PSN   RK011400 D   N35072420E128595890                                                                                 
+SASID        CHO   RK010900 D   N36430400E127293900                                                                                 
+SASID        TGU   RK011220 D   N35483600E1283526100                                                                                
+SASID        DOC   RK011650 D   N35541446E128382980                                                                                 
+SASID        KOG   RK011350 D   N37453183E128570095                                                                                 
+SASID        KAE   RK011560 D   N37420200E1284512100                                                                                
+SASID        KMH   RK011380 D   N35115690E128560820                                                                                 
+SASID        KIP   RK011360 D   N37332710E126473130                                                                                 
+SASID        KWA   RK011440 D   N35073420E1264843100                                                                                
+SASID        NCN   RK011380 D   N37294170E126254920                                                                                 
+SASID        KUZ   RK011280 D   N35543732E126364092                                                                                 
+SASID        NSN   RK011750 D   N36160110E127070800                                                                                 
+SASID        OSN   RK011470 D   N37053084E127014709                                                                                 
+SASID        NPH   RK010960 D   N35591096E129243178                                                                                 
+SASID        PTK   RK010820 D   N36580395E127011513                                                                                 
+SASID        SAC   RK011510 D   N35055282E128043577                                                                                 
+SASID        KSM   RK011300 D   N37260673E127063664                                                                                 
+SASID        SCH   RK011100 D   N38085200E1283603100                                                                                
+SASID        USN   RK011140 D   N35355460E129211180                                                                                 
+SASID        HGS   RK011020 D   N37283210E1275829100                                                                                
+SASID        YJU   RK011490 D   N37445270E126591770                                                                                 
+SASID        YAG   RK011060 D   N38034760E128394140                                                                                 
+SASID        CUN   RK011480 D   N36375530E128193140                                                                                 
+SASID        YSU   RK011570 D   N34503430E127370880                                                                                 
+SASID        CHJ   RK011050 D   N36423360E127294980                                                                                 
+SASID        TAG   RK011780 D   N35540576E128383291                                                                                 
+SASID        KAN   RK011190 D   N37452910E128570600                                                                                 
+SASID        KHE   RK011700 D   N35105110E1285659100                                                                                
+SASID        KWJ   RK011410 D   N35070779E126480138                                                                                 
+SASID        JWN   RK011130 D   N37015912E127533091                                                                                 
+SASID        SCN   RK011000 D   N35055144E128044206                                                                                 
+SASID        SAN   RK011150 D   N36423622E126285615                                                                                 
+SASID        SOL   RK011090 D   N37254380E127061980                                                                                 
+SASID        SWN   RK010850 D   N37142367E127000529                                                                                 
+SASID        WNJ   RK011160 D   N37281653E127583922                                                                                 
+SASID        YCN   RK010890 D   N36380286E128215181                                                                                 
+SASIER       Y64         0010BELMIRKEA      O                                      08000     60000                                  
+SASIER       Y64         0020BOGAN  EA      O                             0246     08000     60000                                  
+SASIER       A582-       0010BELMIRKEA      O                                      04500     60000                                  
+SASIER       A582-       0020OSN  RKD       O                             0075     04500     60000                                  
+SASIER       G585        0010BIGOBRKEA      O                                      08000     60000                                  
+SASIER       G585        0020CUN  RKD       O                             0097     08000     60000                                  
+SASIER       G585        0030PAROTRKEA      O                             0302     08000     60000                                  
+SASIER       G585        0040KPO    D       O                             0379     08000     60000                                  
+SASIER       A586        0020PSN  RKD       O                             0635     31000     60000                                  
+SASIER       A586        0030TOPAX  EA      O                             0327     31000     60000                                  
+SASIER       G597        0100KAE  RKD       O                             0301     07500     60000                                  
+SASIER       G597        0110JINBURKEA      O                             0081     07500     60000                                  
+SASIER       G597        0120KARBURKEA      O                             0447     07500     60000                                  
+SASIER       G597        0130ENKASRKEA      O                             0137     07500     60000                                  
+SASIER       G597        0140SEL  RKD       O                             0220     08000     60000                                  
+SASIER       G597        0150DAPTORKEA      O                             0180     08000     60000                                  
+SASIER       G597        0160NOPIK  EA      O                             0430     08000     60000                                  
+SASIER       V549        0010DADGARKEA      OL                                     07000     10000                                  
+SASIER       V549        0020KUZ  RKD       OL                            0139     07000     10000                                  
+SASIER       G203        0040PSN  RKD       O                             0437     08000     60000                                  
+SASIER       V543        0010KWA  RKD       OL                                     08000     60000                                  
+SASIER       V543        0020TEDANRKEA      OL                            0247     08000     60000                                  
+SASIER       V543        0030NIKETRKEA      OL                            0133     08000     60000                                  
+SASIER       V543        0040SAPDIRKEA      OL                            0448     08000     60000                                  
+SASIER       V543        0050PSN  RKD       OL                            0246     00700     60000                                  

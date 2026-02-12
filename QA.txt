@@ -1,0 +1,34 @@
+SMESEAENRT   ALD03 OT           N25053490E051193298                                                                                 
+SMESEAENRT   ALD04 OT           N25043908E051195780                                                                                 
+SMESEAENRT   ALD05 OT           N25130146E051161419                                                                                 
+SMESEAENRT   ALD07 OT           N25015159E051211222                                                                                 
+SMESEAENRT   ALD09 OT           N24595993E051220180                                                                                 
+SMESEAENRT   ALD10 OT           N25174052E051140974                                                                                 
+SMESEAENRT   ALD12 OT           N24571243E051231614                                                                                 
+SMESEAENRT   ALD17 OT           N24561975E051183305                                                                                 
+SMESEAENRT   ALD31 OT           N25154227E051104634                                                                                 
+SMESEAENRT   ALD33 OT           N25120564E051163906                                                                                 
+SMESEAENRT   ALD40 OT           N25022812E051205561                                                                                 
+SMESEAENRT   ALD70 OT           N25145308E051152443                                                                                 
+SMESEAENRT   DOH05 OT           N25190797E051322139                                                                                 
+SMESEAENRT   DOH10 OT           N25231904E051302963                                                                                 
+SMESEAENRT   DOH30 OT           N25164848E051332343                                                                                 
+SMESEAENRT   DOH35 OT           N25240324E051342625                                                                                 
+SMESEAENRT   DOH68 OT           N25202050E051314912                                                                                 
+SMESEAENRT   DOH99 OT           N25115276E051353305                                                                                 
+SMESEAENRT   LAGNO OT           N25161300E051151800                                                                                 
+SMESEAENRT   MAKIN OT           N25231935E051302964                                                                                 
+SMESEAENRT   PASID OT           N25583610E0511932100                                                                                
+SMESEAENRT   R1809 OT           N25060582E051191899                                                                                 
+SMESEAENRT   R2229 OT           N25143080E051342450                                                                                 
+SMESD        ALD   OT011520V    N25082237E051181848                                                                                 
+SMESD        DOH   OT011240V    N25140107E051343782                                                                                 
+SMESD        IBD   OT010950 D   N25144220E051342444                                                                                 
+SMESD        MBH   OT011130 D   N25061511E051191025                                                                                 
+SMESD        ALD   OT011520 D   N25082237E051181848                                                                                 
+SMESD        DOH   OT011240 D   N25140107E051343782                                                                                 
+SMESER       A415        0010DOH  OTD       O                                      04500     46000                                  
+SMESER       A415        0020LAGNOOTEA      O                             0176     04500     46000                                  
+SMESER       A415        0030SALWAOEEA      O                             0403     15000     46000                                  
+SMESER       L305        0010DOH  OTD       O                                      14500     46000                                  
+SMESER       L305        0020SISOK  EA      O                             0569     14500     46000                                  

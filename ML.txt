@@ -1,0 +1,229 @@
+SAFREAENRT   AMLAN GA           N13454710W010101800                                                                                 
+SAFREAENRT   AMSEN GA           N22000000W0060701100                                                                                
+SAFREAENRT   AMTAK GA           N14440910W010595300                                                                                 
+SAFREAENRT   APERO GA           N16150000E0021619100                                                                                
+SAFREAENRT   BIDOK GA           N12495900W009154600                                                                                 
+SAFREAENRT   BIDOM GA           N17174200E003305500                                                                                 
+SAFREAENRT   BIGET GA           N14413500W0085021100                                                                                
+SAFREAENRT   BKO03 GA           N12310890W007582509                                                                                 
+SAFREAENRT   BKO04 GA           N12303653W007591688                                                                                 
+SAFREAENRT   BKO05 GA           N12355042W007505437                                                                                 
+SAFREAENRT   BKO06 GA           N12293178W008010045                                                                                 
+SAFREAENRT   BKO08 GA           N12280759W008031507                                                                                 
+SAFREAENRT   BKO18 GA           N12381100W007381519                                                                                 
+SAFREAENRT   BKO28 GA           N12192596W008081626                                                                                 
+SAFREAENRT   BKO31 GA           N12331836W007545790                                                                                 
+SAFREAENRT   BKO33 GA           N12342307W007531428                                                                                 
+SAFREAENRT   BUNVO GA           N14380010W0064748100                                                                                
+SAFREAENRT   DEKAT GA           N12395610W007444290                                                                                 
+SAFREAENRT   DENIS GA           N13115200W009072300                                                                                 
+SAFREAENRT   DERON GA           N15270500E0003706100                                                                                
+SAFREAENRT   EBSUD GA           N11300610W0051453100                                                                                
+SAFREAENRT   EDAMO GA           N10473910W006523500                                                                                 
+SAFREAENRT   EDGIB GA           N12273300W004313600                                                                                 
+SAFREAENRT   EDUBA GA           N18300000E0021937100                                                                                
+SAFREAENRT   ENINO GA           N13044210W0102551100                                                                                
+SAFREAENRT   ENOLU GA           N13102410W0064328100                                                                                
+SAFREAENRT   EPITI GA           N12290510W005223100                                                                                 
+SAFREAENRT   ETRUL GA           N15503210W0005851100                                                                                
+SAFREAENRT   GARAN GA           N13470200W008270900                                                                                 
+SAFREAENRT   GASMI GA           N14035610W004584800                                                                                 
+SAFREAENRT   GASON GA           N16150000E003090500                                                                                 
+SAFREAENRT   GATAM GA           N12253550W008065590                                                                                 
+SAFREAENRT   ILDAD GA           N17125110E0001256100                                                                                
+SAFREAENRT   INAMA GA           N19075910E004100000                                                                                 
+SAFREAENRT   INEPA GA           N16150000E0020218100                                                                                
+SAFREAENRT   KOSIL GA           N14382500W007000000                                                                                 
+SAFREAENRT   KOSOM GA           N14560410W0030719100                                                                                
+SAFREAENRT   LUKNA GA           N17440410W0015317100                                                                                
+SAFREAENRT   MELAP GA           N12414010W006343100                                                                                 
+SAFREAENRT   MEVAL GA           N15175200W0002326100                                                                                
+SAFREAENRT   MINVO GA           N12032400W0063944100                                                                                
+SAFREAENRT   MOKAT GA           N20555910E001100000                                                                                 
+SAFREAENRT   MOLAS GA           N18434900W004294400                                                                                 
+SAFREAENRT   MOPAL GA           N11174700W0082510100                                                                                
+SAFREAENRT   NAMAX GA           N16150000E0032945100                                                                                
+SAFREAENRT   NAPTU GA           N12305900W0063402100                                                                                
+SAFREAENRT   OPARA GA           N14402300W0080517100                                                                                
+SAFREAENRT   OPULU GA           N16243410W0032313100                                                                                
+SAFREAENRT   PILTI GA           N15170600W002181400                                                                                 
+SAFREAENRT   PITMA GA           N12490800W005231700                                                                                 
+SAFREAENRT   POTAL GA           N11234010W007140800                                                                                 
+SAFREAENRT   POTOL GA           N21203910W0035214100                                                                                
+SAFREAENRT   RIPUL GA           N13430500W0053951100                                                                                
+SAFREAENRT   SEPAT GA           N14122900W006002900                                                                                 
+SAFREAENRT   SISTU GA           N13195410W011400000                                                                                 
+SAFREAENRT   SOLMA GA           N19230300W004485000                                                                                 
+SAFREAENRT   SONKO GA           N15051200W0024605100                                                                                
+SAFREAENRT   TAVIL GA           N18084400W001254400                                                                                 
+SAFREAENRT   TISEN GA           N24110410W0060915100                                                                                
+SAFREAENRT   TOBAS GA           N14015010W009595300                                                                                 
+SAFREAENRT   UBAMI GA           N20405510W0032116100                                                                                
+SAFREAENRT   UNOTA GA           N15505700E000173500                                                                                 
+SAFREAENRT   VOLBU GA           N14240500W002270500                                                                                 
+SAFREAENRT   VOLNA GA           N10375400W008000000                                                                                 
+SAFREAENRT   VOMEL GA           N14352000W0053339100                                                                                
+SAFREAENRT   XUMIL GA           N18340400W001443900                                                                                 
+SAFREAENRT   ZAWAT GA           N19000900E0033250100                                                                                
+SAFRDB       BM    GA000301     N12311730W007580720                                                                                 
+SAFRDB       TZI   GA000364     N16142110W000012410                                                                                 
+SAFRDB       GM    GA000258     N16210175W003360086                                                                                 
+SAFRDB       TZJ   GA000343     N14255340W011254220                                                                                 
+SAFRDB       MNT   GA000239     N13150260W010310150                                                                                 
+SAFRDB       MO    GA000395     N14303960W004051640                                                                                 
+SAFRDB       NO    GA000270     N15140203W009350142                                                                                 
+SAFRDB       TZE   GA000299     N20152530E000591740                                                                                 
+SAFRDB       TB    GA000268     N16434940W002595120                                                                                 
+SAFRD        BKO   GA011370V    N12324510W007554970                                                                                 
+SAFRD        GAO   GA011230V    N16141630W000013540                                                                                 
+SAFRD        KAY   GA011670V    N14284470W011251830                                                                                 
+SAFRD        MTI   GA011550V    N14313380W0040352100                                                                                
+SAFRD        SKO   GA011650V    N11353110W005485670                                                                                 
+SAFRD        TBT   GA011730V    N16440240W003001210                                                                                 
+SAFRD        IBS   GA010950 D   N12314576W007573051                                                                                 
+SAFRD        BKO   GA011370 D   N12324510W007554970                                                                                 
+SAFRD        KAY   GA011670 D   N14284470W011251830                                                                                 
+SAFRD        SKO   GA011650 D   N11353110W005485670                                                                                 
+SAFRD        TBT   GA011730 D   N16440240W003001210                                                                                 
+SAFRER       G854G       0170EDAMOGAEA      O                                      06500     24500                                  
+SAFRER       G854G       0180VOLNAGAEA      O                             0670     06500     24500                                  
+SAFRER       A601F       0030EBSUDGAEA      O                             0570     05500     24500                                  
+SAFRER       A601F       0040MINVOGAEA      O                             0895     05500     24500                                  
+SAFRER       A601F       0050BKO  GAD       O                             0800     05500     24500                                  
+SAFRER       A601F       0060BIDOKGAEA      O                             0799     05500     24500                                  
+SAFRER       A601F       0070ENINOGAEA      O                             0699     05500     24500                                  
+SAFRER       A601F       0080SISTUGAEA      O                             0738     05500     24500                                  
+SAFRER       A601F       0090TD   GOD       O                             1190     03500     24500                                  
+SAFRER       B727        0010BKO  GAD       O                                      05500     24500                                  
+SAFRER       B727        0020UBATIGUEA      O                             0801     05500     24500                                  
+SAFRER       G851F       0050EDAMOGAEA      O                             0496     05500     24500                                  
+SAFRER       G851F       0060POTALGAEA      O                             0418     05500     24500                                  
+SAFRER       G851F       0070BKO  GAD       O                             0803     05500     24500                                  
+SAFRER       G851F       0080GARANGAEA      O                             0803     05500     24500                                  
+SAFRER       G851F       0090BIGETGAEA      O                             0590     05500     24500                                  
+SAFRER       G851F       0100KONADGQEA      O                             2152     05500     24500                                  
+SAFRER       G859        0050MOKATGAEA      O                                      05500     24500                                  
+SAFRER       G859        0060ROFERDAEA      O                             1295     05500     24500                                  
+SAFRER       A600F       0010DENISGAEA      O                                      06500     24500                                  
+SAFRER       A600F       0020BKO  GAD       O                             0800     06500     24500                                  
+SAFRER       A600F       0030MELAPGAEA      O                             0799     06500     24500                                  
+SAFRER       A600F       0040PITMAGAEA      O                             0699     06500     24500                                  
+SAFRER       A600F       0050ONUSIDFEA      O                             0655     06500     24500                                  
+SAFRER       A600F       0160KAY  GAD       O                             1434     04500     24500                                  
+SAFRER       A612G       0020BKO  GAD       O                             0805     04500     24500                                  
+SAFRER       A612G       0030ENOLUGAEA      O                             0800     04500     24500                                  
+SAFRER       A612G       0040RIPULGAEA      O                             0700     04500     24500                                  
+SAFRER       A612G       0050GASMIGAEA      O                             0450     04500     24500                                  
+SAFRER       A612G       0060MTI  GAD       O                             0600     04500     24500                                  
+SAFRER       A612G       0070KOSOMGAEA      O                             0600     06500     24500                                  
+SAFRER       A612G       0080PILTIGAEA      O                             0519     06500     24500                                  
+SAFRER       A612G       0090ETRULGAEA      O                             0835     06500     24500                                  
+SAFRER       A612G       0100GAO  GAD       O                             0600     06500     24500                                  
+SAFRER       G860        0010BKO  GAD       O                                      06500     24500                                  
+SAFRER       G860        0020NAPTUGAEA      O                             0799     06500     24500                                  
+SAFRER       G860        0030EPITIGAEA      O                             0699     06500     24500                                  
+SAFRER       G860        0040EDGIBGAEA      O                             0498     06500     24500                                  
+SAFRER       G860        0050KOKANDFEA      O                             0837     06500     24500                                  
+SAFRER       R981        0010GAO  GAD       O                                      04500     24500                                  
+SAFRER       R981        0020DERONGAEA      O                             0602     04500     24500                                  
+SAFRER       R981        0030GALET  EA      O                             0697     04500     24500                                  
+SAFRER       G859F       0010ILDADGAEA      O                                      06500     24500                                  
+SAFRER       G859F       0020GAO  GAD       O                             0603     06500     24500                                  
+SAFRER       G859F       0030MEVALGAEA      O                             0602     04500     24500                                  
+SAFRER       G859F       0040GULIMDFEA      O                             1085     04500     24500                                  
+SAFRER       G859F       0050MOKATGAEA      O                                      06500     24500                                  
+SAFRER       G859F       0060TZE  GAD       O                             0418     06500     24500                                  
+SAFRER       UA601       0120ENINOGAEA      O                             1082     24500     46000                                  
+SAFRER       UA601       0130BKO  GAD       O                             1499     24500     46000                                  
+SAFRER       UA601       0140EBSUDGAEA      O                             1695     24500     46000                                  
+SAFRER       UA601       0150BD   DFD       O                             0570     24500     46000                                  
+SAFRER       UG854       0170EDAMOGAEA      O                                      24500     46000                                  
+SAFRER       UG854       0180VOLNAGAEA      O                             0670     24500     46000                                  
+SAFRER       UG854       0190KN   GUD       O                             0773     25000     60000                                  
+SAFRER       UB727       0030BKO  GAD       O                             0801     24500     46000                                  
+SAFRER       UB727       0040SEPATGAEA      O                             1502     24500     46000                                  
+SAFRER       UB727       0050VOMELGAEA      O                             0346     24500     46000                                  
+SAFRER       UB727       0060OPULUGAEA      O                             1666     24500     46000                                  
+SAFRER       UB727       0070TB   GAD       O                             0296     24500     46000                                  
+SAFRER       UB727       0080LUKNAGAEA      O                             0876     24500     46000                                  
+SAFRER       UB727       0090TAVILGAEA      O                             0360     24500     46000                                  
+SAFRER       UB727       0100TZE  GAD       O                             1867     24500     46000                                  
+SAFRER       UB727       0110TERASDAEA      O                             0525     24500     60000                                  
+SAFRER       UM725       0200TISENGAEA      O                             0562     31000     60000                                  
+SAFRER       UM725       0210SBITADAEA      O                             0833     31000     60000                                  
+SAFRER       UG855       0010INAMAGAEA      O                                      24500     46000                                  
+SAFRER       UG855       0020BIDOMGAEA      O                             1165     24500     46000                                  
+SAFRER       UG855       0030GASONGAEA      O                             0661     24500     46000                                  
+SAFRER       UG855       0040NY     D       O                             1749     24500     46000                                  
+SAFRER       UM114       0010NAMAXGAEA      O                                      31000     46000                                  
+SAFRER       UM114       0020BIDOMGAEA      O                             0628     31000     46000                                  
+SAFRER       UM114       0030ZAWATGAEA      O                             1025     31000     46000                                  
+SAFRER       UM114       0040RAMADDAEA      O                             1658     31000     60000                                  
+SAFRER       UG851       0030EDAMOGAEA      O                             0496     24500     46000                                  
+SAFRER       UG851       0040BKO  GAD       O                             1221     24500     46000                                  
+SAFRER       UG851       0050BIGETGAEA      O                             1394     24500     46000                                  
+SAFRER       UG851       0060UNADOGQEA      O                             1012     24500     46000                                  
+SAFRER       UM974       0010BIGETGAEA      O                                      24500     46000                                  
+SAFRER       UM974       0020OPARAGAEA      O                             0436     24500     46000                                  
+SAFRER       UM974       0030KOSILGAEA      O                             0632     24500     46000                                  
+SAFRER       UM974       0040BUNVOGAEA      O                             0118     24500     46000                                  
+SAFRER       UM974       0050VOMELGAEA      O                             0719     24500     46000                                  
+SAFRER       UM974       0060MTI  GAD       O                             0870     24500     46000                                  
+SAFRER       UM974       0070VOLBUGAEA      O                             0941     24500     46000                                  
+SAFRER       UM974       0080EPEPODFEA      O                             0949     24500     46000                                  
+SAFRER       UA614       0060VOLBUGAEA      O                             0802     24500     46000                                  
+SAFRER       UA614       0070PILTIGAEA      O                             0537     24500     46000                                  
+SAFRER       UA614       0080LUKNAGAEA      O                             1490     24500     46000                                  
+SAFRER       UA614       0090XUMILGAEA      O                             0507     24500     46000                                  
+SAFRER       UG859       0090GAO  GAD       O                             1371     24500     46000                                  
+SAFRER       UG859       0100TZE  GAD       O                             2481     24500     46000                                  
+SAFRER       UG859       0110MOKATGAEA      O                             0418     24500     60000                                  
+SAFRER       UG859       0120ROFERDAEA      O                             1295     24500     60000                                  
+SAFRER       UG852       0010MOPALGAEA      O                                      24500     46000                                  
+SAFRER       UG852       0020BKO  GAD       O                             0803     24500     46000                                  
+SAFRER       UG852       0030BUNVOGAEA      O                             1417     24500     46000                                  
+SAFRER       UG852       0040EBNILGQEA      O                             1100     24500     46000                                  
+SAFRER       UG852       0050MOLASGAEA      O                             1693     24500     46000                                  
+SAFRER       UG852       0060UBAMIGAEA      O                             1338     24500     46000                                  
+SAFRER       UG852       0070LISURDAEA      O                             1676     24500     46000                                  
+SAFRER       UG860       0010BKO  GAD       O                                      24500     46000                                  
+SAFRER       UG860       0020EDGIBGAEA      O                             1996     24500     46000                                  
+SAFRER       UG860       0030GUPOVDFEA      O                             1024     24500     46000                                  
+SAFRER       UB735       0010BKO  GAD       O                                      24500     46000                                  
+SAFRER       UB735       0020KOSILGAEA      O                             1370     24500     46000                                  
+SAFRER       UB735       0030ONTOLGQEA      O                             1054     24500     46000                                  
+SAFRER       UA612       0010GAO  GAD       O                                      24500     46000                                  
+SAFRER       UA612       0020PILTIGAEA      O                             1435     24500     46000                                  
+SAFRER       UA612       0030SONKOGAEA      O                             0294     24500     46000                                  
+SAFRER       UA612       0040MTI  GAD       O                             0824     24500     46000                                  
+SAFRER       UA612       0050RIPULGAEA      O                             1050     24500     46000                                  
+SAFRER       UA612       0060BKO  GAD       O                             1500     24500     46000                                  
+SAFRER       UA612       0070NEGLOGUEA      O                             0805     24500     46000                                  
+SAFRER       UM122       0010BKO  GAD       O                                      24500     46000                                  
+SAFRER       UM122       0020OPARAGAEA      O                             1280     24500     46000                                  
+SAFRER       UM122       0030EREMOGQEA      O                             0949     24500     46000                                  
+SAFRER       UA600       0010PITMAGAEA      O                                      24500     46000                                  
+SAFRER       UA600       0020BKO  GAD       O                             1498     24500     46000                                  
+SAFRER       UA600       0030TOBASGAEA      O                             1501     24500     46000                                  
+SAFRER       UR981       0030TISENGAEA      O                             1033     24500     46000                                  
+SAFRER       UR981       0040POTOLGAEA      O                             2123     24500     46000                                  
+SAFRER       UR981       0050UBAMIGAEA      O                             0492     24500     46000                                  
+SAFRER       UR981       0060XUMILGAEA      O                             1562     24500     46000                                  
+SAFRER       UR981       0070TAVILGAEA      O                             0311     24500     46000                                  
+SAFRER       UR981       0080GAO  GAD       O                             1400     24500     46000                                  
+SAFRER       UR981       0090UNOTAGAEA      O                             0297     24500     46000                                  
+SAFRER       UR866       0040OPULUGAEA      O                                      24500     46000                                  
+SAFRER       UR866       0050MOLASGAEA      O                             1531     24500     46000                                  
+SAFRER       UR866       0060SOLMAGAEA      O                             0432     24500     46000                                  
+SAFRER       UA600       0080PITMAGAEA      O                             0655     24500     46000                                  
+SAFRER       UG852       0060MOPALGAEA      O                                      25000     60000                                  
+SAFRER       UG852       0070KIMPOGUEA      O                             0648     25000     60000                                  
+SAFRER       UA603       0010GAO  GAD       O                                      24500     46000                                  
+SAFRER       UA603       0020LIPETDFEA      O                             1384     24500     46000                                  
+SAFRER       UR866       0030VOLBUGAEA      O                             0820     24500     46000                                  
+SAFRER       UR866       0040SONKOGAEA      O                             0451     24500     46000                                  
+SAFRER       UR866       0050OPULUGAEA      O                             0871     24500     46000                                  
+SAFRER       UR981       0030UNOTAGAEA      O                             1803     24500     46000                                  
+SAFRER       UB735       0020SOLMAGAEA      O                             2058     24500     46000                                  
+SAFRER       UB735       0030POTOLGAEA      O                             1291     24500     46000                                  
+SAFRER       UB735       0040USRUTDAEA      O                             1530     24500     46000                                  

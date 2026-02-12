@@ -1,0 +1,51 @@
+SASIEAENRT   ANIKU              N46012810E1085358100                                                                                
+SASIEAENRT   ARGAT              N46363199E1093446100                                                                                
+SASIEAENRT   DARNO              N50212400E098174200                                                                                 
+SASIEAENRT   DEGIR              N45502248E111110576                                                                                 
+SASIEAENRT   DORUT              N48115707E114513912                                                                                 
+SASIEAENRT   HATGA              N50391206E100080606                                                                                 
+SASIEAENRT   KENTA              N45215267E103072302                                                                                 
+SASIEAENRT   MENOR              N46295017E114015372                                                                                 
+SASIEAENRT   NIGOR              N50292400E091254800                                                                                 
+SASIEAENRT   NOPUS              N49375910E089260000                                                                                 
+SASIEAENRT   SERNA              N50183000E1062805100                                                                                
+SASIEAENRT   SILUS              N46483800E097123800                                                                                 
+SASIEAENRT   TEKOR              N45043603E099163186                                                                                 
+SASIEAENRT   TOMES              N49210000E0983459100                                                                                
+SASIEAENRT   URGAM              N48342382E094293224                                                                                 
+SASIDB       GA      000364     N46215110E0961727100                                                                                
+SASIDB       B       000425     N46221879E096144603                                                                                 
+SASIDB       OG      000350     N46124100E102511100                                                                                 
+SASIDB       B       000650     N46135832E102492940                                                                                 
+SASIDB       SB      000330     N46401870E113170480                                                                                 
+SASIDB       BH      000480     N46070900E1004350100                                                                                
+SASIDB       BU      000300     N48511529E103290790                                                                                 
+SASIDB       BS      000345     N46061400E0913450100                                                                                
+SASIDB       UG      000430     N43363245E104263261                                                                                 
+SASIDB       JA      000450     N47542963E091391919                                                                                 
+SASIDB       B       000650     N47555780E091391919                                                                                 
+SASIDB       HU      000390     N46551200E102453600                                                                                 
+SASIDB       MG      000455     N45443768E106155611                                                                                 
+SASIDB       MU      000570     N49391058E100102804                                                                                 
+SASIDB       DN      000380     N44541483E110073520                                                                                 
+SASIDB       TC      000325     N48442651E098152451                                                                                 
+SASIDB       TD      000495     N48585800E096321700                                                                                 
+SASIDB       DA      000315     N47524439E106430776                                                                                 
+SASIDB       B       000450     N47512532E106445214                                                                                 
+SASIDB       B       000383     N49570937E092031006                                                                                 
+SASIDB       US      000315     N49553539E092031006                                                                                 
+SASIDB       UN      000400     N47194902E110394995                                                                                 
+SASIDB       B       000650     N47185845E110380220                                                                                 
+SASID        UDA     011600V    N47520389E106440094                                                                                 
+SASID        UDA     011600 D   N47520389E106440094                                                                                 
+SASIER       G490        0110SERNA  EA      O                             0025     10800     39700                                  
+SASIER       B339        0010DEGIR  EA      O                                      25600     39700                                  
+SASIER       B339        0020POLHOZBEA      O                             1078     25600     39700                                  
+SASIER       G218        0010DORUT  EA      O                                      07900     39700                                  
+SASIER       G218        0020MENOR  EA      O                             1076     07900     39700                                  
+SASIER       G218        0030POLHOZBEA      O                             1080     13800     39700                                  
+SASIER       G588        0040JA     D       O                             0565     25600     39700                                  
+SASIER       G588        0050URGAM  EA      O                             1203     13800     39700                                  
+SASIER       G588        0060TOMES  EA      O                             1679     13800     39700                                  
+SASIER       G588        0070MU     D       O                             0647     13800     39700                                  
+SASIER       B951        0020NIGOR  EA      O                             0889     15800     39700                                  

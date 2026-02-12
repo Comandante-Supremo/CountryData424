@@ -1,0 +1,54 @@
+SEUREAENRT   GORAV              N43182900E019044000                                                                                 
+SEUREAENRT   MEDUX              N42445100E0200118100                                                                                
+SEUREAENRT   MODRA              N43002510E019351950                                                                                 
+SEUREAENRT   NEGOX              N42255450E018493080                                                                                 
+SEUREAENRT   PELEV              N42365960E019231040                                                                                 
+SEUREAENRT   PERAN              N43015700E0183956100                                                                                
+SEUREAENRT   RAKOR              N43185970E019303380                                                                                 
+SEUREAENRT   REKAR              N42193830E018594860                                                                                 
+SEUREAENRT   RESNA              N42302400E018512300                                                                                 
+SEUREAENRT   TUSER              N43092630E019200740                                                                                 
+SEURDB       BRN     000322     N42521620E019541230                                                                                 
+SEURDB       MOJ     000308     N42564070E019343190                                                                                 
+SEURDB       NIK     000302     N42463510E018552700                                                                                 
+SEURDB       POD     000335     N42231890E019151750                                                                                 
+SEURDB       DAN     000312     N42324200E019072460                                                                                 
+SEURD        POD     011300V    N42231030E019151660                                                                                 
+SEURD        TIV     011130 D   N42234560E018442890                                                                                 
+SEURD        POD     011300 D   N42231030E019151660                                                                                 
+SEURER       L604        0270POD    D       O                                      10000     28500                                  
+SEURER       L604        0280RETRALAEA      O                             0102     10000     28500                                  
+SEURER       W32         0020MODRA  EA      O                             0141     08100     28500                                  
+SEURER       W32         0030MOJ    D       O                             0038     08100     28500                                  
+SEURER       W32         0040POD    D       O                             0364     10100     28500                                  
+SEURER       L608        0130RAKOR  EA      O                             0073     09100     28500                                  
+SEURER       L608        0140PODOBLQEA      O                             0205     10000     28500                                  
+SEURER       W62         0130POD    D       O                             0304     07100     28500                                  
+SEURER       W47         0120POD    D       O                                      07100     28500                                  
+SEURER       W47         0130TAZ    D       O                             0211     07100     28500                                  
+SEURER       W36         0040POD    D       O                             0238     10100     28500                                  
+SEURER       M867        0030MEDUX  EA      O                             0596     11000     28500                                  
+SEURER       M867        0040MODRA  EA      O                             0246     11000     28500                                  
+SEURER       M867        0050TUSER  EA      O                             0143     11000     28500                                  
+SEURER       M867        0060GORAV  EA      O                             0145     10000     28500                                  
+SEURER       M867        0070RUDARLQEA      O                             0328     10000     28500                                  
+SEURER       G16-L       0030PERAN  EA      O                             0081     10000     28500                                  
+SEURER       G16-L       0040NIK    D       O                             0191     06100     28500                                  
+SEURER       G16-L       0050POD    D       O                             0276     10000     28500                                  
+SEURER       V100        0010NIK    D       OL                                     09100     28500                                  
+SEURER       V100        0020TUSER  EA      OL                            0291     09100     28500                                  
+SEURER       V100        0030RAKOR  EA      OL                            0122     09100     28500                                  
+SEURER       V100        0040RETKILYEA      OL                            0126     09100     28500                                  
+SEURER       UL604       0210POD    D       O                                      28500     45000                                  
+SEURER       UL604       0220NIK    D       O                             0276     29000     46000                                  
+SEURER       UL604       0230GAC  LQD       O                             0273     29000     46000                                  
+SEURER       UW32        0020MODRA  EA      O                             0141     28500     60000                                  
+SEURER       UW32        0030MOJ    D       O                             0038     28500     60000                                  
+SEURER       UW32        0040POD    D       O                             0364     28500     60000                                  
+SEURER       UW62        0270POD    D       O                             0304     28500     60000                                  
+SEURER       UM867       0030MODRA  EA      O                             0842     28500     60000                                  
+SEURER       UM867       0040GORAV  EA      O                             0288     29000     46000                                  
+SEURER       UM867       0050GILUKLQEA      O                             0540     29000     46000                                  
+SEURER       UW36        0040POD    D       O                             0238     28500     60000                                  
+SEURER       UL604       0010POD    D       O                                      28500     45000                                  
+SEURER       UL604       0020RETRALAEA      O                             0102     28500     45000                                  

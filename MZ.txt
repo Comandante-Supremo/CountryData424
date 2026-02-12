@@ -1,0 +1,257 @@
+SAFREAENRT   ANVUS FQ           S15281855E030440502                                                                                 
+SAFREAENRT   ATUSI FQ           S24342640E032184201                                                                                 
+SAFREAENRT   AVIDO FQ           S24385038E033171812                                                                                 
+SAFREAENRT   AXALO FQ           S23235669E032072999                                                                                 
+SAFREAENRT   AXEMO FQ           S23451460E034045420                                                                                 
+SAFREAENRT   AXIBO FQ           S17314026E035400635                                                                                 
+SAFREAENRT   BASAR FQ           S15325883E032101800                                                                                 
+SAFREAENRT   BONAP FQ           S11380700E037392707                                                                                 
+SAFREAENRT   DAVOR FQ           S22094500E034004219                                                                                 
+SAFREAENRT   DVL04 FQ           S14310313E033210512                                                                                 
+SAFREAENRT   DVL20 FQ           S14340514E033275012                                                                                 
+SAFREAENRT   DVL25 FQ           S14384776E033440973                                                                                 
+SAFREAENRT   DVL55 FQ           S13202900E034370000                                                                                 
+SAFREAENRT   DVL56 FQ           S13311975E034363801                                                                                 
+SAFREAENRT   EGPON FQ           S24302041E032453006                                                                                 
+SAFREAENRT   EKEOT FQ           S23222670E032530007                                                                                 
+SAFREAENRT   ELEPA FQ           S14564501E033043509                                                                                 
+SAFREAENRT   ESPOP FQ           S15000499E033160011                                                                                 
+SAFREAENRT   ETKAV FQ           S14500504E030385985                                                                                 
+SAFREAENRT   GEPIS FQ           S17242829E035423635                                                                                 
+SAFREAENRT   GESAS FQ           S21463910E033032409                                                                                 
+SAFREAENRT   IBSAX FQ           S15402279E038581267                                                                                 
+SAFREAENRT   IMLIT FQ           S23300866E033304814                                                                                 
+SAFREAENRT   IMTAG FQ           S24425036E033250613                                                                                 
+SAFREAENRT   IMVIT FQ           S17235830E034034219                                                                                 
+SAFREAENRT   ITMAL FQ           S20581531E034261823                                                                                 
+SAFREAENRT   ITMIX FQ           S25433843E031565601                                                                                 
+SAFREAENRT   KAPON FQ           S19125436E033414181                                                                                 
+SAFREAENRT   KATAK FQ           S17443910E033002300                                                                                 
+SAFREAENRT   KAVAL FQ           S15321683E033581218                                                                                 
+SAFREAENRT   KEPOK FQ           S15271110E030222600                                                                                 
+SAFREAENRT   KOBAT FQ           S18354156E034275507                                                                                 
+SAFREAENRT   KURLA FQ           S21570310E031455980                                                                                 
+SAFREAENRT   KUSKI FQ           S13252346E034520026                                                                                 
+SAFREAENRT   KUTAB FQ           S16330454E034064819                                                                                 
+SAFREAENRT   LABLO FQ           S15573471E034063019                                                                                 
+SAFREAENRT   LAKLA FQ           S19020984E033204212                                                                                 
+SAFREAENRT   LC094 FQ           S14384810E034274400                                                                                 
+SAFREAENRT   LC131 FQ           S15115600E034091400                                                                                 
+SAFREAENRT   LONON FQ           S13380540E035013028                                                                                 
+SAFREAENRT   MENSO FQ           S18465190E032500590                                                                                 
+SAFREAENRT   MIROS FQ           S15380480E034000018                                                                                 
+SAFREAENRT   MOGAT FQ           S15354081E038511266                                                                                 
+SAFREAENRT   MUTAR FQ           S15000499E033430015                                                                                 
+SAFREAENRT   MUTRA FQ           S17220431E035020028                                                                                 
+SAFREAENRT   MUVAL FQ           S18535697E035481497                                                                                 
+SAFREAENRT   NAMDA FQ           S18360670E035180148                                                                                 
+SAFREAENRT   NAPLU FQ           S16365851E038555467                                                                                 
+SAFREAENRT   NIBOR FQ           S12360571E034454025                                                                                 
+SAFREAENRT   NIKEN FQ           S23375063E033504217                                                                                 
+SAFREAENRT   OBRAM FQ           S14484704E038401264                                                                                 
+SAFREAENRT   OKMAT FQ           S16181661E034202421                                                                                 
+SAFREAENRT   OKRUM FQ           S24193246E034463027                                                                                 
+SAFREAENRT   ORNAD FQ           S25550000E031580000                                                                                 
+SAFREAENRT   PARAB FQ           S14012328E036510646                                                                                 
+SAFREAENRT   PATAM FQ           S16485847E033520617                                                                                 
+SAFREAENRT   PB096 FQ           S11210608E040210079                                                                                 
+SAFREAENRT   RAKAT FQ           S14295313E039375473                                                                                 
+SAFREAENRT   ROVUM FQ           S11362400E035333033                                                                                 
+SAFREAENRT   TETEM FQ           S14430207E034204021                                                                                 
+SAFREAENRT   TEVAS FQ           S23151710E0340259100                                                                                
+SAFREAENRT   TEVAS FQ           S14221800E0320329100                                                                                
+SAFREAENRT   TONKA FQ           S26072510E0320617100                                                                                
+SAFREAENRT   UDKAT FQ           S21455710E034504227                                                                                 
+SAFREAENRT   USUBI FQ           S16301656E032320003                                                                                 
+SAFRDB       CH    FQ000282     S19061582E033260012                                                                                 
+SAFRDB       DO    FQ000387     S19372568E034445426                                                                                 
+SAFRDB       IN    FQ000400     S23520257E035240033                                                                                 
+SAFRDB       LC    FQ000345     S13170550E035130030                                                                                 
+SAFRDB       LP    FQ000343     S24350240E033040009                                                                                 
+SAFRDB       MU    FQ000405     S18562110E0323933100                                                                                
+SAFRDB       NP    FQ000382     S15040570E039200150                                                                                 
+SAFRDB       PB    FQ000280     S12570550E040300330                                                                                 
+SAFRDB       QL    FQ000267     S17491617E036520047                                                                                 
+SAFRDB       SO    FQ000290     S15350140E032455710                                                                                 
+SAFRDB       TZ    FQ000340     S16105052E033381927                                                                                 
+SAFRDB       UG    FQ000283     S14430507E034210021                                                                                 
+SAFRDB       VL    FQ000370     S21580305E035170032                                                                                 
+SAFRD        VLC   FQ011710V    S13170550E035131530                                                                                 
+SAFRD        VNP   FQ011390V    S15050570E039180150                                                                                 
+SAFRD        VQL   FQ011230V    S17510417E036520047                                                                                 
+SAFRD        VTZ   FQ011410V    S16073466E033382414                                                                                 
+SAFRD        VLC   FQ011710 D   S13170550E035131530                                                                                 
+SAFRD        VNP   FQ011390 D   S15050570E039180150                                                                                 
+SAFRD        VQL   FQ011230 D   S17510417E036520047                                                                                 
+SAFRER       W11         0320LC   FQD       O                                      10000     14500                                  
+SAFRER       W11         0330PARABFQEA      O                             1052     10000     14500                                  
+SAFRER       W11         0340OBRAMFQEA      O                             1159     10000     14500                                  
+SAFRER       W11         0350VNP  FQD       O                             0400     05500     14500                                  
+SAFRER       W19         0280VL   FQD       O                             1093     05000     14500                                  
+SAFRER       W14         0310KAVALFQEA      O                                      01000     24500                                  
+SAFRER       W14         0320LC131FQEA      O                             0230     01000     24500                                  
+SAFRER       W14         0330LC094FQEA      O                             0377     01000     24500                                  
+SAFRER       W14         0340LC043FWEA      O                             0495     01000     24500                                  
+SAFRER       W14         0350LONONFQEA      O                             0195     01000     24500                                  
+SAFRER       W14         0360MUTRAFQEA      O                                      05000     14500                                  
+SAFRER       W14         0370KUTABFQEA      O                             0721     05000     14500                                  
+SAFRER       W14         0380VTZ  FQD       O                             0373     05000     14500                                  
+SAFRER       W17         0230QL   FQD       O                                      05000     14500                                  
+SAFRER       W17         0240EXBER  EA      O                             1547     05000     14500                                  
+SAFRER       W17         0250UDKATFQEA      O                             1083     05000     14500                                  
+SAFRER       W17         0260TEVASFQEA      O                             0997     05000     14500                                  
+SAFRER       A400G       0010BASARFQEA      O                                      10000     25000                                  
+SAFRER       A400G       0020KEPOKFQEA      O                             1042     10000     25000                                  
+SAFRER       W18         0320VTZ  FQD       O                                      09000     14500                                  
+SAFRER       W18         0330KAVALFQEA      O                             0401     09000     14500                                  
+SAFRER       W18         0340LONONFQEA      O                             1297     09000     14500                                  
+SAFRER       W18         0350LC   FQD       O                             0238     09000     14500                                  
+SAFRER       W15         0400VL   FQD       O                             0577     06000     14500                                  
+SAFRER       UR782       0040DVL55FQEA      O                             0550     24500     60000                                  
+SAFRER       UR782       0050KUSKIFQEA      O                             0154     24500     60000                                  
+SAFRER       UR782       0060LC   FQD       O                             0221     26000     40000                                  
+SAFRER       UR782       0070SOLAL  EA      O                             3963     26000     40000                                  
+SAFRER       UA404       0020VTZ  FQD       O                             0589     25000     40000                                  
+SAFRER       UA404       0030LABLOFQEA      O                             0288     24500     60000                                  
+SAFRER       UA404       0040VCL  FWD       O                             0497     24500     60000                                  
+SAFRER       A404        0110LABLOFQEA      O                             0292     07000     24500                                  
+SAFRER       G657        0010BONAPFQEA      O                                      04000     14500                                  
+SAFRER       G657        0020PARABFQEA      O                             1509     04000     14500                                  
+SAFRER       G657        0030GEPISFQEA      O                             2137     04000     14500                                  
+SAFRER       G657        0040NAMDAFQEA      O                             0754     04000     14500                                  
+SAFRER       G657        0050VBR    D       O                             0752     04000     14500                                  
+SAFRER       G657        0060IMLITFQEA      O                                      04000     14500                                  
+SAFRER       G657        0070DAVORFQEA      O                             0850     04000     14500                                  
+SAFRER       G657        0080ITMALFQEA      O                             0754     04000     14500                                  
+SAFRER       G657        0090LP   FQD       O                                      04000     14500                                  
+SAFRER       G657        0100VMA    D       O                             0811     04000     14500                                  
+SAFRER       G657        0110TONKAFQEA      O                             0310     08000     14500                                  
+SAFRER       G653        0040ORNADFQEA      O                             0639     12500     20500                                  
+SAFRER       G652        0040KAPONFQEA      O                             0750     09000     14500                                  
+SAFRER       G652        0050LAKLAFQEA      O                             0226     09000     14500                                  
+SAFRER       G652        0060MENSOFQEA      O                             0328     09000     14500                                  
+SAFRER       B529        0050KURLAFQEA      O                                      12500     24500                                  
+SAFRER       B529        0060VMV  FVD       O                             1247     12500     24500                                  
+SAFRER       R782        0060DVL56FQEA      O                             0300     07000     24500                                  
+SAFRER       R782        0070KUSKIFQEA      O                             0161     07000     24500                                  
+SAFRER       B400        0010NIBORFQEA      O                                      07000     24500                                  
+SAFRER       B400        0020DVL03FWEA      O                             0415     07000     24500                                  
+SAFRER       B400        0060DVL04FQEA      O                             0300     07000     24500                                  
+SAFRER       B400        0070ELEPAFQEA      O                             0303     14500     24500                                  
+SAFRER       R410        0030TETEMFQEA      O                             0425     07500     24500                                  
+SAFRER       R410        0040VCL19FWEA      O                             0462     07500     24500                                  
+SAFRER       R410        0070OKMATFQEA      O                             0304     05000     24500                                  
+SAFRER       R409        0060DVL20FQEA      O                             0301     07500     24500                                  
+SAFRER       R409        0070ESPOPFQEA      O                             0284     14500     24500                                  
+SAFRER       R409        0080USUBIFQEA      O                             0997     08000     14500                                  
+SAFRER       G656        0050DVL25FQEA      O                             0301     07000     24500                                  
+SAFRER       G656        0060MUTARFQEA      O                             0213     07000     24500                                  
+SAFRER       G656-       0020EGPONFQEA      O                             0823     09000     14500                                  
+SAFRER       G656-       0030EKEOTFQEA      O                             0683     09000     14500                                  
+SAFRER       G656-       0040GESASFQEA      O                             0963     09000     14500                                  
+SAFRER       G656-       0050LAKLAFQEA      O                             1654     09000     14500                                  
+SAFRER       G656-       0060VTZ  FQD       O                             1755     09000     14500                                  
+SAFRER       G656-       0070MUTARFQEA      O                             0677     09000     14500                                  
+SAFRER       UG652       0080MENSOFQEA      O                                      14500     40000                                  
+SAFRER       UG652       0090LAKLAFQEA      O                             0328     14500     40000                                  
+SAFRER       UG652       0100KAPONFQEA      O                             0226     14500     40000                                  
+SAFRER       UG652       0110VBR    D       O                             0750     14500     40000                                  
+SAFRER       UR409       0090DVL20FQEA      O                             0496     24500     60000                                  
+SAFRER       UW14        0260MUTRAFQEA      O                                      14500     40000                                  
+SAFRER       UW14        0270KUTABFQEA      O                             0721     14500     40000                                  
+SAFRER       UW14        0280VTZ  FQD       O                             0373     14500     40000                                  
+SAFRER       A400-       0010KEPOKFQEA      O                                      05000     07500                                  
+SAFRER       A400-       0020TIMAX  EA      O                             0623     05000     07500                                  
+SAFRER       UW13-       0010KOBATFQEA      O                                      05500     14500                                  
+SAFRER       UW13-       0020VBR    D       O                             0752     05500     14500                                  
+SAFRER       UW13-       0030PATAMFQEA      O                                      05500     14500                                  
+SAFRER       UW13-       0040VTZ  FQD       O                             0435     05500     14500                                  
+SAFRER       R525        0010KURLAFQEA      O                                      12500     24500                                  
+SAFRER       R525        0020VSB  FVD       O                             2455     12500     24500                                  
+SAFRER       A400        0050MIROSFQEA      O                             0327     06000     24500                                  
+SAFRER       UW10-       0020MUVALFQEA      O                             0751     06000     14500                                  
+SAFRER       UW10-       0030QL   FQD       O                             0886     06000     14500                                  
+SAFRER       UW10-       0040MOGATFQEA      O                             1758     06000     14500                                  
+SAFRER       UW10-       0050VNP  FQD       O                             0401     06000     14500                                  
+SAFRER       UW10-       0060RAKATFQEA      O                             0401     06000     14500                                  
+SAFRER       UW10-       0070PB   FQD       O                             1058     06000     14500                                  
+SAFRER       UW10-       0080PB096FQEA      O                             0965     06000     14500                                  
+SAFRER       G653-       0010ORNADFQEA      O                                      08000     14500                                  
+SAFRER       G653-       0020VMA    D       O                             0346     08000     14500                                  
+SAFRER       A405D       0010TEVASFQEA      O                                      05000     11500                                  
+SAFRER       A405D       0020VMF02  EA      O                             0206     05000     11500                                  
+SAFRER       G657D       0010TONKAFQEA      O                                      09000     20500                                  
+SAFRER       G657D       0020VMS  FDD       O                             0481     09000     20500                                  
+SAFRER       UW10        0440MUVALFQEA      O                             0751     06000     40000                                  
+SAFRER       UW10        0450QL   FQD       O                             0886     06000     40000                                  
+SAFRER       UW10        0460MOGATFQEA      O                             1758     06000     40000                                  
+SAFRER       UW10        0470VNP  FQD       O                             0401     06000     40000                                  
+SAFRER       UW10        0480RAKATFQEA      O                             0401     06000     40000                                  
+SAFRER       UW10        0490PB   FQD       O                             1058     06000     40000                                  
+SAFRER       UW10        0500PB096FQEA      O                             0965     06000     40000                                  
+SAFRER       UW17        0130QL   FQD       O                                      14500     40000                                  
+SAFRER       UW17        0140EXBER  EA      O                             1547     14500     40000                                  
+SAFRER       UW17        0150UDKATFQEA      O                             1083     14500     40000                                  
+SAFRER       UW17        0160NIKENFQEA      O                             1249     14500     40000                                  
+SAFRER       UA400       0050NAPLUFQEA      O                             1630     14500     40000                                  
+SAFRER       UA400       0060MELNAFWEA      O                             1885     14500     40000                                  
+SAFRER       UA400       0080MIROSFQEA      O                             0530     14500     40000                                  
+SAFRER       UA400       0090BASARFQEA      O                             1059     14500     40000                                  
+SAFRER       UA400       0100KEPOKFQEA      O                             1042     14500     40000                                  
+SAFRER       UA400       0110TIMAX  EA      O                             0623     24500     60000                                  
+SAFRER       UW13        0190KOBATFQEA      O                                      14500     40000                                  
+SAFRER       UW13        0200VBR    D       O                             0752     14500     40000                                  
+SAFRER       UW13        0210PATAMFQEA      O                                      14500     40000                                  
+SAFRER       UW13        0220VTZ  FQD       O                             0435     14500     40000                                  
+SAFRER       UG657       0040BONAPFQEA      O                                      24500     60000                                  
+SAFRER       UG657       0050BOTENHTEA      O                             1988     24500     60000                                  
+SAFRER       UG657       0070DAVORFQEA      O                                      14500     40000                                  
+SAFRER       UG657       0080ITMALFQEA      O                             0754     14500     40000                                  
+SAFRER       UG657       0140NAMDAFQEA      O                                      14500     40000                                  
+SAFRER       UG657       0150GEPISFQEA      O                             0754     14500     40000                                  
+SAFRER       UG657       0160PARABFQEA      O                             2137     14500     40000                                  
+SAFRER       UG657       0170TONKAFQEA      O                                      14500     40000                                  
+SAFRER       UG657       0180VMA    D       O                             0310     14500     40000                                  
+SAFRER       UA408       0240ETKAVFQEA      O                                      25000     60000                                  
+SAFRER       UA408       0250GESUD  EA      O                             0240     25000     60000                                  
+SAFRER       UW15        0210VL   FQD       O                             0577     14500     40000                                  
+SAFRER       G657-       0010BONAPFQEA      O                                      14500     40000                                  
+SAFRER       G657-       0020PARABFQEA      O                             1509     14500     40000                                  
+SAFRER       G657-       0030DAVORFQEA      O                                      14500     40000                                  
+SAFRER       G657-       0040IMLITFQEA      O                             0850     14500     40000                                  
+SAFRER       G657-       0050LP   FQD       O                                      14500     40000                                  
+SAFRER       G657-       0060VMA    D       O                             0811     14500     40000                                  
+SAFRER       G657-       0070NAMDAFQEA      O                                      14500     40000                                  
+SAFRER       G657-       0080VBR    D       O                             0752     14500     40000                                  
+SAFRER       UW19        0230VL   FQD       O                             1093     14500     40000                                  
+SAFRER       UG653       0050ORNADFQEA      O                             0639     20500     60000                                  
+SAFRER       UG653       0060VMA    D       O                             0346     14500     40000                                  
+SAFRER       UA405       0180TEVASFQEA      O                                      29000     60000                                  
+SAFRER       UA405       0190MAKIRFVEA      O                             1128     29000     60000                                  
+SAFRER       UB400       0030NIBORFQEA      O                             0415     24500     60000                                  
+SAFRER       UB400       0040ROVUMFQEA      O                             0759     24500     60000                                  
+SAFRER       UB400       0050KASIMHTEA      O                             2556     24500     60000                                  
+SAFRER       UB400       0110DVL04FQEA      O                                      24500     60000                                  
+SAFRER       UB400       0120ELEPAFQEA      O                             0303     24500     60000                                  
+SAFRER       UB400       0130KOBODFVEA      O                             1052     25000     40000                                  
+SAFRER       UG656       0030DVL25FQEA      O                             0502     24500     60000                                  
+SAFRER       UG656       0040MUTARFQEA      O                             0213     07000     60000                                  
+SAFRER       UG656       0050VTZ  FQD       O                             0677     14500     40000                                  
+SAFRER       UG656       0060LAKLAFQEA      O                             1755     14500     40000                                  
+SAFRER       UG656       0070GESASFQEA      O                             1654     14500     40000                                  
+SAFRER       UG656       0080EKEOTFQEA      O                             0963     14500     40000                                  
+SAFRER       UG656       0090EGPONFQEA      O                                      14500     40000                                  
+SAFRER       UG656       0100VMA    D       O                             0823     14500     40000                                  
+SAFRER       UR410       0020TETEMFQEA      O                             0627     24500     60000                                  
+SAFRER       UR410       0030VCL  FWD       O                             0663     24500     60000                                  
+SAFRER       UR410       0040OKMATFQEA      O                             0504     25000     40000                                  
+SAFRER       UR410       0050KUTABFQEA      O                             0197     25000     40000                                  
+SAFRER       UR410       0060PATAMFQEA      O                             0213     25000     40000                                  
+SAFRER       UR410       0070KATAKFQEA      O                             0745     25000     40000                                  
+SAFRER       R409-       0030DVL20FQEA      O                                      24500     60000                                  
+SAFRER       R409-       0040ESPOPFQEA      O                             0284     24500     60000                                  
+SAFRER       R409-       0050USUBIFQEA      O                             0997     14500     40000                                  
+SAFRER       UQ3         0010ORNADFQEA      O                                      20000     60000                                  
+SAFRER       UQ3         0020ESRASFDEA      O                             0439     20000     60000                                  
+SAFRER       B529-       0010KURLAFQEA      O                                      24500     46000                                  
+SAFRER       B529-       0020VMV  FVD       O                             1247     24500     46000                                  

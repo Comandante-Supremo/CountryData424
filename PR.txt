@@ -1,0 +1,123 @@
+SCCAEAENRT   ANTEN TJ           N18244886W066052022                                                                                 
+SCCAEAENRT   BARVE TJ           N18225092W066111807                                                                                 
+SCCAEAENRT   BINJI TJ           N18260207W066121543                                                                                 
+SCCAEAENRT   BOCCA TJ           N18283340W066360862                                                                                 
+SCCAEAENRT   CERRO TJ           N18125787W066385302                                                                                 
+SCCAEAENRT   CETLO TJ           N18234991W066081917                                                                                 
+SCCAEAENRT   CLAYO TJ           N18032519W066263885                                                                                 
+SCCAEAENRT   CONDO TJ           N18260086W066050406                                                                                 
+SCCAEAENRT   CUMAD TJ           N18261693W066005257                                                                                 
+SCCAEAENRT   CUVOP TJ           N18004721W066344268                                                                                 
+SCCAEAENRT   DEKKA TJ           N18133804W066390632                                                                                 
+SCCAEAENRT   DRADO TJ           N18280580W066244461                                                                                 
+SCCAEAENRT   EGNIW TJ           N18135928W065385824                                                                                 
+SCCAEAENRT   FIRPE TJ           N18264472W066112377                                                                                 
+SCCAEAENRT   GANBO TJ           N18160384W066115430                                                                                 
+SCCAEAENRT   GARCY TJ           N18214560W066115988                                                                                 
+SCCAEAENRT   GUADE TJ           N18214829W066120121                                                                                 
+SCCAEAENRT   HORIL TJ           N18005664W066375130                                                                                 
+SCCAEAENRT   HOVIP TJ           N18000414W066322354                                                                                 
+SCCAEAENRT   JAMIX TJ           N18092833W065411586                                                                                 
+SCCAEAENRT   JONIB TJ           N18260065W066013997                                                                                 
+SCCAEAENRT   JORIL TJ           N18232045W066081435                                                                                 
+SCCAEAENRT   JOSHE TJ           N18143252W066300354                                                                                 
+SCCAEAENRT   MALCU TJ           N18260659W066163871                                                                                 
+SCCAEAENRT   MIGHT TJ           N18095395W066190602                                                                                 
+SCCAEAENRT   MUNDS TJ           N18261948W066005351                                                                                 
+SCCAEAENRT   MYLET TJ           N18301372W066172306                                                                                 
+SCCAEAENRT   NIIMO TJ           N18284800W066412382                                                                                 
+SCCAEAENRT   OGDAW TJ           N18153154W065372464                                                                                 
+SCCAEAENRT   PATTY TJ           N18243075W066052135                                                                                 
+SCCAEAENRT   PEBLO TJ           N18291119W066504363                                                                                 
+SCCAEAENRT   PLAYR TJ           N18232697W066113001                                                                                 
+SCCAEAENRT   PLENA TJ           N18175058W066090061                                                                                 
+SCCAEAENRT   POVEE TJ           N18254761W066021215                                                                                 
+SCCAEAENRT   PSE22 TJ           N18002035W066331842                                                                                 
+SCCAEAENRT   R1169 TJ           N18265743W065591998                                                                                 
+SCCAEAENRT   R1261 TJ           N18261952W066005351                                                                                 
+SCCAEAENRT   R1270 TJ           N18260082W066004942                                                                                 
+SCCAEAENRT   REKUA TJ           N18214408W065581231                                                                                 
+SCCAEAENRT   REMSY TJ           N18260145W066055033                                                                                 
+SCCAEAENRT   RIMMA TJ           N18242656W066053181                                                                                 
+SCCAEAENRT   RORPE TJ           N18010490W066403729                                                                                 
+SCCAEAENRT   SANLO TJ           N18120277W065560564                                                                                 
+SCCAEAENRT   SJ046 TJ           N18262737W066005822                                                                                 
+SCCAEAENRT   SJU25 TJ           N18220364W066105956                                                                                 
+SCCAEAENRT   SJU28 TJ           N18281435W066115458                                                                                 
+SCCAEAENRT   SJU40 TJ           N18255988W066011488                                                                                 
+SCCAEAENRT   SJU68 TJ           N18240351W066114051                                                                                 
+SCCAEAENRT   SJU69 TJ           N18241583W066114338                                                                                 
+SCCAEAENRT   SJU85 TJ           N18234092W066071812                                                                                 
+SCCAEAENRT   SNGRA TJ           N18240181W065455366                                                                                 
+SCCAEAENRT   TNNER TJ           N18260195W066115814                                                                                 
+SCCAEAENRT   TROCO TJ           N18111310W065452800                                                                                 
+SCCAEAENRT   TUUNA TJ           N17585116W065531007                                                                                 
+SCCAEAENRT   UPKEC TJ           N18203061W066151205                                                                                 
+SCCAEAENRT   UPRAF TJ           N18260014W065561683                                                                                 
+SCCAEAENRT   VARNA TJ           N18190220W066184902                                                                                 
+SCCAEAENRT   VECUG TJ           N18220383W066105909                                                                                 
+SCCAEAENRT   WESEN TJ           N18221209W066110269                                                                                 
+SCCAEAENRT   YEPUP TJ           N18164749W066242625                                                                                 
+SCCAEAENRT   YIGTO TJ           N18230236W0661503100                                                                                
+SCCAEAENRT   YUNKE TJ           N18161962W065525339                                                                                 
+SCCAEAENRT   ZUGOD TJ           N18212366W066191599                                                                                 
+SCCADB       DDP   TJ000391     N18280580W066244460                                                                                 
+SCCADB       MAZ   TJ000254     N18151353W067090895                                                                                 
+SCCADB       SJ    TJ000330     N18243208W066052240                                                                                 
+SCCAD        BQN   TJ011350V    N18295280W067063010                                                                                 
+SCCAD        MAZ   TJ011060V    N18152320W067090370                                                                                 
+SCCAD        PSE   TJ010900V    N17593280W066310900                                                                                 
+SCCAD        SJU   TJ011400V    N18264660W065592220                                                                                 
+SCCAD        BQN   TJ011350 D   N18295280W067063010                                                                                 
+SCCAD        MAZ   TJ011060 D   N18152320W067090370                                                                                 
+SCCAD        PSE   TJ010900 D   N17593280W066310900                                                                                 
+SCCAD        SJU   TJ011400 D   N18264660W065592220                                                                                 
+SCCAD        NRR   TJ011380 D   N18140156W065383595                                                                                 
+SCCAER       R763        0110BQN  TJD       O                             2878     14000     60000                                  
+SCCAER       A300        0150DDP  TJD       O                             1752     03000     60000                                  
+SCCAER       A300        0160JAAWS  EA      O                             0315     03000     60000                                  
+SCCAER       RTE6        0040SJU  TJD       O                             0258     02500     18000                                  
+SCCAER       RTE6        0050CHAKA  EA      O                             0210     03000     18000                                  
+SCCAER       G431        0060DDP  TJD       O                             0916     03000     60000                                  
+SCCAER       G431        0070BEANO  EA      O                             0211     03000     60000                                  
+SCCAER       A636        0100BQN  TJD       O                             0546     02000     60000                                  
+SCCAER       RTE2        0010SJU  TJD       O                                      01800     18000                                  
+SCCAER       RTE2        0020BOCCATJEA      O                             0349     02500     18000                                  
+SCCAER       RTE2        0030PEBLOTJEA      O                             0139     02500     18000                                  
+SCCAER       RTE2        0040BQN  TJD       O                             0150     02200     18000                                  
+SCCAER       RTE4        0020BQN  TJD       O                             0548     02500     18000                                  
+SCCAER       RTE4        0030JOSHETJEA      O                             0379     06000     18000                                  
+SCCAER       RTE4        0040MIGHTTJEA      O                             0114     06000     18000                                  
+SCCAER       RTE4        0050TUUNATJEA      O                             0270     06000     18000                                  
+SCCAER       RTE4        0060VEDAS  EA      O                             0175     04000     18000                                  
+SCCAER       RTE1        0010MAZ  TJD       O                                      02500     18000                                  
+SCCAER       RTE1        0020BQN  TJD       O                             0147     02500     18000                                  
+SCCAER       RTE1        0030UTAHS  EA      O                             0723     04000     18000                                  
+SCCAER       RTE5        0010BQN  TJD       O                                      03000     18000                                  
+SCCAER       RTE5        0020ROBLE  EA      O                             0279     03000     18000                                  
+SCCAER       RTE9        0020PSE  TJD       O                             0630     05000     18000                                  
+SCCAER       RTE9        0030CLAYOTJEA      O                             0058     05000     18000                                  
+SCCAER       RTE9        0040MIGHTTJEA      O                             0097     05000     18000                                  
+SCCAER       RTE9        0050GANBOTJEA      O                             0092     05000     18000                                  
+SCCAER       RTE9        0060SJU  TJD       O                             0160     03800     18000                                  
+SCCAER       RTE9        0070WALNA  EA      O                             0110     01500     18000                                  
+SCCAER       A523-       0020DDP  TJD       O                             0108     02000     60000                                  
+SCCAER       A555-       0020TUUNATJEA      O                             0693     03300     60000                                  
+SCCAER       A555-       0030DDP  TJD       O                             0419     05000     60000                                  
+SCCAER       RTE7        0020TUUNATJEA      O                             0299     09000     18000                                  
+SCCAER       RTE7        0030SANLOTJEA      O                             0135     04000     18000                                  
+SCCAER       RTE7        0040SJU  TJD       O                             0151     03000     18000                                  
+SCCAER       RTE7        0050SAALR  EA      O                             0446     12000     18000                                  
+SCCAER       RTE3        0010SJU  TJD       O                                      03000     18000                                  
+SCCAER       RTE3        0020JAAWS  EA      O                             0448     03000     18000                                  
+SCCAER       RTE12       0010SJU  TJD       O                                      02000     18000                                  
+SCCAER       RTE12       0020JETSS  EA      O                             0380     02000     18000                                  
+SCCAER       RTE12       0040JOSHETJEA      O                                      06000     18000                                  
+SCCAER       RTE12       0050MAZ  TJD       O                             0371     06000     18000                                  
+SCCAER       RTE10       0010JOSHETJEA      O                                      06000     18000                                  
+SCCAER       RTE10       0020PSE  TJD       O                             0150     06000     18000                                  
+SCCAER       RTE10       0010JOSHETJEA      O                                      06000     18000                                  
+SCCAER       RTE10       0020VARNATJEA      O                             0116     06000     18000                                  
+SCCAER       RTE10       0030SJU  TJD       O                             0200     03700     18000                                  
+SCCAER       RTE8        0010PSE  TJD       O                                      06000     18000                                  
+SCCAER       RTE8        0020TUUNATJEA      O                             0362     06000     18000                                  

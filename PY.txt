@@ -1,0 +1,177 @@
+SSAMEAENRT   AKSUL SG           S22330000W055470990                                                                                 
+SSAMEAENRT   ALGEL SG           S25521400W055101200                                                                                 
+SSAMEAENRT   AMORA SG           S25203968W057320552                                                                                 
+SSAMEAENRT   ASATI SG           S26045400W0573159100                                                                                
+SSAMEAENRT   ASU04 SG           S25100813W057304256                                                                                 
+SSAMEAENRT   ASU35 SG           S25072590W057330269                                                                                 
+SSAMEAENRT   BOLIR SG           S24525110W054315900                                                                                 
+SSAMEAENRT   CARAI SG           S25225429W057172782                                                                                 
+SSAMEAENRT   COATI SG           S27103000W056074800                                                                                 
+SSAMEAENRT   COSTA SG           S25304210W055141100                                                                                 
+SSAMEAENRT   DAGOL SG           S25440196W054532979                                                                                 
+SSAMEAENRT   EGEXO SG           S22580300W060134900                                                                                 
+SSAMEAENRT   EKESA SG           S24244200W057283000                                                                                 
+SSAMEAENRT   EKILO SG           S25212400W056364200                                                                                 
+SSAMEAENRT   EROTI SG           S24591200W0563853100                                                                                
+SSAMEAENRT   ESELA SG           S20565910W062130000                                                                                 
+SSAMEAENRT   FOZ90 SG           S25281891W054365386                                                                                 
+SSAMEAENRT   FOZNB SG           S25315220W054341380                                                                                 
+SSAMEAENRT   GAXAS SG           S25240810W0543039100                                                                                
+SSAMEAENRT   GELIK SG           S24545310W0543133100                                                                                
+SSAMEAENRT   GEMAS SG           S24204110W0541847100                                                                                
+SSAMEAENRT   GERNI SG           S19550300W061510000                                                                                 
+SSAMEAENRT   GUARI SG           S25564800W0570123100                                                                                
+SSAMEAENRT   GUAZU SG           S25243781W057322979                                                                                 
+SSAMEAENRT   ILPUR SG           S22420200W059585000                                                                                 
+SSAMEAENRT   ISEVO SG           S24431110W0564905100                                                                                
+SSAMEAENRT   ITAPE SG           S25332880W057251440                                                                                 
+SSAMEAENRT   KALAD SG           S23430800W0552917100                                                                                
+SSAMEAENRT   KAREN SG           S25322634W054545703                                                                                 
+SSAMEAENRT   KEVUR SG           S25082110W0563633100                                                                                
+SSAMEAENRT   KIDUS SG           S24321200W0570235100                                                                                
+SSAMEAENRT   KUBIR SG           S24042310W059564800                                                                                 
+SSAMEAENRT   LIVOX SG           S26291710W0563759100                                                                                
+SSAMEAENRT   LOBAX SG           S24244210W0573737100                                                                                
+SSAMEAENRT   LORNA SG           S25223021W054454045                                                                                 
+SSAMEAENRT   LUCIA SG           S26341510W054485600                                                                                 
+SSAMEAENRT   MOROS SG           S22152800W060245100                                                                                 
+SSAMEAENRT   OQUIN SG           S25363095W054580986                                                                                 
+SSAMEAENRT   OROMU SG           S19320684W061054174                                                                                 
+SSAMEAENRT   ORUGA SG           S27110300W0554807100                                                                                
+SSAMEAENRT   PADOT SG           S24312910W057030100                                                                                 
+SSAMEAENRT   PIROY SG           S25301159W055035753                                                                                 
+SSAMEAENRT   R1532 SG           S25133026W057305595                                                                                 
+SSAMEAENRT   REMEK SG           S20375900W058064700                                                                                 
+SSAMEAENRT   ROLOK SG           S25175600W056361400                                                                                 
+SSAMEAENRT   SAMGU SG           S26511800W057323000                                                                                 
+SSAMEAENRT   SOFIA SG           S24242400W057321200                                                                                 
+SSAMEAENRT   TEROI SG           S25300368W055025097                                                                                 
+SSAMEAENRT   UDENO SG           S26065043W054571224                                                                                 
+SSAMEAENRT   UGAKO SG           S27043310W055313900                                                                                 
+SSAMEAENRT   UKELA SG           S24371800W058083000                                                                                 
+SSAMEAENRT   VAS01 SG           S25160286W057312865                                                                                 
+SSAMEAENRT   VAS05 SG           S25192692W057294197                                                                                 
+SSAMEAENRT   VAS09 SG           S25155170W057202158                                                                                 
+SSAMEAENRT   VAS10 SG           S25043710W057314241                                                                                 
+SSAMEAENRT   VAS14 SG           S25043708W057305625                                                                                 
+SSAMEAENRT   VAS22 SG           S25230979W057371005                                                                                 
+SSAMEAENRT   VAS28 SG           S25134640W057421863                                                                                 
+SSAMEAENRT   VAS30 SG           S25173870W057313968                                                                                 
+SSAMEAENRT   VAS32 SG           S25071854W057385041                                                                                 
+SSAMEAENRT   VAS34 SG           S25171837W057263802                                                                                 
+SSAMEAENRT   VAS40 SG           S25183860W057314657                                                                                 
+SSAMEAENRT   VAS42 SG           S25055717W057254857                                                                                 
+SSAMEAENRT   VAS50 SG           S25193850W057315347                                                                                 
+SSAMEAENRT   VAS58 SG           S25225800W057250800                                                                                 
+SSAMEAENRT   VAS62 SG           S25081140W057225238                                                                                 
+SSAMEAENRT   VAS83 SG           S25112227W057205326                                                                                 
+SSAMEAENRT   VAS92 SG           S25243792W057300936                                                                                 
+SSAMEAENRT   VAS99 SG           S25241184W057344359                                                                                 
+SSAMEAENRT   VES09 SG           S25205895W054441376                                                                                 
+SSAMEAENRT   VES10 SG           S25295185W055014638                                                                                 
+SSAMEAENRT   VES19 SG           S25261220W054493418                                                                                 
+SSAMEAENRT   VES24 SG           S25351624W054594446                                                                                 
+SSAMEAENRT   VES31 SG           S25215540W055012508                                                                                 
+SSAMEAENRT   VES47 SG           S25191035W054445984                                                                                 
+SSAMEAENRT   VES57 SG           S25201481W054432867                                                                                 
+SSAMDB       PS    SG000320     S25125710W0573047100                                                                                
+SSAMDB       ST    SG000340     S25082900W0572941100                                                                                
+SSAMDB       VB    SG000305     S25164800W0573141100                                                                                
+SSAMDB       ASU   SG000360     S25140810W057304700                                                                                 
+SSAMDB       CDE   SG000200     S25284500W0545156100                                                                                
+SSAMDB       ALG   SG000293     S25221010W054454100                                                                                 
+SSAMDB       CON   SG000405     S23261831W057255015                                                                                 
+SSAMDB       FIL   SG000345     S22213300W0600205100                                                                                
+SSAMDB       FOZ   SG000410     S25315220W054341380                                                                                 
+SSAMDB       ITU   SG000225     S25243010W054371800                                                                                 
+SSAMDB       MCL   SG000381     S22023300W0603700100                                                                                
+SSAMDB       PJC   SG000353     S22383010W0554959100                                                                                
+SSAMDB       PTP   SG000340     S22330060W055422580                                                                                 
+SSAMDB       P     SG000307     S27242250W055581270                                                                                 
+SSAMDB       STA   SG000397     S22373210W0563804100                                                                                
+SSAMD        VAS   SG011590V    S25143900W0573118100                                                                                
+SSAMD        VES   SG011630V    S25273600W054510000                                                                                 
+SSAMD        POS   SG011490V    S27230800W055580900                                                                                 
+SSAMD        PO    SG010990 D   S27224230W055580990                                                                                 
+SSAMD        VAS   SG011590 D   S25143900W0573118100                                                                                
+SSAMD        VES   SG011630 D   S25273600W054510000                                                                                 
+SSAMD        POS   SG011490 D   S27230800W055580900                                                                                 
+SSAMER       W14         0060POS  SGD       O                             0300     04500     24500                                  
+SSAMER       W5          0460PTP  SGD       O                             1988     05500     24500                                  
+SSAMER       W1          0390PTP  SGD       O                                      04000     24500                                  
+SSAMER       W1          0400CON  SGD       O                             1092     04000     24500                                  
+SSAMER       W1          0410EKESASGEA      O                             0585     04000     24500                                  
+SSAMER       W1          0420VAS  SGD       O                             0500     04000     24500                                  
+SSAMER       A428        0010VAS  SGD       O                                      04000     24500                                  
+SSAMER       A428        0020EROTISGEA      O                             0499     04000     24500                                  
+SSAMER       A428        0030GEMASSGEA      O                             1331     06500     24500                                  
+SSAMER       A428        0040BERLISBEA      O                             1309     06500     24500                                  
+SSAMER       A556        0060SAMGUSGEA      O                             0345     04000     24500                                  
+SSAMER       A556        0090GERNISGEA      O                             0760     04000     24500                                  
+SSAMER       A556        0100MCL  SGD       O                             1451     04000     24500                                  
+SSAMER       A556        0110UKELASGEA      O                             2064     04000     24500                                  
+SSAMER       A556        0120VAS  SGD       O                             0504     04000     24500                                  
+SSAMER       A307        0080SAMGUSGEA      O                             0534     07000     24500                                  
+SSAMER       A307        0090LIVOXSGEA      O                             0535     07000     24500                                  
+SSAMER       A430        0070PTP  SGD       O                             0976     04000     24500                                  
+SSAMER       A430        0080KIDUSSGEA      O                             1401     04000     24500                                  
+SSAMER       A430        0090VAS  SGD       O                             0498     05000     24500                                  
+SSAMER       A430        0100GUARISGEA      O                             0501     05000     24500                                  
+SSAMER       A430        0110LIVOXSGEA      O                             0387     05000     24500                                  
+SSAMER       A430        0120COATISGEA      O                             0493     05000     24500                                  
+SSAMER       A430        0130POS  SGD       O                             0153     06500     24500                                  
+SSAMER       A311        0020COSTASGEA      O                             0399     05000     24500                                  
+SSAMER       A311        0030EKILOSGEA      O                             0751     05000     24500                                  
+SSAMER       A311        0040VAS  SGD       O                             0499     05000     24500                                  
+SSAMER       B688        0090UDENOSGEA      O                             0401     07000     24500                                  
+SSAMER       B688        0100ORUGASGEA      O                             0788     06500     24500                                  
+SSAMER       B688        0110POS  SGD       O                             0150     06500     24500                                  
+SSAMER       M789        0050VAS  SGD       O                             0348     04000     24500                                  
+SSAMER       UW14        0080POS  SGD       O                                      24500     45000                                  
+SSAMER       UW14        0090BITUSSAEA      O                             0991     24500     45000                                  
+SSAMER       B687        0010LUCIASGEA      O                                      06500     24500                                  
+SSAMER       B687        0020UGAKOSGEA      O                             0487     06500     24500                                  
+SSAMER       B687        0030POS  SGD       O                             0300     06500     24500                                  
+SSAMER       B687        0040REPAMSAEA      O                             0847     06500     24500                                  
+SSAMER       UM402       0090VAS  SGD       O                                      24500     60000                                  
+SSAMER       UM402       0100LOBAXSGEA      O                             0503     24500     60000                                  
+SSAMER       UM402       0110REMEKSGEA      O                             2285     24500     60000                                  
+SSAMER       UM402       0120SIDAKSLEA      O                             0597     24500     60000                                  
+SSAMER       UM799       0210REMEKSGEA      O                             0536     24500     60000                                  
+SSAMER       UM799       0310EGEXOSGEA      O                                      24500     60000                                  
+SSAMER       UM799       0320ILPURSGEA      O                             0212     24500     60000                                  
+SSAMER       UA556       0120SAMGUSGEA      O                             0345     24500     60000                                  
+SSAMER       UL793       0170KUBIRSGEA      O                                      24500     60000                                  
+SSAMER       UL793       0180EGEXOSGEA      O                             0682     24500     60000                                  
+SSAMER       UL793       0190MOROSSGEA      O                             0438     24500     60000                                  
+SSAMER       UL793       0200OROMUSGEA      O                             1679     24500     60000                                  
+SSAMER       UL793       0210CAMBASLEA      O                             0702     24500     60000                                  
+SSAMER       UA307       0080SAMGUSGEA      O                             0534     24500     60000                                  
+SSAMER       UA307       0090FOZ  SBD       O                             1806     24500     60000                                  
+SSAMER       UM789       0070VAS  SGD       O                             0348     24500     60000                                  
+SSAMER       UB554       0020BOLIRSGEA      O                             0602     24500     60000                                  
+SSAMER       UB554       0030GAXASSGEA      O                             0313     24500     60000                                  
+SSAMER       UB554       0040FOZ  SBD       O                             0109     24500     60000                                  
+SSAMER       UL301       0090BOLIRSGEA      O                             0286     24500     60000                                  
+SSAMER       UL301       0100KEVURSGEA      O                             1140     24500     60000                                  
+SSAMER       UL301       0110VAS  SGD       O                             0500     24500     60000                                  
+SSAMER       UA321       0280MCL  SGD       O                                      24500     60000                                  
+SSAMER       UA321       0290GERNISGEA      O                             1451     24500     60000                                  
+SSAMER       UA321       0300PUBITSLEA      O                             0760     24500     60000                                  
+SSAMER       UA320       0050ESELASGEA      O                             0593     24500     60000                                  
+SSAMER       UA320       0060MCL  SGD       O                             1109     24500     60000                                  
+SSAMER       UM544       0030PADOTSGEA      O                                      24500     60000                                  
+SSAMER       UM544       0040VAS  SGD       O                             0502     24500     60000                                  
+SSAMER       UM548       0060GAXASSGEA      O                                      24500     60000                                  
+SSAMER       UM548       0070ROLOKSGEA      O                             1137     24500     60000                                  
+SSAMER       UM548       0080VAS  SGD       O                             0500     24500     60000                                  
+SSAMER       UM400       0080POS  SGD       O                             1256     24500     45000                                  
+SSAMER       UB688       0100POS  SGD       O                             1338     24500     60000                                  
+SSAMER       UB688       0110MCS  SUD       O                             1940     24500     45000                                  
+SSAMER       UB687       0010LUCIASGEA      O                                      24500     45000                                  
+SSAMER       UB687       0020POS  SGD       O                             0787     24500     45000                                  
+SSAMER       UB687       0030REPAMSAEA      O                             0847     24500     45000                                  
+SSAMER       UA320       0010MCL  SGD       O                                      24500     60000                                  
+SSAMER       UA320       0020MOROSSGEA      O                             0172     24500     60000                                  
+SSAMER       UA320       0030UKELASGEA      O                                      24500     60000                                  
+SSAMER       UA320       0040VAS  SGD       O                             0504     24500     60000                                  

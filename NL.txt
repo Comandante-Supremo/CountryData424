@@ -1,0 +1,795 @@
+SEUREAENRT   ABA02 EH           N52152746E004462645                                                                                 
+SEUREAENRT   ABA03 EH           N52142758E004462069                                                                                 
+SEUREAENRT   ABA05 EH           N52122792E004460917                                                                                 
+SEUREAENRT   ABA11 EH           N52061104E004453302                                                                                 
+SEUREAENRT   ABA38 EH           N52132778E004461493                                                                                 
+SEUREAENRT   ABA62 EH           N52111614E004460227                                                                                 
+SEUREAENRT   ABA93 EH           N52081069E004454448                                                                                 
+SEUREAENRT   AKUXO EH           N50521700E0060427100                                                                                
+SEUREAENRT   ALINA EH           N51264462E004012736                                                                                 
+SEUREAENRT   ANDIK EH           N52442200E005161400                                                                                 
+SEUREAENRT   ARNEM EH           N52054700E006043600                                                                                 
+SEUREAENRT   ARTIP EH           N52303910E005340900                                                                                 
+SEUREAENRT   BARSI EH           N52465056E004501146                                                                                 
+SEUREAENRT   BASGU EH           N51544310E0055059100                                                                                
+SEUREAENRT   BASNO EH           N52210100E004343000                                                                                 
+SEUREAENRT   BATAK EH           N51341510E0044717100                                                                                
+SEUREAENRT   BAXIM EH           N50572400E006024980                                                                                 
+SEUREAENRT   BBL00 EH           N51174754E005424928                                                                                 
+SEUREAENRT   BBL01 EH           N51104762E005291689                                                                                 
+SEUREAENRT   BBL02 EH           N51104455E005310308                                                                                 
+SEUREAENRT   BBL03 EH           N51092966E005265308                                                                                 
+SEUREAENRT   BBL04 EH           N51123141E005331077                                                                                 
+SEUREAENRT   BBL12 EH           N51170752E005433588                                                                                 
+SEUREAENRT   BBL14 EH           N51114742E005371145                                                                                 
+SEUREAENRT   BBL20 EH           N51105147E005245828                                                                                 
+SEUREAENRT   BBL37 EH           N51093836E005264114                                                                                 
+SEUREAENRT   BBL40 EH           N51124015E005330536                                                                                 
+SEUREAENRT   BBL44 EH           N51105633E005290496                                                                                 
+SEUREAENRT   BBL52 EH           N51120437E005314382                                                                                 
+SEUREAENRT   BBL55 EH           N51134052E005354686                                                                                 
+SEUREAENRT   BBL60 EH           N51135669E005353347                                                                                 
+SEUREAENRT   BBL70 EH           N51132111E005462452                                                                                 
+SEUREAENRT   BBL77 EH           N51143475E005364721                                                                                 
+SEUREAENRT   BBL97 EH           N51141506E005370494                                                                                 
+SEUREAENRT   BBL99 EH           N51104580E005292455                                                                                 
+SEUREAENRT   BEDUM EH           N53205300E006352000                                                                                 
+SEUREAENRT   BEKEM EH           N51255510E004344800                                                                                 
+SEUREAENRT   BESTI EH           N51383210E005253900                                                                                 
+SEUREAENRT   BKN04 EH           N50583410E005501514                                                                                 
+SEUREAENRT   BKN06 EH           N51010391E005523409                                                                                 
+SEUREAENRT   BOBMO EH           N51064600E005594800                                                                                 
+SEUREAENRT   BOGRU EH           N51030610E0055444100                                                                                
+SEUREAENRT   BOMBO EH           N51061020E006000000                                                                                 
+SEUREAENRT   BREDA EH           N51333700E0045111100                                                                                
+SEUREAENRT   BRESK EH           N51250000E0033253100                                                                                
+SEUREAENRT   BROGY EH           N51105709E005265552                                                                                 
+SEUREAENRT   BUDIP EH           N51224500E005544700                                                                                 
+SEUREAENRT   COA55 EH           N51530063E004325778                                                                                 
+SEUREAENRT   DHE60 EH           N53282408E006433558                                                                                 
+SEUREAENRT   DIVPA EH           N53000632E006105927                                                                                 
+SEUREAENRT   DLN01 EH           N52042340E005525011                                                                                 
+SEUREAENRT   DLN02 EH           N52023032E005514591                                                                                 
+SEUREAENRT   DLN04 EH           N52071560E005541455                                                                                 
+SEUREAENRT   DLN05 EH           N52080434E005552285                                                                                 
+SEUREAENRT   DLN06 EH           N51575188E005484581                                                                                 
+SEUREAENRT   DLN08 EH           N52110517E005560742                                                                                 
+SEUREAENRT   DLN13 EH           N51593552E005594980                                                                                 
+SEUREAENRT   DLN17 EH           N52091039E005551095                                                                                 
+SEUREAENRT   DLN19 EH           N52013119E005512584                                                                                 
+SEUREAENRT   DLN21 EH           N51564254E005452164                                                                                 
+SEUREAENRT   DLN24 EH           N51592410E005411054                                                                                 
+SEUREAENRT   DLN30 EH           N52102211E005584960                                                                                 
+SEUREAENRT   DLN40 EH           N51594327E005495777                                                                                 
+SEUREAENRT   DLN60 EH           N52072683E006033547                                                                                 
+SEUREAENRT   DOSEX EH           N51105711E005560544                                                                                 
+SEUREAENRT   EDUPO EH           N51583189E005500937                                                                                 
+SEUREAENRT   EEL10 EH           N53111235E006562837                                                                                 
+SEUREAENRT   EH001 EH           N52163100E0044203100                                                                                
+SEUREAENRT   EH004 EH           N52215900E004500800                                                                                 
+SEUREAENRT   EH006 EH           N52352610E0043245100                                                                                
+SEUREAENRT   EH007 EH           N52220900E0044436100                                                                                
+SEUREAENRT   EH009 EH           N52132410E0043315100                                                                                
+SEUREAENRT   EH013 EH           N52324010E0044345100                                                                                
+SEUREAENRT   EH014 EH           N52201600E004515000                                                                                 
+SEUREAENRT   EH015 EH           N52352610E0044403100                                                                                
+SEUREAENRT   EH016 EH           N52235410E0042451100                                                                                
+SEUREAENRT   EH017 EH           N52110600E004562900                                                                                 
+SEUREAENRT   EH018 EH           N52191300E0044906100                                                                                
+SEUREAENRT   EH019 EH           N52201700E0045013100                                                                                
+SEUREAENRT   EH021 EH           N52283600E0043920100                                                                                
+SEUREAENRT   EH022 EH           N52405000E0043118100                                                                                
+SEUREAENRT   EH024 EH           N52151100E004585000                                                                                 
+SEUREAENRT   EH025 EH           N52122410E004442400                                                                                 
+SEUREAENRT   EH026 EH           N52101700E0045210100                                                                                
+SEUREAENRT   EH028 EH           N52212800E0042515100                                                                                
+SEUREAENRT   EH029 EH           N52111600E004491400                                                                                 
+SEUREAENRT   EH030 EH           N52124200E004480500                                                                                 
+SEUREAENRT   EH031 EH           N52290910E004480600                                                                                 
+SEUREAENRT   EH032 EH           N52155100E0043518100                                                                                
+SEUREAENRT   EH033 EH           N52055010E0050316100                                                                                
+SEUREAENRT   EH035 EH           N52283500E0045541100                                                                                
+SEUREAENRT   EH036 EH           N52152410E004505200                                                                                 
+SEUREAENRT   EH037 EH           N52152800E0044627100                                                                                
+SEUREAENRT   EH038 EH           N52101200E0045738100                                                                                
+SEUREAENRT   EH039 EH           N52093700E0044525100                                                                                
+SEUREAENRT   EH040 EH           N52062400E004280300                                                                                 
+SEUREAENRT   EH041 EH           N52192200E004253600                                                                                 
+SEUREAENRT   EH042 EH           N52174400E0045743100                                                                                
+SEUREAENRT   EH043 EH           N52253100E005075400                                                                                 
+SEUREAENRT   EH046 EH           N52130400E0044346100                                                                                
+SEUREAENRT   EH048 EH           N52161200E0044403100                                                                                
+SEUREAENRT   EH049 EH           N52172100E0043644100                                                                                
+SEUREAENRT   EH050 EH           N52091900E004550500                                                                                 
+SEUREAENRT   EH051 EH           N52143800E0043903100                                                                                
+SEUREAENRT   EH052 EH           N52192700E0045358100                                                                                
+SEUREAENRT   EH053 EH           N52231310E0044722100                                                                                
+SEUREAENRT   EH055 EH           N52191410E004520000                                                                                 
+SEUREAENRT   EH056 EH           N52194510E0043902100                                                                                
+SEUREAENRT   EH057 EH           N52221510E0044126100                                                                                
+SEUREAENRT   EH058 EH           N52194710E0044032100                                                                                
+SEUREAENRT   EH059 EH           N52204810E0045059100                                                                                
+SEUREAENRT   EH060 EH           N52181900E0045424100                                                                                
+SEUREAENRT   EH061 EH           N52133000E0045321100                                                                                
+SEUREAENRT   EH062 EH           N52153300E0044327100                                                                                
+SEUREAENRT   EH063 EH           N52163100E0044450100                                                                                
+SEUREAENRT   EH064 EH           N52150310E0044722100                                                                                
+SEUREAENRT   EH065 EH           N52160210E004505300                                                                                 
+SEUREAENRT   EH066 EH           N52165000E0050257100                                                                                
+SEUREAENRT   EH068 EH           N52200910E0045900100                                                                                
+SEUREAENRT   EH071 EH           N52225410E005064600                                                                                 
+SEUREAENRT   EH072 EH           N52011400E004503500                                                                                 
+SEUREAENRT   EH073 EH           N52125100E004482800                                                                                 
+SEUREAENRT   EH074 EH           N52095710E0044524100                                                                                
+SEUREAENRT   EH075 EH           N52092110E004452700                                                                                 
+SEUREAENRT   EH080 EH           N52172900E004441100                                                                                 
+SEUREAENRT   EH081 EH           N52252410E004504400                                                                                 
+SEUREAENRT   EH082 EH           N52252700E004592000                                                                                 
+SEUREAENRT   EH090 EH           N52275910E004320600                                                                                 
+SEUREAENRT   EH091 EH           N52252310E0042917100                                                                                
+SEUREAENRT   EH093 EH           N52251710E0044305100                                                                                
+SEUREAENRT   EH094 EH           N52275910E004394203                                                                                 
+SEUREAENRT   EH095 EH           N52342310E0043128100                                                                                
+SEUREAENRT   EH150 EH           N52092000E0044712100                                                                                
+SEUREAENRT   EH151 EH           N52025910E004363200                                                                                 
+SEUREAENRT   EH152 EH           N51592600E0043208100                                                                                
+SEUREAENRT   EH153 EH           N52000710E004342700                                                                                 
+SEUREAENRT   EH154 EH           N51521510E0043324100                                                                                
+SEUREAENRT   EH155 EH           N51575600E004225800                                                                                 
+SEUREAENRT   EH156 EH           N51565700E0041113100                                                                                
+SEUREAENRT   EH157 EH           N52004710E004363600                                                                                 
+SEUREAENRT   EH158 EH           N51574100E004200300                                                                                 
+SEUREAENRT   EH159 EH           N51565300E004250500                                                                                 
+SEUREAENRT   EH161 EH           N51552710E004405800                                                                                 
+SEUREAENRT   EH162 EH           N51370910E004243300                                                                                 
+SEUREAENRT   EH163 EH           N52010000E004331000                                                                                 
+SEUREAENRT   EH164 EH           N51564400E004083900                                                                                 
+SEUREAENRT   EH165 EH           N51460010E0041722100                                                                                
+SEUREAENRT   EH170 EH           N52195410E0042529100                                                                                
+SEUREAENRT   EH171 EH           N52072960E004454113                                                                                 
+SEUREAENRT   EH172 EH           N52125210E0042940100                                                                                
+SEUREAENRT   EH173 EH           N52094600E0043823100                                                                                
+SEUREAENRT   EH174 EH           N52143800E0041516100                                                                                
+SEUREAENRT   EH176 EH           N52163310E004260200                                                                                 
+SEUREAENRT   EH178 EH           N52133210E004303700                                                                                 
+SEUREAENRT   EH180 EH           N52152800E004195800                                                                                 
+SEUREAENRT   EH183 EH           N52053610E004275100                                                                                 
+SEUREAENRT   EH184 EH           N52064810E004340400                                                                                 
+SEUREAENRT   EH185 EH           N52072600E004265600                                                                                 
+SEUREAENRT   EH186 EH           N52264910E0042424100                                                                                
+SEUREAENRT   EH187 EH           N52075700E0042053100                                                                                
+SEUREAENRT   EH188 EH           N52044610E004233300                                                                                 
+SEUREAENRT   EH189 EH           N52113000E004175600                                                                                 
+SEUREAENRT   EH190 EH           N52084510E0041112100                                                                                
+SEUREAENRT   EH191 EH           N52084800E004261500                                                                                 
+SEUREAENRT   EH192 EH           N52062300E004252600                                                                                 
+SEUREAENRT   EH193 EH           N52130610E0041923100                                                                                
+SEUREAENRT   EH194 EH           N52090200E0041959100                                                                                
+SEUREAENRT   EH196 EH           N52102300E004185100                                                                                 
+SEUREAENRT   EH197 EH           N52064100E0042827100                                                                                
+SEUREAENRT   EH198 EH           N52081100E004083300                                                                                 
+SEUREAENRT   EH200 EH           N52164708E006013398                                                                                 
+SEUREAENRT   EH201 EH           N52021514E006030219                                                                                 
+SEUREAENRT   EH316 EH           N50565410E0055126100                                                                                
+SEUREAENRT   EH317 EH           N50572900E0055353100                                                                                
+SEUREAENRT   EH516 EH           N52590810E0064726100                                                                                
+SEUREAENRT   EH521 EH           N52470200E006152400                                                                                 
+SEUREAENRT   EH523 EH           N52003310E0061449100                                                                                
+SEUREAENRT   EH527 EH           N52573010E006263800                                                                                 
+SEUREAENRT   EH528 EH           N52520910E0060545100                                                                                
+SEUREAENRT   EH529 EH           N53051200E0063034100                                                                                
+SEUREAENRT   EH530 EH           N53043610E006242000                                                                                 
+SEUREAENRT   EH532 EH           N53024300E0062748100                                                                                
+SEUREAENRT   EH533 EH           N52593500E006400500                                                                                 
+SEUREAENRT   EH535 EH           N53045410E0064645100                                                                                
+SEUREAENRT   EH536 EH           N53111100E0065439100                                                                                
+SEUREAENRT   EH538 EH           N52575710E0064248100                                                                                
+SEUREAENRT   EH539 EH           N53014100E006454100                                                                                 
+SEUREAENRT   EH540 EH           N51174800E005552200                                                                                 
+SEUREAENRT   EH543 EH           N51160510E005444800                                                                                 
+SEUREAENRT   EH544 EH           N51160510E005444800                                                                                 
+SEUREAENRT   EH545 EH           N51203000E005392400                                                                                 
+SEUREAENRT   EH550 EH           N51301110E0052603100                                                                                
+SEUREAENRT   EH551 EH           N51304500E0052639100                                                                                
+SEUREAENRT   EH552 EH           N51294010E0053427100                                                                                
+SEUREAENRT   EH555 EH           N51385300E005042300                                                                                 
+SEUREAENRT   EH556 EH           N51301000E005113500                                                                                 
+SEUREAENRT   EH557 EH           N51243300E005183300                                                                                 
+SEUREAENRT   EH558 EH           N51242900E0051938100                                                                                
+SEUREAENRT   EH559 EH           N51220610E0051659100                                                                                
+SEUREAENRT   EH560 EH           N51211110E005155900                                                                                 
+SEUREAENRT   EH562 EH           N51220510E005325700                                                                                 
+SEUREAENRT   EH563 EH           N51220500E005393200                                                                                 
+SEUREAENRT   EH565 EH           N51313310E0052734100                                                                                
+SEUREAENRT   EH566 EH           N51334700E0052035100                                                                                
+SEUREAENRT   EH567 EH           N51322310E005283200                                                                                 
+SEUREAENRT   EH568 EH           N51335600E005301000                                                                                 
+SEUREAENRT   EH569 EH           N51355710E005302700                                                                                 
+SEUREAENRT   EH571 EH           N51344500E005331400                                                                                 
+SEUREAENRT   EH575 EH           N51290200E005391900                                                                                 
+SEUREAENRT   EH576 EH           N51220610E0052747100                                                                                
+SEUREAENRT   EH577 EH           N51234200E0053025100                                                                                
+SEUREAENRT   EH578 EH           N51273894E005231660                                                                                 
+SEUREAENRT   EH606 EH           N52252010E0042315100                                                                                
+SEUREAENRT   EH607 EH           N52350110E0043848100                                                                                
+SEUREAENRT   EH608 EH           N52322110E0044340100                                                                                
+SEUREAENRT   EH613 EH           N52123300E004274500                                                                                 
+SEUREAENRT   EH621 EH           N52274599E0044315100                                                                                
+SEUREAENRT   EH622 EH           N52253600E0044303100                                                                                
+SEUREAENRT   EH624 EH           N52210910E0043254100                                                                                
+SEUREAENRT   EH700 EH           N52152010E0063043100                                                                                
+SEUREAENRT   EH701 EH           N52241510E0065040100                                                                                
+SEUREAENRT   EH702 EH           N52154100E006403200                                                                                 
+SEUREAENRT   EH703 EH           N52141600E0064802100                                                                                
+SEUREAENRT   EH704 EH           N51552810E0063151100                                                                                
+SEUREAENRT   EH705 EH           N52015400E006412000                                                                                 
+SEUREAENRT   EH706 EH           N51581110E006345300                                                                                 
+SEUREAENRT   EHV01 EH           N51260574E005213093                                                                                 
+SEUREAENRT   EHV06 EH           N51220933E005163610                                                                                 
+SEUREAENRT   EHV10 EH           N51274385E005232087                                                                                 
+SEUREAENRT   EHV13 EH           N51262395E005014338                                                                                 
+SEUREAENRT   EHV24 EH           N51365958E005292372                                                                                 
+SEUREAENRT   EHV25 EH           N51233894E005054165                                                                                 
+SEUREAENRT   EHV27 EH           N51263098E005063102                                                                                 
+SEUREAENRT   EHV29 EH           N51301564E005054477                                                                                 
+SEUREAENRT   EHV30 EH           N51242041E005195757                                                                                 
+SEUREAENRT   EHV34 EH           N51361202E005315132                                                                                 
+SEUREAENRT   EHV36 EH           N51375222E005215301                                                                                 
+SEUREAENRT   EHV60 EH           N51315802E005273570                                                                                 
+SEUREAENRT   EHV98 EH           N51305223E005024174                                                                                 
+SEUREAENRT   EKROS EH           N52141310E0043709100                                                                                
+SEUREAENRT   ELBEK EH           N52563500E006430900                                                                                 
+SEUREAENRT   ENKOS EH           N52404010E0051435100                                                                                
+SEUREAENRT   EVOSA EH           N51105800E0054610100                                                                                
+SEUREAENRT   FLEVO EH           N52230610E0053607100                                                                                
+SEUREAENRT   FOXTO EH           N51520421E006300742                                                                                 
+SEUREAENRT   GEMTI EH           N51324800E0053845100                                                                                
+SEUREAENRT   GISIM EH           N52043731E004134102                                                                                 
+SEUREAENRT   GIX01 EH           N50574583E006010781                                                                                 
+SEUREAENRT   GIX03 EH           N50572307E006072484                                                                                 
+SEUREAENRT   GIX04 EH           N50572833E006072555                                                                                 
+SEUREAENRT   GIX06 EH           N50573464E005531333                                                                                 
+SEUREAENRT   GIX09 EH           N50573971E006041676                                                                                 
+SEUREAENRT   GIX15 EH           N50575122E006050507                                                                                 
+SEUREAENRT   GIX29 EH           N51141711E0052452100                                                                                
+SEUREAENRT   GIX30 EH           N50574142E005575820                                                                                 
+SEUREAENRT   GIX59 EH           N50534811E006024315                                                                                 
+SEUREAENRT   GIX67 EH           N50573410E005562342                                                                                 
+SEUREAENRT   GOBNO EH           N50585909E005593447                                                                                 
+SEUREAENRT   GOTIG EH           N52070759E006455025                                                                                 
+SEUREAENRT   GRONY EH           N53062000E0060317100                                                                                
+SEUREAENRT   GUBAS EH           N52132310E004131740                                                                                 
+SEUREAENRT   HDR02 EH           N52560517E004474603                                                                                 
+SEUREAENRT   HDR03 EH           N52512864E004445864                                                                                 
+SEUREAENRT   HDR05 EH           N52583540E004502580                                                                                 
+SEUREAENRT   HDR18 EH           N52512516E004460049                                                                                 
+SEUREAENRT   HDR20 EH           N52560719E004473962                                                                                 
+SEUREAENRT   HDR36 EH           N53021824E004544032                                                                                 
+SEUREAENRT   HDR40 EH           N52564408E004490569                                                                                 
+SEUREAENRT   HDR45 EH           N52563361E004492503                                                                                 
+SEUREAENRT   HDR52 EH           N52491931E004441593                                                                                 
+SEUREAENRT   HDR57 EH           N53003960E004524692                                                                                 
+SEUREAENRT   HDR71 EH           N52471937E004460526                                                                                 
+SEUREAENRT   HDR72 EH           N52472173E004433716                                                                                 
+SEUREAENRT   HDR75 EH           N53004050E004524658                                                                                 
+SEUREAENRT   HDR95 EH           N53022057E004543613                                                                                 
+SEUREAENRT   HDR96 EH           N53013674E004562735                                                                                 
+SEUREAENRT   HOP31 EH           N52341416E006464621                                                                                 
+SEUREAENRT   INKET EH           N51485210E0044618100                                                                                
+SEUREAENRT   IVLUT EH           N52143900E0051524100                                                                                
+SEUREAENRT   KAG01 EH           N52164532E004423735                                                                                 
+SEUREAENRT   KAG02 EH           N52161383E004411415                                                                                 
+SEUREAENRT   KAG03 EH           N52154237E004395111                                                                                 
+SEUREAENRT   KAG05 EH           N52143934E004370496                                                                                 
+SEUREAENRT   KAG22 EH           N52171646E004440247                                                                                 
+SEUREAENRT   KAG62 EH           N52140151E004352538                                                                                 
+SEUREAENRT   KAG92 EH           N52122682E004311660                                                                                 
+SEUREAENRT   KUDAD EH           N51400293E004340341                                                                                 
+SEUREAENRT   LARAS EH           N51500310E0044149100                                                                                
+SEUREAENRT   LEKKO EH           N51552700E0044601100                                                                                
+SEUREAENRT   LEKMO EH           N53263000E006543200                                                                                 
+SEUREAENRT   LILSI EH           N52282310E0052053100                                                                                
+SEUREAENRT   LISDA EH           N52140184E004223614                                                                                 
+SEUREAENRT   LOMKO EH           N52040400E004354800                                                                                 
+SEUREAENRT   LOPIK EH           N51555010E005074500                                                                                 
+SEUREAENRT   LUNIX EH           N52063540E005335545                                                                                 
+SEUREAENRT   LUTOM EH           N51155600E0052515100                                                                                
+SEUREAENRT   LWD18 EH           N53040647E005193132                                                                                 
+SEUREAENRT   LWD60 EH           N53231004E006102070                                                                                 
+SEUREAENRT   MAS06 EH           N51035487E005541290                                                                                 
+SEUREAENRT   MAS08 EH           N51061660E005563117                                                                                 
+SEUREAENRT   MAS51 EH           N50572769E005535462                                                                                 
+SEUREAENRT   MITSA EH           N51170800E005211000                                                                                 
+SEUREAENRT   MODRU EH           N51010210E0060523100                                                                                
+SEUREAENRT   MONUT EH           N52043100E0045236100                                                                                
+SEUREAENRT   NAPRO EH           N51512664E006031692                                                                                 
+SEUREAENRT   NARIX EH           N52391000E0045833100                                                                                
+SEUREAENRT   NARSO EH           N52425500E0064233100                                                                                
+SEUREAENRT   NIK08 EH           N51174657E004085031                                                                                 
+SEUREAENRT   NIRSI EH           N52350200E0043047100                                                                                
+SEUREAENRT   NOR24 EH           N50511049E006034654                                                                                 
+SEUREAENRT   NOR32 EH           N51133500E006051100                                                                                 
+SEUREAENRT   NOVEN EH           N52423700E0055353100                                                                                
+SEUREAENRT   NYKER EH           N52134900E005314400                                                                                 
+SEUREAENRT   OSGOS EH           N51105910E005550000                                                                                 
+SEUREAENRT   OSKUR EH           N52292600E006012600                                                                                 
+SEUREAENRT   OSTIR EH           N52540310E0061306100                                                                                
+SEUREAENRT   OTREB EH           N51054700E0055645100                                                                                
+SEUREAENRT   OTSOP EH           N51523237E006233526                                                                                 
+SEUREAENRT   PAM22 EH           N52150325E004303763                                                                                 
+SEUREAENRT   PAM25 EH           N52142129E004255268                                                                                 
+SEUREAENRT   PESER EH           N51365210E0043136100                                                                                
+SEUREAENRT   PETTI EH           N52441874E004400894                                                                                 
+SEUREAENRT   PIMIP EH           N51022600E0060111100                                                                                
+SEUREAENRT   POBAN EH           N52350202E004330452                                                                                 
+SEUREAENRT   PUTTY EH           N51215707E004201541                                                                                 
+SEUREAENRT   R1811 EH           N52172697E004463845                                                                                 
+SEUREAENRT   R1812 EH           N52172075E004441365                                                                                 
+SEUREAENRT   R1813 EH           N52195303E004442411                                                                                 
+SEUREAENRT   R1814 EH           N52190615E004474881                                                                                 
+SEUREAENRT   R1823 EH           N51102571E005290579                                                                                 
+SEUREAENRT   R2117 EH           N50573842E006034078                                                                                 
+SEUREAENRT   R2205 EH           N52553508E004470199                                                                                 
+SEUREAENRT   R2206 EH           N52093360E004241440                                                                                 
+SEUREAENRT   R2207 EH           N52102280E004255520                                                                                 
+SEUREAENRT   R2704 EH           N51574283E004270941                                                                                 
+SEUREAENRT   R2904 EH           N51103146E005285947                                                                                 
+SEUREAENRT   RAKIX EH           N52081101E005463651                                                                                 
+SEUREAENRT   RD001 EH           N51582185E004285499                                                                                 
+SEUREAENRT   RD002 EH           N51593924E004321620                                                                                 
+SEUREAENRT   REGSU EH           N52332900E004551300                                                                                 
+SEUREAENRT   RENDI EH           N52034200E005403900                                                                                 
+SEUREAENRT   RILTI EH           N51055010E0055305100                                                                                
+SEUREAENRT   RIVER EH           N51544600E004075700                                                                                 
+SEUREAENRT   RKN24 EH           N51591856E006093535                                                                                 
+SEUREAENRT   ROBIS EH           N52280610E0062801100                                                                                
+SEUREAENRT   ROMIN EH           N51132710E005573700                                                                                 
+SEUREAENRT   RONSA EH           N51301500E004263000                                                                                 
+SEUREAENRT   RTM01 EH           N51585708E004301384                                                                                 
+SEUREAENRT   RTM02 EH           N51592883E004313622                                                                                 
+SEUREAENRT   RTM03 EH           N52000056E004325864                                                                                 
+SEUREAENRT   RTM04 EH           N52002850E004342450                                                                                 
+SEUREAENRT   RTM09 EH           N51572801E004142279                                                                                 
+SEUREAENRT   RTM11 EH           N51571243E004103125                                                                                 
+SEUREAENRT   RTM13 EH           N51574399E004270448                                                                                 
+SEUREAENRT   RTM22 EH           N51571537E004255043                                                                                 
+SEUREAENRT   RTM23 EH           N51592572E004321227                                                                                 
+SEUREAENRT   RTM24 EH           N51594152E004320919                                                                                 
+SEUREAENRT   RTM28 EH           N51565099E004250122                                                                                 
+SEUREAENRT   RTM36 EH           N52070690E004364980                                                                                 
+SEUREAENRT   RTM40 EH           N51561809E004232241                                                                                 
+SEUREAENRT   RTM48 EH           N52083736E004464062                                                                                 
+SEUREAENRT   RTM49 EH           N52005697E004353874                                                                                 
+SEUREAENRT   RTM50 EH           N51554624E004220022                                                                                 
+SEUREAENRT   RTM60 EH           N51551437E004203806                                                                                 
+SEUREAENRT   RTM62 EH           N51552249E004373532                                                                                 
+SEUREAENRT   RTM65 EH           N51571504E004110983                                                                                 
+SEUREAENRT   RTM69 EH           N52020020E004382383                                                                                 
+SEUREAENRT   RTM70 EH           N51544249E004191594                                                                                 
+SEUREAENRT   RTM79 EH           N52023178E004394640                                                                                 
+SEUREAENRT   RTM80 EH           N51541060E004175384                                                                                 
+SEUREAENRT   RTM84 EH           N51535784E004172102                                                                                 
+SEUREAENRT   RUMER EH           N51371380E005530480                                                                                 
+SEUREAENRT   RUPIN EH           N51273800E004322600                                                                                 
+SEUREAENRT   RUSAL EH           N51225010E0050804100                                                                                
+SEUREAENRT   SILVO EH           N51585800E004541500                                                                                 
+SEUREAENRT   SOGPO EH           N51575612E006151033                                                                                 
+SEUREAENRT   SOKSI EH           N52141410E0042151100                                                                                
+SEUREAENRT   SOMEL EH           N51562610E004052100                                                                                 
+SEUREAENRT   SOMPO EH           N53235600E0065657100                                                                                
+SEUREAENRT   SONSA EH           N52200300E006444300                                                                                 
+SEUREAENRT   SOPIX EH           N53205310E006552300                                                                                 
+SEUREAENRT   SOPVI EH           N51150000E005540600                                                                                 
+SEUREAENRT   SORAT EH           N51125610E005354800                                                                                 
+SEUREAENRT   SPL14 EH           N52253594E004221917                                                                                 
+SEUREAENRT   SPL15 EH           N52085019E004283419                                                                                 
+SEUREAENRT   SPL17 EH           N52091751E004232486                                                                                 
+SEUREAENRT   SPL18 EH           N52082101E004213111                                                                                 
+SEUREAENRT   SPL20 EH           N52072071E004192987                                                                                 
+SEUREAENRT   SPL22 EH           N52054642E004162062                                                                                 
+SEUREAENRT   SPL28 EH           N52222478E004470527                                                                                 
+SEUREAENRT   SPL42 EH           N52190687E004504664                                                                                 
+SEUREAENRT   SPL43 EH           N52190873E004522448                                                                                 
+SEUREAENRT   SPL46 EH           N52191454E004573741                                                                                 
+SEUREAENRT   SPL56 EH           N52191057E004540225                                                                                 
+SEUREAENRT   SPL72 EH           N52245549E005080499                                                                                 
+SEUREAENRT   SPL97 EH           N51523548E004320107                                                                                 
+SEUREAENRT   SPY24 EH           N52084300E005015900                                                                                 
+SEUREAENRT   SPY65 EH           N53115387E006162730                                                                                 
+SEUREAENRT   SSB01 EH           N52074573E005145477                                                                                 
+SEUREAENRT   SSB06 EH           N52035254E005240189                                                                                 
+SEUREAENRT   SSB07 EH           N51570402E005120348                                                                                 
+SEUREAENRT   SSB08 EH           N52073810E005174979                                                                                 
+SEUREAENRT   SSB10 EH           N52011930E005290110                                                                                 
+SEUREAENRT   SSB11 EH           N52004096E005301581                                                                                 
+SEUREAENRT   SSB13 EH           N51592423E005324514                                                                                 
+SEUREAENRT   SSB15 EH           N51572372E005224448                                                                                 
+SEUREAENRT   SSB16 EH           N51572905E005362886                                                                                 
+SEUREAENRT   SSB18 EH           N51561219E005385783                                                                                 
+SEUREAENRT   SSB19 EH           N52014724E005145494                                                                                 
+SEUREAENRT   SSB20 EH           N52021499E005122951                                                                                 
+SEUREAENRT   SSB21 EH           N51590027E005083264                                                                                 
+SEUREAENRT   SSB24 EH           N52020703E005010979                                                                                 
+SEUREAENRT   SSB26 EH           N52054140E004585880                                                                                 
+SEUREAENRT   SSB27 EH           N52073268E005064767                                                                                 
+SEUREAENRT   SSB28 EH           N52073561E005191729                                                                                 
+SEUREAENRT   SSB31 EH           N51574604E005241032                                                                                 
+SEUREAENRT   SSB33 EH           N51555763E005253329                                                                                 
+SEUREAENRT   SSB41 EH           N51591930E005280469                                                                                 
+SEUREAENRT   SSB50 EH           N52071914E005261532                                                                                 
+SEUREAENRT   SSB51 EH           N52045471E005334807                                                                                 
+SEUREAENRT   SSB53 EH           N52070741E005310691                                                                                 
+SEUREAENRT   SSB57 EH           N52072772E005015553                                                                                 
+SEUREAENRT   SSB58 EH           N52074080E005151409                                                                                 
+SEUREAENRT   SSB59 EH           N52070345E005324410                                                                                 
+SEUREAENRT   SSB60 EH           N52030455E005102020                                                                                 
+SEUREAENRT   SSB81 EH           N52014225E005163628                                                                                 
+SEUREAENRT   SSB95 EH           N52074347E005180940                                                                                 
+SEUREAENRT   SSB96 EH           N52065948E005342129                                                                                 
+SEUREAENRT   SSB99 EH           N52033783E005413830                                                                                 
+SEUREAENRT   SUMAS EH           N50561100E0060106100                                                                                
+SEUREAENRT   SUPAM EH           N52092000E0052013100                                                                                
+SEUREAENRT   SUSET EH           N52074400E005075400                                                                                 
+SEUREAENRT   TANGO EH           N53035341E004433050                                                                                 
+SEUREAENRT   TEBRO EH           N51533900E006351600                                                                                 
+SEUREAENRT   TEMLU EH           N53282710E0065148100                                                                                
+SEUREAENRT   TENLI EH           N52144700E006150100                                                                                 
+SEUREAENRT   TILVU EH           N51310400E005061400                                                                                 
+SEUREAENRT   TINIK EH           N51082491E006055801                                                                                 
+SEUREAENRT   TOLEN EH           N51314900E004051200                                                                                 
+SEUREAENRT   TOTNA EH           N51421100E005153800                                                                                 
+SEUREAENRT   TWN23 EH           N52141473E006480518                                                                                 
+SEUREAENRT   UNKAR EH           N52011800E006095400                                                                                 
+SEUREAENRT   VBG08 EH           N52091736E004234089                                                                                 
+SEUREAENRT   VBG14 EH           N52103932E004262927                                                                                 
+SEUREAENRT   VBG24 EH           N52081787E004213816                                                                                 
+SEUREAENRT   VBG30 EH           N52113882E004283202                                                                                 
+SEUREAENRT   VBG40 EH           N52071836E004193560                                                                                 
+SEUREAENRT   VBG45 EH           N52123463E004302713                                                                                 
+SEUREAENRT   VBG59 EH           N52132671E004321453                                                                                 
+SEUREAENRT   VBG65 EH           N52064504E004182374                                                                                 
+SEUREAENRT   VEROR EH           N52540600E006225800                                                                                 
+SEUREAENRT   VKL00 EH           N51395373E005434472                                                                                 
+SEUREAENRT   VKL02 EH           N51401853E005451332                                                                                 
+SEUREAENRT   VKL03 EH           N51373873E005382603                                                                                 
+SEUREAENRT   VKL04 EH           N51530817E006010069                                                                                 
+SEUREAENRT   VKL05 EH           N51410113E005462426                                                                                 
+SEUREAENRT   VKL07 EH           N51424213E005502382                                                                                 
+SEUREAENRT   VKL10 EH           N51385071E005410089                                                                                 
+SEUREAENRT   VKL36 EH           N51495187E005544038                                                                                 
+SEUREAENRT   VKL55 EH           N51463725E005594394                                                                                 
+SEUREAENRT   VKL68 EH           N51493037E005354225                                                                                 
+SEUREAENRT   VKL69 EH           N51355243E005253905                                                                                 
+SEUREAENRT   VKL70 EH           N51391599E005244456                                                                                 
+SEUREAENRT   VKL71 EH           N51362399E005340077                                                                                 
+SEUREAENRT   VKL72 EH           N51335686E005270141                                                                                 
+SEUREAENRT   VKL81 EH           N51535455E005592475                                                                                 
+SEUREAENRT   WOODY EH           N51242000E004215900                                                                                 
+SEUREAENRT   ZANDA EH           N52232210E004552100                                                                                 
+SEUREAENRT   ZL004 EH           N50584360E005501833                                                                                 
+SEUREAENRT   ZL006 EH           N51004445E005522222                                                                                 
+SEURDB       BC    EH000365     N51221300E0042926100                                                                                
+SEURDB       SO    EH000330     N53125505E006470659                                                                                 
+SEURDB       VZ    EH000357     N53015352E006234568                                                                                 
+SEURDB       PH    EH000316     N51334600E005302000                                                                                 
+SEURDB       EHN   EH000397     N51280400E0052341100                                                                                
+SEURDB       ONT   EH000431     N51124710E005332700                                                                                 
+SEURDB       LAK   EH000347     N52304310E005341000                                                                                 
+SEURDB       LLS   EH000326     N52274631E005315495                                                                                 
+SEURDB       NW    EH000373     N51010971E005524204                                                                                 
+SEURDB       PS    EH000369     N51515148E004123776                                                                                 
+SEURDB       RR    EH000404     N52001575E004460859                                                                                 
+SEURDB       ROT   EH000350     N51535131E004331565                                                                                 
+SEURDB       GV    EH000364     N52053810E0041512100                                                                                
+SEURDB       NV    EH000332     N52090502E004455340                                                                                 
+SEURDB       OA    EH000395     N52281298E004451197                                                                                 
+SEURDB       WP    EH000376     N52193397E0050128100                                                                                
+SEURDB       CH    EH000388     N52131422E004332736                                                                                 
+SEURDB       SPY   EH000381     N52323000E004502900                                                                                 
+SEURDB       STD   EH000386     N51442877E004143655                                                                                 
+SEURDB       WDT   EH000345     N51262310E004205200                                                                                 
+SEURD        AMS   EH011395V    N52195800E004422000                                                                                 
+SEURD        COA   EH011005V    N51205300E003211900                                                                                 
+SEURD        DLN   EH011220V    N52032604E005522202                                                                                 
+SEURD        HDR   EH011555V    N52542410E0044556100                                                                                
+SEURD        EEL   EH011240V    N53095006E006400003                                                                                 
+SEURD        EHV   EH011720V    N51265298E005223000                                                                                 
+SEURD        GZR   EH011640V    N51335802E0045600100                                                                                
+SEURD        MAS   EH010860V    N50581899E005573754                                                                                 
+SEURD        PAM   EH011780V    N52200514E005053178                                                                                 
+SEURD        RKN   EH011680V    N52075951E006454996                                                                                 
+SEURD        RTM   EH011040V    N51582531E004285149                                                                                 
+SEURD        SPL   EH010840V    N52195572E004445958                                                                                 
+SEURD        SSB   EH011580V    N52074197E005163202                                                                                 
+SEURD        SPY   EH011330V    N52322501E004511361                                                                                 
+SEURD        WDT   EH011500V    N51265101E004203801                                                                                 
+SEURD        KAG   EH011055 D   N52182359E004470580                                                                                 
+SEURD        VPB   EH011010 D   N52212625E004425010                                                                                 
+SEURD        SCH   EH010915 D   N52184792E004475519                                                                                 
+SEURD        BVB   EH011155 D   N52191106E004473117                                                                                 
+SEURD        MSA   EH010875 D   N52183174E004440824                                                                                 
+SEURD        ABA   EH011195 D   N52173744E004463009                                                                                 
+SEURD        EHZ   EH010975 D   N51263418E005220636                                                                                 
+SEURD        EHO   EH010975 D   N51272230E005230156                                                                                 
+SEURD        ROS   EH011090 D   N51571990E004260114                                                                                 
+SEURD        RSV   EH011090 D   N51574046E004265257                                                                                 
+SEURD        VLO   EH011075 D   N51394700E0054311100                                                                                
+SEURD        VLZ   EH011075 D   N51390500E0054144100                                                                                
+SEURD        AMS   EH011395 D   N52195800E004422000                                                                                 
+SEURD        COA   EH011005 D   N51205300E003211900                                                                                 
+SEURD        DLN   EH011220 D   N52032604E005522202                                                                                 
+SEURD        HDR   EH011555 D   N52542410E0044556100                                                                                
+SEURD        EEL   EH011240 D   N53095006E006400003                                                                                 
+SEURD        EHV   EH011720 D   N51265298E005223000                                                                                 
+SEURD        GZR   EH011640 D   N51335802E0045600100                                                                                
+SEURD        MAS   EH010860 D   N50581899E005573754                                                                                 
+SEURD        PAM   EH011780 D   N52200514E005053178                                                                                 
+SEURD        RKN   EH011680 D   N52075951E006454996                                                                                 
+SEURD        RTM   EH011040 D   N51582531E004285149                                                                                 
+SEURD        SPL   EH010840 D   N52195572E004445958                                                                                 
+SEURD        SSB   EH011580 D   N52074197E005163202                                                                                 
+SEURD        SPY   EH011330 D   N52322501E004511361                                                                                 
+SEURD        WDT   EH011500 D   N51265101E004203801                                                                                 
+SEURD        DLN   EH011220 D   N52032510E005522200                                                                                 
+SEURD        GRO   EH010990 D   N53072039E006351538                                                                                 
+SEURD        EHV   EH011720 D   N51265300E005223000                                                                                 
+SEURD        GIX   EH010810 D   N50574710E006024271                                                                                 
+SEURD        GZR   EH011640 D   N51335710E0045600100                                                                                
+SEURD        FRT   EH011715 D   N52001565E004460887                                                                                 
+SEURD        BBL   EH010960 D   N51101300E005275900                                                                                 
+SEURD        LWD   EH011470 D   N53132410E0054506100                                                                                
+SEURD        FRT   EH011140 D   N52270013E005302781                                                                                 
+SEURD        SSB   EH011580 D   N52074110E005163200                                                                                 
+SEURD        VBG   EH011120 D   N52094100E004245100                                                                                 
+SEURD        VKL   EH010830 D   N51392000E0054224100                                                                                
+SEURD        WDT   EH011500 D   N51265010E004203800                                                                                 
+SEURER       L620        0260PAM  EHD       O                                      06500     19500                                  
+SEURER       L620        0270BASNOEHEA      O                             0190     06500     19500                                  
+SEURER       L620        0280TULIP  EA      O                             0263     05500     19500                                  
+SEURER       B1          0040ZANDAEHEA      O                             0292     05500     19500                                  
+SEURER       B1          0050PAM  EHD       O                             0070     05500     19500                                  
+SEURER       A5          0260SPY  EHD       O                                      03500     19500                                  
+SEURER       A5          0270EKROSEHEA      O                             0201     03500     19500                                  
+SEURER       A5          0280STD  EHD       O                             0329     03500     19500                                  
+SEURER       A5          0290TOLENEHEA      O                             0140     03500     19500                                  
+SEURER       A5          0300HELENEBEA      O                             0194     08500     19500                                  
+SEURER       L980        0080PAM  EHD       O                                      05500     19500                                  
+SEURER       L980        0090EKROSEHEA      O                             0183     05500     19500                                  
+SEURER       L980        0100VALKO  EA      O                             0304     05500     19500                                  
+SEURER       Z311        0010BATAKEHEA      O                                      09500     19500                                  
+SEURER       Z311        0020BEKEMEHEA      O                             0114     09500     19500                                  
+SEURER       Z311        0030NIK  EBD       O                             0219     09500     19500                                  
+SEURER       Z310        0010SUSETEHEA      O                                      09500     19500                                  
+SEURER       Z310        0020BATAKEHEA      O                             0358     09500     19500                                  
+SEURER       Z310        0030WOODYEHEA      O                             0186     09500     19500                                  
+SEURER       B31         0050WOODYEHEA      O                             0160     03500     19500                                  
+SEURER       B31         0060LARASEHEA      O                             0286     03500     19500                                  
+SEURER       B31         0070LEKKOEHEA      O                             0060     03500     19500                                  
+SEURER       B31         0080PAM  EHD       O                             0274     03500     19500                                  
+SEURER       R12         0010GRONYEHEA      O                                      06500     19500                                  
+SEURER       R12         0020BEDUMEHEA      O                             0241     06500     19500                                  
+SEURER       R12         0030LABIL  EA      O                             0120     06500     19500                                  
+SEURER       R12         0100SPY  EHD       O                                      05500     19500                                  
+SEURER       R12         0110TULIP  EA      O                             0379     05500     19500                                  
+SEURER       L602        0020SPY  EHD       O                             0220     05500     19500                                  
+SEURER       UZ28        0060RENDIEHEA      O                                      24500     45000                                  
+SEURER       UZ28        0070SPY  EHD       O                             0417     24500     45000                                  
+SEURER       L603        0240DIDAMEHEA      O                                      09500     19500                                  
+SEURER       L603        0250TEBROEHEA      O                             0128     09500     19500                                  
+SEURER       G10         0090SPY  EHD       O                                      04000     18000                                  
+SEURER       G10         0100ENKOSEHEA      O                             0164     06500     19500                                  
+SEURER       G10         0110EEL  EHD       O                             0592     06500     19500                                  
+SEURER       G10         0120DOBAKEDEA      O                             0200     06500     19500                                  
+SEURER       V33         0030EHN  EHD       OL                                     06500     07500                                  
+SEURER       V33         0040TOTNAEHEA      OL                            0150     06500     07500                                  
+SEURER       V33         0050LOPIKEHEA      OL                            0145     06500     07500                                  
+SEURER       A24         0040NIK08EHEA      O                                      03500     19500                                  
+SEURER       A24         0050TOLENEHEA      O                             0142     03500     19500                                  
+SEURER       Y50         0050COA  EHD       O                             0051     05500     19500                                  
+SEURER       J904        0060MAS  EHD       OH                            0117     09500     19500                                  
+SEURER       L745        0010COA  EHD       O                                      05500     19500                                  
+SEURER       L745        0020COA1 EHEA      O                             0014     05500     19500                                  
+SEURER       L745        0030DIBRU  EA      O                             0169     05500     19500                                  
+SEURER       L179        0030ROMINEHEA      O                             0069     09500     19500                                  
+SEURER       L179        0040SORATEHEA      O                             0137     09500     19500                                  
+SEURER       L179        0050ONT  EHD       O                             0015     04500     19500                                  
+SEURER       L179        0060ELSIKEBEA      O                             0211     04500     19500                                  
+SEURER       L179        0100COA  EHD       O                             0206     05500     19500                                  
+SEURER       L179        0110SASKI  EA      O                             0342     05500     19500                                  
+SEURER       UL602       0020SPY  EHD       O                             0220     19500     66000                                  
+SEURER       UL602       0030RKN  EHD       O                             0742     24500     66000                                  
+SEURER       A7          0070EEL  EHD       O                                      06500     19500                                  
+SEURER       A7          0080TEMLUEHEA      O                             0199     06500     19500                                  
+SEURER       A7          0090JUIST  EA      O                             0057     04000     24000                                  
+SEURER       R1          0100EEL  EHD       O                             0157     06500     19500                                  
+SEURER       R1          0110LILSIEHEA      O                             0633     06500     19500                                  
+SEURER       R1          0120PAM  EHD       O                             0125     06500     19500                                  
+SEURER       R125        0020SOMPOEHEA      O                             0583     04000     24000                                  
+SEURER       R125        0030EEL  EHD       O                             0174     06500     19500                                  
+SEURER       R7          0110LUTOMEHEA      O                                      06500     19500                                  
+SEURER       R7          0120LOPIKEHEA      O                             0414     06500     19500                                  
+SEURER       R7          0130SPY24EHEA      O                             0134     06500     19500                                  
+SEURER       R7          0140ZANDAEHEA      O                             0152     06500     19500                                  
+SEURER       R7          0150SPY  EHD       O                             0094     06500     19500                                  
+SEURER       Z717        0040MAS  EHD       O                                      09500     19500                                  
+SEURER       Z717        0050GOBNOEHEA      O                             0014     09500     19500                                  
+SEURER       Z717        0060MODRUEHEA      O                             0042     10000     24000                                  
+SEURER       Z717        0070RUDELEDEA      O                             0297     12000     24000                                  
+SEURER       G105        0010EEL  EHD       O                                      06500     19500                                  
+SEURER       G105        0020GRONYEHEA      O                             0223     06500     19500                                  
+SEURER       R57         0010INKETEHEA      O                                      06500     07500                                  
+SEURER       R57         0020EHN  EHD       O                             0312     06500     07500                                  
+SEURER       R57         0030THN  EHEA      O                             0237     06500     07500                                  
+SEURER       R57         0040RILTIEHEA      O                             0055     01500     07500                                  
+SEURER       R57         0050MAS  EHD       O                             0081     01500     07500                                  
+SEURER       G9          0020RKN  EHD       O                             0041     06500     19500                                  
+SEURER       R105        0010FLEVOEHEA      O                                      06500     19500                                  
+SEURER       R105        0020PAM  EHD       O                             0189     06500     19500                                  
+SEURER       B5          0010SPY  EHD       O                                      06500     19500                                  
+SEURER       B5          0020FLEVOEHEA      O                             0289     06500     19500                                  
+SEURER       B5          0030TENLIEHEA      O                             0252     06500     19500                                  
+SEURER       B5          0040RKN  EHD       O                             0201     06500     19500                                  
+SEURER       B5          0050RELBIEDEA      O                             0020     04000     24000                                  
+SEURER       L74         0070LARASEHEA      O                                      05500     19500                                  
+SEURER       L74         0080RTM  EHD       O                             0116     05500     19500                                  
+SEURER       L74         0090TULIP  EA      O                             0330     05500     19500                                  
+SEURER       P55         0010RKN  EHD       O                                      07500     18000                                  
+SEURER       P55         0020GOTIGEHEA      O                             0009     07500     18000                                  
+SEURER       P55         0030SONEBEDEA      O                             0057     08000     18000                                  
+SEURER       B315        0010LEKKOEHEA      O                                      03500     19500                                  
+SEURER       B315        0020SPY  EHD       O                             0371     03500     19500                                  
+SEURER       Y283        0040SUMASEHEA      O                             0075     09500     19500                                  
+SEURER       Z283        0010MODRUEHEA      O                                      03500     60000                                  
+SEURER       Z283        0020NETEXEDEA      O                             0198     03500     60000                                  
+SEURER       Y282        0010NAPSIEHEA      O                                      10000     19500                                  
+SEURER       Y282        0020RENDIEHEA      O                             0178     10000     19500                                  
+SEURER       A24-L       0020NIK08EHEA      O                             0080     04500     19500                                  
+SEURER       B1-L6       0010NYKEREHEA      O                                      06500     19500                                  
+SEURER       B1-L6       0020PAM  EHD       O                             0172     06500     19500                                  
+SEURER       R127        0020SPY  EHD       O                             0237     05500     19500                                  
+SEURER       P64         0020TENLIEHEA      O                             0232     07500     19500                                  
+SEURER       UN873       0250BEDUMEHEA      O                                      19500     66000                                  
+SEURER       UN873       0260SPY  EHD       O                             0793     19500     66000                                  
+SEURER       UN873       0410EKROSEHEA      O                                      19500     66000                                  
+SEURER       UN873       0420HELENEBEA      O                             0662     19500     66000                                  
+SEURER       UL620       0050PAM  EHD       O                                      26000     66000                                  
+SEURER       UL620       0060BASNOEHEA      O                             0190     26000     66000                                  
+SEURER       UL620       0070TULIP  EA      O                             0263     26000     66000                                  
+SEURER       UN852       0010LUTOMEHEA      O                                      24500     60000                                  
+SEURER       UN852       0020BROGYEHEA      O                             0051     24500     60000                                  
+SEURER       UN852       0030TERLAEBEA      O                             0311     24500     60000                                  
+SEURER       TB6         0050NOR32EHEA      RL                            0023     25000     45000                                  
+SEURER       TB6         0060VBG  EHD       RL                            0838     21000     60000                                  
+SEURER       TB6         0070NAVPI  EA      RL                            0622     21000     60000                                  
+SEURER       UN872       0340EEL  EHD       O                                      27500     66000                                  
+SEURER       UN872       0350WOODYEHEA      O                             1352     27500     66000                                  
+SEURER       UN872       0360NIK  EBD       O                             0160     19500     60000                                  
+SEURER       UZ709       0030RUPINEHEA      O                             0308     24500     66000                                  
+SEURER       UZ709       0040KUVEK  EA      O                             1541     25000     66000                                  
+SEURER       UL603       0010SUPAMEHEA      O                                      24500     66000                                  
+SEURER       UL603       0020BASNOEHEA      O                             0304     24000     66000                                  
+SEURER       UL603       0030EVELI  EA      O                             0474     24000     66000                                  
+SEURER       UL603       0190TEBROEHEA      O                             0241     19500     66000                                  
+SEURER       UL603       0200DIDAMEHEA      O                             0128     19500     66000                                  
+SEURER       UZ310       0010WOODYEHEA      O                                      19500     66000                                  
+SEURER       UZ310       0020BATAKEHEA      O                             0186     19500     60000                                  
+SEURER       UZ310       0030SUSETEHEA      O                             0358     19500     60000                                  
+SEURER       UZ310       0040LILSIEHEA      O                             0222     19500     60000                                  
+SEURER       UY70        0120SPY  EHD       O                             0424     24500     66000                                  
+SEURER       UL608       0120COA  EHD       O                                      19500     66000                                  
+SEURER       UL608       0130DENUTEBEA      O                             0132     19500     60000                                  
+SEURER       UZ717       0110GOBNOEHEA      O                                      19500     24500                                  
+SEURER       UZ717       0120MAS  EHD       O                             0014     19500     24500                                  
+SEURER       UZ29        0070TINIKEHEA      O                             0193     25000     66000                                  
+SEURER       UZ29        0110EVOSAEHEA      O                             0597     27500     60000                                  
+SEURER       UZ29        0120THN  EHEA      O                             0024     24500     66000                                  
+SEURER       UP603       0010EEL  EHD       O                                      24500     66000                                  
+SEURER       UP603       0020BEDUMEHEA      O                             0114     24500     66000                                  
+SEURER       UP603       0030MOKUM  EA      O                             0704     24500     66000                                  
+SEURER       UR12        0010BEDUMEHEA      O                                      19500     66000                                  
+SEURER       UR12        0020GRONYEHEA      O                             0241     19500     66000                                  
+SEURER       UR12        0030SPY  EHD       O                                      19500     66000                                  
+SEURER       UR12        0040TULIP  EA      O                             0379     19500     66000                                  
+SEURER       UN873       0010BEDUMEHEA      O                                      19500     66000                                  
+SEURER       UN873       0020LABIL  EA      O                             0120     19500     66000                                  
+SEURER       UZ700       0020BEDUMEHEA      O                             1152     24500     66000                                  
+SEURER       UZ700       0030LEKMOEHEA      O                             0128     24500     66000                                  
+SEURER       UZ700       0040NIKILEDEA      O                             0140     25000     66000                                  
+SEURER       UL980       0330EKROSEHEA      O                             0304     19500     66000                                  
+SEURER       UL980       0340PAM  EHD       O                             0183     19500     66000                                  
+SEURER       UL980       0350RKN  EHD       O                             0626     24500     66000                                  
+SEURER       TL2         0040GIX  EHD       RL                            0257     25000     45000                                  
+SEURER       UB1         0040ZANDAEHEA      O                             0292     19500     66000                                  
+SEURER       UB1         0050PAM  EHD       O                             0070     19500     66000                                  
+SEURER       UZ291       0010THN  EHEA      O                                      24500     66000                                  
+SEURER       UZ291       0020BREDAEHEA      O                             0431     24500     66000                                  
+SEURER       UZ291       0030HSD    D       O                             0383     24500     66000                                  
+SEURER       UA24        0070NIK08EHEA      O                             0080     19500     60000                                  
+SEURER       UA24        0080TOLENEHEA      O                             0142     19500     60000                                  
+SEURER       UM617       0060MAS  EHD       O                             0088     19500     66000                                  
+SEURER       TR1         0090LWD  EHD       RL                            0369     20000     60000                                  
+SEURER       TR1         0100MC3  EHEA      RL                            0241     20000     60000                                  
+SEURER       TR1         0110MC2    EA      RL                            0514     20000     60000                                  
+SEURER       UZ701       0050EEL  EHD       O                             0168     24500     66000                                  
+SEURER       UZ701       0060SPY  EHD       O                             0756     24500     66000                                  
+SEURER       UZ701       0070GORLO  EA      O                             0721     24500     66000                                  
+SEURER       UY50        0050COA  EHD       O                             0051     19500     24500                                  
+SEURER       UL745       0010COA  EHD       O                                      19500     66000                                  
+SEURER       UL745       0020COA1 EHEA      O                             0014     19500     66000                                  
+SEURER       UL745       0030DIBRU  EA      O                             0169     19500     66000                                  
+SEURER       UL179       0010COA  EHD       O                                      19500     60000                                  
+SEURER       UL179       0020HELENEBEA      O                             0206     19500     60000                                  
+SEURER       UL179       0010COA  EHD       O                                      19500     66000                                  
+SEURER       UL179       0020KEGIT  EA      O                             0100     19500     66000                                  
+SEURER       UZ738       0060TEBROEHEA      O                             0371     25000     66000                                  
+SEURER       UL7         0070SPY  EHD       O                             0847     24500     66000                                  
+SEURER       UL7         0080PAM  EHD       O                             0151     24500     66000                                  
+SEURER       UM624       0070TOLENEHEA      O                                      24500     66000                                  
+SEURER       UM624       0080TULIP  EA      O                             0510     24500     66000                                  
+SEURER       UG10        0030SPY  EHD       O                                      19500     66000                                  
+SEURER       UG10        0040ENKOSEHEA      O                             0164     19500     66000                                  
+SEURER       UG10        0050EEL  EHD       O                             0592     19500     66000                                  
+SEURER       UG10        0060DOBAKEDEA      O                             0200     19500     66000                                  
+SEURER       UG105       0010EEL  EHD       O                                      19500     66000                                  
+SEURER       UG105       0020GRONYEHEA      O                             0223     19500     66000                                  
+SEURER       UN872       0010EEL  EHD       O                                      27500     66000                                  
+SEURER       UN872       0020KUBATEDEA      O                             0157     27500     66000                                  
+SEURER       UR1         0010EEL  EHD       O                                      19500     66000                                  
+SEURER       UR1         0020LILSIEHEA      O                             0633     19500     66000                                  
+SEURER       UR1         0030PAM  EHD       O                             0125     19500     66000                                  
+SEURER       UR125       0010EEL  EHD       O                                      19500     66000                                  
+SEURER       UR125       0020SOMPOEHEA      O                             0174     19500     66000                                  
+SEURER       UA7         0010EEL  EHD       O                                      19500     66000                                  
+SEURER       UA7         0020TEMLUEHEA      O                             0199     19500     66000                                  
+SEURER       UA7         0030JUIST  EA      O                             0057     25000     66000                                  
+SEURER       UA5-U       0010EKROSEHEA      O                                      19500     66000                                  
+SEURER       UA5-U       0020SPY  EHD       O                             0201     19500     66000                                  
+SEURER       UA5         0010EKROSEHEA      O                                      19500     66000                                  
+SEURER       UA5         0020STD  EHD       O                             0329     19500     66000                                  
+SEURER       UA5         0030TOLENEHEA      O                             0140     19500     66000                                  
+SEURER       UA5         0040HELENEBEA      O                             0194     19500     66000                                  
+SEURER       UG9-U       0020RKN  EHD       O                             0041     24500     66000                                  
+SEURER       UR105       0010FLEVOEHEA      O                                      19500     66000                                  
+SEURER       UR105       0020PAM  EHD       O                             0189     19500     66000                                  
+SEURER       UB5         0010SPY  EHD       O                                      19500     66000                                  
+SEURER       UB5         0020FLEVOEHEA      O                             0289     19500     66000                                  
+SEURER       UB5         0030TENLIEHEA      O                             0252     19500     66000                                  
+SEURER       UB5         0040RKN  EHD       O                             0201     19500     66000                                  
+SEURER       TL2N        0010GIX  EHD       RL                                     25000     45000                                  
+SEURER       TL2N        0020IBAGUEDEA      RL                            0999     25000     45000                                  
+SEURER       UL480       0020RENDIEHEA      O                             0930     24500     66000                                  
+SEURER       UL480       0030RKN  EHD       O                             0403     24500     66000                                  
+SEURER       UZ702       0020SOPIXEHEA      O                             1692     24500     60000                                  
+SEURER       UZ702       0030NIKILEDEA      O                             0171     25000     66000                                  
+SEURER       TL3N        0010LWD  EHD       RL                                     21000     60000                                  
+SEURER       TL3N        0020HOP28EDEA      RL                            0557     21000     60000                                  
+SEURER       TL3         0010MC3  EHEA      RL                                     21000     60000                                  
+SEURER       TL3         0020HOP31EHEA      RL                            0629     21000     60000                                  
+SEURER       TL3         0030MCS  EDEA      RL                            0112     25000     45000                                  
+SEURER       UZ705       0040PAM  EHD       O                             1339     24500     66000                                  
+SEURER       UZ704       0040SPY  EHD       O                             1282     24500     66000                                  
+SEURER       UR127       0030SPY  EHD       O                             0237     19500     66000                                  
+SEURER       UB31        0010WOODYEHEA      O                                      19500     66000                                  
+SEURER       UB31        0020LARASEHEA      O                             0286     19500     66000                                  
+SEURER       UB31        0030LEKKOEHEA      O                             0060     19500     66000                                  
+SEURER       UB31        0040PAM  EHD       O                             0274     19500     66000                                  
+SEURER       UL74        0010LARASEHEA      O                                      19500     24500                                  
+SEURER       UL74        0020RTM  EHD       O                             0116     19500     24500                                  
+SEURER       UL74        0030TULIP  EA      O                             0330     19500     24500                                  
+SEURER       UB315       0010LEKKOEHEA      O                                      19500     66000                                  
+SEURER       UB315       0020SPY  EHD       O                             0371     19500     66000                                  
+SEURER       UY283       0040SUMASEHEA      O                             0075     19500     66000                                  
+SEURER       UN852       0010LUTOMEHEA      O                                      19500     66000                                  
+SEURER       UN852       0020LOPIKEHEA      O                             0414     19500     66000                                  
+SEURER       UN852       0030ZANDAEHEA      O                             0286     19500     66000                                  
+SEURER       UN852       0040SPY  EHD       O                             0094     19500     66000                                  
+SEURER       TR1N        0010LWD  EHD       RL                                     21000     60000                                  
+SEURER       TR1N        0020MC9    EA      RL                            0772     21000     60000                                  
+SEURER       UY282       0010NAPSIEHEA      O                                      24500     45000                                  
+SEURER       UY282       0020RENDIEHEA      O                             0178     24500     45000                                  
+SEURER       UB1-U       0010NYKEREHEA      O                                      26000     66000                                  
+SEURER       UB1-U       0020PAM  EHD       O                             0172     26000     66000                                  
+SEURER       UB5-U       0020RKN  EHD       O                             0020     24500     66000                                  
+SEURER       UP64        0020TENLIEHEA      O                             0232     19500     66000                                  
+SEURER       UZ29-       0010THN  EHEA      O                                      24500     66000                                  
+SEURER       UZ29-       0020TINIKEHEA      O                             0103     24500     66000                                  

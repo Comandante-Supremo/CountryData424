@@ -1,0 +1,32 @@
+SEUREAENRT   ALROD LV           N32042420E035143586                                                                                 
+SEUREAENRT   ASNAD LV           N31535720E035081285                                                                                 
+SEUREAENRT   ATARA LV           N31595620E035095886                                                                                 
+SEUREAENRT   BGN29 LV           N31514424E035245396                                                                                 
+SEUREAENRT   ESTER LV           N31442819E035132987                                                                                 
+SEUREAENRT   LORIM LV           N31555220E035091086                                                                                 
+SEUREAENRT   NEGEV LV           N31525620E035262888                                                                                 
+SEUREAENRT   NEOMI LV           N31345918E035171987                                                                                 
+SEUREAENRT   SALAM LV           N31555620E035305889                                                                                 
+SEUREAENRT   SHAYO LV           N31595621E035305889                                                                                 
+SEUREAENRT   SIVAK LV           N31421219E035283089                                                                                 
+SEUREAENRT   TAGEL LV           N32045620E035095886                                                                                 
+SEUREAENRT   TALMI LV           N31493819E035301689                                                                                 
+SEUREAENRT   ZAFON LV           N32021620E035044885                                                                                 
+SEURDB       IRM   LV000336     N31514819E035125886                                                                                 
+SEURER       J10         0020LORIMLVEA      OH                            0150     06000     09000                                  
+SEURER       J10         0030TALMILVEA      OH                            0190     06000     10000                                  
+SEURER       J10         0040SIVAKLVEA      OH                            0076     05000     19000                                  
+SEURER       J17         0020SALAMLVEA      OH                            0330     07000     08000                                  
+SEURER       J19         0030SALAMLVEA      OH                                     11000     11000                                  
+SEURER       J19         0040ZAFONLVEA      OH                            0231     11000     11000                                  
+SEURER       J31         0030TAGELLVEA      OH                            0137     13000     13000                                  
+SEURER       J31         0040SHAYOLVEA      OH                            0185     13000     13000                                  
+SEURER       J10F        0010LORIMLVEA      OH                                     05000     09000                                  
+SEURER       J10F        0020ESTERLVEA      OH                            0120     05000     09000                                  
+SEURER       J10F        0030NEOMILVEA      OH                            0100     08000     09000                                  
+SEURER       J10F        0040MZD  LLD       OH                            0160     05000     09000                                  
+SEURER       UJ10        0020TALMILVEA      O                             0340     20000     41000                                  
+SEURER       UJ10        0030SIVAKLVEA      O                             0076     20000     41000                                  
+SEURER       UJ10        0040MZD  LLD       O                             0228     20000     41000                                  
+SEURER       UJ10C       0010NEGEVLVEA      O                                      20000     41000                                  
+SEURER       UJ10C       0020SIVAKLVEA      O                             0109     20000     41000                                  

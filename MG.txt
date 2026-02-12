@@ -1,0 +1,66 @@
+SAFREAENRT   1550S              S15000000E050000000                                                                                 
+SAFREAENRT   ANDIL              S13424700E0480021100                                                                                
+SAFREAENRT   DIRBA              S17554710E047000000                                                                                 
+SAFREAENRT   DOBAR              S18322610E0463006100                                                                                
+SAFREAENRT   GATLA              S16372410E048490300                                                                                 
+SAFREAENRT   IXAGU              S19544100E0450845100                                                                                
+SAFREAENRT   IXARI              S18224510E0484148100                                                                                
+SAFREAENRT   SOPVI              S19150100E0463424100                                                                                
+SAFREAENRT   TIDAL              S18081210E044585800                                                                                 
+SAFREAENRT   TIKAP              S16011510E049101300                                                                                 
+SAFREAENRT   UVGAD              S16274700E0463420100                                                                                
+SAFREAENRT   UVGET              S15002010E0494606100                                                                                
+SAFRDB       TN      000385     S18185780E047064960                                                                                 
+SAFRDB       AH      000321     S14595610E050190450                                                                                 
+SAFRDB       NT      000370     S18485630E047361630                                                                                 
+SAFRDB       IO      000305     S18470270E047233440                                                                                 
+SAFRDB       IA      000364     S18473610E047271770                                                                                 
+SAFRDB       TAN     000276     S18500480E047281930                                                                                 
+SAFRDB       AT      000374     S14541500E047594400                                                                                 
+SAFRDB       DO      000390     S12204680E0491721100                                                                                
+SAFRDB       VSF     000322     S21262437E047063909                                                                                 
+SAFRDB       VSL     000402     S15255910E0494059100                                                                                
+SAFRDB       MMY     000267     S18482121E049015445                                                                                 
+SAFRDB       TE      000371     S18571232E048133181                                                                                 
+SAFRDB       VSO     000397     S20171550E044190190                                                                                 
+SAFRDB       TW      000350     S19102422E046440603                                                                                 
+SAFRDB       TO      000394     S18022650E049230590                                                                                 
+SAFRDB       VSQ     000367     S23232170E043432030                                                                                 
+SAFRD        TNV     011450V    S18481110E047310720                                                                                 
+SAFRD        TNV     011450 D   S18481110E047310720                                                                                 
+SAFRER       A401F       0040UVGAD  EA      O                             0502     08500     24500                                  
+SAFRER       A401F       0050DIRBA  EA      O                             0914     08500     24500                                  
+SAFRER       A401F       0060TN     D       O                             0241     08500     24500                                  
+SAFRER       A401F       0070TNV    D       O                             0372     11500     24500                                  
+SAFRER       A401F       0080TE     D       O                             0412     08500     24500                                  
+SAFRER       A401F       0090TIGUR  EA      O                             1088     08500     24500                                  
+SAFRER       UA401       0070UVGAD  EA      O                             0502     24500     46000                                  
+SAFRER       UA401       0080DIRBA  EA      O                             0914     24500     46000                                  
+SAFRER       UA401       0090TN     D       O                             0241     24500     46000                                  
+SAFRER       UA401       0100TNV    D       O                             0372     24500     46000                                  
+SAFRER       UA401       0190TE     D       O                                      24500     46000                                  
+SAFRER       UA401       0200TIGUR  EA      O                             1088     24500     46000                                  
+SAFRER       UA400       0010TNV    D       O                                      24500     46000                                  
+SAFRER       UA400       0020DOBAR  EA      O                             0599     24500     46000                                  
+SAFRER       UA400       0030TIDAL  EA      O                             0899     24500     46000                                  
+SAFRER       UA400       0040GADNO  EA      O                             1957     14500     40000                                  
+SAFRER       UA609       0020DO     D       O                             1320     24500     46000                                  
+SAFRER       UA609       0030TIKEL  EA      O                             1066     24500     46000                                  
+SAFRER       UB459       0070TNV    D       O                                      24500     46000                                  
+SAFRER       UB459       0080GATLA  EA      O                             1505     24500     46000                                  
+SAFRER       UB459       0090TIKAP  EA      O                             0415     24500     46000                                  
+SAFRER       UB459       0100UVGET  EA      O                             0701     24500     46000                                  
+SAFRER       UB459       0110SA     D       O                             0497     24500     46000                                  
+SAFRER       UB536       0010VSO    D       O                                      24500     46000                                  
+SAFRER       UB536       0020EDAMA  EA      O                             2359     24500     46000                                  
+SAFRER       UB536       0070SOPVI  EA      O                                      24500     46000                                  
+SAFRER       UB536       0080TNV    D       O                             0600     24500     46000                                  
+SAFRER       UG652       0070VSQ    D       O                             1859     24500     46000                                  
+SAFRER       UG652       0080XURIK  EA      O                             2174     24500     46000                                  
+SAFRER       UB790       0040TIKAP  EA      O                             0622     24500     45000                                  
+SAFRER       UB790       0050SOAVI  EA      O                             2252     24500     45000                                  
+SAFRER       UG653       0040VSQ    D       O                             2413     24500     46000                                  
+SAFRER       UG653       0050SUNIR  EA      O                             2102     24500     46000                                  
+SAFRER       UG654       0030VSQ    D       O                             2347     24500     46000                                  
+SAFRER       UA400       0010TE     D       O                                      24500     46000                                  
+SAFRER       UA400       0020TNV    D       O                             0412     24500     46000                                  

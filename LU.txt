@@ -1,0 +1,113 @@
+SEUREAENRT   DEMUL EL           N49574700E0055842100                                                                                
+SEUREAENRT   DIK02 EL           N49502716E006101308                                                                                 
+SEUREAENRT   DIK03 EL           N49484600E006073921                                                                                 
+SEUREAENRT   DIK18 EL           N49350011E005572532                                                                                 
+SEUREAENRT   DIKNB EL           N49514100E0060746100                                                                                
+SEUREAENRT   GESLO EL           N50044500E0060017100                                                                                
+SEUREAENRT   GOPAS EL           N49575900E0060410100                                                                                
+SEUREAENRT   IDOSA EL           N49442995E005521121                                                                                 
+SEUREAENRT   ILE00 EL           N49370489E006112352                                                                                 
+SEUREAENRT   ILE02 EL           N49360225E006084440                                                                                 
+SEUREAENRT   ILE05 EL           N49342650E006035840                                                                                 
+SEUREAENRT   ILE09 EL           N49340082E005583302                                                                                 
+SEUREAENRT   ILE10 EL           N49320262E005572479                                                                                 
+SEUREAENRT   ILE12 EL           N49310376E005544424                                                                                 
+SEUREAENRT   ILE57 EL           N49340633E006035424                                                                                 
+SEUREAENRT   ILE85 EL           N49325286E006004664                                                                                 
+SEUREAENRT   LE105 EL           N49313801E005573696                                                                                 
+SEUREAENRT   LE127 EL           N49302817E005544056                                                                                 
+SEUREAENRT   LIPNI EL           N49314800E0055044100                                                                                
+SEUREAENRT   LUTAX EL           N49325710E0054857100                                                                                
+SEUREAENRT   LUX08 EL           N49340804E006042406                                                                                 
+SEUREAENRT   LUX12 EL           N49345487E005563237                                                                                 
+SEUREAENRT   LUX17 EL           N49510115E005570950                                                                                 
+SEUREAENRT   LUX19 EL           N49370068E005454109                                                                                 
+SEUREAENRT   LUX20 EL           N49314800E0054547100                                                                                
+SEUREAENRT   LUX41 EL           N49364770E006102507                                                                                 
+SEUREAENRT   LUX58 EL           N49353990E005565133                                                                                 
+SEUREAENRT   LUX60 EL           N49351162E006070037                                                                                 
+SEUREAENRT   LUXIE EL           N49371410E0061207100                                                                                
+SEUREAENRT   MAKIK EL           N49581110E0061001100                                                                                
+SEUREAENRT   MMD29 EL           N49323500E005492700                                                                                 
+SEUREAENRT   MOKOM EL           N49584405E006095928                                                                                 
+SEUREAENRT   NTM24 EL           N49430534E006070971                                                                                 
+SEUREAENRT   NUDRI EL           N49533510E006142900                                                                                 
+SEUREAENRT   PETAN EL           N49331020E005523780                                                                                 
+SEUREAENRT   R2862 EL           N49370361E006111484                                                                                 
+SEUREAENRT   RITAX EL           N50044000E0054824100                                                                                
+SEUREAENRT   ROUSY EL           N49283500E006065400                                                                                 
+SEUREAENRT   VALEK EL           N49305110E0054651100                                                                                
+SEUREAENRT   WLU03 EL           N49351200E006070000                                                                                 
+SEURDB       DIK   EL000307     N49514100E0060746100                                                                                
+SEURDB       LW    EL000404     N49364710E0061029100                                                                                
+SEURDB       WLU   EL000346     N49340400E006031500                                                                                 
+SEURD        DIK   EL011440V    N49514100E0060746100                                                                                
+SEURD        ILE   EL010990 D   N49370610E0061131100                                                                                
+SEURD        DIK   EL011440 D   N49514100E0060746100                                                                                
+SEURER       M150        0010DIK  ELD       O                                      07500     19500                                  
+SEURER       M150        0020PITESEDEA      O                             0171     07500     19500                                  
+SEURER       Z110        0020MMD29ELEA      O                             0288     07500     19500                                  
+SEURER       Z110        0030LIMGOEDEA      O                             0187     07500     19500                                  
+SEURER       Y181        0010GOPASELEA      O                                      07500     19500                                  
+SEURER       Y181        0020MAKIKELEA      O                             0038     08000     66000                                  
+SEURER       Y181        0030BITBUEDEA      O                             0152     08000     66000                                  
+SEURER       Y180        0010DIK  ELD       O                                      07500     19500                                  
+SEURER       Y180        0020NUDRIELEA      O                             0047     08000     66000                                  
+SEURER       Y180        0030BITBUEDEA      O                             0134     08000     66000                                  
+SEURER       J524        0010DIK  ELD       OH                                     14500     19500                                  
+SEURER       J524        0020DEMULELEA      OH                            0084     14500     19500                                  
+SEURER       J524        0030RITAXELEA      OH                            0096     14500     19500                                  
+SEURER       J524        0040REMBAEBEA      OH                            0490     04500     19500                                  
+SEURER       Z104        0010GESLOELEA      O                                      07500     19500                                  
+SEURER       Z104        0020ROBONEDEA      O                             0044     08000     24000                                  
+SEURER       R7          0040DIK  ELD       O                             0147     04500     19500                                  
+SEURER       R7          0050GOPASELEA      O                             0067     04500     19500                                  
+SEURER       R7          0060GESLOELEA      O                             0072     04500     19500                                  
+SEURER       R7          0070LNO  EBD       O                             0324     04500     19500                                  
+SEURER       J910        0010DIK  ELD       OH                                     07500     19500                                  
+SEURER       J910        0020IDOSAELEA      OH                            0124     07500     19500                                  
+SEURER       UN852       0070GESLOELEA      O                             0233     19500     60000                                  
+SEURER       UN852       0080GOPASELEA      O                             0072     19500     60000                                  
+SEURER       UN852       0090DIK  ELD       O                             0067     19500     60000                                  
+SEURER       UN852       0100LIMGOEDEA      O                             0147     19500     60000                                  
+SEURER       UN857       0320IDOSAELEA      O                                      19500     60000                                  
+SEURER       UN857       0330DIK  ELD       O                             0124     24500     60000                                  
+SEURER       UN857       0340DIK05EDEA      O                             0053     24500     60000                                  
+SEURER       UM150       0020DIK  ELD       O                             1521     19500     60000                                  
+SEURER       UM150       0030PITESEDEA      O                             0171     19500     60000                                  
+SEURER       UW64        0020DIK  ELD       O                             0485     19500     60000                                  
+SEURER       UN858       0100VALEKELEA      O                             0288     19500     46000                                  
+SEURER       UN858       0110LIPNIELEA      O                             0027     19500     60000                                  
+SEURER       UN858       0120LIMGOEDEA      O                             0181     19500     60000                                  
+SEURER       UH110       0050DIK  ELD       O                                      19500     60000                                  
+SEURER       UH110       0060LUTAXELEA      O                             0223     19500     60000                                  
+SEURER       UH110       0070VALEKELEA      O                             0025     19500     46000                                  
+SEURER       UN853       0230DIK  ELD       O                                      19500     60000                                  
+SEURER       UN853       0240IBERAEDEA      O                             0219     19500     60000                                  
+SEURER       UM615       0060IDOSAELEA      O                                      24500     60000                                  
+SEURER       UM615       0070GESLOELEA      O                             0209     24500     60000                                  
+SEURER       UM615       0080KEN06EDEA      O                             0341     24500     60000                                  
+SEURER       UA24        0010DIK  ELD       O                                      19500     60000                                  
+SEURER       UA24        0020DEMULELEA      O                             0084     19500     60000                                  
+SEURER       UA24        0030RITAXELEA      O                             0096     19500     60000                                  
+SEURER       UA24        0040REMBAEBEA      O                             0490     19500     60000                                  
+SEURER       UM163       0040VALEKELEA      O                             0267     19500     26500                                  
+SEURER       UY181       0010DEMULELEA      O                                      19500     60000                                  
+SEURER       UY181       0020GOPASELEA      O                             0035     19500     60000                                  
+SEURER       UY181       0030MAKIKELEA      O                             0038     19500     60000                                  
+SEURER       UA242       0010DIK  ELD       O                                      19500     66000                                  
+SEURER       UA242       0020LUXIEELEA      O                             0147     19500     66000                                  
+SEURER       UA242       0030MONDOEDEA      O                             0069     19500     66000                                  
+SEURER       UY180       0010DIK  ELD       O                                      19500     60000                                  
+SEURER       UY180       0020NUDRIELEA      O                             0047     19500     60000                                  
+SEURER       UM624       0010DIK  ELD       O                                      19500     60000                                  
+SEURER       UM624       0020ROUSYELEA      O                             0232     19500     60000                                  
+SEURER       UM624       0030JARNY  EA      O                             0170     19500     46000                                  
+SEURER       UY157       0020MOKOMELEA      O                             0083     24500     60000                                  
+SEURER       UY157       0030DINANEBEA      O                             0335     24500     60000                                  
+SEURER       UZ104       0010RITAXELEA      O                                      19500     24500                                  
+SEURER       UZ104       0020GESLOELEA      O                             0076     19500     24500                                  
+SEURER       UZ104       0030ROBONEDEA      O                             0044     19500     24500                                  
+SEURER       UT27        0020ROUSYELEA      O                             0377     19500     46000                                  
+SEURER       UT27        0030RITAXELEA      O                             0381     19500     60000                                  
+SEURER       UZ993       0030RITAXELEA      O                             0106     19500     60000                                  

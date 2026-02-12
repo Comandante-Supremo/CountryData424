@@ -1,0 +1,150 @@
+SSCAEAENRT   ARORO MP           N07440410W077232910                                                                                 
+SSCAEAENRT   ASEGO MP           N08330180W082242050                                                                                 
+SSCAEAENRT   ASIKA MP           N08245280W082141740                                                                                 
+SSCAEAENRT   ATOBO MP           N09102970W082170540                                                                                 
+SSCAEAENRT   BIXIL MP           N08160490W082515350                                                                                 
+SSCAEAENRT   CHAME MP           N08374720W079463220                                                                                 
+SSCAEAENRT   DABEL MP           N08450480W079484130                                                                                 
+SSCAEAENRT   DAMAX MP           N08381680W079455930                                                                                 
+SSCAEAENRT   DAV11 MP           N08210526W082141972                                                                                 
+SSCAEAENRT   DAV50 MP           N08225143W082263629                                                                                 
+SSCAEAENRT   DAV93 MP           N08274589W082372857                                                                                 
+SSCAEAENRT   DEXAN MP           N07590010W080243650                                                                                 
+SSCAEAENRT   EGETA MP           N09281660W079043220                                                                                 
+SSCAEAENRT   EGOKA MP           N08403120W079471610                                                                                 
+SSCAEAENRT   EGOSO MP           N08272280W081563540                                                                                 
+SSCAEAENRT   EGULA MP           N08320180W082213040                                                                                 
+SSCAEAENRT   ETATI MP           N08405380W082164540                                                                                 
+SSCAEAENRT   FNC10 MP           N09122022W079482229                                                                                 
+SSCAEAENRT   FNC12 MP           N09102731W079473951                                                                                 
+SSCAEAENRT   FNC13 MP           N09202653W079520231                                                                                 
+SSCAEAENRT   FNC17 MP           N09094437W079504470                                                                                 
+SSCAEAENRT   FNC18 MP           N09114325W079524244                                                                                 
+SSCAEAENRT   FNC26 MP           N09175249W079460126                                                                                 
+SSCAEAENRT   FNC50 MP           N09164399W079521938                                                                                 
+SSCAEAENRT   FNC89 MP           N09144507W079524338                                                                                 
+SSCAEAENRT   IRUKA MP           N08425880W080024130                                                                                 
+SSCAEAENRT   ISUMA MP           N08570470W077445910                                                                                 
+SSCAEAENRT   JAQUE MP           N07304500W0780844100                                                                                
+SSCAEAENRT   KIKES MP           N08531370W080032630                                                                                 
+SSCAEAENRT   KOMAR MP           N09000104W079254635                                                                                 
+SSCAEAENRT   LAMBI MP           N08583420W079255700                                                                                 
+SSCAEAENRT   LOKAR MP           N09254360W082313050                                                                                 
+SSCAEAENRT   MADEN MP           N09105570W079354490                                                                                 
+SSCAEAENRT   MALEK MP           N08193337W082294713                                                                                 
+SSCAEAENRT   MINER MP           N09003770W082185940                                                                                 
+SSCAEAENRT   MULPO MP           N09061370W079540950                                                                                 
+SSCAEAENRT   NANCE MP           N08425380W082222650                                                                                 
+SSCAEAENRT   NEMER MP           N08545690W079554790                                                                                 
+SSCAEAENRT   OSIMA MP           N08182640W082012890                                                                                 
+SSCAEAENRT   OSITO MP           N08523470W082102940                                                                                 
+SSCAEAENRT   PANIL MP           N09144310W079070220                                                                                 
+SSCAEAENRT   PONPO MP           N09161240W0781157100                                                                                
+SSCAEAENRT   POXON MP           N08330600W0825005100                                                                                
+SSCAEAENRT   R1534 MP           N09025443W079233891                                                                                 
+SSCAEAENRT   REMAL MP           N09030230W078493340                                                                                 
+SSCAEAENRT   RONAM MP           N08351080W081001140                                                                                 
+SSCAEAENRT   TUM04 MP           N09060492W079211777                                                                                 
+SSCAEAENRT   TUM07 MP           N09081938W079191591                                                                                 
+SSCAEAENRT   TUM10 MP           N09031601W079135346                                                                                 
+SSCAEAENRT   TUM15 MP           N09014726W079244572                                                                                 
+SSCAEAENRT   TUM17 MP           N09154751W079122951                                                                                 
+SSCAEAENRT   TUM22 MP           N09044424W079223087                                                                                 
+SSCAEAENRT   TUM31 MP           N09042398W079231469                                                                                 
+SSCAEAENRT   TUM43 MP           N09120346W079155274                                                                                 
+SSCAEAENRT   TUM65 MP           N09071673W079152196                                                                                 
+SSCAEAENRT   TUM95 MP           N09101143W079173433                                                                                 
+SSCAEAENRT   UKATI MP           N08230480W080065930                                                                                 
+SSCAEAENRT   URUGA MP           N09102670W082133040                                                                                 
+SSCADB       CHE   MP000440     N07590066W080243584                                                                                 
+SSCADB       DAV   MP000350     N08232759W082254073                                                                                 
+SSCADB       AT    MP000326     N09022901W079234779                                                                                 
+SSCADB       TPL   MP000356     N09153280W0780706100                                                                                
+SSCAD        DAV   MP011430V    N08230890W082261560                                                                                 
+SSCAD        PML   MP011310V    N08242240W078081890                                                                                 
+SSCAD        TUM   MP011710V    N09030560W079240020                                                                                 
+SSCAD        INAT  MP011070 D   N09025923W079232442                                                                                 
+SSCAD        DAV   MP011430 D   N08230890W082261560                                                                                 
+SSCAD        TUM   MP011710 D   N09030560W079240020                                                                                 
+SSCAER       A574        0070PONPOMPEA      O                             0497     02500     19500                                  
+SSCAER       A574        0080REMALMPEA      O                             0394     02500     19500                                  
+SSCAER       A574        0090TBG    D       O                             0464     02500     19500                                  
+SSCAER       V11         0150DAV  MPD       OL                                     02500     19500                                  
+SSCAER       V11         0160OSIMAMPEA      OL                            0250     02500     19500                                  
+SSCAER       V11         0170STG  MPEA      OL                            0658     02500     19500                                  
+SSCAER       V11         0180EGOKAMPEA      OL                            0770     02500     19500                                  
+SSCAER       V11         0190TBG    D       OL                            0150     02500     19500                                  
+SSCAER       V11         0200EGETAMPEA      OL                            0502     02500     19500                                  
+SSCAER       V15         0020URUGAMPEA      OL                            0101     02500     19500                                  
+SSCAER       V15         0030OSITOMPEA      OL                            0181     02500     19500                                  
+SSCAER       V15         0040ETATIMPEA      OL                            0132     02500     19500                                  
+SSCAER       V15         0050EGULAMPEA      OL                            0100     02500     19500                                  
+SSCAER       V15         0060DAV  MPD       OL                            0100     02500     19500                                  
+SSCAER       G440        0010LOKARMPEA      O                                      02500     19500                                  
+SSCAER       G440        0020BDT    D       O                             0171     02500     19500                                  
+SSCAER       G440        0050KIKESMPEA      O                             0599     02500     19500                                  
+SSCAER       G440        0060TBG    D       O                             0300     02500     19500                                  
+SSCAER       A502        0010IRUKAMPEA      O                                      02500     19500                                  
+SSCAER       A502        0020DABELMPEA      O                             0140     02500     19500                                  
+SSCAER       A502        0030TBG    D       O                             0150     02500     19500                                  
+SSCAER       A502        0040DAV  MPD       O                                      02500     19500                                  
+SSCAER       A502        0050POXONMPEA      O                             0256     10000     19500                                  
+SSCAER       A502        0060COT  MRD       O                             0085     15000     19500                                  
+SSCAER       A502        0160EGOSOMPEA      O                                      02500     19500                                  
+SSCAER       A502        0170RONAMMPEA      O                             0564     02500     19500                                  
+SSCAER       A319        0200PANILMPEA      O                                      02500     19500                                  
+SSCAER       A319        0210TBG    D       O                             0381     02500     19500                                  
+SSCAER       V20         0050JAQUEMPEA      OL                                     02500     19500                                  
+SSCAER       V20         0060BOMAK  EA      OL                            0626     02500     19500                                  
+SSCAER       V3          0220MULPOMPEA      OL                            0157     02500     19500                                  
+SSCAER       V3          0230NEMERMPEA      OL                            0114     02500     19500                                  
+SSCAER       V3          0240TBG    D       OL                            0231     02500     19500                                  
+SSCAER       V4          0070MADENMPEA      OL                            0193     03500     19500                                  
+SSCAER       V4          0080TUM  MPD       OL                            0140     02500     19500                                  
+SSCAER       V4          0090TBG    D       OL                            0185     02500     19500                                  
+SSCAER       V13         0010STG  MPEA      OL                                     03000     19500                                  
+SSCAER       V13         0020DEXANMPEA      OL                            0321     03000     19500                                  
+SSCAER       V13         0030TBG    D       OL                            0698     03000     19500                                  
+SSCAER       V18         0100JAQUEMPEA      OL                                     02500     19500                                  
+SSCAER       V18         0110PML  MPD       OL                            0530     02500     19500                                  
+SSCAER       V18         0120TUM  MPD       OL                            0843     02500     19500                                  
+SSCAER       V23         0010BIXILMPEA      OL                                     02500     19500                                  
+SSCAER       V23         0020DAV  MPD       OL                            0264     02500     19500                                  
+SSCAER       V24         0020PML  MPD       OL                            0485     02500     19500                                  
+SSCAER       B510        0080PML  MPD       O                             0706     02500     19500                                  
+SSCAER       B510        0090KUBEKSKEA      O                             0593     10500     24500                                  
+SSCAER       V17         0080MINERMPEA      OL                                     02500     19500                                  
+SSCAER       V17         0090NANCEMPEA      OL                            0181     02500     19500                                  
+SSCAER       V19         0020DAMAXMPEA      OL                            0151     02500     19500                                  
+SSCAER       V19         0030UKATIMPEA      OL                            0258     02500     19500                                  
+SSCAER       V19         0040STG  MPEA      OL                            0521     02500     19500                                  
+SSCAER       V19         0050OSABA  EA      OL                            0565     02500     19500                                  
+SSCAER       V19         0060DAV  MPD       OL                            0696     02500     19500                                  
+SSCAER       B689        0100PONPOMPEA      O                             0636     02500     19500                                  
+SSCAER       B689        0110MARMA  EA      O                             1056     02500     19500                                  
+SSCAER       UA574       0100PONPOMPEA      O                             0497     19500     60000                                  
+SSCAER       UA574       0110TBG    D       O                             0858     19500     60000                                  
+SSCAER       UA502       0110POXONMPEA      O                             0085     19500     60000                                  
+SSCAER       UA502       0120DAV  MPD       O                             0256     19500     60000                                  
+SSCAER       UA502       0130RONAMMPEA      O                             0860     19500     60000                                  
+SSCAER       UA502       0140TBG    D       O                             0864     19500     60000                                  
+SSCAER       UV20        0010JAQUEMPEA      O                                      19500     45000                                  
+SSCAER       UV20        0020BOMAK  EA      O                             0626     19500     45000                                  
+SSCAER       UB510       0080PML  MPD       O                             0875     19500     60000                                  
+SSCAER       UB510       0090KUBEKSKEA      O                             0593     24500     60000                                  
+SSCAER       UV18        0040JAQUEMPEA      O                                      19500     45000                                  
+SSCAER       UV18        0050PML  MPD       O                             0530     19500     45000                                  
+SSCAER       UV18        0060TUM  MPD       O                             0843     19500     45000                                  
+SSCAER       UV19        0010DAV  MPD       O                                      19500     45000                                  
+SSCAER       UV19        0020OSABA  EA      O                             0696     19500     45000                                  
+SSCAER       UV19        0030STG  MPEA      O                             0565     19500     45000                                  
+SSCAER       UV19        0040UKATIMPEA      O                             0521     19500     45000                                  
+SSCAER       UV19        0050TBG    D       O                             0408     19500     45000                                  
+SSCAER       UV11        0010DAV  MPD       O                                      19500     45000                                  
+SSCAER       UV11        0020STG  MPEA      O                             0908     19500     45000                                  
+SSCAER       UV11        0030TBG    D       O                             0920     19500     45000                                  
+SSCAER       UV11        0040EGETAMPEA      O                             0502     19500     45000                                  
+SSCAER       UB689       0040PONPOMPEA      O                             0636     19500     60000                                  
+SSCAER       UB689       0050MARMA  EA      O                             1056     19500     60000                                  
+SSCAER       UG447       0010PML  MPD       O                                      19500     60000                                  
+SSCAER       UG447       0020SEKMA  EA      O                             1574     19500     60000                                  

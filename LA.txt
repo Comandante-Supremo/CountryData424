@@ -1,0 +1,67 @@
+SASIEAENRT   AKSAG VL           N20490400E100274540                                                                                 
+SASIEAENRT   ALPHA VL           N18324080E103192260                                                                                 
+SASIEAENRT   ANBOK VL           N18370000E101130000                                                                                 
+SASIEAENRT   BOMPA VL           N14195910E107240000                                                                                 
+SASIEAENRT   BUTRA VL           N15250000E1053559100                                                                                
+SASIEAENRT   DELTA VL           N16000000E105450000                                                                                 
+SASIEAENRT   KAASI VL           N19055710E102224400                                                                                 
+SASIEAENRT   KADIN VL           N18270000E104000000                                                                                 
+SASIEAENRT   LADIS VL           N21133000E1025357100                                                                                
+SASIEAENRT   LAVAN VL           N14083180E105434800                                                                                 
+SASIEAENRT   LAVOS VL           N20260410E1042349100                                                                                
+SASIEAENRT   LEKOB VL           N14074800E1053111100                                                                                
+SASIEAENRT   NALAO VL           N19192700E103553500                                                                                 
+SASIEAENRT   NOBOK VL           N20383000E1023459100                                                                                
+SASIEAENRT   NOHET VL           N19250910E103365100                                                                                 
+SASIEAENRT   PAPRA VL           N15455910E1071059100                                                                                
+SASIEAENRT   PONUK VL           N20185400E1002317100                                                                                
+SASIEAENRT   SAV10 VL           N16414200E104514200                                                                                 
+SASIEAENRT   TANGO VL           N17253000E104541800                                                                                 
+SASIEAENRT   TOMIP VL           N19105910E101160000                                                                                 
+SASIEAENRT   VIPOP VL           N14565400E107270000                                                                                 
+SASIDB       AP    VL000212     N14480000E106490000                                                                                 
+SASIDB       NTH   VL000260     N20583480E101240480                                                                                 
+SASIDB       BK    VL000390     N19515710E102063200                                                                                 
+SASIDB       PS    VL000220     N15075000E105470200                                                                                 
+SASIDB       VTG   VL000405     N18081700E1023759100                                                                                
+SASIDB       VE    VL000205     N18013138E102312844                                                                                 
+SASIDB       WY    VL000389     N18001722E102324625                                                                                 
+SASID        LPB   VL011660V    N19535801E102093718                                                                                 
+SASID        PAK   VL011500V    N15114800E105441700                                                                                 
+SASID        VTN   VL011750V    N18003738E102322562                                                                                 
+SASID        THX   VL011400V    N19272000E1031050100                                                                                
+SASID        IVTN  VL010990 D   N17594242E102331657                                                                                 
+SASID        LPB   VL011660 D   N19535801E102093718                                                                                 
+SASID        PAK   VL011500 D   N15114800E105441700                                                                                 
+SASID        VTN   VL011750 D   N18003738E102322562                                                                                 
+SASID        THX   VL011400 D   N19272000E1031050100                                                                                
+SASID        VTN   VL011750 D   N18003738E102322562                                                                                 
+SASIER       B202        0010BOMPAVLEA      O                                      13000     46000                                  
+SASIER       B202        0020PAK  VLD       O                             1095     13000     46000                                  
+SASIER       B202        0030UBL  VTD       O                             0506     26000     46000                                  
+SASIER       R474        0020VTN  VLD       O                             0884     06500     46000                                  
+SASIER       R474        0030NOHETVLEA      O                             1043     13000     46000                                  
+SASIER       R474        0040LAVOSVLEA      O                             0753     10000     46000                                  
+SASIER       R474        0050MC   VVD       O                             0291     10000     46000                                  
+SASIER       W76A        0010DELTAVLEA      O                                      10000     19500                                  
+SASIER       W76A        0020SAV  VTD       O                             0660     10000     19500                                  
+SASIER       W76A        0030SAV10VLEA      O                             0097     10000     19500                                  
+SASIER       W76A        0040TANGOVLEA      O                             0439     10000     19500                                  
+SASIER       B468        0020LADISVLEA      O                             0118     09000     46000                                  
+SASIER       B468        0030NOBOKVLEA      O                             0393     09000     46000                                  
+SASIER       B468        0040LPB  VLD       O                             0505     09000     46000                                  
+SASIER       A206        0030NALAOVLEA      O                             1050     26500     46000                                  
+SASIER       B329        0010LEKOBVLEA      O                                      13000     46000                                  
+SASIER       B329        0020PAK  VLD       O                             0653     13000     46000                                  
+SASIER       UA206       0010LPB  VLD       O                                      26000     46000                                  
+SASIER       UA206       0020NOHETVLEA      O                             0871     26000     46000                                  
+SASIER       B218        0010LPB  VLD       O                                      20000     46000                                  
+SASIER       B218        0020SAGAGZBEA      O                             0833     20000     46000                                  
+SASIER       R215        0010LPB  VLD       O                                      13000     46000                                  
+SASIER       R215        0020TOMIPVLEA      O                             0664     13000     46000                                  
+SASIER       R215        0030NAN  VTD       O                             0355     09500     46000                                  
+SASIER       B346        0010LPB  VLD       O                                      10000     46000                                  
+SASIER       B346        0020YAKUAVTEA      O                             1349     10000     46000                                  
+SASIER       A206-       0010NALAOVLEA      O                                      13000     19500                                  
+SASIER       A206-       0020NOHETVLEA      O                             0186     13000     19500                                  
+SASIER       R470        0020VTN  VLD       O                             0399     06500     46000                                  

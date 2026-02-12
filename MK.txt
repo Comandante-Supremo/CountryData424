@@ -1,0 +1,153 @@
+SEUREAENRT   BUREK LW           N41495510E0211148100                                                                                
+SEUREAENRT   GOSTI LW           N41484200E021063000                                                                                 
+SEUREAENRT   KOGAT LW           N42064410E021032000                                                                                 
+SEUREAENRT   KRATO LW           N42130600E022105400                                                                                 
+SEUREAENRT   LETNI LW           N42054810E0223620100                                                                                
+SEUREAENRT   LONTA LW           N42093310E0212349100                                                                                
+SEUREAENRT   MAVAR LW           N41401200E020314800                                                                                 
+SEUREAENRT   NASKO LW           N41460010E022055200                                                                                 
+SEUREAENRT   NEGOT LW           N41191200E0222331100                                                                                
+SEUREAENRT   OLOTA LW           N42134710E021370000                                                                                 
+SEUREAENRT   R2200 LW           N41570346E021373032                                                                                 
+SEUREAENRT   RAXAD LW           N42182672E022143148                                                                                 
+SEUREAENRT   RUGAS LW           N41194510E022472900                                                                                 
+SEUREAENRT   SINKO LW           N41572010E0222255100                                                                                
+SEUREAENRT   SKJ01 LW           N41550798E021381082                                                                                 
+SEUREAENRT   SKJ02 LW           N41540996E021383162                                                                                 
+SEUREAENRT   SKJ03 LW           N41531194E021385241                                                                                 
+SEUREAENRT   SKJ04 LW           N41521391E021391320                                                                                 
+SEUREAENRT   SKJ05 LW           N41511589E021393397                                                                                 
+SEUREAENRT   SKJ06 LW           N41501786E021395473                                                                                 
+SEUREAENRT   SKJ07 LW           N41491983E021401549                                                                                 
+SEUREAENRT   SKJ09 LW           N41471974E021403350                                                                                 
+SEUREAENRT   SKJ10 LW           N41525967E021250554                                                                                 
+SEUREAENRT   SKJ12 LW           N42072739E021430522                                                                                 
+SEUREAENRT   SKJ15 LW           N41201815E021552356                                                                                 
+SEUREAENRT   SKJ18 LW           N41384145E021440308                                                                                 
+SEUREAENRT   SKJ20 LW           N41364537E021444433                                                                                 
+SEUREAENRT   SKJ22 LW           N42014448E021091799                                                                                 
+SEUREAENRT   SKJ25 LW           N41574588E022111711                                                                                 
+SEUREAENRT   SKJ27 LW           N41565757E021242843                                                                                 
+SEUREAENRT   SKJ34 LW           N41595807E021362663                                                                                 
+SEUREAENRT   SKJ43 LW           N41580204E021370834                                                                                 
+SEUREAENRT   SKJ63 LW           N41491654E021395639                                                                                 
+SEUREAENRT   SKJ74 LW           N41485662E021402379                                                                                 
+SEUREAENRT   SKJ81 LW           N42130167E021460745                                                                                 
+SEUREAENRT   SKJ94 LW           N41470056E021410525                                                                                 
+SEUREAENRT   TALAS LW           N41043600E0215459100                                                                                
+SEUREAENRT   TETOV LW           N41583600E0205923100                                                                                
+SEUREAENRT   VELBA LW           N41580000E0225259100                                                                                
+SEUREAENRT   XAXAN LW           N42081200E0211936100                                                                                
+SEURDB       IZD   LW000432     N41203400E020491400                                                                                 
+SEURDB       PEP   LW000297     N41201600E0212654100                                                                                
+SEURDB       BU    LW000442     N41435400E021414200                                                                                 
+SEURDB       PT    LW000295     N41545100E021381700                                                                                 
+SEURD        OHR   LW011250V    N41102062E020441102                                                                                 
+SEURD        SIN   LW011145V    N41585010E022215600                                                                                 
+SEURD        SKJ   LW011280V    N41560600E021375000                                                                                 
+SEURD        MSK   LW010870 D   N41571100E021372300                                                                                 
+SEURD        OHR   LW011250 D   N41102062E020441102                                                                                 
+SEURD        SIN   LW011145 D   N41585010E022215600                                                                                 
+SEURD        SKJ   LW011280 D   N41560600E021375000                                                                                 
+SEURD        PEP   LW011375 D   N41201600E0212654100                                                                                
+SEURER       W43         0050MAVARLWEA      O                             0630     11000     28500                                  
+SEURER       W43         0060TALASLWEA      O                             0719     02000     24500                                  
+SEURER       B1          0060KOGATLWEA      O                                      11000     24500                                  
+SEURER       B1          0070BUREKLWEA      O                             0180     11000     24500                                  
+SEURER       B1          0080PEP  LWD       O                             0318     02000     24500                                  
+SEURER       B1          0090TALASLWEA      O                             0263     02000     24500                                  
+SEURER       W31         0090MAVARLWEA      O                             0395     02000     24500                                  
+SEURER       W31         0100GOSTILWEA      O                             0273     02000     24500                                  
+SEURER       W31         0110BUREKLWEA      O                             0042     02000     24500                                  
+SEURER       W31         0120SKJ  LWD       O                             0203     02000     24500                                  
+SEURER       W31         0130SIN  LWD       O                             0329     02000     24500                                  
+SEURER       W31         0140VELBALWEA      O                             0231     02000     24500                                  
+SEURER       W41         0050TALASLWEA      O                                      02000     24500                                  
+SEURER       W41         0060DOBARLAEA      O                             0660     02000     24500                                  
+SEURER       W44         0060PEP  LWD       O                                      02000     24500                                  
+SEURER       W44         0070BITLALGEA      O                             0281     11500     24500                                  
+SEURER       L608        0100LONTALWEA      O                             0820     11000     24500                                  
+SEURER       L608        0110DOLEVLYEA      O                             0629     11000     28500                                  
+SEURER       M749        0150LONTALWEA      O                             0970     11000     24500                                  
+SEURER       M749        0160TALASLWEA      O                             0691     11000     24500                                  
+SEURER       P127        0010SKJ  LWD       O                                      02000     24500                                  
+SEURER       P127        0020DOBARLAEA      O                             0625     02000     24500                                  
+SEURER       G38         0100VELBALWEA      O                             0275     12500     24500                                  
+SEURER       M22         0050LETNILWEA      O                             0212     09500     24500                                  
+SEURER       M22         0060SIN  LWD       O                             0128     02000     24500                                  
+SEURER       L616        0080KOGATLWEA      O                             0756     15000     28500                                  
+SEURER       L616        0090EVINALYEA      O                             0925     15000     28500                                  
+SEURER       G18         0080SKJ  LWD       O                             0653     02000     24500                                  
+SEURER       G18         0090XAXANLWEA      O                             0182     01000     24500                                  
+SEURER       M867        0020KOGATLWEA      O                             0924     11000     24500                                  
+SEURER       M867        0030MEDUX  EA      O                             0596     11000     28500                                  
+SEURER       P859        0020PEP  LWD       O                             0430     02000     24500                                  
+SEURER       W49         0060NASKOLWEA      O                                      02000     24500                                  
+SEURER       W49         0070TALASLWEA      O                             0422     02000     24500                                  
+SEURER       Z508        0030TALASLWEA      O                             0548     18000     24500                                  
+SEURER       B5-N1       0020RUGASLWEA      O                             0165     10500     24500                                  
+SEURER       W301        0010PEP  LWD       O                                      02000     24500                                  
+SEURER       W301        0020GOSTILWEA      O                             0323     02000     24500                                  
+SEURER       W301        0030TETOVLWEA      O                             0112     02000     24500                                  
+SEURER       W301        0040SARAX  EA      O                             0084     02000     24500                                  
+SEURER       W300        0010LONTALWEA      O                                      02000     24500                                  
+SEURER       W300        0020PEP  LWD       O                             0494     02000     24500                                  
+SEURER       N140        0020NEGOTLWEA      O                             0128     11000     24500                                  
+SEURER       N140        0030NASKOLWEA      O                             0299     11000     24500                                  
+SEURER       N140-       0010NASKOLWEA      O                                      02000     24500                                  
+SEURER       N140-       0020RAXADLWEA      O                             0331     02000     24500                                  
+SEURER       Z43         0010OLOTALWEA      O                                      11000     24500                                  
+SEURER       Z43         0020RUGASLWEA      O                             0754     11000     24500                                  
+SEURER       L617-       0020RAXADLWEA      O                             0261     09000     24500                                  
+SEURER       L617-       0030SIN  LWD       O                             0204     09000     24500                                  
+SEURER       L617-       0040RUGASLWEA      O                             0435     09000     24500                                  
+SEURER       UL617       0320RAXADLWEA      O                                      24500     46000                                  
+SEURER       UL617       0330MAKEDLGEA      O                             0718     24500     46000                                  
+SEURER       UN128       0110RUGASLWEA      O                             0165     24500     46000                                  
+SEURER       UN128       0120SIN  LWD       O                             0435     24500     46000                                  
+SEURER       UN128       0130RAXADLWEA      O                             0204     24500     46000                                  
+SEURER       UW44        0030PEP  LWD       O                                      24500     46000                                  
+SEURER       UW44        0040BITLALGEA      O                             0281     24500     46000                                  
+SEURER       UL603       0410OLOTALWEA      O                                      24500     46000                                  
+SEURER       UL603       0420RUGASLWEA      O                             0754     24500     46000                                  
+SEURER       UL608       0050LONTALWEA      O                             1011     28500     60000                                  
+SEURER       UL608       0060DISORLGEA      O                             0820     24500     46000                                  
+SEURER       UM749       0110LONTALWEA      O                             0970     24500     46000                                  
+SEURER       UM749       0120TALASLWEA      O                             0691     24500     46000                                  
+SEURER       UB1         0130KOGATLWEA      O                                      24500     46000                                  
+SEURER       UB1         0140PEP  LWD       O                             0497     24500     46000                                  
+SEURER       UB1         0150TALASLWEA      O                             0263     24500     46000                                  
+SEURER       UW43        0100MAVARLWEA      O                                      28500     60000                                  
+SEURER       UW43        0110RETRALAEA      O                             0630     28500     60000                                  
+SEURER       UW31        0030MAVARLWEA      O                             0395     24500     32500                                  
+SEURER       UW31        0040BUREKLWEA      O                             0314     24500     32500                                  
+SEURER       UW31        0050SKJ  LWD       O                             0203     24500     32500                                  
+SEURER       UW31        0060SIN  LWD       O                             0329     24500     32500                                  
+SEURER       UW31        0070VELBALWEA      O                             0231     24500     31500                                  
+SEURER       UW49        0060NASKOLWEA      O                                      24500     46000                                  
+SEURER       UW49        0070TALASLWEA      O                             0422     24500     46000                                  
+SEURER       UL616       0120KOGATLWEA      O                             0756     28500     60000                                  
+SEURER       UL616       0130EVINALYEA      O                             0925     28500     60000                                  
+SEURER       UM867       0020KOGATLWEA      O                             0924     24500     46000                                  
+SEURER       UM867       0030MODRA  EA      O                             0842     28500     60000                                  
+SEURER       UY400       0020NEGOTLWEA      O                             0171     24500     46000                                  
+SEURER       UY400       0030MAVARLWEA      O                             0863     24500     46000                                  
+SEURER       UP127       0010SKJ  LWD       O                                      24500     31500                                  
+SEURER       UP127       0020DOBARLAEA      O                             0625     24500     31500                                  
+SEURER       UW41        0010TALASLWEA      O                                      24500     46000                                  
+SEURER       UW41        0020DOBARLAEA      O                             0660     24500     46000                                  
+SEURER       UN132       0030TALASLWEA      O                             0548     24500     46000                                  
+SEURER       UM22        0010LETNILWEA      O                                      24500     32500                                  
+SEURER       UM22        0020SIN  LWD       O                             0128     24500     32500                                  
+SEURER       UL603       0010OLOTALWEA      O                                      28500     60000                                  
+SEURER       UL603       0020LINDULYEA      O                             0879     28500     60000                                  
+SEURER       UW300       0010LONTALWEA      O                                      26000     46000                                  
+SEURER       UW300       0020PEP  LWD       O                             0494     26000     46000                                  
+SEURER       UN140       0020NEGOTLWEA      O                             0128     26000     46000                                  
+SEURER       UN140       0030NASKOLWEA      O                             0299     26000     46000                                  
+SEURER       UN132       0010MAVARLWEA      O                                      28500     60000                                  
+SEURER       UN132       0020TALASLWEA      O                             0719     28500     60000                                  
+SEURER       UN140       0010NASKOLWEA      O                                      26000     46000                                  
+SEURER       UN140       0020RAXADLWEA      O                             0331     26000     46000                                  
+SEURER       UL617       0010RAXADLWEA      O                                      28500     60000                                  
+SEURER       UL617       0020VAGENLYEA      O                             0261     28500     60000                                  

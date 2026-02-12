@@ -1,0 +1,209 @@
+SAFREAENRT   AMDIR              N19032400E014470700                                                                                 
+SAFREAENRT   BIRNI              N13455939E005455723                                                                                 
+SAFREAENRT   BUNLU              N16342710E013392700                                                                                 
+SAFREAENRT   BUPIL              N16000000E008482000                                                                                 
+SAFREAENRT   BURAT              N16564800E0145151100                                                                                
+SAFREAENRT   DEKIL              N22000000E0122805100                                                                                
+SAFREAENRT   DELIS              N15162410E012083400                                                                                 
+SAFREAENRT   DELOT              N13143000E003330600                                                                                 
+SAFREAENRT   DESIR              N20000000E0084722100                                                                                
+SAFREAENRT   DINTA              N17341800E0145027100                                                                                
+SAFREAENRT   EDAGO              N19300000E0074902100                                                                                
+SAFREAENRT   EDARA              N15593900E012584000                                                                                 
+SAFREAENRT   EMSUL              N17181210E0143115100                                                                                
+SAFREAENRT   ENDOK              N21073000E011300000                                                                                 
+SAFREAENRT   ENORA              N20335710E0115151100                                                                                
+SAFREAENRT   EPELA              N14491810E002141700                                                                                 
+SAFREAENRT   EPUSA              N19534800E0061905100                                                                                
+SAFREAENRT   EREBO              N20070000E0063559100                                                                                
+SAFREAENRT   ERKEL              N20580000E007420000                                                                                 
+SAFREAENRT   GALET              N14321410E001213800                                                                                 
+SAFREAENRT   GANLA              N13450500E0081945100                                                                                
+SAFREAENRT   GARID              N13015965E008340940                                                                                 
+SAFREAENRT   GUTAT              N18440300E011063700                                                                                 
+SAFREAENRT   IKTAV              N22375910E010300000                                                                                 
+SAFREAENRT   INISA              N17263800E011300000                                                                                 
+SAFREAENRT   IPUTA              N13325810E0032648100                                                                                
+SAFREAENRT   KILDA              N13154200E003263000                                                                                 
+SAFREAENRT   KIMBO              N16000000E010010000                                                                                 
+SAFREAENRT   KIRMI              N22210000E009590000                                                                                 
+SAFREAENRT   KORUT              N13202610E0103759100                                                                                
+SAFREAENRT   KOSUT              N14113010E012272400                                                                                 
+SAFREAENRT   MISTO              N16055100E0072335100                                                                                
+SAFREAENRT   MOTOP              N13453700E0083737100                                                                                
+SAFREAENRT   NATGO              N18000000E0085805100                                                                                
+SAFREAENRT   NEBRA              N18283600E0110020100                                                                                
+SAFREAENRT   NEKRA              N20000000E0090805100                                                                                
+SAFREAENRT   POLKI              N13332110E003342300                                                                                 
+SAFREAENRT   POMPA              N13403600E006150000                                                                                 
+SAFREAENRT   RAMIN              N20000000E0104319100                                                                                
+SAFREAENRT   SABSI              N14424810E011300000                                                                                 
+SAFREAENRT   SEMIT              N13443010E008021700                                                                                 
+SAFREAENRT   SESAM              N13423800E007073100                                                                                 
+SAFREAENRT   TAROD              N21270500E0121408100                                                                                
+SAFREAENRT   TINKU              N18254100E010322600                                                                                 
+SAFREAENRT   TOBUK              N21555910E009180000                                                                                 
+SAFREAENRT   TUMMO              N22000000E014401800                                                                                 
+SAFREAENRT   ULVAB              N13284510E0100608100                                                                                
+SAFREAENRT   VUBOK              N13195956E008085137                                                                                 
+SAFRDB       AS      000340     N16572280E007582940                                                                                 
+SAFRDB       ARL     000293     N18470111E007220022                                                                                 
+SAFRDB       IGZ     000435     N19341910E005454500                                                                                 
+SAFRDB       MY      000284     N13300270E007063240                                                                                 
+SAFRDB       NY      000289     N13285150E0020920100                                                                                
+SAFRDB       TA      000347     N14524624E005161165                                                                                 
+SAFRDB       IN      000264     N13472220E008595220                                                                                 
+SAFRD        AS      011350V    N16582990E008012360                                                                                 
+SAFRD        DIR     011390V    N18585330E012524980                                                                                 
+SAFRD        IGZ     011340V    N19334810E005440200                                                                                 
+SAFRD        NY      011410V    N13285910E002122300                                                                                 
+SAFRD        ZR      011620V    N13461410E008582060                                                                                 
+SAFRD        NM      010990 D   N13285025E002102119                                                                                 
+SAFRD        NY      011410 D   N13285910E002122300                                                                                 
+SAFRER       G854G       0060NY     D       O                             0799     04500     24500                                  
+SAFRER       G854G       0070POLKI  EA      O                             0799     03500     24500                                  
+SAFRER       G854G       0080DOGONDNEA      O                             0463     03500     24500                                  
+SAFRER       G854G       0090POMPA  EA      O                             1101     05500     24500                                  
+SAFRER       G854G       0100SESAM  EA      O                             0511     04500     24500                                  
+SAFRER       G854G       0110GANLA  EA      O                             0703     04500     24500                                  
+SAFRER       G854G       0120MOTOP  EA      O                             0174     04500     24500                                  
+SAFRER       G854G       0130ZR     D       O                             0201     05500     24500                                  
+SAFRER       G854G       0140KORUT  EA      O                             1003     06500     24500                                  
+SAFRER       G854G       0150SIGAL  EA      O                             2339     04500     24500                                  
+SAFRER       B726F       0030EPELA  EA      O                                      04500     24500                                  
+SAFRER       B726F       0040NY     D       O                             0804     04500     24500                                  
+SAFRER       A604        0040EREBO  EA      O                                      10500     24500                                  
+SAFRER       A604        0050TMS  DAD       O                             1755     10500     24500                                  
+SAFRER       R978        0030ERKEL  EA      O                             1552     11500     24500                                  
+SAFRER       B731        0010BIRNI  EA      O                                      14500     24500                                  
+SAFRER       B731        0020SOK  DND       O                             0597     14500     24500                                  
+SAFRER       A600F       0130NY     D       O                             0799     06500     24500                                  
+SAFRER       B730        0050IKTAV  EA      O                             1148     08500     24500                                  
+SAFRER       A607G       0040BUNLU  EA      O                             1273     05500     24500                                  
+SAFRER       A607G       0050DIR    D       O                             1512     05500     24500                                  
+SAFRER       R986F       0010GARID  EA      O                                      05500     24500                                  
+SAFRER       R986F       0020MOTOP  EA      O                             0438     11500     24500                                  
+SAFRER       R986F       0030BUPIL  EA      O                             1349     11500     24500                                  
+SAFRER       R986F       0040NATGO  EA      O                             1204     11500     24500                                  
+SAFRER       R986F       0050NEKRA  EA      O                             1205     11500     24500                                  
+SAFRER       R986F       0060TOBUK  EA      O                             1164     11500     24500                                  
+SAFRER       A604F       0100GANLA  EA      O                                      05500     24500                                  
+SAFRER       A604F       0110MIMBADNEA      O                             0403     05500     24500                                  
+SAFRER       A605        0030KIRMI  EA      O                                      10500     24500                                  
+SAFRER       A605        0040DJA  DAD       O                             1200     10500     24500                                  
+SAFRER       G858D       0010DEKIL  EA      O                                      07000     60000                                  
+SAFRER       G858D       0020SEB  HLD       O                             3182     07000     60000                                  
+SAFRER       G660F       0020DELOT  EA      O                             0366     06500     24500                                  
+SAFRER       G660F       0030NY     D       O                             0799     06500     24500                                  
+SAFRER       R981        0030GALET  EA      O                             0697     04500     24500                                  
+SAFRER       R981        0040NY     D       O                             0802     04500     24500                                  
+SAFRER       R981        0050VOLTIDBEA      O                             0804     04500     24500                                  
+SAFRER       B730G       0010DIR    D       O                                      09500     24500                                  
+SAFRER       B730G       0020ENDOK  EA      O                             1504     09500     24500                                  
+SAFRER       B730G       0030IKTAV  EA      O                             1063     06500     24500                                  
+SAFRER       A615        0010EPUSA  EA      O                                      10500     24500                                  
+SAFRER       A615        0020TMS  DAD       O                             1832     10500     24500                                  
+SAFRER       R986D       0010GARID  EA      O                                      05500     24500                                  
+SAFRER       R986D       0020KAN  DND       O                             0600     05500     24500                                  
+SAFRER       A403D       0030TUMMO  EA      O                             1422     07000     60000                                  
+SAFRER       UR978       0060ERKEL  EA      O                             1552     24500     46000                                  
+SAFRER       UR978       0070EDAGO  EA      O                             0883     24500     46000                                  
+SAFRER       UM731       0090DEKIL  EA      O                                      25000     46000                                  
+SAFRER       UM731       0100TAZITHLEA      O                             2385     25000     46000                                  
+SAFRER       UA605       0090DELIS  EA      O                                      24500     46000                                  
+SAFRER       UA605       0100ENBUTDNEA      O                             1241     24500     46000                                  
+SAFRER       UB726       0010NY     D       O                                      24500     46000                                  
+SAFRER       UB726       0020BATIADBEA      O                             1555     24500     60000                                  
+SAFRER       UA604       0070EREBO  EA      O                                      24500     60000                                  
+SAFRER       UA604       0080TMS  DAD       O                             1755     24500     60000                                  
+SAFRER       UA604       0110GANLA  EA      O                                      24500     46000                                  
+SAFRER       UA604       0120MIMBADNEA      O                             0403     24500     46000                                  
+SAFRER       UG854       0050NY     D       O                             1356     24500     46000                                  
+SAFRER       UG854       0060IPUTA  EA      O                                      24500     46000                                  
+SAFRER       UG854       0070DOGONDNEA      O                             0537     24500     46000                                  
+SAFRER       UG854       0080POMPA  EA      O                             1101     24500     60000                                  
+SAFRER       UG854       0090SEMIT  EA      O                             1044     24500     46000                                  
+SAFRER       UG854       0100GANLA  EA      O                             0170     24500     46000                                  
+SAFRER       UG854       0110MOTOP  EA      O                             0174     24500     46000                                  
+SAFRER       UG854       0120ZR     D       O                             0201     24500     46000                                  
+SAFRER       UG854       0130ULVAB  EA      O                             0682     24500     46000                                  
+SAFRER       UG854       0140KORUT  EA      O                             0321     24500     60000                                  
+SAFRER       UG854       0150SIGAL  EA      O                             2339     24500     46000                                  
+SAFRER       UR778       0060DINTA  EA      O                             0877     24500     46000                                  
+SAFRER       UR778       0070EMSUL  EA      O                             0244     24500     46000                                  
+SAFRER       UR778       0080BUNLU  EA      O                             0662     24500     46000                                  
+SAFRER       UR778       0090EDARA  EA      O                             0524     24500     46000                                  
+SAFRER       UR778       0100DELIS  EA      O                             0648     24500     46000                                  
+SAFRER       UR778       0110SABSI  EA      O                             0502     24500     46000                                  
+SAFRER       UR778       0120ULVAB  EA      O                             1101     24500     46000                                  
+SAFRER       UR778       0130RISUBDNEA      O                             0574     24500     60000                                  
+SAFRER       UG855       0040NY     D       O                             1749     24500     46000                                  
+SAFRER       UG855       0050GAPAGDXEA      O                             1854     24500     46000                                  
+SAFRER       UM114       0120KILDA  EA      O                             1358     31000     46000                                  
+SAFRER       UM974       0110NY     D       O                             1323     24500     46000                                  
+SAFRER       UA607       0010DIR    D       O                                      24500     46000                                  
+SAFRER       UA607       0020TAROD  EA      O                             1527     24500     46000                                  
+SAFRER       UA607       0030USLAGDAEA      O                             1164     24500     46000                                  
+SAFRER       UB731       0010MISTO  EA      O                                      24500     46000                                  
+SAFRER       UB731       0020BIRNI  EA      O                             1688     24500     46000                                  
+SAFRER       UB731       0030SOK  DND       O                             0597     24500     60000                                  
+SAFRER       UB731       0080DESIR  EA      O                                      24500     46000                                  
+SAFRER       UB731       0090TOBUK  EA      O                             1196     24500     46000                                  
+SAFRER       UM998       0040TOBUK  EA      O                             2608     24500     60000                                  
+SAFRER       UM998       0050NEBRA  EA      O                             2287     24500     60000                                  
+SAFRER       UM998       0060DELIS  EA      O                                      24500     60000                                  
+SAFRER       UM998       0070KOSUT  EA      O                             0675     24500     60000                                  
+SAFRER       UM998       0080ENBUTDNEA      O                             0567     24500     60000                                  
+SAFRER       UB730       0050IKTAV  EA      O                             1148     24500     60000                                  
+SAFRER       UB730       0060ENDOK  EA      O                             1063     24500     46000                                  
+SAFRER       UB730       0070ENORA  EA      O                             0393     24500     46000                                  
+SAFRER       UB730       0080DIR    D       O                             1111     24500     46000                                  
+SAFRER       UG660       0180KILDA  EA      O                             0431     24500     46000                                  
+SAFRER       UG660       0190NY     D       O                             0734     24500     46000                                  
+SAFRER       UG727       0040DIR    D       O                                      24500     46000                                  
+SAFRER       UG727       0050EDARA  EA      O                             1794     24500     46000                                  
+SAFRER       UG727       0060BOSSODNEA      O                             1468     24500     46000                                  
+SAFRER       UA403       0010DINTA  EA      O                                      24500     46000                                  
+SAFRER       UA403       0020BURAT  EA      O                             0375     24500     46000                                  
+SAFRER       UA403       0030DETELGTEA      O                             1379     24500     46000                                  
+SAFRER       UA607       0010DIR    D       O                                      24500     60000                                  
+SAFRER       UA607       0020BUNLU  EA      O                             1512     24500     60000                                  
+SAFRER       UA607       0030ONLETGTEA      O                             1273     24500     60000                                  
+SAFRER       UR986       0070GARID  EA      O                             0600     24500     60000                                  
+SAFRER       UR986       0080MOTOP  EA      O                             0438     24500     46000                                  
+SAFRER       UR986       0090BUPIL  EA      O                             1349     24500     46000                                  
+SAFRER       UR986       0100NATGO  EA      O                             1204     24500     46000                                  
+SAFRER       UR986       0110NEKRA  EA      O                             1205     24500     46000                                  
+SAFRER       UR986       0120TOBUK  EA      O                             1164     24500     46000                                  
+SAFRER       UG862       0010DIR    D       O                                      24500     46000                                  
+SAFRER       UG862       0020EMSUL  EA      O                             1375     24500     46000                                  
+SAFRER       UG862       0030BURAT  EA      O                             0291     24500     46000                                  
+SAFRER       UG862       0040IKRAPGTEA      O                             1580     24500     46000                                  
+SAFRER       UA600       0090NY     D       O                                      24500     46000                                  
+SAFRER       UA600       0100TARENDFEA      O                             1299     24500     46000                                  
+SAFRER       UA605       0030KIRMI  EA      O                                      31000     60000                                  
+SAFRER       UA605       0040DJA  DAD       O                             1200     31000     60000                                  
+SAFRER       UG727       0010DEKIL  EA      O                                      24500     60000                                  
+SAFRER       UG727       0020DIR    D       O                             1827     24500     60000                                  
+SAFRER       UG858       0010DEKIL  EA      O                                      24500     46000                                  
+SAFRER       UG858       0020TAROD  EA      O                             0354     24500     46000                                  
+SAFRER       UG858       0030ENORA  EA      O                             0571     24500     46000                                  
+SAFRER       UG858       0040GUTAT  EA      O                             1180     24500     46000                                  
+SAFRER       UG858       0050NEBRA  EA      O                             0166     24500     46000                                  
+SAFRER       UG858       0060KIMBO  EA      O                             1591     24500     46000                                  
+SAFRER       UG858       0070DETARDNEA      O                             1999     24500     60000                                  
+SAFRER       UA605       0010DELIS  EA      O                                      24500     60000                                  
+SAFRER       UA605       0020INISA  EA      O                             1355     24500     60000                                  
+SAFRER       UA615       0020VUBOK  EA      O                             0805     24500     60000                                  
+SAFRER       UA615       0030SEMIT  EA      O                             0254     24500     46000                                  
+SAFRER       UA615       0040MISTO  EA      O                             1463     24500     46000                                  
+SAFRER       UA615       0050EPUSA  EA      O                             2362     24500     46000                                  
+SAFRER       UA615       0060TMS  DAD       O                             1832     24500     60000                                  
+SAFRER       UA605       0010INISA  EA      O                                      24500     46000                                  
+SAFRER       UA605       0020GUTAT  EA      O                             0806     24500     46000                                  
+SAFRER       UA605       0030RAMIN  EA      O                             0791     24500     46000                                  
+SAFRER       UA605       0040KIRMI  EA      O                             1470     24500     46000                                  
+SAFRER       UR981       0020NY     D       O                             1511     24500     46000                                  
+SAFRER       UR981       0030UNOTAGAEA      O                             1803     24500     46000                                  
+SAFRER       UA608       0010NY     D       O                                      24500     46000                                  
+SAFRER       UA608       0020TATATDBEA      O                             1492     24500     46000                                  

@@ -1,0 +1,26 @@
+SASIEAENRT   CNL75 VC           N07172057E079581092                                                                                 
+SASIEAENRT   KAT05 VC           N07091624E079514743                                                                                 
+SASIEAENRT   KAT10 VC           N07173386E079582146                                                                                 
+SASIEAENRT   KAT35 VC           N07122628E079541610                                                                                 
+SASIEAENRT   KAT84 VC           N07161906E079571828                                                                                 
+SASIEAENRT   KAT88 VC           N07175943E079550845                                                                                 
+SASIEAENRT   R1315 VC           N07113398E079533598                                                                                 
+SASIEAENRT   TEMAX VC           N06524710E081000000                                                                                 
+SASIDB       AN    VC000415     N08181210E0802546100                                                                                
+SASIDB       CNL   VC000315     N07160691E079570330                                                                                 
+SASIDB       BAT   VC000320     N07421302E081404885                                                                                 
+SASIDB       CHB   VC000280     N08320083E081110708                                                                                 
+SASIDB       RM    VC000350     N06500126E079530761                                                                                 
+SASIDB       MIN   VC000290     N08030095E080590716                                                                                 
+SASIDB       VNA   VC000400     N08442210E080291700                                                                                 
+SASID        KAT   VC011270V    N07094058E079520660                                                                                 
+SASID        IKW   VC010990 D   N07101786E079523081                                                                                 
+SASID        IKA   VC011030 D   N07112987E079532511                                                                                 
+SASID        KAT   VC011270 D   N07094058E079520660                                                                                 
+SASIER       G462W       0030KAT  VCD       O                             0491     02000     46000                                  
+SASIER       R461        0080KAT  VCD       O                             0491     02000     46000                                  
+SASIER       A463-       0030KAT  VCD       O                             0498     10000     46000                                  
+SASIER       A465        0010CA   VCEA      O                                      10000     46000                                  
+SASIER       A465        0020DABAR  EA      O                             1201     10000     46000                                  
+SASIER       L645        0010CC   VCEA      O                                      26000     46000                                  
+SASIER       L645        0020IDUDO  EA      O                             2569     26000     46000                                  

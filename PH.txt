@@ -1,0 +1,275 @@
+SASIEAENRT   ABMBS RP           N14584144E120292003                                                                                 
+SASIEAENRT   ALPAS RP           N15291066E120435225                                                                                 
+SASIEAENRT   ANIMU RP           N05444319E125080001                                                                                 
+SASIEAENRT   ARITA RP           N14552804E120235281                                                                                 
+SASIEAENRT   ARTEM RP           N08350183E124390334                                                                                 
+SASIEAENRT   ASTUR RP           N10370323E123415126                                                                                 
+SASIEAENRT   BALAY RP           N13540965E120434205                                                                                 
+SASIEAENRT   BALIN RP           N08474186E124471393                                                                                 
+SASIEAENRT   BALOD RP           N10571149E124423562                                                                                 
+SASIEAENRT   BANGA RP           N06240265E124494265                                                                                 
+SASIEAENRT   BANGI RP           N14423657E121224114                                                                                 
+SASIEAENRT   BANOS RP           N14140279E121130938                                                                                 
+SASIEAENRT   BARBA RP           N11015225E122150716                                                                                 
+SASIEAENRT   BATAN RP           N14393691E120333349                                                                                 
+SASIEAENRT   BAYAN RP           N14495281E120392051                                                                                 
+SASIEAENRT   BC017 RP           N10432051E123000440                                                                                 
+SASIEAENRT   BC030 RP           N10401977E122572298                                                                                 
+SASIEAENRT   BIGBI RP           N15304055E120224336                                                                                 
+SASIEAENRT   BURCO RP           N07202399E122063033                                                                                 
+SASIEAENRT   CAMBA RP           N14192662E121145743                                                                                 
+SASIEAENRT   CIA02 RP           N15095177E120332082                                                                                 
+SASIEAENRT   CIA07 RP           N15182516E120363399                                                                                 
+SASIEAENRT   CIA08 RP           N15025957E120305742                                                                                 
+SASIEAENRT   CIA09 RP           N15023434E120332896                                                                                 
+SASIEAENRT   CIA16 RP           N15085970E120413565                                                                                 
+SASIEAENRT   CIA47 RP           N15024705E120391620                                                                                 
+SASIEAENRT   CIA57 RP           N15135695E120375868                                                                                 
+SASIEAENRT   CIA66 RP           N15012774E120360836                                                                                 
+SASIEAENRT   CIA80 RP           N15124093E120342006                                                                                 
+SASIEAENRT   CIA90 RP           N15181416E120392988                                                                                 
+SASIEAENRT   DAO01 RP           N07083451E125400145                                                                                 
+SASIEAENRT   DAO10 RP           N07063060E125372978                                                                                 
+SASIEAENRT   DAO59 RP           N07114379E125434899                                                                                 
+SASIEAENRT   DAO60 RP           N07114497E125435177                                                                                 
+SASIEAENRT   DAO65 RP           N07025832E125331517                                                                                 
+SASIEAENRT   DAO77 RP           N07025405E125331837                                                                                 
+SASIEAENRT   DAYAN RP           N05544733E125065399                                                                                 
+SASIEAENRT   DELOR RP           N10441956E123153439                                                                                 
+SASIEAENRT   DIPID RP           N17410449E120371536                                                                                 
+SASIEAENRT   DOHER RP           N14182612E120444859                                                                                 
+SASIEAENRT   EDCON RP           N10114254E123520761                                                                                 
+SASIEAENRT   FONSO RP           N15045280E120570541                                                                                 
+SASIEAENRT   GAMAN RP           N10024247E118534209                                                                                 
+SASIEAENRT   GARAY RP           N14544436E121085594                                                                                 
+SASIEAENRT   GONIL RP           N08203649E125012363                                                                                 
+SASIEAENRT   GSA07 RP           N06112851E125042124                                                                                 
+SASIEAENRT   GSA10 RP           N06132472E125101470                                                                                 
+SASIEAENRT   GSA23 RP           N06062610E125051258                                                                                 
+SASIEAENRT   GSA38 RP           N06135160E125061800                                                                                 
+SASIEAENRT   GSA89 RP           N06125838E125040598                                                                                 
+SASIEAENRT   INDAN RP           N14112487E120520304                                                                                 
+SASIEAENRT   INGRA RP           N18062816E120411520                                                                                 
+SASIEAENRT   IOO69 RP           N10485418E122352301                                                                                 
+SASIEAENRT   IOO80 RP           N10503528E122330593                                                                                 
+SASIEAENRT   IPATA RP           N13515741E121484804                                                                                 
+SASIEAENRT   KABAN RP           N14091867E121272762                                                                                 
+SASIEAENRT   KABAY RP           N06264321E125171903                                                                                 
+SASIEAENRT   KAMBE RP           N06112191E124412264                                                                                 
+SASIEAENRT   KANON RP           N10334353E123105905                                                                                 
+SASIEAENRT   KATAN RP           N08052699E124522720                                                                                 
+SASIEAENRT   KIBOK RP           N14590572E120235281                                                                                 
+SASIEAENRT   KINLA RP           N17404806E120281187                                                                                 
+SASIEAENRT   KLAFU RP           N07203010E125233577                                                                                 
+SASIEAENRT   LAMBO RP           N11093153E122205474                                                                                 
+SASIEAENRT   LATIA RP           N06541718E124551783                                                                                 
+SASIEAENRT   LEMAP RP           N18032547E120385687                                                                                 
+SASIEAENRT   LINAO RP           N07154064E124505313                                                                                 
+SASIEAENRT   LOPEZ RP           N13551728E122120737                                                                                 
+SASIEAENRT   LUNDO RP           N08010177E124284976                                                                                 
+SASIEAENRT   MALAY RP           N14253027E121165910                                                                                 
+SASIEAENRT   MANOK RP           N10393041E123445502                                                                                 
+SASIEAENRT   MCT17 RP           N10260265E123521459                                                                                 
+SASIEAENRT   MCT27 RP           N10171633E123573576                                                                                 
+SASIEAENRT   MCT32 RP           N10270288E123532835                                                                                 
+SASIEAENRT   MCT35 RP           N10284284E123573204                                                                                 
+SASIEAENRT   MCT78 RP           N10133740E123535785                                                                                 
+SASIEAENRT   MCT87 RP           N10214504E123493529                                                                                 
+SASIEAENRT   MCTNB RP           N10183324E123590390                                                                                 
+SASIEAENRT   MIA06 RP           N14423129E121224585                                                                                 
+SASIEAENRT   MIA07 RP           N14335966E121073356                                                                                 
+SASIEAENRT   MIA08 RP           N14322927E121045269                                                                                 
+SASIEAENRT   MIA09 RP           N14320276E121102690                                                                                 
+SASIEAENRT   MIA12 RP           N14363025E121120176                                                                                 
+SASIEAENRT   MIA17 RP           N14390074E121163006                                                                                 
+SASIEAENRT   MIA20 RP           N14403100E121191109                                                                                 
+SASIEAENRT   MIA22 RP           N14231483E120540853                                                                                 
+SASIEAENRT   MIA26 RP           N14293221E120593278                                                                                 
+SASIEAENRT   MIA40 RP           N14324973E121050254                                                                                 
+SASIEAENRT   MIA41 RP           N14274910E120563669                                                                                 
+SASIEAENRT   MIA60 RP           N14312296E121025474                                                                                 
+SASIEAENRT   MIA73 RP           N14343858E121080807                                                                                 
+SASIEAENRT   MIA78 RP           N14255401E120532074                                                                                 
+SASIEAENRT   MIA80 RP           N14310995E121021273                                                                                 
+SASIEAENRT   MIA93 RP           N14354074E121095407                                                                                 
+SASIEAENRT   MIA98 RP           N14245178E120513484                                                                                 
+SASIEAENRT   MIGEL RP           N15031344E121031158                                                                                 
+SASIEAENRT   NABAL RP           N15281701E120312455                                                                                 
+SASIEAENRT   NANAS RP           N09473749E122583284                                                                                 
+SASIEAENRT   NATIB RP           N14424716E120235281                                                                                 
+SASIEAENRT   NIBAT RP           N07275320E125372441                                                                                 
+SASIEAENRT   OLIVA RP           N14565776E120432044                                                                                 
+SASIEAENRT   OLRAX RP           N13185832E120264453                                                                                 
+SASIEAENRT   PABLO RP           N14050035E121193971                                                                                 
+SASIEAENRT   PADON RP           N18042021E120460030                                                                                 
+SASIEAENRT   PAKAN RP           N06290874E125002842                                                                                 
+SASIEAENRT   PAMKI RP           N17484818E120531952                                                                                 
+SASIEAENRT   PARAL RP           N07172127E122154165                                                                                 
+SASIEAENRT   PARAO RP           N10551662E123242259                                                                                 
+SASIEAENRT   PAYAD RP           N15340053E120244174                                                                                 
+SASIEAENRT   PAYAS RP           N18005066E120333509                                                                                 
+SASIEAENRT   PIKAN RP           N10362702E122080038                                                                                 
+SASIEAENRT   PONSO RP           N10522040E124370624                                                                                 
+SASIEAENRT   POTON RP           N10561945E122355906                                                                                 
+SASIEAENRT   R1796 RP           N14295481E121000512                                                                                 
+SASIEAENRT   R1797 RP           N14304980E121014408                                                                                 
+SASIEAENRT   R1991 RP           N06042139E125053995                                                                                 
+SASIEAENRT   R2389 RP           N07080374E125392185                                                                                 
+SASIEAENRT   R2585 RP           N15102772E120332824                                                                                 
+SASIEAENRT   R2587 RP           N15120490E120340676                                                                                 
+SASIEAENRT   R2683 RP           N07070003E125380776                                                                                 
+SASIEAENRT   R2816 RP           N10174903E123580762                                                                                 
+SASIEAENRT   RABIV RP           N07232955E125263449                                                                                 
+SASIEAENRT   RADEG RP           N14522135E120544957                                                                                 
+SASIEAENRT   RAGAY RP           N13434701E122350283                                                                                 
+SASIEAENRT   RASEC RP           N10172061E123312115                                                                                 
+SASIEAENRT   RAYAT RP           N15070431E120490345                                                                                 
+SASIEAENRT   RIANO RP           N15210299E120490345                                                                                 
+SASIEAENRT   RINAL RP           N14483765E120255289                                                                                 
+SASIEAENRT   RODAT RP           N14584817E121193738                                                                                 
+SASIEAENRT   ROSER RP           N15222315E120381742                                                                                 
+SASIEAENRT   SABEL RP           N10154819E122565044                                                                                 
+SASIEAENRT   SAMAT RP           N14335713E1203021100                                                                                
+SASIEAENRT   SANGI RP           N10244087E123395252                                                                                 
+SASIEAENRT   SEBUL RP           N06134790E124324488                                                                                 
+SASIEAENRT   SIMBO RP           N14474019E120235281                                                                                 
+SASIEAENRT   SIVAL RP           N07254297E125295867                                                                                 
+SASIEAENRT   SULBO RP           N17575566E121001492                                                                                 
+SASIEAENRT   SURAH RP           N06192905E124452128                                                                                 
+SASIEAENRT   TAALA RP           N14024887E121013486                                                                                 
+SASIEAENRT   TAC10 RP           N11233734E125041168                                                                                 
+SASIEAENRT   TAC78 RP           N11060567E125010866                                                                                 
+SASIEAENRT   TADAO RP           N18231399E120403167                                                                                 
+SASIEAENRT   TADEL RP           N15245086E120255830                                                                                 
+SASIEAENRT   TALIM RP           N14212371E121194121                                                                                 
+SASIEAENRT   TAMLA RP           N14450000E121261200                                                                                 
+SASIEAENRT   TAMSI RP           N11380258E125083816                                                                                 
+SASIEAENRT   TANAY RP           N14332603E121203938                                                                                 
+SASIEAENRT   TAPAP RP           N13150559E121020337                                                                                 
+SASIEAENRT   TAREM RP           N15402740E120171031                                                                                 
+SASIEAENRT   TARTA RP           N15020847E121071908                                                                                 
+SASIEAENRT   TBOLI RP           N06080944E124524437                                                                                 
+SASIEAENRT   TELEN RP           N12531780E120424968                                                                                 
+SASIEAENRT   TELMO RP           N09580907E118513412                                                                                 
+SASIEAENRT   TIKAL RP           N08002055E124413901                                                                                 
+SASIEAENRT   TIMON RP           N14030945E121562269                                                                                 
+SASIEAENRT   TINIO RP           N15175538E120490345                                                                                 
+SASIEAENRT   TUBUR RP           N10433412E123550084                                                                                 
+SASIEAENRT   VILAR RP           N15092260E120150408                                                                                 
+SASIEAENRT   VOTAS RP           N14423806E120530421                                                                                 
+SASIEAENRT   ZAM21 RP           N06551786E122052595                                                                                 
+SASIDB       AL    RP000247     N14131304E121552651                                                                                 
+SASIDB       BA    RP000339     N16370430E121151036                                                                                 
+SASIDB       BG    RP000272     N16222781E120370015                                                                                 
+SASIDB       BB    RP000404     N14585453E120290514                                                                                 
+SASIDB       CIA   RP000362     N15123387E120341726                                                                                 
+SASIDB       DT    RP000215     N14080047E122585892                                                                                 
+SASIDB       DAO   RP000364     N07081374E125385991                                                                                 
+SASIDB       JV    RP000360     N13044291E123354409                                                                                 
+SASIDB       LR    RP000228     N14165465E122380512                                                                                 
+SASIDB       LIP   RP000259     N13572236E121073611                                                                                 
+SASIDB       MCT   RP000331     N10183324E123590390                                                                                 
+SASIDB       PN    RP000242     N07493756E123284704                                                                                 
+SASIDB       PL    RP000295     N14525455E120510514                                                                                 
+SASIDB       PR    RP000292     N09441349E118451352                                                                                 
+SASIDB       RS    RP000285     N14241725E120515226                                                                                 
+SASIDB       TD    RP000232     N09041321E126101704                                                                                 
+SASID        BC    RP011490V    N10381535E122552862                                                                                 
+SASID        BCD   RP011530V    N10463100E123011390                                                                                 
+SASID        BN    RP011250V    N08571925E125291105                                                                                 
+SASID        CAB   RP011270V    N15285617E121012747                                                                                 
+SASID        CGO   RP011330V    N08245647E124363295                                                                                 
+SASID        CUY   RP011650V    N16555377E121445312                                                                                 
+SASID        CIA   RP011310V    N15111280E120333827                                                                                 
+SASID        COT   RP011370V    N07095573E124123503                                                                                 
+SASID        DAO   RP011210V    N07075250E125391430                                                                                 
+SASID        DG    RP011410V    N09200118E123182306                                                                                 
+SASID        IOO   RP011630V    N10423425E122323190                                                                                 
+SASID        LP    RP011220V    N13090089E123434109                                                                                 
+SASID        LIP   RP011510V    N13572236E121073611                                                                                 
+SASID        MIA   RP011380V    N14302870E121011825                                                                                 
+SASID        NGA   RP011470V    N13345599E123161035                                                                                 
+SASID        PR    RP011590V    N09442878E118451059                                                                                 
+SASID        SAN   RP011450V    N16434215E120212919                                                                                 
+SASID        GSA   RP011450V    N06043242E125053187                                                                                 
+SASID        TUG   RP011210V    N17375992E121441121                                                                                 
+SASID        ISBA  RP010950 D   N14473060E120154260                                                                                 
+SASID        ISBI  RP011090 D   N14475160E120165220                                                                                 
+SASID        ICA   RP010930 D   N15103633E120333599                                                                                 
+SASID        ICK   RP011010 D   N15115465E120340701                                                                                 
+SASID        IML   RP010910 D   N14295597E121001597                                                                                 
+SASID        IMA   RP010990 D   N14303963E121013426                                                                                 
+SASID        IDAO  RP010910 D   N07070521E125381982                                                                                 
+SASID        IDVO  RP010990 D   N07080029E125391194                                                                                 
+SASID        IGSA  RP010950 D   N06040966E125053746                                                                                 
+SASID        IZAM  RP010910 D   N06551987E122042833                                                                                 
+SASID        IBC   RP010990 D   N10380425E122552199                                                                                 
+SASID        IMCT  RP010910 D   N10174357E123580214                                                                                 
+SASID        BCD   RP011530 D   N10463100E123011390                                                                                 
+SASID        BN    RP011250 D   N08571925E125291105                                                                                 
+SASID        CAB   RP011270 D   N15285617E121012747                                                                                 
+SASID        CGO   RP011330 D   N08245647E124363295                                                                                 
+SASID        CUY   RP011650 D   N16555377E121445312                                                                                 
+SASID        CIA   RP011310 D   N15111280E120333827                                                                                 
+SASID        COT   RP011370 D   N07095573E124123503                                                                                 
+SASID        DAO   RP011210 D   N07075250E125391430                                                                                 
+SASID        IOO   RP011630 D   N10423425E122323190                                                                                 
+SASID        LP    RP011220 D   N13090089E123434109                                                                                 
+SASID        MIA   RP011380 D   N14302870E121011825                                                                                 
+SASID        NGA   RP011470 D   N13345546E123161004                                                                                 
+SASID        PR    RP011590 D   N09442878E118451059                                                                                 
+SASID        GSA   RP011450 D   N06043242E125053187                                                                                 
+SASID        TUG   RP011210 D   N17375992E121441121                                                                                 
+SASIER       B348        0010BALAYRPEA      O                                      05000     60000                                  
+SASIER       B348        0020BUCAL  EA      O                             0201     05000     60000                                  
+SASIER       B348        0030OLRAXRPEA      O                             0188     08500     60000                                  
+SASIER       B348        0040TOKON  EA      O                             1070     06500     60000                                  
+SASIER       B348        0050GAMANRPEA      O                             1095     06500     60000                                  
+SASIER       B348        0060TELMORPEA      O                             0050     06500     60000                                  
+SASIER       B348        0070PR   RPD       O                             0151     14500     60000                                  
+SASIER       B348        0080OSANU  EA      O                             1506     14500     60000                                  
+SASIER       G578        0010BALODRPEA      O                                      05500     60000                                  
+SASIER       G578        0020PONSORPEA      O                             0073     05500     60000                                  
+SASIER       G578        0030KAWIT  EA      O                             0090     05500     60000                                  
+SASIER       TR23        0010BATANRPEA      RL                                     06500     60000                                  
+SASIER       TR23        0020BAYANRPEA      RL                            0117     06500     60000                                  
+SASIER       TR23        0030OLIVARPEA      RL                            0081     06500     60000                                  
+SASIER       TR23        0040RAYATRPEA      RL                            0115     06500     60000                                  
+SASIER       TR23        0050CAB  RPD       RL                            0249     06500     60000                                  
+SASIER       W9A         0010BN   RPD       O                                      07500     60000                                  
+SASIER       W9A         0020KAWIT  EA      O                             1236     07500     60000                                  
+SASIER       M767        0080TELENRPEA      O                             0938     16500     60000                                  
+SASIER       M767        0090TAPAPRPEA      O                             0288     16500     60000                                  
+SASIER       M767        0100GALER  EA      O                             0227     16500     60000                                  
+SASIER       R597        0010CAB  RPD       O                                      08500     60000                                  
+SASIER       R597        0020NODAB  EA      O                             0668     08500     60000                                  
+SASIER       TR25        0010CAB  RPD       RL                                     04500     60000                                  
+SASIER       TR25        0020RIANORPEA      RL                            0143     04500     60000                                  
+SASIER       TR25        0030CIA  RPD       RL                            0178     04500     60000                                  
+SASIER       25A         0010CAB  RPD       O                                      02500     60000                                  
+SASIER       25A         0020ROSERRPEA      O                             0233     02500     60000                                  
+SASIER       TR26        0010CAB  RPD       RL                                     06500     60000                                  
+SASIER       TR26        0020TINIORPEA      RL                            0163     06500     60000                                  
+SASIER       B473        0020DELORRPEA      O                             0171     10500     60000                                  
+SASIER       B473        0030ROX    D       O                             0595     14500     60000                                  
+SASIER       B473        0060LIP  RPD       O                             0279     07500     60000                                  
+SASIER       TR24        0010CIA  RPD       RL                                     06500     60000                                  
+SASIER       TR24        0020KIBOKRPEA      RL                            0154     06500     60000                                  
+SASIER       TR24        0030SBA    D       RL                            0164     06500     60000                                  
+SASIER       W10A        0010COT  RPD       O                                      15500     60000                                  
+SASIER       W10A        0020LATIARPEA      O                             0452     15500     60000                                  
+SASIER       W10A        0030MEGOM  EA      O                             0325     15500     60000                                  
+SASIER       R590        0010COT  RPD       O                                      09500     60000                                  
+SASIER       R590        0020SEBULRPEA      O                             0596     09500     60000                                  
+SASIER       R590        0030PEDNO  EA      O                             1423     24500     46000                                  
+SASIER       B472        0010COT  RPD       O                                      09500     60000                                  
+SASIER       B472        0020SURAHRPEA      O                             0601     09500     60000                                  
+SASIER       B472        0030TBOLIRPEA      O                             0135     09500     60000                                  
+SASIER       N884        0010DOHERRPEA      O                                      03500     60000                                  
+SASIER       N884        0020MIA  RPD       O                             0200     03500     60000                                  
+SASIER       W9B         0020NGA  RPD       O                             0868     07500     60000                                  
+SASIER       W16A        0010NABALRPEA      O                                      04500     60000                                  
+SASIER       W16A        0020PAYADRPEA      O                             0086     04500     60000                                  
+SASIER       W16A        0030TAREMRPEA      O                             0097     07500     60000                                  
+SASIER       W15A        0010NGA  RPD       O                                      07500     60000                                  
+SASIER       W15A        0020RAGAYRPEA      O                             0410     07500     60000                                  

@@ -1,0 +1,342 @@
+SEUREAENRT   ABETO LP           N40254610W008032300                                                                                 
+SEUREAENRT   ABRAT LP           N39491800W007391500                                                                                 
+SEUREAENRT   ADSAD LP           N38284100W008595200                                                                                 
+SEUREAENRT   AGADO LP           N41522200W008553600                                                                                 
+SEUREAENRT   AIREZ LP           N39271610W0083957100                                                                                
+SEUREAENRT   ALAGU LP           N38051810W0073651100                                                                                
+SEUREAENRT   ALAMA LP           N39132310W008330000                                                                                 
+SEUREAENRT   ALMER LP           N39143195W008322724                                                                                 
+SEUREAENRT   ALMOV LP           N37333986W007570568                                                                                 
+SEUREAENRT   ASPOR LP           N41485449W008045232                                                                                 
+SEUREAENRT   ATECA LP           N38392910W008372100                                                                                 
+SEUREAENRT   BABEX LP           N41022500W007050200                                                                                 
+SEUREAENRT   BEJ00 LP           N38224045W007535626                                                                                 
+SEUREAENRT   BEJ02 LP           N38091164W007535421                                                                                 
+SEUREAENRT   BEJ04 LP           N38114183W007550953                                                                                 
+SEUREAENRT   BEJ05 LP           N38163788W007452385                                                                                 
+SEUREAENRT   BEJ06 LP           N38121021W007503027                                                                                 
+SEUREAENRT   BEJ07 LP           N38140208W007382014                                                                                 
+SEUREAENRT   BEJ09 LP           N37584432W007564752                                                                                 
+SEUREAENRT   BEJ10 LP           N38174108W007542961                                                                                 
+SEUREAENRT   BEJ11 LP           N37554498W007571127                                                                                 
+SEUREAENRT   BEJ12 LP           N38114814W007411724                                                                                 
+SEUREAENRT   BEJ14 LP           N38034543W007514206                                                                                 
+SEUREAENRT   BEJ15 LP           N38213803W008024501                                                                                 
+SEUREAENRT   BEJ17 LP           N38222070W007511846                                                                                 
+SEUREAENRT   BEJ22 LP           N37524126W007545638                                                                                 
+SEUREAENRT   BEJ29 LP           N37593019W007394062                                                                                 
+SEUREAENRT   BEJ34 LP           N38150809W007592450                                                                                 
+SEUREAENRT   BEJ45 LP           N38031332W007561184                                                                                 
+SEUREAENRT   BEJ48 LP           N37581357W007461512                                                                                 
+SEUREAENRT   BEJ49 LP           N37555127W007435526                                                                                 
+SEUREAENRT   BEJ54 LP           N38142413W007460974                                                                                 
+SEUREAENRT   BEJ55 LP           N38174474W007412592                                                                                 
+SEUREAENRT   BEJ59 LP           N37541867W007465947                                                                                 
+SEUREAENRT   BEJ60 LP           N38014174W007554404                                                                                 
+SEUREAENRT   BEJ89 LP           N38063047W007554404                                                                                 
+SEUREAENRT   BEJ90 LP           N37524563W007573498                                                                                 
+SEUREAENRT   BEJ99 LP           N38060762W007430480                                                                                 
+SEUREAENRT   BIRBA LP           N39062000W0073042100                                                                                
+SEUREAENRT   BULAS LP           N39055700W008172900                                                                                 
+SEUREAENRT   CANAR LP           N41230810W0072810100                                                                                
+SEUREAENRT   CARMI LP           N39361228W007534421                                                                                 
+SEUREAENRT   DIGAL LP           N39442610W0075922100                                                                                
+SEUREAENRT   ELDUK LP           N37483910W007562600                                                                                 
+SEUREAENRT   ERTIS LP           N37250000W0073652100                                                                                
+SEUREAENRT   ESP11 LP           N38355955W009070250                                                                                 
+SEUREAENRT   ESP28 LP           N38423051W009015436                                                                                 
+SEUREAENRT   ESP32 LP           N38395487W008344314                                                                                 
+SEUREAENRT   ESP43 LP           N38400266W008563568                                                                                 
+SEUREAENRT   ESP59 LP           N38361939W008520245                                                                                 
+SEUREAENRT   ESP75 LP           N38314558W008485869                                                                                 
+SEUREAENRT   EVURA LP           N38395310W0075506100                                                                                
+SEUREAENRT   GAIOS LP           N38163200W008323500                                                                                 
+SEUREAENRT   GENRO LP           N37113500W0073652100                                                                                
+SEUREAENRT   IBERO LP           N41204400W0075510100                                                                                
+SEUREAENRT   LI085 LP           N38421048W009104964                                                                                 
+SEUREAENRT   LI086 LP           N38452873W009085835                                                                                 
+SEUREAENRT   LISGU LP           N38531600W009094600                                                                                 
+SEUREAENRT   MAGUM LP           N39100210W008233300                                                                                 
+SEUREAENRT   MANEL LP           N38385910W008565220                                                                                 
+SEUREAENRT   MANIK LP           N40413010W0083657100                                                                                
+SEUREAENRT   MAPOR LP           N41365100W0080329100                                                                                
+SEUREAENRT   MARIM LP           N37250000W0075027100                                                                                
+SEUREAENRT   MOJ00 LP           N38234665W008574898                                                                                 
+SEUREAENRT   MOJ01 LP           N38421171W009011222                                                                                 
+SEUREAENRT   MOJ02 LP           N38413495W008594425                                                                                 
+SEUREAENRT   MOJ03 LP           N38410666W008583660                                                                                 
+SEUREAENRT   MOJ04 LP           N38431489W008581623                                                                                 
+SEUREAENRT   MOJ05 LP           N38401003W008562133                                                                                 
+SEUREAENRT   MOJ06 LP           N38472294W008572843                                                                                 
+SEUREAENRT   MOJ07 LP           N38391337W008540613                                                                                 
+SEUREAENRT   MOJ08 LP           N38425430W008592897                                                                                 
+SEUREAENRT   MOJ09 LP           N38441366W008504156                                                                                 
+SEUREAENRT   MOJ10 LP           N38374830W008504343                                                                                 
+SEUREAENRT   MOJ11 LP           N38372098W008440010                                                                                 
+SEUREAENRT   MOJ12 LP           N38352629W008450590                                                                                 
+SEUREAENRT   MOJ13 LP           N38333989W008463133                                                                                 
+SEUREAENRT   MOJ14 LP           N38360771W008460467                                                                                 
+SEUREAENRT   MOJ15 LP           N38293790W008520972                                                                                 
+SEUREAENRT   MOJ18 LP           N38341766W008413236                                                                                 
+SEUREAENRT   MOJ20 LP           N38341371W009062942                                                                                 
+SEUREAENRT   MOJ25 LP           N38413291W009053719                                                                                 
+SEUREAENRT   MOJ26 LP           N38422579W009023725                                                                                 
+SEUREAENRT   MOJ27 LP           N38320690W008414104                                                                                 
+SEUREAENRT   MOJ30 LP           N38430044W008593070                                                                                 
+SEUREAENRT   MOJ35 LP           N38431136W008573598                                                                                 
+SEUREAENRT   MOJ40 LP           N38581731W008472959                                                                                 
+SEUREAENRT   MOJ49 LP           N38402462W009074717                                                                                 
+SEUREAENRT   MOJ50 LP           N38405821W008555510                                                                                 
+SEUREAENRT   MOJ55 LP           N38432839W008554298                                                                                 
+SEUREAENRT   MOJ74 LP           N38304110W008592106                                                                                 
+SEUREAENRT   MOJ80 LP           N38384503W008525854                                                                                 
+SEUREAENRT   MOJ83 LP           N38435105W008531228                                                                                 
+SEUREAENRT   MOJ91 LP           N38431626W008425037                                                                                 
+SEUREAENRT   MOJ94 LP           N38423104W008553608                                                                                 
+SEUREAENRT   MOJ99 LP           N38424405W009003676                                                                                 
+SEUREAENRT   MOMAS LP           N39190900W008010000                                                                                 
+SEUREAENRT   MONUR LP           N38383000W008594800                                                                                 
+SEUREAENRT   MORAS LP           N39095000W0080106100                                                                                
+SEUREAENRT   NARBO LP           N42082333W008134184                                                                                 
+SEUREAENRT   ODEMI LP           N37295100W008230200                                                                                 
+SEUREAENRT   ODLIX LP           N38404400W0091901100                                                                                
+SEUREAENRT   OLGAR LP           N39105910W007561100                                                                                 
+SEUREAENRT   PESUL LP           N40525410W008065400                                                                                 
+SEUREAENRT   PINOX LP           N40172600W007063300                                                                                 
+SEUREAENRT   PIPAS LP           N41430010W008112900                                                                                 
+SEUREAENRT   POBOD LP           N39382710W008155900                                                                                 
+SEUREAENRT   PORTA LP           N39194710W007180900                                                                                 
+SEUREAENRT   R2226 LP           N38053970W007554932                                                                                 
+SEUREAENRT   R2227 LP           N38455919W009083838                                                                                 
+SEUREAENRT   R2228 LP           N38473236W009074794                                                                                 
+SEUREAENRT   R2889 LP           N37004830W007573264                                                                                 
+SEUREAENRT   RELVA LP           N41511000W008355100                                                                                 
+SEUREAENRT   RINOR LP           N39123700W0084727100                                                                                
+SEUREAENRT   ROSAL LP           N38011700W007060500                                                                                 
+SEUREAENRT   SOTEX LP           N38173400W008131200                                                                                 
+SEUREAENRT   TAGUX LP           N38564400W007545100                                                                                 
+SEUREAENRT   TURON LP           N42040453W008334830                                                                                 
+SEUREAENRT   USALU LP           N37131910W008180100                                                                                 
+SEUREAENRT   VFA01 LP           N37004135W007571562                                                                                 
+SEUREAENRT   VFA06 LP           N37000449W007510366                                                                                 
+SEUREAENRT   VFA07 LP           N36595708W007494927                                                                                 
+SEUREAENRT   VFA09 LP           N36594222W007472052                                                                                 
+SEUREAENRT   VFA10 LP           N37010423W007594245                                                                                 
+SEUREAENRT   VFA11 LP           N36582768W007485680                                                                                 
+SEUREAENRT   VFA12 LP           N36574231W007463754                                                                                 
+SEUREAENRT   VFA14 LP           N36590484W007410872                                                                                 
+SEUREAENRT   VFA23 LP           N36565519W007494594                                                                                 
+SEUREAENRT   VFA27 LP           N37023729W008065711                                                                                 
+SEUREAENRT   VFA29 LP           N37022181W008054465                                                                                 
+SEUREAENRT   VFA30 LP           N36575596W007491048                                                                                 
+SEUREAENRT   VFA31 LP           N36560572W007502534                                                                                 
+SEUREAENRT   VFA32 LP           N36593017W007483885                                                                                 
+SEUREAENRT   VFA33 LP           N36594529W007502192                                                                                 
+SEUREAENRT   VFA34 LP           N37000688W007524932                                                                                 
+SEUREAENRT   VFA35 LP           N37004375W007565983                                                                                 
+SEUREAENRT   VFA67 LP           N36594965W008082516                                                                                 
+SEUREAENRT   VFA75 LP           N37005851W008105961                                                                                 
+SEUREAENRT   VFA79 LP           N37013018W008082757                                                                                 
+SEUREAENRT   VFA90 LP           N37042531W008152460                                                                                 
+SEUREAENRT   XAMAX LP           N40015110W0083209100                                                                                
+SEUREAENRT   XAPAS LP           N37354910W007570000                                                                                 
+SEURDB       LAR   LP000382     N38593959W009022540                                                                                 
+SEURDB       BJA   LP000376     N38093335W007551815                                                                                 
+SEURDB       BRG   LP000358     N41474800W006433100                                                                                 
+SEURDB       CP    LP000389     N38383225W009131746                                                                                 
+SEURDB       CA    LP000359     N38433160W009213040                                                                                 
+SEURDB       CB    LP000426     N40093800W0082818100                                                                                
+SEURDB       COV   LP000360     N40175700W0072532100                                                                                
+SEURDB       FAR   LP000332     N37003147W007553335                                                                                 
+SEURDB       LO    LP000401     N38511100W009055100                                                                                 
+SEURDB       MTL   LP000336     N39542789W008530075                                                                                 
+SEURDB       MIO   LP000322     N38423476W009023561                                                                                 
+SEURDB       PG    LP000367     N41044112W008381155                                                                                 
+SEURDB       POR   LP000327     N41205334W008422934                                                                                 
+SEURDB       VR    LP000304     N41125500W007443800                                                                                 
+SEURD        BEJ   LP011580V    N38074232W007553608                                                                                 
+SEURD        CAS   LP011430V    N38445370W009214330                                                                                 
+SEURD        ESP   LP011250V    N38252739W009110881                                                                                 
+SEURD        VFA   LP011280V    N37004868W007583003                                                                                 
+SEURD        FTM   LP011350V    N39395788W008293557                                                                                 
+SEURD        LIS   LP011480V    N38532110W009094600                                                                                 
+SEURD        NSA   LP011550V    N39335210W0075452100                                                                                
+SEURD        PRT   LP011410V    N41162279W008411619                                                                                 
+SEURD        SRA   LP011210V    N38494500W0092023100                                                                                
+SEURD        VIS   LP011310V    N40432310W0075308100                                                                                
+SEURD        IIF   LP010950 D   N37004471W007574519                                                                                 
+SEURD        PR    LP010990 D   N41152937W008405723                                                                                 
+SEURD        ILI   LP010910 D   N38460972W009083779                                                                                 
+SEURD        ILB   LP010950 D   N38472102W009074902                                                                                 
+SEURD        BEJ   LP011580 D   N38074232W007553608                                                                                 
+SEURD        CAS   LP011430 D   N38445370W009214330                                                                                 
+SEURD        ESP   LP011250 D   N38252739W009110881                                                                                 
+SEURD        VFA   LP011280 D   N37004868W007583003                                                                                 
+SEURD        FTM   LP011350 D   N39395710W0082935100                                                                                
+SEURD        LIS   LP011480 D   N38532110W009094600                                                                                 
+SEURD        NSA   LP011550 D   N39335210W0075452100                                                                                
+SEURD        PRT   LP011410 D   N41162279W008411619                                                                                 
+SEURD        SRA   LP011210 D   N38494500W0092023100                                                                                
+SEURD        VIS   LP011310 D   N40432310W0075308100                                                                                
+SEURD        MTR   LP010960 D   N39495741W008532452                                                                                 
+SEURD        MOJ   LP011000 D   N38423150W009015960                                                                                 
+SEURD        OVR   LP011060 D   N40531327W008383607                                                                                 
+SEURER       W8          0030ESP  LPD       O                             0264     09500     19500                                  
+SEURER       Y105        0010ERTISLPEA      O                                      09500     24500                                  
+SEURER       Y105        0020GENROLPEA      O                             0134     09500     24500                                  
+SEURER       W7          0360FTM  LPD       O                                      09500     19500                                  
+SEURER       W7          0370MAGUMLPEA      O                             0303     09500     19500                                  
+SEURER       W7          0380SOTEXLPEA      O                             0531     09500     19500                                  
+SEURER       W7          0390VFA  LPD       O                             0777     09500     19500                                  
+SEURER       A5          0030VFA  LPD       O                             0658     09500     19500                                  
+SEURER       A5          0040ODEMILPEA      O                             0350     09500     19500                                  
+SEURER       A5          0050TROIA  EA      O                             0418     09500     19500                                  
+SEURER       A5          0060ESP  LPD       O                             0256     09500     19500                                  
+SEURER       A5          0070FTM  LPD       O                             0813     09500     19500                                  
+SEURER       A5          0080XAMAXLPEA      O                             0220     09500     19500                                  
+SEURER       A5          0090MANIKLPEA      O                             0398     09500     19500                                  
+SEURER       A5          0100PRT  LPD       O                             0350     09500     19500                                  
+SEURER       A5          0110RELVALPEA      O                             0350     09500     19500                                  
+SEURER       A5          0120TURONLPEA      O                             0130     09500     19500                                  
+SEURER       A5          0130STG  LED       O                             0519     06500     24500                                  
+SEURER       B47         0020VIS  LPD       O                             0738     10500     19500                                  
+SEURER       B47         0030RIVROLEEA      O                             0533     09500     24500                                  
+SEURER       G41         0050CANARLPEA      O                                      09500     19500                                  
+SEURER       G41         0060VIS  LPD       O                             0440     09500     19500                                  
+SEURER       G41         0070FTM  LPD       O                             0693     09500     19500                                  
+SEURER       G414        0030MAPORLPEA      O                             0250     10500     19500                                  
+SEURER       G414        0040PRT  LPD       O                             0350     09500     19500                                  
+SEURER       G414        0050DIRMA  EA      O                             0447     09500     19500                                  
+SEURER       W1          0570VFA  LPD       O                             0304     09500     19500                                  
+SEURER       G7          0010TAGUXLPEA      O                                      09500     19500                                  
+SEURER       G7          0020BIRBALPEA      O                             0211     09500     19500                                  
+SEURER       G7          0030ELVARLEEA      O                             0151     09500     19500                                  
+SEURER       W13         0220MARIMLPEA      O                                      10500     19500                                  
+SEURER       W13         0230VFA  LPD       O                             0250     10500     19500                                  
+SEURER       R72         0060NARBOLPEA      O                             0481     05500     24500                                  
+SEURER       R72         0070VIS  LPD       O                             0864     10500     19500                                  
+SEURER       R72         0080NSA  LPD       O                             0696     10500     19500                                  
+SEURER       R72         0090OLGARLPEA      O                             0229     10500     19500                                  
+SEURER       R72         0100TAGUXLPEA      O                             0143     10500     19500                                  
+SEURER       R72         0110EVURALPEA      O                             0168     09500     19500                                  
+SEURER       R72         0120BEJ  LPD       O                             0322     10500     19500                                  
+SEURER       R72         0130ELDUKLPEA      O                             0191     10500     19500                                  
+SEURER       R72         0140XAPASLPEA      O                             0128     10500     19500                                  
+SEURER       R72         0150VFA  LPD       O                             0351     10500     19500                                  
+SEURER       A44-M       0010BEJ  LPD       O                                      10500     19500                                  
+SEURER       A44-M       0020GAIOSLPEA      O                             0304     10500     19500                                  
+SEURER       A44-M       0030ESP  LPD       O                             0316     09500     19500                                  
+SEURER       A44-M       0040BUSEN  EA      O                             0389     09500     19500                                  
+SEURER       G52         0030ESP  LPD       O                             0318     09500     19500                                  
+SEURER       G52         0040MAGUMLPEA      O                             0580     09500     19500                                  
+SEURER       G52         0050NSA  LPD       O                             0326     09500     19500                                  
+SEURER       G52         0060PINOXLPEA      O                             0572     09500     19500                                  
+SEURER       G52         0070RIVROLEEA      O                             0266     09500     19500                                  
+SEURER       W2          0450PRT  LPD       O                                      09500     19500                                  
+SEURER       W2          0460PESULLPEA      O                             0350     09500     19500                                  
+SEURER       W2          0470VIS  LPD       O                             0141     09500     19500                                  
+SEURER       B18         0010ESP  LPD       O                                      09500     19500                                  
+SEURER       B18         0020GANSU  EA      O                             0392     09500     19500                                  
+SEURER       R47         0040VFA  LPD       O                             2284     09500     19500                                  
+SEURER       R47         0050MINTALEEA      O                             0292     06500     24500                                  
+SEURER       A43         0010CANARLPEA      O                                      09500     19500                                  
+SEURER       A43         0020IBEROLPEA      O                             0204     09500     19500                                  
+SEURER       B60         0010LISGULPEA      O                                      09500     19500                                  
+SEURER       B60         0020OLGARLPEA      O                             0599     09500     19500                                  
+SEURER       B60         0030PORTALPEA      O                             0308     07500     24500                                  
+SEURER       B60         0040CCS  LED       O                             0419     08500     24500                                  
+SEURER       R724        0050VFA  LPD       O                             0650     09500     19500                                  
+SEURER       Y103        0020VFA  LPD       O                             0150     09500     24500                                  
+SEURER       Y206        0020ESP  LPD       O                             0177     09500     24500                                  
+SEURER       Y207        0020ODLIXLPEA      O                             0120     09500     24500                                  
+SEURER       Y207        0030LISGULPEA      O                             0145     09500     24500                                  
+SEURER       Y207        0040FTM  LPD       O                             0561     09500     24500                                  
+SEURER       Z219        0020MOMASLPEA      O                             0374     09500     19500                                  
+SEURER       Y101        0010ODEMILPEA      O                                      09500     24500                                  
+SEURER       Y101        0020USALULPEA      O                             0170     09500     24500                                  
+SEURER       Y212        0010FTM  LPD       O                                      09500     24500                                  
+SEURER       Y212        0020RINORLPEA      O                             0307     09500     24500                                  
+SEURER       A44         0070ROSALLPEA      O                             0436     06500     24500                                  
+SEURER       Y213        0010MOMASLPEA      O                                      09500     24500                                  
+SEURER       Y213        0020RINORLPEA      O                             0366     09500     24500                                  
+SEURER       Z221        0010POBODLPEA      O                                      09500     19500                                  
+SEURER       Z221        0020PRT  LPD       O                             0999     09500     19500                                  
+SEURER       Y102        0010USALULPEA      O                                      09500     24500                                  
+SEURER       Y102        0020XAPASLPEA      O                             0280     09500     24500                                  
+SEURER       UZ218       0010MAGUMLPEA      O                                      19500     46000                                  
+SEURER       UZ218       0020DIGALLPEA      O                             0392     19500     46000                                  
+SEURER       UZ218       0030BABEXLPEA      O                             0883     19500     46000                                  
+SEURER       UZ218       0040MOSENLEEA      O                             0506     24500     46000                                  
+SEURER       UN976       0010VIS  LPD       O                                      19500     46000                                  
+SEURER       UN976       0020BABEXLPEA      O                             0411     19500     46000                                  
+SEURER       UN976       0030NINOSLEEA      O                             0149     19500     46000                                  
+SEURER       UZ15        0010BABEXLPEA      O                                      19500     46000                                  
+SEURER       UZ15        0020PINOXLPEA      O                             0450     19500     46000                                  
+SEURER       UZ15        0030PORLILEEA      O                             0472     19500     46000                                  
+SEURER       UZ15        0040BIRBALPEA      O                             0263     19500     46000                                  
+SEURER       UZ15        0050BEJ  LPD       O                             0618     19500     46000                                  
+SEURER       UN873       0030SOTEXLPEA      O                             0698     19500     46000                                  
+SEURER       UN873       0040EVURALPEA      O                             0265     19500     46000                                  
+SEURER       UN873       0050BIRBALPEA      O                             0326     19500     46000                                  
+SEURER       UN873       0060PORTALPEA      O                             0166     19500     46000                                  
+SEURER       UN873       0070RODAPLEEA      O                             0212     24500     46000                                  
+SEURER       UN726       0030VFA  LPD       O                             0658     19500     46000                                  
+SEURER       UN726       0040ELDUKLPEA      O                             0479     19500     46000                                  
+SEURER       UN726       0050BEJ  LPD       O                             0191     19500     46000                                  
+SEURER       UN726       0060EVURALPEA      O                             0322     19500     46000                                  
+SEURER       UN726       0070TAGUXLPEA      O                             0168     19500     46000                                  
+SEURER       UN726       0080DIGALLPEA      O                             0479     19500     46000                                  
+SEURER       UN726       0090PESULLPEA      O                                      19500     46000                                  
+SEURER       UN726       0100NARBOLPEA      O                             0757     19500     46000                                  
+SEURER       UN726       0110STG  LED       O                             0481     24500     46000                                  
+SEURER       UM191       0060VIS  LPD       O                             0533     19500     46000                                  
+SEURER       UM191       0070DIRMA  EA      O                             0738     19500     46000                                  
+SEURER       UZ5         0270ESP  LPD       O                                      19500     46000                                  
+SEURER       UZ5         0280VFA  LPD       O                             1024     19500     46000                                  
+SEURER       UZ5         0290PIREN  EA      O                             0304     19500     29000                                  
+SEURER       UZ4         0130ESP  LPD       O                             0264     19500     60000                                  
+SEURER       UN872       0030ESP  LPD       O                             0318     19500     46000                                  
+SEURER       UN872       0040FTM  LPD       O                             0813     19500     46000                                  
+SEURER       UN872       0050VIS  LPD       O                                      19500     46000                                  
+SEURER       UN872       0060CANARLPEA      O                             0440     19500     46000                                  
+SEURER       UN872       0070RALUSLEEA      O                             0367     24500     46000                                  
+SEURER       UG414       0030PRT  LPD       O                             0599     19500     46000                                  
+SEURER       UP600       0100TURONLPEA      O                             0519     19500     46000                                  
+SEURER       UP600       0110PRT  LPD       O                             0481     19500     46000                                  
+SEURER       UP600       0120FTM  LPD       O                             0969     19500     46000                                  
+SEURER       UP600       0130MAGUMLPEA      O                             0303     19500     46000                                  
+SEURER       UP600       0140SOTEXLPEA      O                             0531     19500     46000                                  
+SEURER       UP600       0150VFA  LPD       O                             0777     19500     46000                                  
+SEURER       UZ18        0120LISGULPEA      O                             0616     19500     46000                                  
+SEURER       UZ7         0040BEJ  LPD       O                                      19500     46000                                  
+SEURER       UZ7         0050MAGUMLPEA      O                             0661     19500     46000                                  
+SEURER       UN870       0020LISGULPEA      O                             0443     19500     46000                                  
+SEURER       UN870       0030MAGUMLPEA      O                             0397     19500     46000                                  
+SEURER       UN870       0040MOMASLPEA      O                             0197     19500     46000                                  
+SEURER       UN870       0050PORLILEEA      O                             0327     19500     46000                                  
+SEURER       UN975       0060TAGUXLPEA      O                                      19500     46000                                  
+SEURER       UN975       0070BIRBALPEA      O                             0211     19500     46000                                  
+SEURER       UN975       0080ELVARLEEA      O                             0151     19500     46000                                  
+SEURER       UN975       0160ESP  LPD       O                                      19500     60000                                  
+SEURER       UN975       0170GANSU  EA      O                             0392     19500     60000                                  
+SEURER       UZ6         0010BEJ  LPD       O                                      19500     46000                                  
+SEURER       UZ6         0020ELVARLEEA      O                             0733     19500     46000                                  
+SEURER       UM744       0010BEJ  LPD       O                                      19500     46000                                  
+SEURER       UM744       0020ESP  LPD       O                             0619     19500     46000                                  
+SEURER       UM744       0030BUSEN  EA      O                             0389     19500     46000                                  
+SEURER       UM744       0110ROSALLPEA      O                             0436     24500     46000                                  
+SEURER       UZ1         0010BIRBALPEA      O                                      19500     46000                                  
+SEURER       UZ1         0020DIGALLPEA      O                             0441     19500     46000                                  
+SEURER       UZ223       0020SOTEXLPEA      O                             2083     19500     60000                                  
+SEURER       UN745       0030MAGUMLPEA      O                                      19500     60000                                  
+SEURER       UN745       0040DEKUS  EA      O                             1024     19500     60000                                  
+SEURER       UN745       0060PINOXLPEA      O                                      19500     46000                                  
+SEURER       UN745       0070RIVROLEEA      O                             0266     19500     46000                                  
+SEURER       UN747       0080VFA  LPD       O                             0292     19500     60000                                  
+SEURER       UN747       0090NARTA  EA      O                             2284     19500     60000                                  
+SEURER       UL155       0010CANARLPEA      O                                      19500     46000                                  
+SEURER       UL155       0020IBEROLPEA      O                             0204     19500     46000                                  
+SEURER       UZ219       0020MOMASLPEA      O                             0374     19500     46000                                  
+SEURER       UM188       0030VFA  LPD       O                             0299     19500     60000                                  
+SEURER       UZ221       0010POBODLPEA      O                                      19500     46000                                  
+SEURER       UZ221       0020PRT  LPD       O                             0999     19500     46000                                  

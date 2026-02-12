@@ -1,0 +1,103 @@
+SSCAEAENRT   BENAS MN           N14024800W0844311100                                                                                
+SSCAEAENRT   BERTA MN           N12565910W0864623100                                                                                
+SSCAEAENRT   DAVIB MN           N12045510W085091400                                                                                 
+SSCAEAENRT   EMARI MN           N11335310W0852017100                                                                                
+SSCAEAENRT   IMOLA MN           N11123410W085474700                                                                                 
+SSCAEAENRT   KAVLO MN           N12425900W0852021100                                                                                
+SSCAEAENRT   LISPA MN           N11232400W085295100                                                                                 
+SSCAEAENRT   LORMA MN           N12032000W0845059100                                                                                
+SSCAEAENRT   MGA05 MN           N12105963W086155869                                                                                 
+SSCAEAENRT   MGA06 MN           N12090489W086163245                                                                                 
+SSCAEAENRT   MGA08 MN           N12082569W086021680                                                                                 
+SSCAEAENRT   MGA11 MN           N12050923W086025811                                                                                 
+SSCAEAENRT   MGA12 MN           N12035917W086045221                                                                                 
+SSCAEAENRT   MGA14 MN           N12022625W086063773                                                                                 
+SSCAEAENRT   MGA27 MN           N12091883W086183423                                                                                 
+SSCAEAENRT   MGA32 MN           N12144130W086133758                                                                                 
+SSCAEAENRT   MGA37 MN           N12142609W086064825                                                                                 
+SSCAEAENRT   MGA45 MN           N12131797W086052017                                                                                 
+SSCAEAENRT   MGA50 MN           N12080891W086052101                                                                                 
+SSCAEAENRT   MGA60 MN           N12062712W086043876                                                                                 
+SSCAEAENRT   MGA63 MN           N12113019W086040255                                                                                 
+SSCAEAENRT   MGA73 MN           N12043708W086162959                                                                                 
+SSCAEAENRT   MGA80 MN           N12122894W086172905                                                                                 
+SSCAEAENRT   MGA89 MN           N12082503W086041939                                                                                 
+SSCAEAENRT   MGA92 MN           N12080326W086031856                                                                                 
+SSCAEAENRT   MGA93 MN           N12121692W086162435                                                                                 
+SSCAEAENRT   MGA99 MN           N12093276W086203600                                                                                 
+SSCAEAENRT   NAGOR MN           N12563110W085335600                                                                                 
+SSCAEAENRT   PERSI MN           N14023800W0852256100                                                                                
+SSCAEAENRT   RAKEL MN           N13035600W0854727100                                                                                
+SSCAEAENRT   TILIK MN           N13040800W0844601100                                                                                
+SSCAEAENRT   URPOS MN           N12334710W087060600                                                                                 
+SSCADB       YNP   MN000290     N12083137W086093194                                                                                 
+SSCAD        BLU   MN011670V    N11594024W083462144                                                                                 
+SSCAD        MGA   MN011210V    N12082210W086102720                                                                                 
+SSCAD        PZA   MN011290V    N14024280W083231780                                                                                 
+SSCAD        IMGA  MN010910 D   N12082913W086103610                                                                                 
+SSCAD        BLU   MN011670 D   N11594024W083462144                                                                                 
+SSCAD        MGA   MN011210 D   N12082210W086102720                                                                                 
+SSCAER       A552        0260PZA  MND       O                             0559     10000     19500                                  
+SSCAER       A552        0270BENASMNEA      O                             0776     10000     19500                                  
+SSCAER       A552        0280PERSIMNEA      O                             0386     10000     19500                                  
+SSCAER       A552        0290KARAKMHEA      O                             0826     10000     19500                                  
+SSCAER       A317        0080EMARIMNEA      O                             0541     14000     19500                                  
+SSCAER       A317        0090MGA  MND       O                             0600     14000     19500                                  
+SSCAER       A317        0100URPOSMNEA      O                             0600     10000     19500                                  
+SSCAER       A317        0110TUKOR  EA      O                             0462     10000     19500                                  
+SSCAER       G877        0090BENASMNEA      O                             0911     11000     19500                                  
+SSCAER       G877        0100NAGORMNEA      O                             0827     11000     19500                                  
+SSCAER       G877        0110MGA  MND       O                             0600     11000     19500                                  
+SSCAER       A502        0110LISPAMNEA      O                             0290     11000     19500                                  
+SSCAER       A502        0120MGA  MND       O                             0601     11000     19500                                  
+SSCAER       A502        0130BERTAMNEA      O                             0600     11000     19500                                  
+SSCAER       A502        0140LIBISMHEA      O                             0492     11000     19500                                  
+SSCAER       R505        0010MGA  MND       O                                      06000     19500                                  
+SSCAER       R505        0020DAVIBMNEA      O                             0600     06000     19500                                  
+SSCAER       R505        0030LORMAMNEA      O                             0179     06000     19500                                  
+SSCAER       R505        0040BLU  MND       O                             0634     05000     19500                                  
+SSCAER       R505        0050DURAM  EA      O                             0614     05000     19500                                  
+SSCAER       B767        0060PZA  MND       O                             0771     08000     19500                                  
+SSCAER       B767        0070BLU  MND       O                             1252     08000     19500                                  
+SSCAER       B767        0080RADONMREA      O                             0802     08000     19500                                  
+SSCAER       R899        0060PZA  MND       O                             0763     10000     19500                                  
+SSCAER       G439        0120MGA  MND       O                                      11000     19500                                  
+SSCAER       G439        0130RAKELMNEA      O                             0599     11000     19500                                  
+SSCAER       G439        0140PERSIMNEA      O                             0634     11000     19500                                  
+SSCAER       G439        0150KARETMHEA      O                             0497     11000     19500                                  
+SSCAER       R878        0010MGA  MND       O                                      10000     19500                                  
+SSCAER       R878        0020KAVLOMNEA      O                             0600     10000     19500                                  
+SSCAER       R878        0030TILIKMNEA      O                             0396     10000     19500                                  
+SSCAER       R878        0040PZA  MND       O                             0996     10000     19500                                  
+SSCAER       UA552       0300PERSIMNEA      O                             0826     19500     60000                                  
+SSCAER       UA552       0310BENASMNEA      O                             0386     19500     60000                                  
+SSCAER       UA552       0320PZA  MND       O                             0776     19500     60000                                  
+SSCAER       UA552       0330FALLA  EA      O                             0559     19500     60000                                  
+SSCAER       UA317       0080EMARIMNEA      O                             0541     19500     60000                                  
+SSCAER       UA317       0090MGA  MND       O                             0600     19500     60000                                  
+SSCAER       UA317       0100URPOSMNEA      O                             0600     19500     60000                                  
+SSCAER       UA317       0110TUKOR  EA      O                             0462     19500     60000                                  
+SSCAER       UG877       0080BENASMNEA      O                             0911     19500     60000                                  
+SSCAER       UG877       0090NAGORMNEA      O                             0827     19500     60000                                  
+SSCAER       UG877       0100MGA  MND       O                             0600     19500     60000                                  
+SSCAER       UA502       0030BERTAMNEA      O                             0492     19500     60000                                  
+SSCAER       UA502       0040MGA  MND       O                             0600     19500     60000                                  
+SSCAER       UA502       0050LISPAMNEA      O                             0601     19500     60000                                  
+SSCAER       UA502       0060ULAPOMREA      O                             0290     19500     60000                                  
+SSCAER       UR505       0010MGA  MND       O                                      19500     60000                                  
+SSCAER       UR505       0020DAVIBMNEA      O                             0600     19500     60000                                  
+SSCAER       UR505       0030LORMAMNEA      O                             0179     19500     60000                                  
+SSCAER       UR505       0040BLU  MND       O                             0634     19500     60000                                  
+SSCAER       UR505       0050DURAM  EA      O                             0614     19500     60000                                  
+SSCAER       UB767       0050PZA  MND       O                             0771     19500     60000                                  
+SSCAER       UB767       0060BLU  MND       O                             1252     19500     60000                                  
+SSCAER       UB767       0070RADONMREA      O                             0802     19500     60000                                  
+SSCAER       UR899       0060PZA  MND       O                             0763     19500     60000                                  
+SSCAER       UG439       0110MGA  MND       O                                      19500     60000                                  
+SSCAER       UG439       0120RAKELMNEA      O                             0599     19500     60000                                  
+SSCAER       UG439       0130PERSIMNEA      O                             0634     19500     60000                                  
+SSCAER       UG439       0140KARETMHEA      O                             0497     19500     60000                                  
+SSCAER       UR878       0010MGA  MND       O                                      19500     60000                                  
+SSCAER       UR878       0020KAVLOMNEA      O                             0600     19500     60000                                  
+SSCAER       UR878       0030TILIKMNEA      O                             0396     19500     60000                                  
+SSCAER       UR878       0040PZA  MND       O                             0996     19500     60000                                  

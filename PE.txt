@@ -1,0 +1,398 @@
+SCCAEAENRT   AKREL TU           S13175710W0725005100                                                                                
+SCCAEAENRT   AMVEX TU           S10480200W0764811100                                                                                
+SCCAEAENRT   ARGON TU           S07274200W079260800                                                                                 
+SCCAEAENRT   ARPEN TU           S02231810W072071200                                                                                 
+SCCAEAENRT   BODET TU           S12140700W0735402100                                                                                
+SCCAEAENRT   BOLEP TU           S13225000W0725111100                                                                                
+SCCAEAENRT   BORAS TU           S03504395W073240826                                                                                 
+SCCAEAENRT   BORLA TU           S07441310W075141100                                                                                 
+SCCAEAENRT   CEMIL TU           S13142210W0703858100                                                                                
+SCCAEAENRT   CHIRA TU           S04560700W080533800                                                                                 
+SCCAEAENRT   COCOS TU           S08523500W075205700                                                                                 
+SCCAEAENRT   DABUL TU           S13415200W072531200                                                                                 
+SCCAEAENRT   DADIL TU           S02250500W0703459100                                                                                
+SCCAEAENRT   DOBNI TU           S15430610W069225400                                                                                 
+SCCAEAENRT   EGASI TU           S04122900W0802845100                                                                                
+SCCAEAENRT   ELAKO TU           S15553510W069181800                                                                                 
+SCCAEAENRT   ERODI TU           S13494900W072522300                                                                                 
+SCCAEAENRT   ESMIL TU           S08491010W0784216100                                                                                
+SCCAEAENRT   ETEBA TU           S12254510W071354400                                                                                 
+SCCAEAENRT   GATUK TU           S12211100W0761517100                                                                                
+SCCAEAENRT   GAVAR TU           S16582100W071065100                                                                                 
+SCCAEAENRT   GAVIL TU           S11151500W0763513100                                                                                
+SCCAEAENRT   ILMOX TU           S14353910W0705039100                                                                                
+SCCAEAENRT   ILMUX TU           S02274210W072505600                                                                                 
+SCCAEAENRT   IQT15 TU           S04005847W073255175                                                                                 
+SCCAEAENRT   IQT19 TU           S04000608W073223790                                                                                 
+SCCAEAENRT   IQT21 TU           S03591096W073245719                                                                                 
+SCCAEAENRT   IQT23 TU           S03561690W073284299                                                                                 
+SCCAEAENRT   IQT99 TU           S04020207W073231103                                                                                 
+SCCAEAENRT   KADEL TU           S11354700W0761713100                                                                                
+SCCAEAENRT   KALAR TU           S11555510W0770930100                                                                                
+SCCAEAENRT   KALOR TU           S04054410W0704600100                                                                                
+SCCAEAENRT   KAMPA TU           S03432987W073131824                                                                                 
+SCCAEAENRT   KATOS TU           S15484100W0715936100                                                                                
+SCCAEAENRT   KIBAN TU           S06533800W0800521100                                                                                
+SCCAEAENRT   KIDES TU           S12125181W077003033                                                                                 
+SCCAEAENRT   KOLKA TU           S15405300W0715936100                                                                                
+SCCAEAENRT   KOLSI TU           S08555410W077083400                                                                                 
+SCCAEAENRT   KOMPA TU           S16283000W069000000                                                                                 
+SCCAEAENRT   KOPLA TU           S03183700W0760935100                                                                                
+SCCAEAENRT   LAKUN TU           S14391900W0735935100                                                                                
+SCCAEAENRT   LIM01 TU           S11594416W077074224                                                                                 
+SCCAEAENRT   LIM08 TU           S11552015W077133678                                                                                 
+SCCAEAENRT   LIM11 TU           S12040795W076575030                                                                                 
+SCCAEAENRT   LIM16 TU           S11590494W077080635                                                                                 
+SCCAEAENRT   LIM19 TU           S12082600W077084799                                                                                 
+SCCAEAENRT   LIM30 TU           S12112088W076384613                                                                                 
+SCCAEAENRT   LIM50 TU           S12021608W077062184                                                                                 
+SCCAEAENRT   LIM55 TU           S11065343W076534375                                                                                 
+SCCAEAENRT   LIM67 TU           S12003223W076263140                                                                                 
+SCCAEAENRT   LIM68 TU           S12003248W076364405                                                                                 
+SCCAEAENRT   LIM69 TU           S12003187W076570935                                                                                 
+SCCAEAENRT   LIM77 TU           S11443416W076353160                                                                                 
+SCCAEAENRT   LIM78 TU           S11484055W076434249                                                                                 
+SCCAEAENRT   LIM79 TU           S11555799W076581579                                                                                 
+SCCAEAENRT   LIM88 TU           S11353224W076501314                                                                                 
+SCCAEAENRT   LIM89 TU           S11521153W077013870                                                                                 
+SCCAEAENRT   LIM97 TU           S11262355W076584070                                                                                 
+SCCAEAENRT   LIM98 TU           S11504605W077045284                                                                                 
+SCCAEAENRT   LIM99 TU           S11574879W077084342                                                                                 
+SCCAEAENRT   LIMPO TU           S04530360W072215940                                                                                 
+SCCAEAENRT   LITOT TU           S14473510W0714852100                                                                                
+SCCAEAENRT   LIVUS TU           S07242110W077472400                                                                                 
+SCCAEAENRT   LODOX TU           S12250100W076052400                                                                                 
+SCCAEAENRT   LOKOL TU           S12182933W076573259                                                                                 
+SCCAEAENRT   LOLES TU           S17535910W0694659100                                                                                
+SCCAEAENRT   MELIX TU           S06301510W079003300                                                                                 
+SCCAEAENRT   MEXUR TU           S13100400W075401300                                                                                 
+SCCAEAENRT   MIKAR TU           S12063255W077035624                                                                                 
+SCCAEAENRT   MILAX TU           S08582300W076571100                                                                                 
+SCCAEAENRT   MITOS TU           S03403680W073091228                                                                                 
+SCCAEAENRT   MOSKI TU           S17135510W070571000                                                                                 
+SCCAEAENRT   MUGOM TU           S16174510W072594800                                                                                 
+SCCAEAENRT   MUPIN TU           S02251810W075190800                                                                                 
+SCCAEAENRT   OKASO TU           S05083910W0805811100                                                                                
+SCCAEAENRT   OLGAS TU           S16230800W0704615100                                                                                
+SCCAEAENRT   ORALO TU           S17175855W069373708                                                                                 
+SCCAEAENRT   ORION TU           S06030900W080211000                                                                                 
+SCCAEAENRT   PABAM TU           S03244600W0753333100                                                                                
+SCCAEAENRT   PABUL TU           S12065183W077035002                                                                                 
+SCCAEAENRT   PADOX TU           S04500000W0792259100                                                                                
+SCCAEAENRT   PAGUR TU           S04284510W0802133100                                                                                
+SCCAEAENRT   PANTA TU           S03532377W073282299                                                                                 
+SCCAEAENRT   POSKA TU           S05062340W072484320                                                                                 
+SCCAEAENRT   PUDUL TU           S12264810W075552300                                                                                 
+SCCAEAENRT   PUL07 TU           S08291225W074363809                                                                                 
+SCCAEAENRT   PUL12 TU           S08335743W074381677                                                                                 
+SCCAEAENRT   PUL20 TU           S08413368W074405475                                                                                 
+SCCAEAENRT   PUMAX TU           S05131110W075595700                                                                                 
+SCCAEAENRT   R1533 TU           S12002746W077071687                                                                                 
+SCCAEAENRT   RACAN TU           S14594700W0741727100                                                                                
+SCCAEAENRT   RAXUN TU           S14265400W069052500                                                                                 
+SCCAEAENRT   ROKOL TU           S05583710W0801238100                                                                                
+SCCAEAENRT   SIGAS TU           S11480113W077135690                                                                                 
+SCCAEAENRT   TEMOS TU           S06421400W078535300                                                                                 
+SCCAEAENRT   TERAS TU           S02000000W0755559100                                                                                
+SCCAEAENRT   TOMIX TU           S13330900W071215100                                                                                 
+SCCAEAENRT   TONOS TU           S15552710W0705420100                                                                                
+SCCAEAENRT   TORDO TU           S12012300W076111500                                                                                 
+SCCAEAENRT   UDOVA TU           S06395710W076443800                                                                                 
+SCCAEAENRT   VATES TU           S07421110W078215600                                                                                 
+SCCAEAENRT   ZUMBA TU           S04581110W079070800                                                                                 
+SCCADB       AND   TU000290     S13423410W0732059100                                                                                
+SCCADB       OAS   TU000360     S02494900W076271900                                                                                 
+SCCADB       ATA   TU000415     S09210240W077355270                                                                                 
+SCCADB       LAY   TU000295     S10434000W0734610100                                                                                
+SCCADB       ACO   TU000202     S16143610W0733442100                                                                                
+SCCADB       AYA   TU000370     S13090610W074121900                                                                                 
+SCCADB       MAR   TU000300     S07082310W078292600                                                                                 
+SCCADB       HIC   TU000305     S06464565W079494704                                                                                 
+SCCADB       ANA   TU000380     S07204300W075001900                                                                                 
+SCCADB       TRO   TU000325     S03475810W0750222100                                                                                
+SCCADB       PE    TU000335     S03435300W0731956100                                                                                
+SCCADB       NUC   TU000310     S09524400W0761226100                                                                                
+SCCADB       IBE   TU000202     S11240310W069292900                                                                                 
+SCCADB       EC    TU000335     S03474618W0731933100                                                                                
+SCCADB       UAN   TU000290     S07101728W076432586                                                                                 
+SCCADB       MAC   TU000285     S04224110W079563000                                                                                 
+SCCADB       SCO   TU000355     S13441200W076130800                                                                                 
+SCCADB       URA   TU000345     S05124200W0803701100                                                                                
+SCCADB       PZA   TU000300     S09451800W0704417100                                                                                
+SCCADB       RIO   TU000201     S06014809W077100939                                                                                 
+SCCADB       TYL   TU000370     S04342310W0811517100                                                                                
+SCCADB       TGM   TU000385     S09174725W076001710                                                                                 
+SCCADB       BES   TU000290     S03325710W080225400                                                                                 
+SCCADB       YMS   TU000340     S05525910W0760459100                                                                                
+SCCAD        AND   TU011430V    S13425100W073224000                                                                                 
+SCCAD        EQU   TU011370V    S16202000W0713550100                                                                                
+SCCAD        ASI   TU011530V    S12453800W076362300                                                                                 
+SCCAD        POY   TU011510V    S06120100W0775135100                                                                                
+SCCAD        CLA   TU011490V    S06430110W079490900                                                                                 
+SCCAD        BTE   TU011250V    S09085100W0783118100                                                                                
+SCCAD        ZCO   TU011490V    S13310900W072003600                                                                                 
+SCCAD        ILO   TU011250V    S17412808W071210200                                                                                 
+SCCAD        IQT   TU011650V    S03473210W073190400                                                                                 
+SCCAD        JUL   TU011555V    S15280500W0700903100                                                                                
+SCCAD        LIM   TU011380V    S12003010W077072200                                                                                 
+SCCAD        SCO   TU011410V    S13442000W076124700                                                                                 
+SCCAD        URA   TU011770V    S05123510W0803657100                                                                                
+SCCAD        PUL   TU011670V    S08223210W0743419100                                                                                
+SCCAD        PZA   TU011390V    S09460869W070421819                                                                                 
+SCCAD        PDO   TU011610V    S12362910W0691337100                                                                                
+SCCAD        SLS   TU011470V    S11171545W077334501                                                                                 
+SCCAD        SJN   TU011710V    S15142600W075061500                                                                                 
+SCCAD        UAS   TU011350V    S16221510W0720800100                                                                                
+SCCAD        TCA   TU011680V    S18032849W070163478                                                                                 
+SCCAD        TAL   TU011610V    S04345000W0811508100                                                                                
+SCCAD        TAP   TU011550V    S06392919W076220243                                                                                 
+SCCAD        TOC   TU011690V    S13212225W074112858                                                                                 
+SCCAD        TRU   TU011630V    S08051310W0790643100                                                                                
+SCCAD        BES   TU011290V    S03323910W080232100                                                                                 
+SCCAD        URC   TU011560V    S13385710W071351100                                                                                 
+SCCAD        YMR   TU011370V    S05533210W076082690                                                                                 
+SCCAD        IJAQ  TU010970 D   S06464516W079494032                                                                                 
+SCCAD        JCH   TU010970 D   S12003810W077071530                                                                                 
+SCCAD        ISEC  TU010970 D   S03472504W073185548                                                                                 
+SCCAD        IARB  TU010970 D   S16202740W071345740                                                                                 
+SCCAD        IMDP  TU010970 D   S08053491W079063978                                                                                 
+SCCAD        ICSR  TU010970 D   S18034310W070164052                                                                                 
+SCCAD        IPJA  TU010970 D   S12373600W0691341100                                                                                
+SCCAD        AND   TU011430 D   S13425100W073224000                                                                                 
+SCCAD        EQU   TU011370 D   S16202000W0713550100                                                                                
+SCCAD        ASI   TU011530 D   S12453800W076362300                                                                                 
+SCCAD        POY   TU011510 D   S06120100W0775135100                                                                                
+SCCAD        CLA   TU011490 D   S06430110W079490900                                                                                 
+SCCAD        ZCO   TU011490 D   S13310900W072003600                                                                                 
+SCCAD        IQT   TU011650 D   S03473210W073190400                                                                                 
+SCCAD        JUL   TU011555 D   S15280500W0700903100                                                                                
+SCCAD        LIM   TU011380 D   S12003010W077072200                                                                                 
+SCCAD        SCO   TU011410 D   S13442000W076124700                                                                                 
+SCCAD        URA   TU011770 D   S05123510W0803657100                                                                                
+SCCAD        PUL   TU011670 D   S08223210W0743419100                                                                                
+SCCAD        PDO   TU011610 D   S12362910W0691337100                                                                                
+SCCAD        SLS   TU011470 D   S11171545W077334501                                                                                 
+SCCAD        TCA   TU011680 D   S18032849W070163478                                                                                 
+SCCAD        TAP   TU011550 D   S06392919W076220243                                                                                 
+SCCAD        TRU   TU011630 D   S08051310W0790643100                                                                                
+SCCAD        URC   TU011560 D   S13385710W071351100                                                                                 
+SCCAER       V14         0180PDO  TUD       OL                                     22000     24000                                  
+SCCAER       V14         0190JUL  TUD       OL                            1799     22000     24000                                  
+SCCAER       V14         0200TONOSTUEA      OL                            0515     23000     24000                                  
+SCCAER       V14         0210EQU  TUD       OL                            0470     23000     24000                                  
+SCCAER       V14         0220UAS  TUD       OL                            0309     23000     24000                                  
+SCCAER       V14         0230MUGOMTUEA      OL                            0499     15000     24000                                  
+SCCAER       W5          0510MAC  TUD       O                             0411     12500     24500                                  
+SCCAER       A301        0150DADILTUEA      O                                      04500     24000                                  
+SCCAER       A301        0160PAPEMSKEA      O                             0486     04500     24000                                  
+SCCAER       W3          0180MAC  TUD       O                             0428     12500     24500                                  
+SCCAER       V11         0130DABULTUEA      OL                                     21000     24000                                  
+SCCAER       V11         0140URC  TUD       OL                            0759     21000     24000                                  
+SCCAER       V15         0110UAS  TUD       OL                                     23000     24000                                  
+SCCAER       V15         0120KOLKATUEA      OL                            0422     23000     24000                                  
+SCCAER       V15         0130LITOTTUEA      OL                            0543     23000     24000                                  
+SCCAER       V15         0140URC  TUD       OL                            0700     23000     24000                                  
+SCCAER       V1          0100BES  TUD       OL                                     04000     24000                                  
+SCCAER       V1          0110PUNTA  EA      OL                            0707     04000     24000                                  
+SCCAER       V1          0120TAL  TUD       OL                            0204     04000     24000                                  
+SCCAER       V1          0130CHIRATUEA      OL                            0302     04000     24000                                  
+SCCAER       V1          0140URA  TUD       OL                            0234     04000     24000                                  
+SCCAER       V1          0150ROKOLTUEA      OL                            0520     04000     24000                                  
+SCCAER       V1          0160CLA  TUD       OL                            0502     04000     24000                                  
+SCCAER       A566        0160KALORTUEA      O                             0499     03500     24000                                  
+SCCAER       A566        0250PABAMTUEA      O                             1403     08000     24000                                  
+SCCAER       V2          0010BES  TUD       OL                                     08000     24000                                  
+SCCAER       V2          0020EGASITUEA      OL                            0402     08000     24000                                  
+SCCAER       V2          0030URA  TUD       OL                            0607     08000     24000                                  
+SCCAER       V9          0030LIM  TUD       OL                                     20000     24000                                  
+SCCAER       V9          0040GAVILTUEA      OL                            0552     20000     24000                                  
+SCCAER       V9          0050PUL  TUD       OL                            2099     20000     24000                                  
+SCCAER       V3          0090CLA  TUD       OL                                     17000     24000                                  
+SCCAER       V3          0100MELIXTUEA      OL                            0500     17000     24000                                  
+SCCAER       V3          0110POY  TUD       OL                            0710     17000     24000                                  
+SCCAER       V3          0120PUMAXTUEA      OL                            1258     08000     24000                                  
+SCCAER       V6          0010MAR  TUD       OL                                     21000     24000                                  
+SCCAER       V6          0020VATESTUEA      OL                            0346     21000     24000                                  
+SCCAER       V6          0030SLS  TUD       OL                            2204     20000     24000                                  
+SCCAER       V5          0270TAP  TUD       OL                                     17000     24000                                  
+SCCAER       V5          0280VATESTUEA      OL                            1346     17000     24000                                  
+SCCAER       V5          0290TRU  TUD       OL                            0500     17000     24000                                  
+SCCAER       V4          0010PUL  TUD       OL                                     08000     24000                                  
+SCCAER       V4          0020BORLATUEA      OL                            0550     08000     24000                                  
+SCCAER       V4          0030TAP  TUD       OL                            0935     08000     24000                                  
+SCCAER       V4          0040TEMOSTUEA      OL                            1509     18000     24000                                  
+SCCAER       V4          0050CLA  TUD       OL                            0549     18000     24000                                  
+SCCAER       V31         0090MAC  TUD       OL                                     13000     24000                                  
+SCCAER       V31         0100URA  TUD       OL                            0642     13000     24000                                  
+SCCAER       W29G        0100TERASTUEA      O                             1100     05500     24500                                  
+SCCAER       V10         0010BOLEPTUEA      OL                                     23000     24000                                  
+SCCAER       V10         0020ZCO  TUD       OL                            0499     23000     24000                                  
+SCCAER       V10         0030URC  TUD       OL                            0259     09000     24000                                  
+SCCAER       V10         0040CEMILTUEA      OL                            0600     09000     24000                                  
+SCCAER       V10         0050PDO  TUD       OL                            0915     09000     24000                                  
+SCCAER       V10         0170GATUKTUEA      OL                                     22000     24000                                  
+SCCAER       V10         0180LIM  TUD       OL                            0550     22000     24000                                  
+SCCAER       G437        0240PADOXTUEA      O                             0983     14500     24500                                  
+SCCAER       T216        0010IQT  TUD       RL                                     17000     24000                                  
+SCCAER       T216        0020BORLATUEA      RL                            2631     17000     24000                                  
+SCCAER       T216        0030TGM  TUD       RL                            1041     17000     24000                                  
+SCCAER       G675-       0010SLS  TUD       O                                      08000     24000                                  
+SCCAER       G675-       0020BTE  TUD       O                             1404     08000     24000                                  
+SCCAER       G675-       0030ESMILTUEA      O                             0225     08000     24000                                  
+SCCAER       G675-       0040TRU  TUD       O                             0502     08000     24000                                  
+SCCAER       W10G        0010ZUMBATUEA      O                                      14500     24500                                  
+SCCAER       W10G        0020CAGUASEEA      O                             0649     14500     24500                                  
+SCCAER       V12         0140EQU  TUD       OL                                     22000     24000                                  
+SCCAER       V12         0150GAVARTUEA      OL                            0471     22000     24000                                  
+SCCAER       V12         0160TCA  TUD       OL                            0809     22000     24000                                  
+SCCAER       V17         0010PUL  TUD       OL                                     08000     24000                                  
+SCCAER       V17         0020COCOSTUEA      OL                            0550     08000     24000                                  
+SCCAER       V17         0030TGM  TUD       OL                            0463     08000     24000                                  
+SCCAER       G675        0130PAGURTUEA      O                                      08000     24000                                  
+SCCAER       G675        0140URA  TUD       O                             0465     08000     24000                                  
+SCCAER       G675        0150ORIONTUEA      O                             0530     08000     24000                                  
+SCCAER       G675        0160KIBANTUEA      O                             0529     08000     24000                                  
+SCCAER       G675        0170RAYA TUEA      O                             0494     08000     24000                                  
+SCCAER       G675        0180TRU  TUD       O                             0429     08000     24000                                  
+SCCAER       V16         0090POY  TUD       OL                                     17000     24000                                  
+SCCAER       V16         0100MAR  TUD       OL                            0678     17000     24000                                  
+SCCAER       V16         0110TRU  TUD       OL                            0678     17000     24000                                  
+SCCAER       B552        0080PUL  TUD       O                             0577     08000     24000                                  
+SCCAER       A568        0020LOLESTUEA      O                             0372     22000     24000                                  
+SCCAER       A568        0030VAGURSLEA      O                             0270     18000     24500                                  
+SCCAER       W12G        0010ZUMBATUEA      O                                      14500     24500                                  
+SCCAER       W12G        0020LOJ  SED       O                             0603     14500     24500                                  
+SCCAER       A573        0010ORALOTUEA      O                                      22000     24500                                  
+SCCAER       A573        0020KIPUSSLEA      O                             0379     22000     24500                                  
+SCCAER       G675-       0010LIM  TUD       O                                      08000     24000                                  
+SCCAER       G675-       0020SLS  TUD       O                             0504     08000     24000                                  
+SCCAER       UL305       0080TERASTUEA      O                             1259     24500     60000                                  
+SCCAER       UL305       0090KOPLATUEA      O                             0798     24500     60000                                  
+SCCAER       UL305       0100UDOVATUEA      O                             2045     24500     60000                                  
+SCCAER       UL305       0110KOLSITUEA      O                             1381     24500     60000                                  
+SCCAER       UL305       0120SLS  TUD       O                             1436     24500     60000                                  
+SCCAER       UL300       0080TOMIXTUEA      O                             2468     24500     60000                                  
+SCCAER       UL300       0090OLGASTUEA      O                             1735     24500     60000                                  
+SCCAER       UV14        0050EQU  TUD       O                                      24500     60000                                  
+SCCAER       UV14        0060JUL  TUD       O                             0985     24500     60000                                  
+SCCAER       UV14        0070PDO  TUD       O                             1799     24500     60000                                  
+SCCAER       UM415       0160DOBNITUEA      O                                      24500     60000                                  
+SCCAER       UM415       0170JUL  TUD       O                             0470     24500     60000                                  
+SCCAER       UM415       0180LITOTTUEA      O                             1046     24500     60000                                  
+SCCAER       UM415       0190MEXURTUEA      O                             2449     24500     60000                                  
+SCCAER       UW5         0290MAC  TUD       O                                      24500     60000                                  
+SCCAER       UW5         0300LOJ  SED       O                             0411     24500     60000                                  
+SCCAER       UW12        0200KOMPATUEA      O                                      24500     60000                                  
+SCCAER       UW12        0210PAZ  SLD       O                             0442     24500     60000                                  
+SCCAER       UL312       0100SLS  TUD       O                             6354     24500     60000                                  
+SCCAER       UV1         0010BES  TUD       O                                      24500     60000                                  
+SCCAER       UV1         0020PUNTA  EA      O                             0707     24500     60000                                  
+SCCAER       UV1         0030TAL  TUD       O                             0204     24500     60000                                  
+SCCAER       UV1         0040URA  TUD       O                             0536     24500     60000                                  
+SCCAER       UV1         0050CLA  TUD       O                             1022     24500     60000                                  
+SCCAER       UV1         0060TRU  TUD       O                             0924     24500     60000                                  
+SCCAER       UG431       0140SLS  TUD       O                                      24500     60000                                  
+SCCAER       UG431       0150MILAXTUEA      O                             1436     24500     60000                                  
+SCCAER       UG431       0160TAP  TUD       O                             1433     24500     60000                                  
+SCCAER       UG431       0170PUMAXTUEA      O                             0891     24500     60000                                  
+SCCAER       UG431       0180PABAMTUEA      O                             1117     24500     60000                                  
+SCCAER       UG431       0190MUPINTUEA      O                             0612     24500     60000                                  
+SCCAER       UG431       0200PLG  SKD       O                             1386     24500     60000                                  
+SCCAER       UR559       0040POSKATUEA      O                             0971     24500     60000                                  
+SCCAER       UR559       0070RAXUNTUEA      O                             0784     24500     60000                                  
+SCCAER       UL306       0120LIM  TUD       O                                      24500     60000                                  
+SCCAER       UL306       0130KADELTUEA      O                             0550     24500     60000                                  
+SCCAER       UL306       0140SELVASBEA      O                             2722     24500     60000                                  
+SCCAER       UT218       0010PDO  TUD       O                                      24500     60000                                  
+SCCAER       UT218       0020ETEBATUEA      O                             1392     24500     60000                                  
+SCCAER       UT218       0030BODETTUEA      O                             1357     24500     60000                                  
+SCCAER       UT218       0040TORDOTUEA      O                             1348     24500     60000                                  
+SCCAER       UT218       0050LIM  TUD       O                             0549     24500     60000                                  
+SCCAER       UG437       0240PADOXTUEA      O                             0983     24500     60000                                  
+SCCAER       UG437       0250MAR  TUD       O                             1484     24500     60000                                  
+SCCAER       UG437       0260VATESTUEA      O                             0346     24500     60000                                  
+SCCAER       UG437       0270SLS  TUD       O                             2204     24500     60000                                  
+SCCAER       UA321       0110LIMPOTUEA      O                             1017     24500     60000                                  
+SCCAER       UM414       0010IQT  TUD       O                                      24500     60000                                  
+SCCAER       UM414       0020BORLATUEA      O                             2631     24500     60000                                  
+SCCAER       UM414       0030TGM  TUD       O                             1041     24500     60000                                  
+SCCAER       UV4         0010PUL  TUD       O                                      24500     60000                                  
+SCCAER       UV4         0020BORLATUEA      O                             0550     24500     60000                                  
+SCCAER       UV4         0030TAP  TUD       O                             0935     24500     60000                                  
+SCCAER       UV4         0040CLA  TUD       O                             2059     24500     60000                                  
+SCCAER       UG436       0010SLS  TUD       O                                      24500     60000                                  
+SCCAER       UG436       0020BTE  TUD       O                             1404     24500     60000                                  
+SCCAER       UG436       0030TRU  TUD       O                             0727     24500     60000                                  
+SCCAER       UA566       0040KOPLATUEA      O                             1038     24500     60000                                  
+SCCAER       UA566       0050PABAMTUEA      O                             0365     24500     60000                                  
+SCCAER       UL780       0060TRU  TUD       O                             3847     24500     60000                                  
+SCCAER       UL780       0070VAKUDSEEA      O                             2169     24500     45000                                  
+SCCAER       UB677       0010LAKUNTUEA      O                                      24500     60000                                  
+SCCAER       UB677       0020EQU  TUD       O                             1716     24500     60000                                  
+SCCAER       UB677       0030OLGASTUEA      O                             0477     24500     60000                                  
+SCCAER       UB677       0040KOMPATUEA      O                             1021     24500     60000                                  
+SCCAER       UB677       0050CAL  SLD       O                             0582     24500     60000                                  
+SCCAER       UA320       0020ELAKOTUEA      O                             0908     24500     60000                                  
+SCCAER       UA320       0070GATUKTUEA      O                                      24500     60000                                  
+SCCAER       UA320       0080TOC  TUD       O                             1350     24500     60000                                  
+SCCAER       UV3         0010CLA  TUD       O                                      24500     60000                                  
+SCCAER       UV3         0020POY  TUD       O                             1209     24500     60000                                  
+SCCAER       UV3         0030PUMAXTUEA      O                             1258     24500     60000                                  
+SCCAER       UM664       0020LOLESTUEA      O                             0372     24500     60000                                  
+SCCAER       UM664       0030VAGURSLEA      O                             0270     24500     60000                                  
+SCCAER       UV11        0050JUL  TUD       O                                      24500     60000                                  
+SCCAER       UV11        0060URC  TUD       O                             1374     24500     60000                                  
+SCCAER       UA304       0080ELAKOTUEA      O                             0711     24500     60000                                  
+SCCAER       UG427       0010IQT  TUD       O                                      24500     60000                                  
+SCCAER       UG427       0020ENRUTSKEA      O                             1082     24500     60000                                  
+SCCAER       UG436       0080TRU  TUD       O                                      24500     60000                                  
+SCCAER       UG436       0090KIBANTUEA      O                             0923     24500     60000                                  
+SCCAER       UG436       0100OKASOTUEA      O                             1175     24500     60000                                  
+SCCAER       UG436       0110TAL  TUD       O                             0378     24500     60000                                  
+SCCAER       UA304       0010ELAKOTUEA      O                                      24500     60000                                  
+SCCAER       UA304       0020JUL  TUD       O                             0561     24500     60000                                  
+SCCAER       UG426       0080SLS  TUD       O                                      24500     60000                                  
+SCCAER       UG426       0090LIVUSTUEA      O                             2334     24500     60000                                  
+SCCAER       UG426       0100POY  TUD       O                             0725     24500     60000                                  
+SCCAER       UG426       0110MIRLOSEEA      O                             1618     24500     60000                                  
+SCCAER       UV12        0010EQU  TUD       O                                      24500     60000                                  
+SCCAER       UV12        0020TCA  TUD       O                             1280     24500     60000                                  
+SCCAER       UV12        0030RACANTUEA      O                                      24500     60000                                  
+SCCAER       UV12        0040UAS  TUD       O                             1496     24500     60000                                  
+SCCAER       UV12-       0010EQU  TUD       O                                      24500     60000                                  
+SCCAER       UV12-       0020UAS  TUD       O                             0309     24500     60000                                  
+SCCAER       UA320       0010GATUKTUEA      O                                      24500     60000                                  
+SCCAER       UA320       0020LIM  TUD       O                             0550     24500     60000                                  
+SCCAER       UT212       0010GATUKTUEA      O                                      24500     60000                                  
+SCCAER       UT212       0020PUDULTUEA      O                             0203     24500     60000                                  
+SCCAER       UV9         0010LIM  TUD       O                                      24500     60000                                  
+SCCAER       UV9         0020GAVILTUEA      O                             0552     24500     60000                                  
+SCCAER       UV9         0030PUL  TUD       O                             2099     24500     60000                                  
+SCCAER       UL308       0050SLS  TUD       O                                      24500     60000                                  
+SCCAER       UL308       0060UGEMA  EA      O                             2127     24500     60000                                  
+SCCAER       UA565       0010MUPINTUEA      O                                      24500     60000                                  
+SCCAER       UA565       0020TERASTUEA      O                             0447     24500     60000                                  
+SCCAER       UA565       0030GELARSEEA      O                             1185     24500     60000                                  
+SCCAER       UB696       0030PAGURTUEA      O                             0753     24500     60000                                  
+SCCAER       UB696       0040URA  TUD       O                             0465     24500     60000                                  
+SCCAER       UA573       0010ORALOTUEA      O                                      24500     60000                                  
+SCCAER       UA573       0020KIPUSSLEA      O                             0379     24500     60000                                  
+SCCAER       UV15        0010UAS  TUD       O                                      24500     60000                                  
+SCCAER       UV15        0020KOLKATUEA      O                             0422     24500     60000                                  
+SCCAER       UV15        0030LITOTTUEA      O                             0543     24500     60000                                  
+SCCAER       UV15        0040URC  TUD       O                             0700     24500     60000                                  
+SCCAER       UG426       0010LIM  TUD       O                                      24500     60000                                  
+SCCAER       UG426       0020SLS  TUD       O                             0504     24500     60000                                  
+SCCAER       UV5         0010TAP  TUD       O                                      24500     60000                                  
+SCCAER       UV5         0020LIVUSTUEA      O                             0959     24500     60000                                  
+SCCAER       UV5         0030VATESTUEA      O                             0386     24500     60000                                  
+SCCAER       UV5         0040TRU  TUD       O                             0500     24500     60000                                  
+SCCAER       UV16        0010POY  TUD       O                                      24500     60000                                  
+SCCAER       UV16        0020MAR  TUD       O                             0678     24500     60000                                  
+SCCAER       UV16        0030TRU  TUD       O                             0678     24500     60000                                  
+SCCAER       UV10        0010PDO  TUD       O                                      24500     60000                                  
+SCCAER       UV10        0020URC  TUD       O                             1514     24500     60000                                  
+SCCAER       UV17        0010PUL  TUD       O                                      24500     60000                                  
+SCCAER       UV17        0020TGM  TUD       O                             1014     24500     60000                                  
+SCCAER       UT212       0010URC  TUD       O                                      24500     60000                                  
+SCCAER       UT212       0020ZCO  TUD       O                             0259     24500     60000                                  

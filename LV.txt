@@ -1,0 +1,191 @@
+SEUREAENRT   AMOLI EV           N57062010E025151500                                                                                 
+SEUREAENRT   ARKOL EV           N56324800E0263635100                                                                                
+SEUREAENRT   ATRAK EV           N56352710E023503500                                                                                 
+SEUREAENRT   BARVA EV           N56511400E025324800                                                                                 
+SEUREAENRT   BEMRI EV           N56352500E025165400                                                                                 
+SEUREAENRT   BETAL EV           N56490900E0262809100                                                                                
+SEUREAENRT   DUBIN EV           N55484600E026584100                                                                                 
+SEUREAENRT   EDISA EV           N56554210E022000000                                                                                 
+SEUREAENRT   ELDAV EV           N56350910E023324200                                                                                 
+SEUREAENRT   ERIVA EV           N56220800E024374900                                                                                 
+SEUREAENRT   GEKLI EV           N57164210E025030200                                                                                 
+SEUREAENRT   GENSA EV           N56221510E0231221100                                                                                
+SEUREAENRT   GOBEK EV           N56382680E023534353                                                                                 
+SEUREAENRT   GUNTA EV           N56221700E023452000                                                                                 
+SEUREAENRT   IAN63 EV           N56045266E021081536                                                                                 
+SEUREAENRT   IRMAN EV           N56502112E023572102                                                                                 
+SEUREAENRT   KEGUM EV           N56464488E024061049                                                                                 
+SEUREAENRT   KORON EV           N56431728E023394125                                                                                 
+SEUREAENRT   KOROT EV           N56325700E022000000                                                                                 
+SEUREAENRT   LAPSA EV           N57201210E0223812100                                                                                
+SEUREAENRT   LATVA EV           N57070350E024094396                                                                                 
+SEUREAENRT   LELDA EV           N57261500E0224632100                                                                                
+SEUREAENRT   LISGO EV           N56082000E025341700                                                                                 
+SEUREAENRT   LOGMA EV           N56471007E023564682                                                                                 
+SEUREAENRT   LUSIS EV           N56431888E023484752                                                                                 
+SEUREAENRT   MARUP EV           N56473471E023475061                                                                                 
+SEUREAENRT   MIRMA EV           N56252010E0220942100                                                                                
+SEUREAENRT   NELPA EV           N56514145E023502413                                                                                 
+SEUREAENRT   NESKA EV           N57031584E024084293                                                                                 
+SEUREAENRT   PIRAG EV           N56433634E023472326                                                                                 
+SEUREAENRT   R2192 EV           N56560625E023582307                                                                                 
+SEUREAENRT   R2193 EV           N56544412E023580952                                                                                 
+SEUREAENRT   RAMIX EV           N56381324E023554023                                                                                 
+SEUREAENRT   RIA34 EV           N56515184E023573780                                                                                 
+SEUREAENRT   RIA36 EV           N56584945E023583596                                                                                 
+SEUREAENRT   RIA56 EV           N57004854E023585893                                                                                 
+SEUREAENRT   RODEK EV           N57025310E0262058100                                                                                
+SEUREAENRT   ROGAT EV           N56384510E022000000                                                                                 
+SEUREAENRT   RUCAV EV           N56042600E0210536100                                                                                
+SEUREAENRT   SORES EV           N56360610E0244928100                                                                                
+SEUREAENRT   TAGUL EV           N57274600E0244950100                                                                                
+SEUREAENRT   TEKSA EV           N56473000E022000000                                                                                 
+SEUREAENRT   TENSI EV           N57034700E022182000                                                                                 
+SEUREAENRT   TISOR EV           N56524000E0240700100                                                                                
+SEUREAENRT   TUSAS EV           N56284510E025101800                                                                                 
+SEUREAENRT   VADIK EV           N56424311E024050525                                                                                 
+SEUREAENRT   VALED EV           N57253610E0224450100                                                                                
+SEUREAENRT   VANAG EV           N57330100E0244332100                                                                                
+SEURD        DGP   EV011410V    N55565036E026403195                                                                                 
+SEURD        LEP   EV011695V    N56310680E021053110                                                                                 
+SEURD        RIX   EV011370V    N56535069E023580107                                                                                 
+SEURD        RIA   EV011205V    N56551510E023575470                                                                                 
+SEURD        LBN   EV011290V    N56462415E026210751                                                                                 
+SEURD        VNT   EV011360V    N57220010E021332240                                                                                 
+SEURD        IAO   EV011030 D   N56555630E023581430                                                                                 
+SEURD        IRP   EV011030 D   N56545570E023580430                                                                                 
+SEURD        DGP   EV011410 D   N55565036E026403195                                                                                 
+SEURD        LEP   EV011695 D   N56310680E021053110                                                                                 
+SEURD        RIX   EV011370 D   N56535069E023580107                                                                                 
+SEURD        RIA   EV011205 D   N56551510E023575470                                                                                 
+SEURD        LBN   EV011290 D   N56462415E026210751                                                                                 
+SEURD        VNT   EV011360 D   N57220010E021332240                                                                                 
+SEURER       M854        0060DUBINEVEA      O                             0775     10000     19000                                  
+SEURER       M854        0070BETALEVEA      O                                      09500     28500                                  
+SEURER       M854        0080RODEKEVEA      O                             0143     09500     28500                                  
+SEURER       M854        0090VALGAEEEA      O                             0504     09500     19500                                  
+SEURER       M990        0030LIE  EVEA      O                             0404     09500     28500                                  
+SEURER       M990        0040TEKSAEVEA      O                             0342     09500     28500                                  
+SEURER       M990        0050VANAGEVEA      O                             0997     09500     28500                                  
+SEURER       M990        0060VALGAEEEA      O                             0423     09500     28500                                  
+SEURER       M857        0080GUNTAEVEA      O                             0921     09500     19500                                  
+SEURER       M857        0350RIA  EVD       O                                      09500     28500                                  
+SEURER       M857        0360SOKVA  EA      O                             0598     09500     28500                                  
+SEURER       M869        0020BETALEVEA      O                             0473     09500     28500                                  
+SEURER       M869        0030BARVAEVEA      O                             0304     09500     28500                                  
+SEURER       M869        0040RIA  EVD       O                             0520     09500     28500                                  
+SEURER       M869        0050ROGATEVEA      O                             0667     09500     28500                                  
+SEURER       M869        0060LIE  EVEA      O                             0310     09500     28500                                  
+SEURER       L199        0010BARVAEVEA      O                                      09500     28500                                  
+SEURER       L199        0020LELDAEVEA      O                             0968     09500     28500                                  
+SEURER       L199        0030MILTA  EA      O                             0451     09500     28500                                  
+SEURER       N616        0090MIRMAEVEA      O                             1241     09500     28500                                  
+SEURER       N616        0100TOTRAEYEA      O                             0623     09500     19500                                  
+SEURER       N623        0160ERIVAEVEA      O                             0695     09500     19500                                  
+SEURER       N623        0170RIA  EVD       O                             0398     09500     28500                                  
+SEURER       N623        0180LAPSAEVEA      O                             0500     09500     28500                                  
+SEURER       N623        0190MILTA  EA      O                             0435     09500     28500                                  
+SEURER       M864        0010BEMRIEVEA      O                                      09500     28500                                  
+SEURER       M864        0020SORESEVEA      O                             0151     09500     28500                                  
+SEURER       M864        0080KOROTEVEA      O                                      09500     28500                                  
+SEURER       M864        0090LIE  EVEA      O                             0301     09500     28500                                  
+SEURER       M864        0100LASMA  EA      O                             0295     09500     28500                                  
+SEURER       L733        0060LIE  EVEA      O                                      09500     28500                                  
+SEURER       L733        0070RONUS  EA      O                             0325     09500     28500                                  
+SEURER       M985        0020ERIVAEVEA      O                             1349     09500     19500                                  
+SEURER       M985        0030SORESEVEA      O                             0154     09500     28500                                  
+SEURER       M155        0040MIRMAEVEA      O                             0447     09500     19500                                  
+SEURER       M155        0050TAGULEVEA      O                             1074     09500     28500                                  
+SEURER       M155        0060VALGAEEEA      O                             0420     09500     28500                                  
+SEURER       P727        0090DUBINEVEA      O                             0687     15000     19000                                  
+SEURER       P733        0080VNT  EVD       O                             0879     09500     28500                                  
+SEURER       P733        0090LUSIM  EA      O                             0236     09500     28500                                  
+SEURER       L747        0030LIE  EVEA      O                             0316     09500     28500                                  
+SEURER       L747        0040RUCAVEVEA      O                             0267     09500     19500                                  
+SEURER       L747        0050KLA  EYD       O                             0221     09500     19500                                  
+SEURER       M994        0090GUNTAEVEA      O                             0434     09500     19500                                  
+SEURER       M994        0100GEKLIEVEA      O                             0691     09500     28500                                  
+SEURER       M994        0110VALGAEEEA      O                             0444     09500     28500                                  
+SEURER       M850        0010DUBINEVEA      O                                      09500     28500                                  
+SEURER       M850        0020TUSASEVEA      O                             0725     09500     28500                                  
+SEURER       M850        0030SORESEVEA      O                             0136     09500     28500                                  
+SEURER       M850        0040RIA  EVD       O                             0342     09500     28500                                  
+SEURER       M850        0050TENSIEVEA      O                             0549     09500     28500                                  
+SEURER       M850        0060EDERA  EA      O                             0560     09500     28500                                  
+SEURER       M870        0030GENSAEVEA      O                             0967     09500     19500                                  
+SEURER       M870        0040TENSIEVEA      O                             0511     09500     28500                                  
+SEURER       M870        0050MILTA  EA      O                             0465     09500     28500                                  
+SEURER       N619        0010LIE  EVEA      O                                      09500     28500                                  
+SEURER       N619        0020EDISAEVEA      O                             0387     09500     28500                                  
+SEURER       N619        0030TENSIEVEA      O                             0128     09500     28500                                  
+SEURER       N619        0040SOKVA  EA      O                             0816     09500     19500                                  
+SEURER       N994        0010ERIVAEVEA      O                                      09500     19500                                  
+SEURER       N994        0020VNO  EYD       O                             1065     09500     19500                                  
+SEURER       L198        0040GEKLIEVEA      O                             0657     09500     28500                                  
+SEURER       L198        0050RODEKEVEA      O                             0445     09500     28500                                  
+SEURER       L198        0060OPOKAUUEA      O                             0539     09500     28500                                  
+SEURER       N182        0010GUNTAEVEA      O                                      09500     19500                                  
+SEURER       N182        0020TUMKIEYEA      O                             1456     09500     19500                                  
+SEURER       L136        0030VNT  EVD       O                             0383     09500     28500                                  
+SEURER       L732        0020LISGOEVEA      O                             1036     09500     28500                                  
+SEURER       L732        0030VNO  EYD       O                             0907     09500     19500                                  
+SEURER       UM854       0060DUBINEVEA      O                             0775     20000     45000                                  
+SEURER       UM854       0070BETALEVEA      O                                      28500     46000                                  
+SEURER       UM854       0080RODEKEVEA      O                             0143     28500     46000                                  
+SEURER       UM854       0090VALGAEEEA      O                             0504     19500     66000                                  
+SEURER       UA68        0010DUBINEVEA      O                                      21000     43000                                  
+SEURER       UA68        0020KOMAPUMEA      O                             1319     21000     43000                                  
+SEURER       UM990       0030LIE  EVEA      O                             0404     28500     46000                                  
+SEURER       UM990       0040TEKSAEVEA      O                             0342     28500     46000                                  
+SEURER       UM990       0050VALGAEEEA      O                             1420     28500     46000                                  
+SEURER       UM985       0160ERIVAEVEA      O                             1349     19500     66000                                  
+SEURER       UM985       0170SORESEVEA      O                             0154     28500     46000                                  
+SEURER       UM985       0180VALGAEEEA      O                             0831     28500     46000                                  
+SEURER       UM857       0080GUNTAEVEA      O                             0921     19600     66000                                  
+SEURER       UM857       0380RIA  EVD       O                                      28500     46000                                  
+SEURER       UM857       0390SOKVA  EA      O                             0598     28500     46000                                  
+SEURER       UM869       0020BETALEVEA      O                             0473     28500     46000                                  
+SEURER       UM869       0030BARVAEVEA      O                             0304     28500     46000                                  
+SEURER       UM869       0040RIA  EVD       O                             0520     28500     46000                                  
+SEURER       UM869       0050LIE  EVEA      O                             0977     28500     46000                                  
+SEURER       UL199       0010BARVAEVEA      O                                      28500     46000                                  
+SEURER       UL199       0020MILTA  EA      O                             1419     28500     46000                                  
+SEURER       UN616       0130MIRMAEVEA      O                             0623     28500     46000                                  
+SEURER       UN616       0140NEKET  EA      O                             1241     28500     46000                                  
+SEURER       UN623       0150ERIVAEVEA      O                             0695     19500     66000                                  
+SEURER       UN623       0160RIA  EVD       O                             0398     28500     46000                                  
+SEURER       UN623       0170MILTA  EA      O                             0935     28500     46000                                  
+SEURER       UL733       0070LIE  EVEA      O                                      28500     46000                                  
+SEURER       UL733       0080RONUS  EA      O                             0325     28500     46000                                  
+SEURER       UP727       0100DUBINEVEA      O                             0687     20000     43000                                  
+SEURER       UP733       0080VNT  EVD       O                             0879     28500     46000                                  
+SEURER       UP733       0090LUSIM  EA      O                             0236     28500     46000                                  
+SEURER       UM864       0060ELDAVEVEA      O                                      28500     46000                                  
+SEURER       UM864       0070LIE  EVEA      O                             0813     28500     46000                                  
+SEURER       UM864       0080LASMA  EA      O                             0295     28500     46000                                  
+SEURER       UM994       0090GUNTAEVEA      O                             0434     19500     66000                                  
+SEURER       UM994       0100VALGAEEEA      O                             1135     28500     46000                                  
+SEURER       UM850       0010DUBINEVEA      O                                      28500     46000                                  
+SEURER       UM850       0020SORESEVEA      O                             0861     28500     46000                                  
+SEURER       UM850       0030RIA  EVD       O                             0342     28500     46000                                  
+SEURER       UM850       0040TENSIEVEA      O                             0549     28500     46000                                  
+SEURER       UM850       0050EVONA  EA      O                             0779     28500     46000                                  
+SEURER       UM870       0020GENSAEVEA      O                             1405     19500     66000                                  
+SEURER       UM870       0030TENSIEVEA      O                             0511     28500     46000                                  
+SEURER       UM870       0040MILTA  EA      O                             0465     28500     46000                                  
+SEURER       UN994       0010ERIVAEVEA      O                                      19500     66000                                  
+SEURER       UN994       0020VNO  EYD       O                             1065     19500     66000                                  
+SEURER       UL747       0020LIE  EVEA      O                             0545     28500     46000                                  
+SEURER       UL747       0030RUCAVEVEA      O                             0267     19500     66000                                  
+SEURER       UL747       0040KLA  EYD       O                             0221     19500     66000                                  
+SEURER       UN182       0040GUNTAEVEA      O                                      19500     66000                                  
+SEURER       UN182       0050TUMKIEYEA      O                             1456     19500     66000                                  
+SEURER       UN619       0030TENSIEVEA      O                             0816     28500     46000                                  
+SEURER       UN619       0040LIE  EVEA      O                             0516     28500     46000                                  
+SEURER       UL136       0020VNT  EVD       O                             0951     28500     46000                                  
+SEURER       UL732       0020LISGOEVEA      O                             1036     28500     46000                                  
+SEURER       UL732       0030VNO  EYD       O                             0907     19500     66000                                  
+SEURER       UL198       0030RODEKEVEA      O                             1464     28500     46000                                  
+SEURER       UL198       0040OPOKAUUEA      O                             0539     28500     46000                                  
+SEURER       UM155       0020MIRMAEVEA      O                             1494     19500     66000                                  
+SEURER       UM155       0030PLNGAEYEA      O                             0447     19500     66000                                  

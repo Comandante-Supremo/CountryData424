@@ -1,0 +1,177 @@
+SAFREAENRT   AGRAM              S18000402E021385833                                                                                 
+SAFREAENRT   AKAZU              S17234601E016504310                                                                                 
+SAFREAENRT   AKETE              S21333770E017543662                                                                                 
+SAFREAENRT   AMBIT              S17281119E024215960                                                                                 
+SAFREAENRT   ANSUX              S23461161E014542210                                                                                 
+SAFREAENRT   ANVAG              S17250300E015462400                                                                                 
+SAFREAENRT   ANVIG              S20575756E016595378                                                                                 
+SAFREAENRT   APDEM              S23390862E017123474                                                                                 
+SAFREAENRT   APKUX              S23434862E019101220                                                                                 
+SAFREAENRT   APMEV              S23373230E018290731                                                                                 
+SAFREAENRT   APNUM              S18280974E016133246                                                                                 
+SAFREAENRT   ATUPI              S23101374E017075540                                                                                 
+SAFREAENRT   ATUXA              S23320370E017541242                                                                                 
+SAFREAENRT   AVOVI              S18505628E016304699                                                                                 
+SAFREAENRT   AXODO              S22425721E018193653                                                                                 
+SAFREAENRT   AXURI              S23535417E017145731                                                                                 
+SAFREAENRT   BONON              S28223291E018221817                                                                                 
+SAFREAENRT   BUGRO              S17501207E022260741                                                                                 
+SAFREAENRT   DETUX              S20000215E0141827100                                                                                
+SAFREAENRT   EGMAS              S22594723E018100755                                                                                 
+SAFREAENRT   EGRED              S23293082E017381481                                                                                 
+SAFREAENRT   EGTAR              S28073817E018210508                                                                                 
+SAFREAENRT   EKBAT              S27304835E017495780                                                                                 
+SAFREAENRT   EKBON              S28183494E017370630                                                                                 
+SAFREAENRT   EPLOP              S21263555E017084894                                                                                 
+SAFREAENRT   EPMAG              S17345800E023411200                                                                                 
+SAFREAENRT   EPMEX              S18422660E016175660                                                                                 
+SAFREAENRT   EPRIS              S23570048E018243266                                                                                 
+SAFREAENRT   ESTUT              S23222209E016542350                                                                                 
+SAFREAENRT   ETGOS              S18335657E016050772                                                                                 
+SAFREAENRT   ETMOR              S24010234E017432616                                                                                 
+SAFREAENRT   ETMUS              S28195979E016270583                                                                                 
+SAFREAENRT   ETUPO              S28110796E018070980                                                                                 
+SAFREAENRT   ETUSO              S23123936E015300326                                                                                 
+SAFREAENRT   GEVIM              S23470038E019313726                                                                                 
+SAFREAENRT   IBNAB              S23312596E018531242                                                                                 
+SAFREAENRT   ITKOT              S28034117E018364038                                                                                 
+SAFREAENRT   ITMUX              S23561006E019271539                                                                                 
+SAFREAENRT   ITNOX              S28143429E017532138                                                                                 
+SAFREAENRT   KAPOR              S28292858E017543034                                                                                 
+SAFREAENRT   KEBAT              S27295976E018175631                                                                                 
+SAFREAENRT   LONOD              S23181131E017360684                                                                                 
+SAFREAENRT   MITAR              S27524346E018185186                                                                                 
+SAFREAENRT   MOKAK              S22420134E018203443                                                                                 
+SAFREAENRT   OMATA              S20485993E017154088                                                                                 
+SAFREAENRT   OTAVI              S19092345E017032599                                                                                 
+SAFREAENRT   PARAG              S25070000E0175359100                                                                                
+SAFREAENRT   PAREK              S28294384E016155751                                                                                 
+SAFREAENRT   UNDAD              S24011812E019342206                                                                                 
+SAFREAENRT   UNGEV              S19211255E017164968                                                                                 
+SAFREAENRT   UNPIP              S17213872E014185439                                                                                 
+SAFREAENRT   UNRAT              S21121647E017042116                                                                                 
+SAFREAENRT   USUNA              S23351137E016565824                                                                                 
+SAFREAENRT   UTATI              S21271097E017044985                                                                                 
+SAFREAENRT   UTSAL              S23461634E017410030                                                                                 
+SAFREAENRT   UTSEX              S21595966E017191508                                                                                 
+SAFREAENRT   UTSIX              S19041560E016505942                                                                                 
+SAFREAENRT   UTULO              S23144505E017354905                                                                                 
+SAFREAENRT   UVARA              S23081411E015311117                                                                                 
+SAFREAENRT   UVEDA              S17203760E015524521                                                                                 
+SAFREAENRT   UVEKO              S19124456E017035419                                                                                 
+SAFREAENRT   UVENO              S23195161E018372349                                                                                 
+SAFREAENRT   UVGEN              S22342410E016572400                                                                                 
+SAFREAENRT   UVILA              S27594006E017521223                                                                                 
+SAFREAENRT   UVKIK              S22533400E0151010100                                                                                
+SAFREAENRT   VATAM              S23403410E018484892                                                                                 
+SAFREAENRT   XOSAL              S18564368E016222096                                                                                 
+SAFREAENRT   XOTEK              S23245907E017101796                                                                                 
+SAFREAENRT   XOVUS              S23500978E017564080                                                                                 
+SAFREAENRT   XUBIL              S24122122E019282503                                                                                 
+SAFREAENRT   XUDAN              S27304121E016100666                                                                                 
+SAFRDB       AD      000327     S22280000E0145729100                                                                                
+SAFRDB       GF      000215     S19360210E0180737100                                                                                
+SAFRDB       KL      000332     S17380309E024105444                                                                                 
+SAFRDB       KT      000395     S26335824E018061115                                                                                 
+SAFRDB       OA      000382     S17525847E015565013                                                                                 
+SAFRDB       OP      000390     S18030310E013503500                                                                                 
+SAFRDB       OW      000357     S20274810E016383000                                                                                 
+SAFRDB       RC      000345     S17250497E014222300                                                                                 
+SAFRDB       TM      000267     S19152510E0174332100                                                                                
+SAFRDB       WB      000225     S22583297E014380347                                                                                 
+SAFRDB       WH      000280     S22290300E017281300                                                                                 
+SAFRD        GFV     011570V    S19361000E018071700                                                                                 
+SAFRD        KTV     011290V    S26321470E018064904                                                                                 
+SAFRD        WBV     011360V    S22585560E014384040                                                                                 
+SAFRD        WHV     011450V    S22283810E017281400                                                                                 
+SAFRD        GFV     011570 D   S19361000E018071700                                                                                 
+SAFRD        KTV     011290 D   S26321470E018064904                                                                                 
+SAFRD        WBV     011360 D   S22585560E014384040                                                                                 
+SAFRD        WHV     011450 D   S22283810E017281400                                                                                 
+SAFRER       J614F       0060RC     D       OH                            1567     11000     24500                                  
+SAFRER       UA404       0110WHV    D       O                             2151     24500     46000                                  
+SAFRER       UA404       0120UVGEN  EA      O                             0291     24500     46000                                  
+SAFRER       UA404       0130UVKIK  EA      O                             1008     24500     46000                                  
+SAFRER       UA404       0140WBV    D       O                             0295     24500     46000                                  
+SAFRER       A404        0050WHV    D       O                             2151     14500     24500                                  
+SAFRER       A404        0060UVGEN  EA      O                             0291     11500     24500                                  
+SAFRER       A404        0070UVKIK  EA      O                             1008     11500     24500                                  
+SAFRER       A404        0080WBV    D       O                             0295     11500     24500                                  
+SAFRER       B733F       0010BUGRO  EA      O                                      07600     24500                                  
+SAFRER       B733F       0020VUE  FND       O                             3937     07600     24500                                  
+SAFRER       W874F       0010RC     D       O                                      09000     24500                                  
+SAFRER       W874F       0020VMO  FND       O                             1812     04000     24500                                  
+SAFRER       R987-       0010KEBAT  EA      O                                      10500     14500                                  
+SAFRER       R987-       0020KTV    D       O                             0586     10500     14500                                  
+SAFRER       R987-       0030PARAG  EA      O                             0861     10500     14500                                  
+SAFRER       R987-       0040LONOD  EA      O                             1101     10500     14500                                  
+SAFRER       R987-       0050WHV    D       O                             0501     10500     14500                                  
+SAFRER       G653-       0010MOKAK  EA      O                                      10600     14500                                  
+SAFRER       G653-       0020WHV    D       O                             0502     10600     14500                                  
+SAFRER       UM731       0190EPMAG  EA      O                                      24500     46000                                  
+SAFRER       UM731       0200ELTONFBEA      O                             0994     24500     46000                                  
+SAFRER       UJ614       0050RC     D       O                             1567     24500     60000                                  
+SAFRER       UL435       0110DETUX  EA      O                             2724     24500     46000                                  
+SAFRER       UN185       0020BONON  EA      O                             1302     20000     60000                                  
+SAFRER       UN185       0030EGTAR  EA      O                             0150     20000     60000                                  
+SAFRER       UN185       0040MITAR  EA      O                             0151     20000     60000                                  
+SAFRER       UN185       0050KEBAT  EA      O                             0228     24500     46000                                  
+SAFRER       UN185       0060ETMOR  EA      O                             2114     24500     46000                                  
+SAFRER       UN185       0070UTSAL  EA      O                             0149     24500     46000                                  
+SAFRER       UN185       0080EGRED  EA      O                             0170     24500     46000                                  
+SAFRER       UN185       0090UTULO  EA      O                             0149     24500     46000                                  
+SAFRER       UB733       0010BUGRO  EA      O                                      24500     46000                                  
+SAFRER       UB733       0020MNV  FBD       O                             1402     24500     46000                                  
+SAFRER       UB733       0010BUGRO  EA      O                                      33000     60000                                  
+SAFRER       UB733       0020VUE  FND       O                             3937     33000     60000                                  
+SAFRER       UT1         0010EGMAS  EA      O                                      24500     46000                                  
+SAFRER       UT1         0020UVENO  EA      O                             0321     24500     46000                                  
+SAFRER       UT1         0040UNDAD  EA      O                             0299     24500     46000                                  
+SAFRER       UG653       0080MOKAK  EA      O                                      24500     46000                                  
+SAFRER       UG653       0090WHV    D       O                             0502     24500     46000                                  
+SAFRER       UQ11        0060ITKOT  EA      O                                      20000     60000                                  
+SAFRER       UQ11        0070EGTAR  EA      O                             0143     20000     60000                                  
+SAFRER       UQ11        0080ETUPO  EA      O                             0128     20000     60000                                  
+SAFRER       UQ11        0090ITNOX  EA      O                             0127     20000     60000                                  
+SAFRER       UQ11        0100EKBON  EA      O                             0149     20000     60000                                  
+SAFRER       UQ11        0160PAREK  EA      O                             0704     20000     60000                                  
+SAFRER       UT2         0060UNRAT  EA      O                                      24500     46000                                  
+SAFRER       UT2         0070UTATI  EA      O                             0149     24500     46000                                  
+SAFRER       UN183       0010EGRED  EA      O                                      24500     46000                                  
+SAFRER       UN183       0020XOTEK  EA      O                             0261     24500     46000                                  
+SAFRER       UN183       0030ESTUT  EA      O                             0148     24500     46000                                  
+SAFRER       UN183       0040UVARA  EA      O                             0778     24500     46000                                  
+SAFRER       UN183       0050WBV    D       O                             0492     24500     46000                                  
+SAFRER       UN183       0090GEVIM  EA      O                             0265     24500     46000                                  
+SAFRER       UN186       0010EKBAT  EA      O                                      20000     60000                                  
+SAFRER       UN186       0020UVILA  EA      O                             0289     20000     60000                                  
+SAFRER       UN186       0030KAPOR  EA      O                                      20000     60000                                  
+SAFRER       UN186       0040ETKOTFAEA      O                             1232     20000     60000                                  
+SAFRER       UN187       0010UNRAT  EA      O                                      24500     46000                                  
+SAFRER       UN187       0020EPLOP  EA      O                             0149     24500     46000                                  
+SAFRER       UN187       0030UTSEX  EA      O                             0348     24500     46000                                  
+SAFRER       UN187       0040EPMEX  EA      O                                      24500     46000                                  
+SAFRER       UN187       0050XOSAL  EA      O                             0149     24500     46000                                  
+SAFRER       UN184       0010EPMEX  EA      O                                      24500     46000                                  
+SAFRER       UN184       0020ETGOS  EA      O                             0148     24500     46000                                  
+SAFRER       UN184       0030UNPIP  EA      O                             1243     24500     46000                                  
+SAFRER       UN184       0060UNGEV  EA      O                             2535     24500     46000                                  
+SAFRER       UN184       0070UVEKO  EA      O                             0149     24500     46000                                  
+SAFRER       UN184       0080UTSIX  EA      O                             0149     24500     46000                                  
+SAFRER       UN188       0040ETMUS  EA      O                                      20000     60000                                  
+SAFRER       UN188       0050XUDAN  EA      O                             0516     20000     60000                                  
+SAFRER       UN181       0010ETUSO  EA      O                                      24500     46000                                  
+SAFRER       UN181       0020USUNA  EA      O                             0829     24500     46000                                  
+SAFRER       UN181       0110XUBIL  EA      O                             0298     24500     46000                                  
+SAFRER       UN181       0120EPRIS  EA      O                             0603     24500     46000                                  
+SAFRER       UN181       0130XOVUS  EA      O                             0264     24500     46000                                  
+SAFRER       UN181       0140UTSAL  EA      O                             0149     24500     46000                                  
+SAFRER       UW874       0050RC     D       O                             1812     24500     60000                                  
+SAFRER       UR987       0010KEBAT  EA      O                                      24500     46000                                  
+SAFRER       UR987       0020KTV    D       O                             0586     24500     46000                                  
+SAFRER       UR987       0030PARAG  EA      O                             0861     24500     46000                                  
+SAFRER       UR987       0040LONOD  EA      O                             1101     24500     46000                                  
+SAFRER       UR987       0050WHV    D       O                             0501     24500     46000                                  
+SAFRER       UA617       0010OTAVI  EA      O                                      24500     46000                                  
+SAFRER       UA617       0020OMATA  EA      O                             1003     24500     46000                                  
+SAFRER       UA617       0030WHV    D       O                             1004     24500     46000                                  

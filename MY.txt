@@ -1,0 +1,403 @@
+SASIEAENRT   ADNUT WM           N03213300E1023737100                                                                                
+SASIEAENRT   AGSON WM           N02150000E114512400                                                                                 
+SASIEAENRT   AKOMA WM           N01452110E1035442100                                                                                
+SASIEAENRT   ALEKA WM           N02305920E112400300                                                                                 
+SASIEAENRT   ALEMO WM           N02454500E1133419100                                                                                
+SASIEAENRT   ANIPU WM           N01014110E1112724100                                                                                
+SASIEAENRT   ANPUS WM           N03092400E101474200                                                                                 
+SASIEAENRT   ANSOM WM           N04042310E1013218100                                                                                
+SASIEAENRT   APEDA WM           N06075910E1163120100                                                                                
+SASIEAENRT   ARAMA WM           N01365310E103071200                                                                                 
+SASIEAENRT   BAXEL WM           N02583000E101323000                                                                                 
+SASIEAENRT   BONSU WM           N01192710E1033709100                                                                                
+SASIEAENRT   BRU50 WM           N04192973E115305422                                                                                 
+SASIEAENRT   CE006 WM           N03134398E101292579                                                                                 
+SASIEAENRT   CE014 WM           N03094644E101314872                                                                                 
+SASIEAENRT   CE076 WM           N03150660E101283619                                                                                 
+SASIEAENRT   DAKOR WM           N02565310E101285400                                                                                 
+SASIEAENRT   DAKUS WM           N03481400E1011902100                                                                                
+SASIEAENRT   DAMAL WM           N02195410E103051200                                                                                 
+SASIEAENRT   DUBAX WM           N06255591E100073662                                                                                 
+SASIEAENRT   GEMAS WM           N02315910E102315000                                                                                 
+SASIEAENRT   GOMAS WM           N02294200E1015129100                                                                                
+SASIEAENRT   GONAD WM           N02513780E112052090                                                                                 
+SASIEAENRT   GUNBO WM           N04513810E102500200                                                                                 
+SASIEAENRT   GUPTA WM           N02094600E102383000                                                                                 
+SASIEAENRT   ICH04 WM           N01243119E104000991                                                                                 
+SASIEAENRT   ICH06 WM           N01262213E104005689                                                                                 
+SASIEAENRT   ICH09 WM           N01290854E104020736                                                                                 
+SASIEAENRT   ICW04 WM           N01192178E103575962                                                                                 
+SASIEAENRT   ICW96 WM           N01180180E103582388                                                                                 
+SASIEAENRT   IEL00 WM           N02464330E101420579                                                                                 
+SASIEAENRT   IEL03 WM           N02491342E101402571                                                                                 
+SASIEAENRT   IEL04 WM           N02500310E101395331                                                                                 
+SASIEAENRT   IEL05 WM           N02505350E101391875                                                                                 
+SASIEAENRT   IEL06 WM           N02514390E101384525                                                                                 
+SASIEAENRT   IEL07 WM           N02523394E101381251                                                                                 
+SASIEAENRT   IEL09 WM           N02541386E101370517                                                                                 
+SASIEAENRT   IEL11 WM           N02554222E101360613                                                                                 
+SASIEAENRT   IER00 WM           N02445026E101432173                                                                                 
+SASIEAENRT   IER03 WM           N02422158E101450253                                                                                 
+SASIEAENRT   IER04 WM           N02413226E101453603                                                                                 
+SASIEAENRT   IER05 WM           N02404294E101460949                                                                                 
+SASIEAENRT   IER06 WM           N02395326E101464333                                                                                 
+SASIEAENRT   IER07 WM           N02390358E101471683                                                                                 
+SASIEAENRT   IER08 WM           N02381462E101475029                                                                                 
+SASIEAENRT   IER10 WM           N02363526E101485725                                                                                 
+SASIEAENRT   IER12 WM           N02345914E101500171                                                                                 
+SASIEAENRT   IKL14 WM           N03055856E101340192                                                                                 
+SASIEAENRT   IKL99 WM           N03082380E101323530                                                                                 
+SASIEAENRT   ISTAN WM           N03005110E1022845100                                                                                
+SASIEAENRT   IWL00 WM           N02424606E101430480                                                                                 
+SASIEAENRT   IWL02 WM           N02410742E101441251                                                                                 
+SASIEAENRT   IWL03 WM           N02401702E101444707                                                                                 
+SASIEAENRT   IWL04 WM           N02392770E101452091                                                                                 
+SASIEAENRT   IWL05 WM           N02383802E101455475                                                                                 
+SASIEAENRT   IWL06 WM           N02374834E101462821                                                                                 
+SASIEAENRT   IWL07 WM           N02365758E101470243                                                                                 
+SASIEAENRT   IWL09 WM           N02351966E101480939                                                                                 
+SASIEAENRT   IWR00 WM           N02443838E101415029                                                                                 
+SASIEAENRT   IWR02 WM           N02461918E101404333                                                                                 
+SASIEAENRT   IWR03 WM           N02470670E101401203                                                                                 
+SASIEAENRT   IWR04 WM           N02480034E101393637                                                                                 
+SASIEAENRT   IWR05 WM           N02484786E101390507                                                                                 
+SASIEAENRT   IWR06 WM           N02494114E101382907                                                                                 
+SASIEAENRT   IWR07 WM           N02503190E101375557                                                                                 
+SASIEAENRT   IWR08 WM           N02510502E101373325                                                                                 
+SASIEAENRT   KADMO WM           N04121500E114080800                                                                                 
+SASIEAENRT   KAMUM WM           N01333410E1111914100                                                                                
+SASIEAENRT   KARMI WM           N06293910E1003120100                                                                                
+SASIEAENRT   KASRI WM           N02031610E1025312100                                                                                
+SASIEAENRT   KEVOX WM           N03262310E1133549100                                                                                
+SASIEAENRT   KIDOT WM           N03031800E101392400                                                                                 
+SASIEAENRT   KIKOX WM           N03024800E101502400                                                                                 
+SASIEAENRT   KIMAR WM           N02310000E101532400                                                                                 
+SASIEAENRT   KIMAT WM           N03093810E1022057100                                                                                
+SASIEAENRT   KK104 WM           N01365963E103504255                                                                                 
+SASIEAENRT   KK106 WM           N01393019E104075785                                                                                 
+SASIEAENRT   KK280 WM           N01331954E104012482                                                                                 
+SASIEAENRT   KK424 WM           N01281490E104022333                                                                                 
+SASIEAENRT   KK802 WM           N01350785E104075238                                                                                 
+SASIEAENRT   KL023 WM           N03043654E101345150                                                                                 
+SASIEAENRT   KL043 WM           N03025330E101355344                                                                                 
+SASIEAENRT   KL063 WM           N03061908E101334896                                                                                 
+SASIEAENRT   KUDAT WM           N06542910E116500002                                                                                 
+SASIEAENRT   LAPIR WM           N02263000E101545400                                                                                 
+SASIEAENRT   LATUK WM           N02551510E102334600                                                                                 
+SASIEAENRT   LEDER WM           N03060000E101570600                                                                                 
+SASIEAENRT   LELIB WM           N01272900E103245000                                                                                 
+SASIEAENRT   MAMOK WM           N04050510E115471200                                                                                 
+SASIEAENRT   MAMOT WM           N03150600E101435400                                                                                 
+SASIEAENRT   MANIS WM           N02391110E1013817100                                                                                
+SASIEAENRT   MASNI WM           N01203610E1033745100                                                                                
+SASIEAENRT   MATSU WM           N03261310E102061400                                                                                 
+SASIEAENRT   MUMOD WM           N02473510E1020723100                                                                                
+SASIEAENRT   NIPAR WM           N02353000E102000000                                                                                 
+SASIEAENRT   NOLOT WM           N02414110E102090000                                                                                 
+SASIEAENRT   NYLON WM           N01365310E104062400                                                                                 
+SASIEAENRT   OKADA WM           N01340000E1123759100                                                                                
+SASIEAENRT   PAPDA WM           N05493000E1004517100                                                                                
+SASIEAENRT   PAPSA WM           N01115910E110083000                                                                                 
+SASIEAENRT   PIBOS WM           N03203010E102031800                                                                                 
+SASIEAENRT   PILAX WM           N02190800E111230700                                                                                 
+SASIEAENRT   PIMAS WM           N03001110E1013447100                                                                                
+SASIEAENRT   PIMOK WM           N01264800E103200800                                                                                 
+SASIEAENRT   PLA01 WM           N01231967E103550767                                                                                 
+SASIEAENRT   PLA03 WM           N01193751E103533398                                                                                 
+SASIEAENRT   PLA05 WM           N01181992E103530126                                                                                 
+SASIEAENRT   PLA07 WM           N01195967E103480991                                                                                 
+SASIEAENRT   POPID WM           N06290790E100321240                                                                                 
+SASIEAENRT   PU001 WM           N01290447E103573728                                                                                 
+SASIEAENRT   PU002 WM           N01233060E103551873                                                                                 
+SASIEAENRT   PU010 WM           N01352210E103552200                                                                                 
+SASIEAENRT   PU020 WM           N01452910E1035811100                                                                                
+SASIEAENRT   PU030 WM           N01551910E103540500                                                                                 
+SASIEAENRT   PULIP WM           N03401300E101534800                                                                                 
+SASIEAENRT   R1783 WM           N03065610E101332850                                                                                 
+SASIEAENRT   R1784 WM           N05554383E116025156                                                                                 
+SASIEAENRT   R1799 WM           N01205630E103583900                                                                                 
+SASIEAENRT   R1865 WM           N01194369E103590616                                                                                 
+SASIEAENRT   R1866 WM           N01223451E103592048                                                                                 
+SASIEAENRT   R2124 WM           N02443512E101415221                                                                                 
+SASIEAENRT   R2631 WM           N02445343E101431903                                                                                 
+SASIEAENRT   R2797 WM           N03084320E101322670                                                                                 
+SASIEAENRT   R2798 WM           N02424727E101430443                                                                                 
+SASIEAENRT   R2865 WM           N02464181E101420619                                                                                 
+SASIEAENRT   REMUN WM           N03000000E102014800                                                                                 
+SASIEAENRT   RUREN WM           N06262610E1162519100                                                                                
+SASIEAENRT   SAPAT WM           N02320910E102023000                                                                                 
+SASIEAENRT   SAPOD WM           N03273510E1014847100                                                                                
+SASIEAENRT   SAROX WM           N02480200E1024018100                                                                                
+SASIEAENRT   SJ035 WM           N01295310E103202400                                                                                 
+SASIEAENRT   SUKAT WM           N03352500E1010111100                                                                                
+SASIEAENRT   TAMOS WM           N06314510E1002340100                                                                                
+SASIEAENRT   TEPUS WM           N04101300E100453300                                                                                 
+SASIEAENRT   TERUS WM           N02013500E103130900                                                                                 
+SASIEAENRT   TOPOR WM           N01441200E102533000                                                                                 
+SASIEAENRT   UDERO WM           N03555000E1142939100                                                                                
+SASIEAENRT   VBA01 WM           N02554421E101355873                                                                                 
+SASIEAENRT   VBA02 WM           N03173742E101280988                                                                                 
+SASIEAENRT   VBA04 WM           N03154553E101285485                                                                                 
+SASIEAENRT   VBA06 WM           N03135365E101293982                                                                                 
+SASIEAENRT   VBA10 WM           N03212438E101371422                                                                                 
+SASIEAENRT   VBA11 WM           N03101941E101313098                                                                                 
+SASIEAENRT   VBA12 WM           N02571424E101345847                                                                                 
+SASIEAENRT   VBA16 WM           N03094823E101314977                                                                                 
+SASIEAENRT   VBA17 WM           N03224487E101440677                                                                                 
+SASIEAENRT   VBA20 WM           N03053096E101414839                                                                                 
+SASIEAENRT   VBA22 WM           N02595186E101373455                                                                                 
+SASIEAENRT   VBA24 WM           N03344039E101460490                                                                                 
+SASIEAENRT   VBA25 WM           N02594057E101424861                                                                                 
+SASIEAENRT   VBA32 WM           N02481404E101410060                                                                                 
+SASIEAENRT   VBA34 WM           N02311619E102170240                                                                                 
+SASIEAENRT   VBA40 WM           N02495403E101395309                                                                                 
+SASIEAENRT   VBA45 WM           N02553588E101440309                                                                                 
+SASIEAENRT   VBA52 WM           N03013890E101363914                                                                                 
+SASIEAENRT   VBA58 WM           N03121855E101301804                                                                                 
+SASIEAENRT   VBA60 WM           N02513410E101384612                                                                                 
+SASIEAENRT   VBA78 WM           N03200662E101451285                                                                                 
+SASIEAENRT   VBA80 WM           N02572193E101272490                                                                                 
+SASIEAENRT   VBA88 WM           N03195030E101372487                                                                                 
+SASIEAENRT   VBA89 WM           N03161111E101460223                                                                                 
+SASIEAENRT   VBA90 WM           N03192930E101291896                                                                                 
+SASIEAENRT   VBA99 WM           N03174448E101371609                                                                                 
+SASIEAENRT   VIRON WM           N03165400E1015811100                                                                                
+SASIEAENRT   VJR13 WM           N01393947E103493919                                                                                 
+SASIEAENRT   VJR29 WM           N01304054E104030864                                                                                 
+SASIEAENRT   VKB35 WM           N05351710E102130400                                                                                 
+SASIEAENRT   VKB36 WM           N05371810E102314900                                                                                 
+SASIEAENRT   VKL09 WM           N02352444E101475451                                                                                 
+SASIEAENRT   VKL10 WM           N02382689E101522070                                                                                 
+SASIEAENRT   VKL11 WM           N02532451E101392763                                                                                 
+SASIEAENRT   VKL12 WM           N02323916E101494466                                                                                 
+SASIEAENRT   VKL14 WM           N02332174E101505675                                                                                 
+SASIEAENRT   VKL15 WM           N02565968E101505733                                                                                 
+SASIEAENRT   VKL16 WM           N02454680E101410060                                                                                 
+SASIEAENRT   VKL17 WM           N02413048E101435052                                                                                 
+SASIEAENRT   VKL20 WM           N03015875E1013627100                                                                                
+SASIEAENRT   VKL21 WM           N02350177E101494984                                                                                 
+SASIEAENRT   VKL24 WM           N02232887E101564798                                                                                 
+SASIEAENRT   VKL25 WM           N02425706E101443187                                                                                 
+SASIEAENRT   VKL28 WM           N03111367E101485942                                                                                 
+SASIEAENRT   VKL31 WM           N02465759E101401297                                                                                 
+SASIEAENRT   VKL40 WM           N02393490E101450759                                                                                 
+SASIEAENRT   VKL41 WM           N03240413E101512443                                                                                 
+SASIEAENRT   VKL42 WM           N02414201E101452209                                                                                 
+SASIEAENRT   VKL50 WM           N02483776E101390619                                                                                 
+SASIEAENRT   VKL60 WM           N02375471E101461436                                                                                 
+SASIEAENRT   VKL61 WM           N02400192E101462905                                                                                 
+SASIEAENRT   VKL80 WM           N02510801E101372602                                                                                 
+SASIEAENRT   VKL97 WM           N02523316E101362925                                                                                 
+SASIEAENRT   VKN09 WM           N03593807E103120874                                                                                 
+SASIEAENRT   VKN10 WM           N03592662E103145162                                                                                 
+SASIEAENRT   VKN11 WM           N03573747E103121294                                                                                 
+SASIEAENRT   VKN17 WM           N03333749E103142464                                                                                 
+SASIEAENRT   VKN27 WM           N03463407E102573506                                                                                 
+SASIEAENRT   VKN28 WM           N03463410E102593519                                                                                 
+SASIEAENRT   VKN29 WM           N03441791E102594708                                                                                 
+SASIEAENRT   VKN30 WM           N03380997E103023796                                                                                 
+SASIEAENRT   VKN31 WM           N03351491E103060568                                                                                 
+SASIEAENRT   VKN32 WM           N03335315E103092715                                                                                 
+SASIEAENRT   VKN33 WM           N03334935E102452444                                                                                 
+SASIEAENRT   VKN45 WM           N03510554E103122657                                                                                 
+SASIEAENRT   VKN60 WM           N03403308E103121086                                                                                 
+SASIEAENRT   VKN85 WM           N03353214E103114992                                                                                 
+SASIEAENRT   VKN86 WM           N03333176E103114155                                                                                 
+SASIEAENRT   VMK18 WM           N02240769E101592685                                                                                 
+SASIEAENRT   VMK23 WM           N02340732E102010474                                                                                 
+SASIEAENRT   VMK27 WM           N02371709E101583521                                                                                 
+SASIEAENRT   VMK58 WM           N03015437E101402748                                                                                 
+SASIEAENRT   VMK62 WM           N03050597E101375659                                                                                 
+SASIEAENRT   VT02B WM           N01230515E104003295                                                                                 
+SASIEAENRT   VTK02 WM           N01264650E104020634                                                                                 
+SASIEAENRT   VTK03 WM           N01220880E104000922                                                                                 
+SASIEAENRT   VTK05 WM           N01293312E104031662                                                                                 
+SASIEAENRT   VTK07 WM           N01274200E1040747100                                                                                
+SASIEAENRT   VTK10 WM           N01234755E104061156                                                                                 
+SASIEAENRT   VTK20 WM           N01201772E103592237                                                                                 
+SASIEAENRT   VTK30 WM           N01545400E104015300                                                                                 
+SASIEAENRT   VTW45 WM           N04461910E117322500                                                                                 
+SASIEAENRT   VZU08 WM           N03582600E114403200                                                                                 
+SASIEAENRT   VZU16 WM           N04173910E1145103100                                                                                
+SASIDB       AT    WM000385     N06093310E100221760                                                                                 
+SASIDB       BP    WM000276     N01510000E102560200                                                                                 
+SASIDB       BED   WM000232     N01185852E103574920                                                                                 
+SASIDB       BTU   WM000368     N03060869E113012821                                                                                 
+SASIDB       CE    WM000205     N03174230E101270690                                                                                 
+SASIDB       GK    WM000520     N05475300E102292500                                                                                 
+SASIDB       JB    WM000400     N01295977E103424182                                                                                 
+SASIDB       JR    WM000245     N01402980E103393590                                                                                 
+SASIDB       KL    WM000255     N03004100E101371280                                                                                 
+SASIDB       KK    WM000286     N01311790E103592370                                                                                 
+SASIDB       KB    WM000240     N06102910E1021517100                                                                                
+SASIDB       JSL   WM000400     N05535880E116014180                                                                                 
+SASIDB       SM    WM000355     N03051730E101342480                                                                                 
+SASIDB       NM    WM000338     N03115930E1013029100                                                                                
+SASIDB       LHD   WM000334     N05012910E118201080                                                                                 
+SASIDB       LN    WM000356     N03525910E115420000                                                                                 
+SASIDB       MC    WM000362     N02122960E102131850                                                                                 
+SASIDB       AM    WM000298     N02155960E102151250                                                                                 
+SASIDB       MDI   WM000404     N04103900E114181900                                                                                 
+SASIDB       MZU   WM000505     N04020200E114475200                                                                                 
+SASIDB       PR    WM000270     N04574710E1003705100                                                                                
+SASIDB       PK    WM000282     N03225900E1032523100                                                                                
+SASIDB       PNG   WM000406     N05193470E100180740                                                                                 
+SASIDB       SEL   WM000220     N01245951E103515422                                                                                 
+SASIDB       AG    WM000325     N01252310E1034923100                                                                                
+SASIDB       NIS   WM000203     N02145331E112000646                                                                                 
+SASIDB       TWU   WM000278     N04175866E118055890                                                                                 
+SASIDB       TA    WM000315     N03594800E1010111100                                                                                
+SASID        VAS   WM011360V    N06110840E100234920                                                                                 
+SASID        VBA   WM011470V    N03192930E101272490                                                                                 
+SASID        VBT   WM011330V    N05283470E100233730                                                                                 
+SASID        VGK   WM011660V    N05475035E102284311                                                                                 
+SASID        VPS   WM011280V    N04285510E1010101100                                                                                
+SASID        VIH   WM011730V    N04342290E1010536100                                                                                
+SASID        VJR   WM011270V    N01434750E103371790                                                                                 
+SASID        VJN   WM011310V    N05535880E116014780                                                                                 
+SASID        VKL   WM011610V    N02432710E101441700                                                                                 
+SASID        VKN   WM011370V    N03463420E1031235100                                                                                
+SASID        VKG   WM011450V    N01282310E110182070                                                                                 
+SASID        VMK   WM011740V    N02152300E102150200                                                                                 
+SASID        VMR   WM011680V    N02231710E103521800                                                                                 
+SASID        VZU   WM011280V    N04015850E114474330                                                                                 
+SASID        PU    WM011510V    N01252399E103555974                                                                                 
+SASID        VPG   WM011620V    N05164670E100153740                                                                                 
+SASID        VSI   WM011220V    N02144850E112001220                                                                                 
+SASID        VTW   WM011560V    N04192826E118082368                                                                                 
+SASID        VTK   WM011650V    N01245542E104011949                                                                                 
+SASID        IKG   WM011030 D   N01291908E110211244                                                                                 
+SASID        ISU   WM011050 D   N02160493E111584170                                                                                 
+SASID        IKKS  WM011030 D   N05555406E116025419                                                                                 
+SASID        ITWU  WM011130 D   N04190220E118074990                                                                                 
+SASID        IKN   WM010950 D   N03455320E103122400                                                                                 
+SASID        IPO   WM011050 D   N04334710E101052299                                                                                 
+SASID        IJB   WM010990 D   N01391780E103395990                                                                                 
+SASID        IEL   WM010850 D   N02463660E101421530                                                                                 
+SASID        IWR   WM011070 D   N02442560E101415481                                                                                 
+SASID        IWL   WM011190 D   N02425310E101425669                                                                                 
+SASID        IER   WM010910 D   N02450490E101431680                                                                                 
+SASID        IPG   WM010990 D   N05171670E100161340                                                                                 
+SASID        ISB   WM011030 D   N03083110E1013227100                                                                                
+SASID        IKL   WM010990 D   N03071130E101331830                                                                                 
+SASID        IPN   WM010930 D   N01205042E103541011                                                                                 
+SASID        IPS   WM011150 D   N01222730E103545129                                                                                 
+SASID        ICE   WM010830 D   N01195180E103591469                                                                                 
+SASID        ICW   WM011090 D   N01210844E103583875                                                                                 
+SASID        ICC   WM010970 D   N01213144E103595675                                                                                 
+SASID        ICH   WM010890 D   N01222571E103591225                                                                                 
+SASID        VAS   WM011360 D   N06110840E100234920                                                                                 
+SASID        VBA   WM011470 D   N03192930E101272490                                                                                 
+SASID        VBT   WM011330 D   N05283470E100233730                                                                                 
+SASID        VGK   WM011660 D   N05475035E102284311                                                                                 
+SASID        VIH   WM011730 D   N04342290E1010536100                                                                                
+SASID        VJR   WM011270 D   N01434750E103371790                                                                                 
+SASID        VJN   WM011310 D   N05535880E116014780                                                                                 
+SASID        VKL   WM011610 D   N02432710E101441700                                                                                 
+SASID        VKN   WM011370 D   N03463420E1031235100                                                                                
+SASID        VKG   WM011450 D   N01282310E110182070                                                                                 
+SASID        VMK   WM011740 D   N02152300E102150200                                                                                 
+SASID        VMR   WM011680 D   N02231710E103521800                                                                                 
+SASID        VZU   WM011280 D   N04015850E114474330                                                                                 
+SASID        PU    WM011510 D   N01252399E103555974                                                                                 
+SASID        VPG   WM011620 D   N05164670E100153740                                                                                 
+SASID        VSI   WM011220 D   N02144850E112001220                                                                                 
+SASID        VTW   WM011560 D   N04192826E118082368                                                                                 
+SASID        VTK   WM011650 D   N01245542E104011949                                                                                 
+SASID        BTR   WM011350 D   N05281870E100233530                                                                                 
+SASID        PLA   WM011630 D   N01222413E103544425                                                                                 
+SASID        TNG   WM011390 D   N01233510E103424200                                                                                 
+SASIER       B348        0090VJN  WMD       O                             1313     13500     46000                                  
+SASIER       A464        0030VKL  WMD       O                             0299     05500     46000                                  
+SASIER       A464        0040VBA  WMD       O                             0398     05500     46000                                  
+SASIER       A464        0050DAKUSWMEA      O                             0300     05500     46000                                  
+SASIER       A464        0060VIH  WMD       O                             0481     05500     46000                                  
+SASIER       A464        0070KARMIWMEA      O                             1203     08500     46000                                  
+SASIER       A464        0080HTY  VTD       O                             0276     08500     46000                                  
+SASIER       A457        0020SUKATWMEA      O                             0161     06500     46000                                  
+SASIER       A457        0030TEPUSWMEA      O                             0382     06500     46000                                  
+SASIER       A457        0040VPG  WMD       O                             0730     06500     46000                                  
+SASIER       A457        0050VAS  WMD       O                             0550     06500     46000                                  
+SASIER       A457        0060TAMOSWMEA      O                             0206     09500     46000                                  
+SASIER       A457        0070HTY  VTD       O                             0243     09500     46000                                  
+SASIER       B584        0050MAMOKWMEA      O                             3063     24500     46000                                  
+SASIER       B584        0060VJN  WMD       O                             1099     13500     46000                                  
+SASIER       M761        0060PK   WMD       O                             0459     24500     46000                                  
+SASIER       B583        0020BRU50WMEA      O                             0501     10000     46000                                  
+SASIER       B583        0030MAMOKWMEA      O                             0217     10000     46000                                  
+SASIER       B583        0040LADOP  EA      O                             3305     24500     46000                                  
+SASIER       G460        0020KADMOWMEA      O                             0603     07000     46000                                  
+SASIER       G460        0030VBU    D       O                             0922     06500     46000                                  
+SASIER       G460        0040VSI  WMD       O                             0815     06500     46000                                  
+SASIER       G460        0050VKG  WMD       O                             1120     06500     46000                                  
+SASIER       B348-       0020VJN  WMD       O                             0920     06500     46000                                  
+SASIER       G580        0040PILAXWMEA      O                             1101     06500     46000                                  
+SASIER       G580        0050VKG  WMD       O                             0823     06500     46000                                  
+SASIER       G334        0030PILAXWMEA      O                             1483     06500     46000                                  
+SASIER       G334        0040VSI  WMD       O                             0373     06500     46000                                  
+SASIER       B592        0020UDEROWMEA      O                             0380     06500     46000                                  
+SASIER       W452        0020VZU16WMEA      O                             0087     07000     24500                                  
+SASIER       W452        0030VZU  WMD       O                             0161     09500     24500                                  
+SASIER       L629        0020PK   WMD       O                             0226     24000     46000                                  
+SASIER       L642        0170VMR  WMD       O                             0317     13500     46000                                  
+SASIER       R579        0020VMK  WMD       O                             0320     07000     46000                                  
+SASIER       L635        0020PK   WMD       O                             0252     24500     46000                                  
+SASIER       M763        0030PK   WMD       O                             0315     24500     46000                                  
+SASIER       W525        0020VPG  WMD       O                             0448     06500     46000                                  
+SASIER       W456        0010GONADWMEA      O                                      06500     14500                                  
+SASIER       W456        0020VSI  WMD       O                             0372     06500     14500                                  
+SASIER       G468        0030VPG  WMD       O                             0641     08500     46000                                  
+SASIER       R208        0010GUNBOWMEA      O                                      08500     46000                                  
+SASIER       R208        0020MATSUWMEA      O                             0960     08500     46000                                  
+SASIER       R208        0030PIBOSWMEA      O                             0064     08500     46000                                  
+SASIER       R208        0040VKL  WMD       O                             0417     08500     46000                                  
+SASIER       N892        0190VMR  WMD       O                             0463     24500     46000                                  
+SASIER       W401        0020KK   WMD       O                             0274     02000     24500                                  
+SASIER       W650        0020POPIDWMEA      O                             0284     10500     14500                                  
+SASIER       W650        0030PAPDAWMEA      O                             0417     10500     14500                                  
+SASIER       W650        0040VPG  WMD       O                             0441     08500     14500                                  
+SASIER       G579        0010JB   WMD       O                                      02000     46000                                  
+SASIER       G579        0020SJ     D       O                             0187     02000     46000                                  
+SASIER       W404        0010JR   WMD       O                                      02500     20000                                  
+SASIER       W404        0020KK   WMD       O                             0218     02500     20000                                  
+SASIER       W443        0020VKG  WMD       O                             1061     06500     46000                                  
+SASIER       W457        0010KAMUMWMEA      O                                      06500     24500                                  
+SASIER       W457        0020VKG  WMD       O                             0611     06500     24500                                  
+SASIER       W448        0010KEVOXWMEA      O                                      04500     24500                                  
+SASIER       W448        0020VBU    D       O                             0390     04500     24500                                  
+SASIER       W446        0010KEVOXWMEA      O                                      06500     46000                                  
+SASIER       W446        0020VMI    D       O                             0589     06500     46000                                  
+SASIER       W420        0010KUDATWMEA      O                                      08500     46000                                  
+SASIER       W420        0020VJN  WMD       O                             0772     08500     46000                                  
+SASIER       W421        0010LHD  WMD       O                                      06500     46000                                  
+SASIER       W421        0020VSN    D       O                             0553     06500     46000                                  
+SASIER       W424        0010LHD  WMD       O                                      06500     46000                                  
+SASIER       W424        0020VTW  WMD       O                             0437     06500     46000                                  
+SASIER       G219        0020VTK30WMEA      O                             0420     10500     46000                                  
+SASIER       G219        0030VTK  WMD       O                             0300     03000     46000                                  
+SASIER       M522        0020VJN  WMD       O                             1375     13500     46000                                  
+SASIER       R455        0010PAPSAWMEA      O                                      06500     46000                                  
+SASIER       R455        0020PNK  WID       O                             0895     06500     46000                                  
+SASIER       Y331        0010PIBOSWMEA      O                                      14500     46000                                  
+SASIER       Y331        0020VKN33WMEA      O                             0441     14500     46000                                  
+SASIER       Y331        0030TAXUL  EA      O                             0576     24500     46000                                  
+SASIER       W540        0010PK   WMD       O                                      07500     23500                                  
+SASIER       W540        0020VKB36WMEA      O                             1447     07500     23500                                  
+SASIER       W540        0030VKB    D       O                             0350     07500     23500                                  
+SASIER       B338        0010PU020WMEA      O                                      03500     46000                                  
+SASIER       B338        0020VMR  WMD       O                             0383     03500     46000                                  
+SASIER       G466        0010PULIPWMEA      O                                      10500     46000                                  
+SASIER       G466        0020VKB35WMEA      O                             1168     10500     46000                                  
+SASIER       G466        0030VKB    D       O                             0350     07500     46000                                  
+SASIER       W532        0010TEPUSWMEA      O                                      07500     46000                                  
+SASIER       W532        0020VIH  WMD       O                             0314     07500     46000                                  
+SASIER       W530        0010VIH  WMD       O                                      06500     46000                                  
+SASIER       W530        0020VPG  WMD       O                             0655     06500     46000                                  
+SASIER       W451        0010VJN  WMD       O                                      04500     24500                                  
+SASIER       W451        0020VLG    D       O                             0903     04500     24500                                  
+SASIER       A224        0010VJR  WMD       O                                      05500     46000                                  
+SASIER       A224        0020VMR  WMD       O                             0423     05500     46000                                  
+SASIER       B219        0020VPG  WMD       O                             1337     13500     46000                                  
+SASIER       W449        0030VZU  WMD       O                             0080     09500     24500                                  
+SASIER       R221        0010VMR  WMD       O                                      05500     46000                                  
+SASIER       R221        0020VPT    D       O                             0343     05500     46000                                  

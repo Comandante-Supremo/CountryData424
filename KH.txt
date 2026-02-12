@@ -1,0 +1,69 @@
+SASIEAENRT   AGEDO VD           N13241940E102213860                                                                                 
+SASIEAENRT   AKNAT VD           N12135910E103424200                                                                                 
+SASIEAENRT   ANINA VD           N13585910E107250000                                                                                 
+SASIEAENRT   ARIBA VD           N11445874E104501296                                                                                 
+SASIEAENRT   BAXAR VD           N10300000E1041759100                                                                                
+SASIEAENRT   BIDEG VD           N12040000E1033029100                                                                                
+SASIEAENRT   BISOR VD           N12205910E1024659100                                                                                
+SASIEAENRT   BOKAK VD           N12573631E102294735                                                                                 
+SASIEAENRT   CHHUN VD           N13164165E103402248                                                                                 
+SASIEAENRT   DADEM VD           N10534400E105134100                                                                                 
+SASIEAENRT   DALIS VD           N10472781E103532814                                                                                 
+SASIEAENRT   DANOU VD           N10515143E103284726                                                                                 
+SASIEAENRT   DARET VD           N11143282E104504542                                                                                 
+SASIEAENRT   GONLY VD           N13400000E107300000                                                                                 
+SASIEAENRT   HUMEN VD           N13210545E103443568                                                                                 
+SASIEAENRT   IKAKO VD           N11394038E104574906                                                                                 
+SASIEAENRT   KAMKA VD           N11304200E1030611100                                                                                
+SASIEAENRT   KHKNG VD           N11371800E102590000                                                                                 
+SASIEAENRT   KOSDA VD           N11401052E104582020                                                                                 
+SASIEAENRT   KRATE VD           N12285910E106040000                                                                                 
+SASIEAENRT   LIMKI VD           N11203469E104504414                                                                                 
+SASIEAENRT   MENAM VD           N13572410E102472920                                                                                 
+SASIEAENRT   OMLET VD           N11305076E105021912                                                                                 
+SASIEAENRT   POPET VD           N11055910E105570000                                                                                 
+SASIEAENRT   RATHA VD           N13205649E103444441                                                                                 
+SASIEAENRT   RIKDI VD           N11284754E104454837                                                                                 
+SASIEAENRT   ROMJA VD           N11364858E104544979                                                                                 
+SASIEAENRT   SAKOL VD           N11365694E104544870                                                                                 
+SASIEAENRT   SAPAL VD           N13092945E103564511                                                                                 
+SASIEAENRT   SAPEN VD           N11011110E1061059100                                                                                
+SASIEAENRT   SATON VD           N12565710E1043348100                                                                                
+SASIEAENRT   SIEMP VD           N13245310E103491800                                                                                 
+SASIEAENRT   SIVON VD           N13170664E103395840                                                                                 
+SASIEAENRT   SOURN VD           N13452910E106000000                                                                                 
+SASIEAENRT   THIDA VD           N11323023E104321690                                                                                 
+SASIEAENRT   TITPO VD           N11214746E104383558                                                                                 
+SASIEAENRT   TOGER VD           N11323182E104382385                                                                                 
+SASIEAENRT   TOSOK VD           N11255084E1044306100                                                                                
+SASIEAENRT   TOSOX VD           N11255541E104430709                                                                                 
+SASIEAENRT   VANAL VD           N13164769E103324771                                                                                 
+SASIEAENRT   VANTA VD           N10493659E103460527                                                                                 
+SASIEAENRT   VIBUN VD           N13474800E105255400                                                                                 
+SASIDB       BB    VD000484     N13053000E1031323100                                                                                
+SASIDB       KCW   VD000297     N12142750E104334758                                                                                 
+SASIDB       KK    VD000425     N11370070E102594720                                                                                 
+SASIDB       MD    VD000381     N12275310E1071135100                                                                                
+SASIDB       PNP   VD000376     N11350600E1045317100                                                                                
+SASIDB       RT    VD000348     N13434800E106591200                                                                                 
+SASIDB       SIR   VD000441     N13235320E103481240                                                                                 
+SASIDB       ST    VD000444     N13313000E106005400                                                                                 
+SASID        PNH   VD011430V    N11324800E104503000                                                                                 
+SASID        SRE   VD011380V    N13242880E103482280                                                                                 
+SASID        PNH   VD011430 D   N11324800E104503000                                                                                 
+SASID        SRE   VD011380 D   N13245310E103491800                                                                                 
+SASIER       R575        0010BIDEGVDEA      O                                      08000     46000                                  
+SASIER       R575        0020KK   VDD       O                             0404     08000     46000                                  
+SASIER       A340        0010BISORVDEA      O                                      08000     46000                                  
+SASIER       A340        0020PNH  VDD       O                             1302     08000     46000                                  
+SASIER       R468        0030BOKAKVDEA      O                             0595     07500     46000                                  
+SASIER       R468        0040PNH  VDD       O                             1617     08000     46000                                  
+SASIER       R468        0050POPETVDEA      O                             0705     05000     46000                                  
+SASIER       R468        0060SAPENVDEA      O                             0146     05000     46000                                  
+SASIER       R468        0070TSN  VVD       O                             0299     08000     46000                                  
+SASIER       B205        0010BOKAKVDEA      O                                      15500     46000                                  
+SASIER       B205        0020RYN  VTD       O                             0491     15500     46000                                  
+SASIER       R588        0010GONLYVDEA      O                                      26500     46000                                  
+SASIER       R588        0020PK   VVD       O                             0360     26500     46000                                  
+SASIER       R334        0010KK   VDD       O                                      16500     46000                                  
+SASIER       R334        0020PNH  VDD       O                             1086     16500     46000                                  

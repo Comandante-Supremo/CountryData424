@@ -1,0 +1,341 @@
+SMESEAENRT   ALMOG OO           N23352310E057494000                                                                                 
+SMESEAENRT   ALNUN OO           N21162410E056104100                                                                                 
+SMESEAENRT   ANVIX OO           N24465410E055561600                                                                                 
+SMESEAENRT   DARAB OO           N17463110E054490200                                                                                 
+SMESEAENRT   DATBU OO           N22224210E056005400                                                                                 
+SMESEAENRT   DAXAM OO           N17161110E054471500                                                                                 
+SMESEAENRT   DEDSO OO           N18581010E056004100                                                                                 
+SMESEAENRT   DEMKI OO           N22494100E056230800                                                                                 
+SMESEAENRT   DUDRI OO           N19000000E052000000                                                                                 
+SMESEAENRT   EGROK OO           N23525300E056012600                                                                                 
+SMESEAENRT   EGVAN OO           N23012700E0561906100                                                                                
+SMESEAENRT   EMURU OO           N22135700E058533800                                                                                 
+SMESEAENRT   ERDAX OO           N17590300E0554457100                                                                                
+SMESEAENRT   GAGLA OO           N18050410E055241000                                                                                 
+SMESEAENRT   GEPOT OO           N23144510E0580052100                                                                                
+SMESEAENRT   GEVED OO           N23010500E057511100                                                                                 
+SMESEAENRT   GIDAN OO           N23010400E058223200                                                                                 
+SMESEAENRT   GIDIS OO           N24360000E0555559100                                                                                
+SMESEAENRT   GISKA OO           N21350300E057401400                                                                                 
+SMESEAENRT   GISMO OO           N24474300E056223600                                                                                 
+SMESEAENRT   GIVNO OO           N19501100E056305900                                                                                 
+SMESEAENRT   IMW02 OO           N23351762E058132932                                                                                 
+SMESEAENRT   IMW06 OO           N23350704E058111919                                                                                 
+SMESEAENRT   IMW07 OO           N23352449E058145391                                                                                 
+SMESEAENRT   IMW08 OO           N23344579E058065895                                                                                 
+SMESEAENRT   IMW11 OO           N23342977E058034379                                                                                 
+SMESEAENRT   ISB01 OO           N23354430E058185935                                                                                 
+SMESEAENRT   ISB04 OO           N23355990E058221458                                                                                 
+SMESEAENRT   ISB07 OO           N23361544E058252983                                                                                 
+SMESEAENRT   ISB10 OO           N23361983E058262680                                                                                 
+SMESEAENRT   ISL10 OO           N17052460E054141086                                                                                 
+SMESEAENRT   ISL11 OO           N17055427E054153962                                                                                 
+SMESEAENRT   ISL12 OO           N17060101E054163166                                                                                 
+SMESEAENRT   ISL14 OO           N17064548E054181288                                                                                 
+SMESEAENRT   ISL93 OO           N17050348E0541338100                                                                                
+SMESEAENRT   ISL95 OO           N17051471E054134128                                                                                 
+SMESEAENRT   ITURA OO           N23235100E0580719100                                                                                
+SMESEAENRT   ITUVO OO           N19031500E0554327100                                                                                
+SMESEAENRT   IVETO OO           N23352000E057070400                                                                                 
+SMESEAENRT   KEBAS OO           N21433000E0570947100                                                                                
+SMESEAENRT   KUROV OO           N21162700E0561852100                                                                                
+SMESEAENRT   KURTA OO           N23420500E055490000                                                                                 
+SMESEAENRT   KUSRA OO           N23242510E058261100                                                                                 
+SMESEAENRT   LABSA OO           N23015300E055550500                                                                                 
+SMESEAENRT   LADAR OO           N16532400E0534654100                                                                                
+SMESEAENRT   LAKLU OO           N23223500E0570400100                                                                                
+SMESEAENRT   LUDID OO           N23022610E0551759100                                                                                
+SMESEAENRT   MCT03 OO           N23354685E058185136                                                                                 
+SMESEAENRT   MCT06 OO           N23360563E058220627                                                                                 
+SMESEAENRT   MCT09 OO           N23362434E058252119                                                                                 
+SMESEAENRT   MCT15 OO           N23351856E058135903                                                                                 
+SMESEAENRT   MCT23 OO           N23364918E058294111                                                                                 
+SMESEAENRT   MCT25 OO           N23351226E058125407                                                                                 
+SMESEAENRT   MCT28 OO           N23374525E058035345                                                                                 
+SMESEAENRT   MCT64 OO           N23341834E0580341100                                                                                
+SMESEAENRT   MCT84 OO           N23363366E058265866                                                                                 
+SMESEAENRT   MCT85 OO           N23381897E058040219                                                                                 
+SMESEAENRT   MCT88 OO           N23343743E058065683                                                                                 
+SMESEAENRT   MCT98 OO           N23361492E058055077                                                                                 
+SMESEAENRT   MCT99 OO           N23345012E058090673                                                                                 
+SMESEAENRT   MEKNA OO           N23330810E056081500                                                                                 
+SMESEAENRT   MEVLI OO           N21163200E056560600                                                                                 
+SMESEAENRT   MIBSI OO           N23413900E057552300                                                                                 
+SMESEAENRT   MOBAB OO           N20103200E0564414100                                                                                
+SMESEAENRT   MOGOK OO           N21505700E056423600                                                                                 
+SMESEAENRT   MRH29 OO           N20452021E058394498                                                                                 
+SMESEAENRT   MUSAP OO           N24175310E055524500                                                                                 
+SMESEAENRT   NALKI OO           N22492710E0565613100                                                                                
+SMESEAENRT   NAMVA OO           N22330810E056222300                                                                                 
+SMESEAENRT   NIGEL OO           N23015587E055143317                                                                                 
+SMESEAENRT   NOSMI OO           N24175700E056300200                                                                                 
+SMESEAENRT   NOVNO OO           N19331210E053585800                                                                                 
+SMESEAENRT   ORSIT OO           N20230600E0562914100                                                                                
+SMESEAENRT   OTISA OO           N20100000E055455600                                                                                 
+SMESEAENRT   PAXIM OO           N24024410E056163100                                                                                 
+SMESEAENRT   R1941 OO           N17023726E054062198                                                                                 
+SMESEAENRT   R2203 OO           N17410190E054011990                                                                                 
+SMESEAENRT   R2599 OO           N23354011E058180692                                                                                 
+SMESEAENRT   R2929 OO           N23353116E058161555                                                                                 
+SMESEAENRT   RABON OO           N17090036E054253828                                                                                 
+SMESEAENRT   RADAX OO           N22080810E058023000                                                                                 
+SMESEAENRT   RAGUD OO           N23470010E057164400                                                                                 
+SMESEAENRT   SLL01 OO           N17024910E054064086                                                                                 
+SMESEAENRT   SLL03 OO           N17021138E054023344                                                                                 
+SMESEAENRT   SLL04 OO           N17005401E054015388                                                                                 
+SMESEAENRT   SLL07 OO           N17104851E054302042                                                                                 
+SMESEAENRT   SLL09 OO           N17040429E054145576                                                                                 
+SMESEAENRT   SLL11 OO           N16574892E053552010                                                                                 
+SMESEAENRT   SLL12 OO           N16555516E053551634                                                                                 
+SMESEAENRT   SLL13 OO           N17025289E054191303                                                                                 
+SMESEAENRT   SLL20 OO           N17014685E054034643                                                                                 
+SMESEAENRT   SLL22 OO           N16542643E053562978                                                                                 
+SMESEAENRT   SLL23 OO           N17054019E054420315                                                                                 
+SMESEAENRT   SLL24 OO           N16584182E053571259                                                                                 
+SMESEAENRT   SLL30 OO           N17014082E054024137                                                                                 
+SMESEAENRT   SLL43 OO           N17210037E054232852                                                                                 
+SMESEAENRT   SLL64 OO           N17033249E054073158                                                                                 
+SMESEAENRT   SLL65 OO           N17131480E054291929                                                                                 
+SMESEAENRT   SLL70 OO           N17030472E054074152                                                                                 
+SMESEAENRT   SLL71 OO           N17060417E054163437                                                                                 
+SMESEAENRT   SLL79 OO           N17050868E054185836                                                                                 
+SMESEAENRT   SLL81 OO           N17044175E054190326                                                                                 
+SMESEAENRT   SLL82 OO           N17042303E054165951                                                                                 
+SMESEAENRT   SLL84 OO           N17031733E054094643                                                                                 
+SMESEAENRT   SLL93 OO           N16572246E053542386                                                                                 
+SMESEAENRT   SLL94 OO           N17085104E054253087                                                                                 
+SMESEAENRT   SLL95 OO           N17000518E054354783                                                                                 
+SMESEAENRT   SLL97 OO           N17132827E054402564                                                                                 
+SMESEAENRT   SLL99 OO           N17040110E054190877                                                                                 
+SMESEAENRT   SODEX OO           N23495400E055320200                                                                                 
+SMESEAENRT   TAPRA OO           N24260700E056380300                                                                                 
+SMESEAENRT   TARDI OO           N24341800E056091500                                                                                 
+SMESEAENRT   TMR01 OO           N17410497E054012115                                                                                 
+SMESEAENRT   TMR03 OO           N17490722E054020716                                                                                 
+SMESEAENRT   TMR06 OO           N17460132E054002381                                                                                 
+SMESEAENRT   TMR09 OO           N17485913E053594937                                                                                 
+SMESEAENRT   TMR11 OO           N17505046E054041421                                                                                 
+SMESEAENRT   TMR12 OO           N17515693E053591491                                                                                 
+SMESEAENRT   TMR14 OO           N17504723E054110487                                                                                 
+SMESEAENRT   TMR15 OO           N17383545E054013838                                                                                 
+SMESEAENRT   TMR16 OO           N17560397E053593850                                                                                 
+SMESEAENRT   TMR34 OO           N17505766E053592640                                                                                 
+SMESEAENRT   TMR40 OO           N17491561E054094305                                                                                 
+SMESEAENRT   TMR56 OO           N17290384E054021485                                                                                 
+SMESEAENRT   TMR63 OO           N17334664E054015681                                                                                 
+SMESEAENRT   TMR74 OO           N17425036E054010591                                                                                 
+SMESEAENRT   TMR76 OO           N17443862E054005078                                                                                 
+SMESEAENRT   TMR79 OO           N17490032E054001560                                                                                 
+SMESEAENRT   TMR81 OO           N17505936E053595961                                                                                 
+SMESEAENRT   TMR82 OO           N17520440E054000706                                                                                 
+SMESEAENRT   TMR86 OO           N17310665E054002864                                                                                 
+SMESEAENRT   TMR90 OO           N17310418E054020717                                                                                 
+SMESEAENRT   TMR91 OO           N17292987E053581640                                                                                 
+SMESEAENRT   TOLDA OO           N22400800E058362400                                                                                 
+SMESEAENRT   TOPSO OO           N21565300E056204300                                                                                 
+SMESEAENRT   TUBIR OO           N17230700E0542537100                                                                                
+SMESEAENRT   TUBSA OO           N20402810E056262600                                                                                 
+SMESEAENRT   TULBU OO           N23000500E0571826100                                                                                
+SMESEAENRT   UMILA OO           N21155500E058473800                                                                                 
+SMESEAENRT   VAXAS OO           N24430800E0561806100                                                                                
+SMESEAENRT   VELIK OO           N20332110E0561655100                                                                                
+SMESEAENRT   VUTAP OO           N20541100E0564448100                                                                                
+SMESDB       FHN   OO000267     N22204309E056291611                                                                                 
+SMESDB       OA    OO000337     N18100000E0551359100                                                                                
+SMESDB       OL    OO000326     N21180000E0570459100                                                                                
+SMESDB       SAN   OO000310     N17014273E0540508100                                                                                
+SMESDB       NSB   OO000318     N23352628E058151493                                                                                 
+SMESD        FHD   OO011250V    N22205517E056290731                                                                                 
+SMESD        HAI   OO011330V    N19581312E056165102                                                                                 
+SMESD        IZK   OO011350V    N22531860E057454273                                                                                 
+SMESD        MRL   OO011430V    N18083198E055104043                                                                                 
+SMESD        SLL   OO011230V    N17023968E054053900                                                                                 
+SMESD        MCT   OO011450V    N23352801E058153647                                                                                 
+SMESD        SUR   OO011750V    N22324790E059292970                                                                                 
+SMESD        TMR   OO011530V    N17400570E054013262                                                                                 
+SMESD        IMW   OO010830 D   N23353510E058162600                                                                                 
+SMESD        ISB   OO011030 D   N23354300E058175600                                                                                 
+SMESD        ISL   OO011010 D   N17023874E054061098                                                                                 
+SMESD        FHD   OO011250 D   N22205517E056290731                                                                                 
+SMESD        HAI   OO011330 D   N19581312E056165102                                                                                 
+SMESD        IZK   OO011350 D   N22531860E057454273                                                                                 
+SMESD        MRL   OO011430 D   N18083198E055104043                                                                                 
+SMESD        SLL   OO011230 D   N17023968E054053900                                                                                 
+SMESD        MCT   OO011450 D   N23352801E058153647                                                                                 
+SMESD        SUR   OO011750 D   N22324790E059292970                                                                                 
+SMESD        TMR   OO011530 D   N17400570E054013262                                                                                 
+SMESER       B457        0020TOLDAOOEA      O                             1904     15000     60000                                  
+SMESER       B457        0030GEVEDOOEA      O                             0467     15000     60000                                  
+SMESER       B457        0040LAKLUOOEA      O                             0484     15000     60000                                  
+SMESER       B457        0050EGROKOOEA      O                             0649     15000     60000                                  
+SMESER       B457        0060LABRIOMEA      O                             0235     10500     60000                                  
+SMESER       P570        0010ITURAOOEA      O                                      15000     60000                                  
+SMESER       P570        0020GIDANOOEA      O                             0267     15000     60000                                  
+SMESER       P570        0030TOLDAOOEA      O                             0245     15000     60000                                  
+SMESER       P570        0040EMURUOOEA      O                             0307     15000     60000                                  
+SMESER       P570        0050TAVKO  EA      O                             0686     15000     60000                                  
+SMESER       P574        0020GISMOOOEA      O                             0176     14500     60000                                  
+SMESER       P574        0030SOLUD  EA      O                             0250     14500     60000                                  
+SMESER       P574        0040MIBSIOOEA      O                             0824     15000     60000                                  
+SMESER       P574        0050KUSRAOOEA      O                             0331     15000     60000                                  
+SMESER       P574        0060MUSRU  EA      O                             0560     15000     60000                                  
+SMESER       T503        0040MCT  OOD       RL                                     15000     60000                                  
+SMESER       T503        0050TUMET  EA      RL                            1182     15000     60000                                  
+SMESER       R401        0010DATBUOOEA      O                                      15000     60000                                  
+SMESER       R401        0020LABSAOOEA      O                             0396     15000     60000                                  
+SMESER       R401        0030KURTAOOEA      O                             0406     07500     60000                                  
+SMESER       R401        0040MUSAPOOEA      O                             0360     05500     60000                                  
+SMESER       R401        0050GIDISOOEA      O                             0184     05500     60000                                  
+SMESER       R401        0060VELIKOOEA      O                                      15000     60000                                  
+SMESER       R401        0070HAI  OOD       O                             0352     15000     60000                                  
+SMESER       R401        0080DEDSOOOEA      O                             0620     15000     60000                                  
+SMESER       R401        0090ERDAXOOEA      O                             0610     15000     60000                                  
+SMESER       R401        0100KIVEL  EA      O                             0665     06000     60000                                  
+SMESER       P513        0010MCT  OOD       O                                      03000     25000                                  
+SMESER       P513        0020MIBSIOOEA      O                             0195     03000     25000                                  
+SMESER       P513        0030GERAR  EA      O                             0300     03000     25000                                  
+SMESER       M762        0020SUR  OOD       O                             1442     15000     60000                                  
+SMESER       M762        0030TAPRAOOEA      O                                      15000     60000                                  
+SMESER       M762        0040VAXASOOEA      O                             0249     06500     26500                                  
+SMESER       M762        0050BUBINOMEA      O                             0179     06500     26500                                  
+SMESER       M300        0010EMURUOOEA      O                                      15000     60000                                  
+SMESER       M300        0020GADMA  EA      O                             0923     15000     60000                                  
+SMESER       T502        0090MCT  OOD       RL                                     15000     60000                                  
+SMESER       T502        0100MUSRU  EA      RL                            0695     15000     60000                                  
+SMESER       L301        0010MIBSIOOEA      O                                      15000     60000                                  
+SMESER       L301        0020SEVLA  EA      O                             0702     15000     60000                                  
+SMESER       L306        0050LAKLUOOEA      O                                      15000     60000                                  
+SMESER       L306        0060DEMKIOOEA      O                             0500     15000     60000                                  
+SMESER       L306        0070TOKRAOEEA      O                             0608     15000     60000                                  
+SMESER       G652        0100KUSRAOOEA      O                             0633     15000     60000                                  
+SMESER       G652        0110GEPOTOOEA      O                             0252     15000     60000                                  
+SMESER       G652        0120TULBUOOEA      O                             0417     15000     60000                                  
+SMESER       G652        0130NALKIOOEA      O                             0231     15000     60000                                  
+SMESER       G652        0140NAMVAOOEA      O                             0353     15000     60000                                  
+SMESER       G652        0150DATBUOOEA      O                             0224     15000     60000                                  
+SMESER       G652        0160TOKRAOEEA      O                             0284     15000     60000                                  
+SMESER       G652        0170DUDRIOOEA      O                             2758     15000     60000                                  
+SMESER       G652        0180IMPOSOYEA      O                             0483     15000     60000                                  
+SMESER       R462        0060MIBSIOOEA      O                                      15000     60000                                  
+SMESER       R462        0070VUSET  EA      O                             0681     15000     60000                                  
+SMESER       T508        0030MIBSIOOEA      RL                                     15000     60000                                  
+SMESER       T508        0040DAPOK  EA      RL                            0296     15000     60000                                  
+SMESER       T507        0040TAPRAOOEA      RL                            0542     15000     27000                                  
+SMESER       B535-       0050LADAROOEA      O                             0438     15000     60000                                  
+SMESER       B535-       0060SLL  OOD       O                             0202     15000     60000                                  
+SMESER       B549        0030LADAROOEA      O                             0432     15000     60000                                  
+SMESER       B549        0040PUTRAOYEA      O                             0483     09000     60000                                  
+SMESER       B400        0150MRL  OOD       O                                      15000     60000                                  
+SMESER       B400        0160DAXAMOOEA      O                             0569     15000     60000                                  
+SMESER       B400        0170MUTVA  EA      O                             0271     15000     60000                                  
+SMESER       B400        0180ITURAOOEA      O                                      15000     60000                                  
+SMESER       B400        0190GEPOTOOEA      O                             0109     15000     60000                                  
+SMESER       B400        0200GEVEDOOEA      O                             0163     15000     60000                                  
+SMESER       B400        0210IZK  OOD       O                             0093     15000     60000                                  
+SMESER       B400        0220ITUVOOOEA      O                                      15000     60000                                  
+SMESER       B400        0230HAI  OOD       O                             0634     15000     60000                                  
+SMESER       B400        0240ORSITOOEA      O                             0275     15000     60000                                  
+SMESER       B400        0250VUTAPOOEA      O                             0344     15000     60000                                  
+SMESER       B400        0260MEVLIOOEA      O                             0247     15000     60000                                  
+SMESER       B400        0270KEBASOOEA      O                             0298     15000     60000                                  
+SMESER       P304        0010VELIKOOEA      O                                      15000     60000                                  
+SMESER       P304        0020KUROVOOEA      O                             0432     15000     60000                                  
+SMESER       P304        0030TOPSOOOEA      O                             0405     15000     60000                                  
+SMESER       P304        0040NAMVAOOEA      O                             0363     15000     60000                                  
+SMESER       P304        0050DEMKIOOEA      O                             0166     15000     60000                                  
+SMESER       P304        0060EGVANOOEA      O                             0123     15000     60000                                  
+SMESER       P304        0070MEKNAOOEA      O                             0333     07500     60000                                  
+SMESER       P304        0080EGROKOOEA      O                             0207     07500     60000                                  
+SMESER       P304        0090MUSAPOOEA      O                             0263     07500     60000                                  
+SMESER       T505        0060EMURUOOEA      RL                                     15000     60000                                  
+SMESER       T505        0070MCT  OOD       RL                            0888     15000     60000                                  
+SMESER       P899        0020MIBSIOOEA      O                             2966     15000     60000                                  
+SMESER       P899        0030PAXIMOOEA      O                             0929     15000     60000                                  
+SMESER       T504        0060MCT  OOD       RL                                     15000     60000                                  
+SMESER       T504        0070SUR  OOD       RL                            0925     15000     60000                                  
+SMESER       T510        0050NAMVAOOEA      RL                                     15000     60000                                  
+SMESER       T510        0060SITOLOEEA      RL                            0936     15000     60000                                  
+SMESER       G216        0030LAKLUOOEA      O                                      15000     60000                                  
+SMESER       G216        0040MCT  OOD       O                             0670     15000     60000                                  
+SMESER       L223        0010LAKLUOOEA      O                                      15000     60000                                  
+SMESER       L223        0020TARDIOOEA      O                             0875     15000     60000                                  
+SMESER       T506        0030MCT  OOD       RL                                     15000     60000                                  
+SMESER       T506        0040TULBUOOEA      RL                            0634     15000     60000                                  
+SMESER       B535        0010MRL  OOD       O                                      15000     27000                                  
+SMESER       B535        0020DARABOOEA      O                             0301     15000     27000                                  
+SMESER       B535        0030SLL  OOD       O                             0604     15000     27000                                  
+SMESER       L883        0090UMILAOOEA      O                             0412     15000     60000                                  
+SMESER       L883        0100MEVLIOOEA      O                             1040     15000     60000                                  
+SMESER       L883        0110KUROVOOEA      O                             0347     15000     60000                                  
+SMESER       UL425       0040DEDSOOOEA      O                             1175     15000     60000                                  
+SMESER       UL425       0050ITUVOOOEA      O                             0171     15000     60000                                  
+SMESER       UL425       0080NOVNOOOEA      O                             0111     15000     60000                                  
+SMESER       N569        0080UMILAOOEA      O                             0527     15000     60000                                  
+SMESER       N569        0090GISKAOOEA      O                             0656     15000     60000                                  
+SMESER       N569        0100KEBASOOEA      O                             0295     15000     60000                                  
+SMESER       N569        0110MOGOKOOEA      O                             0264     15000     60000                                  
+SMESER       N569        0120TOPSOOOEA      O                             0212     15000     60000                                  
+SMESER       N569        0130TOKRAOEEA      O                             0453     15000     46000                                  
+SMESER       G783        0020GIDISOOEA      O                             0238     14500     60000                                  
+SMESER       G783        0040NIGELOOEA      O                             0510     14500     60000                                  
+SMESER       G783        0050TANSUOMEA      O                             0471     14500     33000                                  
+SMESER       P316        0010SLL  OOD       O                                      15000     60000                                  
+SMESER       P316        0020DAXAMOOEA      O                             0420     15000     60000                                  
+SMESER       P316        0030GAGLAOOEA      O                             0603     15000     60000                                  
+SMESER       P316        0040DEDSOOOEA      O                             0634     15000     60000                                  
+SMESER       P316        0050GIVNOOOEA      O                             0594     15000     60000                                  
+SMESER       P316        0060MOBABOOEA      O                             0239     15000     60000                                  
+SMESER       P316        0070GISKAOOEA      O                             0995     15000     60000                                  
+SMESER       P316        0080RADAXOOEA      O                             0390     15000     60000                                  
+SMESER       P316        0090MCT  OOD       O                             0882     15000     60000                                  
+SMESER       M551        0010DAXAMOOEA      O                                      15000     60000                                  
+SMESER       M551        0020KIVEL  EA      O                             0525     15000     60000                                  
+SMESER       M628        0110GIDANOOEA      O                             0837     15000     60000                                  
+SMESER       M628        0120GEVEDOOEA      O                             0289     15000     60000                                  
+SMESER       M628        0130TULBUOOEA      O                             0302     15000     60000                                  
+SMESER       M628        0140EGVANOOEA      O                             0547     15000     60000                                  
+SMESER       M628        0150LABSAOOEA      O                             0221     15000     60000                                  
+SMESER       M628        0160LUDIDOOEA      O                             0342     15000     60000                                  
+SMESER       L556        0050GIVNOOOEA      O                             1283     15000     60000                                  
+SMESER       L556        0060HAI  OOD       O                             0155     15000     60000                                  
+SMESER       L556        0070OTISAOOEA      O                             0314     15000     60000                                  
+SMESER       N629        0020GIDANOOEA      O                             2329     15000     60000                                  
+SMESER       N629        0030GEPOTOOEA      O                             0242     15000     60000                                  
+SMESER       N629        0040RAGUDOOEA      O                             0518     15000     60000                                  
+SMESER       N629        0050NOSMIOOEA      O                             0527     15000     60000                                  
+SMESER       N629        0060TARDIOOEA      O                             0250     15000     60000                                  
+SMESER       N881        0010GIDANOOEA      O                                      15000     60000                                  
+SMESER       N881        0020MUSRU  EA      O                             0551     15000     60000                                  
+SMESER       UB424       0010GISKAOOEA      O                                      15000     60000                                  
+SMESER       UB424       0020VUTAPOOEA      O                             0659     15000     60000                                  
+SMESER       UB424       0030TUBSAOOEA      O                             0220     15000     60000                                  
+SMESER       UB424       0040VELIKOOEA      O                             0114     15000     60000                                  
+SMESER       UB424       0050OTISAOOEA      O                             0373     15000     60000                                  
+SMESER       UB424       0060NOVNOOOEA      O                             1072     15000     60000                                  
+SMESER       UB424       0070SABELOYEA      O                             1165     15000     60000                                  
+SMESER       R402        0010HAI  OOD       O                                      15000     60000                                  
+SMESER       R402        0020TUBSAOOEA      O                             0432     15000     60000                                  
+SMESER       R402        0030MOGOKOOEA      O                             0721     15000     60000                                  
+SMESER       R402        0040NALKIOOEA      O                             0599     15000     60000                                  
+SMESER       R402        0050LAKLUOOEA      O                             0339     15000     60000                                  
+SMESER       A775        0010KUSRAOOEA      O                                      15000     60000                                  
+SMESER       A775        0020TUMET  EA      O                             1038     15000     60000                                  
+SMESER       N315        0020MOBABOOEA      O                             1304     15000     60000                                  
+SMESER       N315        0030ORSITOOEA      O                             0189     15000     60000                                  
+SMESER       N315        0040VELIKOOEA      O                             0155     15000     60000                                  
+SMESER       N315        0050SITOLOEEA      O                             0645     15000     46000                                  
+SMESER       UM628       0010LUDIDOOEA      O                                      14500     60000                                  
+SMESER       UM628       0020NIGELOOEA      O                             0032     14500     60000                                  
+SMESER       P513-       0010MCT  OOD       O                                      15000     60000                                  
+SMESER       P513-       0020MIBSIOOEA      O                             0195     15000     60000                                  
+SMESER       T511        0010MCT  OOD       RL                                     15000     60000                                  
+SMESER       T511        0020RAGUDOOEA      RL                            0552     15000     60000                                  
+SMESER       N767        0010MCT  OOD       O                                      15000     60000                                  
+SMESER       N767        0020SEVLA  EA      O                             0512     15000     60000                                  
+SMESER       T500        0010MCT  OOD       RL                                     15000     60000                                  
+SMESER       T500        0020VUSET  EA      RL                            0522     15000     60000                                  
+SMESER       UB535       0010MRL  OOD       O                                      15000     60000                                  
+SMESER       UB535       0020SLL  OOD       O                             0905     15000     60000                                  
+SMESER       L555        0010TULBUOOEA      O                                      15000     60000                                  
+SMESER       L555        0020TOLDAOOEA      O                             0746     15000     60000                                  
+SMESER       L555        0030TUMET  EA      O                             0765     15000     60000                                  

@@ -1,0 +1,99 @@
+SASIEAENRT   ANSOS VY           N23270270E0932747100                                                                                
+SASIEAENRT   ARATO VY           N16220490E097474680                                                                                 
+SASIEAENRT   ASUMO VY           N20570360E096094710                                                                                 
+SASIEAENRT   BETNO VY           N15055330E098115870                                                                                 
+SASIEAENRT   BINOV VY           N17520450E097324680                                                                                 
+SASIEAENRT   BOKPY VY           N11090000E0984359100                                                                                
+SASIEAENRT   IKUGI VY           N18340423E096234720                                                                                 
+SASIEAENRT   LATAD VY           N17000480E097524670                                                                                 
+SASIEAENRT   LIMLA VY           N15460510E098354650                                                                                 
+SASIEAENRT   LSO97 VY           N22475110E095581700                                                                                 
+SASIEAENRT   MONWR VY           N22124740E095054170                                                                                 
+SASIEAENRT   NIVOG VY           N18270430E095264760                                                                                 
+SASIEAENRT   OTADA VY           N18180430E095084780                                                                                 
+SASIEAENRT   SISUK VY           N19480410E098014640                                                                                 
+SASIDB       AN    VY000385     N19461300E094022480                                                                                 
+SASIDB       BGN   VY000335     N21105150E094554160                                                                                 
+SASIDB       BM    VY000320     N24160280E097144630                                                                                 
+SASIDB       DWI   VY000310     N14065550E098121080                                                                                 
+SASIDB       EL    VY000390     N19372860E096115090                                                                                 
+SASIDB       HHO   VY000360     N20443380E096473490                                                                                 
+SASIDB       HL    VY000255     N24534010E0945447100                                                                                
+SASIDB       PA    VY000365     N16533480E097402880                                                                                 
+SASIDB       PP    VY000280     N18040450E097264680                                                                                 
+SASIDB       KL    VY000225     N23111490E094031780                                                                                 
+SASIDB       KI    VY000230     N25591420E095402880                                                                                 
+SASIDB       KT    VY000290     N10030640E098325880                                                                                 
+SASIDB       KG    VY000400     N21180980E099375770                                                                                 
+SASIDB       LSO   VY000370     N22584520E097451630                                                                                 
+SASIDB       LK    VY000295     N19413410E097125880                                                                                 
+SASIDB       MH    VY000384     N19175584E097583059                                                                                 
+SASIDB       MS    VY000316     N16420697E098322325                                                                                 
+SASIDB       MW    VY000305     N20095780E094561770                                                                                 
+SASIDB       MIA   VY000259     N21412140E095585910                                                                                 
+SASIDB       MM    VY000330     N16262890E097392890                                                                                 
+SASIDB       MKT   VY000350     N20560360E095544720                                                                                 
+SASIDB       MDS   VY000397     N16522870E096063540                                                                                 
+SASIDB       MS    VY000312     N20320310E099154580                                                                                 
+SASIDB       ME    VY000300     N12265990E098372270                                                                                 
+SASIDB       MK    VY000275     N25231450E097212220                                                                                 
+SASIDB       MKA   VY000410     N25210250E097164620                                                                                 
+SASIDB       NS    VY000260     N20530980E097435850                                                                                 
+SASIDB       PTN   VY000415     N16480460E094464800                                                                                 
+SASIDB       PT    VY000340     N27191400E097261590                                                                                 
+SASIDB       SW    VY000216     N20075160E092530060                                                                                 
+SASIDB       TL    VY000375     N20281350E099555030                                                                                 
+SASIDB       TD    VY000270     N18272820E094175410                                                                                 
+SASIDB       YGN   VY000265     N17043470E096141740                                                                                 
+SASID        BGO   VY011260V    N17191060E096305930                                                                                 
+SASID        DWI   VY011200V    N14055350E098115880                                                                                 
+SASID        HGU   VY011230V    N17050470E096145340                                                                                 
+SASID        LSO   VY011680V    N22590320E097444630                                                                                 
+SASID        MHS   VY011550V    N19191073E097544350                                                                                 
+SASID        MST   VY011670V    N16415527E098323158                                                                                 
+SASID        MIA   VY011630V    N21423940E095582910                                                                                 
+SASID        MDY   VY011280V    N21560340E096074710                                                                                 
+SASID        PTN   VY011560V    N16485260E094463600                                                                                 
+SASID        TGO   VY011510V    N19025220E096234720                                                                                 
+SASID        IMIA  VY011050 D   N21430192E095583229                                                                                 
+SASID        IYGN  VY010990 D   N16544940E096082068                                                                                 
+SASID        BGO   VY011260 D   N17191060E096305930                                                                                 
+SASID        DWI   VY011200 D   N14055350E098115880                                                                                 
+SASID        HGU   VY011230 D   N17050470E096145340                                                                                 
+SASID        LSO   VY011680 D   N22590320E097444630                                                                                 
+SASID        MHS   VY011550 D   N19191073E097544350                                                                                 
+SASID        MST   VY011670 D   N16415527E098323158                                                                                 
+SASID        MIA   VY011630 D   N21423940E095582910                                                                                 
+SASID        MDY   VY011280 D   N21560340E096074710                                                                                 
+SASID        PTN   VY011560 D   N16485260E094463600                                                                                 
+SASID        TGO   VY011510 D   N19025220E096234720                                                                                 
+SASIER       G472-       0040PTN  VYD       O                             1728     10000     46000                                  
+SASIER       G463-       0010BETNOVYEA      O                                      09500     46000                                  
+SASIER       G463-       0020BKK  VTD       O                             1570     09500     46000                                  
+SASIER       N895-       0010BETNOVYEA      O                                      26000     46000                                  
+SASIER       N895-       0020PTN  VYD       O                             2228     26000     46000                                  
+SASIER       A581        0010BGO  VYD       O                                      21500     46000                                  
+SASIER       A581        0020BINOVVYEA      O                             0675     21500     46000                                  
+SASIER       A581        0030PUKOKVTEA      O                             0124     21500     46000                                  
+SASIER       B463        0010BGO  VYD       O                                      10000     46000                                  
+SASIER       B463        0020DOMAP  EA      O                             1087     10000     46000                                  
+SASIER       B463        0040DWI  VYD       O                             0905     10000     46000                                  
+SASIER       B463        0050EKAVOVTEA      O                             1669     10000     46000                                  
+SASIER       G473        0010BGO  VYD       O                                      10000     46000                                  
+SASIER       G473        0020LATADVYEA      O                             0805     10000     46000                                  
+SASIER       G473        0030MAKASVTEA      O                             0368     10000     46000                                  
+SASIER       L507        0010BGO  VYD       O                                      28000     46000                                  
+SASIER       L507        0020OTADAVYEA      O                             0980     28000     46000                                  
+SASIER       L507        0030TEBOV  EA      O                             2190     28000     46000                                  
+SASIER       G472-       0010BGO  VYD       O                                      09000     23000                                  
+SASIER       G472-       0020PTN  VYD       O                             1044     09000     23000                                  
+SASIER       P762        0070DWI  VYD       O                             1752     28000     46000                                  
+SASIER       A1-L5       0030LIMLAVYEA      O                             0905     08000     27000                                  
+SASIER       R207        0020SISUKVYEA      O                             0815     08000     46000                                  
+SASIER       R207        0030MDY  VYD       O                             1666     21500     46000                                  
+SASIER       G331        0010DWI  VYD       O                                      10000     40000                                  
+SASIER       G331        0020PADET  EA      O                             2461     10000     40000                                  
+SASIER       V15-V       0010KG   VYD       OL                                     11000     26000                                  
+SASIER       V15-V       0020MIA  VYD       OL                            2058     11000     26000                                  
+SASIER       W17-W       0010MIA  VYD       O                                      11000     26000                                  
+SASIER       W17-W       0020MONWRVYEA      O                             0575     11000     26000                                  

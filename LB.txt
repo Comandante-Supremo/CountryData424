@@ -1,0 +1,20 @@
+SMESEAENRT   CEDAR OL           N34171710E036000600                                                                                 
+SMESEAENRT   DAKWE OL           N33385600E035545900                                                                                 
+SMESEAENRT   LEBOR OL           N34155600E036345900                                                                                 
+SMESDB       BOD   OL000351     N33540834E035285286                                                                                 
+SMESDB       BAB   OL000312     N33505628E035285886                                                                                 
+SMESDB       RA    OL000450     N34355636E036045890                                                                                 
+SMESD        KAD   OL011260V    N33482028E035290486                                                                                 
+SMESD        IKK   OL011070 D   N33481860E035291042                                                                                 
+SMESD        IBB   OL011010 D   N33500979E035285284                                                                                 
+SMESD        KAD   OL011260 D   N33482028E035290486                                                                                 
+SMESER       R655        0030CEDAROLEA      O                             0150     10000     46000                                  
+SMESER       R655        0040LEBOROLEA      O                             0289     10000     46000                                  
+SMESER       R655        0050KTN  OSD       O                             0340     13000     60000                                  
+SMESER       N1          0020LEBOROLEA      O                             0259     24000     28000                                  
+SMESER       W201        0020KAD  OLD       O                             0315     01500     28500                                  
+SMESER       W201        0030LITAN  EA      O                             0446     01500     28500                                  
+SMESER       G202-       0010DAKWEOLEA      O                                      09500     46000                                  
+SMESER       G202-       0020KAD  OLD       O                             0235     09500     46000                                  
+SMESER       R219        0010KAD  OLD       O                                      06000     46000                                  
+SMESER       R219        0020KUKLA  EA      O                             0452     06000     46000                                  

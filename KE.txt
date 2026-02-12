@@ -1,0 +1,167 @@
+SAFREAENRT   ALKON HK           S00260956E033580274                                                                                 
+SAFREAENRT   ANTAX HK           N03595710E035241030                                                                                 
+SAFREAENRT   APLOG HK           S01300635E034551580                                                                                 
+SAFREAENRT   AVAGI HK           N04000000E035255758                                                                                 
+SAFREAENRT   AVEDI HK           N04000920E040345010                                                                                 
+SAFREAENRT   AVITU HK           S00075674E038091218                                                                                 
+SAFREAENRT   EKBAD HK           S01253931E035200286                                                                                 
+SAFREAENRT   EKBUL HK           N03594910E036050307                                                                                 
+SAFREAENRT   EPLAS HK           N03594915E034115089                                                                                 
+SAFREAENRT   EPLAV HK           N00024910E0404659100                                                                                
+SAFREAENRT   EPVOK HK           S01030000E0360804100                                                                                
+SAFREAENRT   EVATO HK           S02224313E036275777                                                                                 
+SAFREAENRT   EVOGO HK           S01465910E0394829100                                                                                
+SAFREAENRT   EVUDA HK           S01504910E040130000                                                                                 
+SAFREAENRT   GABSO HK           S02510893E037340308                                                                                 
+SAFREAENRT   GADLA HK           S03424769E038292617                                                                                 
+SAFREAENRT   GITNO HK           S02590890E038393319                                                                                 
+SAFREAENRT   IBROM HK           S00191800E039534800                                                                                 
+SAFREAENRT   IMSAN HK           S02300904E038070314                                                                                 
+SAFREAENRT   KAPAL HK           S01350932E038350320                                                                                 
+SAFREAENRT   KAVAR HK           S02033716E037434610                                                                                 
+SAFREAENRT   KOBAB HK           S00470955E038320321                                                                                 
+SAFREAENRT   LADAN HK           N00594997E035570298                                                                                 
+SAFREAENRT   LOTAS HK           N00594995E036320307                                                                                 
+SAFREAENRT   MC025 HK           S03544399E039394653                                                                                 
+SAFREAENRT   MELMO HK           S00360953E034350280                                                                                 
+SAFREAENRT   MERKU HK           S03315873E037450310                                                                                 
+SAFREAENRT   MIDNI HK           S02565863E039561932                                                                                 
+SAFREAENRT   MOV05 HK           S03523365E039410395                                                                                 
+SAFREAENRT   MOV10 HK           S04053687E039333366                                                                                 
+SAFREAENRT   MOV14 HK           S04090571E039313354                                                                                 
+SAFREAENRT   MOV16 HK           S04105013E039303347                                                                                 
+SAFREAENRT   MOV18 HK           S03551741E039392581                                                                                 
+SAFREAENRT   MOV25 HK           S03544419E039394892                                                                                 
+SAFREAENRT   MOV38 HK           S04001232E039364210                                                                                 
+SAFREAENRT   MOV63 HK           S02534141E039415159                                                                                 
+SAFREAENRT   MOV65 HK           S04023412E039351875                                                                                 
+SAFREAENRT   MOV83 HK           S04001315E039363981                                                                                 
+SAFREAENRT   NAKAT HK           S00500953E035220288                                                                                 
+SAFREAENRT   NV012 HK           S01245464E036472631                                                                                 
+SAFREAENRT   NV055 HK           S01132297E037034780                                                                                 
+SAFREAENRT   ODLAM HK           S00590945E035550293                                                                                 
+SAFREAENRT   OKNES HK           S03350410E0375359100                                                                                
+SAFREAENRT   PARIN HK           S01451632E035212367                                                                                 
+SAFREAENRT   PATAR HK           N02273106E034570000                                                                                 
+SAFREAENRT   R1640 HK           S04004713E039362318                                                                                 
+SAFREAENRT   R1659 HK           S01193934E036545888                                                                                 
+SAFREAENRT   RUDOL HK           N03594906E037250318                                                                                 
+SAFREAENRT   TILUK HK           N00594998E035350294                                                                                 
+SAFREAENRT   UTATA HK           S02410897E037023302                                                                                 
+SAFREAENRT   UTOLI HK           N05022080E035143760                                                                                 
+SAFRDB       TH    HK000329     S01300779E037011452                                                                                 
+SAFRDB       EA    HK000256     S01155417E036520456                                                                                 
+SAFRDB       ELI   HK000373     N00235751E035124578                                                                                 
+SAFRDB       AL    HK000379     S01223390E036550891                                                                                 
+SAFRDB       GA    HK000371     S00250000E0394059100                                                                                
+SAFRDB       LL    HK000364     N00245010E037400310                                                                                 
+SAFRDB       KI    HK000347     S00050426E034440939                                                                                 
+SAFRDB       LW    HK000338     N03062736E0353644100                                                                                
+SAFRDB       ML    HK000309     S03135205E040055983                                                                                 
+SAFRDB       RA    HK000398     S03060880E038300310                                                                                 
+SAFRDB       MR    HK000264     N02210950E037590320                                                                                 
+SAFRDB       MO    HK000267     S04015883E039365475                                                                                 
+SAFRDB       MC    HK000394     S03565480E039383196                                                                                 
+SAFRDB       NO    HK000278     S01215724E036515066                                                                                 
+SAFRDB       NU    HK000358     S00181708E036091925                                                                                 
+SAFRDB       NYK   HK000306     S00040970E0370002100                                                                                
+SAFRDB       NK    HK000368     S01060948E035510287                                                                                 
+SAFRDB       GG    HK000315     S01232537E036381629                                                                                 
+SAFRDB       NY    HK000388     S00230960E0370002100                                                                                
+SAFRDB       SF    HK000304     S00500970E037462310                                                                                 
+SAFRDB       WA    HK000318     N01445267E040033657                                                                                 
+SAFRD        TV    HK011550V    S01301238E037011641                                                                                 
+SAFRD        ELD   HK011470V    N00242396E035135183                                                                                 
+SAFRD        GAR   HK011570V    S00282066E039390032                                                                                 
+SAFRD        KIV   HK011410V    S00054231E034424301                                                                                 
+SAFRD        LOV   HK011450V    N03062610E035364586                                                                                 
+SAFRD        MLD   HK011330V    S03140073E040060939                                                                                 
+SAFRD        MOV   HK011230V    S03565473E039383388                                                                                 
+SAFRD        NV    HK011310V    S01175965E036571522                                                                                 
+SAFRD        NAK   HK011510V    S00181710E036091220                                                                                 
+SAFRD        GV    HK011590V    S01234773E036381659                                                                                 
+SAFRD        WAV   HK011250V    N01444853E040045673                                                                                 
+SAFRD        IMI   HK011010 D   S04005465E039361350                                                                                 
+SAFRD        ELD   HK011470 D   N00242396E035135183                                                                                 
+SAFRD        GAR   HK011570 D   S00282066E039390032                                                                                 
+SAFRD        KIV   HK011410 D   S00054231E034424301                                                                                 
+SAFRD        LOV   HK011450 D   N03062610E035364586                                                                                 
+SAFRD        MLD   HK011330 D   S03140073E040060939                                                                                 
+SAFRD        MOV   HK011230 D   S03565473E039383388                                                                                 
+SAFRD        NV    HK011310 D   S01175965E036571522                                                                                 
+SAFRD        NAK   HK011510 D   S00181710E036091220                                                                                 
+SAFRD        GV    HK011590 D   S01234773E036381659                                                                                 
+SAFRD        WAV   HK011250 D   N01444853E040045673                                                                                 
+SAFRER       B612F       0050EPLASHKEA      O                             1255     11500     24500                                  
+SAFRER       UR409       0010EVATOHKEA      O                                      14500     60000                                  
+SAFRER       UR409       0020NV   HKD       O                             0711     14500     60000                                  
+SAFRER       UB533       0040OKNESHKEA      O                             0144     21500     60000                                  
+SAFRER       UB533       0050GABSOHKEA      O                             0483     21500     60000                                  
+SAFRER       UB533       0060NV   HKD       O                             1002     21500     60000                                  
+SAFRER       A610        0010MOV  HKD       O                                      11500     24500                                  
+SAFRER       A610        0020GADLAHKEA      O                             0705     11500     24500                                  
+SAFRER       A610        0030OKNESHKEA      O                             0362     11500     24500                                  
+SAFRER       A610        0040MERKUHKEA      O                             0095     11500     24500                                  
+SAFRER       A610        0050KV   HTD       O                             0391     11500     24500                                  
+SAFRER       A609        0090MOV  HKD       O                                      06500     14500                                  
+SAFRER       A609        0100GITNOHKEA      O                             0826     08500     14500                                  
+SAFRER       A609        0110KAVARHKEA      O                             0787     08500     14500                                  
+SAFRER       A609        0120NV   HKD       O                             0652     08500     14500                                  
+SAFRER       A609        0130ODLAMHKEA      O                             0650     11500     14500                                  
+SAFRER       A609        0140MELMOHKEA      O                             0833     11500     14500                                  
+SAFRER       UG657       0100EPLAVHKEA      O                             0585     24500     60000                                  
+SAFRER       UG657       0110EVUDAHKEA      O                             1187     24500     60000                                  
+SAFRER       UG657       0120MIDNIHKEA      O                             0683     24500     60000                                  
+SAFRER       UG657       0130MOV  HKD       O                             0625     24500     60000                                  
+SAFRER       UA408       0130EKBULHKEA      O                             1955     24500     66000                                  
+SAFRER       UA408       0140LOV  HKD       O                             0604     14500     60000                                  
+SAFRER       UA408       0150PATARHKEA      O                             0557     14500     60000                                  
+SAFRER       UA408       0160NABROHUEA      O                             0566     15000     60000                                  
+SAFRER       UG450       0070PARINHKEA      O                             0225     24500     60000                                  
+SAFRER       UG450       0080NV   HKD       O                             0997     24500     60000                                  
+SAFRER       UG450       0090KOBABHKEA      O                             0997     24500     60000                                  
+SAFRER       UG450       0100GAR  HKD       O                             0696     24500     60000                                  
+SAFRER       UG450       0110IBROMHKEA      O                             0174     24500     60000                                  
+SAFRER       UB532       0060EKBADHKEA      O                                      24500     60000                                  
+SAFRER       UB532       0070NV   HKD       O                             0975     24500     60000                                  
+SAFRER       UA405       0170WAV  HKD       O                             1696     24500     60000                                  
+SAFRER       UG658       0080EVUDAHKEA      O                             0755     24500     60000                                  
+SAFRER       UG658       0090EVOGOHKEA      O                             0248     24500     60000                                  
+SAFRER       UG658       0100KAPALHKEA      O                             0744     24500     60000                                  
+SAFRER       UG658       0110NV   HKD       O                             0993     24500     60000                                  
+SAFRER       UB612       0050EPLASHKEA      O                             1255     24500     60000                                  
+SAFRER       UA610       0080MERKUHKEA      O                             0391     24500     60000                                  
+SAFRER       UA610       0090OKNESHKEA      O                             0095     24500     60000                                  
+SAFRER       UA610       0100GADLAHKEA      O                             0362     24500     60000                                  
+SAFRER       UA610       0110MOV  HKD       O                             0705     24500     60000                                  
+SAFRER       UA610       0120MOBAT  EA      O                             0381     14500     60000                                  
+SAFRER       UB612       0010EPLASHKEA      O                                      24500     60000                                  
+SAFRER       UB612       0020PATARHKEA      O                             1028     24500     60000                                  
+SAFRER       UB612       0030TILUKHKEA      O                             0956     24500     60000                                  
+SAFRER       UB612       0040NAK  HKD       O                             0853     24500     60000                                  
+SAFRER       UA609       0010NV   HKD       O                                      14500     60000                                  
+SAFRER       UA609       0020EPVOKHKEA      O                             0514     14500     60000                                  
+SAFRER       UA609       0030NAKATHKEA      O                             0478     14500     60000                                  
+SAFRER       UA609       0040MELMOHKEA      O                             0491     14500     60000                                  
+SAFRER       UA609       0160IMSANHKEA      O                                      14500     60000                                  
+SAFRER       UA609       0170GITNOHKEA      O                             0436     14500     60000                                  
+SAFRER       UA609       0180MOV  HKD       O                             0826     14500     60000                                  
+SAFRER       UA609       0190MOKAD  EA      O                             0457     14500     60000                                  
+SAFRER       UA405       0020EVATOHKEA      O                             0498     24500     60000                                  
+SAFRER       UA405       0030NV   HKD       O                             0711     14500     60000                                  
+SAFRER       UR611       0010IBROMHKEA      O                                      24500     60000                                  
+SAFRER       UR611       0020EVOGOHKEA      O                             0879     24500     60000                                  
+SAFRER       UR611       0030MOV63HKEA      O                             0671     24500     60000                                  
+SAFRER       UR611       0040MOV  HKD       O                             0634     24500     60000                                  
+SAFRER       UA727       0050UTATAHKEA      O                             0447     24500     60000                                  
+SAFRER       UA727       0060NV   HKD       O                             0834     14500     60000                                  
+SAFRER       UA727       0070LOV  HKD       O                                      14500     60000                                  
+SAFRER       UA727       0080LADANHKEA      O                             1283     14500     60000                                  
+SAFRER       UA727       0090NAK  HKD       O                             0791     14500     60000                                  
+SAFRER       UG650       0010NAK  HKD       O                                      14500     60000                                  
+SAFRER       UG650       0020LOTASHKEA      O                             0814     14500     60000                                  
+SAFRER       UG650       0030RUDOLHKEA      O                             1877     14500     60000                                  
+SAFRER       UA407       0010MOV  HKD       O                                      24500     60000                                  
+SAFRER       UA407       0020UVUKO  EA      O                             0460     24500     60000                                  
+SAFRER       UA727       0010NAK  HKD       O                                      14500     60000                                  
+SAFRER       UA727       0020NV   HKD       O                             0767     14500     60000                                  

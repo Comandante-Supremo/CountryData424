@@ -1,0 +1,1160 @@
+SEUREAENRT   ABAKU EP           N51403610E019045300                                                                                 
+SEUREAENRT   ABAPA EP           N52003510E0211139100                                                                                
+SEUREAENRT   ABERO EP           N52134110E0231229100                                                                                
+SEUREAENRT   ABEXA EP           N51361610E020551800                                                                                 
+SEUREAENRT   ABIGO EP           N54163210E0175744100                                                                                
+SEUREAENRT   ABSEL EP           N51553620E020313180                                                                                 
+SEUREAENRT   ADIKA EP           N51321710E0211945100                                                                                
+SEUREAENRT   ADINI EP           N52003330E021152260                                                                                 
+SEUREAENRT   ADOKI EP           N49560810E0203844100                                                                                
+SEUREAENRT   AGALU EP           N51281700E017230800                                                                                 
+SEUREAENRT   AGARA EP           N51242800E0172738100                                                                                
+SEUREAENRT   AGAVA EP           N51345310E019573870                                                                                 
+SEUREAENRT   AGESI EP           N52195300E020420580                                                                                 
+SEUREAENRT   ALUKA EP           N52535459E014182007                                                                                 
+SEUREAENRT   AMLAS EP           N52094600E020390130                                                                                 
+SEUREAENRT   AMSOS EP           N51333960E020414420                                                                                 
+SEUREAENRT   AMUTO EP           N52195910E0185644100                                                                                
+SEUREAENRT   ANABO EP           N52365900E016203900                                                                                 
+SEUREAENRT   ANEPI EP           N52005768E020335679                                                                                 
+SEUREAENRT   APTAS EP           N50544100E0174144100                                                                                
+SEUREAENRT   ARDAG EP           N51170310E020413800                                                                                 
+SEUREAENRT   ARMEX EP           N51294400E017072600                                                                                 
+SEUREAENRT   ARSEL EP           N51473110E019272000                                                                                 
+SEUREAENRT   ARSOG EP           N49592600E0224158100                                                                                
+SEUREAENRT   ASLUX EP           N52191400E022093800                                                                                 
+SEUREAENRT   ATGAN EP           N52045110E0211319100                                                                                
+SEUREAENRT   BABKO EP           N49364200E0192809100                                                                                
+SEUREAENRT   BADEX EP           N50423810E0200633100                                                                                
+SEUREAENRT   BADNO EP           N51450000E0174041100                                                                                
+SEUREAENRT   BADUP EP           N52033300E0172515100                                                                                
+SEUREAENRT   BADUX EP           N52211400E020062800                                                                                 
+SEUREAENRT   BAGAP EP           N51360000E019454200                                                                                 
+SEUREAENRT   BAGAV EP           N51364200E019452000                                                                                 
+SEUREAENRT   BAKOM EP           N49562500E0195157100                                                                                
+SEUREAENRT   BALBA EP           N50514200E0230123100                                                                                
+SEUREAENRT   BALOS EP           N50163200E0193929100                                                                                
+SEUREAENRT   BAMSO EP           N52200910E021543450                                                                                 
+SEUREAENRT   BANET EP           N50215900E018554500                                                                                 
+SEUREAENRT   BANUN EP           N51104100E016253600                                                                                 
+SEUREAENRT   BAPAS EP           N52104210E0153110100                                                                                
+SEUREAENRT   BAREK EP           N52110810E0210231100                                                                                
+SEUREAENRT   BAREP EP           N52161510E0153351100                                                                                
+SEUREAENRT   BAREX EP           N50533910E0184417100                                                                                
+SEUREAENRT   BARNA EP           N51484740E021071340                                                                                 
+SEUREAENRT   BASEK EP           N52104620E0203523100                                                                                
+SEUREAENRT   BAXIS EP           N51483010E018515000                                                                                 
+SEUREAENRT   BEBAL EP           N53155500E018195900                                                                                 
+SEUREAENRT   BEDAM EP           N53442210E0151131100                                                                                
+SEUREAENRT   BEDUN EP           N50310400E018240500                                                                                 
+SEUREAENRT   BEMRA EP           N51495070E020575860                                                                                 
+SEUREAENRT   BENEK EP           N51340500E015244600                                                                                 
+SEUREAENRT   BESAL EP           N50593510E019350700                                                                                 
+SEUREAENRT   BESOT EP           N52551800E0225639100                                                                                
+SEUREAENRT   BESTO EP           N51434710E017235600                                                                                 
+SEUREAENRT   BEXON EP           N52072330E021092780                                                                                 
+SEUREAENRT   BIBKA EP           N53112610E0185717100                                                                                
+SEUREAENRT   BIMPA EP           N52222780E0194628100                                                                                
+SEUREAENRT   BINKA EP           N53453169E014162799                                                                                 
+SEUREAENRT   BODLA EP           N53163210E014243600                                                                                 
+SEUREAENRT   BUDIR EP           N51225900E016564400                                                                                 
+SEUREAENRT   BULEP EP           N52461510E022250800                                                                                 
+SEUREAENRT   BUNIX EP           N51525410E017211100                                                                                 
+SEUREAENRT   BURAN EP           N54104900E0170146100                                                                                
+SEUREAENRT   DEDOL EP           N51231600E0202135100                                                                                
+SEUREAENRT   DEKUT EP           N53065710E017020700                                                                                 
+SEUREAENRT   DELIR EP           N53045000E0170648100                                                                                
+SEUREAENRT   DEMIN EP           N50000600E0213039100                                                                                
+SEUREAENRT   DEMUR EP           N54044710E015002800                                                                                 
+SEUREAENRT   DERAM EP           N51504810E0191650100                                                                                
+SEUREAENRT   DETOR EP           N52015410E021365900                                                                                 
+SEUREAENRT   DEXIR EP           N54132700E017265600                                                                                 
+SEUREAENRT   DIDUM EP           N52105800E0144315100                                                                                
+SEUREAENRT   DIMEX EP           N51375000E0160742100                                                                                
+SEUREAENRT   DIMOR EP           N51595220E021272400                                                                                 
+SEUREAENRT   DINOV EP           N50554210E016050800                                                                                 
+SEUREAENRT   DINRI EP           N52260190E020341880                                                                                 
+SEUREAENRT   DINVA EP           N52134720E021035370                                                                                 
+SEUREAENRT   DIPKI EP           N52121000E017274600                                                                                 
+SEUREAENRT   DODAN EP           N53211000E0152537100                                                                                
+SEUREAENRT   DODEK EP           N52232500E019401800                                                                                 
+SEUREAENRT   DODER EP           N51121210E016333200                                                                                 
+SEUREAENRT   DOREM EP           N52120100E0172612100                                                                                
+SEUREAENRT   DOSAL EP           N53235410E0152331100                                                                                
+SEUREAENRT   EBIMA EP           N53173900E022554500                                                                                 
+SEUREAENRT   EBOGU EP           N53224400E0180858100                                                                                
+SEUREAENRT   EDAXU EP           N50004710E022340800                                                                                 
+SEUREAENRT   EDULO EP           N52240900E0204113100                                                                                
+SEUREAENRT   EGLON EP           N51250000E0215904100                                                                                
+SEUREAENRT   EKSEK EP           N51074110E0153638100                                                                                
+SEUREAENRT   ELGAD EP           N52295690E020333780                                                                                 
+SEUREAENRT   ELGEL EP           N52262220E020525130                                                                                 
+SEUREAENRT   ELKAR EP           N53415310E020300000                                                                                 
+SEUREAENRT   ELKIR EP           N51342570E020151430                                                                                 
+SEUREAENRT   EMKEN EP           N51581510E021195450                                                                                 
+SEUREAENRT   ENIMO EP           N51553410E021291700                                                                                 
+SEUREAENRT   EREDA EP           N51505410E0203803100                                                                                
+SEUREAENRT   ERGON EP           N52542110E014092400                                                                                 
+SEUREAENRT   ERNAP EP           N50262710E020085200                                                                                 
+SEUREAENRT   EROBI EP           N51555070E0210106100                                                                                
+SEUREAENRT   ESINI EP           N51401880E020482310                                                                                 
+SEUREAENRT   ETUBO EP           N52280900E0225744100                                                                                
+SEUREAENRT   EVDEX EP           N51564650E020264060                                                                                 
+SEUREAENRT   GAGRO EP           N51195010E0171328100                                                                                
+SEUREAENRT   GALBU EP           N50383210E0180454100                                                                                
+SEUREAENRT   GAMRO EP           N49561210E0204623100                                                                                
+SEUREAENRT   GANPI EP           N52152110E020282100                                                                                 
+SEUREAENRT   GAVLO EP           N53520800E0184615100                                                                                
+SEUREAENRT   GDA08 EP           N54220260E018302289                                                                                 
+SEUREAENRT   GDA09 EP           N54191677E018410103                                                                                 
+SEUREAENRT   GDA35 EP           N54220400E018301487                                                                                 
+SEUREAENRT   GDA38 EP           N54205137E018350535                                                                                 
+SEUREAENRT   GERVI EP           N52091940E022120280                                                                                 
+SEUREAENRT   GIGAL EP           N51044210E0162930100                                                                                
+SEUREAENRT   GIGSA EP           N54075110E018200300                                                                                 
+SEUREAENRT   GILAL EP           N52013650E020325240                                                                                 
+SEUREAENRT   GILAS EP           N52375400E0143132100                                                                                
+SEUREAENRT   GIMBU EP           N49540200E0223754100                                                                                
+SEUREAENRT   GIMKU EP           N52295320E020494500                                                                                 
+SEUREAENRT   GINOK EP           N52313500E016284400                                                                                 
+SEUREAENRT   GIPOS EP           N51415310E019423600                                                                                 
+SEUREAENRT   GIPUL EP           N51392620E020573380                                                                                 
+SEUREAENRT   GIRLU EP           N50332910E0194038100                                                                                
+SEUREAENRT   GIXOL EP           N49494500E0192106100                                                                                
+SEUREAENRT   GODLO EP           N51001400E016301500                                                                                 
+SEUREAENRT   GOKAR EP           N54123010E0184538100                                                                                
+SEUREAENRT   GOLOK EP           N53234810E016312200                                                                                 
+SEUREAENRT   GOMEX EP           N53440310E015143400                                                                                 
+SEUREAENRT   GOMOR EP           N51105910E0173701100                                                                                
+SEUREAENRT   GOMSA EP           N52172280E0201847100                                                                                
+SEUREAENRT   GONTU EP           N53294400E0191906100                                                                                
+SEUREAENRT   GORUK EP           N52181610E020395100                                                                                 
+SEUREAENRT   GOSAK EP           N50332800E0201815100                                                                                
+SEUREAENRT   GOSET EP           N52141520E020423570                                                                                 
+SEUREAENRT   GOVEN EP           N52033000E0144519100                                                                                
+SEUREAENRT   GULPO EP           N51421400E019075700                                                                                 
+SEUREAENRT   IBARA EP           N51565710E0192631100                                                                                
+SEUREAENRT   IBEKA EP           N50014000E018563000                                                                                 
+SEUREAENRT   IDAKO EP           N52421510E0201941100                                                                                
+SEUREAENRT   IDEXU EP           N52414910E0170209100                                                                                
+SEUREAENRT   IKAMU EP           N52281910E0205430100                                                                                
+SEUREAENRT   INDIG EP           N51594800E018000000                                                                                 
+SEUREAENRT   INLUT EP           N52230910E020301240                                                                                 
+SEUREAENRT   INPAL EP           N52025700E021414540                                                                                 
+SEUREAENRT   INRAS EP           N52295630E020473180                                                                                 
+SEUREAENRT   INREN EP           N52153520E020175320                                                                                 
+SEUREAENRT   INSEX EP           N51374920E020562410                                                                                 
+SEUREAENRT   INSON EP           N52294810E020572900                                                                                 
+SEUREAENRT   IPLOR EP           N52171750E020113820                                                                                 
+SEUREAENRT   IPSIM EP           N52100210E021281800                                                                                 
+SEUREAENRT   IRGET EP           N53401010E0143652100                                                                                
+SEUREAENRT   KALIT EP           N53173010E015590300                                                                                 
+SEUREAENRT   KEKOR EP           N51554110E0213441100                                                                                
+SEUREAENRT   KEKUS EP           N50170510E0183508100                                                                                
+SEUREAENRT   KELOD EP           N52140200E0155259100                                                                                
+SEUREAENRT   KEMUM EP           N54290410E017282300                                                                                 
+SEUREAENRT   KODUL EP           N52195010E0200736100                                                                                
+SEUREAENRT   KONAM EP           N52140800E0204300100                                                                                
+SEUREAENRT   KOPIS EP           N54255900E0180625100                                                                                
+SEUREAENRT   KORUP EP           N51345900E014441700                                                                                 
+SEUREAENRT   KOSUP EP           N51502600E019195300                                                                                 
+SEUREAENRT   KOTEK EP           N52040300E0203700100                                                                                
+SEUREAENRT   KOZEN EP           N51344210E0213006100                                                                                
+SEUREAENRT   KRASI EP           N51014800E0220118100                                                                                
+SEUREAENRT   KRT19 EP           N54161490E018445731                                                                                 
+SEUREAENRT   KRT91 EP           N54165939E018424967                                                                                 
+SEUREAENRT   KRW08 EP           N50045406E019485670                                                                                 
+SEUREAENRT   KRW09 EP           N50063933E020024570                                                                                 
+SEUREAENRT   KRW38 EP           N50053390E019533026                                                                                 
+SEUREAENRT   KRW58 EP           N50055931E019563238                                                                                 
+SEUREAENRT   KRW99 EP           N50091832E020012362                                                                                 
+SEUREAENRT   KUBUK EP           N50161300E022135300                                                                                 
+SEUREAENRT   KUKAM EP           N50482110E020033800                                                                                 
+SEUREAENRT   KUKOP EP           N52085200E020243800                                                                                 
+SEUREAENRT   KUKOV EP           N52062400E020191300                                                                                 
+SEUREAENRT   KULEK EP           N53331000E020300000                                                                                 
+SEUREAENRT   KULUV EP           N51385200E016202100                                                                                 
+SEUREAENRT   KUMUT EP           N51571520E021232430                                                                                 
+SEUREAENRT   KURET EP           N52014110E016540100                                                                                 
+SEUREAENRT   KURON EP           N50375400E020085300                                                                                 
+SEUREAENRT   KUSUL EP           N51024700E017040900                                                                                 
+SEUREAENRT   KUTEV EP           N52125210E0205527100                                                                                
+SEUREAENRT   KUVAM EP           N51434870E020562860                                                                                 
+SEUREAENRT   LALKI EP           N49584510E0224006100                                                                                
+SEUREAENRT   LAMID EP           N52183810E020430400                                                                                 
+SEUREAENRT   LANPA EP           N52180500E0211233100                                                                                
+SEUREAENRT   LASGU EP           N53123910E0191037100                                                                                
+SEUREAENRT   LASIS EP           N51242410E014574200                                                                                 
+SEUREAENRT   LASKU EP           N52024800E0210414100                                                                                
+SEUREAENRT   LATAG EP           N51431800E015444800                                                                                 
+SEUREAENRT   LAVMO EP           N52125710E0204601100                                                                                
+SEUREAENRT   LAW08 EP           N52264047E017040187                                                                                 
+SEUREAENRT   LEBRO EP           N52110600E021014920                                                                                 
+SEUREAENRT   LEMBU EP           N51532920E021212740                                                                                 
+SEUREAENRT   LIMKO EP           N54023000E021300000                                                                                 
+SEUREAENRT   LIMVI EP           N51444110E021410800                                                                                 
+SEUREAENRT   LISKU EP           N53124700E0191153100                                                                                
+SEUREAENRT   LITVO EP           N52002890E0210615100                                                                                
+SEUREAENRT   LODNI EP           N53441210E0183728100                                                                                
+SEUREAENRT   LOGDA EP           N51170310E020413800                                                                                 
+SEUREAENRT   LOLKO EP           N51413300E015560600                                                                                 
+SEUREAENRT   LOLSI EP           N52103890E019521700                                                                                 
+SEUREAENRT   LUBEN EP           N51132700E0195726100                                                                                
+SEUREAENRT   LUGEL EP           N52122450E020292810                                                                                 
+SEUREAENRT   LUGUR EP           N52022900E0164659100                                                                                
+SEUREAENRT   LUKOR EP           N50351200E0201215100                                                                                
+SEUREAENRT   LUMOK EP           N52143900E019530600                                                                                 
+SEUREAENRT   LUPUX EP           N50200910E019011800                                                                                 
+SEUREAENRT   LURAD EP           N50113010E0183427100                                                                                
+SEUREAENRT   LUXAR EP           N49554710E021103100                                                                                 
+SEUREAENRT   LUXIB EP           N52213700E020382980                                                                                 
+SEUREAENRT   MAGAN EP           N52510000E017370000                                                                                 
+SEUREAENRT   MAKOV EP           N51085700E0190642100                                                                                
+SEUREAENRT   MAKUS EP           N52091000E0203002100                                                                                
+SEUREAENRT   MAMAB EP           N52244730E020241400                                                                                 
+SEUREAENRT   MAPEX EP           N53422110E0170012100                                                                                
+SEUREAENRT   MAPIK EP           N50313310E0181450100                                                                                
+SEUREAENRT   MAPIX EP           N51585560E021173300                                                                                 
+SEUREAENRT   MARAM EP           N51004310E015104100                                                                                 
+SEUREAENRT   MARIA EP           N51392010E021254000                                                                                 
+SEUREAENRT   MARUP EP           N52180620E020413650                                                                                 
+SEUREAENRT   MASAK EP           N52000200E0210638100                                                                                
+SEUREAENRT   MASOV EP           N52124410E020550400                                                                                 
+SEUREAENRT   MASUN EP           N53381200E015163600                                                                                 
+SEUREAENRT   MATEM EP           N52050789E0203945100                                                                                
+SEUREAENRT   MAXAM EP           N49582410E021224400                                                                                 
+SEUREAENRT   MEBAN EP           N49271710E019384800                                                                                 
+SEUREAENRT   MEDUR EP           N52163180E020590300                                                                                 
+SEUREAENRT   MIGVI EP           N52242240E020534740                                                                                 
+SEUREAENRT   MIRVO EP           N53231700E0155514100                                                                                
+SEUREAENRT   MISKA EP           N51110810E0165603100                                                                                
+SEUREAENRT   MIXAT EP           N51291710E018002900                                                                                 
+SEUREAENRT   MOKOS EP           N50302510E0192121100                                                                                
+SEUREAENRT   MOLIL EP           N52353110E018000000                                                                                 
+SEUREAENRT   MORIB EP           N52180310E0201226100                                                                                
+SEUREAENRT   MOSIR EP           N50122410E0224629100                                                                                
+SEUREAENRT   MYSKO EP           N50321100E0191645100                                                                                
+SEUREAENRT   NAKER EP           N51294810E021344900                                                                                 
+SEUREAENRT   NANOM EP           N52250760E020352260                                                                                 
+SEUREAENRT   NANUK EP           N51002510E017332400                                                                                 
+SEUREAENRT   NAPAD EP           N53063810E0173213100                                                                                
+SEUREAENRT   NAPIS EP           N52081920E021031380                                                                                 
+SEUREAENRT   NAROX EP           N51121100E015003800                                                                                 
+SEUREAENRT   NASOK EP           N53053010E019002300                                                                                 
+SEUREAENRT   NATIX EP           N49553600E0212300100                                                                                
+SEUREAENRT   NAVUR EP           N51004700E0195439100                                                                                
+SEUREAENRT   NAXAR EP           N49453800E019484500                                                                                 
+SEUREAENRT   NEDNA EP           N52102990E021064560                                                                                 
+SEUREAENRT   NEGEN EP           N51521870E021041080                                                                                 
+SEUREAENRT   NELPA EP           N52140700E0204225100                                                                                
+SEUREAENRT   NEPOX EP           N52093300E021595710                                                                                 
+SEUREAENRT   NEREK EP           N53084010E0182819100                                                                                
+SEUREAENRT   NERKI EP           N50543410E0172331100                                                                                
+SEUREAENRT   NETIR EP           N49414010E018423200                                                                                 
+SEUREAENRT   NETOP EP           N53325410E0153015100                                                                                
+SEUREAENRT   NIDAS EP           N51414265E020580706                                                                                 
+SEUREAENRT   NIMIS EP           N52152970E020574460                                                                                 
+SEUREAENRT   NIPUS EP           N51391080E020235980                                                                                 
+SEUREAENRT   NITKI EP           N51565610E020342030                                                                                 
+SEUREAENRT   NOMIX EP           N49562310E018584500                                                                                 
+SEUREAENRT   NOSKU EP           N51100610E015521700                                                                                 
+SEUREAENRT   NUDRO EP           N51095500E017193200                                                                                 
+SEUREAENRT   NUMBA EP           N50223200E0180630100                                                                                
+SEUREAENRT   NUTSO EP           N51495750E021242880                                                                                 
+SEUREAENRT   OBALU EP           N50423810E0200633100                                                                                
+SEUREAENRT   OBEGO EP           N52213310E019543800                                                                                 
+SEUREAENRT   OBOKU EP           N52150710E018000000                                                                                 
+SEUREAENRT   OBOLA EP           N52114157E016120732                                                                                 
+SEUREAENRT   ODLOT EP           N53294510E017241400                                                                                 
+SEUREAENRT   ODMEK EP           N52090360E021203620                                                                                 
+SEUREAENRT   ODRAP EP           N49443010E0215027100                                                                                
+SEUREAENRT   ODRIM EP           N52094040E021182670                                                                                 
+SEUREAENRT   ODVOK EP           N49483800E0202004100                                                                                
+SEUREAENRT   OGRUD EP           N53381100E0165909100                                                                                
+SEUREAENRT   OKE01 EP           N52111199E020565627                                                                                 
+SEUREAENRT   OKE06 EP           N52171667E020524587                                                                                 
+SEUREAENRT   OKE08 EP           N52094765E020584421                                                                                 
+SEUREAENRT   OKE13 EP           N52015109E021053726                                                                                 
+SEUREAENRT   OKE14 EP           N52025793E021182289                                                                                 
+SEUREAENRT   OKE22 EP           N52105468E020541366                                                                                 
+SEUREAENRT   OKE24 EP           N52144748E020542785                                                                                 
+SEUREAENRT   OKE26 EP           N52013016E021160166                                                                                 
+SEUREAENRT   OKE27 EP           N52085184E021012568                                                                                 
+SEUREAENRT   OKE30 EP           N52254261E020465850                                                                                 
+SEUREAENRT   OKE32 EP           N52230520E020484683                                                                                 
+SEUREAENRT   OKE49 EP           N52055860E021013958                                                                                 
+SEUREAENRT   OKE62 EP           N52081777E020592556                                                                                 
+SEUREAENRT   OKE67 EP           N52125286E020450127                                                                                 
+SEUREAENRT   OKE75 EP           N52054357E021102823                                                                                 
+SEUREAENRT   OKENO EP           N51341010E018353800                                                                                 
+SEUREAENRT   OKLON EP           N49562600E0194848100                                                                                
+SEUREAENRT   OKTAS EP           N50195510E018202000                                                                                 
+SEUREAENRT   OKTOR EP           N50353010E019532900                                                                                 
+SEUREAENRT   OL021 EP           N53344013E014545642                                                                                 
+SEUREAENRT   OLGER EP           N52303910E020233400                                                                                 
+SEUREAENRT   OLILA EP           N52421510E0201941100                                                                                
+SEUREAENRT   OLKIN EP           N53460900E020300000                                                                                 
+SEUREAENRT   OLOKU EP           N52010060E020582530                                                                                 
+SEUREAENRT   OLUMA EP           N51534800E0154521100                                                                                
+SEUREAENRT   OMAVA EP           N51230200E021411700                                                                                 
+SEUREAENRT   OMELA EP           N52272520E020532520                                                                                 
+SEUREAENRT   OSKUD EP           N53430300E0194542100                                                                                
+SEUREAENRT   OSMAT EP           N50143400E023024400                                                                                 
+SEUREAENRT   OSTAT EP           N52034210E0172345100                                                                                
+SEUREAENRT   OSTET EP           N51504870E020563380                                                                                 
+SEUREAENRT   PEKOT EP           N50231710E0172635100                                                                                
+SEUREAENRT   PEPEN EP           N51543200E020232500                                                                                 
+SEUREAENRT   PESEL EP           N53302800E0141932100                                                                                
+SEUREAENRT   PETEL EP           N51513246E020401781                                                                                 
+SEUREAENRT   PEVUM EP           N52183310E0183926100                                                                                
+SEUREAENRT   PIBAR EP           N52140220E020233270                                                                                 
+SEUREAENRT   PIGAT EP           N50162710E0214024100                                                                                
+SEUREAENRT   PISEN EP           N52100280E021173430                                                                                 
+SEUREAENRT   PITOL EP           N50150000E021374900                                                                                 
+SEUREAENRT   PIVIP EP           N51594430E020444960                                                                                 
+SEUREAENRT   PIXOR EP           N53171810E015283500                                                                                 
+SEUREAENRT   PIXUN EP           N51050800E016343200                                                                                 
+SEUREAENRT   POBOK EP           N50345900E020130800                                                                                 
+SEUREAENRT   POGAD EP           N52203910E020125500                                                                                 
+SEUREAENRT   POZ09 EP           N52245004E016513996                                                                                 
+SEUREAENRT   POZ26 EP           N52241878E016541666                                                                                 
+SEUREAENRT   POZ63 EP           N52230816E017000000                                                                                 
+SEUREAENRT   R1294 EP           N53343856E014545928                                                                                 
+SEUREAENRT   R1850 EP           N54221656E018293018                                                                                 
+SEUREAENRT   R1851 EP           N51055626E016535265                                                                                 
+SEUREAENRT   R1852 EP           N52250549E016502764                                                                                 
+SEUREAENRT   R1853 EP           N52101731E020564817                                                                                 
+SEUREAENRT   R1854 EP           N52085771E020585318                                                                                 
+SEUREAENRT   R1855 EP           N50044725E019475873                                                                                 
+SEUREAENRT   RASUT EP           N51084400E016153300                                                                                 
+SEUREAENRT   REBSO EP           N52161510E021014370                                                                                 
+SEUREAENRT   REDLU EP           N52140700E0204225100                                                                                
+SEUREAENRT   REDMO EP           N53063810E0173213100                                                                                
+SEUREAENRT   REDSA EP           N52154010E020173530                                                                                 
+SEUREAENRT   REGLI EP           N50014900E017594400                                                                                 
+SEUREAENRT   REMDI EP           N52175690E020490120                                                                                 
+SEUREAENRT   REMPA EP           N52360200E020001500                                                                                 
+SEUREAENRT   RIKNO EP           N52061890E021301310                                                                                 
+SEUREAENRT   RILAB EP           N50455500E0214811100                                                                                
+SEUREAENRT   RILET EP           N51542240E021384850                                                                                 
+SEUREAENRT   RILSU EP           N52152660E020435760                                                                                 
+SEUREAENRT   RINAM EP           N49593900E0192106100                                                                                
+SEUREAENRT   RIPOT EP           N53280110E0150745100                                                                                
+SEUREAENRT   RODAK EP           N50362300E020094600                                                                                 
+SEUREAENRT   ROGAL EP           N50591210E019290800                                                                                 
+SEUREAENRT   ROKED EP           N50164400E018061900                                                                                 
+SEUREAENRT   ROLKA EP           N50241380E023492541                                                                                 
+SEUREAENRT   ROLOM EP           N54282200E0180432100                                                                                
+SEUREAENRT   RONEX EP           N52552010E016133100                                                                                 
+SEUREAENRT   RONIR EP           N52283710E020321500                                                                                 
+SEUREAENRT   ROPIK EP           N51270200E016103600                                                                                 
+SEUREAENRT   ROPUX EP           N52133110E021365620                                                                                 
+SEUREAENRT   ROTOL EP           N50575610E0161726100                                                                                
+SEUREAENRT   ROVEK EP           N53224400E014525400                                                                                 
+SEUREAENRT   RUNIN EP           N52261820E020465070                                                                                 
+SEUREAENRT   RUTUK EP           N51350800E0220727100                                                                                
+SEUREAENRT   SABAB EP           N50461300E017535700                                                                                 
+SEUREAENRT   SISLU EP           N51570090E021182550                                                                                 
+SEUREAENRT   SKAVI EP           N49562500E0195359100                                                                                
+SEUREAENRT   SOMBO EP           N52000120E0212805100                                                                                
+SEUREAENRT   SOMOR EP           N53133610E019210100                                                                                 
+SEUREAENRT   SOMOX EP           N51280500E022263500                                                                                 
+SEUREAENRT   SONEV EP           N52112210E016175200                                                                                 
+SEUREAENRT   SONUS EP           N50202100E0200549100                                                                                
+SEUREAENRT   SOPAM EP           N52275990E020404280                                                                                 
+SEUREAENRT   SOPEL EP           N52013210E020505200                                                                                 
+SEUREAENRT   SOPIK EP           N54181100E018452900                                                                                 
+SEUREAENRT   SORIX EP           N52414300E019491200                                                                                 
+SEUREAENRT   SOROT EP           N51564810E020563830                                                                                 
+SEUREAENRT   SOSIK EP           N52093410E016294200                                                                                 
+SEUREAENRT   SOSIN EP           N52072380E020473190                                                                                 
+SEUREAENRT   SOVAM EP           N51262100E016430500                                                                                 
+SEUREAENRT   SOXER EP           N52023780E019560590                                                                                 
+SEUREAENRT   SUBAX EP           N51515610E019073000                                                                                 
+SEUREAENRT   SUBEG EP           N52225130E020555700                                                                                 
+SEUREAENRT   SUDOL EP           N50391110E018244200                                                                                 
+SEUREAENRT   SUPAK EP           N49181210E0194758100                                                                                
+SEUREAENRT   SUPID EP           N52132310E021444020                                                                                 
+SEUREAENRT   SUPUT EP           N50593510E0171423100                                                                                
+SEUREAENRT   SURIM EP           N52005450E020314140                                                                                 
+SEUREAENRT   SUROD EP           N54372410E0165415100                                                                                
+SEUREAENRT   SUTOR EP           N53233010E016091000                                                                                 
+SEUREAENRT   SUVEK EP           N50190500E022403000                                                                                 
+SEUREAENRT   SZC08 EP           N53341427E014554775                                                                                 
+SEUREAENRT   SZC28 EP           N53270716E015013036                                                                                 
+SEUREAENRT   SZC38 EP           N53321702E014593775                                                                                 
+SEUREAENRT   SZC62 EP           N53304360E015024186                                                                                 
+SEUREAENRT   TABET EP           N52213010E020360880                                                                                 
+SEUREAENRT   TADAK EP           N53165610E016535600                                                                                 
+SEUREAENRT   TADEK EP           N52430300E0204516100                                                                                
+SEUREAENRT   TELDU EP           N50145300E022441600                                                                                 
+SEUREAENRT   TIGTU EP           N52075980E021241990                                                                                 
+SEUREAENRT   TINBU EP           N52173170E020581280                                                                                 
+SEUREAENRT   TIPOX EP           N54264200E018112600                                                                                 
+SEUREAENRT   TIREN EP           N49552810E0213020100                                                                                
+SEUREAENRT   TISKO EP           N52172000E0201645100                                                                                
+SEUREAENRT   TISTA EP           N51445600E021085050                                                                                 
+SEUREAENRT   TITAK EP           N52113000E0192747100                                                                                
+SEUREAENRT   TOLPA EP           N51181000E0233844100                                                                                
+SEUREAENRT   TOMKO EP           N53414410E015503400                                                                                 
+SEUREAENRT   TOMTI EP           N50571100E0151735100                                                                                
+SEUREAENRT   TOSLU EP           N52003050E021115770                                                                                 
+SEUREAENRT   TOXAR EP           N52364710E022322000                                                                                 
+SEUREAENRT   TUGLU EP           N54075900E0184547100                                                                                
+SEUREAENRT   TUNOP EP           N51465300E019355700                                                                                 
+SEUREAENRT   TUROL EP           N53513010E020300000                                                                                 
+SEUREAENRT   TUSIN EP           N49505098E018342221                                                                                 
+SEUREAENRT   TUTOM EP           N52062010E021041400                                                                                 
+SEUREAENRT   UBELA EP           N51455610E021021500                                                                                 
+SEUREAENRT   UDEMA EP           N51230300E0172917100                                                                                
+SEUREAENRT   ULKAM EP           N52162600E021000500                                                                                 
+SEUREAENRT   ULPAR EP           N52332510E0210034100                                                                                
+SEUREAENRT   UMTIX EP           N52030470E020544910                                                                                 
+SEUREAENRT   UMTOR EP           N52001110E021032900                                                                                 
+SEUREAENRT   UNDES EP           N52134180E021240580                                                                                 
+SEUREAENRT   UNDUK EP           N53343310E017583500                                                                                 
+SEUREAENRT   UREKO EP           N50374510E0224230100                                                                                
+SEUREAENRT   UTOLU EP           N51534810E0185202100                                                                                
+SEUREAENRT   UVSOV EP           N50571100E0151735100                                                                                
+SEUREAENRT   VABAT EP           N52323510E0161136100                                                                                
+SEUREAENRT   VABKI EP           N54131400E0175339100                                                                                
+SEUREAENRT   VAGSA EP           N51195900E0173320100                                                                                
+SEUREAENRT   VAKAD EP           N49562710E019230300                                                                                 
+SEUREAENRT   VAKUL EP           N51093700E0162003100                                                                                
+SEUREAENRT   VALUD EP           N52004210E0193307100                                                                                
+SEUREAENRT   VAPOS EP           N54474300E017493600                                                                                 
+SEUREAENRT   VAREN EP           N49535710E0224005100                                                                                
+SEUREAENRT   VAVEK EP           N52412310E019124600                                                                                 
+SEUREAENRT   VAVEL EP           N50035900E0195742100                                                                                
+SEUREAENRT   VEBEX EP           N50214710E018283600                                                                                 
+SEUREAENRT   VEKER EP           N52250900E021113800                                                                                 
+SEUREAENRT   VELAB EP           N51281010E016445600                                                                                 
+SEUREAENRT   VELAV EP           N52190500E0205121100                                                                                
+SEUREAENRT   VELAX EP           N50292000E022311400                                                                                 
+SEUREAENRT   VENES EP           N51085600E021543800                                                                                 
+SEUREAENRT   VIBAV EP           N52054430E021104900                                                                                 
+SEUREAENRT   WA008 EP           N52083030E020591410                                                                                 
+SEUREAENRT   WA032 EP           N52061732E021010744                                                                                 
+SEUREAENRT   WA067 EP           N52043115E021023769                                                                                 
+SEUREAENRT   WA411 EP           N52151930E020384430                                                                                 
+SEUREAENRT   WA412 EP           N52165770E020324800                                                                                 
+SEUREAENRT   WA413 EP           N52183580E020265130                                                                                 
+SEUREAENRT   WA414 EP           N52201360E020205420                                                                                 
+SEUREAENRT   WA416 EP           N52215110E020145660                                                                                 
+SEUREAENRT   WA442 EP           N51531860E021274090                                                                                 
+SEUREAENRT   WA443 EP           N52352510E020085310                                                                                 
+SEUREAENRT   WA444 EP           N52275290E0200445100                                                                                
+SEUREAENRT   WA448 EP           N52135720E020235120                                                                                 
+SEUREAENRT   WA452 EP           N51590220E020582060                                                                                 
+SEUREAENRT   WA468 EP           N52040460E021134040                                                                                 
+SEUREAENRT   WA507 EP           N52145090E020343060                                                                                 
+SEUREAENRT   WA508 EP           N52224210E020434060                                                                                 
+SEUREAENRT   WA511 EP           N51541740E021421820                                                                                 
+SEUREAENRT   WA512 EP           N52034730E021432840                                                                                 
+SEUREAENRT   WA531 EP           N52032750E021013390                                                                                 
+SEUREAENRT   WA532 EP           N52072230E020462880                                                                                 
+SEUREAENRT   WA533 EP           N51581150E021081510                                                                                 
+SEUREAENRT   WA534 EP           N51544010E021111780                                                                                 
+SEUREAENRT   WA536 EP           N51510850E021142000                                                                                 
+SEUREAENRT   WA537 EP           N51473690E021172180                                                                                 
+SEUREAENRT   WA564 EP           N51444780E020524430                                                                                 
+SEUREAENRT   WA572 EP           N52213820E021285940                                                                                 
+SEUREAENRT   WA573 EP           N52093990E021532810                                                                                 
+SEUREAENRT   WA593 EP           N51331780E020530970                                                                                 
+SEUREAENRT   WA594 EP           N52095730E021350170                                                                                 
+SEUREAENRT   WA601 EP           N52084530E021120820                                                                                 
+SEUREAENRT   WA604 EP           N52595440E021054340                                                                                 
+SEUREAENRT   WA606 EP           N52021390E020555580                                                                                 
+SEUREAENRT   WA614 EP           N52202890E020484620                                                                                 
+SEUREAENRT   WA616 EP           N52235980E020454020                                                                                 
+SEUREAENRT   WA617 EP           N52273060E020423340                                                                                 
+SEUREAENRT   WA618 EP           N52310130E020392620                                                                                 
+SEUREAENRT   WA651 EP           N52055220E021101130                                                                                 
+SEUREAENRT   WA653 EP           N52020880E020552840                                                                                 
+SEUREAENRT   WA656 EP           N52011320E021044770                                                                                 
+SEUREAENRT   WA657 EP           N52111420E021145190                                                                                 
+SEUREAENRT   WA663 EP           N52362770E020372620                                                                                 
+SEUREAENRT   WA698 EP           N52151290E021414260                                                                                 
+SEUREAENRT   WA701 EP           N52093490E020435290                                                                                 
+SEUREAENRT   WA703 EP           N52113370E020431880                                                                                 
+SEUREAENRT   WA704 EP           N52131700E021515030                                                                                 
+SEUREAENRT   WA706 EP           N52160610E020471490                                                                                 
+SEUREAENRT   WA709 EP           N52132310E0204318100                                                                                
+SEUREAENRT   WA729 EP           N52050840E021150310                                                                                 
+SEUREAENRT   WA731 EP           N52032780E021205610                                                                                 
+SEUREAENRT   WA732 EP           N52014690E021264870                                                                                 
+SEUREAENRT   WA733 EP           N52000540E021324170                                                                                 
+SEUREAENRT   WA751 EP           N52160850E020471070                                                                                 
+SEUREAENRT   WA753 EP           N52102230E020421070                                                                                 
+SEUREAENRT   WA791 EP           N52204840E020462600                                                                                 
+SEUREAENRT   WA798 EP           N52204910E020530800                                                                                 
+SEUREAENRT   WAS08 EP           N52103385E020555239                                                                                 
+SEUREAENRT   WAS38 EP           N52114924E020512926                                                                                 
+SEUREAENRT   WAS67 EP           N52130226E020470981                                                                                 
+SEUREAENRT   WRO07 EP           N51054193E016543798                                                                                 
+SEUREAENRT   WRO38 EP           N51041998E016590270                                                                                 
+SEUREAENRT   WRO59 EP           N51032438E017020188                                                                                 
+SEUREAENRT   WRO91 EP           N50595813E017012805                                                                                 
+SEUREAENRT   WRO98 EP           N50592739E017021320                                                                                 
+SEUREAENRT   XALOM EP           N52271920E020450900                                                                                 
+SEUREAENRT   XALUR EP           N51505700E0195859100                                                                                
+SEUREAENRT   XATOG EP           N52273410E0211955100                                                                                
+SEUREAENRT   XELBO EP           N52001400E0210723100                                                                                
+SEUREAENRT   XELET EP           N50501410E0170732100                                                                                
+SEUREAENRT   XEMOL EP           N50002000E020442500                                                                                 
+SEUREAENRT   XEMRO EP           N51514910E020490190                                                                                 
+SEUREAENRT   XENOM EP           N51455750E020445450                                                                                 
+SEUREAENRT   XEPUL EP           N53505010E021062300                                                                                 
+SEUREAENRT   XERKO EP           N50520210E017251700                                                                                 
+SEUREAENRT   XERUK EP           N50063410E022055600                                                                                 
+SEUREAENRT   XIDNA EP           N51420000E0165950100                                                                                
+SEUREAENRT   XIMBA EP           N51392010E021254000                                                                                 
+SEUREAENRT   XIMPU EP           N52075970E021045290                                                                                 
+SEURDB       BBM   EP000390     N52082546E015474622                                                                                 
+SEURDB       S     EP001086     N53055902E018004508                                                                                 
+SEURDB       SL    EP000534     N53061113E018031108                                                                                 
+SEURDB       CHO   EP000375     N53283109E015195894                                                                                 
+SEURDB       CZE   EP000409     N52081089E016434377                                                                                 
+SEURDB       DRE   EP000440     N52501051E015502901                                                                                 
+SEURDB       GDB   EP000383     N54220390E018302122                                                                                 
+SEURDB       GDN   EP000322     N54204257E018354587                                                                                 
+SEURDB       JAB   EP000387     N49283591E019413830                                                                                 
+SEURDB       KTC   EP000285     N50282667E019090121                                                                                 
+SEURDB       KRW   EP000353     N50054434E019544610                                                                                 
+SEURDB       KRA   EP000379     N50045476E019485258                                                                                 
+SEURDB       T     EP000664     N51324298E019124241                                                                                 
+SEURDB       TZ    EP000322     N51321777E019150138                                                                                 
+SEURDB       P     EP000353     N52245123E016514313                                                                                 
+SEURDB       LUB   EP000351     N51245434E016123994                                                                                 
+SEURDB       SA    EP000296     N50191981E021300383                                                                                 
+SEURDB       N     EP000290     N54354270E018292984                                                                                 
+SEURDB       NK    EP000494     N54370066E018271864                                                                                 
+SEURDB       K     EP000290     N54335031E018323480                                                                                 
+SEURDB       KN    EP000494     N54325488E018340103                                                                                 
+SEURDB       PNO   EP000330     N52031242E021034572                                                                                 
+SEURDB       POZ   EP000429     N52235309E016564069                                                                                 
+SEURDB       FT    EP000618     N54142573E018444515                                                                                 
+SEURDB       F     EP000300     N54144225E018415759                                                                                 
+SEURDB       KTW   EP000326     N50282454E019062394                                                                                 
+SEURDB       RO    EP000432     N51203705E014570732                                                                                 
+SEURDB       BIA   EP000474     N50063142E022080255                                                                                 
+SEURDB       JAS   EP000341     N50063736E021591235                                                                                 
+SEURDB       OL    EP000397     N53331808E014573679                                                                                 
+SEURDB       DW    EP000288     N53261367E020544444                                                                                 
+SEURDB       W     EP000361     N52082984E020591761                                                                                 
+SEURDB       WAO   EP000412     N52055172E021013565                                                                                 
+SEURDB       WAG   EP000336     N52123805E020482384                                                                                 
+SEURDB       AY    EP000375     N52103158E020555717                                                                                 
+SEURDB       WRC   EP000255     N51054263E016543700                                                                                 
+SEURDB       WRW   EP000525     N51045692E016570570                                                                                 
+SEURD        CZE   EP011450V    N52075021E016433768                                                                                 
+SEURD        DAR   EP011420V    N54243674E016231710                                                                                 
+SEURD        DRE   EP011530V    N52490066E015495697                                                                                 
+SEURD        GRU   EP011460V    N53311648E018465283                                                                                 
+SEURD        JAB   EP011640V    N49285845E019404298                                                                                 
+SEURD        JED   EP011560V    N50385035E020150434                                                                                 
+SEURD        KRN   EP011780V    N51564646E020264062                                                                                 
+SEURD        KRT   EP011320V    N54175905E018122878                                                                                 
+SEURD        KMI   EP011680V    N54120469E019084225                                                                                 
+SEURD        LIN   EP011310V    N51555839E021093070                                                                                 
+SEURD        LDZ   EP011240V    N51480042E019392213                                                                                 
+SEURD        MRA   EP011730V    N53470566E021075824                                                                                 
+SEURD        OKE   EP011340V    N52101113E020573619                                                                                 
+SEURD        LAW   EP011580V    N52252051E016494861                                                                                 
+SEURD        RZE   EP011620V    N50062872E022010808                                                                                 
+SEURD        SIE   EP011470V    N52091936E022120285                                                                                 
+SEURD        RUD   EP011510V    N52494993E023422569                                                                                 
+SEURD        SUI   EP011670V    N52224748E014350817                                                                                 
+SEURD        SUW   EP011770V    N54041080E022540091                                                                                 
+SEURD        TRB   EP011540V    N54123802E017042382                                                                                 
+SEURD        TRZ   EP011360V    N51182938E017065151                                                                                 
+SEURD        WAR   EP011490V    N52153291E020392555                                                                                 
+SEURD        BYD   EP010910 D   N53054895E017593169                                                                                 
+SEURD        IGDA  EP011030 D   N54221822E018290644                                                                                 
+SEURD        KRW   EP011030 D   N50045001E019474289                                                                                 
+SEURD        POZ   EP011030 D   N52251162E016501700                                                                                 
+SEURD        RZW   EP011030 D   N50063962E022015518                                                                                 
+SEURD        SZC   EP011050 D   N53344198E014544183                                                                                 
+SEURD        SZN   EP011010 D   N53282534E020555182                                                                                 
+SEURD        WAS   EP010990 D   N52101620E020570737                                                                                 
+SEURD        WA    EP011030 D   N52090960E020585058                                                                                 
+SEURD        WRO   EP011030 D   N51055623E016533512                                                                                 
+SEURD        CZE   EP011450 D   N52075021E016433768                                                                                 
+SEURD        DAR   EP011420 D   N54243674E016231710                                                                                 
+SEURD        DRE   EP011530 D   N52490066E015495697                                                                                 
+SEURD        GRU   EP011460 D   N53311648E018465283                                                                                 
+SEURD        JAB   EP011640 D   N49285845E019404298                                                                                 
+SEURD        JED   EP011560 D   N50385035E020150434                                                                                 
+SEURD        KRN   EP011780 D   N51564646E020264062                                                                                 
+SEURD        KRT   EP011320 D   N54175905E018122878                                                                                 
+SEURD        LIN   EP011310 D   N51555839E021093070                                                                                 
+SEURD        LDZ   EP011240 D   N51480042E019392213                                                                                 
+SEURD        MRA   EP011730 D   N53470566E021075824                                                                                 
+SEURD        OKE   EP011340 D   N52101113E020573619                                                                                 
+SEURD        LAW   EP011580 D   N52252051E016494861                                                                                 
+SEURD        RZE   EP011620 D   N50062872E022010808                                                                                 
+SEURD        SIE   EP011470 D   N52091936E022120285                                                                                 
+SEURD        RUD   EP011510 D   N52494993E023422569                                                                                 
+SEURD        SUI   EP011670 D   N52224748E014350817                                                                                 
+SEURD        SUW   EP011770 D   N54041080E022540091                                                                                 
+SEURD        TRZ   EP011360 D   N51182938E017065151                                                                                 
+SEURD        WAR   EP011490 D   N52153291E020392555                                                                                 
+SEURER       N746        0010BINKAEPEA      O                                      19500     28500                                  
+SEURER       N746        0020DEMUREPEA      O                             0323     19500     28500                                  
+SEURER       N746        0030BABEN  EA      O                             0202     19500     28500                                  
+SEURER       L617        0010CZE  EPD       O                                      24500     28500                                  
+SEURER       L617        0020KALITEPEA      O                             0748     24500     28500                                  
+SEURER       L617        0030MIRVOEPEA      O                             0062     24500     28500                                  
+SEURER       L617        0040VIBUL  EA      O                             0617     24500     28500                                  
+SEURER       L617        0260NUDROEPEA      O                                      19500     28500                                  
+SEURER       L617        0270REGLIEPEA      O                             0728     19500     28500                                  
+SEURER       L621        0160MOSIREPEA      O                             0220     12500     28500                                  
+SEURER       L621        0170SUVEKEPEA      O                             0077     12500     28500                                  
+SEURER       L621        0180VELAXEPEA      O                             0118     12500     28500                                  
+SEURER       L621        0190KRASIEPEA      O                             0376     12500     28500                                  
+SEURER       L621        0200NAKEREPEA      O                             0326     12500     28500                                  
+SEURER       L621        0210KOZENEPEA      O                             0057     12500     28500                                  
+SEURER       L621        0220MARIAEPEA      O                             0054     12500     28500                                  
+SEURER       L621        0230LIN  EPD       O                             0194     12500     28500                                  
+SEURER       L621        0240REMPAEPEA      O                             0584     09500     28500                                  
+SEURER       L621        0250LISKUEPEA      O                             0469     09500     28500                                  
+SEURER       L621        0260GRU  EPD       O                             0238     09500     28500                                  
+SEURER       L621        0270BURANEPEA      O                             0736     09500     28500                                  
+SEURER       L621        0280DAR  EPD       O                             0264     09500     28500                                  
+SEURER       L621        0290BABIK  EA      O                             0285     09500     28500                                  
+SEURER       L856        0010LDZ  EPD       O                                      19500     28500                                  
+SEURER       L856        0020BESALEPEA      O                             0485     19500     28500                                  
+SEURER       L856        0030BABKOEPEA      O                             0831     19500     28500                                  
+SEURER       L856        0040SUBETLZEA      O                             0303     07700     24500                                  
+SEURER       Z32         0010BABKOEPEA      O                                      07700     24500                                  
+SEURER       Z32         0020DBV  LZD       O                             0523     07700     24500                                  
+SEURER       Z732        0010BABKOEPEA      O                                      09500     19500                                  
+SEURER       Z732        0020KRW  EPD       O                             0337     09500     19500                                  
+SEURER       M66         0010BABKOEPEA      O                                      19500     28500                                  
+SEURER       M66         0020KUKAMEPEA      O                             0752     19500     28500                                  
+SEURER       M66         0030DEDOLEPEA      O                             0367     19500     28500                                  
+SEURER       M866        0010BABKOEPEA      O                                      19500     28500                                  
+SEURER       M866        0020LUKOREPEA      O                             0650     19500     28500                                  
+SEURER       M866        0030JED  EPD       O                             0041     19500     28500                                  
+SEURER       L32         0090SUW  EPD       O                             0298     09500     19500                                  
+SEURER       L981        0010CZE  EPD       O                                      19500     28500                                  
+SEURER       L981        0020BADNOEPEA      O                             0420     19500     28500                                  
+SEURER       L981        0030MAKOVEPEA      O                             0646     19500     28500                                  
+SEURER       L981        0040ROGALEPEA      O                             0171     19500     28500                                  
+SEURER       L981        0050BADEXEPEA      O                             0289     19500     28500                                  
+SEURER       L981        0060JED  EPD       O                             0066     19500     28500                                  
+SEURER       L981        0070DIBEDUKEA      O                             1169     19500     28500                                  
+SEURER       Z98         0010KEKUSEPEA      O                                      09500     19500                                  
+SEURER       Z98         0020KRW  EPD       O                             0523     09500     19500                                  
+SEURER       L132        0030DEMUREPEA      O                                      19500     28500                                  
+SEURER       L132        0040BODLAEPEA      O                             0528     19500     28500                                  
+SEURER       L132        0050RENKIEDEA      O                             0270     04000     24000                                  
+SEURER       N133        0130GOSAKEPEA      O                             0782     09500     28500                                  
+SEURER       N133        0140JED  EPD       O                             0057     09500     28500                                  
+SEURER       N133        0150LUBENEPEA      O                             0364     09500     28500                                  
+SEURER       N133        0160BAGAVEPEA      O                             0245     09500     28500                                  
+SEURER       N133        0170LDZ  EPD       O                             0119     09500     28500                                  
+SEURER       N133        0180TITAKEPEA      O                             0246     09500     28500                                  
+SEURER       N133        0190VAVEKEPEA      O                             0313     09500     28500                                  
+SEURER       N133        0200BIBKAEPEA      O                             0315     09500     28500                                  
+SEURER       N133        0210GRU  EPD       O                             0208     09500     28500                                  
+SEURER       N133        0220LODNIEPEA      O                             0141     09500     28500                                  
+SEURER       N133        0230KRT  EPD       O                             0368     09500     28500                                  
+SEURER       N133        0240KOSEL  EA      O                             0485     09500     28500                                  
+SEURER       M984        0120TUSINEPEA      O                             0514     10000     24500                                  
+SEURER       M984        0130RODAKEPEA      O                                      19500     28500                                  
+SEURER       M984        0140JED  EPD       O                             0042     19500     28500                                  
+SEURER       M984        0150LETKIUMEA      O                             1500     19500     28500                                  
+SEURER       B45         0070NERKIEPEA      O                             0586     09500     19500                                  
+SEURER       B45         0080TRZ  EPD       O                             0261     09500     19500                                  
+SEURER       M977        0010SUW  EPD       O                                      19500     28500                                  
+SEURER       M977        0020EBIMAEPEA      O                             0466     19500     28500                                  
+SEURER       M977        0030BALBAEPEA      O                             1461     19500     28500                                  
+SEURER       M977        0040DIBEDUKEA      O                             0585     19500     28500                                  
+SEURER       P31         0100BURANEPEA      O                             0813     24500     28500                                  
+SEURER       P31         0110SUTOREPEA      O                             0566     24500     28500                                  
+SEURER       P31         0120GOVENEPEA      O                             0948     04000     24000                                  
+SEURER       P31         0130BUKIGEDEA      O                             0217     04000     24000                                  
+SEURER       L623        0060CZE  EPD       O                                      09500     28500                                  
+SEURER       L623        0070KURETEPEA      O                             0089     09500     28500                                  
+SEURER       L623        0080BESTOEPEA      O                             0257     19500     28500                                  
+SEURER       L623        0090BAREXEPEA      O                             0710     19500     28500                                  
+SEURER       L623        0100MYSKOEPEA      O                             0298     09500     28500                                  
+SEURER       L623        0110BALOSEPEA      O                             0213     09500     28500                                  
+SEURER       L623        0120VAVELEPEA      O                             0171     09500     28500                                  
+SEURER       L623        0130LENOVLZEA      O                             0598     09500     28500                                  
+SEURER       M857        0090SUW  EPD       O                                      12500     28500                                  
+SEURER       M857        0100BULEPEPEA      O                             0798     12500     28500                                  
+SEURER       M857        0110SIE  EPD       O                             0378     12500     28500                                  
+SEURER       M857        0120RILABEPEA      O                             0848     19500     28500                                  
+SEURER       M857        0130PODANLZEA      O                             0824     19500     28500                                  
+SEURER       L984        0110NOMIXEPEA      O                             0269     09500     28500                                  
+SEURER       L984        0120SKAVIEPEA      O                             0356     09500     28500                                  
+SEURER       L984        0210GIMBUEPEA      O                             0164     09500     28500                                  
+SEURER       L984        0220TIRENEPEA      O                             0436     09500     28500                                  
+SEURER       L984        0230LUXAREPEA      O                             0128     09500     28500                                  
+SEURER       L984        0240GAMROEPEA      O                             0155     09500     28500                                  
+SEURER       N871        0300MISKAEPEA      O                             0637     19500     28500                                  
+SEURER       N871        0310VAGSAEPEA      O                             0250     13500     28500                                  
+SEURER       N871        0320LDZ  EPD       O                             0832     09500     28500                                  
+SEURER       N871        0330KUKOVEPEA      O                             0307     09500     28500                                  
+SEURER       N871        0340WAR  EPD       O                             0154     09500     28500                                  
+SEURER       N871        0350ULPAREPEA      O                             0221     09500     28500                                  
+SEURER       N871        0360SUW  EPD       O                             1133     09500     28500                                  
+SEURER       B41-T       0010PT   EPEA      O                                      09500     19500                                  
+SEURER       B41-T       0020BANETEPEA      O                             0106     09500     19500                                  
+SEURER       B41-T       0030LURADEPEA      O                             0172     09500     19500                                  
+SEURER       B41-T       0040BAVOKLKEA      O                             0185     09500     19500                                  
+SEURER       L619        0080ERGONEPEA      O                             0071     04000     24000                                  
+SEURER       L619        0210CZE  EPD       O                                      09500     28500                                  
+SEURER       L619        0220VABATEPEA      O                             0316     09500     28500                                  
+SEURER       L619        0230DRE  EPD       O                             0210     09500     28500                                  
+SEURER       L619        0320SUDOLEPEA      O                             1277     19500     28500                                  
+SEURER       L619        0330NUDROEPEA      O                             0513     19500     28500                                  
+SEURER       L980        0010SUI  EPD       O                                      09500     28500                                  
+SEURER       L980        0020BAREPEPEA      O                             0365     09500     28500                                  
+SEURER       L980        0030KELODEPEA      O                             0119     09500     28500                                  
+SEURER       L980        0040OBOLAEPEA      O                             0120     09500     28500                                  
+SEURER       L980        0050SONEVEPEA      O                             0035     09500     28500                                  
+SEURER       L980        0060CZE  EPD       O                             0162     09500     28500                                  
+SEURER       L980        0070OSTATEPEA      O                             0250     09500     28500                                  
+SEURER       L980        0280SUBAXEPEA      O                                      09500     28500                                  
+SEURER       L980        0290KOSUPEPEA      O                             0078     09500     28500                                  
+SEURER       L980        0300LDZ  EPD       O                             0123     09500     28500                                  
+SEURER       L980        0310OMAVAEPEA      O                             0798     24500     28500                                  
+SEURER       L980        0320USTILUKEA      O                             0967     24500     28500                                  
+SEURER       T708        0010BAREXEPEA      RL                                     09500     28500                                  
+SEURER       T708        0020GOMOREPEA      RL                            0457     09500     28500                                  
+SEURER       T708        0030TRZ  EPD       RL                            0203     19500     28500                                  
+SEURER       T708        0040SOVAMEPEA      RL                            0168     09500     28500                                  
+SEURER       T708        0050DIMEXEPEA      RL                            0248     09500     28500                                  
+SEURER       T708        0060GOVENEPEA      RL                            0570     09500     28500                                  
+SEURER       T709        0040LALKIEPEA      RL                            0160     09500     28500                                  
+SEURER       T709        0050XERUKEPEA      RL                            0233     09500     28500                                  
+SEURER       T709        0060PITOLEPEA      RL                            0199     09500     28500                                  
+SEURER       T709        0070JED  EPD       RL                            0579     09500     24500                                  
+SEURER       T709        0080KURONEPEA      RL                            0040     09500     24500                                  
+SEURER       T709        0090MOKOSEPEA      RL                            0311     09500     24500                                  
+SEURER       T709        0100PT   EPEA      RL                            0081     09500     24500                                  
+SEURER       Z95         0030GRU  EPD       O                                      09500     24500                                  
+SEURER       Z95         0040BEBALEPEA      O                             0222     09500     24500                                  
+SEURER       Z95         0050SL   EPD       O                             0140     09500     24500                                  
+SEURER       Z220        0040KORUPEPEA      O                             0186     05000     24000                                  
+SEURER       Z20         0130SUI  EPD       O                             0186     04000     24000                                  
+SEURER       L733        0020BENEKEPEA      O                             0354     24500     28500                                  
+SEURER       L733        0030GOLOKEPEA      O                             1171     24500     28500                                  
+SEURER       L733        0040BURANEPEA      O                             0504     24500     28500                                  
+SEURER       L733        0050RANOK  EA      O                             0803     24500     28500                                  
+SEURER       N869        0250SIE  EPD       O                             0755     19500     28500                                  
+SEURER       N869        0260UMTOREPEA      O                             0431     09500     28500                                  
+SEURER       N869        0270PEPENEPEA      O                             0254     09500     28500                                  
+SEURER       N869        0280XALUREPEA      O                             0155     09500     28500                                  
+SEURER       N869        0290LDZ  EPD       O                             0125     09500     28500                                  
+SEURER       N869        0300GULPOEPEA      O                             0203     09500     28500                                  
+SEURER       N869        0310MIXATEPEA      O                             0439     09500     28500                                  
+SEURER       N869        0320UDEMAEPEA      O                             0204     09500     28500                                  
+SEURER       N869        0330TRZ  EPD       O                             0148     09500     28500                                  
+SEURER       N869        0340VAKULEPEA      O                             0306     09500     28500                                  
+SEURER       N869        0350UVSOVEPEA      O                             0412     09500     28500                                  
+SEURER       L996        0110DRE  EPD       O                                      09500     28500                                  
+SEURER       L996        0120DODANEPEA      O                             0353     09500     28500                                  
+SEURER       L996        0130CHO  EPD       O                             0081     09500     28500                                  
+SEURER       L996        0140MASUNEPEA      O                             0099     09500     28500                                  
+SEURER       L996        0150GOMEXEPEA      O                             0060     10500     28500                                  
+SEURER       L996        0160ROBOV  EA      O                             0324     10500     28500                                  
+SEURER       Z102        0010BINKAEPEA      O                                      04000     24000                                  
+SEURER       Z102        0020TORLOEDEA      O                             0170     04000     24000                                  
+SEURER       M863        0060WAR  EPD       O                             1244     19500     28500                                  
+SEURER       N858        0090GRU  EPD       O                                      12500     28500                                  
+SEURER       N858        0100EBOGUEPEA      O                             0241     12500     28500                                  
+SEURER       N858        0110DEKUTEPEA      O                             0430     12500     28500                                  
+SEURER       N858        0120DRE  EPD       O                             0471     12500     28500                                  
+SEURER       N858        0130SUI  EPD       O                             0525     04000     24000                                  
+SEURER       N858        0140BESKOEDEA      O                             0195     04000     24000                                  
+SEURER       Z96         0010DEKUTEPEA      O                                      09500     19500                                  
+SEURER       Z96         0020NAPADEPEA      O                             0181     09500     19500                                  
+SEURER       Z96         0030SL   EPD       O                             0186     09500     19500                                  
+SEURER       Z96         0040NEREKEPEA      O                             0153     09500     19500                                  
+SEURER       Z96         0050BIBKAEPEA      O                             0176     09500     19500                                  
+SEURER       Z96         0060LISKUEPEA      O                             0089     09500     19500                                  
+SEURER       Z96         0070SOMOREPEA      O                             0055     09500     19500                                  
+SEURER       L730        0010BINKAEPEA      O                                      09500     28500                                  
+SEURER       L730        0020IRGETEPEA      O                             0132     09500     28500                                  
+SEURER       L730        0030CHO  EPD       O                             0281     09500     28500                                  
+SEURER       L730        0040NETOPEPEA      O                             0075     09500     28500                                  
+SEURER       L730        0050TOMKOEPEA      O                             0149     10500     28500                                  
+SEURER       L730        0060BURANEPEA      O                             0510     10500     28500                                  
+SEURER       L730        0070KRT  EPD       O                             0420     10500     28500                                  
+SEURER       L730        0080KMI  EPD       O                             0334     10500     28500                                  
+SEURER       L23         0010BINKAEPEA      O                                      24500     28500                                  
+SEURER       L23         0020TOMKOEPEA      O                             0558     24500     28500                                  
+SEURER       L23         0030OGRUDEPEA      O                             0408     24500     28500                                  
+SEURER       L23         0040GRU  EPD       O                             0644     24500     28500                                  
+SEURER       M602        0010BINKAEPEA      O                                      04000     24000                                  
+SEURER       M602        0020USEDU  EA      O                             0160     04000     24000                                  
+SEURER       T705        0010BODLAEPEA      RL                                     09500     28500                                  
+SEURER       T705        0020ROVEKEPEA      RL                            0180     09500     28500                                  
+SEURER       T705        0030CHO  EPD       RL                            0172     09500     28500                                  
+SEURER       M985        0040SUW  EPD       O                                      19500     28500                                  
+SEURER       M985        0050DEDOLEPEA      O                             1856     19500     28500                                  
+SEURER       M985        0060JED  EPD       O                             0446     19500     28500                                  
+SEURER       M985        0070POBOKEPEA      O                             0041     19500     28500                                  
+SEURER       M985        0080VAVELEPEA      O                             0325     19500     28500                                  
+SEURER       M985        0090SKAVIEPEA      O                             0079     19500     28500                                  
+SEURER       M985        0100JAB  EPD       O                             0288     19500     28500                                  
+SEURER       M985        0110MEBANEPEA      O                             0021     19500     28500                                  
+SEURER       Y88         0020LIMKOEPEA      O                             0571     19500     28500                                  
+SEURER       M857-       0020SUW  EPD       O                             0153     12500     28500                                  
+SEURER       L986        0070GIGALEPEA      O                                      19500     28500                                  
+SEURER       L986        0080SABABEPEA      O                             0564     19500     28500                                  
+SEURER       T710        0010TRZ  EPD       RL                                     09500     28500                                  
+SEURER       T710        0020BUDIREPEA      RL                            0078     09500     28500                                  
+SEURER       T710        0030VELABEPEA      RL                            0090     09500     28500                                  
+SEURER       T710        0040KULUVEPEA      RL                            0187     09500     28500                                  
+SEURER       T710        0050SUI  EPD       RL                            0783     09500     28500                                  
+SEURER       T710        0090MAPIKEPEA      RL                                     19500     28500                                  
+SEURER       T710        0100SABABEPEA      RL                            0198     19500     28500                                  
+SEURER       T710        0110NUDROEPEA      RL                            0321     19500     28500                                  
+SEURER       T711        0030BULEPEPEA      RL                            0587     24500     28500                                  
+SEURER       T711        0040VEKEREPEA      RL                            0494     09500     28500                                  
+SEURER       T711        0050WAR  EPD       RL                            0219     09500     28500                                  
+SEURER       L999        0110RILABEPEA      O                             1025     19500     28500                                  
+SEURER       L999        0120XEMOLEPEA      O                             0611     19500     28500                                  
+SEURER       T701        0010GOVENEPEA      RL                                     09500     28500                                  
+SEURER       T701        0020KELODEPEA      RL                            0429     09500     28500                                  
+SEURER       M860        0080ROLKAEPEA      O                             0956     20000     27000                                  
+SEURER       P150        0010CZE  EPD       O                                      10500     28500                                  
+SEURER       P150        0020DOREMEPEA      O                             0265     10500     28500                                  
+SEURER       P150        0030OBOKUEPEA      O                             0209     10500     28500                                  
+SEURER       P733        0010KMI  EPD       O                                      24500     28500                                  
+SEURER       P733        0020EBOGUEPEA      O                             0607     24500     28500                                  
+SEURER       P733        0030CZE  EPD       O                             0910     24500     28500                                  
+SEURER       P733        0040MARAMEPEA      O                             0886     24500     28500                                  
+SEURER       P733        0050OKX  LKD       O                             0086     24500     28500                                  
+SEURER       L617-       0010CZE  EPD       O                                      09500     28500                                  
+SEURER       L617-       0020LUGUREPEA      O                             0057     09500     28500                                  
+SEURER       L617-       0030XIDNAEPEA      O                             0220     09500     28500                                  
+SEURER       L617-       0040GAGROEPEA      O                                      09500     28500                                  
+SEURER       L617-       0050NUDROEPEA      O                             0106     09500     28500                                  
+SEURER       M985-       0010MEBANEPEA      O                                      07700     24500                                  
+SEURER       M985-       0020DBV  LZD       O                             0489     07700     24500                                  
+SEURER       N744        0010WAR  EPD       O                                      19500     28500                                  
+SEURER       N744        0020KRN  EPD       O                             0204     09500     28500                                  
+SEURER       N744        0030DEDOLEPEA      O                             0337     09500     28500                                  
+SEURER       N744        0040NAVUREPEA      O                             0281     19500     28500                                  
+SEURER       N744        0050TUSINEPEA      O                             0867     19500     28500                                  
+SEURER       P861        0020KRT  EPD       O                             0451     24500     28500                                  
+SEURER       P861        0030DEKUTEPEA      O                             0824     24500     28500                                  
+SEURER       P861        0040LATAGEPEA      O                             0961     24500     28500                                  
+SEURER       P861        0050RUTANLKEA      O                             0498     24500     28500                                  
+SEURER       L616        0020PEKOTEPEA      O                             0076     24500     28500                                  
+SEURER       L616        0030MISKAEPEA      O                             0516     24500     28500                                  
+SEURER       L616        0040VELABEPEA      O                             0184     24500     28500                                  
+SEURER       L616        0050DRE  EPD       O                             0876     24500     28500                                  
+SEURER       N983        0020LDZ  EPD       O                             1726     19500     28500                                  
+SEURER       N983        0030MAPEXEPEA      O                                      19500     28500                                  
+SEURER       N983        0040ELPOL  EA      O                             0724     19500     28500                                  
+SEURER       P851        0010MOLILEPEA      O                                      09500     28500                                  
+SEURER       P851        0020DODEKEPEA      O                             0623     09500     28500                                  
+SEURER       P851        0030OBEGOEPEA      O                             0089     09500     28500                                  
+SEURER       P851        0040WAR  EPD       O                             0281     09500     28500                                  
+SEURER       P851        0050SIE  EPD       O                             0571     19500     28500                                  
+SEURER       P851        0060DRE  EPD       O                                      09500     28500                                  
+SEURER       P851        0070IDEXUEPEA      O                             0443     09500     28500                                  
+SEURER       M994        0010GILASEPEA      O                                      09500     28500                                  
+SEURER       M994        0020DRE  EPD       O                             0488     09500     28500                                  
+SEURER       M994        0030TADAKEPEA      O                             0476     24500     28500                                  
+SEURER       M994        0040KMI  EPD       O                             0970     10500     28500                                  
+SEURER       M994        0050GOMED  EA      O                             0235     10500     28500                                  
+SEURER       H93         0010DW   EPD       O                                      05500     17500                                  
+SEURER       H93         0020MRA  EPD       O                             0223     05500     17500                                  
+SEURER       H93         0030XEPULEPEA      O                             0039     05500     17500                                  
+SEURER       H92         0010DW   EPD       O                                      05500     17500                                  
+SEURER       H92         0020TADEKEPEA      O                             0436     05500     17500                                  
+SEURER       H92         0030WAR  EPD       O                             0278     05500     17500                                  
+SEURER       R232        0010MAPIKEPEA      O                                      09500     19500                                  
+SEURER       R232        0020GALBUEPEA      O                             0094     09500     19500                                  
+SEURER       R232        0030NANUKEPEA      O                             0296     09500     19500                                  
+SEURER       R232        0040NUDROEPEA      O                             0129     09500     19500                                  
+SEURER       R232        0050KEKUSEPEA      O                                      09500     19500                                  
+SEURER       R232        0060JAB  EPD       O                             0641     09500     19500                                  
+SEURER       R232        0070LOLKALZEA      O                             0228     10500     19500                                  
+SEURER       L87         0040PESELEPEA      O                             0504     19500     28500                                  
+SEURER       Q200        0010GOVENEPEA      RH                                     04000     28000                                  
+SEURER       Q200        0020LUROSEDEA      RH                            0235     04000     28000                                  
+SEURER       T205        0010GOVENEPEA      RL                                     04000     28000                                  
+SEURER       T205        0020NUKROEDEA      RL                            0125     04000     28000                                  
+SEURER       N191        0010KMI  EPD       O                                      14500     28500                                  
+SEURER       N191        0020GRU  EPD       O                             0428     14500     28500                                  
+SEURER       N191        0030SOMOREPEA      O                             0270     09500     28500                                  
+SEURER       N191        0040LIN  EPD       O                                      24500     28500                                  
+SEURER       N191        0050USTILUKEA      O                             1284     24500     28500                                  
+SEURER       L29         0010TADAKEPEA      O                                      19500     28500                                  
+SEURER       L29         0020GRU  EPD       O                             0689     12500     28500                                  
+SEURER       L29         0030OLKINEPEA      O                             0630     12500     28500                                  
+SEURER       L29         0040SUW  EPD       O                             0868     12500     28500                                  
+SEURER       L29         0050VABEREYEA      O                             0193     09500     19500                                  
+SEURER       M992-       0020ROKEDEPEA      O                             0210     09500     19500                                  
+SEURER       M992-       0030VEBEXEPEA      O                             0151     09500     19500                                  
+SEURER       M992-       0040PT   EPEA      O                             0266     09500     19500                                  
+SEURER       R232-       0010KEKUSEPEA      O                                      09500     19500                                  
+SEURER       R232-       0020VEBEXEPEA      O                             0063     09500     19500                                  
+SEURER       R232-       0030MAPIKEPEA      O                             0131     09500     19500                                  
+SEURER       R232-       0040NUDROEPEA      O                                      08500     19500                                  
+SEURER       R232-       0050TRZ  EPD       O                             0117     08500     19500                                  
+SEURER       Z71         0010KORUPEPEA      O                                      24500     28500                                  
+SEURER       Z71         0020LATAGEPEA      O                             0385     24500     28500                                  
+SEURER       Z71         0030TITAKEPEA      O                                      16500     28500                                  
+SEURER       Z71         0040LUMOKEPEA      O                             0158     16500     28500                                  
+SEURER       Z71         0050WAR  EPD       O                             0284     09500     28500                                  
+SEURER       Z72         0010KRT  EPD       O                                      24500     28500                                  
+SEURER       Z72         0020KUNER  EA      O                             0582     24500     28500                                  
+SEURER       L867        0030PEKOTEPEA      O                                      24500     28500                                  
+SEURER       L867        0040SUI  EPD       O                             1605     24500     28500                                  
+SEURER       N869-       0020UVSOVEPEA      O                             0103     10000     24500                                  
+SEURER       L32-T       0020SUW  EPD       O                             0272     12500     28500                                  
+SEURER       Y208        0010SUI  EPD       O                                      04000     66000                                  
+SEURER       Y208        0020TUVAKEDEA      O                             0189     04000     66000                                  
+SEURER       UN746       0090DEMUREPEA      O                             0202     28500     46000                                  
+SEURER       UN746       0100BINKAEPEA      O                             0323     28500     46000                                  
+SEURER       UN746       0110TELDOEDEA      O                             0358     25000     66000                                  
+SEURER       UL617       0010CZE  EPD       O                                      28500     46000                                  
+SEURER       UL617       0020KALITEPEA      O                             0748     28500     46000                                  
+SEURER       UL617       0030MIRVOEPEA      O                             0062     28500     46000                                  
+SEURER       UL617       0040VIBUL  EA      O                             0617     28500     46000                                  
+SEURER       UL617       0200REGLIEPEA      O                             0064     28500     46000                                  
+SEURER       UL617       0210NUDROEPEA      O                             0728     28500     46000                                  
+SEURER       UL621       0160OMAVAEPEA      O                             1038     28500     46000                                  
+SEURER       UL621       0170KOZENEPEA      O                             0136     28500     46000                                  
+SEURER       UL621       0180MARIAEPEA      O                             0054     28500     46000                                  
+SEURER       UL621       0190LIN  EPD       O                             0194     28500     46000                                  
+SEURER       UL621       0200REMPAEPEA      O                             0584     28500     46000                                  
+SEURER       UL621       0210GRU  EPD       O                             0707     28500     46000                                  
+SEURER       UL621       0220BURANEPEA      O                             0736     28500     46000                                  
+SEURER       UL621       0230DAR  EPD       O                             0264     28500     46000                                  
+SEURER       UL621       0240BABIK  EA      O                             0285     28500     46000                                  
+SEURER       UZ32        0010BABKOEPEA      O                                      24500     66000                                  
+SEURER       UZ32        0020DBV  LZD       O                             0523     24500     66000                                  
+SEURER       UM66        0010BABKOEPEA      O                                      28500     46000                                  
+SEURER       UM66        0020DEDOLEPEA      O                             1119     28500     46000                                  
+SEURER       UM866       0010BABKOEPEA      O                                      28500     46000                                  
+SEURER       UM866       0020JED  EPD       O                             0691     28500     46000                                  
+SEURER       UL856       0010LDZ  EPD       O                                      28500     46000                                  
+SEURER       UL856       0020BABKOEPEA      O                             1316     24500     66000                                  
+SEURER       UL856       0030KOPATLZEA      O                             0440     24500     66000                                  
+SEURER       UZ201       0010BABKOEPEA      O                                      24500     66000                                  
+SEURER       UZ201       0020REDSILZEA      O                             0237     24500     66000                                  
+SEURER       UL32        0070SUW  EPD       O                             0272     28500     46000                                  
+SEURER       UL981       0010CZE  EPD       O                                      28500     46000                                  
+SEURER       UL981       0020BADNOEPEA      O                             0420     28500     46000                                  
+SEURER       UL981       0030MAKOVEPEA      O                             0646     28500     46000                                  
+SEURER       UL981       0040JED  EPD       O                             0526     28500     46000                                  
+SEURER       UL981       0050DIBEDUKEA      O                             1169     28000     66000                                  
+SEURER       UM984       0200TUSINEPEA      O                             0514     24500     66000                                  
+SEURER       UM984       0210JED  EPD       O                                      28500     46000                                  
+SEURER       UM984       0220LETKIUMEA      O                             1500     28500     46000                                  
+SEURER       UL867       0070SUI  EPD       O                             0244     25000     66000                                  
+SEURER       UL867       0080GIGALEPEA      O                             1055     28500     46000                                  
+SEURER       UL867       0090PEKOTEPEA      O                             0550     28500     46000                                  
+SEURER       UM977       0010SUW  EPD       O                                      28500     46000                                  
+SEURER       UM977       0020EBIMAEPEA      O                             0466     28500     46000                                  
+SEURER       UM977       0030BALBAEPEA      O                             1461     28500     46000                                  
+SEURER       UM977       0040DIBEDUKEA      O                             0585     28500     46000                                  
+SEURER       UL619       0130ERGONEPEA      O                             0071     25000     66000                                  
+SEURER       UL619       0230SUDOLEPEA      O                             1277     28500     46000                                  
+SEURER       UL619       0240NUDROEPEA      O                             0513     28500     46000                                  
+SEURER       UL619       0250CZE  EPD       O                                      28500     46000                                  
+SEURER       UL619       0260DRE  EPD       O                             0526     28500     46000                                  
+SEURER       UP31        0090BURANEPEA      O                             0813     28500     46000                                  
+SEURER       UP31        0100SUTOREPEA      O                             0566     28500     46000                                  
+SEURER       UP31        0110GOVENEPEA      O                             0948     25000     60000                                  
+SEURER       UP31        0120BUKIGEDEA      O                             0217     25000     60000                                  
+SEURER       UM985       0200SUW  EPD       O                                      28500     46000                                  
+SEURER       UM985       0210DEDOLEPEA      O                             1856     28500     46000                                  
+SEURER       UM985       0220JED  EPD       O                             0446     28500     46000                                  
+SEURER       UM985       0230SKAVIEPEA      O                             0445     28500     46000                                  
+SEURER       UM985       0240JAB  EPD       O                             0288     28500     46000                                  
+SEURER       UM985       0250MEBANEPEA      O                             0021     24500     66000                                  
+SEURER       UM985       0260DBV  LZD       O                             0489     24500     66000                                  
+SEURER       UM857       0110RILABEPEA      O                             0824     28500     46000                                  
+SEURER       UM857       0120SIE  EPD       O                             0848     28500     46000                                  
+SEURER       UM857       0130SUW  EPD       O                             1177     28500     46000                                  
+SEURER       UN871       0200GIGALEPEA      O                             0458     28500     46000                                  
+SEURER       UN871       0210MISKAEPEA      O                             0179     28500     46000                                  
+SEURER       UN871       0220LDZ  EPD       O                             1082     28500     46000                                  
+SEURER       UN871       0230KUKOVEPEA      O                             0307     28500     46000                                  
+SEURER       UN871       0240WAR  EPD       O                             0154     28500     46000                                  
+SEURER       UN871       0250SUW  EPD       O                             1354     28500     46000                                  
+SEURER       UL87        0060PESELEPEA      O                             0504     25000     66000                                  
+SEURER       UL87        0070RAKITEDEA      O                             0247     29000     66000                                  
+SEURER       UL623       0090BAREXEPEA      O                             1281     28500     46000                                  
+SEURER       UL623       0100BESTOEPEA      O                             0710     28500     46000                                  
+SEURER       UL623       0110CZE  EPD       O                             0346     28500     46000                                  
+SEURER       UT708       0010BAREXEPEA      O                                      28500     46000                                  
+SEURER       UT708       0020TRZ  EPD       O                             0661     28500     46000                                  
+SEURER       UT708       0030DIMEXEPEA      O                             0416     28500     46000                                  
+SEURER       UT708       0040GOVENEPEA      O                             0570     28500     46000                                  
+SEURER       UZ717       0070BODLAEPEA      O                             0189     25000     66000                                  
+SEURER       UP746       0030JED  EPD       O                                      28500     46000                                  
+SEURER       UP746       0040ODRAPEPEA      O                             0818     28500     46000                                  
+SEURER       UP746       0050LUGOLUKEA      O                             0476     28500     46000                                  
+SEURER       UZ220       0040KORUPEPEA      O                             0186     25000     66000                                  
+SEURER       UL980       0050INDIGEPEA      O                                      28500     46000                                  
+SEURER       UL980       0060CZE  EPD       O                             0477     28500     46000                                  
+SEURER       UL980       0070KELODEPEA      O                             0317     28500     46000                                  
+SEURER       UL980       0080SUI  EPD       O                             0484     28500     46000                                  
+SEURER       UL980       0360LDZ  EPD       O                                      28500     46000                                  
+SEURER       UL980       0370OMAVAEPEA      O                             0798     28500     46000                                  
+SEURER       UL980       0380USTILUKEA      O                             0967     28500     46000                                  
+SEURER       UL733       0020BURANEPEA      O                             0803     28500     46000                                  
+SEURER       UL733       0030GOLOKEPEA      O                             0504     28500     46000                                  
+SEURER       UL733       0040BENEKEPEA      O                             1171     28500     46000                                  
+SEURER       UL733       0050RASANLKEA      O                             0354     28500     46000                                  
+SEURER       UN869       0470UVSOVEPEA      O                             0103     28500     46000                                  
+SEURER       UN869       0480TRZ  EPD       O                             0718     28500     46000                                  
+SEURER       UN869       0490MIXATEPEA      O                             0352     28500     46000                                  
+SEURER       UN869       0500LDZ  EPD       O                             0642     28500     46000                                  
+SEURER       UN869       0510SIE  EPD       O                             0965     28500     46000                                  
+SEURER       UN869       0520RUDKAUMEA      O                             0755     28500     46000                                  
+SEURER       UZ102       0010BINKAEPEA      O                                      25000     66000                                  
+SEURER       UZ102       0020TORLOEDEA      O                             0170     25000     66000                                  
+SEURER       UN133       0160JED  EPD       O                             0840     28500     46000                                  
+SEURER       UN133       0170LDZ  EPD       O                             0727     28500     46000                                  
+SEURER       UN133       0180TITAKEPEA      O                             0246     28500     46000                                  
+SEURER       UN133       0190GRU  EPD       O                             0836     28500     46000                                  
+SEURER       UN133       0200KRT  EPD       O                             0509     28500     46000                                  
+SEURER       UN133       0210KOSEL  EA      O                             0485     28500     46000                                  
+SEURER       UN858       0420LIMKOEPEA      O                             0571     28500     46000                                  
+SEURER       UN858       0430TUROLEPEA      O                             0370     28500     46000                                  
+SEURER       UN858       0440GRU  EPD       O                             0644     28500     46000                                  
+SEURER       UN858       0450EBOGUEPEA      O                             0241     28500     46000                                  
+SEURER       UN858       0460DEKUTEPEA      O                             0430     28500     46000                                  
+SEURER       UN858       0470DRE  EPD       O                             0471     28500     46000                                  
+SEURER       UN858       0480SUI  EPD       O                             0525     25000     66000                                  
+SEURER       UN858       0490BESKOEDEA      O                             0195     25000     66000                                  
+SEURER       UL730       0010BINKAEPEA      O                                      28500     46000                                  
+SEURER       UL730       0020CHO  EPD       O                             0414     28500     46000                                  
+SEURER       UL730       0030TOMKOEPEA      O                             0225     28500     46000                                  
+SEURER       UL730       0040BURANEPEA      O                             0510     28500     46000                                  
+SEURER       UL730       0050KRT  EPD       O                             0420     28500     46000                                  
+SEURER       UL730       0060KMI  EPD       O                             0334     28500     46000                                  
+SEURER       UL23        0010BINKAEPEA      O                                      28500     46000                                  
+SEURER       UL23        0020TOMKOEPEA      O                             0558     28500     46000                                  
+SEURER       UL23        0030OGRUDEPEA      O                             0408     28500     46000                                  
+SEURER       UL23        0040GRU  EPD       O                             0644     29500     46000                                  
+SEURER       UL23        0050GORATUMEA      O                             1844     29500     46000                                  
+SEURER       UM602       0010BINKAEPEA      O                                      25000     66000                                  
+SEURER       UM602       0020USEDU  EA      O                             0160     25000     66000                                  
+SEURER       UZ20        0120SUI  EPD       O                             0186     25000     66000                                  
+SEURER       UT705       0010BODLAEPEA      O                                      28500     46000                                  
+SEURER       UT705       0020CHO  EPD       O                             0352     28500     46000                                  
+SEURER       UL132       0010DEMUREPEA      O                                      28500     46000                                  
+SEURER       UL132       0020BODLAEPEA      O                             0528     28500     46000                                  
+SEURER       UL132       0030RENKIEDEA      O                             0270     25000     66000                                  
+SEURER       UM857       0020SUW  EPD       O                             0153     28500     46000                                  
+SEURER       UL986       0090LASISEPEA      O                             0273     28500     46000                                  
+SEURER       UL986       0100GIGALEPEA      O                             0608     28500     46000                                  
+SEURER       UL986       0110SABABEPEA      O                             0564     28500     46000                                  
+SEURER       UL986       0120SUDOLEPEA      O                             0207     28500     46000                                  
+SEURER       UL986       0130LUXAREPEA      O                             1146     28500     46000                                  
+SEURER       UL986       0140ODRAPEPEA      O                             0281     28500     46000                                  
+SEURER       UL986       0150TEPNAUKEA      O                             0348     28500     46000                                  
+SEURER       UL984       0070LUXAREPEA      O                             0728     28500     46000                                  
+SEURER       UL984       0320SKAVIEPEA      O                             0625     28500     46000                                  
+SEURER       UM860       0080LIN  EPD       O                                      28500     46000                                  
+SEURER       UM860       0090ROLKAEPEA      O                             1360     28500     46000                                  
+SEURER       UM860       0100PEMIRUKEA      O                             0950     28000     66000                                  
+SEURER       UL999       0030SUPAKEPEA      O                             0076     24500     66000                                  
+SEURER       UL999       0140RILABEPEA      O                             1025     28500     46000                                  
+SEURER       UL996       0010DRE  EPD       O                                      28500     46000                                  
+SEURER       UL996       0020DODANEPEA      O                             0353     28500     46000                                  
+SEURER       UL996       0030CHO  EPD       O                             0081     28500     46000                                  
+SEURER       UL996       0040ROBOV  EA      O                             0483     28500     46000                                  
+SEURER       UP733       0010KMI  EPD       O                                      28500     46000                                  
+SEURER       UP733       0020EBOGUEPEA      O                             0607     28500     46000                                  
+SEURER       UP733       0030CZE  EPD       O                             0910     28500     46000                                  
+SEURER       UP733       0040MARAMEPEA      O                             0886     28500     46000                                  
+SEURER       UP733       0050OKX  LKD       O                             0086     24500     66000                                  
+SEURER       UL617       0010CZE  EPD       O                                      28500     46000                                  
+SEURER       UL617       0020XIDNAEPEA      O                             0277     28500     46000                                  
+SEURER       UL617       0030GAGROEPEA      O                             0237     28500     46000                                  
+SEURER       UL617       0040NUDROEPEA      O                             0106     28500     46000                                  
+SEURER       UN744       0010TUSINEPEA      O                                      28500     46000                                  
+SEURER       UN744       0020DEDOLEPEA      O                             1148     28500     46000                                  
+SEURER       UN744       0030KRN  EPD       O                             0337     28500     46000                                  
+SEURER       UN744       0040WAR  EPD       O                             0204     28500     46000                                  
+SEURER       UP861       0040LATAGEPEA      O                             0498     28500     46000                                  
+SEURER       UP861       0050DEKUTEPEA      O                             0961     28500     46000                                  
+SEURER       UP861       0060KRT  EPD       O                             0824     28500     46000                                  
+SEURER       UP861       0070RANOK  EA      O                             0451     28500     46000                                  
+SEURER       UT727       0010DRE  EPD       O                                      28500     46000                                  
+SEURER       UT727       0020DELIREPEA      O                             0490     28500     46000                                  
+SEURER       UT727       0030ELKAREPEA      O                             1268     28500     46000                                  
+SEURER       UT727       0040SUW  EPD       O                             0878     28500     46000                                  
+SEURER       UL616       0010DRE  EPD       O                                      28500     46000                                  
+SEURER       UL616       0020VELABEPEA      O                             0876     28500     46000                                  
+SEURER       UL616       0030MISKAEPEA      O                             0184     28500     46000                                  
+SEURER       UL616       0040PEKOTEPEA      O                             0516     28500     46000                                  
+SEURER       UL616       0050DESENLKEA      O                             0076     24500     66000                                  
+SEURER       UN983       0020LDZ  EPD       O                             1726     28500     46000                                  
+SEURER       UN983       0030MAPEXEPEA      O                                      28500     46000                                  
+SEURER       UN983       0040ELPOL  EA      O                             0724     28500     46000                                  
+SEURER       UT709       0020XERUKEPEA      O                             0393     28500     46000                                  
+SEURER       UT709       0030JED  EPD       O                             0778     28500     46000                                  
+SEURER       UP851       0070MOLILEPEA      O                                      28500     46000                                  
+SEURER       UP851       0080DODEKEPEA      O                             0623     28500     46000                                  
+SEURER       UP851       0090WAR  EPD       O                             0370     28500     46000                                  
+SEURER       UP851       0100SIE  EPD       O                             0571     28500     46000                                  
+SEURER       UP851       0110DRE  EPD       O                                      28500     46000                                  
+SEURER       UP851       0120IDEXUEPEA      O                             0443     28500     46000                                  
+SEURER       UM994       0010GILASEPEA      O                                      28500     46000                                  
+SEURER       UM994       0020DRE  EPD       O                             0488     28500     46000                                  
+SEURER       UM994       0030TADAKEPEA      O                             0476     28500     46000                                  
+SEURER       UM994       0040KMI  EPD       O                             0970     28500     46000                                  
+SEURER       UM994       0050GOMED  EA      O                             0235     28500     46000                                  
+SEURER       UL735       0010GOVENEPEA      O                                      28500     46000                                  
+SEURER       UL735       0020IDEXUEPEA      O                             0920     28500     46000                                  
+SEURER       UL735       0030MAGANEPEA      O                                      28500     46000                                  
+SEURER       UL735       0040KULEKEPEA      O                             1119     28500     46000                                  
+SEURER       UL735       0050SUW  EPD       O                             0906     28500     46000                                  
+SEURER       UL735       0060VABEREYEA      O                             0193     19500     66000                                  
+SEURER       UL979       0010GOVENEPEA      O                                      28500     46000                                  
+SEURER       UL979       0020KELODEPEA      O                             0429     28500     46000                                  
+SEURER       UL979       0030ENOBIUMEA      O                             2919     28500     46000                                  
+SEURER       UT711       0030WAR  EPD       O                             1300     28500     46000                                  
+SEURER       Q200-       0010GOVENEPEA      RH                                     29000     66000                                  
+SEURER       Q200-       0020LUROSEDEA      RH                            0235     29000     66000                                  
+SEURER       UN191       0010IDAKOEPEA      O                                      28500     46000                                  
+SEURER       UN191       0020GRU  EPD       O                             0742     28500     46000                                  
+SEURER       UN191       0030KMI  EPD       O                             0428     28500     46000                                  
+SEURER       UN191       0040LIN  EPD       O                                      28500     46000                                  
+SEURER       UN191       0050USTILUKEA      O                             1284     28500     46000                                  
+SEURER       UL29        0010GRU  EPD       O                                      28500     46000                                  
+SEURER       UL29        0020TADAKEPEA      O                             0689     28500     46000                                  
+SEURER       UM141       0010MEBANEPEA      O                                      24500     66000                                  
+SEURER       UM141       0020JAN  LZD       O                             1130     24500     66000                                  
+SEURER       UP193       0030TRZ  EPD       O                             1677     28500     46000                                  
+SEURER       UT710       0010KEKUSEPEA      O                                      28500     46000                                  
+SEURER       UT710       0020VEBEXEPEA      O                             0063     28500     46000                                  
+SEURER       UT710       0030MAPIKEPEA      O                             0131     28500     46000                                  
+SEURER       UT710       0040SABABEPEA      O                             0198     28500     46000                                  
+SEURER       UT710       0050NUDROEPEA      O                             0321     28500     46000                                  
+SEURER       UT710       0060TRZ  EPD       O                             0117     28500     46000                                  
+SEURER       UT710       0070VELABEPEA      O                             0168     28500     46000                                  
+SEURER       UT710       0080KULUVEPEA      O                             0187     28500     46000                                  
+SEURER       UT710       0090SUI  EPD       O                             0783     28500     46000                                  
+SEURER       UZ71        0010KORUPEPEA      O                                      28500     46000                                  
+SEURER       UZ71        0020LATAGEPEA      O                             0385     28500     46000                                  
+SEURER       UZ71        0030TITAKEPEA      O                                      28500     46000                                  
+SEURER       UZ71        0040LUMOKEPEA      O                             0158     28500     46000                                  
+SEURER       UZ71        0050WAR  EPD       O                             0284     28500     46000                                  
+SEURER       T174        0010KORUPEPEA      RL                                     29000     66000                                  
+SEURER       T174        0020NOKDOEDEA      RL                            0185     29000     66000                                  
+SEURER       UZ72        0010KRT  EPD       O                                      28500     46000                                  
+SEURER       UZ72        0020KUNER  EA      O                             0582     28500     46000                                  
+SEURER       UL853       0040MEBANEPEA      O                                      24500     66000                                  
+SEURER       UL853       0050REDSILZEA      O                             0133     24500     66000                                  
+SEURER       UP139       0010SIE  EPD       O                                      28500     46000                                  
+SEURER       UP139       0020SUPAKEPEA      O                             1940     28500     46000                                  
+SEURER       UL980       0010SUI  EPD       O                                      29000     66000                                  
+SEURER       UL980       0020TUVAKEDEA      O                             0189     29000     66000                                  

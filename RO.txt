@@ -1,0 +1,894 @@
+SEUREAENRT   ABATU LR           N44324101E025402911                                                                                 
+SEUREAENRT   ABEGO LR           N46054269E023383539                                                                                 
+SEUREAENRT   ABISU LR           N46361965E023095083                                                                                 
+SEUREAENRT   ABOKA LR           N46063389E024580714                                                                                 
+SEUREAENRT   ABRED LR           N44380210E0225602100                                                                                
+SEUREAENRT   ABRUT LR           N44270092E025105940                                                                                 
+SEUREAENRT   ADERI LR           N43541865E025040124                                                                                 
+SEUREAENRT   ADIGA LR           N44341231E026192251                                                                                 
+SEUREAENRT   ADMIR LR           N43512238E025071425                                                                                 
+SEUREAENRT   ADURA LR           N44272390E024340536                                                                                 
+SEUREAENRT   AGERU LR           N44281501E024394636                                                                                 
+SEUREAENRT   AGNAR LR           N44211163E027261144                                                                                 
+SEUREAENRT   AKASA LR           N44265372E025110076                                                                                 
+SEUREAENRT   ALESU LR           N46563259E026124649                                                                                 
+SEUREAENRT   AMETI LR           N44320996E025335788                                                                                 
+SEUREAENRT   AMIKU LR           N45544172E024350484                                                                                 
+SEUREAENRT   AMODA LR           N44315430E026300435                                                                                 
+SEUREAENRT   ANTAL LR           N46452181E026434547                                                                                 
+SEUREAENRT   APROD LR           N46265273E021215495                                                                                 
+SEUREAENRT   ARBIS LR           N45021623E026333712                                                                                 
+SEUREAENRT   ARIES LR           N46230438E023265728                                                                                 
+SEUREAENRT   ARPOS LR           N46023802E021525900                                                                                 
+SEUREAENRT   ARTOS LR           N44485381E026094188                                                                                 
+SEUREAENRT   ASLAM LR           N44503267E024215062                                                                                 
+SEUREAENRT   ASTUP LR           N46591307E026015191                                                                                 
+SEUREAENRT   BADOR LR           N47342475E022062852                                                                                 
+SEUREAENRT   BAISA LR           N46392000E023210206                                                                                 
+SEUREAENRT   BAKOV LR           N45584269E025131651                                                                                 
+SEUREAENRT   BAKUS LR           N44404903E024094125                                                                                 
+SEUREAENRT   BALBI LR           N44541834E025451451                                                                                 
+SEUREAENRT   BALOG LR           N44450584E026041070                                                                                 
+SEUREAENRT   BAMIR LR           N44302851E026105182                                                                                 
+SEUREAENRT   BANAS LR           N45374584E022160853                                                                                 
+SEUREAENRT   BANTI LR           N44393084E026261680                                                                                 
+SEUREAENRT   BARBU LR           N46191678E024163747                                                                                 
+SEUREAENRT   BAREM LR           N44314066E025355622                                                                                 
+SEUREAENRT   BARTA LR           N46542535E024052186                                                                                 
+SEUREAENRT   BARUK LR           N44322902E028341071                                                                                 
+SEUREAENRT   BASNA LR           N45555697E022270335                                                                                 
+SEUREAENRT   BATIN LR           N46005511E023463095                                                                                 
+SEUREAENRT   BAXER LR           N46252689E021451007                                                                                 
+SEUREAENRT   BEDRI LR           N45043538E025155500                                                                                 
+SEUREAENRT   BEGAL LR           N44360173E025461898                                                                                 
+SEUREAENRT   BENGU LR           N47112189E025110931                                                                                 
+SEUREAENRT   BERES LR           N45235810E028173000                                                                                 
+SEUREAENRT   BESET LR           N46101179E022190597                                                                                 
+SEUREAENRT   BIBOR LR           N47160865E025082088                                                                                 
+SEUREAENRT   BIRTA LR           N46594207E023271722                                                                                 
+SEUREAENRT   BLAJA LR           N46105302E024004171                                                                                 
+SEUREAENRT   BUCSA LR           N46301228E026220197                                                                                 
+SEUREAENRT   BUDOP LR           N46411455E021294796                                                                                 
+SEUREAENRT   BUKAN LR           N46315359E022533017                                                                                 
+SEUREAENRT   BUKEL LR           N45044012E025433257                                                                                 
+SEUREAENRT   BUKOV LR           N47570479E025572378                                                                                 
+SEUREAENRT   BUKUR LR           N47071276E025284258                                                                                 
+SEUREAENRT   BUNIR LR           N44424653E025503895                                                                                 
+SEUREAENRT   BURIX LR           N45424582E022540469                                                                                 
+SEUREAENRT   BUSOK LR           N44315677E026360329                                                                                 
+SEUREAENRT   CETUL LR           N44415107E028373731                                                                                 
+SEUREAENRT   CKN09 LR           N44243780E028294320                                                                                 
+SEUREAENRT   CND93 LR           N44265460E028295950                                                                                 
+SEUREAENRT   COPSA LR           N46075229E024135757                                                                                 
+SEUREAENRT   CROSA LR           N45371184E021454170                                                                                 
+SEUREAENRT   DANUL LR           N44542410E028272256                                                                                 
+SEUREAENRT   DEDOR LR           N44483658E022560393                                                                                 
+SEUREAENRT   DEGET LR           N46293676E021160207                                                                                 
+SEUREAENRT   DEKAM LR           N44542254E023262293                                                                                 
+SEUREAENRT   DEKIT LR           N46230495E026251694                                                                                 
+SEUREAENRT   DEMUN LR           N46020540E024370671                                                                                 
+SEUREAENRT   DENAK LR           N45000821E026260849                                                                                 
+SEUREAENRT   DEROT LR           N46125510E023000340                                                                                 
+SEUREAENRT   DIKER LR           N44300985E025492846                                                                                 
+SEUREAENRT   DILAS LR           N44332210E025491453                                                                                 
+SEUREAENRT   DIPIN LR           N45343522E024290535                                                                                 
+SEUREAENRT   DIRAL LR           N44303902E027331494                                                                                 
+SEUREAENRT   DIROM LR           N44455523E022531614                                                                                 
+SEUREAENRT   DOSIR LR           N44510636E022583998                                                                                 
+SEUREAENRT   DRAGU LR           N47030561E023325550                                                                                 
+SEUREAENRT   DUNAV LR           N45073778E028285524                                                                                 
+SEUREAENRT   EFORI LR           N44031673E028364691                                                                                 
+SEUREAENRT   ELBAG LR           N45180788E022402490                                                                                 
+SEUREAENRT   ELTIM LR           N45425445E022012851                                                                                 
+SEUREAENRT   ENIMA LR           N45044624E024540904                                                                                 
+SEUREAENRT   EPAVA LR           N47384248E023090783                                                                                 
+SEUREAENRT   EPOLA LR           N45493906E022273544                                                                                 
+SEUREAENRT   EPUKI LR           N45293663E024035088                                                                                 
+SEUREAENRT   EREDI LR           N46514694E023213615                                                                                 
+SEUREAENRT   ERGAT LR           N45390935E025502603                                                                                 
+SEUREAENRT   ERITA LR           N44362048E028152165                                                                                 
+SEUREAENRT   ESATU LR           N47311625E023074898                                                                                 
+SEUREAENRT   ETORA LR           N46353994E023564946                                                                                 
+SEUREAENRT   EVIKA LR           N45364507E027304995                                                                                 
+SEUREAENRT   EVRIK LR           N46210684E022143211                                                                                 
+SEUREAENRT   FAGET LR           N45493000E021590175                                                                                 
+SEUREAENRT   FOCSA LR           N45594103E026412301                                                                                 
+SEUREAENRT   GAVRI LR           N45371904E024192427                                                                                 
+SEUREAENRT   GIKOL LR           N46213033E026212088                                                                                 
+SEUREAENRT   GIMAS LR           N44354089E026330042                                                                                 
+SEUREAENRT   GINOS LR           N46554199E021463079                                                                                 
+SEUREAENRT   GIROK LR           N45565075E021045915                                                                                 
+SEUREAENRT   GORUN LR           N46135630E026450689                                                                                 
+SEUREAENRT   GURSA LR           N44302565E026071638                                                                                 
+SEUREAENRT   HUMOR LR           N47305306E025523523                                                                                 
+SEUREAENRT   IBRIK LR           N44144046E028282075                                                                                 
+SEUREAENRT   ICK14 LR           N44193540E028290348                                                                                 
+SEUREAENRT   IDARU LR           N44382451E026585447                                                                                 
+SEUREAENRT   IDELO LR           N45153691E023044450                                                                                 
+SEUREAENRT   ILL07 LR           N44343266E026041794                                                                                 
+SEUREAENRT   ILL09 LR           N44335323E025554324                                                                                 
+SEUREAENRT   ILL34 LR           N44345448E026091836                                                                                 
+SEUREAENRT   INPAS LR           N44443522E026011136                                                                                 
+SEUREAENRT   IOE08 LR           N44340848E026080491                                                                                 
+SEUREAENRT   IOE77 LR           N44345125E026174084                                                                                 
+SEUREAENRT   IOP08 LR           N44334895E026034567                                                                                 
+SEUREAENRT   IOP42 LR           N44332729E025590195                                                                                 
+SEUREAENRT   IOP76 LR           N44330541E025541813                                                                                 
+SEUREAENRT   IRMAL LR           N45192400E028491200                                                                                 
+SEUREAENRT   IRR08 LR           N44345088E026083336                                                                                 
+SEUREAENRT   IRR69 LR           N44352874E026170280                                                                                 
+SEUREAENRT   IRR89 LR           N44354084E026194988                                                                                 
+SEUREAENRT   JIBOU LR           N47292863E023073001                                                                                 
+SEUREAENRT   KOGAL LR           N44324275E028304339                                                                                 
+SEUREAENRT   KOMAN LR           N43590000E026130000                                                                                 
+SEUREAENRT   KUGET LR           N44252218E024204133                                                                                 
+SEUREAENRT   KUGIR LR           N45104566E023063778                                                                                 
+SEUREAENRT   KUSUR LR           N47342128E023292219                                                                                 
+SEUREAENRT   LAMIT LR           N45061432E023222916                                                                                 
+SEUREAENRT   LAPKA LR           N45173352E026303267                                                                                 
+SEUREAENRT   LARMU LR           N47150116E023080879                                                                                 
+SEUREAENRT   LATEL LR           N46561330E023234874                                                                                 
+SEUREAENRT   LEMPA LR           N44433748E028260695                                                                                 
+SEUREAENRT   LEVTA LR           N44352110E026243454                                                                                 
+SEUREAENRT   LIBDO LR           N47002960E024224285                                                                                 
+SEUREAENRT   LIPOV LR           N46060502E021345967                                                                                 
+SEUREAENRT   LOVIS LR           N44371016E026401014                                                                                 
+SEUREAENRT   LOZNA LR           N47260667E023280144                                                                                 
+SEUREAENRT   LUMIT LR           N44222586E024260579                                                                                 
+SEUREAENRT   LUNAV LR           N46550628E023090161                                                                                 
+SEUREAENRT   MADIT LR           N44320390E025405737                                                                                 
+SEUREAENRT   MEGIK LR           N44234985E025354233                                                                                 
+SEUREAENRT   MIRON LR           N46431029E027022551                                                                                 
+SEUREAENRT   MOBLI LR           N44465910E0263459100                                                                                
+SEUREAENRT   MOBRA LR           N45515189E024490984                                                                                 
+SEUREAENRT   MOKRU LR           N44565341E022485510                                                                                 
+SEUREAENRT   MOLAX LR           N46160756E026050080                                                                                 
+SEUREAENRT   MOLID LR           N46362315E027171795                                                                                 
+SEUREAENRT   MOLNA LR           N46335119E024080687                                                                                 
+SEUREAENRT   MOMER LR           N45434522E027430809                                                                                 
+SEUREAENRT   MOMIK LR           N45591773E021134957                                                                                 
+SEUREAENRT   MOPUG LR           N46094850E020422898                                                                                 
+SEUREAENRT   NAPOC LR           N46410004E023573633                                                                                 
+SEUREAENRT   NARKA LR           N47140894E021510600                                                                                 
+SEUREAENRT   NAVAR LR           N46331944E021272232                                                                                 
+SEUREAENRT   NAVOD LR           N45151863E027374901                                                                                 
+SEUREAENRT   NEGOT LR           N45011974E025111167                                                                                 
+SEUREAENRT   NEKUL LR           N45310046E022351237                                                                                 
+SEUREAENRT   NELUK LR           N45565670E026271483                                                                                 
+SEUREAENRT   NEPOT LR           N45573708E023051710                                                                                 
+SEUREAENRT   NERDI LR           N45184570E023421126                                                                                 
+SEUREAENRT   NERTO LR           N45513358E026391629                                                                                 
+SEUREAENRT   NESIM LR           N45024296E023094479                                                                                 
+SEUREAENRT   NETUL LR           N44414338E026584283                                                                                 
+SEUREAENRT   NIBAN LR           N44343503E026022193                                                                                 
+SEUREAENRT   NILET LR           N44262019E026091113                                                                                 
+SEUREAENRT   NILOV LR           N44571379E025101309                                                                                 
+SEUREAENRT   NOPTI LR           N46185519E021594859                                                                                 
+SEUREAENRT   NULGA LR           N46081147E026015134                                                                                 
+SEUREAENRT   NURGU LR           N46120645E025525532                                                                                 
+SEUREAENRT   OBARA LR           N47015347E022425878                                                                                 
+SEUREAENRT   OBELA LR           N44324356E025493821                                                                                 
+SEUREAENRT   OBORU LR           N47035131E023083848                                                                                 
+SEUREAENRT   OBUGA LR           N44063244E026053938                                                                                 
+SEUREAENRT   ODEVA LR           N45483370E024422166                                                                                 
+SEUREAENRT   OLERU LR           N45214542E025134571                                                                                 
+SEUREAENRT   OLPAX LR           N44435886E025541411                                                                                 
+SEUREAENRT   ORTAS LR           N46395121E021325554                                                                                 
+SEUREAENRT   OSTAL LR           N44164050E026462238                                                                                 
+SEUREAENRT   PABLI LR           N45350944E021182372                                                                                 
+SEUREAENRT   PASCA LR           N47200325E026295387                                                                                 
+SEUREAENRT   PELES LR           N46130250E027031185                                                                                 
+SEUREAENRT   PELUR LR           N45171228E025291768                                                                                 
+SEUREAENRT   PEMOK LR           N44215289E024205447                                                                                 
+SEUREAENRT   PERUT LR           N45513477E021545473                                                                                 
+SEUREAENRT   PILAT LR           N44492577E028055186                                                                                 
+SEUREAENRT   PISIK LR           N44220353E028101506                                                                                 
+SEUREAENRT   PITIS LR           N44343508E028310156                                                                                 
+SEUREAENRT   R1856 LR           N44343531E026050213                                                                                 
+SEUREAENRT   R1857 LR           N44335226E026043579                                                                                 
+SEUREAENRT   R1858 LR           N44340426E026071351                                                                                 
+SEUREAENRT   R1859 LR           N44344728E026073992                                                                                 
+SEUREAENRT   R1860 LR           N44220771E028292172                                                                                 
+SEUREAENRT   R1861 LR           N44213641E028291745                                                                                 
+SEUREAENRT   RANUL LR           N44360420E026245280                                                                                 
+SEUREAENRT   RARIT LR           N44360438E026245332                                                                                 
+SEUREAENRT   RAROS LR           N46274843E024471723                                                                                 
+SEUREAENRT   REBLA LR           N46453648E023444071                                                                                 
+SEUREAENRT   RILAS LR           N47194427E022363733                                                                                 
+SEUREAENRT   RILEX LR           N44355276E025505146                                                                                 
+SEUREAENRT   RIMAX LR           N45043855E025293074                                                                                 
+SEUREAENRT   RIVOS LR           N44392053E027391697                                                                                 
+SEUREAENRT   ROKAR LR           N47133939E025012188                                                                                 
+SEUREAENRT   ROMAG LR           N47252245E022250651                                                                                 
+SEUREAENRT   ROMOL LR           N47440796E025025094                                                                                 
+SEUREAENRT   ROPAN LR           N47050159E023384287                                                                                 
+SEUREAENRT   ROSIA LR           N46531320E022175336                                                                                 
+SEUREAENRT   ROVIN LR           N44423949E026320372                                                                                 
+SEUREAENRT   RULES LR           N47114577E022041139                                                                                 
+SEUREAENRT   RUMUK LR           N48013600E0232035100                                                                                
+SEUREAENRT   RUTIP LR           N44425660E026333672                                                                                 
+SEUREAENRT   SIGHI LR           N46164664E024381218                                                                                 
+SEUREAENRT   SIRVA LR           N45081297E028080654                                                                                 
+SEUREAENRT   SOBRU LR           N44385584E026395520                                                                                 
+SEUREAENRT   SOLGA LR           N47040831E027241830                                                                                 
+SEUREAENRT   SOMET LR           N47414002E023093931                                                                                 
+SEUREAENRT   SORAN LR           N46010810E027311611                                                                                 
+SEUREAENRT   SORIN LR           N45263438E022094785                                                                                 
+SEUREAENRT   SOSIT LR           N44002641E025103281                                                                                 
+SEUREAENRT   SUPEX LR           N45330785E023133301                                                                                 
+SEUREAENRT   SUROL LR           N45014598E024183396                                                                                 
+SEUREAENRT   SUSUR LR           N44364702E026443514                                                                                 
+SEUREAENRT   TALIK LR           N45492172E021425280                                                                                 
+SEUREAENRT   TANDI LR           N44304533E027590355                                                                                 
+SEUREAENRT   TEDRA LR           N45043397E026271540                                                                                 
+SEUREAENRT   TEGRI LR           N46154603E021061634                                                                                 
+SEUREAENRT   TIMEX LR           N44402306E025572119                                                                                 
+SEUREAENRT   TIMPU LR           N46144640E021323012                                                                                 
+SEUREAENRT   TIPAR LR           N47174380E027244559                                                                                 
+SEUREAENRT   TIRGU LR           N46262544E024080147                                                                                 
+SEUREAENRT   TISAD LR           N47315871E022352158                                                                                 
+SEUREAENRT   TITEK LR           N44293576E023342593                                                                                 
+SEUREAENRT   TOLNO LR           N44594095E026205068                                                                                 
+SEUREAENRT   TOMET LR           N46291152E025353220                                                                                 
+SEUREAENRT   TOMUC LR           N47302685E026493434                                                                                 
+SEUREAENRT   TUNET LR           N45414529E022044651                                                                                 
+SEUREAENRT   TURDA LR           N46341685E023521494                                                                                 
+SEUREAENRT   TUSET LR           N44373668E025085848                                                                                 
+SEUREAENRT   UBITA LR           N45262373E023003171                                                                                 
+SEUREAENRT   UMOLI LR           N44364090E026250297                                                                                 
+SEUREAENRT   UNGAR LR           N46102845E020561770                                                                                 
+SEUREAENRT   URARA LR           N45173150E027281295                                                                                 
+SEUREAENRT   UREKI LR           N45481505E023395770                                                                                 
+SEUREAENRT   URELA LR           N45294791E026333993                                                                                 
+SEUREAENRT   VALIN LR           N46241855E023174996                                                                                 
+SEUREAENRT   VALPA LR           N44044651E025151081                                                                                 
+SEUREAENRT   VAMES LR           N47204829E023334040                                                                                 
+SEUREAENRT   VAMON LR           N44235786E024404688                                                                                 
+SEUREAENRT   VASIS LR           N45571159E022242907                                                                                 
+SEUREAENRT   VESEL LR           N44574667E025464557                                                                                 
+SEUREAENRT   VEVIN LR           N44424715E026390704                                                                                 
+SEUREAENRT   VIBET LR           N44483725E026091777                                                                                 
+SEURDB       ARD   LR000517     N46110237E021084164                                                                                 
+SEURDB       BC    LR000426     N46284120E026553869                                                                                 
+SEURDB       BMR   LR000404     N47401638E023204549                                                                                 
+SEURDB       A     LR000434     N44303700E0260812100                                                                                
+SEURDB       BSE   LR000256     N44314669E026134993                                                                                 
+SEURDB       BSW   LR000521     N44281951E025570719                                                                                 
+SEURDB       B     LR000385     N44290200E0260432100                                                                                
+SEURDB       CRS   LR000330     N45263438E022094784                                                                                 
+SEURDB       UU    LR000325     N44170738E028284055                                                                                 
+SEURDB       ZZ    LR000378     N44261062E028295517                                                                                 
+SEURDB       EA    LR000417     N44191034E023593186                                                                                 
+SEURDB       D     LR000432     N44050410E0242309100                                                                                
+SEURDB       DA    LR000214     N44052400E0242057100                                                                                
+SEURDB       IAS   LR000391     N47140338E027344685                                                                                 
+SEURDB       ORA   LR000418     N47060125E021552687                                                                                 
+SEURDB       OPW   LR000267     N44332788E025590468                                                                                 
+SEURDB       OPE   LR000349     N44342880E026124080                                                                                 
+SEURDB       OTL   LR000370     N44341292E026000222                                                                                 
+SEURDB       OTR   LR000318     N44351680E026140720                                                                                 
+SEURDB       SAT   LR000365     N47432497E022533317                                                                                 
+SEURDB       SIB   LR000381     N45470604E024090929                                                                                 
+SEURDB       TND   LR000304     N44392053E027391696                                                                                 
+SEURDB       TGM   LR000428     N46264889E024182370                                                                                 
+SEURDB       TSR   LR000408     N45490475E021181946                                                                                 
+SEURDB       TLC   LR000422     N44593324E028441090                                                                                 
+SEURD        ARD   LR010900V    N46110266E021083704                                                                                 
+SEURD        BCU   LR010940V    N46303930E026493196                                                                                 
+SEURD        BRV   LR011760V    N45340318E025335285                                                                                 
+SEURD        CLJ   LR011120V    N46480043E023471411                                                                                 
+SEURD        CND   LR011270V    N44174005E028284629                                                                                 
+SEURD        CRV   LR011020V    N44190696E023552190                                                                                 
+SEURD        DVA   LR010980V    N45494085E022580809                                                                                 
+SEURD        FLR   LR011220V    N44300298E025422940                                                                                 
+SEURD        GLT   LR010820V    N45245877E027553988                                                                                 
+SEURD        OPT   LR011710V    N44352963E026333435                                                                                 
+SEURD        SAT   LR010840V    N47433870E022533794                                                                                 
+SEURD        SBI   LR011400V    N45465118E024051608                                                                                 
+SEURD        STJ   LR011320V    N44550682E025583730                                                                                 
+SEURD        SCV   LR011230V    N47402037E0262138100                                                                                
+SEURD        TGJ   LR011530V    N45033887E023200266                                                                                 
+SEURD        TLA   LR011480V    N45044329E028423423                                                                                 
+SEURD        IAD   LR011070 D   N46103739E021161584                                                                                 
+SEURD        ICK   LR011030 D   N44205874E028292004                                                                                 
+SEURD        ICL   LR011030 D   N46471409E023413794                                                                                 
+SEURD        IIS   LR010910 D   N47110015E027370620                                                                                 
+SEURD        ILL   LR011090 D   N44344089E026051587                                                                                 
+SEURD        IOP   LR011030 D   N44334974E026045276                                                                                 
+SEURD        IOE   LR010910 D   N44335960E026065887                                                                                 
+SEURD        IRR   LR011070 D   N44345060E026072594                                                                                 
+SEURD        ITR   LR010930 D   N45481628E021211587                                                                                 
+SEURD        ARD   LR010900 D   N46110266E021083704                                                                                 
+SEURD        BCU   LR010940 D   N46303930E026493196                                                                                 
+SEURD        BRV   LR011760 D   N45340318E025335285                                                                                 
+SEURD        CLJ   LR011120 D   N46480043E023471411                                                                                 
+SEURD        CND   LR011270 D   N44174005E028284629                                                                                 
+SEURD        CRV   LR011020 D   N44190696E023552190                                                                                 
+SEURD        DVA   LR010980 D   N45494085E022580809                                                                                 
+SEURD        FLR   LR011220 D   N44300310E0254230100                                                                                
+SEURD        GLT   LR010820 D   N45245877E027553988                                                                                 
+SEURD        OPT   LR011710 D   N44352963E026333435                                                                                 
+SEURD        SAT   LR010840 D   N47433870E022533794                                                                                 
+SEURD        STJ   LR011320 D   N44550682E025583730                                                                                 
+SEURD        SCV   LR011230 D   N47402037E0262138100                                                                                
+SEURD        TGJ   LR011530 D   N45033887E023200266                                                                                 
+SEURD        TLA   LR011480 D   N45044329E028423423                                                                                 
+SEURD        SBI   LR011400 D   N45465118E024051608                                                                                 
+SEURER       W8          0420SIB  LRD       O                                      07500     24500                                  
+SEURER       W8          0430UREKILREA      O                             0204     07500     24500                                  
+SEURER       W8          0440DVA  LRD       O                             0292     05500     24500                                  
+SEURER       W8          0450EPOLALREA      O                             0213     05500     24500                                  
+SEURER       W8          0460FAGETLREA      O                             0199     06500     24500                                  
+SEURER       W8          0470TALIKLREA      O                             0113     03500     24500                                  
+SEURER       W8          0480TSR  LRD       O                             0171     03500     24500                                  
+SEURER       UL851       0030DEGETLREA      O                             0696     24500     66000                                  
+SEURER       UL851       0040BAXERLREA      O                             0205     24500     66000                                  
+SEURER       UL851       0050EVRIKLREA      O                             0207     24500     66000                                  
+SEURER       UL851       0060RIVOSLREA      O                                      24500     66000                                  
+SEURER       UL851       0070DENAKLREA      O                             0559     24500     66000                                  
+SEURER       UL851       0080PELURLREA      O                             0436     24500     66000                                  
+SEURER       UL851       0090OLERULREA      O                             0118     24500     66000                                  
+SEURER       UL851       0100GAVRILREA      O                             0412     24500     66000                                  
+SEURER       UL851       0110NEPOTLREA      O                             0556     24500     66000                                  
+SEURER       L621        0060BUKOVLREA      O                             0754     26000     27000                                  
+SEURER       L621        0070SCV  LRD       O                             0234     03500     24500                                  
+SEURER       L621        0080MIRONLREA      O                             0636     10500     24500                                  
+SEURER       L621        0090MOMERLREA      O                             0658     10500     24500                                  
+SEURER       L621        0100GLT  LRD       O                             0207     10500     24500                                  
+SEURER       L621        0110SIRVALREA      O                             0189     10500     24500                                  
+SEURER       L621        0120LEMPALREA      O                             0277     10500     24500                                  
+SEURER       L621        0130REVDA  EA      O                             0670     10500     24500                                  
+SEURER       L851        0030DEGETLREA      O                             0696     04000     24500                                  
+SEURER       L851        0040BAXERLREA      O                             0205     10500     24500                                  
+SEURER       L851        0050EVRIKLREA      O                             0207     10500     24500                                  
+SEURER       L851        0140CND  LRD       O                                      03500     24500                                  
+SEURER       L851        0150KONIM  EA      O                             0160     03500     24500                                  
+SEURER       L851        0170RIVOSLREA      O                                      17500     24500                                  
+SEURER       L851        0180DENAKLREA      O                             0559     17500     24500                                  
+SEURER       L851        0190PELURLREA      O                             0436     17500     24500                                  
+SEURER       L851        0200OLERULREA      O                             0118     10500     24500                                  
+SEURER       L851        0210DIPINLREA      O                             0339     10500     24500                                  
+SEURER       L851        0220GAVRILREA      O                             0073     10500     24500                                  
+SEURER       L851        0230UREKILREA      O                             0297     10500     24500                                  
+SEURER       L851        0240NEPOTLREA      O                             0259     10500     24500                                  
+SEURER       N743        0050CND  LRD       O                                      03500     24500                                  
+SEURER       N743        0060CETULLREA      O                             0250     03500     24500                                  
+SEURER       N743        0070TLC  LRD       O                             0183     03500     24500                                  
+SEURER       N743        0080IRMALLREA      O                                      15000     27000                                  
+SEURER       N743        0090ELMUSUKEA      O                             0236     15000     27000                                  
+SEURER       L620        0020BADORLREA      O                             0831     05500     24500                                  
+SEURER       L620        0030ROMAGLREA      O                             0155     05500     24500                                  
+SEURER       L620        0040OBORULREA      O                             0366     05500     24500                                  
+SEURER       L620        0050LATELLREA      O                             0129     05500     24500                                  
+SEURER       L620        0060REBLALREA      O                             0178     05500     24500                                  
+SEURER       L620        0070TGM  LRD       O                             0298     05500     24500                                  
+SEURER       L620        0080SIGHILREA      O                             0170     06500     24500                                  
+SEURER       L620        0220BAKOVLREA      O                                      10500     24500                                  
+SEURER       L620        0230ERGATLREA      O                             0325     10500     24500                                  
+SEURER       L620        0240LAPKALREA      O                             0355     10500     24500                                  
+SEURER       L620        0250RIVOSLREA      O                             0619     10500     24500                                  
+SEURER       L605        0080VALPALREA      O                             0314     10500     24500                                  
+SEURER       L605        0090VAMONLREA      O                             0313     10500     24500                                  
+SEURER       L605        0170TEGRILREA      O                             0572     05000     24500                                  
+SEURER       L605        0180FAGETLREA      O                             0451     10500     24500                                  
+SEURER       L605        0190NEKULLREA      O                             0313     10500     24500                                  
+SEURER       N133        0020DIROMLREA      O                             0581     10500     24500                                  
+SEURER       N133        0030MOKRULREA      O                             0114     10500     24500                                  
+SEURER       N133        0040ELBAGLREA      O                             0221     10500     24500                                  
+SEURER       N133        0050NEKULLREA      O                             0134     10500     24500                                  
+SEURER       N133        0060EPOLALREA      O                             0194     10500     24500                                  
+SEURER       N133        0070BESETLREA      O                             0214     10500     24500                                  
+SEURER       N133        0080EVRIKLREA      O                             0114     10500     24500                                  
+SEURER       N133        0090ORA  LRD       O                             0468     10500     24500                                  
+SEURER       N133        0100NARKALREA      O                             0093     05000     24500                                  
+SEURER       N133        0110KEKEDLZEA      O                             0799     12500     24500                                  
+SEURER       B248        0050BUKOVLREA      O                             0185     09000     27000                                  
+SEURER       P745        0010BAISALREA      O                                      06500     24500                                  
+SEURER       P745        0020REBLALREA      O                             0174     06500     24500                                  
+SEURER       P745        0030BUKANLREA      O                                      08500     24500                                  
+SEURER       P745        0040EVRIKLREA      O                             0290     08500     24500                                  
+SEURER       P745        0050NOPTILREA      O                             0104     08500     24500                                  
+SEURER       P745        0060TIMPULREA      O                             0193     08500     24500                                  
+SEURER       P745        0070MOPUGLREA      O                                      03500     24500                                  
+SEURER       P745        0080UNGARLREA      O                             0096     03500     24500                                  
+SEURER       M748        0200DEGETLREA      O                                      05000     24500                                  
+SEURER       M748        0210EPARILHEA      O                             1178     05000     24500                                  
+SEURER       N978        0010BCU  LRD       O                                      04500     24500                                  
+SEURER       N978        0020DEKITLREA      O                             0184     04500     24500                                  
+SEURER       N978        0030MOLAXLREA      O                             0156     08500     24500                                  
+SEURER       N978        0040NURGULREA      O                             0093     14500     24500                                  
+SEURER       N978        0050BAKOVLREA      O                             0306     14500     24500                                  
+SEURER       N978        0060MOBRALREA      O                             0181     14500     24500                                  
+SEURER       N978        0070ODEVALREA      O                             0058     14500     24500                                  
+SEURER       N978        0080GAVRILREA      O                             0196     14500     24500                                  
+SEURER       N978        0090EPUKILREA      O                             0134     14500     24500                                  
+SEURER       N978        0100NERDILREA      O                             0187     14500     24500                                  
+SEURER       N978        0110LAMITLREA      O                             0187     14500     24500                                  
+SEURER       M977        0050RUMUKLREA      O                             1123     04500     24500                                  
+SEURER       M977        0060BMR  LRD       O                             0213     04500     24500                                  
+SEURER       M977        0070LOZNALREA      O                             0150     04500     24500                                  
+SEURER       M977        0080ROPANLREA      O                             0223     04500     24500                                  
+SEURER       M977        0090CLJ  LRD       O                             0180     04500     24500                                  
+SEURER       M977        0100TURDALREA      O                             0142     04500     24500                                  
+SEURER       M977        0110BLAJALREA      O                             0241     04500     24500                                  
+SEURER       M977        0120SIB  LRD       O                             0245     04500     24500                                  
+SEURER       M977        0130DIPINLREA      O                             0187     10500     24500                                  
+SEURER       M977        0140BEDRILREA      O                             0446     10500     24500                                  
+SEURER       M977        0150FLR  LRD       O                             0394     17500     24500                                  
+SEURER       M977        0160OBUGALREA      O                             0288     17500     24500                                  
+SEURER       M977        0170KOMANLREA      O                             0092     04500     24500                                  
+SEURER       T85         0010CND  LRD       RL                                     04500     24500                                  
+SEURER       T85         0020PISIKLREA      RL                            0140     04500     24500                                  
+SEURER       T85         0030DIRALLREA      RL                            0278     04500     24500                                  
+SEURER       T85         0040IDARULREA      RL                            0257     04500     24500                                  
+SEURER       T85         0050MOPUGLREA      RL                                     07500     24500                                  
+SEURER       T85         0060MOMIKLREA      RL                            0242     07500     24500                                  
+SEURER       T85         0070TALIKLREA      RL                            0225     07500     24500                                  
+SEURER       T85         0080ELTIMLREA      RL                            0145     07500     24500                                  
+SEURER       T85         0090BANASLREA      RL                            0115     07500     24500                                  
+SEURER       T85         0100NEKULLREA      RL                            0150     10500     24500                                  
+SEURER       T85         0110UBITALREA      RL                            0184     10500     24500                                  
+SEURER       T85         0120NERDILREA      RL                            0303     10500     24500                                  
+SEURER       T85         0130ENIMALREA      RL                            0526     17500     24500                                  
+SEURER       T85         0140BALBILREA      RL                            0376     17500     24500                                  
+SEURER       T85         0150VIBETLREA      RL                            0180     17500     24500                                  
+SEURER       T85         0160VEVINLREA      RL                            0220     17500     24500                                  
+SEURER       L623        0010BCU  LRD       O                                      10500     24500                                  
+SEURER       L623        0020BIBORLREA      O                             0828     10500     24500                                  
+SEURER       L623        0030RUMUKLREA      O                             0857     10500     24500                                  
+SEURER       L623        0040SR   UKD       O                             0449     09000     27000                                  
+SEURER       W5          0010BMR  LRD       O                                      04500     24500                                  
+SEURER       W5          0020SOMETLREA      O                             0076     04500     24500                                  
+SEURER       W5          0030SAT  LRD       O                             0110     04500     24500                                  
+SEURER       W5          0040TISADLREA      O                             0170     03500     24500                                  
+SEURER       W5          0050ROMAGLREA      O                             0096     03500     24500                                  
+SEURER       W5          0060RULESLREA      O                             0197     03500     24500                                  
+SEURER       W5          0070ORA  LRD       O                             0083     03500     24500                                  
+SEURER       W5          0080GINOSLREA      O                             0120     03500     24500                                  
+SEURER       W5          0090ORTASLREA      O                             0184     03500     24500                                  
+SEURER       W5          0100NAVARLREA      O                             0076     03500     24500                                  
+SEURER       W3          0010BCU  LRD       O                                      03500     24500                                  
+SEURER       W3          0020MIRONLREA      O                             0153     03500     24500                                  
+SEURER       W3          0030SOLGALREA      O                             0258     03500     24500                                  
+SEURER       W3          0540SCV  LRD       O                                      03500     24500                                  
+SEURER       W3          0550TOMUCLREA      O                             0213     03500     24500                                  
+SEURER       W3          0560TIPARLREA      O                             0270     03500     24500                                  
+SEURER       W92         0010BATINLREA      O                                      05500     24500                                  
+SEURER       W92         0020SIB  LRD       O                             0210     05500     24500                                  
+SEURER       W92         0030COPSALREA      O                             0211     04500     24500                                  
+SEURER       W92         0040BARBULREA      O                             0116     04500     24500                                  
+SEURER       W92         0050TGM  LRD       O                             0076     04500     24500                                  
+SEURER       W92         0060RAROSLREA      O                             0199     04500     24500                                  
+SEURER       W92         0070TOMETLREA      O                             0333     09500     24500                                  
+SEURER       W92         0080BUCSALREA      O                             0320     04500     24500                                  
+SEURER       W92         0090BCU  LRD       O                             0189     04500     24500                                  
+SEURER       W92         0120BUKANLREA      O                                      09500     24500                                  
+SEURER       W92         0130ROSIALREA      O                             0324     09500     24500                                  
+SEURER       W92         0140ORA  LRD       O                             0200     04500     24500                                  
+SEURER       L619        0090BUKELLREA      O                                      10500     24500                                  
+SEURER       L619        0100PELURLREA      O                             0161     10500     24500                                  
+SEURER       L619        0110MOBRALREA      O                             0446     10500     24500                                  
+SEURER       L619        0120DEMUNLREA      O                             0132     04500     24500                                  
+SEURER       L619        0130BARBULREA      O                             0223     04500     24500                                  
+SEURER       L619        0140TIRGULREA      O                             0093     05500     24500                                  
+SEURER       L619        0150ETORALREA      O                             0120     05500     24500                                  
+SEURER       L619        0160REBLALREA      O                             0130     05500     24500                                  
+SEURER       L619        0170BIRTALREA      O                             0185     05500     24500                                  
+SEURER       L619        0180LARMULREA      O                             0201     05500     24500                                  
+SEURER       L619        0190KARILLHEA      O                             0431     05000     24500                                  
+SEURER       W1          0010CLJ  LRD       O                                      04500     24500                                  
+SEURER       W1          0020BARTALREA      O                             0140     04500     24500                                  
+SEURER       W1          0030LIBDOLREA      O                             0133     04500     24500                                  
+SEURER       W1          0040BIBORLREA      O                             0348     09500     24500                                  
+SEURER       W1          0050HUMORLREA      O                             0334     09500     24500                                  
+SEURER       W1          0060SCV  LRD       O                             0218     04500     24500                                  
+SEURER       T4          0010BASNALREA      RL                                     10500     24500                                  
+SEURER       T4          0020BURIXLREA      RL                            0230     10500     24500                                  
+SEURER       T4          0030SUPEXLREA      RL                            0167     10500     24500                                  
+SEURER       T4          0040NERDILREA      RL                            0247     10500     24500                                  
+SEURER       W85         0010BASNALREA      O                                      05500     24500                                  
+SEURER       W85         0020DVA  LRD       O                             0225     05500     24500                                  
+SEURER       L5          0010FLR  LRD       O                                      17500     24500                                  
+SEURER       L5          0020TUSETLREA      O                             0251     17500     24500                                  
+SEURER       L5          0150LAMITLREA      O                                      10500     24500                                  
+SEURER       L5          0160NESIMLREA      O                             0097     10500     24500                                  
+SEURER       L5          0170MOKRULREA      O                             0158     10500     24500                                  
+SEURER       L5          0180VELIPLYEA      O                             0556     10500     24500                                  
+SEURER       W90         0010REBLALREA      O                                      04500     24500                                  
+SEURER       W90         0020CLJ  LRD       O                             0030     04500     24500                                  
+SEURER       W90         0030DRAGULREA      O                             0180     04500     24500                                  
+SEURER       W90         0040JIBOULREA      O                             0315     04500     24500                                  
+SEURER       W90         0050SAT  LRD       O                             0170     04500     24500                                  
+SEURER       N616        0010BUKOVLREA      O                                      08500     24500                                  
+SEURER       N616        0020BCU  LRD       O                             0935     08500     24500                                  
+SEURER       N616        0030PELESLREA      O                             0200     04500     24500                                  
+SEURER       N616        0040EVIKALREA      O                             0411     04500     24500                                  
+SEURER       N616        0050PILATLREA      O                             0534     06500     24500                                  
+SEURER       N616        0060ERITALREA      O                             0147     03500     24500                                  
+SEURER       N616        0070CND  LRD       O                             0210     03500     24500                                  
+SEURER       T900        0010BCU  LRD       RL                                     09500     24500                                  
+SEURER       T900        0020GORUNLREA      RL                            0170     09500     24500                                  
+SEURER       T900        0030FOCSALREA      RL                            0145     09500     24500                                  
+SEURER       T900        0040NERTOLREA      RL                            0083     09500     24500                                  
+SEURER       T900        0050URELALREA      RL                            0221     09500     24500                                  
+SEURER       T900        0060LAPKALREA      RL                            0124     09500     24500                                  
+SEURER       T900        0070TEDRALREA      RL                            0132     09500     24500                                  
+SEURER       T900        0080DENAKLREA      RL                            0045     09500     24500                                  
+SEURER       B499        0010BCU  LRD       O                                      03500     24500                                  
+SEURER       B499        0020MOLIDLREA      O                             0199     03500     24500                                  
+SEURER       B499        0030POGAVLUEA      O                             0377     04500     24500                                  
+SEURER       L850        0040BUDOPLREA      O                             0867     04000     24500                                  
+SEURER       L850        0050DEROTLREA      O                                      10500     24500                                  
+SEURER       L850        0060EVRIKLREA      O                             0325     10500     24500                                  
+SEURER       L850        0070MOBRALREA      O                                      10500     24500                                  
+SEURER       L850        0080ERGATLREA      O                             0446     10500     24500                                  
+SEURER       L850        0090URELALREA      O                             0317     10500     24500                                  
+SEURER       L850        0100URARALREA      O                             0403     10500     24500                                  
+SEURER       L850        0110SIRVALREA      O                             0296     10500     24500                                  
+SEURER       L850        0120TLC  LRD       O                             0269     10500     24500                                  
+SEURER       L850        0130OGATA  EA      O                             0603     20000     27000                                  
+SEURER       N127        0070TITEKLREA      O                                      10500     24500                                  
+SEURER       N127        0080DEKAMLREA      O                             0254     10500     24500                                  
+SEURER       N127        0090LAMITLREA      O                             0122     10500     24500                                  
+SEURER       N127        0100SUPEXLREA      O                             0276     10500     24500                                  
+SEURER       N127        0110NEPOTLREA      O                             0252     10500     24500                                  
+SEURER       N127        0120DEROTLREA      O                             0157     10500     24500                                  
+SEURER       N127        0130BUKANLREA      O                             0195     10500     24500                                  
+SEURER       N127        0140OBARALREA      O                             0309     10500     24500                                  
+SEURER       N127        0150KARILLHEA      O                             0471     10500     24500                                  
+SEURER       M987        0010BERESLREA      O                                      03500     24500                                  
+SEURER       M987        0020GLT  LRD       O                             0154     03500     24500                                  
+SEURER       W583        0010BERESLREA      O                                      09000     27000                                  
+SEURER       W583        0020IDSARUKEA      O                             0214     09000     27000                                  
+SEURER       L602        0030BUDOPLREA      O                                      04000     24500                                  
+SEURER       L602        0040NORAHLHEA      O                             0887     04000     24500                                  
+SEURER       L602        0240KOMANLREA      O                                      17500     24500                                  
+SEURER       L602        0250TUSETLREA      O                             0600     17500     24500                                  
+SEURER       L602        0260SUROLLREA      O                             0432     10500     24500                                  
+SEURER       L602        0270NERDILREA      O                             0308     10500     24500                                  
+SEURER       L602        0280NEPOTLREA      O                             0467     10500     24500                                  
+SEURER       W2          0170CRV  LRD       O                                      04500     24500                                  
+SEURER       W2          0180PEMOKLREA      O                             0185     04500     24500                                  
+SEURER       W2          0190LUMITLREA      O                             0038     04500     24500                                  
+SEURER       W2          0200VAMONLREA      O                             0106     04500     24500                                  
+SEURER       B33         0040KOMANLREA      O                             0352     04500     24500                                  
+SEURER       T705        0040NEPOTLREA      RL                                     10500     24500                                  
+SEURER       T705        0050EPUKILREA      RL                            0496     10500     24500                                  
+SEURER       T705        0060ENIMALREA      RL                            0433     10500     24500                                  
+SEURER       T705        0070NILOVLREA      RL                            0136     10500     24500                                  
+SEURER       T705        0080RILEXLREA      RL                            0359     17500     24500                                  
+SEURER       T705        0090NILETLREA      RL                            0162     17500     24500                                  
+SEURER       L602-       0010BUDOPLREA      O                                      10500     24500                                  
+SEURER       L602-       0020ORTASLREA      O                             0026     10500     24500                                  
+SEURER       L602-       0030EVRIKLREA      O                             0342     10500     24500                                  
+SEURER       P727        0100OSTALLREA      O                                      19500     24500                                  
+SEURER       P727        0110VEVINLREA      O                             0266     19500     24500                                  
+SEURER       W91         0010PASCALREA      O                                      03500     24500                                  
+SEURER       W91         0020SCV  LRD       O                             0211     03500     24500                                  
+SEURER       W80         0010CLJ  LRD       O                                      05500     24500                                  
+SEURER       W80         0020NAPOCLREA      O                             0100     05500     24500                                  
+SEURER       W80         0030MOLNALREA      O                             0102     05500     24500                                  
+SEURER       W80         0040TGM  LRD       O                             0100     05500     24500                                  
+SEURER       L601-       0010CND  LRD       O                                      03500     24500                                  
+SEURER       L601-       0020EFORILREA      O                             0155     03500     24500                                  
+SEURER       L601-       0030DINRO  EA      O                             0229     05500     24500                                  
+SEURER       T997        0010CND  LRD       RL                                     03500     24500                                  
+SEURER       T997        0020MARIR  EA      RL                            0160     03500     24500                                  
+SEURER       M747        0010CND  LRD       O                                      03500     24500                                  
+SEURER       M747        0020NICOL  EA      O                             0293     03500     24500                                  
+SEURER       L620-       0010CND  LRD       O                                      03500     24500                                  
+SEURER       L620-       0020TANDILREA      O                             0250     03500     24500                                  
+SEURER       L620-       0030RIVOSLREA      O                             0165     03500     24500                                  
+SEURER       T71         0030TLC  LRD       RL                                     03500     24500                                  
+SEURER       T71         0040DANULLREA      RL                            0130     03500     24500                                  
+SEURER       T71         0050PILATLREA      RL                            0160     03500     24500                                  
+SEURER       T71         0060RIVOSLREA      RL                            0214     04500     24500                                  
+SEURER       T71         0070NETULLREA      RL                            0290     04500     24500                                  
+SEURER       T71         0080VEVINLREA      RL                            0140     17500     24500                                  
+SEURER       T6          0010TSR  LRD       RL                                     03500     24500                                  
+SEURER       T6          0020CROSALREA      RL                            0225     05500     24500                                  
+SEURER       T6          0030SORINLREA      RL                            0200     05500     24500                                  
+SEURER       T6          0040ELBAGLREA      RL                            0231     10500     24500                                  
+SEURER       T6          0050KUGIRLREA      RL                            0199     10500     24500                                  
+SEURER       T6          0060LAMITLREA      RL                            0121     10500     24500                                  
+SEURER       UL602       0170BUDOPLREA      O                                      24500     66000                                  
+SEURER       UL602       0180NORAHLHEA      O                             0887     24500     66000                                  
+SEURER       UL602       0450KOMANLREA      O                             0535     24500     60000                                  
+SEURER       UL602       0460TUSETLREA      O                             0600     24500     66000                                  
+SEURER       UL602       0470SUROLLREA      O                             0432     24500     66000                                  
+SEURER       UL602       0480NERDILREA      O                             0308     24500     66000                                  
+SEURER       P740        0010DENAKLREA      O                                      17500     24500                                  
+SEURER       P740        0020VIBETLREA      O                             0166     17500     24500                                  
+SEURER       P740        0030TIMEXLREA      O                             0118     17500     24500                                  
+SEURER       P740        0040RILEXLREA      O                             0065     17500     24500                                  
+SEURER       P740        0050FLR  LRD       O                             0083     17500     24500                                  
+SEURER       P740        0070GLT  LRD       O                             0238     03500     24500                                  
+SEURER       P740        0080URARALREA      O                             0207     06500     24500                                  
+SEURER       L606        0040MOPUGLREA      O                             0393     03500     24500                                  
+SEURER       L606        0050GIROKLREA      O                             0203     03500     24500                                  
+SEURER       L606        0060TSR  LRD       O                             0121     03500     24500                                  
+SEURER       L606        0070MOKRULREA      O                             0823     10500     24500                                  
+SEURER       L606        0080DOSIRLREA      O                             0090     10500     24500                                  
+SEURER       L606        0090TITEKLREA      O                             0333     10500     24500                                  
+SEURER       L606        0100SOMOVLBEA      O                             0728     10500     24500                                  
+SEURER       L624        0020ESATULREA      O                             0323     10500     24500                                  
+SEURER       L624        0030LIBDOLREA      O                             0595     10500     24500                                  
+SEURER       L624        0040TOMETLREA      O                             0589     10500     24500                                  
+SEURER       L624        0050MOLAXLREA      O                             0242     10500     24500                                  
+SEURER       L624        0060FOCSALREA      O                             0301     10500     24500                                  
+SEURER       L624        0070EVIKALREA      O                             0414     10500     24500                                  
+SEURER       L624        0080GLT  LRD       O                             0210     04500     24500                                  
+SEURER       L624        0090DUNAVLREA      O                             0292     04500     24500                                  
+SEURER       L624        0100TLC  LRD       O                             0135     04500     24500                                  
+SEURER       L624        0110LUNEK  EA      O                             0564     10500     24500                                  
+SEURER       T3          0010REBLALREA      RL                                     10500     24500                                  
+SEURER       T3          0020EREDILREA      RL                            0170     04500     24500                                  
+SEURER       T3          0030LUNAVLREA      RL                            0092     04500     24500                                  
+SEURER       T3          0040OBARALREA      RL                            0190     04500     24500                                  
+SEURER       T3          0050RULESLREA      RL                            0282     04500     24500                                  
+SEURER       T3          0060NARKALREA      RL                            0091     04500     24500                                  
+SEURER       L602-       0010EVRIKLREA      O                                      10500     24500                                  
+SEURER       L602-       0020NEPOTLREA      O                             0423     10500     24500                                  
+SEURER       T800        0010EVRIKLREA      RL                                     08500     24500                                  
+SEURER       T800        0020VALINLREA      RL                            0438     08500     24500                                  
+SEURER       T800        0030TIRGULREA      RL                            0347     08500     24500                                  
+SEURER       T800        0040TGM  LRD       RL                            0072     08500     24500                                  
+SEURER       P159        0010FLR  LRD       O                                      17500     24500                                  
+SEURER       P159        0020VALPALREA      O                             0320     17500     24500                                  
+SEURER       Y570        0060TEGRILREA      O                             0537     04000     24500                                  
+SEURER       N95         0020NARKALREA      O                             0657     05500     24500                                  
+SEURER       P981        0010LAMITLREA      O                                      10500     24500                                  
+SEURER       P981        0020SUROLLREA      O                             0399     10500     24500                                  
+SEURER       P981        0030NILOVLREA      O                             0368     10500     24500                                  
+SEURER       B48         0010MOMIKLREA      O                                      03500     24500                                  
+SEURER       B48         0020TSR  LRD       O                             0107     03500     24500                                  
+SEURER       B48         0030PABLILREA      O                             0139     04500     24500                                  
+SEURER       B48         0040MAVITLYEA      O                             0208     04500     24500                                  
+SEURER       Y33         0010NARKALREA      O                                      04000     24500                                  
+SEURER       Y33         0020NORAHLHEA      O                             0862     04000     24500                                  
+SEURER       L867        0010NARKALREA      O                                      05500     24500                                  
+SEURER       L867        0020PITOKLHEA      O                             0882     05500     24500                                  
+SEURER       T5          0010ODEVALREA      RL                                     07500     24500                                  
+SEURER       T5          0020SIB  LRD       RL                            0232     07500     24500                                  
+SEURER       UM406       0050BUKURLREA      O                                      24500     66000                                  
+SEURER       UM406       0060BENGULREA      O                             0126     24500     66000                                  
+SEURER       UM406       0070ROKARLREA      O                             0070     24500     66000                                  
+SEURER       UM406       0080KUSURLREA      O                             0657     24500     66000                                  
+SEURER       UM406       0090EPAVALREA      O                             0143     24500     66000                                  
+SEURER       UM406       0100KARILLHEA      O                             0300     24500     66000                                  
+SEURER       UL621       0060BARUKLREA      O                             0545     24500     66000                                  
+SEURER       UL621       0070LEMPALREA      O                             0125     24500     66000                                  
+SEURER       UL621       0080SIRVALREA      O                             0277     24500     66000                                  
+SEURER       UL621       0090GLT  LRD       O                             0189     24500     66000                                  
+SEURER       UL621       0100MOMERLREA      O                             0207     24500     66000                                  
+SEURER       UL621       0110SORANLREA      O                             0193     24500     66000                                  
+SEURER       UL621       0120MIRONLREA      O                             0465     24500     66000                                  
+SEURER       UL621       0130SCV  LRD       O                             0636     24500     66000                                  
+SEURER       UL621       0140BUKOVLREA      O                             0234     28000     66000                                  
+SEURER       UL621       0150DIBEDUKEA      O                             1631     28000     66000                                  
+SEURER       UL620       0010BAKOVLREA      O                                      24500     66000                                  
+SEURER       UL620       0020ERGATLREA      O                             0325     24500     66000                                  
+SEURER       UL620       0030LAPKALREA      O                             0355     24500     66000                                  
+SEURER       UL620       0040RIVOSLREA      O                             0619     24500     66000                                  
+SEURER       UL620       0380BADORLREA      O                             0831     24500     66000                                  
+SEURER       UL620       0390RILASLREA      O                             0251     24500     49000                                  
+SEURER       UL620       0400OBORULREA      O                             0270     24500     66000                                  
+SEURER       UL620       0410REBLALREA      O                             0307     24500     66000                                  
+SEURER       UL620       0420TGM  LRD       O                             0298     24500     66000                                  
+SEURER       UL605       0040BAKUSLREA      O                                      24500     66000                                  
+SEURER       UL605       0050LAMITLREA      O                             0420     24500     66000                                  
+SEURER       UL605       0100VALPALREA      O                             0314     24500     66000                                  
+SEURER       UL605       0180TEGRILREA      O                             0572     24500     66000                                  
+SEURER       UL605       0190PERUTLREA      O                             0416     24500     66000                                  
+SEURER       UL605       0200NEKULLREA      O                             0349     24500     66000                                  
+SEURER       UN978       0010LAMITLREA      O                                      24500     32500                                  
+SEURER       UN978       0020NERDILREA      O                             0187     24500     32500                                  
+SEURER       UN978       0030EPUKILREA      O                             0187     24500     32500                                  
+SEURER       UN978       0040GAVRILREA      O                             0134     24500     32500                                  
+SEURER       UN978       0050ODEVALREA      O                             0196     24500     32500                                  
+SEURER       UN978       0060MOBRALREA      O                             0058     24500     32500                                  
+SEURER       UN978       0070BAKOVLREA      O                             0181     24500     32500                                  
+SEURER       UN978       0080NURGULREA      O                             0306     24500     32500                                  
+SEURER       UN978       0090MOLAXLREA      O                             0093     24500     32500                                  
+SEURER       UN978       0100GIKOLLREA      O                             0125     24500     32500                                  
+SEURER       UN978       0110BCU  LRD       O                             0215     24500     66000                                  
+SEURER       UN978       0120BUSESLUEA      O                             0583     24500     66000                                  
+SEURER       UL867       0010NERDILREA      O                                      24500     66000                                  
+SEURER       UL867       0020BAKUSLREA      O                             0427     24500     66000                                  
+SEURER       UL867       0030KUGETLREA      O                             0173     24500     66000                                  
+SEURER       UL867       0040SOMOVLBEA      O                             0486     24500     66000                                  
+SEURER       UL867       0100NEPOTLREA      O                                      24500     66000                                  
+SEURER       UL867       0110NARKALREA      O                             0925     24500     66000                                  
+SEURER       UL867       0120PITOKLHEA      O                             0882     24500     66000                                  
+SEURER       UM977       0050RUMUKLREA      O                             1123     28000     66000                                  
+SEURER       UM977       0060KUSURLREA      O                             0279     24500     66000                                  
+SEURER       UM977       0070VAMESLREA      O                             0139     24500     66000                                  
+SEURER       UM977       0080REBLALREA      O                             0360     24500     66000                                  
+SEURER       UT85        0010VEVINLREA      O                                      24500     66000                                  
+SEURER       UT85        0020BALBILREA      O                             0399     24500     66000                                  
+SEURER       UT85        0030ENIMALREA      O                             0376     24500     66000                                  
+SEURER       UT85        0040NERDILREA      O                             0526     24500     66000                                  
+SEURER       UT85        0050UBITALREA      O                             0303     24500     66000                                  
+SEURER       UT85        0060NEKULLREA      O                             0184     24500     66000                                  
+SEURER       UT85        0070TUNETLREA      O                             0239     24500     66000                                  
+SEURER       UT85        0080MOPUGLREA      O                             0638     24500     66000                                  
+SEURER       UT85        0090CND  LRD       O                                      24500     66000                                  
+SEURER       UT85        0100DIRALLREA      O                             0418     24500     66000                                  
+SEURER       UT85        0110IDARULREA      O                             0257     24500     66000                                  
+SEURER       UP159       0010MOLAXLREA      O                                      24500     66000                                  
+SEURER       UP159       0020NULGALREA      O                             0082     24500     66000                                  
+SEURER       UP159       0030ERGATLREA      O                             0301     24500     66000                                  
+SEURER       UP159       0040BALBILREA      O                             0450     24500     66000                                  
+SEURER       UP159       0050FLR  LRD       O                             0244     24500     66000                                  
+SEURER       UP159       0060VALPALREA      O                             0320     24500     66000                                  
+SEURER       UP159       0070SOSITLREA      O                             0055     24500     66000                                  
+SEURER       UL852       0010KOMANLREA      O                                      24500     46000                                  
+SEURER       UL852       0020BALIKLBEA      O                             0504     24500     46000                                  
+SEURER       UL619       0140BUKELLREA      O                                      24500     66000                                  
+SEURER       UL619       0150PELURLREA      O                             0161     24500     66000                                  
+SEURER       UL619       0160MOBRALREA      O                             0446     24500     66000                                  
+SEURER       UL619       0170DEMUNLREA      O                             0132     24500     66000                                  
+SEURER       UL619       0180REBLALREA      O                             0566     24500     66000                                  
+SEURER       UL619       0190LARMULREA      O                             0386     24500     66000                                  
+SEURER       UL619       0200KARILLHEA      O                             0431     24500     66000                                  
+SEURER       UL850       0080BUDOPLREA      O                             0867     24500     66000                                  
+SEURER       UL850       0120DEROTLREA      O                                      24500     66000                                  
+SEURER       UL850       0130EVRIKLREA      O                             0325     24500     66000                                  
+SEURER       UL850       0140MOBRALREA      O                                      24500     66000                                  
+SEURER       UL850       0150ERGATLREA      O                             0446     24500     66000                                  
+SEURER       UL850       0160URELALREA      O                             0317     24500     66000                                  
+SEURER       UL850       0170URARALREA      O                             0403     24500     66000                                  
+SEURER       UL850       0180NAVODLREA      O                             0071     24500     66000                                  
+SEURER       UL850       0190SIRVALREA      O                             0225     24500     66000                                  
+SEURER       UL850       0200TLC  LRD       O                             0269     24500     66000                                  
+SEURER       UL850       0210OGATA  EA      O                             0603     28000     66000                                  
+SEURER       UL623       0010BCU  LRD       O                                      24500     66000                                  
+SEURER       UL623       0020BUKURLREA      O                             0663     24500     66000                                  
+SEURER       UL623       0030BIBORLREA      O                             0165     24500     66000                                  
+SEURER       UL623       0040RUMUKLREA      O                             0857     24500     66000                                  
+SEURER       UL623       0050SIRSIUKEA      O                             0331     28000     66000                                  
+SEURER       UG107       0010CND  LRD       O                                      24500     66000                                  
+SEURER       UG107       0020BARUKLREA      O                             0153     24500     66000                                  
+SEURER       UG107       0030CETULLREA      O                             0097     24500     66000                                  
+SEURER       UG107       0040TLC  LRD       O                             0183     24500     66000                                  
+SEURER       UM747       0030CND  LRD       O                                      24500     66000                                  
+SEURER       UM747       0040MOBLU  EA      O                             0420     24500     66000                                  
+SEURER       UL5         0300MOKRULREA      O                             0556     24500     66000                                  
+SEURER       UL5         0310NESIMLREA      O                             0158     24500     66000                                  
+SEURER       UL5         0320LAMITLREA      O                             0097     24500     66000                                  
+SEURER       UL5         0330TUSETLREA      O                             0808     24500     66000                                  
+SEURER       UL5         0340FLR  LRD       O                             0251     24500     66000                                  
+SEURER       UL5         0350NIBANLREA      O                             0149     24500     66000                                  
+SEURER       UL5         0360VEVINLREA      O                             0274     24500     66000                                  
+SEURER       UN616       0010CND  LRD       O                                      24500     66000                                  
+SEURER       UN616       0020PILATLREA      O                             0357     24500     66000                                  
+SEURER       UN616       0030EVIKALREA      O                             0534     24500     66000                                  
+SEURER       UN616       0040BCU  LRD       O                             0611     24500     66000                                  
+SEURER       UN616       0050BUKOVLREA      O                             0935     24500     66000                                  
+SEURER       UN616       0060PEMIRUKEA      O                             0815     28000     66000                                  
+SEURER       UT900       0010MIRONLREA      O                                      24500     66000                                  
+SEURER       UT900       0020BCU  LRD       O                             0153     24500     66000                                  
+SEURER       UT900       0030FOCSALREA      O                             0315     24500     66000                                  
+SEURER       UT900       0040NERTOLREA      O                             0083     24500     66000                                  
+SEURER       UT900       0050URELALREA      O                             0221     24500     66000                                  
+SEURER       UT900       0060OLPAXLREA      O                             0536     24500     66000                                  
+SEURER       UT900       0070FLR  LRD       O                             0163     24500     66000                                  
+SEURER       UB499       0020BCU  LRD       O                             0576     24500     66000                                  
+SEURER       UB499       0030TOMETLREA      O                             0510     24500     66000                                  
+SEURER       UB499       0040REBLALREA      O                             0779     24500     66000                                  
+SEURER       UB499       0050LUNAVLREA      O                             0262     24500     66000                                  
+SEURER       UB499       0060OBARALREA      O                             0190     24500     66000                                  
+SEURER       UB499       0070NARKALREA      O                             0373     24500     66000                                  
+SEURER       UP746       0010BCU  LRD       O                                      24500     66000                                  
+SEURER       UP746       0020SORANLREA      O                             0413     24500     66000                                  
+SEURER       UP746       0060ROMOLLREA      O                             1274     28000     66000                                  
+SEURER       UN127       0160RILASLREA      O                             0287     24500     66000                                  
+SEURER       UN127       0170OBARALREA      O                             0184     24500     66000                                  
+SEURER       UN127       0180BUKANLREA      O                             0309     24500     66000                                  
+SEURER       UN127       0190DEROTLREA      O                             0195     24500     66000                                  
+SEURER       UN127       0200NEPOTLREA      O                             0157     24500     66000                                  
+SEURER       UN127       0210SUPEXLREA      O                             0252     24500     66000                                  
+SEURER       UN127       0220LAMITLREA      O                             0276     24500     66000                                  
+SEURER       UN127       0230DEKAMLREA      O                             0122     24500     66000                                  
+SEURER       UN127       0240TITEKLREA      O                             0254     24500     66000                                  
+SEURER       UN127       0250OSTOVLBEA      O                             0437     24500     66000                                  
+SEURER       UM987       0020BERESLREA      O                             0214     24500     66000                                  
+SEURER       UM987       0030GLT  LRD       O                             0154     24500     66000                                  
+SEURER       UM987       0040NAVODLREA      O                             0159     24500     66000                                  
+SEURER       UM987       0050VEVINLREA      O                             0528     24500     66000                                  
+SEURER       UM987       0060NILETLREA      O                             0269     24500     66000                                  
+SEURER       UM748       0210DEGETLREA      O                             1178     24500     66000                                  
+SEURER       UM748       0220NEKULLREA      O                             0804     24500     66000                                  
+SEURER       UN133       0060DIROMLREA      O                             0581     24500     66000                                  
+SEURER       UN133       0070MOKRULREA      O                             0114     24500     66000                                  
+SEURER       UN133       0080NEKULLREA      O                             0355     24500     66000                                  
+SEURER       UN133       0090VASISLREA      O                             0273     24500     66000                                  
+SEURER       UN133       0100BESETLREA      O                             0135     24500     66000                                  
+SEURER       UN133       0110EVRIKLREA      O                             0114     24500     66000                                  
+SEURER       UN133       0120ORA  LRD       O                             0468     24500     66000                                  
+SEURER       UN133       0130NARKALREA      O                             0093     24500     66000                                  
+SEURER       UN133       0140KEKEDLZEA      O                             0799     24500     66000                                  
+SEURER       UL622       0030KOMANLREA      O                             0639     24500     66000                                  
+SEURER       UL622       0040FLR  LRD       O                             0380     24500     66000                                  
+SEURER       UL622       0050NILOVLREA      O                             0356     24500     66000                                  
+SEURER       UL622       0060GAVRILREA      O                             0537     24500     66000                                  
+SEURER       UL622       0070BUKANLREA      O                                      24500     66000                                  
+SEURER       UL622       0080NARKALREA      O                             0604     24500     66000                                  
+SEURER       UP133       0010SCV  LRD       O                                      24500     66000                                  
+SEURER       UP133       0020BIBORLREA      O                             0552     24500     66000                                  
+SEURER       UP133       0030ROKARLREA      O                             0054     24500     66000                                  
+SEURER       UP133       0040LIBDOLREA      O                             0294     24500     66000                                  
+SEURER       UP133       0050REBLALREA      O                             0300     24500     66000                                  
+SEURER       UP133       0060BUKANLREA      O                                      24500     66000                                  
+SEURER       UP133       0070EVRIKLREA      O                             0290     24500     66000                                  
+SEURER       UT705       0030NEPOTLREA      O                                      24500     66000                                  
+SEURER       UT705       0040EPUKILREA      O                             0496     24500     66000                                  
+SEURER       UT705       0050ENIMALREA      O                             0433     24500     66000                                  
+SEURER       UT705       0060NILOVLREA      O                             0136     24500     66000                                  
+SEURER       UT705       0070NILETLREA      O                             0521     24500     66000                                  
+SEURER       UL602       0010BUDOPLREA      O                                      24500     66000                                  
+SEURER       UL602       0020EVRIKLREA      O                             0368     24500     66000                                  
+SEURER       UP727       0010BUKOVLREA      O                                      28000     66000                                  
+SEURER       UP727       0020DIBONUMEA      O                             2368     28000     66000                                  
+SEURER       UP727       0110GIKOLLREA      O                                      24500     66000                                  
+SEURER       UP727       0120NELUKLREA      O                             0249     24500     66000                                  
+SEURER       UP727       0130URELALREA      O                             0275     24500     66000                                  
+SEURER       UP727       0140VEVINLREA      O                             0472     24500     66000                                  
+SEURER       UN190       0010BUKOVLREA      O                                      28000     66000                                  
+SEURER       UN190       0020MALBEUKEA      O                             1521     28000     66000                                  
+SEURER       UP984       0010DEGETLREA      O                                      24500     66000                                  
+SEURER       UP984       0020VASISLREA      O                             0574     24500     66000                                  
+SEURER       UP984       0030BURIXLREA      O                             0252     24500     66000                                  
+SEURER       UP984       0040SUPEXLREA      O                             0167     24500     66000                                  
+SEURER       UP984       0050NERDILREA      O                             0247     24500     66000                                  
+SEURER       UP984       0070SOSITLREA      O                             0276     24500     66000                                  
+SEURER       UP740       0030GLT  LRD       O                             0238     24500     66000                                  
+SEURER       UP740       0040URARALREA      O                             0207     24500     66000                                  
+SEURER       UP740       0050DENAKLREA      O                             0471     24500     66000                                  
+SEURER       UL601       0010CND  LRD       O                                      24500     66000                                  
+SEURER       UL601       0020DINRO  EA      O                             0384     24500     66000                                  
+SEURER       UT888       0010CND  LRD       O                                      24500     49000                                  
+SEURER       UT888       0020GALMI  EA      O                             0672     24500     49000                                  
+SEURER       UT997       0010CND  LRD       O                                      24500     66000                                  
+SEURER       UT997       0020REVDA  EA      O                             0442     24500     66000                                  
+SEURER       UL620       0010CND  LRD       O                                      24500     66000                                  
+SEURER       UL620       0020RIVOSLREA      O                             0415     24500     66000                                  
+SEURER       UT71        0030RIVOSLREA      O                                      24500     66000                                  
+SEURER       UT71        0040NETULLREA      O                             0290     24500     66000                                  
+SEURER       UT71        0050VEVINLREA      O                             0140     24500     66000                                  
+SEURER       UP184       0020DEDORLREA      O                             0720     24500     66000                                  
+SEURER       UP184       0030MOKRULREA      O                             0097     24500     66000                                  
+SEURER       UP184       0040TUNETLREA      O                             0546     24500     66000                                  
+SEURER       UP184       0050PERUTLREA      O                             0120     24500     66000                                  
+SEURER       UP184       0060DEGETLREA      O                             0466     24500     66000                                  
+SEURER       UT7         0010DENAKLREA      O                                      24500     30500                                  
+SEURER       UT7         0020LAPKALREA      O                             0177     24500     30500                                  
+SEURER       UT7         0030URELALREA      O                             0124     24500     30500                                  
+SEURER       UL606       0080MOPUGLREA      O                             0393     24500     66000                                  
+SEURER       UL606       0090TSR  LRD       O                             0324     24500     66000                                  
+SEURER       UL606       0100MOKRULREA      O                             0823     24500     66000                                  
+SEURER       UL606       0110DOSIRLREA      O                             0090     24500     66000                                  
+SEURER       UL606       0120TITEKLREA      O                             0333     24500     66000                                  
+SEURER       UL606       0130SOMOVLBEA      O                             0728     24500     66000                                  
+SEURER       UY33        0030NARKALREA      O                             0862     24500     66000                                  
+SEURER       UL624       0020ESATULREA      O                             0323     24500     66000                                  
+SEURER       UL624       0030VAMESLREA      O                             0204     24500     66000                                  
+SEURER       UL624       0040LIBDOLREA      O                             0391     24500     66000                                  
+SEURER       UL624       0050TOMETLREA      O                             0589     24500     66000                                  
+SEURER       UL624       0060MOLAXLREA      O                             0242     24500     66000                                  
+SEURER       UL624       0070FOCSALREA      O                             0301     24500     66000                                  
+SEURER       UL624       0080EVIKALREA      O                             0414     24500     66000                                  
+SEURER       UL624       0090GLT  LRD       O                             0210     24500     66000                                  
+SEURER       UL624       0100TLC  LRD       O                             0426     24500     66000                                  
+SEURER       UL624       0110LUNEK  EA      O                             0564     24500     66000                                  
+SEURER       UL602       0010EVRIKLREA      O                                      24500     66000                                  
+SEURER       UL602       0020NEPOTLREA      O                             0423     24500     66000                                  
+SEURER       UY570       0060TEGRILREA      O                             0537     24500     66000                                  
+SEURER       UL99        0010TLC  LRD       O                                      24500     66000                                  
+SEURER       UL99        0020KORES  EA      O                             0583     24500     66000                                  
+SEURER       UN95        0020NARKALREA      O                             0657     24500     66000                                  
+SEURER       UP981       0010LAMITLREA      O                                      24500     66000                                  
+SEURER       UP981       0020SUROLLREA      O                             0399     24500     66000                                  
+SEURER       UP981       0030NILOVLREA      O                             0368     24500     66000                                  
+SEURER       UL602       0010NEPOTLREA      O                                      24500     66000                                  
+SEURER       UL602       0020NERDILREA      O                             0467     24500     66000                                  

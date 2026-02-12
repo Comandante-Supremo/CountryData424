@@ -1,0 +1,82 @@
+SEUREAENRT   ABLIK LU           N46304710E0283732100                                                                                
+SEUREAENRT   AGAVA LU           N46441310E0283002100                                                                                
+SEUREAENRT   ANEDO LU           N46214710E0294130100                                                                                
+SEUREAENRT   ASKUT LU           N46241100E028141600                                                                                 
+SEUREAENRT   BENUS LU           N46402810E0292103100                                                                                
+SEUREAENRT   BUSES LU           N46553210E0280621100                                                                                
+SEUREAENRT   ERADA LU           N47012310E028225900                                                                                 
+SEUREAENRT   GETSU LU           N47261210E0281212100                                                                                
+SEUREAENRT   GOTIK LU           N46401700E0285147100                                                                                
+SEUREAENRT   KESEV LU           N47131410E0283002100                                                                                
+SEUREAENRT   LUSAV LU           N47111310E0285148100                                                                                
+SEUREAENRT   MURGA LU           N47084510E028443400                                                                                 
+SEUREAENRT   NELIS LU           N46555300E029071200                                                                                 
+SEUREAENRT   NITRO LU           N46552600E0284502100                                                                                
+SEUREAENRT   POGAV LU           N46465310E0280959100                                                                                
+SEUREAENRT   RENSO LU           N47052400E029040900                                                                                 
+SEUREAENRT   SORET LU           N45464710E028090600                                                                                 
+SEUREAENRT   SUVUR LU           N47192300E029232000                                                                                 
+SEUREAENRT   TUVAP LU           N46280900E029194100                                                                                 
+SEUREAENRT   UNIRA LU           N47100510E027510600                                                                                 
+SEUREAENRT   VETEK LU           N46304200E0285303100                                                                                
+SEURDB       BL    LU000790     N47475259E027485039                                                                                 
+SEURDB       B     LU000389     N47491669E027474331                                                                                 
+SEURDB       LC    LU000790     N47525267E027450007                                                                                 
+SEURDB       L     LU000389     N47512044E027461011                                                                                 
+SEURD        CHN   LU011370V    N46553507E028535694                                                                                 
+SEURD        IRG   LU011030 D   N46553512E028544329                                                                                 
+SEURD        ILD   LU010990 D   N46553797E028570438                                                                                 
+SEURD        CHN   LU011370 D   N46553507E028535694                                                                                 
+SEURER       M861        0040TUVAPLUEA      O                             1033     14000     27000                                  
+SEURER       M861        0050CHN  LUD       O                             0326     05500     19500                                  
+SEURER       M861        0060UNDOLUKEA      O                             1032     05500     19500                                  
+SEURER       N743        0110VETEKLUEA      O                             0323     05500     19500                                  
+SEURER       N743        0120CHN  LUD       O                             0249     05500     19500                                  
+SEURER       N743        0130LUSAVLUEA      O                             0157     05500     19500                                  
+SEURER       N743        0140LAVDAUKEA      O                             0566     05500     19500                                  
+SEURER       N978        0130SUVURLUEA      O                             0970     16000     27000                                  
+SEURER       N978        0140LUSAVLUEA      O                             0229     05500     19500                                  
+SEURER       N978        0150BUSESLUEA      O                             0347     05500     19500                                  
+SEURER       B499        0030POGAVLUEA      O                             0377     04500     24500                                  
+SEURER       M860        0010CHN  LUD       O                                      05500     19500                                  
+SEURER       M860        0020KESEVLUEA      O                             0240     05500     19500                                  
+SEURER       M860        0030GETSULUEA      O                             0177     05500     19500                                  
+SEURER       M860        0040INROGUKEA      O                             0811     05500     19500                                  
+SEURER       P133        0020CHN  LUD       O                             0461     05500     19500                                  
+SEURER       P133        0030UNIRALUEA      O                             0452     05500     19500                                  
+SEURER       N180        0070LUSAVLUEA      O                                      05500     19500                                  
+SEURER       N180        0080SORETLUEA      O                             0895     05500     19500                                  
+SEURER       P740        0060SORETLUEA      O                                      03500     24500                                  
+SEURER       P740        0070GLT  LRD       O                             0238     03500     24500                                  
+SEURER       L130        0010GETSULUEA      O                                      10000     19500                                  
+SEURER       L130        0020UNDOLUKEA      O                             0640     10000     19500                                  
+SEURER       N181        0050KESEVLUEA      O                             0551     05500     19500                                  
+SEURER       N181        0060SORETLUEA      O                             0877     05500     19500                                  
+SEURER       L140        0010POGAVLUEA      O                                      05500     19500                                  
+SEURER       L140        0020SURAPUKEA      O                             0728     05500     19500                                  
+SEURER       UM861       0040TUVAPLUEA      O                             1033     28000     66000                                  
+SEURER       UM861       0050CHN  LUD       O                             0326     20000     66000                                  
+SEURER       UM861       0060UNDOLUKEA      O                             1032     20000     66000                                  
+SEURER       UN743       0090LUSAVLUEA      O                             0566     20000     66000                                  
+SEURER       UN743       0100CHN  LUD       O                             0157     20000     66000                                  
+SEURER       UN743       0110TAVRUUKEA      O                             0572     20000     66000                                  
+SEURER       UN978       0120BUSESLUEA      O                             0583     24500     66000                                  
+SEURER       UN978       0130LUSAVLUEA      O                             0347     20000     66000                                  
+SEURER       UN978       0140SUVURLUEA      O                             0229     28000     66000                                  
+SEURER       UN978       0150BOGMAUKEA      O                             0970     28000     66000                                  
+SEURER       UB499       0010POGAVLUEA      O                                      24500     66000                                  
+SEURER       UB499       0020BCU  LRD       O                             0576     24500     66000                                  
+SEURER       UP133       0090CHN  LUD       O                             0461     20000     66000                                  
+SEURER       UP133       0100UNIRALUEA      O                             0452     20000     66000                                  
+SEURER       UM860       0050CHN  LUD       O                                      20000     66000                                  
+SEURER       UM860       0060GETSULUEA      O                             0418     20000     66000                                  
+SEURER       UM860       0070INROGUKEA      O                             0811     20000     66000                                  
+SEURER       UP740       0010CHN  LUD       O                                      20000     66000                                  
+SEURER       UP740       0020SORETLUEA      O                             0755     20000     66000                                  
+SEURER       UP740       0030GLT  LRD       O                             0238     24500     66000                                  
+SEURER       UN181       0060SORETLUEA      O                             1428     20000     66000                                  
+SEURER       UN180       0060LUSAVLUEA      O                                      20000     66000                                  
+SEURER       UN180       0070SORETLUEA      O                             0895     20000     66000                                  
+SEURER       UL130       0020GETSULUEA      O                             0919     20000     66000                                  
+SEURER       UL130       0030UNDOLUKEA      O                             0640     20000     66000                                  
+SEURER       UL140       0030POGAVLUEA      O                             0728     20000     66000                                  
