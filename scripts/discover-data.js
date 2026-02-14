@@ -7,7 +7,7 @@
 //   - Customer code prefixes
 //   - Total inventory summary
 //
-// Run with: node scripts/discover-data.mjs
+// Run with: node scripts/discover-data.js
 // ============================================================
 
 import { readdir, readFile } from "fs/promises"
@@ -21,12 +21,17 @@ const EXCLUDED = new Set(["FAACIFP18.zip"])
 /**
  * Classify a single ARINC 424 record line.
  * Returns the record type based on section/subsection codes.
+ *
+ * ARINC 424 fixed-width format (positions are 0-indexed):
+ *   [0]     = Record type ('S' = standard)
+ *   [1..3]  = Customer code (3 chars, e.g. 'CAN' for Canada)
+ *   [4]     = Section code  (e.g. 'E' = Enroute, 'D' = Navaid)
+ *   [5]     = Subsection    (e.g. 'A' = Waypoint, 'R' = Route, 'B' = NDB)
  */
 function classifyRecord(line) {
   if (line.length < 6) return "TOO_SHORT"
   if (line[0] !== "S") return "NON_STANDARD"
 
-  const customerCode = line.substring(1, 4)
   const sectionChar = line[4]
   const subsectionChar = line[5]
 
@@ -66,7 +71,7 @@ async function main() {
   console.log(`Found ${txtFiles.length} data files\n`)
 
   // Track global totals
-  let globalTotals = {
+  const globalTotals = {
     files: 0,
     totalRecords: 0,
     EA_WAYPOINT: 0,
