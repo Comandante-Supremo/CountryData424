@@ -10,10 +10,12 @@
 // Run with: node scripts/discover-data.js
 // ============================================================
 
-import { readdir, readFile } from "fs/promises"
-import { join } from "path"
+const fs = require("fs")
+const path = require("path")
+const { readdir, readFile } = fs.promises
 
-const DATA_DIR = process.cwd()
+// Data files live in the project root
+const DATA_DIR = "/vercel/share/v0-project"
 
 // Files to skip
 const EXCLUDED = new Set(["FAACIFP18.zip"])
@@ -85,7 +87,7 @@ async function main() {
   const results = []
 
   for (const filename of txtFiles) {
-    const filepath = join(DATA_DIR, filename)
+    const filepath = path.join(DATA_DIR, filename)
     const content = await readFile(filepath, "utf-8")
     const lines = content.split("\n").filter((l) => l.trim().length > 0)
 
