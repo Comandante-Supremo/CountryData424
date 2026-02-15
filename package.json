@@ -1,6 +1,7 @@
 {
   "name": "countrydata424-api",
   "version": "0.1.0",
+  "description": "ARINC 424 Data API",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
