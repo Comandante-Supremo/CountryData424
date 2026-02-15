@@ -49,30 +49,32 @@ export default function HomePage() {
   }, [])
 
   return (
-    <main className="min-h-screen bg-background text-foreground">
+    <main className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
       <div className="mx-auto max-w-6xl px-4 py-10">
         <header className="mb-8">
-          <h1 className="text-3xl font-bold tracking-tight font-sans">
+          <h1 className="text-3xl font-bold tracking-tight font-sans text-[var(--foreground)]">
             ARINC 424 Data API
           </h1>
-          <p className="mt-2 text-muted-foreground">
+          <p className="mt-2 text-[var(--muted-foreground)]">
             Phase 1 -- Data Discovery and Inventory
           </p>
         </header>
 
         {loading && (
-          <div className="flex items-center gap-3 rounded-lg border border-border bg-card p-6">
-            <div className="h-5 w-5 animate-spin rounded-full border-2 border-muted-foreground border-t-primary" />
-            <p className="text-muted-foreground">
+          <div className="flex items-center gap-3 rounded-lg border border-[var(--border)] bg-[var(--card)] p-6">
+            <div className="h-5 w-5 animate-spin rounded-full border-2 border-[var(--muted-foreground)] border-t-[var(--accent)]" />
+            <p className="text-[var(--muted-foreground)]">
               Scanning data files... this reads all 170 country files.
             </p>
           </div>
         )}
 
         {error && (
-          <div className="rounded-lg border border-destructive/50 bg-destructive/10 p-6">
-            <p className="font-medium text-destructive">Discovery failed</p>
-            <p className="mt-1 text-sm text-destructive/80">{error}</p>
+          <div className="rounded-lg border border-[var(--destructive)] bg-[var(--destructive)]/10 p-6">
+            <p className="font-medium text-[var(--destructive)]">
+              Discovery failed
+            </p>
+            <p className="mt-1 text-sm text-[var(--destructive)]">{error}</p>
           </div>
         )}
 

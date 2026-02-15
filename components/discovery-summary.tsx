@@ -1,5 +1,3 @@
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-
 interface SummaryProps {
   summary: {
     totalFiles: number
@@ -28,16 +26,17 @@ export function DiscoverySummary({ summary }: SummaryProps) {
   return (
     <div className="grid grid-cols-2 gap-4 md:grid-cols-4">
       {stats.map((stat) => (
-        <Card key={stat.label}>
-          <CardHeader className="pb-2">
-            <CardTitle className="text-sm font-medium text-muted-foreground">
-              {stat.label}
-            </CardTitle>
-          </CardHeader>
-          <CardContent>
-            <p className="text-2xl font-bold">{stat.value}</p>
-          </CardContent>
-        </Card>
+        <div
+          key={stat.label}
+          className="rounded-lg border border-[var(--border)] bg-[var(--card)] p-4"
+        >
+          <p className="text-sm font-medium text-[var(--muted-foreground)]">
+            {stat.label}
+          </p>
+          <p className="mt-1 text-2xl font-bold text-[var(--card-foreground)]">
+            {stat.value}
+          </p>
+        </div>
       ))}
     </div>
   )
