@@ -1,6 +1,6 @@
 {
   "name": "countrydata424-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ARINC 424 Data API",
   "private": true,
   "scripts": {
